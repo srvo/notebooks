@@ -1,0 +1,81 @@
+# Environment variables and secrets
+.env
+.env.*
+*.env
+.env.local
+.env.*.local
+.env.development
+.env.test
+.env.production
+
+# Keys and credentials
+*.key
+*.pem
+*.crt
+*.cert
+*.pfx
+*.p12
+credentials.json
+*_credentials.json
+.htpasswd
+.password
+.secret
+secrets/
+keys/
+
+# SSL/TLS certificates
+certs/
+certificates/
+letsencrypt/
+ssl/
+*.csr
+*.srl
+
+# Runtime and data directories
+data/
+vw-data/
+fail2ban/data/
+jupyter_notebooks/
+jupyter_config/
+dagster_home/
+searxng_data/
+logs/
+*.log
+*.log.*
+
+# System and IDE files
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.settings/
+.classpath
+
+# Docker and deployment
+volumes/
+*.sock
+.docker/
+docker-compose.override.yml
+.env.docker
+
+# Development tools
+.aider*
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.bak
+*.backup

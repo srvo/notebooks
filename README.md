@@ -1,15 +1,104 @@
 # Secure Infrastructure Setup
 
-This repository contains a secure Docker-based infrastructure setup with Nginx reverse proxy, Cloudflare Tunnel integration, and various security measures.
+This repository contains a secure Docker-based infrastructure setup with Traefik reverse proxy, Cloudflare Tunnel integration, and various security measures.
+
+## Environment Variables
+
+### GitHub Actions Secrets
+These variables need to be set in your GitHub repository secrets:
+```bash
+# SSH Configuration
+SSH_PRIVATE_KEY       # Private SSH key for deployment
+SSH_KNOWN_HOSTS       # Output from ssh-keyscan -H 5.78.132.88
+SSH_USER=srvo        # Deployment user
+SSH_HOST=5.78.132.88 # Server hostname
+```
+
+### Service Configuration
+```bash
+# Cloudflare Configuration
+CF_TUNNEL_TOKEN      # Cloudflare tunnel token
+CF_ZONE_ID          # Cloudflare zone ID for ec1c.com
+CF_API_TOKEN        # Cloudflare API token with DNS edit permissions
+
+# AWS Configuration
+AWS_ACCESS_KEY_ID    # AWS access key for S3 and logging
+AWS_SECRET_ACCESS_KEY# AWS secret key
+AWS_DEFAULT_REGION   # AWS region (e.g., us-east-1)
+S3_BACKUP_BUCKET     # Bucket for backups
+S3_DATA_BUCKET       # Bucket for data storage
+```
+
+### Application Configuration
+```bash
+# Jupyter Configuration
+JUPYTER_TOKEN        # Secure token for Jupyter access
+JUPYTER_MEMORY_LIMIT=0  # No memory limit (use available server memory)
+JUPYTER_CPU_LIMIT=0    # No CPU limit (use all available cores)
+JUPYTER_ENABLE_LAB=yes # Use JupyterLab interface
+JUPYTER_ALLOW_ROOT=yes # Allow root access for system operations
+
+# Dagster Configuration
+DAGSTER_HOME=/opt/dagster/dagster_home
+DAGSTER_MEMORY_LIMIT=0  # No memory limit
+DAGSTER_CPU_LIMIT=0     # No CPU limit
+DAGSTER_MAX_WORKERS=-1  # Use all available cores for workers
+DAGSTER_COMPUTE_LOG_LEVEL=DEBUG  # Detailed compute logs
+
+# SearXNG Configuration
+SEARXNG_BASE_URL=https://app.ec1c.com/searxng
+
+# Vaultwarden Configuration
+VW_ADMIN_TOKEN       # Admin token for Vaultwarden
+VW_DOMAIN=https://vw.ec1c.com
+
+# Traefik Configuration
+TRAEFIK_ACME_EMAIL=sloane@srvo.org  # Email for Let's Encrypt notifications
+```
+
+### Security Configuration
+```bash
+# Basic Auth Credentials
+BASIC_AUTH_USER      # Username for basic auth
+BASIC_AUTH_PASS      # Password hash for basic auth
+```
+
+### Resource Configuration
+```bash
+# Compute Resources
+COMPUTE_PRIORITY_SERVICES="jupyter,dagster"  # Services with resource priority
+ENABLE_COMPUTE_LIMITS=false  # Disable container resource limits
+ENABLE_SWAP=true  # Enable swap for memory-intensive operations
+
+# Monitoring
+LOG_LEVEL=info       # Log level for all services
+RETENTION_DAYS=30    # Log retention period
+```
 
 ## Services
 
-- **Jupyter Notebook**: Data science environment
-- **Dagster**: Data pipeline orchestration
+- **Jupyter Notebook**: Data science environment with unlimited compute resources
+- **Dagster**: Data pipeline orchestration with full server capability
 - **SearXNG**: Privacy-focused search engine
-- **Nginx**: Reverse proxy with SSL termination
+- **Traefik**: Reverse proxy with automatic SSL
 - **Cloudflared**: Secure tunnel for external access
+- **Vaultwarden**: Password manager
 - **Fail2ban**: Intrusion prevention system
+
+## Resource Management
+
+### Compute Priority Services
+Jupyter and Dagster are configured for maximum performance:
+- No memory limits
+- Access to all CPU cores
+- Unlimited locked memory
+- High file descriptor limits
+- Root access for system operations
+
+### Other Services
+- Standard resource limits
+- Automatic health checks
+- Graceful restart policies
 
 ## Security Features
 
@@ -22,7 +111,7 @@ This repository contains a secure Docker-based infrastructure setup with Nginx r
 
 ### Access Control
 - Basic authentication for sensitive endpoints
-- Resource limits on all containers
+- Resource limits on non-priority services
 - Automatic container health checks
 - Secure headers configuration
 
@@ -30,230 +119,58 @@ This repository contains a secure Docker-based infrastructure setup with Nginx r
 - AWS CloudWatch logging integration
 - Health check endpoints
 - Container resource monitoring
+- Configurable log retention
 
-## Configuration Files
+## Deployment
 
-### Docker Compose
-- `docker-compose.yml`: Main service configuration
-- `docker-compose.fail2ban.yml`: Fail2ban service configuration
-
-### Nginx
-- `nginx/conf.d/reverse-proxy.conf`: Reverse proxy configuration
-- `nginx/.htpasswd`: Basic authentication credentials
-- `nginx/certs/`: SSL certificates directory
-
-### Cloudflare
-- `cloudflared/config.yml`: Tunnel configuration
-- `cloudflared/credentials.json`: Tunnel credentials
-
-### Fail2ban
-- `fail2ban/jail.d/custom.conf`: Ban rules and configuration
-
-## Deployment Instructions
-
-### Prerequisites
-1. Install required packages:
-   ```bash
-   sudo apt update
-   sudo apt install -y docker.io docker-compose nginx apache2-utils
-   ```
-
-2. Configure Docker permissions:
-   ```bash
-   sudo usermod -aG docker $USER
-   newgrp docker
-   ```
-
-### Deployment Order
-Services must be started in this specific order:
-
-1. **Core Services**
-   ```bash
-   docker-compose up -d jupyter dagster searxng
-   ```
-
-2. **Reverse Proxy**
-   ```bash
-   docker-compose up -d reverse_proxy
-   ```
-
-3. **Cloudflare Tunnel**
-   ```bash
-   docker-compose up -d cloudflared
-   ```
-
-4. **Security Services**
-   ```bash
-   docker-compose -f docker-compose.fail2ban.yml up -d
-   ```
-
-5. **Data Services**
-   ```bash
-   docker-compose up -d s3_client backup
-   ```
-
-### Configuration Steps
-
-1. **SSL Certificates**
-   - Place your SSL certificates in `nginx/certs/`:
-     - `fullchain.pem`
-     - `privkey.pem`
-
-2. **Authentication**
-   ```bash
-   # Generate .htpasswd file
-   htpasswd -c ./nginx/.htpasswd sloane@ethicic.com
-   # When prompted, enter: order-of-the-first-state
-   ```
-
-3. **Environment Variables**
-   ```bash
-   # Copy example .env file
-   cp .env.example .env
-   # Edit with your configurations
-   nano .env
-   ```
-
-4. **Cloudflare Setup**
-   - Create a Cloudflare Tunnel
-   - Update `cloudflared/config.yml` with your tunnel ID
-   - Place tunnel credentials in `cloudflared/credentials.json`
-
-### Verification Steps
-
-1. Check service status:
-   ```bash
-   docker-compose ps
-   ```
-
-2. Verify API endpoints:
-   ```bash
-   curl -I https://app.ec1c.com/api/health
-   curl -I https://app.ec1c.com/api/jupyter/status
-   curl -I https://app.ec1c.com/api/dagster/status
-   ```
-
-3. Check fail2ban status:
-   ```bash
-   docker exec fail2ban fail2ban-client status
-   ```
-
-4. Verify Cloudflare tunnel:
-   ```bash
-   docker logs cloudflared
-   ```
-
-### Maintenance
-
-1. **Service Updates**
-   ```bash
-   docker-compose pull
-   docker-compose up -d
-   ```
-
-2. **Log Rotation**
-   ```bash
-   docker-compose exec reverse_proxy logrotate -f /etc/logrotate.d/nginx
-   ```
-
-3. **Backup Verification**
-   ```bash
-   docker-compose exec backup aws s3 ls s3://ethicic-backups/
-   ```
-
-## Security Best Practices
-
-1. **Access Control**
-   - Use strong passwords for basic authentication
-   - Regularly rotate credentials
-   - Limit access to sensitive endpoints
-
-2. **Monitoring**
-   - Regularly check fail2ban logs
-   - Monitor container resource usage
-   - Review access logs
-
-3. **Maintenance**
-   - Keep containers updated
-   - Regularly rotate SSL certificates
-   - Update security configurations
-
-4. **Resource Management**
-   - Monitor container resource limits
-   - Adjust limits based on usage
-   - Enable automatic container restarts
-
-## Rate Limiting
-
-The Nginx configuration includes rate limiting:
-- 10 requests per second per IP
-- Burst of 5 requests allowed
-- Applies to all protected endpoints
-
-## Fail2ban Configuration
-
-Current settings:
-- 3 retry attempts within 30 minutes
-- 3-day ban time
-- Exponential increase for repeat offenders
-- Monitors SSH and web traffic
-
-## Environment Variables
-
-Required environment variables:
-```env
-# Jupyter
-JUPYTER_TOKEN=your-secure-token
-
-# Dagster
-DAGSTER_HOME=/opt/dagster/dagster_home
-
-# SearXNG
-SEARXNG_BASE_URL=https://searxng.yourdomain.com
-
-# Cloudflare
-TUNNEL_TOKEN=your-cloudflare-tunnel-token
-
-# AWS (for logging)
-AWS_ACCESS_KEY_ID=your-access-key-id
-AWS_SECRET_ACCESS_KEY=your-secret-access-key
-AWS_DEFAULT_REGION=your-region
+1. Set up environment variables:
+```bash
+cp .env.example .env
+# Edit .env with your configurations
 ```
 
-## Resource Limits
+2. Add GitHub secrets for CI/CD:
+- Navigate to Settings > Secrets and variables > Actions
+- Add all required secrets from the Environment Variables section
 
-Container resource limits:
-- Jupyter: 1 CPU, 512MB RAM
-- Dagster: 1 CPU, 512MB RAM
-- Nginx: 1 CPU, 512MB RAM
+3. Deploy using GitHub Actions:
+- Push to main branch
+- GitHub Actions will validate, test, and deploy
 
-## Troubleshooting
+4. Verify deployment:
+```bash
+docker-compose ps
+docker-compose logs
+```
 
-1. **Check Service Status**
-   ```bash
-   docker-compose ps
-   ```
+## Maintenance
 
-2. **View Logs**
-   ```bash
-   docker-compose logs [service_name]
-   ```
+### Updating Services
+```bash
+# Pull latest images
+docker-compose pull
 
-3. **Check Fail2ban Status**
-   ```bash
-   docker exec fail2ban fail2ban-client status
-   ```
+# Restart services
+docker-compose up -d
+```
 
-4. **Test Nginx Configuration**
-   ```bash
-   docker exec reverse_proxy nginx -t
-   ```
+### Checking Resources
+```bash
+# View resource usage
+docker stats
 
-## Contributing
+# Check service health
+docker-compose ps
+```
 
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
+### Log Management
+```bash
+# View service logs
+docker-compose logs [service_name]
+
+# Check fail2ban status
+docker-compose exec fail2ban fail2ban-client status
+```
 
 ## License
 
