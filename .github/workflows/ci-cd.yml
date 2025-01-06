@@ -78,7 +78,38 @@ jobs:
       uses: docker/setup-buildx-action@v2
     
     - name: Validate Docker Compose files
+      env:
+        HETZNER_S3_ACCESS_KEY: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
+        HETZNER_S3_SECRET_KEY: ${{ secrets.HETZNER_S3_SECRET_KEY }}
+        AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
+        S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
+        S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
+        JUPYTER_TOKEN: order-of-ther-first-state
+        JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ALLOW_ROOT: "yes"
+        DAGSTER_HOME: /opt/dagster/dagster_home
+        LOG_LEVEL: info
       run: |
+        # Create test environment
+        mkdir -p nginx/certs cloudflared
+        
+        # Create .env with configuration
+        cat > .env << EOL
+        JUPYTER_TOKEN=${JUPYTER_TOKEN}
+        JUPYTER_ENABLE_LAB=${JUPYTER_ENABLE_LAB}
+        JUPYTER_ALLOW_ROOT=${JUPYTER_ALLOW_ROOT}
+        DAGSTER_HOME=${DAGSTER_HOME}
+        LOG_LEVEL=${LOG_LEVEL}
+        AWS_ACCESS_KEY_ID=${HETZNER_S3_ACCESS_KEY}
+        AWS_SECRET_ACCESS_KEY=${HETZNER_S3_SECRET_KEY}
+        AWS_ENDPOINT_URL=${AWS_ENDPOINT_URL}
+        S3_BACKUP_BUCKET=${S3_BACKUP_BUCKET}
+        S3_DATA_BUCKET=${S3_DATA_BUCKET}
+        EOL
+        
+        # Create default network
+        docker network create my_network || true
+        
         echo "Validating docker-compose.yml..."
         docker compose -f docker-compose.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
         
@@ -100,21 +131,42 @@ jobs:
       uses: docker/setup-buildx-action@v2
       
     - name: Create test environment
+      env:
+        JUPYTER_TOKEN: order-of-ther-first-state
+        JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ALLOW_ROOT: "yes"
+        DAGSTER_HOME: /opt/dagster/dagster_home
+        LOG_LEVEL: info
+        AWS_ACCESS_KEY_ID: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HETZNER_S3_SECRET_KEY }}
+        AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
+        S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
+        S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
       run: |
         echo "Creating test environment..."
         mkdir -p nginx/certs cloudflared
         
-        # Create .env with non-sensitive configuration only
+        # Create .env with configuration
         cat > .env << EOL
-        JUPYTER_TOKEN=test-token
-        JUPYTER_ENABLE_LAB=yes
-        JUPYTER_ALLOW_ROOT=yes
-        DAGSTER_HOME=/opt/dagster/dagster_home
-        LOG_LEVEL=info
+        JUPYTER_TOKEN=${JUPYTER_TOKEN}
+        JUPYTER_ENABLE_LAB=${JUPYTER_ENABLE_LAB}
+        JUPYTER_ALLOW_ROOT=${JUPYTER_ALLOW_ROOT}
+        DAGSTER_HOME=${DAGSTER_HOME}
+        LOG_LEVEL=${LOG_LEVEL}
+        AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+        AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+        AWS_ENDPOINT_URL=${AWS_ENDPOINT_URL}
+        S3_BACKUP_BUCKET=${S3_BACKUP_BUCKET}
+        S3_DATA_BUCKET=${S3_DATA_BUCKET}
         EOL
         
     - name: Build and test containers
       env:
+        JUPYTER_TOKEN: order-of-ther-first-state
+        JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ALLOW_ROOT: "yes"
+        DAGSTER_HOME: /opt/dagster/dagster_home
+        LOG_LEVEL: info
         AWS_ACCESS_KEY_ID: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
         AWS_SECRET_ACCESS_KEY: ${{ secrets.HETZNER_S3_SECRET_KEY }}
         AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
@@ -131,6 +183,8 @@ jobs:
         sleep 30
         
     - name: Test service health
+      env:
+        JUPYTER_TOKEN: order-of-ther-first-state
       run: |
         echo "Testing Jupyter health..."
         curl -f http://localhost:8888/api/status || (echo "Error: Jupyter health check failed"; exit 1)
@@ -142,6 +196,17 @@ jobs:
         curl -f http://localhost:8889/status || (echo "Error: SearxNG health check failed"; exit 1)
         
     - name: Test fail2ban integration
+      env:
+        JUPYTER_TOKEN: order-of-ther-first-state
+        JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ALLOW_ROOT: "yes"
+        DAGSTER_HOME: /opt/dagster/dagster_home
+        LOG_LEVEL: info
+        AWS_ACCESS_KEY_ID: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HETZNER_S3_SECRET_KEY }}
+        AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
+        S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
+        S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
       run: |
         echo "Starting fail2ban..."
         docker compose -f docker-compose.fail2ban.yml up -d || (echo "Error: Failed to start fail2ban"; exit 1)
@@ -157,6 +222,17 @@ jobs:
         
     - name: Cleanup
       if: always()
+      env:
+        JUPYTER_TOKEN: order-of-ther-first-state
+        JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ALLOW_ROOT: "yes"
+        DAGSTER_HOME: /opt/dagster/dagster_home
+        LOG_LEVEL: info
+        AWS_ACCESS_KEY_ID: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HETZNER_S3_SECRET_KEY }}
+        AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
+        S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
+        S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
       run: |
         echo "Cleaning up containers..."
         docker compose down -v || (echo "Error: Failed to clean up containers"; exit 1)
@@ -184,15 +260,40 @@ jobs:
         SSH_USER: ${{ secrets.SSH_USER }}
         SSH_HOST: ${{ secrets.SSH_HOST }}
         DEPLOY_PATH: /home/${{ secrets.SSH_USER }}/infrastructure
+        JUPYTER_TOKEN: order-of-ther-first-state
+        JUPYTER_ENABLE_LAB: "yes"
+        JUPYTER_ALLOW_ROOT: "yes"
+        DAGSTER_HOME: /opt/dagster/dagster_home
+        LOG_LEVEL: info
+        AWS_ACCESS_KEY_ID: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.HETZNER_S3_SECRET_KEY }}
+        AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
+        S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
+        S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
       run: |
         echo "Creating deployment script..."
-        echo "#!/bin/bash
+        cat > deploy.sh << 'EOF'
+        #!/bin/bash
         set -e
-        cd \$DEPLOY_PATH
+        cd $DEPLOY_PATH
 
         # Ensure .env file exists and is not in git
         touch .env
         echo '.env' >> .gitignore
+
+        # Create .env with configuration
+        cat > .env << EOFENV
+        JUPYTER_TOKEN=order-of-ther-first-state
+        JUPYTER_ENABLE_LAB=yes
+        JUPYTER_ALLOW_ROOT=yes
+        DAGSTER_HOME=/opt/dagster/dagster_home
+        LOG_LEVEL=info
+        AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+        AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+        AWS_ENDPOINT_URL=${AWS_ENDPOINT_URL}
+        S3_BACKUP_BUCKET=${S3_BACKUP_BUCKET}
+        S3_DATA_BUCKET=${S3_DATA_BUCKET}
+        EOFENV
 
         # Pull latest code without overwriting .env
         git stash -u
@@ -200,12 +301,14 @@ jobs:
         git stash pop || true
 
         # Update containers
-        docker-compose pull
-        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml down
-        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d
+        docker compose pull
+        docker compose -f docker-compose.yml -f docker-compose.fail2ban.yml down
+        docker compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d
 
         # Cleanup
-        docker system prune -f" > deploy.sh
+        docker system prune -f
+        EOF
+
         chmod +x deploy.sh
         
         echo "Copying deployment script to production server..."
