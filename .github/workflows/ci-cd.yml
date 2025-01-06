@@ -102,14 +102,22 @@ jobs:
       run: |
         echo "Creating test environment..."
         mkdir -p nginx/certs cloudflared
-        touch .env
-        echo "JUPYTER_TOKEN=test-token" >> .env
-        echo "TUNNEL_TOKEN=${{ secrets.CF_TUNNEL_TOKEN }}" >> .env
-        echo "AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }}" >> .env
-        echo "AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}" >> .env
-        echo "AWS_DEFAULT_REGION=${{ secrets.AWS_DEFAULT_REGION }}" >> .env
+        
+        # Create .env with non-sensitive configuration only
+        cat > .env << EOL
+        JUPYTER_TOKEN=test-token
+        JUPYTER_ENABLE_LAB=yes
+        JUPYTER_ALLOW_ROOT=yes
+        DAGSTER_HOME=/opt/dagster/dagster_home
+        LOG_LEVEL=info
+        EOL
         
     - name: Build and test containers
+      env:
+        TUNNEL_TOKEN: ${{ secrets.CF_TUNNEL_TOKEN }}
+        AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
+        AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
+        AWS_DEFAULT_REGION: ${{ secrets.AWS_DEFAULT_REGION }}
       run: |
         echo "Starting containers..."
         docker-compose -f docker-compose.yml up -d || (echo "Error: Failed to start containers"; exit 1)
