@@ -9,9 +9,6 @@ class DataProcessor:
             logger.debug(f"Processing data: {data}")
             # Add your data processing logic here
             processed_data = {
-                'processed': True,
-                'original_data': data
-            }
             logger.info("Data processed successfully.")
             return processed_data
                 'processed': True,

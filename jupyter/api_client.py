@@ -21,7 +21,7 @@ class APIClient:
             return response.json()
         except requests.exceptions.RequestException as e:
             logger.error(f"API request failed: {e}")
-            raise import requests
+            raise
 from config import Config
 from logger import setup_logger
 
