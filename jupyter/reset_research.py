@@ -1,4 +1,7 @@
 from db import get_connection
+from logger import setup_logger
+
+logger = setup_logger('reset_research', 'logs/reset_research.log')
 
 def reset_research_data():
     """Reset all research-related database tables"""
@@ -10,12 +13,12 @@ def reset_research_data():
         for table in tables:
             try:
                 cursor.execute(f'DELETE FROM {table}')
-                print(f'Cleared {table}')
+                logger.info(f'Cleared {table}')
             except Exception as e:
-                print(f'Error clearing {table}: {str(e)}')
+                logger.error(f'Error clearing {table}: {str(e)}')
         
         conn.commit()
-        print('Research data reset complete.')
+        logger.info('Research data reset complete.')
 
 if __name__ == "__main__":
-    reset_research_data() 
+    reset_research_data()
