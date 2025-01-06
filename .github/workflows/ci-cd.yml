@@ -181,10 +181,28 @@ jobs:
         echo "Contents of middlewares.yml:"
         cat traefik/dynamic/middlewares.yml || echo "middlewares.yml not found"
         
+        echo "Pulling Traefik image..."
+        docker pull traefik:v2.10 || (echo "Error: Failed to pull Traefik image"; exit 1)
+        
         echo "Validating Traefik configuration..."
         docker run --rm -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
           -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
           traefik:v2.10 traefik validate --check --debug || (echo "Error: Traefik configuration validation failed"; exit 1)
+        
+        echo "Testing Traefik healthcheck..."
+        docker run -d --name traefik-test -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
+          -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
+          -p 8080:8080 \
+          traefik:v2.10 || (echo "Error: Failed to start Traefik container"; exit 1)
+        
+        echo "Waiting for Traefik to initialize..."
+        sleep 10
+        
+        echo "Checking Traefik health..."
+        curl -f http://localhost:8080/ping || (echo "Error: Traefik healthcheck failed"; exit 1)
+        
+        echo "Stopping test container..."
+        docker stop traefik-test && docker rm traefik-test
 
   test-containers:
     runs-on: ubuntu-latest
