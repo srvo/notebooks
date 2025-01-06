@@ -57,13 +57,6 @@ services:
       - "traefik.http.middlewares.auth.basicauth.usersfile=/etc/traefik/.htpasswd"
     networks:
       - traefik_network
-    labels:
-      - "traefik.enable=true"
-      - "traefik.http.routers.jupyter.rule=Host(`jupyter.ec1c.com`)"
-      - "traefik.http.routers.jupyter.entrypoints=websecure"
-      - "traefik.http.routers.jupyter.tls=true"
-      - "traefik.http.routers.jupyter.tls.certresolver=letsencrypt"
-      - "traefik.http.routers.jupyter.middlewares=auth,ratelimit@file"
 
   jupyter:
     image: jupyter/datascience-notebook:latest
@@ -110,6 +103,13 @@ services:
     depends_on:
       traefik:
         condition: service_healthy
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.dagster.rule=Host(`dagster.ec1c.com`)"
+      - "traefik.http.routers.dagster.entrypoints=websecure"
+      - "traefik.http.routers.dagster.tls=true"
+      - "traefik.http.routers.dagster.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.dagster.middlewares=auth"
 
   dagster:
     image: python:3.10-slim
@@ -172,11 +172,10 @@ services:
       retries: 3
       start_period: 30s
     logging:
-      driver: "awslogs"
+      driver: "json-file"
       options:
-        awslogs-region: "${AWS_DEFAULT_REGION:-us-east-1}"
-        awslogs-group: "/docker/searxng"
-        awslogs-stream: "searxng"
+        max-size: "10m"
+        max-file: "3"
     depends_on:
       traefik:
         condition: service_healthy
@@ -271,7 +270,7 @@ services:
       start_period: 30s
 
   backup:
-    image: ubuntu:latest
+    image: alpine:3.19
     container_name: backup
     restart: unless-stopped
     user: "1000:1000"

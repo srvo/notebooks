@@ -90,7 +90,15 @@ required_vars=(
   "CF_TUNNEL_TOKEN"
   "HETZNER_S3_ACCESS_KEY"
   "HETZNER_S3_SECRET_KEY"
+  "S3_DATA_BUCKET"
+  "S3_BACKUP_BUCKET"
 )
+
+# Validate S3 credentials
+if [ -z "${HETZNER_S3_ACCESS_KEY}" ] || [ -z "${HETZNER_S3_SECRET_KEY}" ]; then
+  echo "HETZNER_S3_ACCESS_KEY and HETZNER_S3_SECRET_KEY environment variables are required"
+  exit 1
+fi
 
 for var in "${required_vars[@]}"; do
   if [ -z "${!var}" ]; then
@@ -102,12 +110,22 @@ done
 # Function to restart services with error handling
 restart_service() {
     local service=$1
-    echo "Restarting $service..."
-    if ! docker-compose up -d $service; then
-        echo "Failed to restart $service"
-        return 1
-    fi
-    return 0
+    local max_attempts=3
+    local attempt=1
+    
+    while [ $attempt -le $max_attempts ]; do
+        echo "Attempt $attempt: Restarting $service..."
+        if docker-compose up -d $service; then
+            echo "$service restarted successfully"
+            return 0
+        fi
+        echo "Failed to restart $service, retrying in 10 seconds..."
+        sleep 10
+        attempt=$((attempt + 1))
+    done
+    
+    echo "Failed to restart $service after $max_attempts attempts"
+    return 1
 }
 
 # Start core services

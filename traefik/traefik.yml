@@ -6,6 +6,7 @@ api:
   http:
     middlewares:
       - auth
+      - ratelimit
 
 ping: true
 
