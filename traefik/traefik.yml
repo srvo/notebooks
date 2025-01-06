@@ -41,6 +41,9 @@ http:
       rateLimit:
         average: 100
         burst: 50
+    auth:
+      basicAuth:
+        usersFile: "/etc/traefik/.htpasswd"
 
   websecure:
     address: ":443"

@@ -105,11 +105,11 @@ services:
         condition: service_healthy
     labels:
       - "traefik.enable=true"
-      - "traefik.http.routers.dagster.rule=Host(`dagster.ec1c.com`)"
-      - "traefik.http.routers.dagster.entrypoints=websecure"
-      - "traefik.http.routers.dagster.tls=true"
-      - "traefik.http.routers.dagster.tls.certresolver=letsencrypt"
-      - "traefik.http.routers.dagster.middlewares=auth"
+      - "traefik.http.routers.jupyter.rule=Host(`jupyter.ec1c.com`)"
+      - "traefik.http.routers.jupyter.entrypoints=websecure"
+      - "traefik.http.routers.jupyter.tls=true"
+      - "traefik.http.routers.jupyter.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.jupyter.middlewares=auth"
 
   dagster:
     image: python:3.10-slim
@@ -148,6 +148,13 @@ services:
       timeout: 10s
       retries: 3
       start_period: 30s
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.dagster.rule=Host(`dagster.ec1c.com`)"
+      - "traefik.http.routers.dagster.entrypoints=websecure"
+      - "traefik.http.routers.dagster.tls=true"
+      - "traefik.http.routers.dagster.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.dagster.middlewares=auth"
 
   searxng:
     image: searxng/searxng:latest
@@ -166,7 +173,7 @@ services:
     environment:
       - SEARXNG_BASE_URL=https://app.ec1c.com/searxng
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:8889/status"]
+      test: ["CMD", "curl", "-f", "http://localhost:8889/status"]
       interval: 30s
       timeout: 10s
       retries: 3
