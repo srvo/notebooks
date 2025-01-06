@@ -36,7 +36,6 @@ jobs:
       
     - name: Create test environment
       run: |
-        # Create required directories and files
         mkdir -p nginx/certs cloudflared
         touch .env
         echo "JUPYTER_TOKEN=test-token" >> .env
@@ -53,13 +52,8 @@ jobs:
         
     - name: Test service health
       run: |
-        # Test Jupyter
         curl -f http://localhost:8888/api/status || exit 1
-        
-        # Test Dagster
         curl -f http://localhost:3000/health || exit 1
-        
-        # Test SearXNG
         curl -f http://localhost:8889/status || exit 1
         
     - name: Run security scans
@@ -75,9 +69,7 @@ jobs:
       run: |
         docker-compose -f docker-compose.fail2ban.yml up -d
         sleep 10
-        # Test fail2ban status
         docker-compose exec -T fail2ban fail2ban-client status
-        # Check logs
         docker-compose logs fail2ban
         
     - name: Cleanup
@@ -94,31 +86,63 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
-    - name: Configure SSH
-      uses: webfactory/ssh-agent@v0.7.0
+    - name: Install SSH key
+      uses: shimataro/ssh-key-action@v2
       with:
-        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-        
-    - name: Add known hosts
-      run: |
-        mkdir -p ~/.ssh
-        ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+        key: ${{ secrets.SSH_PRIVATE_KEY }}
+        known_hosts: ${{ secrets.SSH_KNOWN_HOSTS }}
+        if_key_exists: replace
         
     - name: Deploy to production
       env:
         SSH_USER: ${{ secrets.SSH_USER }}
         SSH_HOST: ${{ secrets.SSH_HOST }}
+        DEPLOY_PATH: /home/${{ secrets.SSH_USER }}/infrastructure
       run: |
-        scp -r ./* $SSH_USER@$SSH_HOST:/home/$SSH_USER/infrastructure/
-        ssh $SSH_USER@$SSH_HOST 'cd /home/$SSH_USER/infrastructure && \
-          docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml down && \
-          docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d'
-          
+        # Create deployment script
+        echo "#!/bin/bash
+        set -e
+        cd \$DEPLOY_PATH
+
+        # Ensure .env file exists and is not in git
+        touch .env
+        echo '.env' >> .gitignore
+
+        # Pull latest code without overwriting .env
+        git stash -u
+        git pull origin main
+        git stash pop || true
+
+        # Update containers
+        docker-compose pull
+        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml down
+        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d
+
+        # Cleanup
+        docker system prune -f" > deploy.sh
+        chmod +x deploy.sh
+        
+        # Copy deployment script and execute
+        scp -o StrictHostKeyChecking=no deploy.sh $SSH_USER@$SSH_HOST:$DEPLOY_PATH/
+        ssh -o StrictHostKeyChecking=no $SSH_USER@$SSH_HOST "cd $DEPLOY_PATH && ./deploy.sh"
+        
     - name: Verify deployment
       env:
         SSH_USER: ${{ secrets.SSH_USER }}
         SSH_HOST: ${{ secrets.SSH_HOST }}
+        DEPLOY_PATH: /home/${{ secrets.SSH_USER }}/infrastructure
       run: |
-        ssh $SSH_USER@$SSH_HOST 'cd /home/$SSH_USER/infrastructure && \
+        ssh -o StrictHostKeyChecking=no $SSH_USER@$SSH_HOST "cd $DEPLOY_PATH && \
           docker-compose ps && \
-          docker-compose logs --tail=100'
+          docker-compose logs --tail=50 && \
+          echo 'Checking service health...' && \
+          for service in \$(docker-compose ps --services); do
+            echo \"Checking \$service...\"
+            docker-compose ps \$service | grep -q \"healthy\" || exit 1
+          done"
+
+    - name: Notify on failure
+      if: failure()
+      run: |
+        echo "Deployment failed! Check the logs for details."
+        exit 1
