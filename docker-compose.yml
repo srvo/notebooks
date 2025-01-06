@@ -32,8 +32,8 @@ services:
       driver: "awslogs"
       options:
         awslogs-region: "${AWS_DEFAULT_REGION:-us-east-1}"
-        awslogs-group: "/docker/jupyter"
-        awslogs-stream: "jupyter"
+        awslogs-group: "/docker/production"
+        awslogs-stream: "app-logs"
 
   dagster:
     image: dagster/dagster:latest
@@ -179,7 +179,7 @@ services:
       - AWS_DEFAULT_REGION
     volumes:
       - ./data:/data:ro
-    command: sh -c "while true; do aws s3 sync /data s3://your-bucket-name/; sleep 3600; done"
+    command: sh -c "while true; do aws s3 sync /data s3://${S3_DATA_BUCKET:-ethicic-app-data}/; sleep 3600; done"
     networks:
       - my_network
     healthcheck:
@@ -212,7 +212,7 @@ services:
         apt-get install -y awscli && 
         while true; do 
           tar -czvf /tmp/backup.tar.gz /backup && 
-          aws s3 cp /tmp/backup.tar.gz s3://your-bucket-name/backup-$(date +%Y%m%d-%H%M%S).tar.gz && 
+          aws s3 cp /tmp/backup.tar.gz s3://${S3_BACKUP_BUCKET:-ethicic-backups}/backup-$(date +%Y%m%d-%H%M%S).tar.gz && 
           rm /tmp/backup.tar.gz;
           sleep 86400;
         done'
