@@ -87,6 +87,7 @@ jobs:
         echo "Creating required Docker volumes..."
         docker volume create searxng_config || true
         docker volume create jupyter_data || true
+        docker volume create jupyter_notebooks || true
         docker volume create dagster_data || true
         docker volume ls
     
@@ -141,6 +142,8 @@ jobs:
           searxng_config:
             external: true
           jupyter_data:
+            external: true
+          jupyter_notebooks:
             external: true
           dagster_data:
             external: true
@@ -209,6 +212,8 @@ jobs:
           searxng_config:
             external: true
           jupyter_data:
+            external: true
+          jupyter_notebooks:
             external: true
           dagster_data:
             external: true
@@ -374,6 +379,7 @@ jobs:
         echo "Creating Docker volumes..."
         docker volume create searxng_config || true
         docker volume create jupyter_data || true
+        docker volume create jupyter_notebooks || true
         docker volume create dagster_data || true
 
         # Create network and volume configuration
@@ -387,6 +393,8 @@ jobs:
           searxng_config:
             external: true
           jupyter_data:
+            external: true
+          jupyter_notebooks:
             external: true
           dagster_data:
             external: true
