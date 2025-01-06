@@ -2,10 +2,10 @@ tunnel: your-tunnel-id
 credentials-file: /etc/cloudflared/your-tunnel-id.json
 
 ingress:
-  - hostname: jupyter.yourdomain.com
-    service: http://jupyter:8888
-  - hostname: dagster.yourdomain.com
-    service: http://dagster:3000
-  - hostname: searxng.yourdomain.com
-    service: http://searxng:8889
+  - hostname: jupyter.ec1c.com
+    service: https://ec1c.com/jupyter
+  - hostname: dagster.ec1c.com
+    service: https://ec1c.com/dagster
+  - hostname: searxng.ec1c.com
+    service: https://ec1c.com/searxng
   - service: http_status:404

@@ -1,0 +1,154 @@
+version: '3.8'
+
+services:
+  jupyter:
+    image: jupyter/datascience-notebook:latest
+    container_name: jupyter
+    ports:
+      - "8888:8888"
+    volumes:
+      - jupyter_notebooks:/home/jovyan/work
+      - jupyter_config:/home/jovyan/.jupyter
+    environment:
+      - JUPYTER_TOKEN
+      - JUPYTER_ENABLE_LAB=yes
+    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+    networks:
+      - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8888"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "your-region"
+        awslogs-group: "/docker/jupyter"
+        awslogs-stream: "jupyter"
+
+  dagster:
+    image: dagster/dagster:latest
+    container_name: dagster
+    ports:
+      - "3000:3000"
+    volumes:
+      - dagster_data:/opt/dagster/dagster_home
+    environment:
+      - DAGSTER_HOME
+    depends_on:
+      - jupyter
+    networks:
+      - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:3000"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "your-region"
+        awslogs-group: "/docker/dagster"
+        awslogs-stream: "dagster"
+
+  searxng:
+    image: searxng/searxng:latest
+    container_name: searxng
+    ports:
+      - "8889:8889"
+    volumes:
+      - searxng_config:/etc/searxng
+    environment:
+      - SEARXNG_BASE_URL
+    restart: unless-stopped
+    networks:
+      - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8889"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "your-region"
+        awslogs-group: "/docker/searxng"
+        awslogs-stream: "searxng"
+
+  cloudflared:
+    image: cloudflare/cloudflared:latest
+    container_name: cloudflared
+    restart: unless-stopped
+    volumes:
+      - ./cloudflared:/etc/cloudflared
+    environment:
+      - TUNNEL_TOKEN
+    command: tunnel --no-autoupdate run --config /etc/cloudflared/config.yml
+    networks:
+      - my_network
+
+  reverse_proxy:
+    image: nginx:latest
+    container_name: reverse_proxy
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./nginx/conf.d:/etc/nginx/conf.d
+      - ./nginx/certs:/etc/nginx/certs
+      - ./nginx/.htpasswd:/etc/nginx/.htpasswd
+    depends_on:
+      - jupyter
+      - dagster
+      - searxng
+    networks:
+      - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:80"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "your-region"
+        awslogs-group: "/docker/nginx"
+        awslogs-stream: "nginx"
+
+  s3_client:
+    image: amazon/aws-cli
+    container_name: s3_client
+    environment:
+      - AWS_ACCESS_KEY_ID
+      - AWS_SECRET_ACCESS_KEY
+    volumes:
+      - ./data:/data
+    command: sh -c "aws s3 sync /data s3://your-bucket-name/"
+    networks:
+      - my_network
+
+  backup:
+    image: ubuntu:latest
+    container_name: backup
+    volumes:
+      - jupyter_notebooks:/backup/jupyter
+      - dagster_data:/backup/dagster
+      - searxng_config:/backup/searxng
+    environment:
+      - AWS_ACCESS_KEY_ID
+      - AWS_SECRET_ACCESS_KEY
+    command: sh -c "tar -czvf /backup.tar.gz /backup && aws s3 cp /backup.tar.gz s3://your-bucket-name/backup.tar.gz"
+    networks:
+      - my_network
+
+networks:
+  my_network:
+    driver: bridge
+
+volumes:
+  jupyter_notebooks:
+  jupyter_config:
+  dagster_data:
+  searxng_config:
+  data:

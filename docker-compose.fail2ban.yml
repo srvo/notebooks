@@ -1,0 +1,15 @@
+version: '3'
+
+services:
+  fail2ban:
+    container_name: fail2ban
+    image: crazymax/fail2ban:latest
+    restart: always
+    network_mode: "host"  # Required to access host network
+    cap_add:
+      - NET_ADMIN
+      - NET_RAW
+    volumes:
+      - /var/log:/var/log:ro
+      - ./fail2ban/data:/data
+      - ./fail2ban/jail.d:/etc/fail2ban/jail.d 
