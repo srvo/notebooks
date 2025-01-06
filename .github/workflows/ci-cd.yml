@@ -96,6 +96,8 @@ jobs:
         JUPYTER_ALLOW_ROOT: "yes"
         DAGSTER_HOME: /opt/dagster/dagster_home
         LOG_LEVEL: info
+        COMPOSE_DOCKER_CLI_BUILD: 1
+        DOCKER_BUILDKIT: 1
       run: |
         # Create test environment
         mkdir -p nginx/certs cloudflared
@@ -118,11 +120,20 @@ jobs:
         S3_DATA_BUCKET=${S3_DATA_BUCKET}
         EOL
         
+        # Create network configuration
+        cat > docker-compose.override.yml << EOL
+        networks:
+          my_network:
+            external: true
+          proxy:
+            external: true
+        EOL
+        
         echo "Validating docker-compose.yml..."
-        DOCKER_BUILDKIT=0 docker compose -f docker-compose.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
+        docker compose -f docker-compose.yml -f docker-compose.override.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
         
         echo "Validating docker-compose.fail2ban.yml..."
-        DOCKER_BUILDKIT=0 docker compose -f docker-compose.fail2ban.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
+        docker compose -f docker-compose.fail2ban.yml -f docker-compose.override.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
         
     - name: Validate Traefik config
       run: |
@@ -157,6 +168,8 @@ jobs:
         AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
         S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
         S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
+        COMPOSE_DOCKER_CLI_BUILD: 1
+        DOCKER_BUILDKIT: 1
       run: |
         echo "Creating test environment..."
         mkdir -p nginx/certs cloudflared
@@ -164,6 +177,15 @@ jobs:
         # Verify networks exist
         echo "Verifying Docker networks..."
         docker network ls
+        
+        # Create network configuration
+        cat > docker-compose.override.yml << EOL
+        networks:
+          my_network:
+            external: true
+          proxy:
+            external: true
+        EOL
         
         # Create .env with configuration
         cat > .env << EOL
@@ -191,9 +213,11 @@ jobs:
         AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
         S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
         S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
+        COMPOSE_DOCKER_CLI_BUILD: 1
+        DOCKER_BUILDKIT: 1
       run: |
         echo "Starting containers..."
-        docker compose -f docker-compose.yml up -d || (echo "Error: Failed to start containers"; exit 1)
+        docker compose -f docker-compose.yml -f docker-compose.override.yml up -d || (echo "Error: Failed to start containers"; exit 1)
         
         echo "Checking container status..."
         docker compose ps || (echo "Error: Container status check failed"; exit 1)
@@ -319,6 +343,15 @@ jobs:
         docker network create proxy || true
         docker network create my_network || true
 
+        # Create network configuration
+        cat > docker-compose.override.yml << EOL
+        networks:
+          my_network:
+            external: true
+          proxy:
+            external: true
+        EOL
+
         # Pull latest code without overwriting .env
         git stash -u
         git pull origin main
@@ -326,8 +359,8 @@ jobs:
 
         # Update containers
         docker compose pull
-        docker compose -f docker-compose.yml -f docker-compose.fail2ban.yml down
-        docker compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d
+        docker compose -f docker-compose.yml -f docker-compose.fail2ban.yml -f docker-compose.override.yml down
+        docker compose -f docker-compose.yml -f docker-compose.fail2ban.yml -f docker-compose.override.yml up -d
 
         # Cleanup
         docker system prune -f
