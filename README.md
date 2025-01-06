@@ -128,9 +128,9 @@ Services must be started in this specific order:
 
 2. Verify API endpoints:
    ```bash
-   curl -I https://app.ethicic.com/api/health
-   curl -I https://app.ethicic.com/api/jupyter/status
-   curl -I https://app.ethicic.com/api/dagster/status
+   curl -I https://app.ec1c.com/api/health
+   curl -I https://app.ec1c.com/api/jupyter/status
+   curl -I https://app.ec1c.com/api/dagster/status
    ```
 
 3. Check fail2ban status:

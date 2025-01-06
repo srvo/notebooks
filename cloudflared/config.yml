@@ -3,9 +3,9 @@ credentials-file: /etc/cloudflared/your-tunnel-id.json
 
 ingress:
   - hostname: jupyter.ec1c.com
-    service: https://ec1c.com/jupyter
+    service: https://app.ec1c.com/jupyter
   - hostname: dagster.ec1c.com
-    service: https://ec1c.com/dagster
+    service: https://app.ec1c.com/dagster
   - hostname: searxng.ec1c.com
-    service: https://ec1c.com/searxng
+    service: https://app.ec1c.com/searxng
   - service: http_status:404
