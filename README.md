@@ -13,7 +13,10 @@ notebooks/
 ├── jupyter/
 │   ├── search_flow.py          # Core search implementation
 │   ├── reset_research.py       # Database reset utility
-│   └── run_background_search.py # Background process runner
+│   ├── run_background_search.py # Background process runner
+│   └── research/
+│       ├── workflow.py         # Workflow management system
+│       └── example_workflow.py # Example workflow usage
 ├── logs/                       # Process logs
 ├── data/
 │   ├── research.db             # Research database
@@ -33,6 +36,34 @@ Run with database reset (caution - clears existing research):
 python jupyter/run_background_search.py --reset &
 ```
 
+Run example workflow:
+```bash
+python jupyter/research/example_workflow.py
+```
+
+## Workflow System
+
+The workflow system provides a way to define and execute multi-phase workflows:
+
+```python
+from jupyter.research.workflow import Workflow, WorkflowPhase
+
+# Define phases
+phases = [
+    WorkflowPhase(name="Fetch Data", task=fetch_data),
+    WorkflowPhase(name="Process Data", task=process_data),
+    WorkflowPhase(name="Save Data", task=save_data)
+]
+
+# Create and execute workflow
+workflow = Workflow(phases, n_jobs=1)
+results = workflow.execute()
+
+# Observe progress
+for result in workflow.observe():
+    print(result)
+```
+
 ## Configuration
 
 Update the `config.py` file with your API keys, database URI, and AWS credentials.
@@ -43,5 +74,7 @@ All logs are stored in the `logs/` directory with timestamped filenames:
 - `run_background_search.log`
 - `api_client.log`
 - `data_store.log`
+- `workflow.log`
+- `example_workflow.log`
 
 
