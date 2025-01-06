@@ -76,21 +76,16 @@ jobs:
     
     - name: Set up Docker with retries
       id: setup-docker
-      continue-on-error: true
-      uses: docker/setup-buildx-action@v2
+      uses: nick-fields/retry@v3.0.0
       with:
-        driver-opts: |
-          image=moby/buildkit:buildx-stable-1
-          network=host
-        buildkitd-config: |
-          [worker.oci]
-            max-parallelism = 4
-          [registry."docker.io"]
-            mirrors = ["mirror.gcr.io"]
-        install: true
-        use: true
-        driver: docker-container
-        endpoint: unix:///var/run/docker.sock
+        timeout_minutes: 5
+        max_attempts: 3
+        command: |
+          docker buildx create --use --driver docker-container \
+            --driver-opt image=moby/buildkit:buildx-stable-1 \
+            --driver-opt network=host
+        shell: bash
+        on_retry_command: docker buildx prune --force --all
 
     - name: Verify Docker setup
       run: |
@@ -222,50 +217,44 @@ jobs:
         docker compose -f docker-compose.fail2ban.yml -f docker-compose.override.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
         
     - name: Validate Traefik config
+      uses: nick-fields/retry@v3.0.0
       env:
         ACTIONS_RUNNER_DEBUG: true
         ACTIONS_STEP_DEBUG: true
-      run: |
-        echo "Creating Traefik configuration directories..."
-        mkdir -p traefik/dynamic
-        
-        echo "Listing current directory contents..."
-        ls -la
-        
-        echo "Listing traefik directory contents..."
-        ls -la traefik/
-        
-        echo "Listing traefik/dynamic directory contents..."
-        ls -la traefik/dynamic/
-        
-        echo "Contents of traefik.yml:"
-        cat traefik/traefik.yml || echo "traefik.yml not found"
-        
-        echo "Contents of middlewares.yml:"
-        cat traefik/dynamic/middlewares.yml || echo "middlewares.yml not found"
-        
-        echo "Pulling Traefik image..."
-        docker pull traefik:v2.10 || (echo "Error: Failed to pull Traefik image"; exit 1)
-        
-        echo "Validating Traefik configuration..."
-        docker run --rm -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
-          -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
-          traefik:v2.10 traefik validate --check --debug || (echo "Error: Traefik configuration validation failed"; exit 1)
-        
-        echo "Testing Traefik healthcheck..."
-        docker run -d --name traefik-test -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
-          -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
-          -p 8080:8080 \
-          traefik:v2.10 || (echo "Error: Failed to start Traefik container"; exit 1)
-        
-        echo "Waiting for Traefik to initialize..."
-        sleep 10
-        
-        echo "Checking Traefik health..."
-        curl -f http://localhost:8080/ping || (echo "Error: Traefik healthcheck failed"; exit 1)
-        
-        echo "Stopping test container..."
-        docker stop traefik-test && docker rm traefik-test
+      with:
+        timeout_minutes: 5
+        max_attempts: 3
+        command: |
+          echo "Creating Traefik configuration directories..."
+          mkdir -p traefik/dynamic
+          
+          echo "Pulling Traefik image..."
+          docker pull traefik:v2.10
+          
+          echo "Validating Traefik configuration..."
+          docker run --rm -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
+            -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
+            traefik:v2.10 traefik validate --check --debug
+          
+          echo "Testing Traefik healthcheck..."
+          docker run -d --name traefik-test -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
+            -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
+            -p 8080:8080 \
+            traefik:v2.10
+          
+          echo "Waiting for Traefik to initialize..."
+          sleep 10
+          
+          echo "Checking Traefik health..."
+          curl -f http://localhost:8080/ping
+          
+          echo "Stopping test container..."
+          docker stop traefik-test && docker rm traefik-test
+        shell: bash
+        on_retry_command: |
+          docker stop traefik-test || true
+          docker rm traefik-test || true
+          docker system prune -f
 
   test-containers:
     runs-on: ubuntu-latest
@@ -342,7 +331,8 @@ jobs:
         S3_DATA_BUCKET=${S3_DATA_BUCKET}
         EOL
         
-    - name: Build and test containers
+    - name: Test containers
+      uses: nick-fields/retry@v3.0.0
       env:
         JUPYTER_TOKEN: order-of-ther-first-state
         JUPYTER_ENABLE_LAB: "yes"
@@ -356,16 +346,28 @@ jobs:
         S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
         COMPOSE_DOCKER_CLI_BUILD: 1
         DOCKER_BUILDKIT: 1
-      run: |
-        echo "Starting containers..."
-        docker compose -f docker-compose.yml -f docker-compose.override.yml up -d || (echo "Error: Failed to start containers"; exit 1)
-        
-        echo "Checking container status..."
-        docker compose ps || (echo "Error: Container status check failed"; exit 1)
-        
-        echo "Waiting for services to initialize..."
-        sleep 30
-        
+      with:
+        timeout_minutes: 10
+        max_attempts: 3
+        command: |
+          echo "Starting containers..."
+          docker compose -f docker-compose.yml -f docker-compose.override.yml up -d
+          
+          echo "Checking container status..."
+          docker compose ps
+          
+          echo "Waiting for services to initialize..."
+          sleep 30
+          
+          echo "Testing service health..."
+          curl -f http://localhost:8888/api/status
+          curl -f http://localhost:3000/health
+          curl -f http://localhost:8889/status
+        shell: bash
+        on_retry_command: |
+          docker compose down
+          docker system prune -f
+
     - name: Test service health
       env:
         JUPYTER_TOKEN: order-of-ther-first-state
