@@ -1,0 +1,472 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:06:04.353151",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Aecom",
+      "symbol": "ACM",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal disputes and potential financial liabilities, such as the $263 million cost overrun claim in the AECOM v. Flatiron case",
+            "Project delays and cost overruns in large-scale infrastructure projects",
+            "Sensitivity to economic downturns, budget cuts, and volatility in oil and natural gas prices due to reliance on government contracts and private sector investments"
+          ],
+          "controversies": [
+            "Significant legal disputes, including the AECOM v. Flatiron case",
+            "Compliance risks in highly regulated sectors like transportation, energy, and government projects"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving net-zero carbon emissions by 2030, with operational net-zero status already achieved",
+            "Involvement in green infrastructure projects and sustainable development initiatives"
+          ],
+          "social_issues": [
+            "Employee retention challenges and competition for skilled professionals",
+            "Diversity and inclusion challenges, despite initiatives like Employee Resource Groups (ERGs)"
+          ],
+          "governance_issues": [
+            "Regulatory and compliance risks in highly regulated environments",
+            "Strategic shift to higher-margin services, which may involve governance challenges in managing the transition"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Evidence of General Contractor Claims Against Other Parties",
+              "snippet": "As you may recall, AECOM v. Flatiron involves claims by the general contractor, FlatIron, against the designer, AECOM, for cost overruns totaling $263 million on a Colorado DOT project. At trial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933017+00:00",
+              "published_date": null,
+              "source_hash": "631a2f0cd2a73d5f669d3bbba6e87587"
+            },
+            {
+              "url": "",
+              "title": "The Risk of Fighting on Two Fronts: Court Admits Evidence of General ...",
+              "snippet": "For example, with respect to the claims against other subcontractors, the court concluded that such evidence \"is relevant to show that although Flatiron has alleged that AECOM is responsible for nearly all of the Project's cost overruns, Flatiron has also had disputes with several subcontractors who worked on the Project. AECOM's argument ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933048+00:00",
+              "published_date": null,
+              "source_hash": "67e883facd8b04a18998f36241d78a93"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "cost overruns and schedule delays. PORT OF MIAMI TUNNEL The P3 approach delivered this project at 50% less than the original estimate and at least 20 years faster. $ 350 M P3 cost FLORIDA I-4 The P3 delivered this project 27 years sooner and at 35% less than the original owner's estimate. $ 1.4 B P3 cost savings FLORIDA I-595",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933057+00:00",
+              "published_date": null,
+              "source_hash": "e98ae6963d92e4710cb460ba02585b12"
+            },
+            {
+              "url": "",
+              "title": "AECOM Technical Services, Inc. v. Flatiron AECOM, LLC",
+              "snippet": "According to AECOM, \"[t]he fact that Flatiron blames multiple parties for its Project delays and cost overruns, including [AECOM] and CDOT, and seeks simultaneous overlapping recoveries from these parties based on very inconsistent claims, is relevant because it goes to Flatiron's credibility and good faith, and completely undermines the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933063+00:00",
+              "published_date": null,
+              "source_hash": "785cb696bd0b4abac5488ff05064c6ba"
+            },
+            {
+              "url": "",
+              "title": "AECOM Seeks $16M From Flatiron in Denver Express Lanes Lawsuit",
+              "snippet": "The highway project itself has a long history. The Colorado Dept. of Transportation had awarded a $204.3-million design-build contract to the Flatiron-AECOM team in June 2016 for the C-470 project ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933069+00:00",
+              "published_date": null,
+              "source_hash": "742c28475af6f29f8a19da8db96f2cc9"
+            },
+            {
+              "url": "",
+              "title": "The Risk of Fighting on Two Fronts: Court Admits Evidence of General ...",
+              "snippet": "As you may recall, AECOM v. Flatiron involves claims by the general contractor, FlatIron, against the designer, AECOM, for cost overruns totaling $263 million on a Colorado DOT project. At trial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933074+00:00",
+              "published_date": null,
+              "source_hash": "42a047df6a8782fe44bd7ae6e0e51ad8"
+            },
+            {
+              "url": "",
+              "title": "On time, on budget: begin before the beginning for successful transit ...",
+              "snippet": "Utility relocations in dense urban areas, for example, are often main drivers of project delays that result in cost overruns. Building in a window of time during the preplanning phase for early utility identification and relocation is an excellent strategy for eliminating potential setbacks and keeping the budget on track.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933079+00:00",
+              "published_date": null,
+              "source_hash": "c81799d55b498c4738491450e9ac8082"
+            },
+            {
+              "url": "",
+              "title": "Indianapolis Transit Agency Sues AECOM for Bus Hub Cost Overruns",
+              "snippet": "With it, IndyGo says it incurred $4.7 million in overruns. Local media reported the project's final cost at $26.5 million. It is not immediately clear why IndyGo waited until now to file the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933084+00:00",
+              "published_date": null,
+              "source_hash": "cf5fe6ef927274700582ce4439217be3"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "negative risks and complete projects on time, within budget and at the desired level of quality and safety, which can be summarized as key success indicators (Patil & Bhangale 2016). Abstract High-rise projects routinely suffer from delays and cost overruns, which can result in severe economic consequences, or even failure to complete.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933089+00:00",
+              "published_date": null,
+              "source_hash": "675add50ddb7412fb8af428b025c8495"
+            },
+            {
+              "url": "",
+              "title": "SEPTA takes architectural and engineering firm to court",
+              "snippet": "SEPTA is asking for that money back, as well as for money to cover increased construction costs that it claims AECOM's design errors and delays caused. ... SEPTA says that several contractors sued SEPTA for project delays and cost overruns. The authority settled one such suit, by PFK-Mark III Inc., for $10 million. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:28.933094+00:00",
+              "published_date": null,
+              "source_hash": "a3b3d8224c9a8ae240d84cc2e3e74f15"
+            },
+            {
+              "url": "",
+              "title": "We Expect Aecom to Capitalize on Growing Infrastructure Spending",
+              "snippet": "Aecom faces high uncertainty as volatility in oil and natural gas prices could lead customers to delay or even cancel projects ... such as legal disputes and cost overruns (which could be caused ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:32.553839+00:00",
+              "published_date": "2024-08-05T23:59:00+00:00",
+              "source_hash": "702a2eed3af227f431ed1675648027e9"
+            },
+            {
+              "url": "",
+              "title": "We Think Aecom's Portfolio Shift to Professional Services Will Lead to Higher Margins and Lower Risk",
+              "snippet": "Aecom faces high uncertainty as volatility in oil and natural gas prices could lead customers to delay ... major cost overruns. Nonetheless, a combination of issues on four different projects ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:32.553868+00:00",
+              "published_date": "2022-08-10T00:00:00+00:00",
+              "source_hash": "9fc77efdde3960b84c8acc19a32fe220"
+            },
+            {
+              "url": "",
+              "title": "City of Calgary responsible for Green Line cost overruns and legal risk, province says",
+              "snippet": "\"If there were any cost overruns ... by AECOM adds five more stops and will be 76 per cent longer. (Government of Alberta) Despite the province's involvement in revamping the project, Dreeshen ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Aecom Aecom project delays and cost overruns",
+              "retrieved_at": "2025-01-06T14:05:32.553875+00:00",
+              "published_date": "2024-12-18T23:08:00+00:00",
+              "source_hash": "4722775d0effdd109241e15bacf4e3ab"
+            },
+            {
+              "url": "",
+              "title": "Equity, diversity and inclusion - AECOM",
+              "snippet": "Our commitment to equity, diversity and inclusion enables us to better predict our clients' needs, understand the challenges facing the communities we serve, drive innovation that propels our industry forward and realize our purpose of delivering a better world. Building diverse talent We ensure, through our recruitmentefforts, that our teams reflect the diverse communities we...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273151+00:00",
+              "published_date": null,
+              "source_hash": "f1714fc53d97d661cbffa00f14c9e074"
+            },
+            {
+              "url": "",
+              "title": "AECOM has award-winning Employee Resource Groups - Where Women Work",
+              "snippet": "\"Congrats to our global Employee Resource Groups (ERGs) on winning Environmental Business Journal's 2021 award for diversity and inclusion,\" announced AECOM.. Award-winning Equity, Diversity & Inclusion (ED&I) initiatives. AECOM launched a robust Employee Resource Group (ERG) program with six groups worldwide: Women's Leadership Alliance, Ethnic Diversity Network (Europe), BeBOLD, Pride ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273262+00:00",
+              "published_date": null,
+              "source_hash": "f59495af63a647b220e50ab43dcfd134"
+            },
+            {
+              "url": "",
+              "title": "Employee Engagement & Retention - AECOM",
+              "snippet": "Employee Engagement & Retention At AECOM, we believe an engaging and energizing work environment is critical to the success of employees, the company, and our clients. We are continually looking for opportunities to improve the employee experience and create a high-performance culture where we can succeed together.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273281+00:00",
+              "published_date": null,
+              "source_hash": "3381da8f17666277d32cc3d624e02f67"
+            },
+            {
+              "url": "",
+              "title": "Attracting Talent - AECOM",
+              "snippet": "employee referrals from our employees and our employees being rewarded with employee referral bonuses globally across the organization. Retention Retention of our employees is very important at AECOM. We believe that our comprehensive employee retention program plays a vital role in attracting and retaining our key employees. To ensure",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273296+00:00",
+              "published_date": null,
+              "source_hash": "9354531d8c2560cb73bc677d6142b80c"
+            },
+            {
+              "url": "",
+              "title": "AECOM reinforces its equity, diversity & inclusion commitment",
+              "snippet": "When we feel free to be ourselves, we thrive. So, to help every employee feel valued and included, AECOM consistently aims to create an inclusive workplace via community-building, training, and family-friendly benefit policies. With a strong commitment to Equity, Diversity, and Inclusion (ED&I), AECOM has an impressive Think and Act Globally strategy that specifically incorporates a Thrive ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273310+00:00",
+              "published_date": null,
+              "source_hash": "7f08171e021fbf7da3868d062211bbfd"
+            },
+            {
+              "url": "",
+              "title": "Advancing Equity, Diversity and Inclusion at AECOM - Blog",
+              "snippet": "Enhancing our diversity recruiting programs; Our equity, diversity and inclusion approach incorporates input and participation from our people at every level. From the ED&I global steering committee sponsored by AECOM's executive leadership team, to regional and local office groups, everyone is encouraged to be part of our journey",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273323+00:00",
+              "published_date": null,
+              "source_hash": "ea0386f5f73f83401e6ed6f17e75147b"
+            },
+            {
+              "url": "",
+              "title": "Diversity and inclusion programs improve productivity ... - AECOM",
+              "snippet": "Organisational diversity and inclusion (D&I) programs enhance loyalty and advocacy towards an employer (81%), increase employees' commitment to their jobs (70%) and increase overall productivity (61%) amongst infrastructure sector workers, a new survey from integrated infrastructure firm AECOM and recruiter Robert Walters has found. The survey reveals that while D&I has a positive impact on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273336+00:00",
+              "published_date": null,
+              "source_hash": "c3f756d25a85d07b46faee4724bab801"
+            },
+            {
+              "url": "",
+              "title": "AECOM: Diversity, Equity & Inclusion | Glassdoor",
+              "snippet": "AECOM has a Diversity and Inclusion rating of 4 out of 5 stars, based on 3,886 anonymous employee ratings. This is equal to the average for D&I ratings in the Construction, Repair & Maintenance Services sector. The average D&I rating left by 3,886 employees improved over the last 12 months.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273348+00:00",
+              "published_date": null,
+              "source_hash": "e649840bb6c2550b66f17ebc121e3e26"
+            },
+            {
+              "url": "",
+              "title": " 22050 Gender pay gap RP - AECOM",
+              "snippet": "Employee Resource Groups shape strategy and give members a sense of belonging Lekha Giridharan, Senior Lean Consultant and Vice Chair of AECOM's Ethnic Diversity Network I am Vice Chair of AECOM's Ethnic Diversity Network (EDN), the company's first Employee Resource Group (ERG) which launched in January 2021. EDN is now",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273361+00:00",
+              "published_date": null,
+              "source_hash": "a9c71db99a19eda938db07b349f5c670"
+            },
+            {
+              "url": "",
+              "title": " 22228 Ireland Gender Pay Gap Report - AECOM",
+              "snippet": "Subcommittee under the Ethnic Diversity Network ERG I am Vice Chair of AECOM's Gender Alliance, the company's first Employee Resource Group (ERG) focussed on all genders which launched in September 2022. With our business plan agreed, subcommittee leads appointed, and a strong 200 base of employee interest in our first month, we look forward",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aecom Aecom employee retention and diversity issues",
+              "retrieved_at": "2025-01-06T14:05:35.273373+00:00",
+              "published_date": null,
+              "source_hash": "469bd2789205b0a96c703ac17487b17c"
+            },
+            {
+              "url": "",
+              "title": "Achieving net zero | Sustainable Legacies | AECOM",
+              "snippet": "As the world's most trusted infrastructure firm, we understand both the magnitude of the climate crisis and our responsibility to help fix it. We achieved operational net zero last year and are one of the first companies to have science-based net zero targets approved by the best practice organization the Science Based Targets initiative. This experience is supporting our advice to clients on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066217+00:00",
+              "published_date": null,
+              "source_hash": "36b5685796a1466e94d448da023fccc2"
+            },
+            {
+              "url": "",
+              "title": "AECOM announces next phase of its Sustainable Legacies strategy ...",
+              "snippet": "Key Pillars of AECOM's Sustainable Legacies Strategy. Achieve net-zero carbon emissions: While developing and implementing best practices and achievable goals for its clients, AECOM has continued to further its own carbon emissions goals with one of the first net zero targets validated by the Science Based Targets initiative. The Company has ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066258+00:00",
+              "published_date": null,
+              "source_hash": "9c95ada23fb0d8495ec2acc800b383f6"
+            },
+            {
+              "url": "",
+              "title": "AECOM launches Sustainable Legacies, a transformative ESG strategy to ...",
+              "snippet": "Key Pillars of AECOM's Sustainable Legacies Strategy. Achieve net-zero carbon emissions: While developing and implementing best practices and achievable goals for its clients, AECOM has furthered its own carbon emissions goals by ensuring that the company will be operationally net-zero by the end of 2021. It has also committed to reach ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066271+00:00",
+              "published_date": null,
+              "source_hash": "97a494928d68282c0f1087e6834092af"
+            },
+            {
+              "url": "",
+              "title": "Delivering Sustainable Legacies - AECOM",
+              "snippet": "Sustainable Legacies is AECOM's strategy for reaching ambitious objectives across four key pillars: embed sustainable development and resilience across the company's work, improve social outcomes for communities, achieve net-zero carbon emissions, and enhance governance. AECOM is committed to publicly reporting on its",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066280+00:00",
+              "published_date": null,
+              "source_hash": "e8d6170c99e81af740aa82e72819b124"
+            },
+            {
+              "url": "",
+              "title": "Our strategies | Sustainable Legacies | AECOM - AecomTechnologyCorporation",
+              "snippet": "One of the first companies in the world to have emissions reduction targets approved by the Science-Based Targets initiative to reach science-based net zero by 2040. Achieve net zero carbon. ... We are one of 19 companies to have been awarded the 2022 Terra Carta Seal by the Sustainable Markets Initiative for our commitment to sustainability ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066288+00:00",
+              "published_date": null,
+              "source_hash": "2754f42f2d6eb217589f010b04914401"
+            },
+            {
+              "url": "",
+              "title": "Delivering Sustainable Legacies: Our 2024 Sustainability Report",
+              "snippet": "Addressing climate change. Through our global climate change risk assessment conducted over the last year, we recognized numerous risks and opportunities related to climate change and the transition to net-zero carbon emissions. To identify these risks and opportunities over time and to manage the uncertainty around future changes to the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066297+00:00",
+              "published_date": null,
+              "source_hash": "ed539ae87be9980750349fa311d17e56"
+            },
+            {
+              "url": "",
+              "title": "AECOM announces next phase of its Sustainable Legacies strategy ...",
+              "snippet": "Achieve net-zero carbon emissions: While developing and implementing best practices and achievable goals for its clients, AECOM has continued to further its own carbon emissions goals with one of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066305+00:00",
+              "published_date": null,
+              "source_hash": "d9c931ad98fa8ecfcda14046513a2368"
+            },
+            {
+              "url": "",
+              "title": "AECOM Environmental Sustainability Policy",
+              "snippet": "maintain operational net zero status and be on track with science-based net zero by 2030): \u00ad Continuously improve the quality and management of environmental data related to our offices \u00ad Implement AECOM's Fast Forward Global Guidelines to improve sustainability in our offices as standard throughout occupancy stages, including through",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066313+00:00",
+              "published_date": null,
+              "source_hash": "9ccfb4579c759627c3909e4c26f0ec7b"
+            },
+            {
+              "url": "",
+              "title": "AECOM launches Sustainable Legacies, a transformative ESG strategy to ...",
+              "snippet": "Achieve operational net-zero carbon emissions by the end of 2021 and science-based net-zero by 2030 Introduce ScopeX TM to reduce carbon through design on all major projects LOS ANGELES --(BUSINESS WIRE)--Apr. 26, 2021-- AECOM (NYSE: ACM), the world s premier infrastructure consulting firm, today announced the launch of Sustainable Legacies ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066324+00:00",
+              "published_date": null,
+              "source_hash": "9fbff90f584624fe2e3acf2d1f82d400"
+            },
+            {
+              "url": "",
+              "title": "Net zero and decarbonization | Sustainable Legacies | AECOM",
+              "snippet": "Every decision. Every day. Decarbonization and the path to net zero are deeply embedded in everything we do - and we support governments and organizations in realizing their own ambitions, too. Finding and navigating the pathway to decarbonization is complex, but we deliver the expertise and insight it takes to find a clear way forward.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aecom Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "retrieved_at": "2025-01-06T14:05:39.066332+00:00",
+              "published_date": null,
+              "source_hash": "ee23bf24a9e3831225cae9042f364486"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Aecom project delays and cost overruns",
+              "rationale": "Investigate financial and legal risks associated with project delays and budget overruns",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Aecom employee retention and diversity issues",
+              "rationale": "Examine workforce challenges, including retention and diversity concerns",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Aecom sustainability initiatives and net-zero carbon emissions progress",
+              "rationale": "Assess the company's progress and potential risks in achieving its sustainability goals",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:06:04.353182",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:07:58.305379",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Blink Charging Co",
+      "symbol": "BLNK",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Financial instability and consistent losses",
+            "Legal disputes including a securities class action lawsuit",
+            "Operational challenges and competitive pressures",
+            "Dependence on external factors like EV adoption rates"
+          ],
+          "controversies": [
+            "Securities class action lawsuit with a proposed $3.75 million settlement",
+            "Allegations from short-sellers about overstated charging network size"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer complaints regarding app functionality and charging station availability"
+          ],
+          "governance_issues": [
+            "Concerns about transparency and operational integrity"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Quarterly report pursuant to Section 13 or 15(d) - Blink Charging Co.",
+              "snippet": "The Company has retained legal counsel in order to defend the action vigorously. The Company has not recorded an accrual related to this matter as of September 30, 2021 as it determined that any such loss contingency was either not probable or estimable. ... JMJ Financial v. Blink Charging Co. was filed in the United States District Court for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161355+00:00",
+              "published_date": null,
+              "source_hash": "5873b480cc45699fe785afeeb903c06f"
+            },
+            {
+              "url": "",
+              "title": "Quarterly report pursuant to Section 13 or 15(d) - Blink Charging Co.",
+              "snippet": "The Company wholly and completely disputes the allegations therein. The Company has retained legal counsel in order to defend the action vigorously. The Company has not recorded an accrual related to this matter as of June 30, 2022 as it determined that any such loss contingency was either not probable or estimable. BLINK CHARGING CO.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161415+00:00",
+              "published_date": null,
+              "source_hash": "8ef563b161c05e867a0a22596fb5c9a6"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. $3.75M Securities Class Action Settlement - Claim Depot",
+              "snippet": "To be extremely detailed, you must have purchased or acquired Blink securities during the specified period and experienced a financial loss due to the alleged misstatements and omissions by Blink Charging Co. and its executives. Individuals who bought Blink common stock between March 6, 2020, and August 19, 2020.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628394+00:00",
+              "published_date": null,
+              "source_hash": "a5acab497a243eb3fc25d794b11ee7f3"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. Annual report pursuant to Section 13 and 15(d)",
+              "snippet": "The Company wholly and completely disputes the allegations therein. The Company has retained legal counsel in order to defend the action vigorously. The Company has not recorded an accrual related to this matter as of December 31, 2021 as it determined that any such loss contingency was either not probable or estimable. BLINK CHARGING CO.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161442+00:00",
+              "published_date": null,
+              "source_hash": "30f0aa752cc5e0423f47493c86780de1"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. Securities Litigation - Strategic Claims Services",
+              "snippet": "Blink Charging Co. Securities Litigation July 19, 2024 Active Cases Pursuant to the Court Order dated October 2, 2024, the Settlement Hearing has been changed to October 21, 2024 at 10:00 a.m. before the Honorable Kathleen M. Williams in Room 11-3 of the Wilkie D. Ferguson, Jr. United States Courthouse, located at 400 North Miami Avenue in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161449+00:00",
+              "published_date": null,
+              "source_hash": "4708441ab022f48ae31d441aac7eaf7e"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Company Hit with Securities Suit After Analyst Reports ...",
+              "snippet": "On April 2, the suit continues, Blink filed its 2019 Annual Report in which the company divulged a net loss of $9.6 million for the year and reiterated its status as \"a leader in electric vehicle (EV) charging equipment that has deployed over 23,000 charging stations, many of which are networked EV charging stations, enabling EV drivers to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161455+00:00",
+              "published_date": null,
+              "source_hash": "32f51068dfd20e5d19e5efa215c7435f"
+            },
+            {
+              "url": "",
+              "title": "$3,750,000 Settlement Reached for Blink Charging Co. Litigation",
+              "snippet": "The securities class action against Blink Charging Co. has reached a settlement of $3,750,000. Read more case information. ... and licensors, have no responsibility to you or to pay you compensation for financial loss or loss of opportunity, goodwill, reputation, business, revenue, profit, or savings you expected to make, or wasted expenditure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161462+00:00",
+              "published_date": null,
+              "source_hash": "47c1aba250bb3e385d15014bb6bba241"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. | Blink Charging Company",
+              "snippet": "If you purchased or otherwise acquired Blink shares and suffered a loss, are a long-term stockholder, have information, would like to learn more about these claims, or have any questions concerning this announcement or your rights or interests with respect to these matters, please contact Brandon Walker or Marion Passmore by email at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161468+00:00",
+              "published_date": null,
+              "source_hash": "3214dfd35fa350c7f70bb3f8cc593fb0"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. (NASDAQ: BLNK) - Hagens Berman",
+              "snippet": "This is a securities fraud class action against Blink Charging Co. (\"Blink\" or the \"Company\") and certain of the Company's senior executives (collectively, \"Defendants\"). The lawsuit is brought on behalf of investors who purchased Blink securities between March 6, 2020 and August 19, 2020 (the \"Class Period\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628363+00:00",
+              "published_date": null,
+              "source_hash": "2bac3d5d13e329d93b65dbf76e16f3fc"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. - Johnson Fistel",
+              "snippet": "If you purchased Blink common stock and suffered significant losses on your investment, join our investigation now by submitting your information: Blink Charging Co. If you suffered a loss on your investment and would like to inquire about joining an action to recover your loss under the federal securities laws, please complete the form below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:27.161479+00:00",
+              "published_date": null,
+              "source_hash": "73f7eca66fed6b125a32d7f694b076fe"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co (BLNK) Stock: More Strategic Than Meets the Eye",
+              "snippet": "On Tuesday, Blink Charging Co (BLNK) stock saw a decline, ending the day at $1.39 which represents a decrease of $-0.07 or -4.79% from the prior close of $1.46. The stock opened at $1.48 and touched a low of $1.38 during the day, reaching a high of $1.5. The volume of shares traded was 7.34 million exceeding the average volume of 4.86 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:30.146391+00:00",
+              "published_date": "2025-01-02T20:51:00+00:00",
+              "source_hash": "a6d00f8083d88db4e80671ceaad3a101"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Stock: Substantial Risk But Has Sizeable Upside Potential",
+              "snippet": "Blink Charging stock has dropped over 50% YTD but offers potential upside if the EV market rebounds, trading near multi-year lows. Explore more details here.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:38.253807+00:00",
+              "published_date": "2025-01-02T11:20:00+00:00",
+              "source_hash": "d3bffcdaa0a2cfd5ecbe912a1de8faad"
+            },
+            {
+              "url": "",
+              "title": "Hold Rating Maintained for Blink Charging Co Amid Revenue Headwinds and Strategic Opportunities",
+              "snippet": "In a report released yesterday, Stephen Gengaro from Stifel Nicolaus maintained a Hold rating on Blink Charging Co (BLNK - Research Report ... Despite these optimistic factors, the current challenges and financial considerations have led to the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:30.146450+00:00",
+              "published_date": "2024-12-27T04:15:00+00:00",
+              "source_hash": "66016e11bad2833ef8fa42518d1e13ee"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Cuts FY Outlook; Revenue Plunges",
+              "snippet": "Blink Charging said revenue plunged ... based electric-vehicle charging company on Thursday posted a loss of $87.4 million, or 86 cents a share, compared with a loss of $112.7 million, or $1. ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:30.146458+00:00",
+              "published_date": "2024-11-07T21:57:00+00:00",
+              "source_hash": "71942c32121bf3a2fea655445d9725b1"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Boosts Holdings in Blink Charging Co. (NASDAQ:BLNK)",
+              "snippet": "Stifel Financial Corp increased its holdings in Blink Charging Co. (NASDAQ:BLNK - Free Report ... The acquisition was disclosed in a legal filing with the Securities & Exchange Commission ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co financial losses and legal disputes",
+              "retrieved_at": "2025-01-06T14:07:30.146465+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "a8980b5296a23ab14715a1c53732d31d"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. | BBB Complaints | Better Business Bureau",
+              "snippet": "Sat. July 13, 2024. Parked at Blink EV charging station. Downloaded Blink app, set up acct including credit card info. Per instructions on app I chose start charge and proceeded on my errand.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628260+00:00",
+              "published_date": null,
+              "source_hash": "b77c0ad8378f742d018c39ab031a1e9b"
+            },
+            {
+              "url": "",
+              "title": " UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA - ClassAction.org",
+              "snippet": "of investors to insiders. Blink claims that 'EV drivers can easily charge at any of its 15,000 charging stations,' but we estimate that the Company's functional public charging station network consists of just 2,192 stations, a mere 15% of this claim.\" 5. Culper stated in its report that it sent out investigators who confirmed that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628380+00:00",
+              "published_date": null,
+              "source_hash": "3ac782c2af836be15d9183d1a94d478e"
+            },
+            {
+              "url": "",
+              "title": "Quarterly report pursuant to Section 13 or 15(d) - Blink Charging Co.",
+              "snippet": "On September 15, 2020, a shareholder derivative lawsuit, captioned Klein (derivatively on behalf of Blink Charging Co.) v. Farkas et al., Case No. 20- 19815CA01, was filed in Miami-Dade County Circuit Court seeking to pursue claims belonging to the Company against Blink's Board of Directors and Michael Rama (the \"Klein Lawsuit\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628406+00:00",
+              "published_date": null,
+              "source_hash": "a091eb3a0a49ccc06fca7f620e1e0610"
+            },
+            {
+              "url": "",
+              "title": "The financial press sounds alarms on San Antonio's new EV charging ...",
+              "snippet": "The city's contract makes Blink Charging a provider for electric vehicle (EV) charging equipment and would initially add up to 140 Blink-owned charging ports and three fast-charging stations throughout San Antonio. The contract was written to be cost-neutral for the city, with the possibility of San Antonio splitting revenue with the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628416+00:00",
+              "published_date": null,
+              "source_hash": "600ecc50d48e757e188829b911eae32e"
+            },
+            {
+              "url": "",
+              "title": "IMMINENT INVESTOR DEADLINE: Blink Charging Co. Sued by Block & Leviton ...",
+              "snippet": "Blink claims that 'EV drivers can easily charge at any of its 15,000 charging stations' but we estimate the Company's functional public charging station network consists of just 2,192 stations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628429+00:00",
+              "published_date": null,
+              "source_hash": "437738fa48781898088731ad27c91145"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. - Glancy Prongay & Murray LLP",
+              "snippet": "On August 19, 2020, Culper Research issued a report alleging, among other things, that \"the Company has vastly exaggerated the size of its EV charging network\" and estimated t",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628440+00:00",
+              "published_date": null,
+              "source_hash": "773706b5c70122ae9e5b10b0713b8557"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Company Public Policy Information",
+              "snippet": "Blink is proud to be a Buy America-compliant EV charging company and follow the standards set by the federal government. For Blink, this means: U.S. Based Manufacturing Testing and Research Component Materials and Labor The federal government's commitment to building a nationwide network of 500,000 EV chargers aims to achieve a 50% transition to EVs in new car sales by 2030.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660423+00:00",
+              "published_date": null,
+              "source_hash": "9d56db8cbd19e8d7a320913eb229061a"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Company Settlement | Levi & Korsinsky, LLP | Securities ...",
+              "snippet": "Blink Charging Co. Securities Litigation c/o Strategic Claims Services P.O. Box 230 600 N. Jackson Street, Suite 205 Media, PA 19063 +1 866-274-4004 info@strategicclaims.net.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:31.628460+00:00",
+              "published_date": null,
+              "source_hash": "b2bcbe08a527d97ebf8f5b87e8a5e21c"
+            },
+            {
+              "url": "",
+              "title": "Hold Rating Maintained for Blink Charging Co Amid Revenue Headwinds and Strategic Opportunities",
+              "snippet": "In a report released yesterday, Stephen Gengaro from Stifel Nicolaus maintained a Hold rating on Blink Charging Co (BLNK - Research Report), with a price target of $3.50. Discover the latest stocks recommended by top Wall Street analysts, all in one ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:34.123442+00:00",
+              "published_date": "2024-12-27T04:15:00+00:00",
+              "source_hash": "89f0a60bbbc5c3acec275771e89672a0"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With Blink Charging Stock Today?",
+              "snippet": "Blink Charging partners with Power Design to install 429 EV chargers in luxury apartments and condos across the U.S. Despite the partnership, Blink's stock drops 1.32%, continuing a trend of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:34.123461+00:00",
+              "published_date": "2024-12-05T14:40:00+00:00",
+              "source_hash": "8adde333af0660a7fedc616943ca0243"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging (NASDAQ:BLNK) Stock, Short Interest Report",
+              "snippet": "Short interest in Blink Charging Co (NASDAQ:BLNK) decreased during the last reporting period, falling from 24.06M to 23.00M. This put 24.11% of the company's publicly available shares short.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:34.123466+00:00",
+              "published_date": "2024-11-05T16:58:00+00:00",
+              "source_hash": "b98845b742b4ae0edd5f8cf77e8cb393"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging UK and Norfolk County Council to Deliver Next Phase of On-Street EV Charging in Norwich",
+              "snippet": "London, UK, Dec. 11, 2024 (GLOBE NEWSWIRE) -- Blink Charging UK (\"Blink\" or the \"Company\"), a wholly owned granddaughter company of Blink Charging Co., a ... and a formal public ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:34.123469+00:00",
+              "published_date": "2024-12-11T12:01:00+00:00",
+              "source_hash": "e00960893797430a583646972402b338"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. (BLNK)",
+              "snippet": "These new additions bring WEX's total network to approximately 130,000 public chargers nationwide. Bowie, Maryland, Sept. 09, 2024 (GLOBE NEWSWIRE) -- Blink Charging Co. (NASDAQ: BLNK), a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blink Charging Co Blink Charging Co controversies and public perception",
+              "retrieved_at": "2025-01-06T14:07:34.123473+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "39d6d191b72f7753d42492aa7e53de84"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Achieves \"In Process\" FedRAMP\u00ae Status to Provide Cloud ...",
+              "snippet": "Once fully accredited, Blink's EV charging network will be available to government agencies. Bowie, Md., (June 13, 2024) Blink Charging Co. (NASDAQ: BLNK) (\"Blink\" or the \"Company\"), a leading global manufacturer, owner, operator and provider of electric vehicle (EV) charging equipment and services, today announced it has achieved the \"In Process\" designation granted by the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660447+00:00",
+              "published_date": null,
+              "source_hash": "80de23499becc71eb2f39dbf2a5942b5"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Achieves \"In Process\" FedRAMP\u00ae Status to Provide Cloud ...",
+              "snippet": "Blink Charging Co. Once fully accredited, Blink's EV charging network will be available to government agencies. Bowie, Md., June 13, 2024 (GLOBE NEWSWIRE) -- Blink Charging Co. (NASDAQ: BLNK ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660454+00:00",
+              "published_date": null,
+              "source_hash": "a3ab6338ad3b64f0157e263e5ae750a8"
+            },
+            {
+              "url": "",
+              "title": "Governance Documents :: Blink Charging Co. (BLNK)",
+              "snippet": "Blink Charging Co. 5081 Howerton Way Ste. A Bowie, MD 20715 T: 305-521-0200",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660458+00:00",
+              "published_date": null,
+              "source_hash": "e9160b15c75f852196aac142acbd9724"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Applauds the Administrations New Standards for the Made ...",
+              "snippet": "Blink Charging Co. Miami, Fla., Feb. 15, 2023 (GLOBE NEWSWIRE) -- Michael D. Farkas, Chairman and Chief Executive Officer of Blink Charging Co., makes a statement on the Biden-\u2060Harris ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660461+00:00",
+              "published_date": null,
+              "source_hash": "6a1cf1244d5650269eebb1c45618721c"
+            },
+            {
+              "url": "",
+              "title": "Biden Administration's EV Charging Standards",
+              "snippet": "Miami, Fla., February 15, 2023 - Michael D. Farkas, Chairman and Chief Executive Officer of Blink Charging Co., makes a statement on the Biden-\u2060Harris Administration Announcement of the New Standards and Major Progress for a Made-in-America National Network of Electric Vehicle Chargers. \"Blink Charging, a global leading manufacturer, owner, operator and provider of electric vehicle (EV ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660465+00:00",
+              "published_date": null,
+              "source_hash": "d86f63d63bbb1cba44b389bfad53bce9"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Achieves \"In Process\" FedRAMP ... - Markets Insider",
+              "snippet": "Once fully accredited, Blink's EV charging network will be available to government agencies.Bowie, Md., June 13, 2024 (GLOBE NEWSWIRE) -- Blink ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660469+00:00",
+              "published_date": null,
+              "source_hash": "ab12d60c6240f70cc18c654767261e88"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Adds One Key Risk Factor - Nasdaq",
+              "snippet": "S hares of electric vehicle (EV) charging equipment and services provider Blink Charging Co. have surged as much as 228% over the past 12 months.The company recently reported record Q3 performance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660473+00:00",
+              "published_date": null,
+              "source_hash": "8ddd4f5f18f52047e4ee8a20ed068eb3"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Applauds Bi-Partisan Letter from 12 Governors ... - Nasdaq",
+              "snippet": "--Blink Charging Co., a leading owner, operator, and provider of electric vehicle charging equipment and services, supports the call for the establishment of a regulatory framework to enhance the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660476+00:00",
+              "published_date": null,
+              "source_hash": "de093ffbd768e2ced3c60fb93af39e60"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Achieves \"In Process\" FedRAMP\u00ae Status to",
+              "snippet": "Once fully accredited, Blink's EV charging network will be available to government agencies. Bowie, Md., June 13, 2024 (GLOBE NEWSWIRE) -- Blink Charging Co. (NASDAQ: BLNK) (\"Blink\" or the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:35.660480+00:00",
+              "published_date": null,
+              "source_hash": "7c864c0538b2bcf93410e8eacedf5354"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co (BLNK) Stock: More Robust Than the Numbers Suggest?",
+              "snippet": "Blink Charging Co (BLNK) stock saw a decline, ending the day at $1.46 which represents a decrease of $-0.09 or -5.81% from the prior close of $1.55. The stock opened at $1.5 and touched a low of $1.44 during the day,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:38.253827+00:00",
+              "published_date": "2024-12-31T22:21:00+00:00",
+              "source_hash": "2d6305810ef8fe064bf4d24557c5e112"
+            },
+            {
+              "url": "",
+              "title": "Hold Rating Maintained for Blink Charging Co Amid Revenue Headwinds and Strategic Opportunities",
+              "snippet": "In a report released yesterday, Stephen Gengaro from Stifel Nicolaus maintained a Hold rating on Blink Charging Co (BLNK - Research Report), with ... s DC fast charger deployment, pose further risks to revenue growth. On a positive note, there are ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:38.253840+00:00",
+              "published_date": "2024-12-27T04:15:00+00:00",
+              "source_hash": "c61762d60fa9b2ce273653754f1d5b8d"
+            },
+            {
+              "url": "",
+              "title": "Power Design Teams Up with Blink Charging to Provide 429 Blink Charging Stations Across Multiple Projects",
+              "snippet": "Dec. 05, 2024 (GLOBE NEWSWIRE) -- Blink Charging Co. (NASDAQ: BLNK ... \"should\" or other comparable terms, involve risks and uncertainties because they relate to events and depend on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:38.253845+00:00",
+              "published_date": "2024-12-05T06:00:00+00:00",
+              "source_hash": "a37f54dffec37abd7fa5750c209bbe62"
+            },
+            {
+              "url": "",
+              "title": "Blink Charging Co. (BLNK)",
+              "snippet": "marking the first joint live discussion since announcing leadership changes coming in 2025. Bowie, MD, Sept. 10, 2024 (GLOBE NEWSWIRE) -- Blink Charging Co. (NASDAQ: BLNK) (\"Blink\" or the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blink Charging Co Blink Charging Co regulatory risks and government policy changes",
+              "retrieved_at": "2025-01-06T14:07:38.253848+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "fdd87907c5c4554d66414582d52393fc"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Blink Charging Co financial losses and legal disputes",
+              "rationale": "Investigate financial performance and any ongoing legal issues",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Blink Charging Co controversies and public perception",
+              "rationale": "Explore any ethical concerns or negative public sentiment",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Blink Charging Co regulatory risks and government policy changes",
+              "rationale": "Assess potential impacts from changes in EV-related regulations",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:07:58.305388",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

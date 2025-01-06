@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:53:28.178239",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Docebo Inc",
+      "symbol": "DCBO",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Competitive Landscape: Highly competitive LMS market with established players and emerging startups.",
+            "Customer Concentration Risk: Significant revenue from a small number of large enterprise clients.",
+            "Economic Sensitivity: Growth tied to corporate spending on training, vulnerable to economic downturns.",
+            "Data Privacy and Security: Handling sensitive corporate and employee data requires robust security measures.",
+            "Legal and Regulatory Risks: Ongoing compliance challenges with evolving data privacy regulations.",
+            "CFO Transition: Departure of CFO introduces potential uncertainty in financial leadership."
+          ],
+          "controversies": [
+            "Legal activity: Docebo N.A. vs Liveyon, LLC.",
+            "Updates to Data Processing Addendums (DPA) highlighting compliance challenges."
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data Privacy and Security: Potential harm to reputation and customer trust from data breaches."
+          ],
+          "governance_issues": [
+            "Private Equity Dominance: Private equity firms own 53% of Docebo, potentially influencing strategic decisions.",
+            "CFO Transition: Uncertainty in financial leadership due to CFO departure."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Case activity for Docebo N.A. vs Liveyon, LLC on Dec. 17",
+              "snippet": "The Orange County Superior Court reported the following activities in the suit brought by Docebo N.A. against Liveyon, LLC on Dec. 17. 'Civil Case Cover Sheet Filed By Docebo Na, Inc. On 12/17/2021' 'Complaint Filed By Docebo Na, Inc. On 12/17/2021' 'E-filing Transaction 31098710 Received On 12/17/2021 11:44:17 AM.'",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770144+00:00",
+              "published_date": null,
+              "source_hash": "87159496b585363a572db8d53ba3f215"
+            },
+            {
+              "url": "",
+              "title": "Data Processing Addendums - Docebo",
+              "snippet": "Ver. 8.0 of April 2024. This Data Processing Addendum (this \" DPA \") represents the Parties' agreement regarding the Processing of Customer Data, including Customer Personal Data, by Docebo on behalf of the Customer for the purposes of carrying out the Services, and it forms part of the Agreement, as updated from time to time. Capitalized terms used in this DPA, but not otherwise defined ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770249+00:00",
+              "published_date": null,
+              "source_hash": "7a7298bb6dcaa89dd15a7c719f7d126a"
+            },
+            {
+              "url": "",
+              "title": "FAQ: Docebo Amendment to Customer DPA | Community",
+              "snippet": "This post is to bring some light to the what and why of the email sent out titled: Docebo Amendment to Customer DPA to incorporate new SCCs. BUT, if you joined the Docebo family after September 2021, there is no action required on your part. When you joined, Docebo had already updated our DPA to align with all requirements.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770262+00:00",
+              "published_date": null,
+              "source_hash": "6a37276459929a68829f9075940d4287"
+            },
+            {
+              "url": "",
+              "title": "Docebo - Privacy Policy",
+              "snippet": "Type of personal information. Purposes. Legal basis. Contact information. To send you an order confirmation and invoice you accordingly; To administer your account, including your single sign-on (SSO) access",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770271+00:00",
+              "published_date": null,
+              "source_hash": "61e0928c82b7680788e7f30bffcdda98"
+            },
+            {
+              "url": "",
+              "title": "Privacy Policy: Questions & Answers - Docebo Help & Support",
+              "snippet": "Being transparent and providing accessible information to individuals about how you will use their personal data is a key element of the Data Protection Act 1998 (DPA) and the EU General Data Protection Regulation (GDPR). The most common way to provide this information is in a privacy notice. Docebo's privacy policy feature allows Data ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770278+00:00",
+              "published_date": null,
+              "source_hash": "412b8ce11f93d520cf01df05d37aef23"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "DOCEBO INC. WHISTLEBLOWER POLICY . The following whistleblower policy was adopted by the board of directors of Docebo Inc. (the \"Company\") on March 9, 2022. As indicated in the Company's Code of Business Conduct and Ethics (the \" Code \"), the Company and its subsidiaries (collectively, the \" Docebo Entities \") have a strong commitment",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770285+00:00",
+              "published_date": null,
+              "source_hash": "c288c6ecdbfa31082f30e8279c7001be"
+            },
+            {
+              "url": "",
+              "title": "Standards, Regulations & Certifications - Docebo",
+              "snippet": "Docebo's commitment to information security and data protection is paramount. Docebo maintains an ISO 27001-certified information security management system (ISMS) and, within this framework, has developed a comprehensive information security program, including a complete set of controls implemented in accordance with ISO 27001 and AICPA/ISAE 3000 SOC 2 managed by a dedicated security team.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770292+00:00",
+              "published_date": null,
+              "source_hash": "164babb6337bc8deab7afdeb83aa8051"
+            },
+            {
+              "url": "",
+              "title": "The biggest data breach fines, penalties, and settlements so far",
+              "snippet": "In July 2022, mobile communications giant T-Mobile announced the terms of a settlement for a consolidated class action lawsuit following a data breach that occurred in early 2021, impacting an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770300+00:00",
+              "published_date": null,
+              "source_hash": "0855ff3f69d99d077e0b30ff052619db"
+            },
+            {
+              "url": "",
+              "title": "Court Records - Utah State Courts",
+              "snippet": "Archived Court Records Historical Court Records (more than 50 years old). The Utah State Archives is the repository for many judicial/court records, including the Utah State Supreme Court and many county district courts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770309+00:00",
+              "published_date": null,
+              "source_hash": "91385159819961ff47e49cc93765ca80"
+            },
+            {
+              "url": "",
+              "title": "Compensation available through $20M Vivint settlement for misusing ...",
+              "snippet": "Approximately 9,000 people will soon be getting notices with instructions on filing a claim related to a settlement between the Federal Trade Commission and Vivint Smart Homes Inc. over misuse of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:55.770316+00:00",
+              "published_date": null,
+              "source_hash": "e37fba0aa2fb192208a76590bb8d1b1e"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. Announces CFO Transition",
+              "snippet": "Docebo Inc. (NASDAQ: DCBO; TSX: DCBO) (\"Docebo\" or the \"Company\") today announced that Sukaran Mehta will be stepping down from his role as Chief Financial Officer to accept an undisclosed leadership role in a private equity portfolio company outside of the learning and education technology industries.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:59.101557+00:00",
+              "published_date": "2025-01-02T22:12:00+00:00",
+              "source_hash": "7a22d49cb8abfc764609044a4fedd821"
+            },
+            {
+              "url": "",
+              "title": "While institutions own 28% of Docebo Inc. (TSE:DCBO), private equity firms are its largest shareholders with 53% ownership",
+              "snippet": "Every investor in Docebo Inc. (TSE ... changes that will create near term value for shareholders. Our data shows that Intercap Inc. is the largest shareholder with 42% of shares outstanding.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:59.101665+00:00",
+              "published_date": "2024-12-18T00:00:00+00:00",
+              "source_hash": "467727c332bd90e9838d37cc235dda7e"
+            },
+            {
+              "url": "",
+              "title": "Docebo (TSE:DCBO) Stock Price Up 1.2% - Should You Buy?",
+              "snippet": "Docebo Inc. (TSE:DCBO - Get Free Report)'s share ... to prove and improve training programs; Docebo Learn Data, which gives a comprehensive view on learning data to business results; Docebo ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:59.101686+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "4a7e6bf52b40bc8721e1679c1e24f7de"
+            },
+            {
+              "url": "",
+              "title": "Docebo and Deloitte Forge Strategic Alliance Enabling Enterprises to Evolve Into High-Impact Learning Organizations",
+              "snippet": "TORONTO--(BUSINESS WIRE)-- Docebo Inc. (Nasdaq:DCBO; TSX:DCBO) (\"Docebo\" or the \"Company\"), a global leader in AI-powered learning solutions, today announced a strategic alliance with Deloitte to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:59.101699+00:00",
+              "published_date": "2024-11-21T14:00:00+00:00",
+              "source_hash": "968727432b491e2e6cb2f451a3fe59c3"
+            },
+            {
+              "url": "",
+              "title": "Closing Bell: Docebo Inc up on Thursday (DCBO)",
+              "snippet": "Docebo Inc opened trading today at $60.00 and closed ... This report is produced using automated technology that summarizes market data into articles for our readers. Ongoing project experiments ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:52:59.101710+00:00",
+              "published_date": "2024-02-02T01:51:00+00:00",
+              "source_hash": "ce058dba416e6605046028f2e5967d9a"
+            },
+            {
+              "url": "",
+              "title": "Introducing Docebo - Saul's Investing Discussions - Motley Fool Community",
+              "snippet": "Docebo appeals to a wide variety of industry verticals. There is no customer concentration risk. 72% of customers are from North America and 28% from abroad - primarily Europe. Leading Companies that Chose Docebo demonstrate the wide variety of vertical applications: \u2022Amazon Web Services \u2022Thomson Reuters \u2022L'Oreal \u2022HP \u2022Pearson ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550181+00:00",
+              "published_date": null,
+              "source_hash": "1cc87d8cd5909d978d78d0443ef88387"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "Docebo Inc. (\"Docebo\" or the \"Company\"), a leading learning platform provider, was incorporated on April 21, 2016 under the Canada Business Corporations Act and is domiciled in Ontario, Canada. ... Due to the Company's diversified customer base, there is no particular concentration of credit risk related to the Company's trade and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550217+00:00",
+              "published_date": null,
+              "source_hash": "0301371e597ca28c55c2a68206b4d5c3"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "Docebo Inc. (the \"Company\" or \"Docebo\") is a provider of cloud-based learning management systems. ... Due to the Company's diversified customer base, there is no particular concentration of credit risk related to the Company's trade and other receivables. Trade and other receivables are monitored on an ongoing basis to ensure timely ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550225+00:00",
+              "published_date": null,
+              "source_hash": "4069cef3039d69eee6c6a5fdf688c9c8"
+            },
+            {
+              "url": "",
+              "title": "docebo-20240331 - SEC.gov",
+              "snippet": "Docebo Inc. (\"Docebo\" or the \"Company\"), a leading learning platform provider, was incorporated on April 21, 2016 under the Canada Business Corporations Act and is domiciled in Ontario, Canada. ... Due to the Company's diversified customer base, there is no particular concentration of credit risk related to the Company's trade and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550231+00:00",
+              "published_date": null,
+              "source_hash": "e042cb14acf12c404328e4584307de93"
+            },
+            {
+              "url": "",
+              "title": "The Momentum Shift: Docebo Is Losing Its Pace - Seeking Alpha",
+              "snippet": "In 2021, Docebo reported a nearly 30% year-over-year increase in its customer base. Fast forward to the present, and we see a sharp drop, with the company announcing only a 19% increase in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550236+00:00",
+              "published_date": null,
+              "source_hash": "680f6a0bbe2f72691b3d0836e1503fca"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) SWOT Analysis - dcf-fm",
+              "snippet": "Docebo Inc. (DCBO) - SWOT Analysis: Weaknesses High Dependency on Large Enterprise Clients. Docebo's revenue model heavily relies on large enterprise clients, which accounted for approximately 80% of its total revenue in fiscal year 2022. This dependency poses a risk; losing even a few large clients could significantly impact the company's financial health.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548554+00:00",
+              "published_date": null,
+              "source_hash": "02fad6154ed9df6e8d8d95e21a32da04"
+            },
+            {
+              "url": "",
+              "title": " Docebo Inc. TSX:DCBO - s24.q4cdn.com",
+              "snippet": "DOCEBO INC. FQ1 2024 EARNINGS CALL MAY 10, 2024 ... For more information on the risks, uncertainties and assumptions relating to forward-looking statements, please refer Docebo's public filings, which are available on SEDAR and EDGAR. ... combine that with what we shared on the large customer impact that we had; however, just for clarity, a",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550249+00:00",
+              "published_date": null,
+              "source_hash": "3f644c9f87007eb6a055f18a3150bcd2"
+            },
+            {
+              "url": "",
+              "title": " Investor Presentation | March 2023",
+              "snippet": "Docebo for external training or hybrid training use cases REVENUE ENABLEMENT EXTERNAL TRAINING TALENT DEVELOPMENT COMPLIANCE Sales Enablement Get sales teams up to speed and crushing quotas faster. Customer Training Keep your customers happy, healthy, and loyal. Employee Onboarding Ramp up new employees so they can get down to business sooner.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550255+00:00",
+              "published_date": null,
+              "source_hash": "1db016e30f3f1a01358fd958059a0ec4"
+            },
+            {
+              "url": "",
+              "title": "Docebo Contends With Troubled Lower-End Market - Seeking Alpha",
+              "snippet": "Docebo Inc. reported better-than-expected Q1 2024 financial results, but is facing demand weakness and increased customer churn. Read why DCBO stock is a hold.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550260+00:00",
+              "published_date": null,
+              "source_hash": "44d94417537965afcaa903bb90b2c660"
+            },
+            {
+              "url": "",
+              "title": "Docebo Canada Inc. - Docebo Reports Third Quarter 2024 Results",
+              "snippet": "Docebo Inc. (NASDAQ: DCBO; TSX:DCBO) (\" Docebo \" or the \" Company \"), a leading learning platform provider with a foundation in artificial intelligence (AI) and innovation, announced financial results for the three and nine months ended September 30, 2024. All amounts are expressed in US dollars unless otherwise stated. \"We surpassed our Q3 targets in both revenue and profitability ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:01.550264+00:00",
+              "published_date": null,
+              "source_hash": "dc6a0ddbc3d807bf2156a0aab3072928"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. Announces CFO Transition",
+              "snippet": "Docebo Inc. (NASDAQ: DCBO; TSX: DCBO) (\"Docebo\" or the \"Company\") today announced that Sukaran Mehta will be stepping down from his role as Chief Fina",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:03.906792+00:00",
+              "published_date": "2025-01-03T02:00:00+00:00",
+              "source_hash": "014666976288a6fccfafe25a86e52fbc"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) Partners with Class Technologies to Revolutionize Virtual Instructor-Led Training with AI-Powered Solutions",
+              "snippet": "In this article, we are going to take a look at where Docebo Inc. (NASDAQ:DCBO ... and other potential risks, still need to be resolved for responsible and sustainable integration into society.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:03.906843+00:00",
+              "published_date": "2024-12-10T02:51:00+00:00",
+              "source_hash": "6c5e7d081e1b89d96ddf17f84fc73a32"
+            },
+            {
+              "url": "",
+              "title": "Docebo (TSE:DCBO) Stock Price Up 1.2% - Should You Buy?",
+              "snippet": "Docebo Inc. (TSE:DCBO - Get Free Report)'s share price was up 1.2% during trading on Thursday .The company traded as high as C$67.03 and last traded at C$66.68. Approximately 15,408 shares ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:03.906858+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "5a9c7c9fbb7c15ffcb638e10de264aea"
+            },
+            {
+              "url": "",
+              "title": "While institutions own 28% of Docebo Inc. (TSE:DCBO), private equity firms are its largest shareholders with 53% ownership",
+              "snippet": "Every investor in Docebo Inc. (TSE:DCBO) should be aware of the most powerful shareholder groups. We can see that private equity firms own the lion's share in the company with 53% ownership.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:08.063748+00:00",
+              "published_date": "2024-12-18T00:00:00+00:00",
+              "source_hash": "0065cdac02fb3360dd399c884ffe8a41"
+            },
+            {
+              "url": "",
+              "title": "Docebo Named a 2024 AWS Rising Star Technology Partner of the Year",
+              "snippet": "BIASSONO, Italy--(BUSINESS WIRE)--Docebo Inc. (NASDAQ: DCBO ... Docebo's outstanding year-over-year growth, innovation, and customer impact through its transformative use of AWS technologies.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Docebo Inc Docebo Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T13:53:03.906880+00:00",
+              "published_date": "2024-12-05T08:00:00+00:00",
+              "source_hash": "b5df7e17e48d6af74154b888d89be61e"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) Latest Stock Analysis - Seeking Alpha",
+              "snippet": "Find the latest Docebo Inc. (DCBO) stock analysis from Seeking Alpha's top analysts: exclusive research and insights from bulls and bears. ... Docebo Inc.: Holding Up In Weak Economic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548411+00:00",
+              "published_date": null,
+              "source_hash": "ca07d971d5338b008de48a89f093eb8c"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) Statistics & Valuation Metrics - Stock Analysis",
+              "snippet": "Detailed statistics for Docebo Inc. (DCBO) stock, including valuation metrics, financial numbers, share information and more. Skip to main content. Log In Sign Up. Home. Stocks. Stock Screener; ... Stock Analysis Pro. Watchlist. Collapse. Docebo Inc. (DCBO) NASDAQ: DCBO \u00b7 Real-Time Price \u00b7 USD. Watchlist Compare. 44.77-.26 (-0.58%) At close ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548524+00:00",
+              "published_date": null,
+              "source_hash": "f41b62e178fd650825eb6e857f79f928"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) - Yahoo Finance",
+              "snippet": "See Docebo Inc. (DCBO) stock analyst estimates, including earnings and revenue, EPS, upgrades and downgrades. ... Research Analysis. Earnings Per Share. Consensus EPS ... Top Economic Events. Top ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548543+00:00",
+              "published_date": null,
+              "source_hash": "e915bea501413e536bda3586f6c066fd"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) Analyst Ratings - Stock Analysis",
+              "snippet": "Docebo Inc. (DCBO) NASDAQ: DCBO \u00b7 Real-Time Price \u00b7 USD. Watchlist Compare. 45.03-.62 (-1.36%) Dec 30, 2024, 4:00 PM EST - Market closed. Overview; Financials; Statistics; ... Get much more with Stock Analysis Pro. Investment ideas from the top Wall Street analysts; Unlimited access to all data and tools;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548565+00:00",
+              "published_date": null,
+              "source_hash": "4fe1b798fd5e591a73ebd62c845ef72c"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO:CA) Latest Stock Analysis - Seeking Alpha",
+              "snippet": "Find the latest Docebo Inc. (DCBO:CA) stock analysis from Seeking Alpha's top analysts: exclusive research and insights from bulls and bears. ... Docebo Inc.: Holding Up In Weak Economic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548576+00:00",
+              "published_date": null,
+              "source_hash": "9275c3f954ffbe93e726a84d40cd81fa"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (TSX: DCBO) Statistics & Valuation Metrics - Stock Analysis",
+              "snippet": "Detailed statistics for Docebo Inc. (TSX: DCBO) stock, including valuation metrics, financial numbers, share information and more. Skip to main content. Log In Sign Up. Home. Stocks. ... Stock Analysis Pro. Watchlist. Collapse. Docebo Inc. (TSX: DCBO) Canada \u00b7 Delayed Price \u00b7 Currency is CAD . Watchlist. 66.56-3.27 (-4.68%) Nov 14, 2024, 4:00 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548585+00:00",
+              "published_date": null,
+              "source_hash": "bdf9135d2510954c29633572f0e9f180"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO.TO) - Yahoo Finance Canada",
+              "snippet": "See Docebo Inc. (DCBO.TO) stock analyst estimates, including earnings and revenue, EPS, upgrades and downgrades.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548594+00:00",
+              "published_date": null,
+              "source_hash": "00dbe211281958f805f62d53ff1f4468"
+            },
+            {
+              "url": "",
+              "title": "Consensus Docebo Inc. Nasdaq - MarketScreener.com",
+              "snippet": "Docebo Inc. Presents at Barclays 22nd Annual Global Technology Conference 2024, Dec-11-2024 11:00 AM Dec. 03 Class Technologies Announces Partnership with Docebo",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548603+00:00",
+              "published_date": null,
+              "source_hash": "7691a2b1c05eb7467f20a4d365e2b9e7"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc.: Valuation Ratios, Analysts' Forecasts - MarketScreener",
+              "snippet": "Docebo Inc. Presents at Barclays 22nd Annual Global Technology Conference 2024, Dec-11-2024 11:00 AM Dec. 03 Class Technologies Announces Partnership with Docebo",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:05.548611+00:00",
+              "published_date": null,
+              "source_hash": "25dc3e069719779683327342d3dac87d"
+            },
+            {
+              "url": "",
+              "title": "Docebo (TSE:DCBO) Stock Price Up 1.2% - Should You Buy?",
+              "snippet": "Docebo Inc. (TSE:DCBO - Get Free Report)'s share price was up 1.2% during trading on Thursday . The company traded as high as C$67.03 and last traded at C$66.68. Approximately 15,408 shares changed hands during trading,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:08.063665+00:00",
+              "published_date": "2024-12-27T05:36:00+00:00",
+              "source_hash": "04eee62b85bd0f4c205d12ec6af94e00"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc Ordinary Shares",
+              "snippet": "We also respect individual opinions--they represent the unvarnished thinking of our people and exacting analysis of our research processes. Our authors can publish views that we may or may not ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:08.063763+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "5b9e3f7c6afaaaddbe059bc177c1fd8a"
+            },
+            {
+              "url": "",
+              "title": "Docebo Announces CFO Departure Amidst Strong Growth",
+              "snippet": "Docebo (TSE:DCBO) has released an update.Don't Miss Our New Year's Offers:Discover the latest stocks recommended by top Wall Street analysts,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:08.063773+00:00",
+              "published_date": "2025-01-02T22:37:00+00:00",
+              "source_hash": "fa42e0bcc4b38f53de37d0c5a4703d7a"
+            },
+            {
+              "url": "",
+              "title": "Docebo Inc. (DCBO) Q3 Earnings and Revenues Top Estimates",
+              "snippet": "Docebo Inc. (DCBO) came out with quarterly earnings of $0.27 per share, beating the Zacks Consensus Estimate of $0.25 per share. This compares to earnings of $0.15 per share a year ago.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docebo Inc Docebo Inc economic sensitivity analysis",
+              "retrieved_at": "2025-01-06T13:53:08.063783+00:00",
+              "published_date": "2024-12-10T22:49:00+00:00",
+              "source_hash": "46341a191bf59f64379eaaecc323d926"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Docebo Inc data privacy lawsuits",
+              "rationale": "Investigate potential legal issues related to data privacy and security breaches",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Docebo Inc customer concentration risks",
+              "rationale": "Examine the impact of revenue dependency on a small number of large enterprise clients",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Docebo Inc economic sensitivity analysis",
+              "rationale": "Assess how economic downturns or budget cuts could affect corporate spending on Docebo's LMS",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:53:28.178246",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

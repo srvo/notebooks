@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:55:17.142745",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Donnelley Financial Solutions Inc",
+      "symbol": "DFIN",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory and cybersecurity risks due to reliance on SEC and ESMA frameworks and past cybersecurity breaches",
+            "Economic sensitivity tied to capital markets activity",
+            "Intense competitive pressures from traditional and fintech competitors",
+            "Debt and financial stability concerns related to compliance with debt covenants"
+          ],
+          "controversies": [
+            "2019 cybersecurity breach resulting in theft of personal information of over 200,000 individuals"
+          ],
+          "environmental_issues": [
+            "Introduction of eco-friendly practices in print and distribution services"
+          ],
+          "social_issues": [
+            "Generally positive employee sentiment with 60% recommending the company and a positive business outlook"
+          ],
+          "governance_issues": [
+            "Potential governance challenges related to regulatory dependence and cybersecurity management"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions - Financials - SEC Filings",
+              "snippet": "At Donnelley Financial, LLC, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636111+00:00",
+              "published_date": null,
+              "source_hash": "33e42dcd4e0a5b94252546b44573a98b"
+            },
+            {
+              "url": "",
+              "title": "Toretto et al v. Donnelley Financial Solutions, Inc., et al, No. 1 ...",
+              "snippet": "Donnelley Financial Solutions, Inc., et al, No. 1:2020cv02667 - Document 127 (S.D.N.Y. 2022) case opinion from the Southern District of New York US Federal District Court ... Id. \u00b6 16. Mediant began an investigation into the breach, but the company did not immediately notify the impacted customers. Id. ... Inc., Customer Data Sec. Breach Litig ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636149+00:00",
+              "published_date": null,
+              "source_hash": "0bb29a2c7ff0822c6c4e2c24f478dade"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. (DFIN) 10K Annual Reports & 10Q SEC ...",
+              "snippet": "Inside Donnelley Financial Solutions, Inc.'s 10-K Annual Report: Financial - Debt Highlight. However, declines in market and economic conditions or demand for certain of the Company's services and products could impact the Company's ability to remain in compliance with its debt covenants in future periods. Financial - Earnings Highlight",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636159+00:00",
+              "published_date": null,
+              "source_hash": "db0bc390b3a03326a39181b2c70f7d54"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions Inc. SEC Filings - MarketWatch",
+              "snippet": "Donnelley Financial Solutions Inc. SEC filings breakout by MarketWatch. View the DFIN U.S. Securities and Exchange Commission reporting information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636165+00:00",
+              "published_date": null,
+              "source_hash": "79f2c3eb3a8d383105c7886928641058"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. - SEC.gov",
+              "snippet": "SPECIAL NOTE REG ARDING FORWARD-LOOKING STATEMENTS. Donnelley Financial Solutions, Inc. and subsidiaries (\"DFIN\" or the \"Company\") has made forward-looking statements in this Quarterly Report on Form 10-Q (the \"Quarterly Report\") within the meaning of the \"safe harbor\" provisions of the Private Securities Litigation Reform Act of 1995 that are subject to risks and uncertainties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636170+00:00",
+              "published_date": null,
+              "source_hash": "a514172fd329465186b9bdc5e36d431c"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions (DFIN) SEC Filings & 10K Form",
+              "snippet": "Donnelley Financial Solutions (Subject) Simcoe Capital Management, LLC (Filed by) Form SC 13D/A: 05/13/2024 7:01 PM: Donnelley Financial Solutions (Issuer) Jacobowitz Jeffrey (Reporting) Form 4 Statement of changes in beneficial ownership of securities 05/09/2024 6:37 PM: Donnelley Financial Solutions (Subject) Simcoe Capital Management, LLC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636176+00:00",
+              "published_date": null,
+              "source_hash": "f09a1919181c00f2818e5cd398d9f80a"
+            },
+            {
+              "url": "",
+              "title": "DFIN / Donnelley Financial Solutions, Inc. - SEC Filings ... - Fintel",
+              "snippet": "DFIN SEC Filings - Donnelley Financial Solutions, Inc.- Annual Report, Proxy Statement, Prospectus ... Description of the Donnelley Financial Solutions, Inc. Securities Registered under Section 12 of the Exchange Act (incorporated by reference to Exhibit 4.2 to the Company's Annual Report on Form 10-K dated December 31, 2019, filed on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636181+00:00",
+              "published_date": null,
+              "source_hash": "fd45cb050b5b0b5a6815987dfcc76098"
+            },
+            {
+              "url": "",
+              "title": "Latest SEC filings for Donnelley Financial Solutions, Inc. (DFIN)",
+              "snippet": "Donnelley Financial Solutions, Inc. (DFIN) - 10-Q - Quarterly Report SEC Filings Thu, May 07, 2020 Donnelley Financial Solutions, Inc. (DFIN) - 10-K - Annual Report",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636186+00:00",
+              "published_date": null,
+              "source_hash": "2c3e66d47d73aa1f4aa8c1085b833348"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. Common Stock (DFIN) - Nasdaq",
+              "snippet": "Find the latest SEC Filings data for Donnelley Financial Solutions, Inc. Common Stock (DFIN) at Nasdaq.com.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636190+00:00",
+              "published_date": null,
+              "source_hash": "d140a114071e7864cb83bfdd99ae9989"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions Inc. - Filings and Transcripts - BamSEC",
+              "snippet": "SEC filings and transcripts for Donnelley Financial Solutions Inc., including financials, news, proxies, indentures, prospectuses, ... Addition of securities to prior initial registration 06/14/17 S-1/A Initial registration of new securities - amended 06/07/17 S-1/A ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:47.636195+00:00",
+              "published_date": null,
+              "source_hash": "86fa54d8800ce66273b3d94d81c3e652"
+            },
+            {
+              "url": "",
+              "title": "Is Donnelley Financial Solutions Inc. (DFIN) the Most Profitable Small-Cap Stock to Invest In?",
+              "snippet": "A woman in a suit and tie on a platform, speaking to shareholders about the latest contract analysis and SEC compliance solutions. Donnelley Financial Solutions Inc. (NYSE:DFIN) provides software ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:49.976848+00:00",
+              "published_date": "2024-10-29T20:45:00+00:00",
+              "source_hash": "528a31c4c4a7fd5d03726722b9f63aa2"
+            },
+            {
+              "url": "",
+              "title": "Sanctuary Advisors LLC Raises Stake in Donnelley Financial Solutions, Inc. (NYSE:DFIN)",
+              "snippet": "Sanctuary Advisors LLC boosted its holdings in Donnelley Financial Solutions, Inc. (NYSE:DFIN - Free Report) by 11.0% during the third quarter, according to the company in its most recent disclosure with the SEC.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:53.972029+00:00",
+              "published_date": "2024-12-25T08:26:00+00:00",
+              "source_hash": "048b34eb8f8a28a7acd3ca1c57bcf0cb"
+            },
+            {
+              "url": "",
+              "title": "Barclays PLC Has $4.96 Million Stock Position in Donnelley Financial Solutions, Inc. (NYSE:DFIN)",
+              "snippet": "Barclays PLC increased its holdings in Donnelley Financial Solutions, Inc. (NYSE:DFIN - Free Report) by 33.0% during the third quarter, according to its most recent 13F filing with the Securities and Exchange Commission (SEC).",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:53.971997+00:00",
+              "published_date": "2024-12-21T09:00:00+00:00",
+              "source_hash": "5ef9baec0fae524b21210435973b1289"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial board member resigns, no disagreement cited",
+              "snippet": "Donnelley Financial Solutions, Inc. (NYSE:DFIN), a provider of financial ... was made public through a recent SEC filing. According to the statement released today, Jacobowitz, who has been ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:49.976902+00:00",
+              "published_date": "2024-11-22T07:38:00+00:00",
+              "source_hash": "3c7f48a32b4b891fe515526b7d56b0a7"
+            },
+            {
+              "url": "",
+              "title": "Are Investors Undervaluing Donnelley Financial Solutions (DFIN) Right Now?",
+              "snippet": "One company to watch right now is Donnelley Financial Solutions (DFIN). DFIN is currently sporting a Zacks Rank of #2 (Buy) and an A for Value. The stock is trading with P/E ratio of 17.49 right now.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc SEC investigations",
+              "retrieved_at": "2025-01-06T13:54:49.976908+00:00",
+              "published_date": "2024-12-18T09:39:00+00:00",
+              "source_hash": "fc3a71dfafa824eda19d16bb06773fc6"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions (DFIN) reviews - Glassdoor",
+              "snippet": "Donnelley Financial Solutions (DFIN) has an overall rating of 3.6 out of 5, based on over 361 reviews left anonymously by employees. 60% of employees would recommend working at Donnelley Financial Solutions (DFIN) to a friend and 60% have a positive outlook for the business. This rating has improved by 1% over the last 12 months.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630817+00:00",
+              "published_date": null,
+              "source_hash": "65ddb02d0fdc15dc1fb74ca7efdef988"
+            },
+            {
+              "url": "",
+              "title": "DONNELLEY FINANCIAL SOLUTIONS Employee Reviews - Indeed",
+              "snippet": "102 reviews from DONNELLEY FINANCIAL SOLUTIONS employees about DONNELLEY FINANCIAL SOLUTIONS culture, salaries, benefits, work-life balance, management, job security, and more. Working at DONNELLEY FINANCIAL SOLUTIONS: 102 Reviews | Indeed.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630847+00:00",
+              "published_date": null,
+              "source_hash": "766a6c2d961c4cec13aaa01cb5ba94c6"
+            },
+            {
+              "url": "",
+              "title": "Working at Donnelley Financial Solutions (DFIN) - Glassdoor",
+              "snippet": "How do job seekers rate their interview experience at Donnelley Financial Solutions (DFIN)? 45% of job seekers rate their interview experience at Donnelley Financial Solutions (DFIN) as positive. Candidates give an average difficulty score of 2.7 out of 5 (where 5 is the highest level of difficulty) for their job interview at Donnelley ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630853+00:00",
+              "published_date": null,
+              "source_hash": "c6229c1cbc2964546304c19f58725043"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions Inc - Great Place To Work\u00ae",
+              "snippet": "Great Place To Work Certification criteria are the global standard for quantifying and benchmarking the employee experience. Using the Great Place To Work Trust Model and the Trust Index Survey, Certification evaluates workplace culture from the perspective that matters the most \u2014 the employee \u2014 offering the most comprehensive picture on the market of the internal health of an organization.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630858+00:00",
+              "published_date": null,
+              "source_hash": "7537c12060e45a8679d206d831da7889"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. (DFIN): history, ownership ... - dcf-fm",
+              "snippet": "How Donnelley Financial Solutions, Inc. (DFIN) Works Business Overview Donnelley Financial Solutions, Inc. (DFIN) is a global provider of innovative software and technology-enabled financial regulatory and compliance solutions. ... Employees: Workforce of approximately 2,300 employees focused on customer success. Regulatory Bodies: 100% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630865+00:00",
+              "published_date": null,
+              "source_hash": "d5a34fa55521ece51a1c55ef2c223b0a"
+            },
+            {
+              "url": "",
+              "title": "DONNELLEY FINANCIAL SOLUTIONS Careers and Employment",
+              "snippet": "Donnelley Financial Solutions (NYSE: DFIN) provides software and services that enable clients to communicate with confidence in a complex regulatory environment. With 3,500 employees in 61 locations across 18 countries, we provide thousands of clients globally with innovative tools for content creation, management and distribution, as well as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630870+00:00",
+              "published_date": null,
+              "source_hash": "6d22f23b959f256bb597fc9194515801"
+            },
+            {
+              "url": "",
+              "title": "DONNELLEY FINANCIAL SOLUTIONS Employee Reviews in United States - Indeed",
+              "snippet": "Reviews from DONNELLEY FINANCIAL SOLUTIONS employees about DONNELLEY FINANCIAL SOLUTIONS culture, salaries, benefits, work-life balance, management, job security, and more. Home. Company reviews. Find salaries. Sign in. Sign in. Employers / Post Job. 1 new update. Start of main content. DONNELLEY FINANCIAL SOLUTIONS ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630883+00:00",
+              "published_date": null,
+              "source_hash": "cc92f2792c5ed120e49a8bf51d89edfb"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions - Wikipedia",
+              "snippet": "Donnelley Financial Solutions (DFIN) is a financial compliance company based in Chicago, Illinois, United States.The company provides software as a service (SaaS) products, software-enabled services (SeS), print, and compliance services related to US Securities and Exchange Commission regulations to companies in capital and investment markets. [3]The company estimated 84% of 2018 revenue ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630888+00:00",
+              "published_date": null,
+              "source_hash": "d6c570e72fd441e987390916c932b863"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions - Org Chart, Teams, Culture & Jobs - The Org",
+              "snippet": "Donnelley Financial Solutions, Inc. is a financial communications services company. The Company supports global capital markets compliance and transaction needs for its corporate clients and their advisors (such as law firms and investment bankers), and global investment markets compliance and analy...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630892+00:00",
+              "published_date": null,
+              "source_hash": "1757f11016cf7645106b9e8f554bcd6b"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. - AnnualReports.com",
+              "snippet": "Donnelley Financial Solutions (DFIN) is a leading global risk and compliance solutions company. They're here to help you make smarter decisions with insightful technology, industry expertise and data insights at every stage of your business and investment lifecycles. As markets fluctuate, regulations evolve and technology advances, they're ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:51.630897+00:00",
+              "published_date": null,
+              "source_hash": "90ee31191f93bb18c04e752ad3949838"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc.",
+              "snippet": "Donnelley Financial Solutions, Inc. engages in the provision of software and technology-enabled financial regulatory and compliance solutions. It operates through the following segments ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc workforce controversies",
+              "retrieved_at": "2025-01-06T13:54:53.971861+00:00",
+              "published_date": "2023-08-10T12:19:00+00:00",
+              "source_hash": "1bdd3f957a67d3c423e70c67eb7b73fd"
+            },
+            {
+              "url": "",
+              "title": "Is Donnelley Financial Solutions Inc. (DFIN) the Most Profitable Small-Cap Stock to Invest In?",
+              "snippet": "In this article, we are going to take a look at where Donnelley Financial Solutions Inc. (NYSE:DFIN) stands against the other profitable small-cap stocks. Fed's rate cuts have been all the rage ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:58.902361+00:00",
+              "published_date": "2024-10-29T20:45:00+00:00",
+              "source_hash": "12767b4edcb3864f241f1ec043ef06d6"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. (DFIN)",
+              "snippet": "Upgrade your Yahoo Finance plan to get complete details for Donnelley Financial Solutions, Inc. Get advanced tools and insights to navigate the markets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:58.902397+00:00",
+              "published_date": "2023-05-15T00:13:00+00:00",
+              "source_hash": "e31abf8dcf271c35aaaefad914ecc404"
+            },
+            {
+              "url": "",
+              "title": "TORETTO v. DONNELLEY FINANCIAL SOLUTIONS INC (2021)",
+              "snippet": "Defendants Donnelley Financial Solutions (\"Donnelley\") and Mediant Communications, Inc. (\"Mediant\") work together to provide proxy services for public companies and mutual funds. In 2019, hackers breached one of Mediant's servers. The hackers stole the personal information of over 200,000 people, including Plaintiffs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527085+00:00",
+              "published_date": null,
+              "source_hash": "e62f13ace93df443d57adb3c4d90a8c5"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. 10-K Cybersecurity GRC - 2024-02-20",
+              "snippet": "Donnelley Financial Solutions, Inc. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-20 16:06:00 EST. Filings 10-K filed on 2024-02-20 Company Information Filings 10-K filed on 2024-02-20 Donnelley Financial Solutions, Inc. filed a 10-K at 2024-02-20 16:06:00 EST Accession Number: 0000950170-24-017094 Note: filing items unformatted. Drop us ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527112+00:00",
+              "published_date": null,
+              "source_hash": "699835b6b89020f5316ec1416b9b7dc6"
+            },
+            {
+              "url": "",
+              "title": "Toretto et al v. Donnelley Financial Solutions, Inc., et al, No. 1 ...",
+              "snippet": "Donnelley Financial Solutions, Inc., et al, No. 1:2020cv02667 - Document 127 (S.D.N.Y. 2022) case opinion from the Southern District of New York US Federal District Court ... omprehensive cybersecurity program with highly robust, redundant infrastructure platform that provides reliability and security you need.'\" ... See In re Marriott Int ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527118+00:00",
+              "published_date": null,
+              "source_hash": "f09103341314efd54873f9e36813e1d6"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions - UpGuard",
+              "snippet": "Compare Donnelley Financial Solutions's security performance with other companies. Learn about data breaches, cyber attacks, and security incidents involving Donnelley Financial Solutions. Shape your 2025 cyber GRC strategy with a complimentary Gartner report",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527122+00:00",
+              "published_date": null,
+              "source_hash": "0ed736aa47686aff0f3b79982af257eb"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. (Form: 10-K, Received: 02/26/2020 ...",
+              "snippet": "Donnelley Financial Solutions, Inc. (Exact name of registrant as specified in its charter) Delaware 36-4829638 (State or other jurisdiction of ... In addition, malicious software, sabotage and other cybersecurity breaches of the types described above could cause an outage in DFIN's infrastructure, which could lead to a substantial delay of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527126+00:00",
+              "published_date": null,
+              "source_hash": "349de83f28db0a68e6cd0f6039b5a02c"
+            },
+            {
+              "url": "",
+              "title": "Mediant Communications Must Face Some Claims Over Data Breach",
+              "snippet": "Phillip Toretto sued after an April 2019 data breach in which hackers stole the personal information of 200,000 individuals from Mediant's business email accounts. He alleged that the hack was enabled by Mediant's poor network security, and that the company failed to encrypt personal information and adequately notify its customers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527130+00:00",
+              "published_date": null,
+              "source_hash": "ac9add5de49d731fa5436f0680a478fc"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions - DFIN DealMaker Meter: Surge in \"Dark ...",
+              "snippet": "CHICAGO and NEW YORK, Oct. 6, 2022 /PRNewswire/ -- Dark data represents the biggest potential cybersecurity exposure for U.S. and U.K. businesses, according to a special cybersecurity edition of the DealMaker Meter report, \"Understanding Risk: The Dark Side of Data,\" from Donnelley Financial Solutions (NYSE: DFIN), a leading risk and compliance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527133+00:00",
+              "published_date": null,
+              "source_hash": "1caf496d79edf4ede9a5fd352b5b71ec"
+            },
+            {
+              "url": "",
+              "title": "Thought Leadership - Donnelley Financial Solutions (DFIN)",
+              "snippet": "Equilar recently released its first \"Cybersecurity Disclosure Trends\" report, based on analysis of the proxy statements and Form 10-K's of the Equilar 100 companies (the 100 largest US companies by revenues), from 2019 through 2023. This inaugural report supplements their annual \"Preparing for Proxy Season\" Reports, DFIN was asked to provide independent commentary for the report ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527137+00:00",
+              "published_date": null,
+              "source_hash": "b737f3513e4e21da66baa413d1d1a7e4"
+            },
+            {
+              "url": "",
+              "title": "Corey J - Cyber Security Manager - Donnelley Financial Solutions (DFIN ...",
+              "snippet": "Cyber Defense Manager at Donnelley Financial Solutions (DFIN) \u00b7 Experience: Donnelley Financial Solutions (DFIN) \u00b7 Education: Hampton University \u00b7 Location: United States \u00b7 2 connections on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527142+00:00",
+              "published_date": null,
+              "source_hash": "6a140d3dc859ecfa376fc2b85a45f745"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions Inc | Reuters",
+              "snippet": "The latest international Donnelley Financial Solutions Inc news and views from Reuters - one of the world's largest news agencies",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:55.527147+00:00",
+              "published_date": null,
+              "source_hash": "53d3bddb91d087d9e85170bbf32b0d30"
+            },
+            {
+              "url": "",
+              "title": "Donnelley Financial Solutions, Inc. (NYSE:DFIN) Shares Sold by BNP Paribas Financial Markets",
+              "snippet": "Donnelley Financial Solutions, Inc. has a 1 year low of $56.02 and a 1 year high of $71.01. The firm has a market capitalization of $1.77 billion, a price-to-earnings ratio of 19.11 and a beta of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Donnelley Financial Solutions Inc Donnelley Financial Solutions Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T13:54:58.902390+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "6346a480b92e7389d97d3f53d109a396"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Donnelley Financial Solutions Inc SEC investigations",
+              "rationale": "Investigate potential legal issues related to SEC compliance and regulatory filings",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Donnelley Financial Solutions Inc workforce controversies",
+              "rationale": "Explore any controversies related to workforce adjustments, remote work policies, or employee treatment",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Donnelley Financial Solutions Inc cybersecurity breaches",
+              "rationale": "Assess risks related to cybersecurity threats and data breaches impacting client information",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:55:17.142760",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

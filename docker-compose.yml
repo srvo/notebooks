@@ -91,7 +91,21 @@ services:
         --NotebookApp.ip='0.0.0.0' \
         --NotebookApp.notebook_dir='/home/jovyan/work' \
         --NotebookApp.token='${JUPYTER_TOKEN}'
-      "
+          jupyter:
+    build: .
+    volumes:
+      - .:/app
+      - ./data:/app/data
+    environment:
+      - PROJECT_ROOT=/app
+      - DATA_DIR=/app/data
+      - DB_PATH=/app/data/research.db
+    ports:
+      - "8888:8888"
+      "'
+      
+      
+      '
     networks:
       - traefik_network
     healthcheck:

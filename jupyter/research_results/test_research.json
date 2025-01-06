@@ -1,0 +1,101 @@
+{
+  "company": {
+    "name": "Test Company",
+    "ticker": "TEST",
+    "tick": 50,
+    "description": "A test company"
+  },
+  "company_context": "test context",
+  "search_queries": [
+    {
+      "category": "environmental_safety",
+      "query": "test query",
+      "rationale": "test",
+      "priority": 1
+    }
+  ],
+  "research_results": [
+    {
+      "category": "environmental_safety",
+      "query": "test query",
+      "rationale": "test",
+      "priority": 1,
+      "web_results": [
+        {
+          "title": "test",
+          "url": "http://test.com",
+          "source_hash": "abc123",
+          "snippet": "test snippet",
+          "domain": "test.com",
+          "source_type": "web",
+          "category": "environmental_safety",
+          "query_context": "test query",
+          "retrieved_at": "2025-01-06T11:05:14.942813+00:00",
+          "published_date": null
+        }
+      ],
+      "news_results": [
+        {
+          "title": "test news",
+          "url": "http://test.com",
+          "source_hash": "def456",
+          "snippet": "test news snippet",
+          "domain": "test.com",
+          "source_type": "news",
+          "category": "environmental_safety",
+          "query_context": "test query",
+          "retrieved_at": "2025-01-06T11:05:14.942824+00:00",
+          "published_date": "2024-01-01"
+        }
+      ]
+    }
+  ],
+  "summary": "test summary",
+  "structured_data": {
+    "risk_score": 50
+  },
+  "sources": [
+    {
+      "title": "test",
+      "url": "http://test.com",
+      "source_hash": "abc123",
+      "snippet": "test snippet",
+      "domain": "test.com",
+      "source_type": "web",
+      "category": "environmental_safety",
+      "query_context": "test query",
+      "retrieved_at": "2025-01-06T11:05:14.942813+00:00",
+      "published_date": null
+    },
+    {
+      "title": "test news",
+      "url": "http://test.com",
+      "source_hash": "def456",
+      "snippet": "test news snippet",
+      "domain": "test.com",
+      "source_type": "news",
+      "category": "environmental_safety",
+      "query_context": "test query",
+      "retrieved_at": "2025-01-06T11:05:14.942824+00:00",
+      "published_date": "2024-01-01"
+    }
+  ],
+  "metadata": {
+    "total_sources": 2,
+    "sources_by_type": {
+      "web": 1,
+      "news": 1
+    },
+    "sources_by_category": {
+      "environmental_safety": 2,
+      "financial_legal": 0,
+      "ethical_social": 0
+    },
+    "queries_by_priority": {
+      "1": 1,
+      "2": 0,
+      "3": 0
+    },
+    "timestamp": "2025-01-06T11:05:14.943519+00:00"
+  }
+}

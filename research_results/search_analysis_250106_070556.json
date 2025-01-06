@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:05:56.185201",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Masimo Corp",
+      "symbol": "MASI",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal challenges and patent disputes, particularly with Apple, leading to significant financial liabilities",
+            "Regulatory and compliance risks due to operating in a highly regulated industry",
+            "Market competition from major players like Medtronic, Philips, and GE Healthcare",
+            "Integration risks from acquisitions such as Sound United",
+            "Governance and ethical concerns, including investigations into corporate governance practices"
+          ],
+          "controversies": [
+            "Patent infringement lawsuit with Apple resulting in a $250 million damages ruling",
+            "Proxy battle with Politan Capital Management raising concerns about corporate governance",
+            "Investigations into the conduct of officers and directors by Kahn Swick & Foti, LLC"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Workforce reduction of 75 employees at its Irvine, California location, potentially impacting employee morale and operational efficiency"
+          ],
+          "governance_issues": [
+            "Proxy battle with Politan Capital Management",
+            "Investigations into the conduct of officers and directors"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Jury Rules in Favor of Apple, Awards $250 Million in Smartwatch Patent ...",
+              "snippet": "Jury Rules in Favor of Apple, Awards $250 Million in Smartwatch Patent Dispute Against Masimo December 26, 2024 by publiclawlibrary.org In a significant legal victory, Apple Inc. has been awarded a $250 million jury verdict against Masimo Corp., a medical technology company that had accused the tech giant of infringing on its patents related to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382248+00:00",
+              "published_date": null,
+              "source_hash": "c98581ab19701dd34f32c8c89477df9a"
+            },
+            {
+              "url": "",
+              "title": "Jury awards Apple $250 in design patent lawsuit against Masimo",
+              "snippet": "Apple convinced a federal jury on Friday that health monitoring tech company Masimo's smartwatches infringe two of its design patents. The jury, in Delaware, agreed with Apple that Masimo's W1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382285+00:00",
+              "published_date": null,
+              "source_hash": "60018b859b104b0cbcecfa1a969fcfa5"
+            },
+            {
+              "url": "",
+              "title": "$250M Win in Apple's Patent Infringement Case Against Masimo ...",
+              "snippet": "Apple Inc. V. Masimo Corporation Et Al Case Background On October 20, 2022, Apple Inc. filed a patent infringement lawsuit against Masimo Corporation for violating its smartwatch and wireless charger design patents. The case was filed in the United States District Court, Delaware (Wilmington). Judge Jennifer L. Hall presided over this case.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382291+00:00",
+              "published_date": null,
+              "source_hash": "ee56f63ba253443c92d030eac1bce406"
+            },
+            {
+              "url": "",
+              "title": "Apple v. Masimo: the clash over pulse oximetry patents",
+              "snippet": "Masimo's ITC complaint. Masimo is renowned within the medical community for its pulse oximetry technology. The dispute started when Masimo accused Apple of poaching its employees and stealing its pulse oximetry technology in the guise of partnership, resulting in a lawsuit over 12 patents, which ended in a mistrial.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382301+00:00",
+              "published_date": null,
+              "source_hash": "73474566af80b60174a3f313b562e1e9"
+            },
+            {
+              "url": "",
+              "title": "Jury Sides with Apple in Design Patent Dispute, Deals Blow to Masimo's ...",
+              "snippet": "The verdict came as the latest development in a series of intense patent disputes between the two companies over their smartwatch technologies. During the trial, the jury concluded that Masimo's W1 and Freedom watch models, along with their charging devices, had willfully infringed upon Apple's patented designs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382305+00:00",
+              "published_date": null,
+              "source_hash": "de8de113caf05dd11ce22d53ea349574"
+            },
+            {
+              "url": "",
+              "title": "Apple wins a battle (and $250) in its smartwatch patent fight with Masimo",
+              "snippet": "Apple got a mixed victory in a patent infringement lawsuit against medical device maker Masimo. On Friday, a federal jury determined that Masimo had infringed on some Apple patents, and as part of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382309+00:00",
+              "published_date": null,
+              "source_hash": "503792b88bde5f4276c0f6138fe78e9b"
+            },
+            {
+              "url": "",
+              "title": "Apple wins $250 US jury verdict in patent case over Masimo smartwatches",
+              "snippet": "Apple convinced a federal jury on Friday that early versions of health monitoring tech company Masimo's smartwatches infringe two of its design patents as part of a broader intellectual property ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382312+00:00",
+              "published_date": null,
+              "source_hash": "5855a9a5a9303c9e098923c38eb370a0"
+            },
+            {
+              "url": "",
+              "title": "The Apple Watch Dispute \u2014 Masimo's Pulse Oximeter Patent Litigation ...",
+              "snippet": "Masimo's Dispute with Apple Background of the Dispute. Before the dispute, back in 2014, Apple allegedly \"poached\" Masimo's chief medical officer and several of its employees before the launch of the Apple Watch in 2015.. On January 9, 2020, Masimo filed the first complaint against Apple at the California Central District Court (Masimo Corporation et al. v. Apple Inc. CDCA-8-20-cv ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382315+00:00",
+              "published_date": null,
+              "source_hash": "62c71a31aa8925c0cbed6de820c042c6"
+            },
+            {
+              "url": "",
+              "title": "Legal Showdown: Analyzing the Masimo vs. Apple Patent Dispute",
+              "snippet": "This legal battle is rooted in broader tensions between Apple and Masimo, a company primarily known for its medical technology innovations. Masimo initially alleged that Apple infringed its patents with the Apple Watch's pulse-oximetry feature, which allows users to easily monitor their blood oxygen levels.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382321+00:00",
+              "published_date": null,
+              "source_hash": "e3a75f5ebdc65f781617bb2b9107cffb"
+            },
+            {
+              "url": "",
+              "title": "Patent Litigation: Insights from Apple Inc. v. Masimo Corporation",
+              "snippet": "In the ever-evolving landscape of patent law, the case of Apple Inc. v. Masimo Corporation, decided on January 12, 2024, stands out as a pivotal moment, particularly for Los Angeles-based technology companies and legal professionals.This legal court decision by the United States Court of Appeals for the Federal Circuit sheds light on critical aspects of patent litigation, offering valuable ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:24.382324+00:00",
+              "published_date": null,
+              "source_hash": "6bed2ca1dcc8aa3b7be1aced91766450"
+            },
+            {
+              "url": "",
+              "title": "MASIMO INVESTIGATION INITIATED by Former Louisiana Attorney General: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Masimo Corporation - MASI",
+              "snippet": "Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (\"KSF\"), announces that KSF",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:27.704028+00:00",
+              "published_date": "2025-01-04T02:33:00+00:00",
+              "source_hash": "2d1f6fc2fb963bafbdf3850e5b191bf4"
+            },
+            {
+              "url": "",
+              "title": "Apple wins in Masimo lawsuit, but it's a shallow victory",
+              "snippet": "As it turned out, Masimo beat all but three of the patent infringement ... In the latest lawsuit, Apple was awarded $250 in damages - the statutory minimum, which was what the company sought ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:27.704060+00:00",
+              "published_date": "2025-01-05T00:00:00+00:00",
+              "source_hash": "f561246e5d6795c996c374e81ff21139"
+            },
+            {
+              "url": "",
+              "title": "Jury awards Apple $250 in design patent lawsuit against Masimo",
+              "snippet": "Apple convinced a federal jury on Friday that health monitoring tech company ... lawsuits at the ITC and in California to \"make way for Masimo's own watch.\" Masimo said Apple's patent ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:27.704069+00:00",
+              "published_date": "2024-10-25T23:12:00+00:00",
+              "source_hash": "25548da0f7cb8031151845e3281296eb"
+            },
+            {
+              "url": "",
+              "title": "Apple Secures Victory In Masimo Patent Dispute With Token Damages Of $250",
+              "snippet": "A Delaware jury has ruled in favor of Apple Inc. (NASDAQ:AAPL) in a patent infringement case against Masimo Corp. (NASDAQ ... reported Reuters. The lawsuit, initiated by Apple in 2022, accused ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp patent disputes and lawsuits",
+              "retrieved_at": "2025-01-06T14:05:27.704076+00:00",
+              "published_date": "2024-10-27T05:13:00+00:00",
+              "source_hash": "06aa768778153fe84cf43a3d266acf6c"
+            },
+            {
+              "url": "",
+              "title": "SEC Investigates RTW Investments for Involvement in Masimo Proxy Fight",
+              "snippet": "RTW Investments is being investigated by the Securities and Exchange Commission (SEC) for its alleged involvement in an empty voting scheme in relation to a proxy battle between Masimo Corp. and Politan Capital Management. Masimo in October filed a lawsuit ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:37.592600+00:00",
+              "published_date": "2024-12-08T23:59:00+00:00",
+              "source_hash": "854eaab9c547b431bba51982376751a2"
+            },
+            {
+              "url": "",
+              "title": "Governance Documents - Masimo",
+              "snippet": "Changes to Code of Business Conduct and Ethics (Effective October 21, 2021) (opens in new window)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455047+00:00",
+              "published_date": null,
+              "source_hash": "b30eb7589901415eecb82cfd3d930ed6"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Compliance",
+              "snippet": "To the best of our knowledge, as of the date of this declaration, Masimo is in compliance with California Health & Safety Code \u00a7\u00a7 119402 and the Company's Compliance Program. Anyone may obtain a copy of this document or a description of our Comprehensive Compliance Program by calling 1-800-326-4890.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998610+00:00",
+              "published_date": null,
+              "source_hash": "c6d6a78f283da51f07e39154cc74f190"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Masimo's Lawsuit Forced Politan and Quentin Koffey to Issue ...",
+              "snippet": "IRVINE, Calif.--(BUSINESS WIRE)-- Masimo Corporation (\"Masimo\" or the \"Company\") (NASDAQ: MASI), a global leader in noninvasive monitoring technologies and audio products, today set the record straight in response to Politan Capital Management LP (\"Politan\") and Quentin Koffey's preemptive press release regarding an order from the U.S. District Court for the Central District of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998619+00:00",
+              "published_date": null,
+              "source_hash": "3604c70203ae912438e48405be550f37"
+            },
+            {
+              "url": "",
+              "title": "Masimo Corp says appears co addressed violations contained in FDA ...",
+              "snippet": "* Masimo Corp - \u200d based on FDA's evaluation, appears co addressed violations contained in warning letter regarding compliance practices at Irvine, California facility",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998626+00:00",
+              "published_date": null,
+              "source_hash": "9b4c933804370fa54eb00c76f6292694"
+            },
+            {
+              "url": "",
+              "title": "Codes of Business Conduct and Ethics Summary of Changes - Masimo",
+              "snippet": "On October 21, 2021, the Board of Directors of Masimo Corporation ... Research and Development Compliance. The Prior Code has been amended to expand the list of requirements and standards applicable to the development of medical device products to include design controls, good manufacturing practices, labeling control/approval, reporting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998633+00:00",
+              "published_date": null,
+              "source_hash": "2574984082fc68c877e952cc5f66f7e7"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Code of Business Conduct and Ethics",
+              "snippet": "MASIMO CORPORATION CODE OF BUSINESS CONDUCT AND ETHICS LAST AMENDED: October 21, 2021. Introduction. Masimo Corporation and its subsidiaries (\"Masimo\") are committed to maintaining the highest standards of business conduct and ethics.This Code of Business Conduct and Ethics (this \"Code\") reflects the business practices and principles of behavior that support this commitment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998639+00:00",
+              "published_date": null,
+              "source_hash": "99da133362f990446c08e0c8070aefaa"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "termination of employment and, in appropriate cases, civil legal action or referral for regulatory or criminal prosecution. 1. Honest and Ethical Conduct It is the policy of Masimo to promote high standards of integrity by conducting Masimo's affairs in an honest and ethical manner. The integrity and reputation of Masimo depends on the",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998645+00:00",
+              "published_date": null,
+              "source_hash": "3238e0f15f970895d12b8b7370b85ed8"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Codes of Conduct",
+              "snippet": "If you would like to report issues relating to product quality or patient safety, please follow the process in the Code of Business Conduct and Ethics. Concerns or reports of possible violations, or other compliance matters may be submitted by emailing compliance@masimo.com or regular mail to the Compliance Officer at: Masimo c/o Compliance Officer",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998650+00:00",
+              "published_date": null,
+              "source_hash": "9df797697e88a23dab8694228ae492e7"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "LEGAL_US_W # 115882726.10 -1- MASIMO CORPORATION CORPORATE GOVERNANCE GUIDELINES LAST AMENDED: MAY 2, 2023 The Board of Directors (the \"Board\") of Masimo Corporation (the \"Company\") has adopted the following Corporate Governance Guidelines (the \"Guidelines\") to assist the Board in the exercise of its governance responsibilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998655+00:00",
+              "published_date": null,
+              "source_hash": "c3c66e5cd43729cc08d5eb488fd769e2"
+            },
+            {
+              "url": "",
+              "title": "Federal Circuit Blocks Patent Applcation in Trade Secrets Case",
+              "snippet": "On January 24, 2022, the Federal Circuit affirmed the grant of a preliminary injunction blocking the publication of a patent application on the basis that it contained the plaintiff, Masimo Corp ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:30.998660+00:00",
+              "published_date": null,
+              "source_hash": "9c3244f4ebdad3a6ece4436b8b04e08e"
+            },
+            {
+              "url": "",
+              "title": "MASIMO INVESTIGATION INITIATED by Former Louisiana Attorney General: Kahn Swick & Foti, LLC Investigates the Officers and Directors of Masimo Corporation - MASI",
+              "snippet": "Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (\"KSF\"), announces that KSF has commenced an investigation into Masimo Corporation (NasdaqGS: MASI). On July 17 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:37.592528+00:00",
+              "published_date": "2025-01-03T17:33:00+00:00",
+              "source_hash": "8fed2231240feade0f0a1d2331ae4ccc"
+            },
+            {
+              "url": "",
+              "title": "Apple Secures Victory In Masimo Patent Dispute With Token Damages Of $250",
+              "snippet": "A Delaware jury has ruled in favor of Apple Inc. (NASDAQ:AAPL) in a patent infringement case against Masimo Corp. (NASDAQ:MASI), awarding Cupertino a symbolic $250 in damages. What Happened ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:33.518832+00:00",
+              "published_date": "2024-10-27T05:13:00+00:00",
+              "source_hash": "c8cdb83909f9581971cf7e702340cd5b"
+            },
+            {
+              "url": "",
+              "title": "What Analysts Are Saying About Masimo Stock",
+              "snippet": "Stay up to date on Masimo analyst ratings. Discovering Masimo: A Closer Look Masimo Corp is a global technology company. The company's segment includes healthcare and non-healthcare. The ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:33.518838+00:00",
+              "published_date": "2024-12-27T13:00:00+00:00",
+              "source_hash": "b8bf5390aadc9494abd00fda7c150b3a"
+            },
+            {
+              "url": "",
+              "title": "Politan Issues Statement From Legal Advisors Schulte Roth & Zabel and Munger, Tolles & Olson Regarding Masimo Proxy Contest",
+              "snippet": "Politan Capital Management (together with its affiliates, \"Politan\"), an 8.9% shareholder of Masimo Corporation (\"Masimo\" or the \"Company\") (NASDAQ: MASI), issued a comment from its co ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Masimo Corp Masimo Corp regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:05:33.518844+00:00",
+              "published_date": "2024-11-07T00:00:00+00:00",
+              "source_hash": "7aa74cc5f7f90ea92e4335d976127aca"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Code of Business Conduct and Ethics",
+              "snippet": "Masimo Corporation and its subsidiaries (\"Masimo\") are committed to maintaining the highest standards of business conduct and ethics. This Code of Business Conduct and Ethics (this \"Code\") reflects the business practices and principles of behavior that support this commitment. Masimo expects every employee, officer, and director to read ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.454959+00:00",
+              "published_date": null,
+              "source_hash": "f9af010b9e6eaf46d4daf9344a687263"
+            },
+            {
+              "url": "",
+              "title": " Masimo - Code of Business Conduct and Ethics 53571367 2 3",
+              "snippet": "legal_us_w # 53571367.2 2 you should not hesitate to ask questions about whether any conduct may violate the code, voice concerns or clarify gray areas.section 18 below details the compliance resources available to you.in addition, you should be alert to possible violations of the code by others and report suspected violations, without fear of any form of retaliation, as further described in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455014+00:00",
+              "published_date": null,
+              "source_hash": "b6ce5ef3f89da6fed89afe9446cd0e4d"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Codes of Conduct",
+              "snippet": "Masimo Fighting Against Forced Labour and Child Labour in Supply Chains Act Report for the 2023 Reporting Year. Masimo is committed to improving patient outcomes and reducing cost of care by taking non-invasive monitoring to new sites and applications \u2122. As part of this mission, we are further committed to adhere to ethical and legal standards.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455025+00:00",
+              "published_date": null,
+              "source_hash": "851bbad9783ac6205c60ef276b78b349"
+            },
+            {
+              "url": "",
+              "title": "Masimo - Open Door Whistleblower Policy",
+              "snippet": "Masimo Corporation, together with its subsidiaries (collectively, \"Masimo\"), is committed to providing a workplace conducive to open discussion of its business practices and is committed to complying with: All applicable laws and regulations, Masimo's Code of Business Conduct and Ethics (the \"Code\"), and All Masimo policies (collectively, the \"Policies\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455035+00:00",
+              "published_date": null,
+              "source_hash": "a80e743e4406560e88ee774db2ead9c3"
+            },
+            {
+              "url": "",
+              "title": "Codes of Business Conduct and Ethics Summary of Changes - Masimo",
+              "snippet": "The Prior Code has been amended to clarify that, in addition to applying to all of Masimo's employees, directors and officers, the Code applies to persons that conduct business on Masimo's behalf such as distributors, sales agents and other third party representatives of Masimo worldwide. 2. International Business Laws",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455041+00:00",
+              "published_date": null,
+              "source_hash": "35420e48972d9647bc9151c5bf0d67b5"
+            },
+            {
+              "url": "",
+              "title": " Description of Amendments to Masimo Corporation Code of Business ...",
+              "snippet": "MASIMO CORPORATION CODE OF BUSINESS CONDUCT AND ETHICS . OCTOBER 2021 . On October 21, 2021, the Board of Directors of Masimo Corporation(\" ... manufacturing practices, labeling control/approval, reporting requirements, product registrations, and the approval and distribution of Masimo products. 4. Anti-Corruption",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455054+00:00",
+              "published_date": null,
+              "source_hash": "cde4dcf162efdc05a9a1834a15168051"
+            },
+            {
+              "url": "",
+              "title": "Working at Masimo: 213 Reviews | Indeed.com",
+              "snippet": "213 reviews from Masimo employees about Masimo culture, salaries, benefits, work-life balance, management, ... Masimo Employee Reviews Review this company. Job Title. All. Location. All. Ratings by category. 3.5 Work-Life Balance. ... Not a promising company to be associated with. The growth is slow and company lacks market activity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455059+00:00",
+              "published_date": null,
+              "source_hash": "112ddaa90e98db437d3a6676014dd961"
+            },
+            {
+              "url": "",
+              "title": "Working at Masimo: Employee Reviews about Culture - Indeed",
+              "snippet": "The company managers and upp management wants you to work daily 9 hours strict or more. Company has no hybrid work culture or not even thinking. It burns the employee and not good for productivity. I think they should give option working hybrid. People travel on road 2 hours and spent 9 hours in company. Their half life is just working.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455080+00:00",
+              "published_date": null,
+              "source_hash": "28e0c417294b9c62506e05f604da9cfd"
+            },
+            {
+              "url": "",
+              "title": "Masimo Employee Reviews - Comparably",
+              "snippet": "Masimo Employee Reviews. Out of 36 Masimo employee reviews, 70% were positive. The remaining 30% were constructive reviews with the goal of helping Masimo improve their work culture. The Operations team, with 90% positive reviews, reports the best experience at Masimo compared to all other departments at the company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:35.455085+00:00",
+              "published_date": null,
+              "source_hash": "dcd471794492e0cecff0423ed10eae5c"
+            },
+            {
+              "url": "",
+              "title": "Masimo to lay off 75 employees next month",
+              "snippet": "Patient monitoring company Masimo is laying off 75 employees next month at its Irvine, California, location. The company filed a Worker Adjustment and Retraining Notification in November ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:37.592569+00:00",
+              "published_date": "2024-12-12T11:57:00+00:00",
+              "source_hash": "17c3ab82d6b067cdada233bbc971408c"
+            },
+            {
+              "url": "",
+              "title": "Masimo: Q3 Earnings Snapshot",
+              "snippet": "IRVINE, Calif. (AP) \u2014 IRVINE, Calif. (AP) \u2014 Masimo Corp. (MASI) on Tuesday reported third-quarter earnings of $9.8 million. On a per-share basis, the Irvine, California-based company said it ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:37.592581+00:00",
+              "published_date": "2024-11-05T21:37:00+00:00",
+              "source_hash": "4a82ddd65ed6b35c444d078b8b58d006"
+            },
+            {
+              "url": "",
+              "title": "Masimo Corporation",
+              "snippet": "Masimo Corp. is a global technology company, which engages in the development, manufacture, and marketing of patient monitoring technologies, and automation and connectivity solutions. Its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Masimo Corp Masimo Corp labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:05:37.592593+00:00",
+              "published_date": "2023-12-15T15:30:00+00:00",
+              "source_hash": "8c62afa96ce2e2a9888887069ddcec0f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Masimo Corp patent disputes and lawsuits",
+              "rationale": "Investigate ongoing legal challenges and their impact on financial performance",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Masimo Corp regulatory compliance issues",
+              "rationale": "Examine potential risks related to changes in healthcare regulations and product approvals",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Masimo Corp labor practices and employee relations",
+              "rationale": "Assess any controversies or concerns regarding workplace conditions and employee treatment",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:05:56.185212",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

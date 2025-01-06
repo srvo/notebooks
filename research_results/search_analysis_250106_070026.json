@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:00:26.921227",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Mattel Inc",
+      "symbol": "MAT",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on third-party manufacturers in Asia",
+            "Dependence on core brands like Barbie and Hot Wheels",
+            "Licensing risks with major entertainment studios",
+            "Historical product recalls and quality control issues"
+          ],
+          "controversies": [
+            "2007 recall of toys due to excessive lead levels in paint, resulting in a $2.3 million fine",
+            "Criticism for use of plastic in packaging and products despite sustainability initiatives"
+          ],
+          "environmental_issues": [
+            "Use of plastic in packaging and products",
+            "Challenges in achieving 2030 sustainability goals"
+          ],
+          "social_issues": [
+            "Ensuring ethical working conditions and prohibiting child labor in supply chain"
+          ],
+          "governance_issues": [
+            "Management of licensing agreements and strategic shifts in business model"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Sustainable Product and Packaging | Mattel, Inc.",
+              "snippet": "1. Changes are calculated based on the plastic packaging materials intensity ratio, which is obtained by dividing the total volume of plastic packaging materials used (in metric tons) by the number of units produced in the applicable period, and where the number of units produced is the number of production units shipped by Mattel, through its owned and/or operated manufacturing facilities and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248266+00:00",
+              "published_date": null,
+              "source_hash": "c73d33267dd4378d3c6893bbf33e66f4"
+            },
+            {
+              "url": "",
+              "title": "Mattel Targets Zero Manufacturing Waste, 50% Emissions Cut by End of ...",
+              "snippet": "Global toy company Mattel announced a series of new ESG goals today, including eliminating manufacturing waste and cutting its scope 1 and 2 greenhouse gas emissions in half by 2030. The new goals were unveiled with the release of Mattel's 2020 Citizenship Report, which outlines the company's updated ESG strategy. Other goals highlighted in the [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248319+00:00",
+              "published_date": null,
+              "source_hash": "cca0966662e5aca188b68e47b7e60160"
+            },
+            {
+              "url": "",
+              "title": "Mattel to Report on Single-Use Plastic in Packaging to CDP",
+              "snippet": "Boston - Mattel, Inc.*, one of the largest toy companies in the world, has agreed to report on its single-use plastic in packaging to the standardized reporting framework CDP in 2025 after reaching an agreement with Green Century\u00b0, an environmentally responsible mutual fund. Mattel uses plastic packaging for its popular toy brands like Barbie, Hot Wheels, and Fisher-Price, and continues to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248328+00:00",
+              "published_date": null,
+              "source_hash": "e6e69bd36cb4ba0f9595d53a8ca247cd"
+            },
+            {
+              "url": "",
+              "title": "Mattel announces plan to reduce plastic packaging, releases citizenship ...",
+              "snippet": "Mattel Inc., El Segundo, California, has 2021 Citizenship Report, which provides a progress update on Mattel's environmental, social and governance (ESG) strategy and established goals. ... senior vice president of sustainability and social impact for Mattel. \"Our new plastic packaging goal responds to increasing global attention on single ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248333+00:00",
+              "published_date": null,
+              "source_hash": "48b044dbead861bc38d997189103422e"
+            },
+            {
+              "url": "",
+              "title": "Mattel Inc 2021 Citizenship Report - SustainabilityReports.com",
+              "snippet": "The report highlights Mattel's progress in 2021 toward its sustainability and social responsibility goals. The company made significant progress in reducing its environmental impact by achieving 97.9% recycled or FSC-certified content in the paper and wood fiber used in its products and packaging, exceeding its goal. ... or bio-based plastic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248336+00:00",
+              "published_date": null,
+              "source_hash": "9e9c5b40f29314e9ed35bb3ae5c2d12a"
+            },
+            {
+              "url": "",
+              "title": "Mattel announces goal to reduce plastic packaging by 25% per product by ...",
+              "snippet": "Global toy company Mattel, Inc. (NASDAQ: MAT) has announced a new goal to reduce plastic packaging by 25% per product by 2030. This new goal is featured in the company's 2021 Citizenship Report published today, which provides a progress update on Mattel's Environmental, Social, and Governance (ESG) strategy and established goals. Mattel's ESG strategy and goals are organized\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248344+00:00",
+              "published_date": null,
+              "source_hash": "58837596eb308d57c0b579806e0b9a3d"
+            },
+            {
+              "url": "",
+              "title": "Mattel Announces Goal to Reduce Plastic Packaging by 25% per ... - ESG News",
+              "snippet": "New goal complements other previously announced sustainable product and packaging goals, including to achieve 100% recycled, recyclable, or bio-based plastic materials in products and packaging by 2030. Mattel, Inc. has announced a new goal to reduce plastic packaging by 25% per product by 2030. This new goal is featured in the company's 2021 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248349+00:00",
+              "published_date": null,
+              "source_hash": "5408fab3b711ececff9203ebfa48d616"
+            },
+            {
+              "url": "",
+              "title": "Mattel: Play, Recycle, Repeat - Manufacturing Digital",
+              "snippet": "Mattel is therefore embracing a range of strategies to confront the sustainability challenges of plastic. All of these strategies prioritise reducing resource consumption and waste throughout the value chain. Implementing key circular economy and eco-design principles when developing products and packaging is the biggest consideration for Mattel.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248352+00:00",
+              "published_date": null,
+              "source_hash": "65e6774b7e375e4823a9aba70a0e59ba"
+            },
+            {
+              "url": "",
+              "title": "Mattel Issues A Pledge To Be A Better Global Citizen - Forbes",
+              "snippet": "For example, in a chart on waste reduction, Mattel shows it reduced total waste between 2019 and 2020 by more than 4,000 metric tons, from 20,886 metric tons to 16,671 metric tons.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248355+00:00",
+              "published_date": null,
+              "source_hash": "c94e0857f59b7606d9511b543b090222"
+            },
+            {
+              "url": "",
+              "title": "Sustainability: Mattel Sets Aggressive Goal To Reduce Plastic in ...",
+              "snippet": "Advanced toward its goal to achieve zero manufacturing waste by 2030. The company conducted two on-site waste characterization audits at its manufacturing facility in Monterrey, Mexico, and its distribution center in San Bernardino, California, which informed the creation of a new Mattel Waste Management Standard.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc plastic waste and sustainability controversies",
+              "retrieved_at": "2025-01-06T13:59:54.248359+00:00",
+              "published_date": null,
+              "source_hash": "5bb0ff2f59fb88471e31b900133ee9de"
+            },
+            {
+              "url": "",
+              "title": "Recalled Mattel toys topped U.S. legal lead limits | Reuters",
+              "snippet": "Toymaker Mattel Inc's <MAT.N> recent recalls involved toys that had nearly 200 times the amount of lead in paint as allowed by U.S. law, the company said in a letter released to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431105+00:00",
+              "published_date": null,
+              "source_hash": "7ee4b9c2afa390261b579216db820b8c"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "had \"revenues of almost $6 billion\" in 2007 (Gilbert and Wisner 34). From the outside, Mattel, Inc. seemed at peak performance. Mattel had still been dealing with a recall of Polly Pocket products in 2006 when the public received the first announcement concerning the Mattel recalls of 2007, one of the most famous toy recalls in history.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431235+00:00",
+              "published_date": null,
+              "source_hash": "a912c4fdeba427514e631d1071d27ba0"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit of Mattel Inc. Products Liability Research Paper - IvyPanda",
+              "snippet": "The legal process enabled Mattel to provide a massive recall of most of its products. These recall processes embodied some of the very popular brands. The U.S CPSC managed to fine the company, Mattel Inc., approximately $2.3 million (Twomey, Jennings, Fox & Anderson, 2011).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431267+00:00",
+              "published_date": null,
+              "source_hash": "add6fe4748eda1b6059c6d3c7ea16783"
+            },
+            {
+              "url": "",
+              "title": "In re Mattel, Inc., 588 F. Supp. 2d 1111 - Casetext",
+              "snippet": "Read In re Mattel, Inc., 588 F. Supp. 2d 1111, see flags on bad law, and search Casetext's comprehensive legal database All State & Fed. JX ... Full title: In re MATTEL, INC., Toy Lead Paint Products Liability Litigation. Court: United States ... reports from the CPSC about harm from small magnets, and a 2006 recall of Mattel magnet toys ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431292+00:00",
+              "published_date": null,
+              "source_hash": "57e588ad037b39f4b99e8f8dc4c36696"
+            },
+            {
+              "url": "",
+              "title": "Mattel, 2007 the year of the product recall and the rebound",
+              "snippet": "About Mattel. Mattel Inc (MAT), the world's largest toy company, with its headquarters in California was founded in 1945. The company designs, manufactures, and markets toys worldwide. ... Fisher-Price items, American Girl dolls, Hot Wheels, Matchbox, and others. Product Recall Crisis in Mid 2007. In the middle of year 2007, Mattel had to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431317+00:00",
+              "published_date": null,
+              "source_hash": "27051dc253ef7b960445e52de9b916f5"
+            },
+            {
+              "url": "",
+              "title": "Recall & Safety Alerts - Mattel",
+              "snippet": "This list includes Mattel recalls & safety alerts announced since August 4, 1998. For general recall information on any consumer product, and for earlier Mattel recalls & safety alerts, please visit www.recalls.gov. The links below service recalls & safety alerts for U.S. and Canadian consumers only. Global Recalls & Safety Alerts",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431341+00:00",
+              "published_date": null,
+              "source_hash": "eb6c68f6cb96554454352e74001e696a"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Mattel Announces Third Toy Recall - CNN Money (Sept 5, 2007) Mattel Does Damage Control After New Recall - Wall Street Journal (Aug 15, 2007) Owner of Chinese Toy Factory Commits Suicide - New York Times (Aug 14, 2007) Lead Paint Prompts Mattel to Recall 967,000 Toys- New York Times (Aug 2, 2007) The worldwide news coverage had been intense.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431364+00:00",
+              "published_date": null,
+              "source_hash": "6577e8ad909e48ed03c435dfb736453d"
+            },
+            {
+              "url": "",
+              "title": "Mattel Toy Recall | Defective Product Attorney",
+              "snippet": "Featured Product Recall Case Mattel Sued to Require Lead Testing for all Children Exposed to Recalled Chinese-Made Toys. August 2007. LOS ANGELES - The attorney whose lawsuit prompted a recall of defective Chinese tires is filing a class action today to compel Mattel to pay for the testing of children who might have been lead-poisoned by 1.5 million toxic toys.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431387+00:00",
+              "published_date": null,
+              "source_hash": "3b9f1d80a91aff720bae0d61d28a236d"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "12.2 Underlying Causes of Mattel's Product Recalls 3 and pet foods, Disney recalled children's pajamas in April 2007 due to a burn hazard, and Panama reported hundreds of deaths in May 2007 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431410+00:00",
+              "published_date": null,
+              "source_hash": "2318113a34a9994575c4b35695b1aa81"
+            },
+            {
+              "url": "",
+              "title": "Mattel's Product Recalls (A): The Chinese Imbroglio",
+              "snippet": "This case Mattel's Product Recalls (A), The Chinese Imbroglio focus on Mattel's history of liability accusations and product recalls, for more than two decades. It was regularly clashing with regulatory agencies like CPSC, regarding disclosure of existing or potential hazards in some of its toys. Amid such circumstances, Mattel was once again accused of defective toys - owing to design, as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc product recalls and legal liabilities",
+              "retrieved_at": "2025-01-06T13:59:58.431433+00:00",
+              "published_date": null,
+              "source_hash": "c84bf43a7201b1dbb72e0feeb7c32570"
+            },
+            {
+              "url": "",
+              "title": "Responsible Sourcing and Production | Mattel, Inc.",
+              "snippet": "Mattel's Responsible Supply Chain Commitment (RSCC) is a comprehensive set of standards and oversight processes that establish our expectations for responsible factory working conditions, environmental protections, social compliance, labor, and environmental, health, and safety in both our own manufacturing facilities and those of our supply ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533024+00:00",
+              "published_date": null,
+              "source_hash": "a68f2b75dada1ffb5be01d2e560bbaef"
+            },
+            {
+              "url": "",
+              "title": "Ethical Sourcing | Mattel, Inc.",
+              "snippet": "At Mattel, we will not compromise on providing a safe and ethical working environment in the factories that make our products. In fact, we've led the way in formalizing this principle into action.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533104+00:00",
+              "published_date": null,
+              "source_hash": "f4c6dbdd407c6c09857791c5fff799a0"
+            },
+            {
+              "url": "",
+              "title": " Mattel, Inc., Global Manufacturing Principles (GMP): A Life- Cycle ...",
+              "snippet": "Mattel, Inc., Global Manufacturing Principles (GMP) 21 Child Labor: No one under the age of 16 or under the legal age limit (whichever is higher) may be allowed to work in a facility that produces products for Mattel. Simply stated, Mattel creates products for children around the world\u2014not jobs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533120+00:00",
+              "published_date": null,
+              "source_hash": "d86c51ba57c2776decd8e4bb13eeabbb"
+            },
+            {
+              "url": "",
+              "title": "Mattel, Inc., Global Manufacturing Principles (GMP): A Life-Cycle ...",
+              "snippet": "In November 1997, Mattel announced the creation of a global code of conduct for its production facilities and contract manufacturers. Called the Global Manufacturing Principles (GMP), the code covered such issues as wages and hours, child labor, forced labor, discrimination, freedom of association, legal and ethical business practices, product safety and product quality, protection of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533134+00:00",
+              "published_date": null,
+              "source_hash": "c3cb02501812bd544848e83587daa348"
+            },
+            {
+              "url": "",
+              "title": "Setting the Standard | Mattel, Inc.",
+              "snippet": "Mattel views termination as a last resort because it prefers to first work with its suppliers to identify and remedy the root cause of non-compliance to improve the workplace environment. Third-party manufacturing facilities and Mattel-owned and/or -operated facilities with critical findings are re-audited to evaluate whether the issues have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533144+00:00",
+              "published_date": null,
+              "source_hash": "e0cafc9987b16f62a3e21f74dd1b50ee"
+            },
+            {
+              "url": "",
+              "title": " Mattel, Inc.: Global Manufacturing - JSTOR",
+              "snippet": "ability, third party audits, Mattel, Inc., toy Industry, man-ufacturing in China, Malaysia, Thailand, and Indonesia, corporate culture, top management and management incentives Introduction In November 1997, Mattel announced the creation of a global code of conduct for its production facilities and contract manufacturers. Called the",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533162+00:00",
+              "published_date": null,
+              "source_hash": "2ab6cba76e9d7fa222fe5c4c92ccdf1e"
+            },
+            {
+              "url": "",
+              "title": "Mattel establishes code of conduct - UPI Archives",
+              "snippet": "EL SEGUNDO, Calif., Nov. 20 -- Mattel Inc. says it has established a global code of conduct that's intended to improve the workplace and workers' standard of living at its production facilities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533171+00:00",
+              "published_date": null,
+              "source_hash": "2088024d5cc8a5be0262952cf78811e1"
+            },
+            {
+              "url": "",
+              "title": "Mattel, Inc.: Global Manufacturing Principles | PDF - Scribd",
+              "snippet": "Mattel has established Global Manufacturing Principles (GMP) that apply to all parties involved in manufacturing, assembling, licensing, or distributing Mattel products. The GMP provide minimum standards for factories and distribution centers regarding employee treatment, environmental protection, and cultural differences. Mattel requires internal and independent monitoring of compliance with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533181+00:00",
+              "published_date": null,
+              "source_hash": "9410b1005f8782aabf699cb95a13f880"
+            },
+            {
+              "url": "",
+              "title": "Mattel makes rules against child labor - Tampa Bay Times",
+              "snippet": "Mattel Inc. banned employment of anyone under the age of 16 at its manufacturing plants worldwide under its newly established code of conduct for its production facilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533191+00:00",
+              "published_date": null,
+              "source_hash": "355fe4f0461bd2a41258ca0658958160"
+            },
+            {
+              "url": "",
+              "title": "Mattel, Inc.: Global Manufacturing Principles (GMP) - Semantic Scholar",
+              "snippet": "Over the last 20+ years, multinational corporations (MNCs) have been confronted with accusations of abuse of market power and unfair and unethical business conduct especially as it relates to their overseas operations and supply chain management. These accusations include, among others, worker exploitation in terms of unfairly low wages, excessive work hours, and unsafe work environment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:00:02.533199+00:00",
+              "published_date": null,
+              "source_hash": "5204761df02c1987b26b82d97fbfe56a"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Mattel Inc plastic waste and sustainability controversies",
+              "rationale": "Investigate concerns over the environmental impact of Mattel's plastic toys and its sustainability commitments.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Mattel Inc product recalls and legal liabilities",
+              "rationale": "Examine historical product recalls, such as lead paint incidents, and associated legal or financial repercussions.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Mattel Inc labor practices in manufacturing facilities",
+              "rationale": "Assess controversies or concerns related to labor conditions in Mattel's supply chain, particularly in Asian manufacturing hubs.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:00:26.921235",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -22,6 +22,23 @@ This repository contains a secure Docker-based infrastructure setup with Traefik
 - **Vaultwarden**: Password manager
 - **Fail2ban**: Intrusion prevention system
 
+notebooks/
+├── data/               # Data directory
+│   └── research.db     # DuckDB database
+├── jupyter/           
+│   ├── __init__.py
+│   ├── setup_db.py    # Database setup
+│   ├── db.py          # Database operations
+│   └── search.py      # Search utilities
+├── dagster/
+│   ├── workspace.yaml
+│   └── dagster.yaml
+├── docker-compose.yml
+├── requirements.txt
+├── .env
+└── .env.example
+
+
 ## Environment Variables
 
 ### Required Secrets
@@ -131,7 +148,6 @@ EOL
           echo "Retry attempt - cleaning up..."
           sleep 5
 ```
-
 Key changes made to the README:
 1. Simplified service descriptions
 2. Focused on essential environment variables
@@ -181,7 +197,6 @@ AWS_DEFAULT_REGION   # AWS region (e.g., us-east-1)
 S3_BACKUP_BUCKET     # Bucket for backups
 S3_DATA_BUCKET       # Bucket for data storage
 ```
-
 ### Application Configuration
 ```bash
 # Jupyter Configuration
@@ -237,6 +252,46 @@ RETENTION_DAYS=30    # Log retention period
 - **Cloudflared**: Secure tunnel for external access
 - **Vaultwarden**: Password manager
 - **Fail2ban**: Intrusion prevention system
+
+## Parallel Processing with Joblib
+
+The research workflow (wants to) use [Joblib](https://joblib.readthedocs.io/) for efficient parallel processing and caching:
+
+### Key Features
+- **Transparent Parallelization**: Automatically parallelizes company research tasks
+- **Memory Caching**: Caches API responses and research results to avoid recomputation
+- **Robust Error Handling**: Fails fast without retries for better debugging
+- **No Dependencies**: Uses only Python standard library
+
+### Implementation
+```python
+from joblib import Memory, Parallel, delayed
+
+# Configure caching
+memory = Memory('cache_dir', verbose=0)
+
+@memory.cache
+def research_single_company(company):
+    """Research a single company with automatic caching"""
+    return {
+        'context': generate_company_context(company),
+        'analysis': analyze_company_data(company),
+        'trends': analyze_positive_trends(company)
+    }
+
+def bulk_research_companies(companies, n_jobs=3):
+    """Process multiple companies in parallel"""
+    return Parallel(n_jobs=n_jobs)(
+        delayed(research_single_company)(company) 
+        for company in companies
+    )
+```
+
+### Benefits
+- Faster processing through parallel execution
+- Automatic caching of expensive operations
+- Simplified error handling and debugging
+- Easy recovery from failures
 
 ## Resource Management
 
@@ -328,3 +383,109 @@ docker-compose exec fail2ban fail2ban-client status
 ## License
 
 MIT License 
+
+# Infrastructure Management
+
+This repository manages the infrastructure deployment for various services using Docker Compose and Traefik.
+
+## Current State
+
+The infrastructure is deployed on a Hetzner server (5.78.132.88) with the following components:
+
+- **Reverse Proxy**: Traefik with automatic SSL certificate management
+- **Storage**: Hetzner Object Storage (S3-compatible) for data and backups
+- **Compute Services**:
+  - Jupyter Lab for interactive development
+  - Dagster for data orchestration
+- **Security**:
+  - Basic authentication for service access
+  - Fail2ban for intrusion prevention
+  - Cloudflare for DNS and DDoS protection
+
+## Configuration
+
+The infrastructure uses environment variables for configuration, stored in `.env` files. For security:
+
+- Sensitive credentials are stored in GitHub Secrets
+- Local development uses `.env` files (not committed)
+- Production deployment uses environment variables
+
+### Required Secrets
+
+The following secrets need to be configured in GitHub:
+
+- `SSH_PRIVATE_KEY`: For deployment access
+- `SSH_KNOWN_HOSTS`: Server fingerprint
+- `HETZNER_S3_ACCESS_KEY`: Object storage access
+- `HETZNER_S3_SECRET_KEY`: Object storage secret
+- `CF_API_TOKEN`: Cloudflare API access
+- Various API keys for services
+
+### Service Configuration
+
+Key services are configured with:
+
+- **Jupyter**: Full resource access, JupyterLab interface
+- **Dagster**: Unlimited workers, debug logging
+- **Traefik**: Automatic SSL via Let's Encrypt
+- **Object Storage**: S3-compatible buckets for data and backups
+
+## Development
+
+For local development:
+
+1. Copy `.env.example` to `.env`
+2. Fill in required credentials
+3. Run `docker compose up -d`
+
+## Deployment
+
+Deployment is handled via GitHub Actions:
+
+1. Push to main triggers deployment
+2. GitHub Actions uses SSH for deployment
+3. Services are updated via Docker Compose
+4. Logs are retained for 30 days
+
+## Analysis Flows
+
+### Ethical Analysis Flow
+Performs comprehensive ethical analysis of companies using AI:
+
+- **Input**: Company name/symbol
+- **Process**:
+  1. Context Generation: Creates initial company context
+  2. Query Generation: Builds targeted search queries for:
+     - Financial/Legal risks
+     - Ethical/Social concerns
+     - Environmental/Safety issues
+  3. Multi-source Research: Executes parallel searches
+  4. Data Extraction: Processes and structures findings
+  5. Analysis Generation: Creates detailed risk assessments
+- **Output**: Structured JSON with:
+  - Company metadata
+  - Risk categorizations
+  - Evidence snippets
+  - Source citations
+- **Performance**:
+  - ~13-15 seconds per company
+  - ~2500-3000 tokens per analysis
+  - Parallel processing capable
+  - Auto-batching and rate limiting
+
+### Search Flow
+Handles distributed search operations:
+
+- **Input**: Search queries and parameters
+- **Process**:
+  1. Query Preprocessing
+  2. Parallel Search Execution
+  3. Result Deduplication
+  4. Content Extraction
+  5. Structured Data Generation
+- **Output**: 
+  - Cleaned search results
+  - Metadata and statistics
+  - Source tracking
+
+

@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:57:45.613331",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "RWE",
+      "symbol": "RWEOY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Environmental impact and transition challenges due to reliance on coal",
+            "Regulatory and legal risks, including disputes under the Energy Charter Treaty",
+            "Community and social opposition to renewable energy projects",
+            "Market competition in the renewable energy sector"
+          ],
+          "controversies": [
+            "Legal dispute with the Netherlands over coal transition",
+            "Community opposition to large-scale renewable energy projects"
+          ],
+          "environmental_issues": [
+            "Historical reliance on coal leading to deforestation and high carbon emissions",
+            "Challenges in meeting emission reduction targets"
+          ],
+          "social_issues": [
+            "Community resistance to renewable energy projects",
+            "Need for effective stakeholder engagement to mitigate opposition"
+          ],
+          "governance_issues": [
+            "Regulatory uncertainties impacting transition to renewable energy",
+            "Potential financial and operational impacts from legal disputes"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Environmental protection - RWE",
+              "snippet": "RWE has set Science-based Targets. These targets cover own operations as well as the entire value chain. The targets are based on the emission inventory calculated for the new RWE for the year 2019. The company is committed to reducing specific emissions from Scope 1 and 2 by 2030 by 50% to 296 g CO 2 e / kWh of electricity produced. Reference are emissions of 591 CO 2 e / kWh in 2019.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914401+00:00",
+              "published_date": null,
+              "source_hash": "737ae6e6d1470e18c8430f27aaea4c26"
+            },
+            {
+              "url": "",
+              "title": "Sustainability Report - RWE",
+              "snippet": "And our goals are clearly defined: RWE will be climate neutral by 2040 and move the full phase-out of coal in Germany forward to 2030. However, our aspirations go far beyond protecting the climate. With a total of nine sustainability topics, RWE has been defining priority areas for action around all business activities since 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914457+00:00",
+              "published_date": null,
+              "source_hash": "42562815fc6d682736ae15cfdebde53e"
+            },
+            {
+              "url": "",
+              "title": "RWE AG: The case for an accelerated coal exit",
+              "snippet": "Carbon Tracker has produced two separate related reports on RWE and Uniper, the German publicly traded coal utilities, to assess the issues in accelerating Germany's exit from coal before 2030.RWE is widely held in global asset manager portfolios, particularly those specialised in utilities/infrastructure.. The energy transition is rendering future cash flows from coal generation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914466+00:00",
+              "published_date": null,
+              "source_hash": "b5ca0506cbb4886e5538cfb956713123"
+            },
+            {
+              "url": "",
+              "title": "RWE closes five more power plants, committing to coal phase out",
+              "snippet": "The recent announcement of the permanent shutdown of five power plant units in the Rhenish mining area marks a pivotal moment in RWE's commitment to phasing out coal by 2030 and embracing cleaner alternatives. ... RWE's initiative aims to significantly reduce CO2 emissions and mitigate environmental impacts associated with traditional ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914472+00:00",
+              "published_date": null,
+              "source_hash": "7aac556e9784b0908717483fc4d305fd"
+            },
+            {
+              "url": "",
+              "title": "Climate protection at RWE",
+              "snippet": "In Germany and the UK, RWE has already decommissioned its last hard coal-fired power plants. Dutch policy-makers are keen to end coal-\ufb01red electricity generation by 2030. RWE will therefore stop emitting CO 2 from burning hard coal in the Netherlands by then. RWE is endeavouring to convert both its plants in the Netherlands to biomass and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914477+00:00",
+              "published_date": null,
+              "source_hash": "b5e398aeae4745491f967727d7284ea3"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "We are RWE. Our company is at the leading edge of the ... environmental impact associated with generating electricity, particularly through the burning of fossil fuels such as coal, oil, and natural gas. This impact includes air and water pollution, greenhouse gas emissions, and the depletion of natural resources. While renewable energy is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914484+00:00",
+              "published_date": null,
+              "source_hash": "f9565f0afce8015d3de6e7667963fd99"
+            },
+            {
+              "url": "",
+              "title": "Dead lakes, dry holes: RWE's post-mining plans threatened by climate ...",
+              "snippet": "Impacts of lignite mining. Put together, the Hambach, Garzweiler and Inden mines produce around 100 million tons of filthy lignite annually, which is fed into three nearby RWE owned power plant complexes. These plants are some of the most toxic emitters in Europe, the source of some 75 million tons of annual CO2 emissions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914489+00:00",
+              "published_date": null,
+              "source_hash": "d527f7b57d599adce9fe38962d5f7745"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "biggest is the significant environmental impact associated with generating electricity, particularly through the burning of fossil fuels such as coal, oil, and natural gas. This impact includes air provide our stakeholders with consistent andand water pollution, greenhouse gas emissions, and the depletion of natural resources. While renewable",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914499+00:00",
+              "published_date": null,
+              "source_hash": "14fc449572d44794eb37cf918fa1b5b6"
+            },
+            {
+              "url": "",
+              "title": "RWE : Sustainability Management Report 2023 - MarketScreener",
+              "snippet": "In our mining area west of Cologne, the Rhenish mining region, we extracted 48.2 million metric tons of lignite last year. ... One of the biggest is the significant environmental impact associated with generating electricity, particularly through the burning of fossil fuels such as coal, oil, and natural gas. This impact includes air and water ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914504+00:00",
+              "published_date": null,
+              "source_hash": "585f97bea858b752bc40fa8a8a8cdaf1"
+            },
+            {
+              "url": "",
+              "title": "The Greenwashing Files - RWE | ClientEarth",
+              "snippet": "The truth behind the greenwashing. In 2017, RWE was ranked as Europe's biggest CO2 emitter and as the worst positioned of the 14 largest European power companies for low-carbon transition. The company has since reduced its overall power plant emissions from 131.8 million tonnes of CO2 in 2017 to 68.9 million tonnes in 2020, largely by reducing coal power operations and, for 2020, in light of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:10.914509+00:00",
+              "published_date": null,
+              "source_hash": "c9f7aebb832eef2cc3d6a483aa18df56"
+            },
+            {
+              "url": "",
+              "title": "The Impact of Rare Earth Mining on the Environment",
+              "snippet": "Uncover the hidden costs of rare earth mining on our planet! \ud83c\udf0d Let's dive into how this booming industry shapes our environment, for better or worse. The fight for sustainability is real\u2014what can we do to make a difference?",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:14.301552+00:00",
+              "published_date": "2024-12-25T14:22:00+00:00",
+              "source_hash": "e6b95bb1bc88bcdc93379e8e337be986"
+            },
+            {
+              "url": "",
+              "title": "RWE and Peabody Partner to Develop Solar and Energy Storage Pipeline on Repurposed, Reclaimed Mine Lands",
+              "snippet": "Peabody is committed to advancing environmental ... used by our coal mining operations is consistent with our mission and beneficial for all our stakeholders.\" RWE plays a crucial role in this ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:14.301574+00:00",
+              "published_date": "2024-11-21T12:44:00+00:00",
+              "source_hash": "5936bbccb87ce525f53df60333a7aa0f"
+            },
+            {
+              "url": "",
+              "title": "RWE joins coal giant in 5.5GW US solar plus storage pipeline amid Trump renewables slowdown fears",
+              "snippet": "German power company RWE has joined US coal producer Peabody Energy in 5.5GW of solar and storage developments on repurposed former mining lands in the Midwestern states of Indiana and Illinois, the companies announced Thursday. The move comes on the heels ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:14.301580+00:00",
+              "published_date": "2024-11-22T20:23:00+00:00",
+              "source_hash": "5428e693c3b48f7bfc4f001aca218579"
+            },
+            {
+              "url": "",
+              "title": "RWE to acquire majority stake in 5.5GW solar storage JV in US",
+              "snippet": "German energy group RWE has agreed to acquire a majority stake ... R3 aims to convert former coal mining sites into clean, renewable energy projects. Peabody president and CEO Jim Grech stated ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "RWE RWE coal mining environmental impact",
+              "retrieved_at": "2025-01-06T13:57:14.301589+00:00",
+              "published_date": "2024-11-22T22:58:00+00:00",
+              "source_hash": "fe2ffa446de1fa0fd96f017ba8f905e6"
+            },
+            {
+              "url": "",
+              "title": "RWE v. the Netherlands - Climate Change Litigation",
+              "snippet": "International Centre for Settlement of Investment Disputes; Principal Laws: International Law. Energy Charter Treaty; Summary: On February 2, 2021, German utility RWE filed suit against the Netherlands government under the Energy Charter Treaty alleging that the government failed to allow adequate time and resources to transition away from coal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867621+00:00",
+              "published_date": null,
+              "source_hash": "f96d5ed07d81f3837f177a5e985c2ec3"
+            },
+            {
+              "url": "",
+              "title": "RWE v. Netherlands | Investment Dispute Settlement Navigator | UNCTAD ...",
+              "snippet": "An objective evaluation of a country's legal, regulatory and institutional framework to attract direct investments. ... The summary of the dispute describes in very general terms the conduct allegedly in breach of IIA obligations as argued by the claimant (non-exhaustive). ... Shareholding of 100% in a coal-fired power plant in Eemshaven held ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867677+00:00",
+              "published_date": null,
+              "source_hash": "6ff7a99e4da6d0ad1697747c48a6a83b"
+            },
+            {
+              "url": "",
+              "title": "RWE v. Netherlands, Order of the Tribunal Taking Note of the ...",
+              "snippet": "Reproduced with the permission of the International Centre for Settlement of Investment Disputes : Link1 (EN) Official source. Documents of the case. Procedural Order No. 2 (Decision on Bifurcation) - 25 Feb 2022 ... Letter From the Ministry of Climate and Energy to the Dutch Parliament on the RWE Legal Proceedings - 30 Oct 2023 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867692+00:00",
+              "published_date": null,
+              "source_hash": "7c8b605fd9f8819f4eebd56bdd6df78f"
+            },
+            {
+              "url": "",
+              "title": "RWE v. Netherlands - Jus Mundi",
+              "snippet": "RWE AG and RWE Eemshaven Holding II BV v. Kingdom of the Netherlands, ICSID Case No. ARB/21/4 ... Letter From the Ministry of Climate and Energy to the Dutch Parliament on the RWE Legal Proceedings - 30 Oct 2023 ... \" by initiating parallel proceedings before the Dutch courts regarding the same purported investment and the same regulatory ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867704+00:00",
+              "published_date": null,
+              "source_hash": "aa473698a9375b8a7b1185ca794b52d2"
+            },
+            {
+              "url": "",
+              "title": "RWE v. Netherlands, Decision of the German Federal Court of Justice I ...",
+              "snippet": "RWE AG and RWE Eemshaven Holding II BV v. Kingdom of the Netherlands, ICSID Case No. ARB/21/4 ... Letter From the Ministry of Climate and Energy to the Dutch Parliament on the RWE Legal Proceedings - 30 Oct 2023 ... International Centre for Settlement of Investment Disputes (ICSID), 4. Aufl., Rn. 208 mwN; Pirrung aaO S. 97; von Wobeser in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867729+00:00",
+              "published_date": null,
+              "source_hash": "1622658cb4140a1210e08a414e05d910"
+            },
+            {
+              "url": "",
+              "title": "RWE AG and RWE Eemshaven Holding II BV v Kingdom of the Netherlands ...",
+              "snippet": "TDM Legal & Regulatory document from our growing collection of laws, treaties, agreements, awards and other primary materials related to commercial and international arbitration. ... RWE AG and RWE Eemshaven Holding II BV v Kingdom of the Netherlands - ICSID Case No. ARB/21/4 - Decision on the Claimant's Request for Provisional Measures - 16 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867739+00:00",
+              "published_date": null,
+              "source_hash": "e4d70a04755f2a49c325ea36fe80d328"
+            },
+            {
+              "url": "",
+              "title": "The Netherlands v. RWE and Uniper (Anti-Arbitration Injunctions)",
+              "snippet": "Achmea. According to the CJEU, arbitration clauses in intra-EU investment treaties are incompatible with the principle of autonomy of the EU legal order. Disputes on EU law rest within the exclusive competence of the EU judiciary to ensure the autonomy of the legal order and consistent interpretation of Union law.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867749+00:00",
+              "published_date": null,
+              "source_hash": "25d111f52cb56b455146737017dcded0"
+            },
+            {
+              "url": "",
+              "title": " International Centre for Settlement of Investment Disputes",
+              "snippet": "RWE AG and RWE Eemshaven Holding II BV v. Kingdom of the Netherlands Claimants' Application for Bifurcation and Expedition 28 January 2022 Page 2 of 10 6 Finally, the intra-EU objection and Claimants' ancillary claim are inextricably linked both factually and legally, like two sides of the same coin. Hearing them jointly in an expedited",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867759+00:00",
+              "published_date": null,
+              "source_hash": "000de9c702555fce4e9ad05e06c42c79"
+            },
+            {
+              "url": "",
+              "title": "RWE AG and RWE Eemshaven Holding II BV v Kingdom of the Netherlands ...",
+              "snippet": "TDM Legal & Regulatory document from our growing collection of laws, treaties, agreements, awards and other primary materials related to commercial and international arbitration. ... the Netherlands respectfully submits that the Tribunal lacks jurisdiction over the dispute, that RWE's claims are inadmissible and that RWE's claims are without ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867768+00:00",
+              "published_date": null,
+              "source_hash": "40ee19ecfd84f15554166405b7753ad8"
+            },
+            {
+              "url": "",
+              "title": "RWE AG and RWE Eemshaven Holding II BV v Kingdom of the Netherlands ...",
+              "snippet": "RWE is consistently phasing out coal and at the same time investing massively in renewables, energy storage and hydrogen. We will become carbon neutral by 2040.\" At the beginning of February, RWE filed a request for arbitration at the International Centre for Settlement of Investment Disputes (ICSID) in Washington under the Energy Charter Treaty.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "RWE RWE regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T13:57:15.867777+00:00",
+              "published_date": null,
+              "source_hash": "611a7a13e32c10d3fe23be5c0b75b4b8"
+            },
+            {
+              "url": "",
+              "title": "Community Complaints Channel | RWE",
+              "snippet": "We have created a central complaints channel accessible to all. This offers individuals or community groups the opportunity to register their concerns and complaints through the contact form below or anonymously if desired.We aim to create a confidential space for community members to communicate their thoughts, ensuring that their voices are heard and valued.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924847+00:00",
+              "published_date": null,
+              "source_hash": "04a8bc04e8aedd0396cf0f565eb30e67"
+            },
+            {
+              "url": "",
+              "title": "Solar is a battlefield: Combatting community opposition during project ...",
+              "snippet": "\"Solar projects are very specific in where they need to be located. It's important for developers to work with the community and explain why this land is the best location for a solar project. All that is to say, the earlier the better.\" Brown says that larger projects garner the most opposition because of the amount of land they require.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924895+00:00",
+              "published_date": null,
+              "source_hash": "0864db7049892818f41114e970d62a00"
+            },
+            {
+              "url": "",
+              "title": "Community Opposition Adds Roadblocks to Large Renewables Projects",
+              "snippet": "A survey of renewable energy developers in the United States\u2014and instances of community opposition to large solar and wind projects in Canada and abroad\u2014indicate that improved engagement with locals could spur renewables growth and help counter misinformation campaigns inflamed by influencers from outside the neighbourhood.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924906+00:00",
+              "published_date": null,
+              "source_hash": "2e518fff8212e0de7165ce922b9ddb37"
+            },
+            {
+              "url": "",
+              "title": "How Local Opposition Can Thwart Renewable Energy Projects",
+              "snippet": "According to a report published by Columbia Law School's Sabin Center for Climate Change Law, between 1995 and 2023, nearly 300 renewable energy projects encountered significant local opposition ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924916+00:00",
+              "published_date": null,
+              "source_hash": "e4298f699f5a2d9b3155443508e69767"
+            },
+            {
+              "url": "",
+              "title": "The looming battle over Britain's wind farms - Financial Times",
+              "snippet": "The project was awarded permission again in 2022 by Kwasi Kwarteng, the minister then in charge of UK energy. At the end of 2023, it was sold to German utility RWE, which has yet to begin ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924924+00:00",
+              "published_date": null,
+              "source_hash": "baecfaaffbcbfcf7e5e1f281afa66d21"
+            },
+            {
+              "url": "",
+              "title": "Local opposition to renewable energy projects 'widespread and growing ...",
+              "snippet": "A report from Columbia University's Sabin Center for Climate Change Law analyzed local and state opposition to renewable energy projects and found it has significantly increased in the last year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924931+00:00",
+              "published_date": null,
+              "source_hash": "ceb8386c8337f81c3bdd5a1be4186c99"
+            },
+            {
+              "url": "",
+              "title": "Nearly all 50 states face local opposition to renewable projects ...",
+              "snippet": "A new edition of Columbia Law School's Sabin Center's Opposition to Renewable Energy Facilities in the United States report identified 378 renewable energy projects across 47 states that have encountered significant opposition. The report also identified 395 local restrictions across 41 states, along with 19 state-level restrictions that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924938+00:00",
+              "published_date": null,
+              "source_hash": "0a0445779c1a194b470463ab6a4cdbd5"
+            },
+            {
+              "url": "",
+              "title": "RWE scales back \u20ac55bn renewables bet after Trump win - Financial Times",
+              "snippet": "RWE intends to reduce its net investments in green projects to \u20ac7bn 2025-26, down from \u20ac10bn in 2024. Instead, the German company said it would repurchase up to \u20ac1.5bn of shares over a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924944+00:00",
+              "published_date": null,
+              "source_hash": "6d82fb73dd6b4d6deb3e6a4a5f138657"
+            },
+            {
+              "url": "",
+              "title": "A call for strategic renewables investment and policy realignment | RWE ...",
+              "snippet": "Responding to the challenge: The importance of AR6 for future investments. The material importance of the scheme therefore means the failure of Allocation Round 5 (AR5), in which no offshore projects were awarded CfDs due to the ceiling prices (known as Administrative Strike Prices or ASPs) being set too low, was a significant blow to investor confidence and the UK government's wider ambitions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924952+00:00",
+              "published_date": null,
+              "source_hash": "406a7fedd2284ef33a0cb69001248853"
+            },
+            {
+              "url": "",
+              "title": "RWE | Our energy for a sustainable life.",
+              "snippet": "The new RWE makes electricity that is clean, safe and affordable. The company is on a global path to growth and pursues a clear CO2-reduction target. It drives the expansion of renewables and the development of storage technologies. Its power plants and our trading platforms ensure security of supply. You can find out more here.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:19.924959+00:00",
+              "published_date": null,
+              "source_hash": "ca30e1e0dee58f6fc0d8ab2c2f45085f"
+            },
+            {
+              "url": "",
+              "title": "RWE and Peabody Partner to Develop Solar and Energy Storage Pipeline on Repurposed, Reclaimed Mine Lands",
+              "snippet": "RWE plays a crucial role in this partnership by bringing its extensive experience in developing, constructing, and operating some of the most efficient renewable energy projects in the United ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:23.268249+00:00",
+              "published_date": "2024-11-21T12:44:00+00:00",
+              "source_hash": "578beab565b1bfa5fd88d82118e2b931"
+            },
+            {
+              "url": "",
+              "title": "RWE reaches 10 gigawatts owned and operated clean generation assets in the U.S.",
+              "snippet": "Additionally, RWE has more than 4 GW of clean energy projects under construction in ... financial benefits to our partners in the community, while also enhancing national energy security.\"",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:23.268298+00:00",
+              "published_date": "2024-12-18T10:30:00+00:00",
+              "source_hash": "1a650b8d2b7800cf3d1259c4b7f81db4"
+            },
+            {
+              "url": "",
+              "title": "RWE to supply renewable energy to Rivian from Champion Wind project in US",
+              "snippet": "German energy company RWE has signed a 15-year power purchase agreement with Rivian, an electric vehicle manufacturer. Under the agreement, RWE will supply power to Rivian from its upgraded wind ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "RWE RWE community opposition to renewable projects",
+              "retrieved_at": "2025-01-06T13:57:23.268315+00:00",
+              "published_date": "2024-11-01T23:40:00+00:00",
+              "source_hash": "e792defa5d1869629bd46a3df57b5e13"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "RWE coal mining environmental impact",
+              "rationale": "Investigate the environmental consequences of RWE's coal mining activities, particularly lignite mining and deforestation",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "RWE regulatory fines and legal disputes",
+              "rationale": "Identify any recent fines, lawsuits, or legal challenges related to regulatory compliance or energy policies",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "RWE community opposition to renewable projects",
+              "rationale": "Explore instances of local community resistance or protests against RWE's renewable energy installations",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:57:45.613336",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:06:07.933701",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "NV5 Global Inc",
+      "symbol": "NVEE",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Dependence on government contracts",
+            "Economic sensitivity to construction and infrastructure sectors",
+            "Integration risks from acquisition-heavy growth strategy",
+            "Regulatory compliance challenges"
+          ],
+          "controversies": [
+            "Employee concerns about workforce reductions and job security",
+            "Mixed employee sentiment regarding work experience and company focus"
+          ],
+          "environmental_issues": [
+            "Challenges in maintaining alignment with evolving ESG standards"
+          ],
+          "social_issues": [
+            "Workforce reductions and layoffs impacting employee morale",
+            "Mixed employee sentiment on job security and company culture"
+          ],
+          "governance_issues": [
+            "Potential risks from rapid acquisition strategy and integration challenges"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Agreement and Plan of Merger by and among NV5 Global, Inc., | NV5 ...",
+              "snippet": "(a) Section 3.14(a) of the Company Disclosure sets forth a list of each Government Contract that is currently in effect having expected annual revenue for the fiscal year ending December 28, 2019 in excess of $3,000,000 and the name of the customer, name of the contract and number, effective date, and period of performance (each, a \"Material ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996613+00:00",
+              "published_date": null,
+              "source_hash": "872588c8e3171e6f58a507492293ec62"
+            },
+            {
+              "url": "",
+              "title": "NV5, Inc - NV5 Awarded $12 Million in Federal ... - NV5 Global, Inc.",
+              "snippet": "HOLLYWOOD, Fla., May 23, 2024 (GLOBE NEWSWIRE) - NV5 Global, Inc. (the \"Company\" or \"NV5\") (Nasdaq: NVEE), a provider of technology, conformity assessment, and consulting solutions, announced today that it has been awarded $12 million in geospatial contracts in the defense, intelligence, and federal civilian market space. The work addresses national security concerns internationally ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996786+00:00",
+              "published_date": null,
+              "source_hash": "a56741391d1bab26fdb0954cc8b0c226"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $5 Million Bypass Project by Georgia Department of ...",
+              "snippet": "HOLLYWOOD, Fla., Dec. 23, 2024 (GLOBE NEWSWIRE) -- NV5, a provider of technology, conformity assessment, and consulting solutions, announced today that it has been awarded a $5 million, five-year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996812+00:00",
+              "published_date": null,
+              "source_hash": "fe9b661b262b626a9ccaf3f8f503f5ac"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $19.5 Million Contract by the California Department of ...",
+              "snippet": "NV5 Awarded $19.5 Million Contract by the California Department of Transportation, Expands Presence in Southern California NV5 Global, Inc. Thu, Apr 18, 2024, 8:00 AM 3 min read",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996825+00:00",
+              "published_date": null,
+              "source_hash": "0431c106fcfcb92f73c89bfb1e34634e"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $18 Million by the California Department of Transportation ...",
+              "snippet": "NV5 Global, Inc. (NASDAQ: NVEE) is a provider of technology, conformity assessment, and consulting solutions for public and private sector clients supporting utility, infrastructure, and building ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996837+00:00",
+              "published_date": null,
+              "source_hash": "ce184013bcb9d783c70dcdbe70836a7b"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $14 Million in Southern California Municipal - GlobeNewswire",
+              "snippet": "NV5 Global, Inc. (NASDAQ: NVEE) is a provider of technology, certification, and consulting solutions for public and private sector clients supporting utility, infrastructure, and building assets ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996848+00:00",
+              "published_date": null,
+              "source_hash": "d1b42e2300034f31fb2e912003b3e163"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $10 Million in Contracts to Support County of San Diego ...",
+              "snippet": "HOLLYWOOD, Fla., Jan. 09, 2024 (GLOBE NEWSWIRE) -- NV5 Global, Inc. (the \"Company\" or \"NV5\") (Nasdaq: NVEE), a provider of technology, conformity assessment, and consulting solutions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996858+00:00",
+              "published_date": null,
+              "source_hash": "da8c6b2f55441d0fd31baa8d8c01e7a6"
+            },
+            {
+              "url": "",
+              "title": "NV5, Inc - NV5 Awarded $46 Million in Contracts by Western Utilities to ...",
+              "snippet": "HOLLYWOOD, Fla., Nov. 12, 2024 (GLOBE NEWSWIRE) - NV5, a provider of technology, certification, and consulting solutions, announced today that it has been awarded $46 million in recent contracts to support electrical grid hardening and fire mitigation efforts in the Western United States. Under the scope of these awards, NV5 will provide engineering design, traditional and geospatial surveying ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996869+00:00",
+              "published_date": null,
+              "source_hash": "8bea00d452a4e0d5df71b71cca114ed8"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $5 Million Bypass Project by Georgia Department of ...",
+              "snippet": "HOLLYWOOD, Fla., Dec. 23, 2024 (GLOBE NEWSWIRE) -- NV5, a provider of technology, conformity assessment, and consulting solutions, announced today that it has been awarded a $5 million, five-year contract by the Georgia Department of Transportation (GDOT) to lead the Watkinsville Bypass project connecting SR 24 and SR 15 in Oconee County, Georgia. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996880+00:00",
+              "published_date": null,
+              "source_hash": "621264fc0a8a017f9b3a2d2a701394ab"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $10 Million in Critical Mineral Geospatial - GlobeNewswire",
+              "snippet": "NV5 Global, Inc. (NASDAQ: NVEE) is a provider of technology, certification, and consulting solutions for public and private sector clients supporting utility, infrastructure, and building assets ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:32.996891+00:00",
+              "published_date": null,
+              "source_hash": "50ea32b491e73a5465a6a7d9b922518c"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $7 Million in Infrastructure Design Contracts by the City of Philadelphia",
+              "snippet": "Dec. 19, 2024 (GLOBE NEWSWIRE) -- NV5 Global, Inc. (the \"Company\" or \"NV5 ... awarded over $7 million in infrastructure design contracts by the City of Philadelphia, with projects ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:36.505735+00:00",
+              "published_date": "2024-12-19T08:00:00+00:00",
+              "source_hash": "4f0a0bd501c3fd4f92f7f3399f66d980"
+            },
+            {
+              "url": "",
+              "title": "NV5 awarded $14M in Southern California municipal infrastructure contracts",
+              "snippet": "NV5 Global (NASDAQ:NVEE) has been awarded $14M in recent multi-year infrastructure consulting contracts to support ... NV5 Global, Inc. (NVEE) Q3 2024 Earnings Call Transcript NV5 Global Q3 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:36.505875+00:00",
+              "published_date": "2024-12-16T09:48:00+00:00",
+              "source_hash": "4de1b5e7d7541fabd8f0789981253cc5"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $14 Million to Advance Global AI-Driven Data Center Infrastructure; Exceeds a Gigawatt of Data Center Design and Modeling in 2024",
+              "snippet": "Nov. 05, 2024 (GLOBE NEWSWIRE) -- NV5 Global, Inc. (the \"Company\" or \"NV5 ... announced today that it has been awarded $14 million in recent contracts to support the global development ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:36.505897+00:00",
+              "published_date": "2024-11-05T13:00:00+00:00",
+              "source_hash": "678e31e22ebc62bb30c0040f1d196be3"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global awarded $5M five-year contract by the GDOT",
+              "snippet": "NV5 announced that it has been awarded a $5M, five-year contract by the Georgia Department of Transportation, GDOT, to lead the Watkinsville Bypass project connecting SR 24 and SR 15 in Oconee County, Georgia. NV5 will deliver a full suite of services ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NV5 Global Inc NV5 Global Inc government contract disputes",
+              "retrieved_at": "2025-01-06T13:05:36.505909+00:00",
+              "published_date": "2024-12-23T07:15:00+00:00",
+              "source_hash": "26cc2dd02c43bf88a954b314fab0e39d"
+            },
+            {
+              "url": "",
+              "title": "NV5 Enters Agreement to Acquire Global Fire Protection Group; Expands Recurring Fire Safety Engineering Consulting and Design Services",
+              "snippet": "Dec. 18, 2024 (GLOBE NEWSWIRE) -- NV5, a provider of technology, certification, and consulting solutions, announced today that it has entered an agreement to acquire Global Fire Protection Group ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:42.210592+00:00",
+              "published_date": "2024-12-18T00:00:00+00:00",
+              "source_hash": "c9079594546f4c2415ca38a2f885078a"
+            },
+            {
+              "url": "",
+              "title": "Working at NV5: 86 Reviews | Indeed.com",
+              "snippet": "Many of us eventually let go due to workforce reduction, including remote workers and some heavy-hitters for the company. Did not feel NV5 had employees' interests. Everything strictly tied to time and efficiency as a means to financials, making employees feel like little more than a number on a sheet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698754+00:00",
+              "published_date": null,
+              "source_hash": "90b7e32a557fc7c46fabe8204184760d"
+            },
+            {
+              "url": "",
+              "title": "NV5 Reviews: What Is It Like to Work At NV5? | Glassdoor",
+              "snippet": "NV5 has an employee rating of 3.6 out of 5 stars, based on 344 company reviews on Glassdoor which indicates that most employees have a good working experience there. The NV5 employee rating is in line with the average (within 1 standard deviation) for employers within the Construction, Repair & Maintenance Services industry (3.7 stars).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698825+00:00",
+              "published_date": null,
+              "source_hash": "97dd84be2d378994c52081e033517cb8"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. Reviews by 8 Employees - AmbitionBox",
+              "snippet": "NV5 Global, Inc. is rated 3.5 out of 5 stars on AmbitionBox, based on 8 company reviews.This rating reflects an average employee experience, indicating moderate satisfaction with the company's work culture, benefits, and career growth opportunities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698842+00:00",
+              "published_date": null,
+              "source_hash": "0a817007f7b743b3a27b252b408eb40a"
+            },
+            {
+              "url": "",
+              "title": "NV5 Company Profile | Management and Employees List - Datanyze",
+              "snippet": "NV5 Profile and History NV5 Global, Inc. provides professional and technical engineering, and consulting solutions to public and private sector clients in the infrastructure, energy, construction, real estate, and environmental markets in the United States and internationally.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698856+00:00",
+              "published_date": null,
+              "source_hash": "db949226b0be8697426fa7127c3edf00"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global Culture - Comparably",
+              "snippet": "NV5 Global Employees. 46 employees at NV5 Global have reviewed NV5 Global across various culture dimensions, providing their opinions on items ranging from executive ratings to the pace at work. The latest review was today. Overall, the 46 NV5 Global employees give their leadership a grade of D+, or Bottom 25% of similar size companies on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698868+00:00",
+              "published_date": null,
+              "source_hash": "1badd6d6ac47e78d0fcaca37f6c02680"
+            },
+            {
+              "url": "",
+              "title": "Working at NV5: Employee Reviews about Work-Life Balance - Indeed",
+              "snippet": "Many of us eventually let go due to workforce reduction, including remote workers and some heavy-hitters for the company. Did not feel NV5 had employees' interests. Everything strictly tied to time and efficiency as a means to financials, making employees feel like little more than a number on a sheet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698879+00:00",
+              "published_date": null,
+              "source_hash": "126228184c236000c02e116a5d1c863d"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global Employee Reviews - Comparably",
+              "snippet": "NV5 Global Employee Reviews. Out of 29 NV5 Global employee reviews, 72% were positive. The remaining 28% were constructive reviews with the goal of helping NV5 Global improve their work culture. The Engineering team, with 60% positive reviews, reports the best experience at NV5 Global compared to all other departments at the company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698890+00:00",
+              "published_date": null,
+              "source_hash": "dbd480477f1209a880d0ebc5ccb8fe1d"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "View the ESG Risk Rating for NV5 Global, Inc. See Sustainalytics' high-quality public ESG risk ratings for over 10,000 companies. ... Full time employees: 3,813. ESG Risk Rating. Core 24.0. Medium Risk. Negligible. Low. Medium. High. Severe. 0-10. 10-20. 20-30. ... Highest Controversy level that has impacted NV5 Global, Inc. 's ESG Risk ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698902+00:00",
+              "published_date": null,
+              "source_hash": "fe5ab7a3413ab97153ec16bc9fce7826"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. Work Life Balance Review | AmbitionBox",
+              "snippet": "Work culture is rated 3.6 at NV5 Global, Inc. by 7 employees. While job security is rated 3.6 and work-life balance is rated 4.0 at NV5 Global, Inc.. Read detailed reviews by employees of NV5 Global, Inc. on AmbitionBox.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698918+00:00",
+              "published_date": null,
+              "source_hash": "5d3a595fdc1abc3186749f951f999ffa"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. Bangalore / Bengaluru Reviews - AmbitionBox",
+              "snippet": "AmbitionBox has 6 NV5 Global, Inc. reviews submitted by NV5 Global, Inc. employees. Read reviews on salaries, working hours, work culture, office environment, and more to know if NV5 Global, Inc. is the right company for you. ... Work Timings at NV5 Global, Inc. Bangalore / Bengaluru based on 6 reviews Flexible timing Strict (9am - 6pm) 67%. 33%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:39.698929+00:00",
+              "published_date": null,
+              "source_hash": "504a06b0ac19f93dc004a6f117ee0855"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $7 Million in Infrastructure Design Contracts by the City of Philadelphia",
+              "snippet": "NV5 Global, Inc. HOLLYWOOD, Fla., Dec. 19, 2024 (GLOBE NEWSWIRE) -- NV5 Global, Inc. (the \"Company\" or \"NV5\") (Nasdaq: NVEE), NV5, a provider of technology, certification, and consulting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:42.210475+00:00",
+              "published_date": "2024-12-19T08:00:00+00:00",
+              "source_hash": "eb0ba9b242732cd89af76efd725878c2"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global (NASDAQ:NVEE) Cut to Hold at StockNews.com",
+              "snippet": "Louisiana State Employees ... of NV5 Global in the second quarter valued at approximately $44,000. Institutional investors and hedge funds own 75.54% of the company's stock. NV5 Global, Inc ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:42.210556+00:00",
+              "published_date": "2024-12-21T00:00:00+00:00",
+              "source_hash": "c5261b96508f21e03449618b2867e2b9"
+            },
+            {
+              "url": "",
+              "title": "NV5 Announces Acquisition of Global Fire Protection Group to Enhance Fire Safety Services",
+              "snippet": "There is a risk associated with integrating Global FPG into NV5, which could disrupt existing operations or dilute company culture, leading to potential employee turnover. The mention of \"forward ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:42.210569+00:00",
+              "published_date": "2024-12-18T13:12:00+00:00",
+              "source_hash": "673fede4282be62a1fbb30f36b060ac4"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $14 Million to Advance Global AI-Driven Data Center Infrastructure; Exceeds a Gigawatt of Data Center Design and Modeling in 2024",
+              "snippet": "Nov. 05, 2024 (GLOBE NEWSWIRE) -- NV5 Global, Inc. (the \"Company\" or \"NV5 ... MEP design and CFD analysis work in concert to deliver optimal cooling performance, thermal dynamics ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NV5 Global Inc NV5 Global Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T13:05:42.210581+00:00",
+              "published_date": "2024-11-05T13:00:00+00:00",
+              "source_hash": "a1def6efdb0d0a01362d0c9191d527b3"
+            },
+            {
+              "url": "",
+              "title": "Environmental, Social and Governance - NV5",
+              "snippet": "Dedicated Focus on Environmental, Social and Governance Matters Environmental sustainability is a common thread that runs through NV5's entire business, with Social and Governance issues also rising as areas of deliberate focus over the past several years. Explore NV5 ESG Solutions Environmental Sustainability NV5 believes that to thrive in a changing global market, every project ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628082+00:00",
+              "published_date": null,
+              "source_hash": "0f911981764abe2a1d44a63c1523fc78"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "NV5 Global Inc is a provider of technology, conformity assessment, and consulting solutions to public and private sector clients in the infrastructure, utility services, construction, real estate, environmental, and geospatial markets, operating nationwide and abroad.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628169+00:00",
+              "published_date": null,
+              "source_hash": "bed9db011565e7d30111e46251c02a94"
+            },
+            {
+              "url": "",
+              "title": "nvee-20240330 - SEC.gov",
+              "snippet": "NV5 Global, Inc. and its subsidiaries (collectively, the \"Company\" or \"NV5 Global\") is a provider of technology, conformity assessment, consulting solutions, and software applications to public and private sector clients in the infrastructure, utility services, construction, real estate, environmental, and geospatial markets, operating nationwide and abroad.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628187+00:00",
+              "published_date": null,
+              "source_hash": "a058c0e9a5837f70295f239bca4519ab"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - NV5",
+              "snippet": "NV5 Houston is pursuing WELL certification, becoming NV5's first WELL certified office. Recent Building Energy & Sustainability Projects. Office Buildings. American Airlines Skyview 7 & 8 (LEED Campus), Fort Worth, TX. Achieved 2 LEED BD+C Gold Certifications in 2020. Frost Tower, San Antonio, TX. Achieved LEED BD+C Silver in 2020.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628198+00:00",
+              "published_date": null,
+              "source_hash": "b6931fb23089e218e6104d2db79fff6f"
+            },
+            {
+              "url": "",
+              "title": "nvee20190330_10q.htm - SEC.gov",
+              "snippet": "NV5 Global, Inc. and its subsidiaries (collectively, the \"Company,\" \"NV5 Global,\" \"our,\" \"we\") is a provider of professional and technical engineering and consulting solutions to public and private sector clients in the infrastructure, energy, construction, real estate and environmental markets, operating nationwide and abroad.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628208+00:00",
+              "published_date": null,
+              "source_hash": "5c7181bd8154566380461768e4b40248"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. Company Profile | Hollywood, FL | Competitors ...",
+              "snippet": "Company Description: NV5 Global is a provider of technology, conformity assessment, consulting solutions, and software applications to public and private sector clients in the infrastructure, utility services, construction, real estate, environmental, and geospatial markets, operating nationwide and abroad. NV5 Global provides a wide range of services, including, engineering, civil program ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628217+00:00",
+              "published_date": null,
+              "source_hash": "311f86125f08f6eefdea88a7cc45e4dc"
+            },
+            {
+              "url": "",
+              "title": "NV5 - Technical Engineering & Consulting Solutions",
+              "snippet": "NV5 is a leading provider of professional and technical engineering and consulting solutions with strong management team with 200 years of combined industry experience. About NV5 is a provider of technology, conformity assessment, and consulting solutions for public and private sector clients supporting infrastructure, utility, and building ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628228+00:00",
+              "published_date": null,
+              "source_hash": "9cdabf44393c10974a28506d48438bf5"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global, Inc. Company Profile | Hollywood, FL | Competitors ...",
+              "snippet": "Company Description: NV5 Global is a provider of professional and technical engineering and consulting solutions to public and private sector clients in the infrastructure, utility services, construction, real estate, and environmental markets, operating nationwide and abroad. The company's clients include the US Federal, state and local governments, and the private sector.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628238+00:00",
+              "published_date": null,
+              "source_hash": "a1ab36a649f9367d0774396ff9c13859"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global Company Profile 2025: Stock Performance & Earnings - PitchBook",
+              "snippet": "NV5 Global General Information Description. NV5 Global Inc is a provider of technology, conformity assessment, and consulting solutions to public and private sector clients in the infrastructure, utility services, construction, real estate, environmental, and geospatial markets, operating nationwide and abroad.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628248+00:00",
+              "published_date": null,
+              "source_hash": "4206c7928d1f446e0f883fa997124991"
+            },
+            {
+              "url": "",
+              "title": "Nv5 Global, Inc. - Company Profile Report | IBISWorld",
+              "snippet": "Nv5 Global is a public company headquartered in Florida with an estimated 3,428 employees. In the US, the company has a notable market share in at least one industry: Surveying & Mapping Services, where they account for an estimated 0.5% of total industry revenue.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:43.628257+00:00",
+              "published_date": null,
+              "source_hash": "b1a39e9317d82fc6eceec0b77d424cca"
+            },
+            {
+              "url": "",
+              "title": "NV5 Awarded $5 Million Bypass Project by Georgia Department of Transportation",
+              "snippet": "NV5 will deliver a full suite of services, including geomatics, environmental studies ... development and transportation efficiency in Oconee County. About NV5 NV5 Global, Inc. (NASDAQ: NVEE) is a provider of technology, certification, and consulting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:47.181435+00:00",
+              "published_date": "2024-12-23T08:00:00+00:00",
+              "source_hash": "0aa254d8cd682b016027d721c33a9531"
+            },
+            {
+              "url": "",
+              "title": "NV5 Global awarded $5M five-year contract by the GDOT",
+              "snippet": "to lead the Watkinsville Bypass project connecting SR 24 and SR 15 in Oconee County, Georgia. NV5 will deliver a full suite of services, including geomatics, environmental studies, roadway and bridge design, hydraulic and hydrological analysis, traffic and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "NV5 Global Inc NV5 Global Inc environmental project failures",
+              "retrieved_at": "2025-01-06T13:05:47.181492+00:00",
+              "published_date": "2024-12-23T07:15:00+00:00",
+              "source_hash": "2324d1d292aa509fad4952ab46453216"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "NV5 Global Inc government contract disputes",
+              "rationale": "Investigate potential legal issues or disputes related to government contracts, which are a significant revenue source",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "NV5 Global Inc employee workplace controversies",
+              "rationale": "Explore any reports of workplace issues, such as discrimination or labor disputes, that could impact the company's reputation",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "NV5 Global Inc environmental project failures",
+              "rationale": "Identify any instances of failed environmental projects or non-compliance with sustainability standards",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:06:07.933708",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

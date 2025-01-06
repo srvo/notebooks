@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:05:13.961563",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Gibraltar",
+      "symbol": "ROCK",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Sovereignty disputes between the UK and Spain",
+            "Brexit-related regulatory and logistical challenges",
+            "Criticism of Gibraltar's tax haven status",
+            "Environmental challenges including water scarcity and waste management"
+          ],
+          "controversies": [
+            "Spain's non-acknowledgment of British sovereignty over Gibraltar",
+            "Gibraltar's inclusion on Spain's list of tax havens"
+          ],
+          "environmental_issues": [
+            "Water scarcity",
+            "Waste management issues",
+            "Impact of tourism on natural resources"
+          ],
+          "social_issues": [
+            "High population density exacerbating environmental and infrastructure challenges"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and compliance requirements due to tax policies"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Once A Tax Haven, Gibraltar Now Says It's Low-Tax - NPR",
+              "snippet": "Gibraltar had a reputation as a tax haven and hosts Mossack & Fonseca, the law firm at the center of the Panama Papers. But Gibraltar has made reforms and insists it's a proper place for business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015310+00:00",
+              "published_date": null,
+              "source_hash": "2fc6d1668bcea78e8014944ef0e35999"
+            },
+            {
+              "url": "",
+              "title": "Is Gibraltar a Tax Haven? - Offshore Protection",
+              "snippet": "Tax policies contribute to Gibraltar's complex economic interactions with the UK and the EU. Is Gibraltar a Tax Haven? Gibraltar is a small British Overseas Territory and is known as a tax haven due to its tax benefits on non-resident companies. Though it is a relatively small territory it has a number of unique financial benefits for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015377+00:00",
+              "published_date": null,
+              "source_hash": "dca000e0f3da1939833464e122e7557a"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar still on Spanish 'tax haven' list - Chronicle",
+              "snippet": "Gibraltar remains on Spain's list of countries and territories it regards as tax havens, according to a document published by the Spanish treasury on Thursday. Gibraltar was still included in the updated list despite Spain's commitment to remove it after the tax treaty for Gibraltar and Spain came into force in March 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015390+00:00",
+              "published_date": null,
+              "source_hash": "3ca299bf3ae3d4097b5cb7156602a2f7"
+            },
+            {
+              "url": "",
+              "title": "Financial watchdog to remove Gibraltar from tax haven grey list after ...",
+              "snippet": "GIBRALTAR could be removed from the Tax Haven Grey List in February 2024 after being inspected by the Financial Action Task Force (FATF). The long-awaited news comes after Minister for Justice ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015400+00:00",
+              "published_date": null,
+              "source_hash": "2aaaff5fcc2d89bfd2463df652640e6b"
+            },
+            {
+              "url": "",
+              "title": "Spain 'in the process' of removing Gibraltar from its tax haven blacklist",
+              "snippet": "Spain understands its international legal obligation to remove Gibraltar from its blacklist of tax havens and is \"in the process of delivering it\", Chief Minister Fabian Picardo told Parliament last week. The Chief Minister was responding to questions from Keith Azopardi, the Leader of the Opposition, who had pressed him for an update on a...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015407+00:00",
+              "published_date": null,
+              "source_hash": "0e09409d7a9469abfb08876b77805711"
+            },
+            {
+              "url": "",
+              "title": "Gib 'will pull out' of tax treaty if not removed from ... - Chronicle",
+              "snippet": "In the letter, which is reported in Hansard, Mr Gonzalez-Barba wrote: \"The effective application of the Agreement is the basis for the exclusion of Gibraltar from the list of tax havens, and for this purpose Spain will adopt appropriate measures within the current legal framework so that Gibraltar is no longer considered a tax haven in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015415+00:00",
+              "published_date": null,
+              "source_hash": "2eb13934a0126bbf7cdfcc3d89127f08"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar is no longer a Tax Heaven - Expats Magazine",
+              "snippet": "With this treaty, however, there is no doubt that Gibraltar will also disappear from Spain's list of tax havens, given that the Spanish Tax Agency has sufficient knowledge and the necessary means to detect fictitious uses of tax residence. When it comes to people, it has enough information regarding their real estate, consumptions, bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015422+00:00",
+              "published_date": null,
+              "source_hash": "202feb4bc00d30becbdaadd4d9568b20"
+            },
+            {
+              "url": "",
+              "title": "Spanish Tax Black List - Gibraltar will pull out of Tax Treaty if Spain ...",
+              "snippet": "The Chief Minister has said if Gibraltar is not removed from Spain's list of tax havens in keeping with the time frame agreed in the Tax Treaty, Gibraltar will pull out of the treaty altogether. The latest Spanish list of tax havens was published this week..",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015429+00:00",
+              "published_date": null,
+              "source_hash": "147094a838cd39453bf88691cbab5a08"
+            },
+            {
+              "url": "",
+              "title": "Britain told to scrap Gibraltar's tax haven - thetimes.com",
+              "snippet": "The dispute over the legality of Gibraltar's tax-haven status adds more fuel to the row over ownership of the Rock. Home to just 27,000 people, Gibraltar has 76,000 registered companies and Spain complains vigorously that the tax-exempt company regime attracts money launderers, an allegation that Gibraltar denies. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015436+00:00",
+              "published_date": null,
+              "source_hash": "b111dbc96053e7044fa834c67ec003ba"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar's tax haven status to be scrapped - The Times",
+              "snippet": "GIBRALTAR'S historic status as a tax haven for companies is to be scrapped, after Britain caved in to EU demands to end the special regime. Companies registered in Gibraltar but not conducting",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:46.015442+00:00",
+              "published_date": null,
+              "source_hash": "894dbada5d72ed5b21f392e3209c5023"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar signs information exchange agreements to boost tax transparency",
+              "snippet": "Gibraltar Chief Minister Peter Caruana signed a tax information exchange agreement (TIEA) with the UK which is set to boost levels of transparency on tax-related issues, reports the Gibraltar ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:49.299447+00:00",
+              "published_date": "2024-12-13T05:26:00+00:00",
+              "source_hash": "a3f5997106dc577c4c47f2fb7f88b2c0"
+            },
+            {
+              "url": "",
+              "title": "Spain and UK sign Gibraltar fiscal treaty to fight tax fraud and money laundering",
+              "snippet": "Spain and Britain on Monday signed a fiscal treaty on Gibraltar as Brexit nears to fight tax fraud and money laundering via the British overseas territory. Hailed as \"massively significant\" by ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:49.299500+00:00",
+              "published_date": "2019-03-05T00:00:00+00:00",
+              "source_hash": "1f37ff9017c4ec1540114e93db03d0e6"
+            },
+            {
+              "url": "",
+              "title": "Falklands and Gibraltar in Spanish List of tax havens and alleged money laundering",
+              "snippet": "According to the new concept, contemplated in the Spanish Bill to Fight Fraud, the list of tax havens including countries and territories, as well as the so called harmful fiscal regimes has 24 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Gibraltar Gibraltar tax haven controversies",
+              "retrieved_at": "2025-01-06T13:04:49.299514+00:00",
+              "published_date": "2023-02-13T00:01:00+00:00",
+              "source_hash": "bbd06bc09ded283984435b9b72633d7a"
+            },
+            {
+              "url": "",
+              "title": "Disputed status of the isthmus between Gibraltar and Spain",
+              "snippet": "Map of Gibraltar. The airport is located on the south part of the isthmus that connects the territory to Spain. The closed Spanish gate at the border between Gibraltar and Spain, 1977. The Gibraltar territory currently contains an 800-metre (2,625 ft) long section of the isthmus that links the Rock with mainland Spain. Spain does not acknowledge British sovereignty over Gibraltar beyond the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944020+00:00",
+              "published_date": null,
+              "source_hash": "a908d448ef2ff99a4a1aad44789a51c2"
+            },
+            {
+              "url": "",
+              "title": "Status of Gibraltar - Wikipedia",
+              "snippet": "Therefore, Spain has insisted that the Gibraltar dispute is a purely bilateral matter with the United Kingdom and has ignored the role and will of the Gibraltarians. The first formal proposal on how to achieve the return of Gibraltar to Spain was made on 18 May 1966 by the Spanish Minister of Foreign Affairs, Fernando Castiella.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944093+00:00",
+              "published_date": null,
+              "source_hash": "7fe2cf90a76f53a4bf59ff34909392c5"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar and Spain in dispute over sovereignty 'violation'",
+              "snippet": "Gibraltar's chief minister, Fabian Picardo, said agents from Spain's Customs Surveillance Service landed on the territory's Eastern Beach on Thursday. In an emailed statement, he called that \"a gross violation of British sovereignty and, potentially, the most serious and dangerous incident for many years.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944106+00:00",
+              "published_date": null,
+              "source_hash": "4416dfafba03ea629a4b95f5f490aa9b"
+            },
+            {
+              "url": "",
+              "title": "From the Sea to the Rock: Navigating the Gibraltar Dispute",
+              "snippet": "Photo provided by pixabay.com Gibraltar is a colony of the UK also known as the Crown Colony Gibraltar. It is also a place of contention between the UK and Spain although it goes back to a treaty with France in the 1700s. The territory has created its own constitution on different occasions but in 2006 it established wording that it was a non-colony of the UK. With this writing, Gibraltar had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944114+00:00",
+              "published_date": null,
+              "source_hash": "b130d16b967dc6be8649573621cd8c61"
+            },
+            {
+              "url": "",
+              "title": "What is the Gibraltar Dispute? - National Geographic Education Blog",
+              "snippet": "What is Spain's interest in Gibraltar? Spain does not acknowledge British sovereignty in Gibraltar. In addition to the economic and strategic benefits of the territory, Spain also points to the region's historic ties with Spain. Gibraltar was a part of the Kingdom of Castile, and later Spain, from 1492 until the Treaty of Utrecht in 1714.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944123+00:00",
+              "published_date": null,
+              "source_hash": "9355ac2e385ffc80d31452a1a2a6d299"
+            },
+            {
+              "url": "",
+              "title": "2002 Gibraltar sovereignty referendum - Wikipedia",
+              "snippet": "A poster from the campaign. Spain ceded Gibraltar to the British Crown under Article X of the Treaty of Utrecht in 1713. However, Spain disputes the status of Gibraltar and has made numerous attempts to recover the territory, initially by military force and later by economic and diplomatic means. Recovering sovereignty has been a publicly stated objective of successive Spanish governments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944132+00:00",
+              "published_date": null,
+              "source_hash": "98d24f358d7648c359057c21cc5ab6bd"
+            },
+            {
+              "url": "",
+              "title": " GIBRALTAR: SOVEREIGNTY DISPUTES AND TERRITORIAL WATERS - Durham University",
+              "snippet": "sovereignty dispute must also take cognisance of the Spanish and Moroccan territorial dispute on the southern shore of the Strait. Both states claim sovereignty over Ceuta, Melilla, Penon de Velez de la Gomera, Alhucemas and the Chafarinas Islands.4 Spain claims the five African Sovereign Territories (Plazas) on historical",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944141+00:00",
+              "published_date": null,
+              "source_hash": "97e461ede0b9f3211a6d89004b7270be"
+            },
+            {
+              "url": "",
+              "title": "What's behind the Gibraltar and Spain impasse? | EUROPP - LSE Blogs",
+              "snippet": "What is interesting is that successive Spanish foreign ministers - even conservative ones - have long been at pains to point out that Spain is not interested in discussing sovereignty - at least not at the moment - and is focusing on the very practical issues of Spanish workers' rights, Gibraltar's tax regime and Gibraltar joining ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944149+00:00",
+              "published_date": null,
+              "source_hash": "1f7de7a6261693d9a5f6f67faa615dba"
+            },
+            {
+              "url": "",
+              "title": "The Anglo-Spanish Dispute over the Waters of Gibraltar and the ...",
+              "snippet": "Spain has never officially recognised the UK's assertions of sovereignty outside the limits stated in Article 10 of the Treaty of Utrecht.47 For example, Spain has made clear that any delimitation of the Bay of Gibraltar for the purpose of countering smuggling does not constitute recognition of maritime zones under British sovereignty in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944157+00:00",
+              "published_date": null,
+              "source_hash": "cf4d63be4c82c28dbe6a14b71ecfb859"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar - The World Factbook",
+              "snippet": "Visit the Definitions and Notes page to view a description of each topic.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:51.944165+00:00",
+              "published_date": null,
+              "source_hash": "5327d58ed1c8b2e4f0c1be6d1192bbbc"
+            },
+            {
+              "url": "",
+              "title": "The 1978 'nominal' co-sovereignty secret project for Gibraltar, with UK, EEC and Spain's guarantee",
+              "snippet": "The note also includes reference to Britain remaining \"solely\" responsible for Gibraltar ... full sovereignty, or to Gibraltarians, and could lead to further disputes with Spain and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:54.334372+00:00",
+              "published_date": "2014-05-24T08:34:00+00:00",
+              "source_hash": "35054c5855fe5dcdfc4a8f2fe085fc04"
+            },
+            {
+              "url": "",
+              "title": "How Gibraltar 2002 referendum foundered plan for joint-sovereignty with Spain",
+              "snippet": "It was 2002 when Spain and UK had agreed the broad terms of joint sovereignty over Gibraltar, including inclusion in Schengen and the Customs Union. But the deal unraveled once the then Gibraltar ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:54.334435+00:00",
+              "published_date": "2013-12-05T19:45:00+00:00",
+              "source_hash": "f3a3f9c3b34b5638ea990b7fcdac3cc3"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar goads Spain with four-word warning shot as tensions threaten to erupt",
+              "snippet": "He claimed that these activities violated EU-derived environmental regulations and impinged on Spain's territorial integrity - assertions which Gibraltar's government categorically rejected.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:54.334462+00:00",
+              "published_date": "2024-12-26T08:36:00+00:00",
+              "source_hash": "ecbd68ee8199608437cfffe8e6a1ca46"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar: The story behind the UK's row with Spain",
+              "snippet": "In it, EU officials appeared to suggest Spain would have a veto on whether negotiations related to Brexit would apply to Gibraltar, reigniting a territorial dispute between Britain and Spain that ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:54.334486+00:00",
+              "published_date": "2017-04-04T00:00:00+00:00",
+              "source_hash": "e0a9a5d895998acb0190df61c6493622"
+            },
+            {
+              "url": "",
+              "title": "Governments agree joint sovereignty of Gibraltar",
+              "snippet": "Jack Straw's hopes for an end to the dispute over Gibraltar and ... was that \"Britain and Spain should share sovereignty over Gibraltar, including the disputed territory of the Isthmus\".",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Gibraltar Gibraltar sovereignty disputes with Spain",
+              "retrieved_at": "2025-01-06T13:04:54.334508+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "f9b34dc834f9b55b8e244ad2485017f5"
+            },
+            {
+              "url": "",
+              "title": "Water supply and sanitation in Gibraltar - Wikipedia",
+              "snippet": "Aerial view of Gibraltar from the south-east. Water supply and sanitation in Gibraltar have been major concerns for its inhabitants throughout its history, from medieval times to the present day. The climate of Gibraltar is a mild Mediterranean one with warm dry summers and cool wet winters. Since daily records of rainfall began in 1790, annual rainfall has averaged a mean of 838 millimetres ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928824+00:00",
+              "published_date": null,
+              "source_hash": "f8e2d8edff940c4007b07e5ef485cd3e"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "2. OVERALL WASTE ISSUES IN GIBRALTAR Gibraltar has unique circumstances in relation to waste management. These include:- a) Its small land area (6.5km2). There is a lack of space to provide disposal, recycling and recovery facilities in Gibraltar. b) High population density (30,001 people) that is further aggravated by large",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928941+00:00",
+              "published_date": null,
+              "source_hash": "e3ffd45e8f4596a16ebacd843027b726"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "prepare the draft Gibraltar River Basin Management Plan. When we consult on the draft River Basin Management Plan later this year, we will consider your comments and all of the water management issues in more detail. We will all need to work together to create a comprehensive range of successful measures to tackle all the water management issues.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928956+00:00",
+              "published_date": null,
+              "source_hash": "09fb56352e9901eb756fda8f0071dfb2"
+            },
+            {
+              "url": "",
+              "title": "Gib 'not meeting objectives' in waste-water management ... - Chronicle",
+              "snippet": "Spanish ecological group Verdemar has requested a review of Gibraltar in the EU's Emerald Network for \"not meeting the objectives\" in waste-water management. The group said the coast \"is flooded with waste water and wipes from Gibraltar\" and that the currents are moving this waste \"to the Alboran Sea, to the west of the Strait of Gibraltar or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928966+00:00",
+              "published_date": null,
+              "source_hash": "7d67422cfb7c736b6d02f5c1d01a705b"
+            },
+            {
+              "url": "",
+              "title": "Waste - Government of Gibraltar",
+              "snippet": "Waste Expressions of Interest. Gibraltar remains fully committed to adhering to EU standards on environmental matters particularly in the area of waste management. To this end, HMGoG is seeking to develop a dedicated waste management facility with the ability to sort, and treat where necessary, all of Gibraltar's waste streams.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928977+00:00",
+              "published_date": null,
+              "source_hash": "58063fe7adc19ded33350aff490293c4"
+            },
+            {
+              "url": "",
+              "title": "The stinking reality: Gibraltar's unfiltered sewage dilema.",
+              "snippet": "The amount of time required for planning was attributed to Gibraltar's unique situation due to the high salinity of its effluent water, a result of sea water being used in the toilets on the Rock*. The high salt concentration of the sewage was shown to have a negative impact on the biological matter that is typically employed to treat this ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928985+00:00",
+              "published_date": null,
+              "source_hash": "e1e1c0669068fd9f43d2e74e019003c1"
+            },
+            {
+              "url": "",
+              "title": "25 Year Environment Plan launched for Public Consultation - 829/2024",
+              "snippet": "The document sets out the Government's environmental priorities for the next 25 years under six broad environmental themes: environmental governance, healthy and sustainable cities, combatting climate change, reducing pollution and waste, developing the green economy and ensuring healthy ecosystems.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.928995+00:00",
+              "published_date": null,
+              "source_hash": "c489d67fd661bd9c9fb37034f9b7a639"
+            },
+            {
+              "url": "",
+              "title": "Gibraltar's first sewage plant to service the Rock 'for 50 years'",
+              "snippet": "ECO Waters Ltd says plans are well underway to deliver Gibraltar's first waste water treatment plant, which could service the Rock for the next 50 years. The absence of any such facility in Gibraltar has drawn both local and international criticism over many years, with raw sewage pumped out directly into the sea.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.929004+00:00",
+              "published_date": null,
+              "source_hash": "935f3767932177c1229796ed2e43887d"
+            },
+            {
+              "url": "",
+              "title": "Serious water shortage in Gibraltar due to fire and rockfall",
+              "snippet": "SERIOUS water shortage in Gibraltar due to fire and rockfall sees water bowsers on the streets and cutting off of fresh water overnight from July 29. The fire which took several days to put out started earlier in the week in Power's Drive Tunnel which is used as storage but as Acting Chief Minister Joseph Garcia told GBC News, there was no ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.929013+00:00",
+              "published_date": null,
+              "source_hash": "89d02c9030fbaaa2af5b7a1ee4673ccc"
+            },
+            {
+              "url": "",
+              "title": "Potable Water - Environmental Agency Gibraltar",
+              "snippet": "The World Health Organization (WHO) sets international standards for drinking water. A broad classification of drinking water safety worldwide can be found here. Gibraltar has a water classification of five blue water droplets which is the top classification. Only 20% of countries have achieved this classification.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Gibraltar Gibraltar waste management and water scarcity issues",
+              "retrieved_at": "2025-01-06T13:04:55.929021+00:00",
+              "published_date": null,
+              "source_hash": "65160626374cc27147f2b0ba993217a8"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Gibraltar tax haven controversies",
+              "rationale": "Investigate international scrutiny and compliance with global tax transparency standards",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Gibraltar sovereignty disputes with Spain",
+              "rationale": "Explore the impact of unresolved territorial disputes on economic and political stability",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Gibraltar waste management and water scarcity issues",
+              "rationale": "Assess environmental challenges and their implications for sustainability and tourism",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:05:13.961570",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

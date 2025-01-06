@@ -1,0 +1,485 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:00:20.875328",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Mattel Inc",
+      "symbol": "MAT",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Supply chain vulnerabilities due to geopolitical tensions and rising shipping costs",
+            "Dependence on a few core brands for revenue",
+            "Legal and financial risks from lawsuits and product quality issues",
+            "Intense competition and market shifts towards digital entertainment"
+          ],
+          "controversies": [
+            "Class-action lawsuit related to Fisher-Price products",
+            "Controversy over typo on 'Wicked' dolls packaging directing to adult content website"
+          ],
+          "environmental_issues": [
+            "Criticism for deforestation concerns and ties to a paper supplier linked to rainforest destruction",
+            "Commitment to using 100% recycled or bio-based materials by 2030 under scrutiny"
+          ],
+          "social_issues": [
+            "Allegations of forced overtime and poor working conditions in Chinese factories",
+            "Pressure from Greenpeace and other environmental groups"
+          ],
+          "governance_issues": [
+            "Execution risks in transitioning to an IP-driven, high-performing toy company",
+            "Reputational risks tied to product quality control and labor practices"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": " UNITED STATES DISTRICT COURT WESTERN DISTRICT OF NEW YORK - ClassAction.org",
+              "snippet": "6. Defendant Fisher-Price, Inc. is a Delawarecorporation with its principal place of business at 636 Girard Avenue, East Aurora, NY 14052. JURISDICTION AND VENUE . 7. This Court has subject matter jurisdiction under 28 U.S.C. \u00a7 1332(d)(2). The amount in controversy exceeds $5,000,000, exclusive of interest and costs, and the matter is a",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757695+00:00",
+              "published_date": null,
+              "source_hash": "f1ec83d888e908c20360acbbc1adf1a2"
+            },
+            {
+              "url": "",
+              "title": "Mattel, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "View the ESG Risk Rating for Mattel, Inc. See Sustainalytics' high-quality public ESG risk ratings for over 10,000 companies. ... limited to a single reference to the score on the rated subject's sustainability webpage or CSR report, mentioning Sustainalytics as a source. ... Highest Controversy level that has impacted Mattel, Inc. 's ESG ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804649+00:00",
+              "published_date": null,
+              "source_hash": "8e16c476728a2b7e90a88231cee51107"
+            },
+            {
+              "url": "",
+              "title": "Mattel cuts ties with paper firm over deforestation concern",
+              "snippet": "Greenpeace has pledged to push other companies, such as Walt Disney Co. and Hasbro Inc., to take similar action to protect rain forests. Mattel's move comes after Greenpeace tested packaging ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804660+00:00",
+              "published_date": null,
+              "source_hash": "94eaf9b7fa1953773ccccc59af866dfe"
+            },
+            {
+              "url": "",
+              "title": "The Ethical Issues of the Mattel Toy Scandal Essay - IvyPanda",
+              "snippet": "Since Mattel has been recognized as the company that realizes potential ethical issues and takes \"steps to strengthen its commitment to business ethics\" (Ferrell, Fraedrich, & Ferrell 2009, p. 356), the present paper will be devoted to the identification of possible recommendations that could have been administered by Robert Eckert during ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804668+00:00",
+              "published_date": null,
+              "source_hash": "4093d90fa7199f93a7da2d871d2afdae"
+            },
+            {
+              "url": "",
+              "title": "Allegations In Lawsuit Against Mattel Exemplify Ageism At Its Worst",
+              "snippet": "Mattel offered promotions and permanent employment positions to less-experienced, younger individuals, many of whom Grisez had trained. Grisez's lawsuit maintains that Mattel co-workers and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804676+00:00",
+              "published_date": null,
+              "source_hash": "a5d1423db92cd66b0c68fd805b7aaa16"
+            },
+            {
+              "url": "",
+              "title": "Mattel responds to sustainability concerns - Supply Chain",
+              "snippet": "You've got to love a corporate kneejerk reaction. After it was reported that worldwide leading toymaker Mattel is believed to be contributing to Indonesia deforestation, the company announced on Tuesday a sustainable sourcing commitment that will directly address the issue.. Last Tuesday, Greenpeace members scaled the side of Mattel's Los Angeles headquarters to hang an enormous banner ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804682+00:00",
+              "published_date": null,
+              "source_hash": "546c39f0a70b1a43397f2f37cf9ee503"
+            },
+            {
+              "url": "",
+              "title": "Mattel Highlights ESG Progress in Citizenship Report - KnowESG",
+              "snippet": "Mattel, Inc. has unveiled its latest Corporate Responsibility Report, offering a comprehensive update on the company's progress in implementing its Environmental, Social, and Governance (ESG) strategy and objectives.. Mattel's ESG strategy and goals are structured around three core pillars: Sustainable Design and Development, Responsible Sourcing and Production, and the Cultivation of Thriving ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804690+00:00",
+              "published_date": null,
+              "source_hash": "a910f69a5aef691aa228fa6b91e97189"
+            },
+            {
+              "url": "",
+              "title": "Mattel Inc 2021 Citizenship Report - SustainabilityReports.com",
+              "snippet": "Mattel Inc 2021 Citizenship Report. The report highlights Mattel's progress in 2021 toward its sustainability and social responsibility goals. The company made significant progress in reducing its environmental impact by achieving 97.9% recycled or FSC-certified content in the paper and wood fiber used in its products and packaging, exceeding ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804697+00:00",
+              "published_date": null,
+              "source_hash": "10dfa4db13ec35f21fcb5cfd25525fec"
+            },
+            {
+              "url": "",
+              "title": "Mattel, 2007 the year of the product recall and the rebound",
+              "snippet": "During this crisis, Mattel's stock plunged by as much as 25 percent from its year-to-date high. Mattel Turnaround. Robert A. Eckert, Chairman and CEO of Mattel Inc. had then stated that, Mattel was at the forefront of responsible corporate citizenship and the recent challenges have presented it an opportunity to again be an industry leader.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804703+00:00",
+              "published_date": null,
+              "source_hash": "3925022282187b4f8450ced8318def4b"
+            },
+            {
+              "url": "",
+              "title": "Mattel Inc. - ResponsibilityReports.com",
+              "snippet": "Mattel is a creations company that inspires the wonder of childhood. Mattel mission is to be the recognized leader in play, learning and development worldwide. Mattel's portfolio of global consumer brands includes American Girl\u00ae, Barbie\u00ae, Fisher-Price\u00ae, Hot Wheels\u00ae, Monster High\u00ae and Thomas & Friends\u2122, among many others.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:45.804710+00:00",
+              "published_date": null,
+              "source_hash": "62796179ac5c4e75eef6c0beb684c3a8"
+            },
+            {
+              "url": "",
+              "title": "Wicked's Controversies Continue as Mattel Finds Itself in Legal Issues Over NSFW Error on Merch",
+              "snippet": "Last year, Mattel gained a lot of popularity with the ... respectively but they also got their share of controversy. Aside from taking a page out of Barbie's press tour and adopting method ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:59.226732+00:00",
+              "published_date": "2024-12-13T23:44:00+00:00",
+              "source_hash": "3955543eee3633ed72251ac94b5b5d65"
+            },
+            {
+              "url": "",
+              "title": "'Distressing' Wicked design blunder gives Mattel a legal headache",
+              "snippet": "While the Wicked poster design has been the biggest controversy ... The plaintiff claims that the typo cause her and her child \"emotional distress\" and that Mattel did not offer a refund.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Mattel Inc Mattel Inc sustainability claims controversies",
+              "retrieved_at": "2025-01-06T13:59:49.440998+00:00",
+              "published_date": "2024-12-05T12:02:00+00:00",
+              "source_hash": "f8a3be059ce3c1f973c26446ae5d9e27"
+            },
+            {
+              "url": "",
+              "title": "Mattel, Inc. (MAT)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:59.226760+00:00",
+              "published_date": "2024-12-16T21:00:00+00:00",
+              "source_hash": "8add350ea39c1a754efebf537abf333b"
+            },
+            {
+              "url": "",
+              "title": "Why is Mattel being sued? Wicked doll controversy explained as South Carolina mom sues toy company for \"emotional distress\"",
+              "snippet": "Mattel is facing a lawsuit after mistakenly including the web address of an adult content site on the packaging of its special-edition \"Wicked\" dolls. The misprinted text showed a link that led to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:59.226754+00:00",
+              "published_date": "2024-12-21T13:05:00+00:00",
+              "source_hash": "9d220e55a858576c79c07af424371ac9"
+            },
+            {
+              "url": "",
+              "title": "Mattel, Inc. (MAT): PESTLE Analysis [10-2024 Updated] - dcf-fm",
+              "snippet": "Impact of geopolitical tensions on supply chains. Geopolitical tensions, particularly between the U.S. and China, have influenced Mattel's supply chain strategies. In 2024, Mattel reported increased shipping costs by 15% due to tariffs and delays, impacting overall logistics expenses, which now amount to around $200 million annually.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968746+00:00",
+              "published_date": null,
+              "source_hash": "18846ce5c1c94b844f7f5b65025049da"
+            },
+            {
+              "url": "",
+              "title": "Mattel PESTLE Analysis 2024 with Examples",
+              "snippet": "These political decisions directly impact Mattel's ability to manage costs and stay competitive in the global market. ... and labor costs in different regions affect Mattel's supply chain efficiency. Disruptions in any part of the supply chain, such as a hike in fuel prices, can increase costs and delay product availability. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968794+00:00",
+              "published_date": null,
+              "source_hash": "e55a736a1ae6bc4f39ba0839e59a2e6f"
+            },
+            {
+              "url": "",
+              "title": "Can Mattel's Actions Boost Supply Chain Profitability? - Sparkholyoke",
+              "snippet": "Global Supply Chain Disruptions: In an increasingly interconnected world, supply chains are vulnerable to disruptions caused by geopolitical tensions, natural disasters, and global crises, as witnessed during the COVID-19 pandemic. Mattel must proactively assess and mitigate these external risks to ensure a consistent supply of materials and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968801+00:00",
+              "published_date": null,
+              "source_hash": "8038b207d1229c3b3a2332276ab65fa3"
+            },
+            {
+              "url": "",
+              "title": "Building Supply-Chain Resilience for Turbulent Times",
+              "snippet": "The single greatest risk from supply chains is getting caught off guard. In 2007, Mattel, Inc., owner of such popular toy lines as Barbie, American Girl, and Fisher Price, was forced to recall millions of the toys it had outsourced to a producer in China. Despite requiring its supplier companies to undergo outside audits to make sure they operated properly and ethically, Mattel's main ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968811+00:00",
+              "published_date": null,
+              "source_hash": "a4efe9c9c62dd201fd0eb536b790c7b9"
+            },
+            {
+              "url": "",
+              "title": " Mattel Reports First Quarter 2024 Financial Results",
+              "snippet": "EL SEGUNDO, Calif., Apr. 23, 2024 - Mattel, Inc. (NASDAQ: MAT) today reported first quarter 2024 financial results. Ynon Kreiz, Chairman and CEO of Mattel, said: \"We are off to a good start to the year with significant gross margin expansion, positive Adjusted EBITDA, and very strong improvement in free cash flow.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968816+00:00",
+              "published_date": null,
+              "source_hash": "18265802cd90a91a076e396bd5bb1275"
+            },
+            {
+              "url": "",
+              "title": "Mattel is Changing - Global Marketing Professor",
+              "snippet": "Mattel, the iconic toy company behind Barbie and other beloved brands, has made headlines with its decision to shift production away from a Tier 1 Barbie supplier plant in China. This move highlights the complexities and strategic considerations involved in global sourcing, particularly amidst geopolitical tensions and supply chain disruptions. So, what's driving Mattel's decision",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968820+00:00",
+              "published_date": null,
+              "source_hash": "c0423c14b10e89b34cdb18a83b8f3464"
+            },
+            {
+              "url": "",
+              "title": " Mattel Annual Report 2023 Form 10-K (NASDAQ:MAT) Published: February ...",
+              "snippet": "disruptions, including as a result of supply chain disruption such as plant or port closures, which may impact Mattel's ability to manufacture or deliver product in a timely and cost-effective manner; (xiii) the impact of competition on revenues, margins, and other aspects of Mattel's business, including the",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968824+00:00",
+              "published_date": null,
+              "source_hash": "1a8607bc012f830cb4812ad8b1e2271d"
+            },
+            {
+              "url": "",
+              "title": "Roberto Isaias: Making Mattel's supply chain strong \"kenough\"",
+              "snippet": "Mattel Chief Supply Chain Officer\u2014and CSCMP EDGE keynote speaker\u2014Roberto Isaias discusses how changes to the toy company's supply chain planning process helped it handle ... Supply chain disruptions don't always come from negative events like a global pandemic or a natural disaster. ... The economic impact of the strike is estimated at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968828+00:00",
+              "published_date": null,
+              "source_hash": "63d6e85d9c8458c0b5ce424778c00c4b"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "Mattel's guidance and goals take into account anticipated supply chain disruption that the company is aware of today but remains subject to any unexpected supply chain disruption, market volatility, and other macro-economic risks and uncertainties, including those associated with COVID-19, which could negatively impact performance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968834+00:00",
+              "published_date": null,
+              "source_hash": "b345ce80529b16e8dda90481cf9e555d"
+            },
+            {
+              "url": "",
+              "title": " Mattel Annual Report 2020 Form 10-K (NASDAQ:MAT) Published ... - StockLight",
+              "snippet": "Legal Proceedings 24 Item 4. Mine Safety Disclosures 24 PART II ... and the corresponding supply chain and design challenges associated with such products; (xi) work disruptions, which may impact Mattel's ability to manufacture or deliver product in a timely and cost-effective manner; (xii) the bankruptcy and liquidation of Mattel's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:50.968838+00:00",
+              "published_date": null,
+              "source_hash": "941ad1cf372c9d9c77ad4d6c32fedf0e"
+            },
+            {
+              "url": "",
+              "title": "Taking a Lesson From Barbie, Mattel Builds a More Nimble Supply Chain",
+              "snippet": "When \"Weird Barbie\" became an unexpected breakout hit of the \"Barbie\" movie last year, Mattel kicked its new supply chain strategy into action. The toy maker accelerated the doll's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mattel Inc Mattel Inc supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T13:59:54.319292+00:00",
+              "published_date": "2024-10-13T12:14:00+00:00",
+              "source_hash": "b964ace3919c31e4cc40a20256b0d6ef"
+            },
+            {
+              "url": "",
+              "title": "Allegations In Lawsuit Against Mattel Exemplify Ageism At Its Worst",
+              "snippet": "The U. S. Bureau of Labor Statistics reports the average annual growth rate of 16-to 24-year-olds in the labor force is projected to decline. By 2024, the younger group will constitute 11.3% of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757480+00:00",
+              "published_date": null,
+              "source_hash": "ce543be43863ef5c1378420499276306"
+            },
+            {
+              "url": "",
+              "title": "Employee's Ideas May Not Have Been The Property Of His Former Employer",
+              "snippet": "Mattel, Inc. v. MGA Entm't, Inc., 616 F.3d 904 (2010) In 2000, during his employment with Mattel, Carter Bryant pitched his idea for the Bratz line of",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757592+00:00",
+              "published_date": null,
+              "source_hash": "cd3ed4d83990936a0ffe3e6fb45af459"
+            },
+            {
+              "url": "",
+              "title": "Workers making Mattel toys are forced to stand for 10 to 13 hours ...",
+              "snippet": "After China Labor Watch's investigation, the French nonprofit Peuples Solidaires establishe d an anti-Mattel petition protesting the labor conditions in the Chinese factories, but it had only minimal success. Mattel claimed to be taking steps to improve working conditions and address the issues raised by the nonprofit, but the accusations",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757609+00:00",
+              "published_date": null,
+              "source_hash": "45dbf716e0757cd9eb9f2d32179c1b94"
+            },
+            {
+              "url": "",
+              "title": "Mattel Faces Age Discrimination Lawsuit \u2014 Free Legal Advice ...",
+              "snippet": "A former Mattel employee sued Mattel for age discrimination. 71-year old Benny Binshtock filed the age discrimination lawsuit against Mattel in Los Angeles Superior Court listing several allegations: wrongful termination, age-based harassment, age-based discrimination, retaliation in the workplace, intentional infliction of emotional distress, defamation, fraud, and concealment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757625+00:00",
+              "published_date": null,
+              "source_hash": "6fc2f21fd668bb2288e4c17618ff3938"
+            },
+            {
+              "url": "",
+              "title": "Ninth Circuit Finds Employment Agreement Ambiguous As To Whether An ...",
+              "snippet": "In Mattel, Inc. v. MGA Entertainment, Inc., the Ninth Circuit Court of Appeals vacated the trial court's judgment awarding Mattel ownership rights to the Bratz brand of dolls.This decision was reached, in part, on a finding that the trial court erred in ruling that the employment agreement between Mattel and former employee Carter Bryant, assigned Bryant's \"ideas\" to Mattel.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757642+00:00",
+              "published_date": null,
+              "source_hash": "a7d5bfc63554aa65bacdbe61a617381e"
+            },
+            {
+              "url": "",
+              "title": "Former Mattel Employee Files Age Discrimination Lawsuit",
+              "snippet": "Binstock began working for Mattel in 1968. The lawsuit claims that a round of layoffs in March 2018 made it clear that there was a pattern of terminating employees older in age. At the same time, Binstock was called into a meeting and told there was a sexual harassment complaint against him.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757655+00:00",
+              "published_date": null,
+              "source_hash": "7b444cf4e523dd32e1975ae1faecb2be"
+            },
+            {
+              "url": "",
+              "title": " Supplier Factory Investigation - chinalaborwatch.org",
+              "snippet": "The following investigation report documents the ongoing labor violations and exploitative labor practices at two factories located in Shenzhen and Dongguan, Guangdong Province. Both of these factories are known suppliers of toys and other products to Mattel, Inc. In each case, these factories were found to be in violation of",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757666+00:00",
+              "published_date": null,
+              "source_hash": "00916b58da63b70ee07f77f6aabf5f62"
+            },
+            {
+              "url": "",
+              "title": "Executive Pay-Labor Practices Link Rejected - Los Angeles Times",
+              "snippet": "Mattel Inc. stockholders rejected a resolution that sought to link executive pay with fair labor practices at production sites. Executive Pay-Labor Practices Link Rejected - Los Angeles Times",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757676+00:00",
+              "published_date": null,
+              "source_hash": "42babfe360fe532b77a8754adbd4f724"
+            },
+            {
+              "url": "",
+              "title": "Modern Slavery Act Transparency Statement | Mattel, Inc.",
+              "snippet": "Since the UK Modern Slavery Act 2015 came into force, Mattel is committed to it and is taking actions to continue promoting ethical business practices and policies that protect workers from being abused and exploited. In addition, we became a member of the Mekong Club in 2018.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mattel Inc Mattel Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T13:59:55.757685+00:00",
+              "published_date": null,
+              "source_hash": "716e7f8915b882ffe3f19ebd355f97c5"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Mattel Inc sustainability claims controversies",
+              "rationale": "Investigate potential discrepancies between Mattel's sustainability goals and actual practices",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Mattel Inc supply chain disruptions legal impact",
+              "rationale": "Assess legal and financial risks from supply chain vulnerabilities and disruptions",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Mattel Inc labor practices controversies",
+              "rationale": "Examine allegations or reports of unethical labor practices in Mattel's supply chain",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:00:20.875337",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

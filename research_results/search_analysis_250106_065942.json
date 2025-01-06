@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:59:42.443025",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Grindr",
+      "symbol": "GRND",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Data privacy and security concerns, including sharing sensitive user data without consent",
+            "Regulatory and legal risks in anti-LGBTQ+ regions",
+            "Content moderation challenges and inadequate mental health support for moderators",
+            "Labor issues, including allegations of anti-union practices"
+          ],
+          "controversies": [
+            "Fined \u20ac6.5 million by the Norwegian Data Protection Authority for selling user data",
+            "Ongoing lawsuits and GDPR complaints related to data privacy",
+            "Reports of inadequate mental health support for content moderators",
+            "Allegations of using return-to-office policies to thwart unionization efforts"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Content moderation challenges impacting user safety and mental health",
+            "Operational risks in regions with anti-LGBTQ+ laws",
+            "Labor practices and employee relations concerns"
+          ],
+          "governance_issues": [
+            "Data privacy and security governance failures",
+            "Regulatory non-compliance risks in conservative markets",
+            "Allegations of anti-union practices and workforce management issues"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Grindr's chief privacy officer on the dating app's data controversies",
+              "snippet": "Grindr's chief privacy officer on the dating app's data controversies. Hundreds of Grindr users filed suit against the LGBTQ+ dating app late last month for allegedly sharing their HIV status with third parties without consent. The accusations are the latest in a string of privacy-related scandals for the company, including a 2022 incident in which the site's data sharing practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932991+00:00",
+              "published_date": null,
+              "source_hash": "3ca5b4c7f454984de8806916b53f3403"
+            },
+            {
+              "url": "",
+              "title": " EPIC Urges FTC to Investigate Grindr's Personal Data Practices",
+              "snippet": "access to user data. And Grindr appears to have retained and disclosed sensitive health information\u2014including users' HIV status, last tested date, and vaccination status\u2014in violation of commitments made in Grindr's privacy policies. As EPIC writes: Grindr's apparent personal data practices have caused or are likely to cause substantial",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135759+00:00",
+              "published_date": null,
+              "source_hash": "ec9dee6d215023c4df159f6a496a0405"
+            },
+            {
+              "url": "",
+              "title": "Our Steadfast Commitment to User Privacy: Addressi... - Grindr",
+              "snippet": "Further, Grindr has not experienced a breach related to such information. There has been media coverage of a class-action lawsuit recently filed against Grindr in the U.K. regarding privacy practices from 2018 - 2020, which unfortunately relies on outdated information and mischaracterizes our former data handling practices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135779+00:00",
+              "published_date": null,
+              "source_hash": "484c7b837dd2398caa933a230fda4047"
+            },
+            {
+              "url": "",
+              "title": "Grindr's record $6 million data-sharing fine upheld - Cybernews",
+              "snippet": "The data which Grindr shared between July 2018 and April 2020 included GPS location, IP address, the mobile phone's advertising ID, age, and gender. ... In 2021, NCC decided that Grindr's data privacy practices violated the General Data Protection Regulation (GDPR), a European Union privacy law. While Norway is not a member of the EU, it is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135792+00:00",
+              "published_date": null,
+              "source_hash": "0fa23130472713c2fec9d9581fe4e3b2"
+            },
+            {
+              "url": "",
+              "title": "Grindr facing UK data lawsuit for allegedly sharing users' HIV status ...",
+              "snippet": "Gay dating app Grindr is facing a mass data protection lawsuit in London from hundreds of users who allegedly had their private information, including HIV status, shared with third parties without ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135802+00:00",
+              "published_date": null,
+              "source_hash": "2c80ef7d0002331851ef0852a380a084"
+            },
+            {
+              "url": "",
+              "title": "Record fine in the Grindr case confirmed | Datatilsynet",
+              "snippet": "In the Board's view, this means that Grindr has disclosed special category personal data unlawfully. - Grindr is used to connect with other people in the LGBTQ+ community, and identifiable information about users and their use of Grindr was shared to an unknown number of third parties for marketing purposes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135813+00:00",
+              "published_date": null,
+              "source_hash": "86e8a7ebacd8d6b12561f8bb73239bbc"
+            },
+            {
+              "url": "",
+              "title": "In re Grindr, LLC - EPIC - Electronic Privacy Information Center",
+              "snippet": "Grindr's privacy policies emphasize the company's commitment to putting users in control of their personal data. Specifically, Grindr's data retention policy states: \"If you decide to delete your account, your Personal Information will no longer be made available via the Services and will generally be deleted within 28 days.\" When ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135824+00:00",
+              "published_date": null,
+              "source_hash": "3970b970b2cc7d18998524f55dd3294f"
+            },
+            {
+              "url": "",
+              "title": "Grindr secretly shared user data, angering users of the hookup app",
+              "snippet": "In the most recent lawsuit, Grindr is specifically accused of sharing sensitive data with the ad companies before April 2018, and then between May 2018 and April 2020 \u2014 all without user consent.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135833+00:00",
+              "published_date": null,
+              "source_hash": "3a0cc3aaa88da80f901d2684bf8cc2ad"
+            },
+            {
+              "url": "",
+              "title": "Privacy nonprofit calls on FTC to investigate Grindr's data practices ...",
+              "snippet": "The potential privacy violations are particularly significant because many of Grindr's LGBTQ+ users may not be out, the complaint said. The complaint outlines prior privacy violations at the company, including those revealed in a 2022 Wall Street Journal article documenting that Grindr sold location data to ad networks. The Journal reported ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135844+00:00",
+              "published_date": null,
+              "source_hash": "d5012b22dfacd407913ccd6d2c593d29"
+            },
+            {
+              "url": "",
+              "title": "Grindr: Norwegian court case could impact UK users' legal bid - Canary",
+              "snippet": "A Norwegian court on Monday 1 July upheld a $6m fine for LGBTQ+ dating app Grindr after finding it illegally shared users' sensitive data. Meanwhile, users are bringing a similar case in the UK ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:11.135853+00:00",
+              "published_date": null,
+              "source_hash": "e448342e2b95bac24599259044e967d6"
+            },
+            {
+              "url": "",
+              "title": "Grindr faces massive fine for allegedly sharing \"sensitive\" user data",
+              "snippet": "and looks forward to upholding its commitment to protecting the privacy and data security of our users.\" Grindr has faced legal action for their mishandling of users' data before. In April ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:13.586889+00:00",
+              "published_date": "2024-07-10T13:17:00+00:00",
+              "source_hash": "48a5ed191f34a311127469b00c7c7404"
+            },
+            {
+              "url": "",
+              "title": "Grindr fined \u00a35.5m for sharing data for ads",
+              "snippet": "Grindr, a location-based dating app aimed at the LGBTQ community, has been fined \u20ac6.5m (\u00a35.5m) for selling user data to advertisers. The Norwegian Data Protection Authority said that sharing ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:13.586916+00:00",
+              "published_date": "2023-12-20T10:34:00+00:00",
+              "source_hash": "e7cd3203da862ab829439092647155c9"
+            },
+            {
+              "url": "",
+              "title": "10 years of Grindr: A rocky relationship",
+              "snippet": "It was 10 years ago, on the bus on my way to work, that I first saw a man using Grindr ... told the BBC that privacy remained its \"top priority\" and all user data was stored in the United States.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:13.586933+00:00",
+              "published_date": "2019-03-25T00:00:00+00:00",
+              "source_hash": "a72fbdfd3abc8098309e936912f33e42"
+            },
+            {
+              "url": "",
+              "title": "A priest sues Grindr after he was outed, his lawsuit says",
+              "snippet": "When Monsignor Jeffrey Burrill began using queer dating app Grindr in 2017 ... It also shed light on the issues surrounding data privacy. His resignation came around the same time that the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:13.586939+00:00",
+              "published_date": "2024-07-27T21:01:00+00:00",
+              "source_hash": "0946af20832e4282560fa30b8ba6c043"
+            },
+            {
+              "url": "",
+              "title": "On Grindr, \"Trans\" Was the Second-Most Searched Profile Tag in the World This Year",
+              "snippet": "Using data gathered from Grindr's user base, along with in-app surveys, the review covers horny tidbits from what is the largest \"social networking\" app in the world for LGBTQ+ people.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr data privacy controversies",
+              "retrieved_at": "2025-01-06T13:59:13.586944+00:00",
+              "published_date": "2024-12-05T15:00:00+00:00",
+              "source_hash": "ea08d145c275e56406d228388638188a"
+            },
+            {
+              "url": "",
+              "title": "Nearly 700 users sue Grindr for allegedly sharing HIV-status without ...",
+              "snippet": "The company has said that it has taken additional measures to protect users in countries with anti-LGBTQ+ authorities. Grindr has an estimated 13 million monthly users, including 924,000 people in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932865+00:00",
+              "published_date": null,
+              "source_hash": "d50b1564a53257a2f95de2bb775575a8"
+            },
+            {
+              "url": "",
+              "title": " Grindr and Privacy Concerns of LGBTQ+ People in the United States and ...",
+              "snippet": "GDPR complaints against the LGBTQ+ social networking app, Grindr, al-leging that the company violated the regulation by engaging in the unlawful ... Grindr's privacy concerns and compliance issues in the U.S. and the EU. 5 Out of control: Complaints and follow up, Forbrukerr\u00e5det (Jan. 14, 2020), https://",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932931+00:00",
+              "published_date": null,
+              "source_hash": "abbc4dc9095c255f629658bd0cf85fea"
+            },
+            {
+              "url": "",
+              "title": "Grindr's Impact On The Lgbt+ Community - alljournals.blog",
+              "snippet": "Grindr, a popular gay hookup app, has become a central part of the LGBT+ community, shaping dating, smartphone use, and even HIV/AIDS prevention. As the app and its users evolve, researchers examine its impact on the community, considering factors like data privacy, ethics, and the potential for marginalized members' harm. Grindr serves as a testament to the evolving role of technology within ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932946+00:00",
+              "published_date": null,
+              "source_hash": "22d2552fff038d5b420fe4286c107ee3"
+            },
+            {
+              "url": "",
+              "title": "Essential Sexual Health and Safety Resources Now Available on Grindr ...",
+              "snippet": "Additionally, anti-LGBTQ+ legislation threatens the safety of our community by making it illegal for us to be who we are and love who we love. We've partnered with several organizations around the globe to provide our users with access to localized and real-time information on the issues that matter to them the most.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932956+00:00",
+              "published_date": null,
+              "source_hash": "3456b7885021f6db7640f390ade04635"
+            },
+            {
+              "url": "",
+              "title": "Anti-LGBTQ Laws Are Unacceptable - Grindr",
+              "snippet": "We at Grindr are appalled by the latest onslaught of discriminatory legislation in the US that threatens the LGBTQ community. We denounce these bills, which only seek to promote transphobia and prejudice against LGBTQ people. Grindr is a company that not only values diversity, we live it.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932966+00:00",
+              "published_date": null,
+              "source_hash": "fa52b954e93a3be4149f5bdb0938b6c3"
+            },
+            {
+              "url": "",
+              "title": "Grindr and Privacy Concerns of LGBTQ+ People in the United States and ...",
+              "snippet": "Concluding, Part III delves deeper into Grindr's privacy concerns and compliance issues in the U.S. and the EU. Discover the world's research 25+ million members",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932974+00:00",
+              "published_date": null,
+              "source_hash": "ff81b6807effb773a18bb51da5c4f24f"
+            },
+            {
+              "url": "",
+              "title": "Grindr? it's a \"Blackmailer's goldmine\"! The weaponization of queer ...",
+              "snippet": "The CFIUS-Grindr ruling is indicative of larger regulatory debates over increasing datafication trends in the dating app industry (Wilken et al., 2019) and the tech industry more broadly (Van Dijck, 2014).Through a political economy approach to communication (Wasko, 2004), this paper examines how the ruling was constructed by various stakeholders as a public controversy pertaining to Internet ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932983+00:00",
+              "published_date": null,
+              "source_hash": "d211f4d48ce1cf1d576439267b67e047"
+            },
+            {
+              "url": "",
+              "title": "LGBTQ Community May Face Privacy Breach if Grindr Isn't Sold - VICE",
+              "snippet": "The Beijing-based Beijing Kunlun Tech Co Ltd bought Grindr in two parts, between 2016 and 2018. It paid $93 million for a 60 percent stake in 2016, then $152 million to acquire the remaining ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.932999+00:00",
+              "published_date": null,
+              "source_hash": "d927b55670608cfd2b42681aaf371eb8"
+            },
+            {
+              "url": "",
+              "title": "Grindr's New Filter Sparks Outrage Among Some Users: A Step Forward or ...",
+              "snippet": "Grindr's latest update divides the community with its trans-inclusive filter. #LGBTQ #Grindr #TransRights ... As Anti-Trans Hate Flourishes on the Platform. September 3, 2024 ... Journalism from Northwestern University, Mike's articles are a blend of advocacy and journalism. He covers stories on LGBTQ+ rights, societal challenges, and triumphs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:14.933006+00:00",
+              "published_date": null,
+              "source_hash": "2fa72775328409e748e5f0ea598b1980"
+            },
+            {
+              "url": "",
+              "title": "Grindr's Expanding LGBTQ+ Market and 20% Revenue Growth Impresses Goldman Sachs",
+              "snippet": "Grindr is an online dating platform primarily focused on serving the LGBTQ+ community with 14.6 million monthly active users (as of the third quarter of 2024) globally. In this initiation ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:17.580573+00:00",
+              "published_date": "2024-12-16T15:16:00+00:00",
+              "source_hash": "fdc3d8a71efd0f83f05e57b43614a05a"
+            },
+            {
+              "url": "",
+              "title": "Grindr's SWOT analysis: lgbtq+ dating app stock poised for growth",
+              "snippet": "Grindr may face challenges ... laws regarding LGBTQ+ rights and online content, which could limit Grindr's ability to operate or expand in certain regions. Navigating these regulatory landscapes ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:17.580591+00:00",
+              "published_date": "2024-12-13T01:44:00+00:00",
+              "source_hash": "9a89b0a99ee93726893733837c9eb621"
+            },
+            {
+              "url": "",
+              "title": "Not Your Average Year-End Report: Grindr Unveils UNWRAPPED 2024",
+              "snippet": "Since 2015, Grindr for Equality has advanced human rights, health, and safety for millions of LGBTQ+ people in partnership with organizations in every region of the world. Grindr has offices in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:17.580596+00:00",
+              "published_date": "2024-12-05T10:00:00+00:00",
+              "source_hash": "d1d81620284eb78375292fe04587a3e3"
+            },
+            {
+              "url": "",
+              "title": "Grindr targeted nascent union with return-to-office ultimatum, labor board alleges",
+              "snippet": "When the LGBTQ+ ... settlement with Grindr is not reached, the case will be reviewed by an administrative law judge, who could order the company to take steps to address the issues in the complaint.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:17.580599+00:00",
+              "published_date": "2024-11-12T11:18:00+00:00",
+              "source_hash": "5bf3f30f8b73553fe9619863faf1f136"
+            },
+            {
+              "url": "",
+              "title": "Grindr reveals top sex position of 2024 \u2014 and it's not what you think",
+              "snippet": "Looking back on 2024, LGBTQ+ app Grindr analysed users' favourite sex positions - as well as cultural moments like Brat summer - and named missionary in first place. That's right ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Grindr Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "retrieved_at": "2025-01-06T13:59:17.580603+00:00",
+              "published_date": "2024-12-07T14:55:00+00:00",
+              "source_hash": "23cfc9348e4b622c1d07d315049228b0"
+            },
+            {
+              "url": "",
+              "title": "Grindr Content Moderators Are Facing a Mental Health Crisis ... - Them",
+              "snippet": "PartnerHero workers doing content moderation for Grindr in Honduras told TBIJ that there was little mental health support available for staff until 2020. That year, according to the workers, another third-party contractor was brought in to provide therapy, and PartnerHero added subsidized mental health services to its health insurance plans. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117537+00:00",
+              "published_date": null,
+              "source_hash": "7cf8f510333f0c6d34fa3d1df3007490"
+            },
+            {
+              "url": "",
+              "title": "Bumble, Grindr, and Hinge Moderators Struggle to Keep Users\u2014and ...",
+              "snippet": "At Grindr, sources say, resources for moderation have been cut. \"When companies are trying to increase their [profits] they look at operational costs,\" says Sarah, a worker who left Grindr ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117562+00:00",
+              "published_date": null,
+              "source_hash": "2e4cf1f9f2dc11491df0a6a3978696dc"
+            },
+            {
+              "url": "",
+              "title": "Behind every swipe: the workers toiling to keep dating apps safe - TBIJ",
+              "snippet": "PartnerHero began working with Grindr in 2017, and the workers it hired were initially recruited into generic customer support roles. While they were always required to perform tasks related to user safety, over time PartnerHero took on the bulk of Grindr's content moderation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117569+00:00",
+              "published_date": null,
+              "source_hash": "8fba0e6189aa1814d508f39bbd737e93"
+            },
+            {
+              "url": "",
+              "title": "Grindr Moderators Facing Mental Health Crisis - OUT FRONT",
+              "snippet": "The moderation team for Grindr, PartnerHero, outsources moderators for just such a job. The majority of reports are relatively mundane, but there is a percentage of reports that have the most despicable of content within them. When these reports go to the moderation team, it can have a massive toll on those who have to look at the reports. In ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117573+00:00",
+              "published_date": null,
+              "source_hash": "e57f4cc82004f8bf8f3121f54fe333b3"
+            },
+            {
+              "url": "",
+              "title": "Has photo moderation changed recently? : r/grindr - Reddit",
+              "snippet": "Discussing the homogeosocial app Grindr via chat screenshots, obnoxious profiles, meetup stories, advice, profile reviews, technical support, feature requests, rants ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117577+00:00",
+              "published_date": null,
+              "source_hash": "8a7a0719c172ec5a5eb7ff26b6aeb79f"
+            },
+            {
+              "url": "",
+              "title": "Grindr's inconsistent moderation: rejecting pics that were already ...",
+              "snippet": "Posted by u/dragonvalefun2 - 6 votes and 2 comments",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117581+00:00",
+              "published_date": null,
+              "source_hash": "295002c6c77f90455ac596e451b652b0"
+            },
+            {
+              "url": "",
+              "title": "Kinks vs. Crimes and Gender-Inclusive Content Moderation at Grindr",
+              "snippet": "Last year, in her role as CX escalations supervisor at Grindr, Vanity Brown co-authored a whitepaper, Best Practices for Gender-Inclusive Content Moderation. Insightful, with a straight forward approach to making content moderation just a bit better, I found that it was also a validation of good, thoughtful moderation that has been going on for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117585+00:00",
+              "published_date": null,
+              "source_hash": "69978bc198a24df2137f4b54c8f7f6da"
+            },
+            {
+              "url": "",
+              "title": "This is Grindr's moderation : r/grindr - Reddit",
+              "snippet": "123K subscribers in the grindr community. A community for discussing the GBTQ dating app Grindr. Share screenshots, solve problems, tell stories\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117590+00:00",
+              "published_date": null,
+              "source_hash": "9585b805efd1756d0a5b3e2660f2c629"
+            },
+            {
+              "url": "",
+              "title": "Best Practices for Gender-Inclusive Content Moderation | Grindr",
+              "snippet": "Grindr is the world's largest dating and social networking app for gay, bi, trans, and queer people and anyone who wants to connect with and be a part of the Grindr community. Naturally, we are focused on creating inclusive and forward-thinking moderation policies that honor the full expression of users' gender identity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117595+00:00",
+              "published_date": null,
+              "source_hash": "b4907e291895b13c9aa1f75e31e6c7d1"
+            },
+            {
+              "url": "",
+              "title": "Lack of moderators consistency - Grindr Feature Suggestions",
+              "snippet": "On numerous occasions i have a pic turned down as too racy!!! Please tell me why pics of bulges with clear outlike of hard ons partial pic of cocks and other naked arses are not classed as racy. Its clear that some moderators are not consistent on here",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:19.117599+00:00",
+              "published_date": null,
+              "source_hash": "076b6a75aa261cff74d121aae2fde678"
+            },
+            {
+              "url": "",
+              "title": "Pakistan blocks Tinder and Grindr for 'immoral content'",
+              "snippet": "Tinder, Grindr and three other dating ... into monitoring and removing inappropriate content. \"We welcome the opportunity to discuss our product and moderation efforts with the Pakistan ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:22.471622+00:00",
+              "published_date": "2020-09-02T00:00:00+00:00",
+              "source_hash": "364db132508530886d3f43e02999e111"
+            },
+            {
+              "url": "",
+              "title": "Grindr accused of using return-to-office policy to thwart unionization and push workers out",
+              "snippet": "Grindr employees were allegedly given two weeks to relocate The company laid off 83 workers for failing to comply It added the union was only formed after the policy was published The National ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:22.471643+00:00",
+              "published_date": "2024-11-05T16:04:00+00:00",
+              "source_hash": "b34f37f1e6b67158eaab8f3361d5429d"
+            },
+            {
+              "url": "",
+              "title": "Here's the Truth About Gay Dating App Grindr Crashing During the RNC: 'They Hate Themselves'",
+              "snippet": "Reports have been swirling that the gay dating app Grindr has been experiencing unprecedented crashes, especially during the convention. Is there a deeper truth behind this phenomenon, or is it ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:22.471650+00:00",
+              "published_date": "2024-07-20T13:09:00+00:00",
+              "source_hash": "e66643540367f1d9e43f7019bd53cc4e"
+            },
+            {
+              "url": "",
+              "title": "Grindr fails to remove ethnicity filter after pledge to do so",
+              "snippet": "Nearly a month after dating and hook-up app Grindr promised to remove an \"ethnicity filter\", the feature is still available and being promoted. The filter, for use by subscribers to the premium ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Grindr Grindr content moderation failures",
+              "retrieved_at": "2025-01-06T13:59:22.471654+00:00",
+              "published_date": "2020-06-26T00:00:00+00:00",
+              "source_hash": "275377b8eaad939ba0f25a94eee32266"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "Grindr data privacy controversies",
+              "rationale": "Investigate past and ongoing issues related to user data privacy and third-party sharing",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Grindr regulatory challenges in anti-LGBTQ+ regions",
+              "rationale": "Explore legal and regulatory risks in countries with restrictive laws affecting LGBTQ+ platforms",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Grindr content moderation failures",
+              "rationale": "Assess the effectiveness of Grindr's content moderation policies and incidents of harassment or hate speech",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:59:42.443035",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

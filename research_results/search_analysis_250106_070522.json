@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:05:22.653961",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Bentley Systems",
+      "symbol": "BSY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal and financial risks from software infringement litigation and shareholder investigations",
+            "Economic sensitivity due to reliance on infrastructure spending",
+            "Intense competition from major players like Autodesk, Trimble, and Dassault Syst\u00e8mes",
+            "Challenges in transitioning customers to subscription-based and cloud services",
+            "Data privacy and security concerns in cloud-based solutions"
+          ],
+          "controversies": [
+            "Software infringement litigation and potential securities law violations",
+            "Over-usage billing concerns with automatic prorated charges"
+          ],
+          "environmental_issues": [
+            "Commitment to sustainability initiatives and tools for sustainable infrastructure design"
+          ],
+          "social_issues": [
+            "Data privacy and cybersecurity concerns impacting customer trust"
+          ],
+          "governance_issues": [
+            "Shareholder investigations into potential breaches of fiduciary duty by officers and directors"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Bentley Systems software infringement overview - Vondran Legal",
+              "snippet": "Vondran Legal\u00ae: Software Infringement Defense: Bentley Systems, Inc.. Call us if your company has been sued or has received a legal demand letter. Failing to respond can lead to COSTLY and PROTRACTED litigation in the public eye (federal court). We can be reached at (877) 276-5084. Introduc...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365873+00:00",
+              "published_date": null,
+              "source_hash": "3e3547d7924a53344bef43ff05c3386b"
+            },
+            {
+              "url": "",
+              "title": "Bentley System - Kaskela Law",
+              "snippet": "Kaskela Law LLC is investigating Bentley Systems, Inc. (NASDAQ: BSY) (\"Bentley\") on behalf of the company's shareholders. Shares of Bentley's common stock are currently trading significantly below their 52-week high price of $57.19 per share. The investigation seeks to determine whether Bentley and/or the company's officers and directors violated the securities laws or breached their",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365898+00:00",
+              "published_date": null,
+              "source_hash": "2d750c3986da5ce2c598b836687fbd64"
+            },
+            {
+              "url": "",
+              "title": "Gathering Info Class Action Lawsuit Bentley Systems for Over Usage ...",
+              "snippet": "I'm working with legal to see if what Bentley Systems are doing is legal. Our main concern is that we have contract for certain number of licenses but if someone opens (intentional or accidental) the program concurrently, we are automatically charged prorate. There is no mechanism to prevent this nor no real-time info to tell us that someone has done this. Just like the cellular companies in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.236982+00:00",
+              "published_date": null,
+              "source_hash": "a096789a9887dc85338f7e39b4bcda1e"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems Inc ... v. Offshore Engineering... - CaseMine",
+              "snippet": "The parties entered into a settlement agreement concerning a dispute that had arisen between them. The Defendants agreed to procure specific software programs as part of the terms of the settlement. The Plaintiff acknowledged that the settlement effectively resolved all claims and allegations raised in the current suit.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365909+00:00",
+              "published_date": null,
+              "source_hash": "1ded9809685eca55966f4fc6929f9d2d"
+            },
+            {
+              "url": "",
+              "title": "Cybertek, Inc. v. Bentley Systems, Inc., 182 F. Supp. 2d 864 (D. Neb ...",
+              "snippet": "Bentley Systems, Inc., is a Delaware corporation that has its principal place of business in Pennsylvania. On November 20, 1998, Cybertek and Bentley entered into a written contract, designated as a \"MicroStation Value Added Reseller (MVAR) Agreement,\" which authorized Cybertek to distribute Bentley's computer products and services in various ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365913+00:00",
+              "published_date": null,
+              "source_hash": "d9148ee165f4e236182cd67d2a38eb6f"
+            },
+            {
+              "url": "",
+              "title": "INTERGRAPH CORPORATION v. BENTLEY SYSTEMS INCORPORATED (2010)",
+              "snippet": "The trial court found in favor of Intergraph on Bentley's counterclaim. The trial court also awarded Intergraph and Bentley their respective litigation costs. Because Intergraph's legal expenses exceeded Bentley's legal expenses by $409,282.72, the trial court awarded the amount of the difference to Intergraph.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365917+00:00",
+              "published_date": null,
+              "source_hash": "cc3f7e1c209a2b9a9bd2ac566485c20c"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Kaskela Law LLC Announces Investigation of Bentley ...",
+              "snippet": "PHILADELPHIA, June 12, 2024 /PRNewswire/ -- Kaskela Law LLC announces that it is investigating Bentley Systems, Inc. (NASDAQ: BSY) (\"Bentley\") on behalf of the company's shareholders.. Shares of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365920+00:00",
+              "published_date": null,
+              "source_hash": "e380e9e04179215c8a6a392eb7fc4f66"
+            },
+            {
+              "url": "",
+              "title": "Kaskela Law LLC Announces Investigation of Bentley Systems, Inc ...",
+              "snippet": "Bentley shareholders are encouraged to contact Kaskela Law LLC (D. Seamus Kaskela, Esq. or Adrienne Bell, Esq.) at (484) 229 - 0750 or (888) 715 - 1740 for additional information about this investigation and their legal rights and options, or by clicking on the following link (or if necessary, copying and pasting the link into your browser):",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365924+00:00",
+              "published_date": null,
+              "source_hash": "57496f9cbf524ce1e22c4b1f423352f2"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems, Inc. v. Intergraph Corp. :: 2005 - Justia Law",
+              "snippet": "\"This matter comes before the Court on the Complaint and First Amended Complaint filed by Intergraph Corporation against Bentley Systems, Inc., and the Counterclaim filed by Bentley Systems, Inc. and Bentley Systems Europe, B.V. (together, `Bentley') against Intergraph Corporation and twenty-six[[3]] *69 of its subsidiaries (collectively ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365927+00:00",
+              "published_date": null,
+              "source_hash": "ab980a7c30d84569ada3dc67586920a5"
+            },
+            {
+              "url": "",
+              "title": "Channel Partner Agreement | Bentley Systems | Infrastructure ...",
+              "snippet": "References to \"Bentley\" mean the following Bentley entity: Governing law is: Exclusive jurisdiction/forum for dispute resolution: USA and Canada Bentley Systems, Inc. a Delaware corporation having its registered office at 685 Stockton Drive, Exton, PA 19341-0678 Commonwealth of Pennsylvania",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:48.365930+00:00",
+              "published_date": null,
+              "source_hash": "2f0f36f1d066ee6ec0895cc31e89f7ff"
+            },
+            {
+              "url": "",
+              "title": "Bentley being sued for $2 million",
+              "snippet": "What started as a $50,000 civil assault suit for a broken nose in 2000 has escalated into a $2 million lawsuit in which ... One punch by Bentley ended the dispute. He missed the 2000 season ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T14:04:51.769380+00:00",
+              "published_date": "2022-05-21T05:08:00+00:00",
+              "source_hash": "494ed2618ae03084b75a5b5ccd725c30"
+            },
+            {
+              "url": "",
+              "title": "Trust Center Data Privacy Framework Program | Bentley Systems ...",
+              "snippet": "Nominate a project for the most prestigious awards in infrastructure! Extended deadline to enter is April 29th.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.236893+00:00",
+              "published_date": null,
+              "source_hash": "6ba7f3e726f4c343523c94e0d6835587"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "Bentley Systems is a software vendor that caters to engineers, architects, constructors, and geospatial professionals by enabling design, modeling, simulation and project, and data management of infrastructure assets. The firm delivers solutions via the cloud, desktop, and hybrid environments. ... Highest Controversy level that has impacted ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.236959+00:00",
+              "published_date": null,
+              "source_hash": "f12adec38e60ac005d58852f999e1996"
+            },
+            {
+              "url": "",
+              "title": "Trust Center - Privacy, Security and Compliance",
+              "snippet": "Bentley Trust Center Bentley is committed to keeping our users' data safe and secure, and being transparent about the way we do it. Our robust privacy and data protection, security, and compliance standards and certifications attest to that.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.236973+00:00",
+              "published_date": null,
+              "source_hash": "04c937694a907e191325d51fc2547b50"
+            },
+            {
+              "url": "",
+              "title": "Privacy Policy | Bentley Systems",
+              "snippet": "Providing, improving, and personalizing services: Deliver the services or carry out the transactions you have requested; Provide you with the Bentley websites and applications for which you have registered, as well as any other products, services, support, or information you have requested",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.236991+00:00",
+              "published_date": null,
+              "source_hash": "3ed833bbcaa3733c3f34483c8b1f8cf5"
+            },
+            {
+              "url": "",
+              "title": "GDPR Compliance Statement | Bentley Systems",
+              "snippet": "At Bentley, security and privacy is paramount. Accordingly, we impose data protection terms on each subprocessor with which we work to maintain compliance. ... Data Protection Officer Bentley Systems International Ltd. 6th Floor, 1 Cumberland St, Fenian St Dublin 2, D02 AX07",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.237002+00:00",
+              "published_date": null,
+              "source_hash": "a4aa2a551492660426ec738689e9bbe7"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems: the promise of data freedom - AEC Magazine",
+              "snippet": "Digital twin of London's skyline created by combining Bentley's iTwin and Cesium's 3D geospatial technology iTwin now allows users easy access to photorealistic Google 3D tiles, based on Cesium technology (Credit: Bentley Systems). Cesium's 3D Tile technology makes light work of huge geospatial datasets by streaming only what the user needs for any given view.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.237011+00:00",
+              "published_date": null,
+              "source_hash": "b2ca51c61c22b389acfe43abaa2d5f2a"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems Inc & Anr vs Sm Consultants Private Limited & Anr on 23 ...",
+              "snippet": "Plaintiff No.2, Bentley Systems India Private Limited, is a company registered under the Companies Act, 1956 and is a wholly owned subsidiary of Plaintiff No.1. Plaintiffs are in the business of infrastructure engineering software, which are used to design, engineer, build and operate large, constructed assets such as water distribution ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.237019+00:00",
+              "published_date": null,
+              "source_hash": "6358132294fd8ba725150049c08f9662"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems Security Rating, Vendor Risk Report, and Data ... - UpGuard",
+              "snippet": "Bentley Systems is a software development company that provides infrastructure engineering software for architecture, engineering, construction (AEC), and operations (AECO) industry. Its software solutions range from infrastructure design and analysis to construction simulation and project management, with a focus on building information ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.237027+00:00",
+              "published_date": null,
+              "source_hash": "64ffda15c2103905f71d0f82e4d8ed03"
+            },
+            {
+              "url": "",
+              "title": "INTERGRAPH CORPORATION v. BENTLEY SYSTEMS INCORPORATED (2010)",
+              "snippet": "For products like the CRP products, which are geared to professionals, maintenance agreements represent an important recurring stream of revenue for software companies like Bentley and Intergraph.\" \"B. The Partners \"Bentley Systems is a Delaware corporation; its principal place of business is in Exton, Pennsylvania.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:53.237035+00:00",
+              "published_date": null,
+              "source_hash": "10fa740debf265f3842d95be2256dca1"
+            },
+            {
+              "url": "",
+              "title": "A Closer Look at 4 Analyst Recommendations For Bentley Systems",
+              "snippet": "Navigating through these analyst evaluations alongside other financial indicators can contribute to a holistic understanding of Bentley Systems's market standing. Stay informed and make data ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:56.863106+00:00",
+              "published_date": "2024-12-09T13:01:00+00:00",
+              "source_hash": "f71be66c8d04f24869a28f5ddc20d57d"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems Commits $100 Million of Venture Funding to Accelerate Infrastructure Digital Twins",
+              "snippet": "Proprietary analytics, data services, benchmarking, and infrastructure-as-a-service commercial models, for instance, are not in Bentley Systems' direct scope, but we are glad to have a stake in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Bentley Systems Bentley Systems data privacy controversies",
+              "retrieved_at": "2025-01-06T14:04:56.863200+00:00",
+              "published_date": "2020-11-11T14:03:00+00:00",
+              "source_hash": "cc1aa249042b7a6587f92a84d08d88fe"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "for future operations of Bentley Systems, Incorporated (the \"Company\", \"we\", \"us\" and words of similar import). ... a number of risks, uncertainties and assumptions, and there are a significant number of factors that could cause actual results to differ materially from statements ... ** Oxford Economics Outlook Global Infrastructure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317199+00:00",
+              "published_date": null,
+              "source_hash": "af4ef0981893bb1b168edcd76ae89826"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "economic, regulatory and public health and safety risks and uncertainties in the countries and regions in which we operate, inc luding the potential impact of any proposed or final infrastructure bill in the United States; failure to retain personnel necessary for the operation of our busi ness or those that we acquire; changes in",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317233+00:00",
+              "published_date": null,
+              "source_hash": "28f24b39a10310c804ddffa9add7bc58"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "*Oxford Economics Outlook Global Infrastructure Spending 2016 through 2040 Footnote 6: Annualized Recurring Revenue -Refer to pages 29 -30 for KPI and non GAAP definitions We believe we are the market leader 0.2% of GDP*",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317242+00:00",
+              "published_date": null,
+              "source_hash": "1a58ab2bac202ad35f40c140c48c1be9"
+            },
+            {
+              "url": "",
+              "title": "Decoding Bentley Systems Inc (BSY): A Strategic SWOT Insight",
+              "snippet": "Bentley Systems Inc (), a leading software vendor for infrastructure professionals, has released its 10-Q filing on May 7, 2024.This SWOT analysis delves into the company's financial health and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317248+00:00",
+              "published_date": null,
+              "source_hash": "99aa275b2470111053a6647f9ce6d088"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems' SWOT analysis: infrastructure tech stock poised for ...",
+              "snippet": "Bentley Systems Inc (NASDAQ:BSY), a leading provider of software solutions for infrastructure engineering with a market capitalization of $15.17 billion, has recently garnered attention from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317253+00:00",
+              "published_date": null,
+              "source_hash": "05d91d3a28bc04ac9c347c81b29f6716"
+            },
+            {
+              "url": "",
+              "title": "Decoding Bentley Systems Inc (BSY): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Economic Fluctuations: Bentley Systems Inc (BSY, Financial) operates in a market that is sensitive to economic cycles. Infrastructure projects can be delayed or canceled in response to economic downturns, directly affecting the company's revenue. The company must navigate these economic fluctuations and maintain financial resilience to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317259+00:00",
+              "published_date": null,
+              "source_hash": "c3bffc5924242575a1570fad17003779"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "plans and objectives for future operations of Bentley Systems, Incorporated (the \"Company,\" \"we,\" \"us,\" and words of similar import). All such ... adverse changes in global economic and/or political conditions; the impact of current and future sanctions, ... *Oxford Economics Outlook Global Infrastructure Spending 2016 through 2040 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317264+00:00",
+              "published_date": null,
+              "source_hash": "be0743e651d756bd3bdd4144491ab951"
+            },
+            {
+              "url": "",
+              "title": "Decoding Bentley Systems Inc (BSY): A Strategic SWOT Insight",
+              "snippet": "Bentley Systems Inc , a leading software vendor for infrastructure engineering, has recently filed its 10-Q report on November 7, 2024. This SWOT analysis delves into the company's financials and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317270+00:00",
+              "published_date": null,
+              "source_hash": "1fd33994d123d7250ae198a3a8131a51"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems, Incorporated SWOT, PESTLE, Porters Five Forces and ...",
+              "snippet": "Figure 1: Bentley Systems, Incorporated - Head Office - Country Figure 2: Bentley Systems, Incorporated - Key Subsidiaries Figure 3: Bentley Systems, Incorporated - SWOT Analysis Figure 4: Bentley Systems, Incorporated - PESTLE Analysis Figure 5: Bentley Systems, Incorporated - Average Share Price Trend Figure 6: Bentley Systems, Incorporated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317275+00:00",
+              "published_date": null,
+              "source_hash": "502fb30c99447d671b794ed8811d8d3d"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems' SWOT analysis: infrastructure tech stock poised for ...",
+              "snippet": "Bentley Systems Inc (NASDAQ:BSY), a leading provider of software solutions for infrastructure engineering with a market capitalization of $15.17 billion, has recently garnered attention from analysts due to its strong market position and growth potential.This comprehensive analysis delves into the company's financial performance, market dynamics, and future prospects, offering insights for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:04:58.317280+00:00",
+              "published_date": null,
+              "source_hash": "458b1caff8b29f4e5eaa15e0e5577acc"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems' SWOT analysis: infrastructure tech stock poised for growth",
+              "snippet": "Bentley Systems Inc (NASDAQ:BSY), a leading provider of software solutions for infrastructure engineering ... and real-time project risk assessment. These advancements could not only solidify ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:05:01.727617+00:00",
+              "published_date": "2024-12-16T11:39:00+00:00",
+              "source_hash": "b61f94bc35df870337ce90bb5185591a"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems, Google partner to bring geospatial capabilities to infrastructure",
+              "snippet": "Bentley Systems (NASDAQ:BSY) on Wednesday announced a strategic partnership with Google (NASDAQ:GOOG) (NASDAQ:GOOGL) to integrate the latter's geospatial content with Bentley's infrastructure ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:05:01.727658+00:00",
+              "published_date": "2024-10-09T17:49:00+00:00",
+              "source_hash": "e420a1e21895d4c5cb521593fd3600b7"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems",
+              "snippet": "If you manage onshore or offshore infrastructure , Bentley solutions can help you reduce risk,lower costs , improve safety and increase performance. Our solutions address the entire asset ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:05:01.727665+00:00",
+              "published_date": "2018-03-04T00:52:00+00:00",
+              "source_hash": "2123cff71bfe20564fbd07c5f332ef15"
+            },
+            {
+              "url": "",
+              "title": "Bentley Systems Inc - Ordinary Shares - Class B",
+              "snippet": "Bentley Systems, Inc. engages in the provision of software solutions for infrastructure engineering, enabling the work of civil, structural, geotechnical, plant engineering practitioners ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Bentley Systems Bentley Systems economic sensitivity and infrastructure spending risks",
+              "retrieved_at": "2025-01-06T14:05:01.727669+00:00",
+              "published_date": "2020-09-24T11:12:00+00:00",
+              "source_hash": "ff0f336a7bb0487e961918a8ca4f088d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Bentley Systems legal disputes or lawsuits",
+              "rationale": "Identify potential legal risks or ongoing litigation that could impact the company's financial stability or reputation.",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Bentley Systems data privacy controversies",
+              "rationale": "Investigate concerns or incidents related to data privacy, cybersecurity, or compliance with global regulations, which could affect customer trust.",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Bentley Systems economic sensitivity and infrastructure spending risks",
+              "rationale": "Explore how economic downturns or reduced government budgets on infrastructure projects could impact Bentley's revenue and growth prospects.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:05:22.653971",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

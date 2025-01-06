@@ -1,0 +1,556 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:04:23.246280",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "IQVia",
+      "symbol": "IQV",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Data privacy and security concerns due to handling sensitive patient data",
+            "Economic sensitivity tied to pharmaceutical R&D spending and healthcare industry health",
+            "Legal disputes, including the ongoing IQVIA vs. Veeva lawsuit"
+          ],
+          "controversies": [
+            "2015 data leak involving a legacy AMS database",
+            "Ethical concerns regarding the use of real-world data for commercial purposes",
+            "Antitrust counterclaims by Veeva, though dismissed"
+          ],
+          "environmental_issues": [
+            "No significant environmental issues reported"
+          ],
+          "social_issues": [
+            "Debates about patient consent and data ownership in the use of real-world data",
+            "Commitment to diversity, equity, and inclusion (DEI) initiatives"
+          ],
+          "governance_issues": [
+            "Regulatory compliance risks with GDPR and HIPAA",
+            "Potential reputational risks from data breaches or regulatory missteps"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "IQVIA Veeva Lawsuit - Advocating for Responsible Data Use - IQVIA",
+              "snippet": "January 2017: Based on these and other incidents, IQVIA filed a lawsuit against Veeva for theft of IQVIA market research data from around the world and unlawful use of the data by Veeva to improve its own offerings and sales practices. March 2017: Veeva responded to IQVIA's lawsuit with baseless antitrust counterclaims. A few months later ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131237+00:00",
+              "published_date": null,
+              "source_hash": "eaa7d2a3ac9945ab84a9ac70d9495708"
+            },
+            {
+              "url": "",
+              "title": "Despite Disinformation Attempt, Antitrust Case Against IQVIA Moves ...",
+              "snippet": "To stay up-to-date on the status of Veeva's antitrust lawsuit against IQVIA, ... Isolated Data Leak in Legacy AMS Database IQVIA's arguments to the special master focused primarily on a minor data leak in 2015 that involved an insignificant number of IQVIA records being processed within the legacy database of AMS, a company Veeva acquired ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131349+00:00",
+              "published_date": null,
+              "source_hash": "2ef248af60d075c13dd0fdfacab0e7aa"
+            },
+            {
+              "url": "",
+              "title": "Ruling made in latest round of litigation over alleged data theft",
+              "snippet": "The four-year dispute between IQVIA and Veeva Systems, Inc. over physician databases took its latest turn this week. A ruling issued by a special master (appointed by a judge to oversee one or more aspects of litigation) found that \"Veeva was well-aware that it was misappropriating IQVIA data;\" and that \"spoliation of evidence\" had occurred intentionally after the litigation was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131364+00:00",
+              "published_date": null,
+              "source_hash": "3b1d8864d1d0f66c0ad632a1402dfdbe"
+            },
+            {
+              "url": "",
+              "title": "U.S. District Court Issues Favorable Decision for IQVIA Against Veeva",
+              "snippet": "\"The OpenData Data Corruption Memo indicates that Veeva was well-aware that it was misappropriating IQVIA data, something the [independent] Audit would uncover, and that the incident could lead to litigation. ... IQVIA is a global leader in protecting individual patient privacy. The company uses a wide variety of privacy-enhancing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131377+00:00",
+              "published_date": null,
+              "source_hash": "b34e2cb01770d39be31657577cb051ab"
+            },
+            {
+              "url": "",
+              "title": "IQVIA, Inc. v. Veeva Sys. - Casetext",
+              "snippet": "In contrast, Veeva argued that IQVIA I and IQVIA II should be consolidated, and that summary judgment and trial should proceed simultaneously on all issues in both cases. (See Tr. 36:8-41:22.) Given the differing views on how to proceed, the Undersigned directed the parties to submit their case management proposals for bifurcation and/or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131395+00:00",
+              "published_date": null,
+              "source_hash": "1f3c6221326f3d6b145b7382a703cca7"
+            },
+            {
+              "url": "",
+              "title": "Veeva\u00e2\u20ac\u2122s Antitrust Lawsuit Against IQVIA Advances with Widespread ...",
+              "snippet": "After three years of trying to work with IQVIA in good faith toward a resolution regarding Veeva's master data management software to no avail, Veeva filed its first antitrust lawsuit in 2017 to end IQVIA's long history of anti-competitive behavior. IQVIA's motion to dismiss that case failed and fact discovery is now substantially complete.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131414+00:00",
+              "published_date": null,
+              "source_hash": "5a8d3bc10917259ef1a375270721c8d2"
+            },
+            {
+              "url": "",
+              "title": "U.S. District Court Issues Favorable Decision for IQVIA Against Veeva",
+              "snippet": "Court ruled that Veeva intended to commit fraud; destroyed evidence; engaged in theft, and cover-up IQVIA (NYSE:IQV), a global provider of advanced analytics, technology solutions, and clinical research services to the life sciences industry, today announced that the U.S. District Court of New Jersey issued a favorable decision in its litigation with Veeva Systems, Inc. (NYSE:VEEV). The Court ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131430+00:00",
+              "published_date": null,
+              "source_hash": "d3befe85c40e47b0b20b223ae6dcb8b4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "that most of the FTC's allegations regarding IQVIA's data relate to data offerings that have little or nothing to do with digital advertising, that there are many alternatives to IQVIA's data in digital advertising, and that other DSPs and pharmaceutical companies are not reliant on IQVIA data for digital advertising.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131440+00:00",
+              "published_date": null,
+              "source_hash": "a16cd8a390284499d517f82eaf33ca42"
+            },
+            {
+              "url": "",
+              "title": "U.S. District Court Issues Favorable Decision for IQVIA ... - Nasdaq",
+              "snippet": "IQVIA, a global provider of advanced analytics, technology solutions, and clinical research services to the life sciences industry, today announced that the U.S. District Court of New Jersey ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131450+00:00",
+              "published_date": null,
+              "source_hash": "004e87003b0f02bd07f89e85cd92b192"
+            },
+            {
+              "url": "",
+              "title": "U.S. District Court Issues Favorable Decision for IQVIA Against Veeva",
+              "snippet": "IQVIA creates intelligent connections across all aspects of healthcare through its analytics, transformative technology, big data resources and extensive domain expertise.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:48.131459+00:00",
+              "published_date": null,
+              "source_hash": "54a68763833dbb9c709e3592bf5be1a0"
+            },
+            {
+              "url": "",
+              "title": "Apple to pay $95 million to settle Siri privacy lawsuit",
+              "snippet": "Apple agreed to pay $95 million in cash to settle a proposed class action lawsuit claiming that its voice-activated Siri assistant violated users' privacy.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:51.330530+00:00",
+              "published_date": "2025-01-03T03:36:00+00:00",
+              "source_hash": "0ec0759cc12b9809830b3dbc37ac5751"
+            },
+            {
+              "url": "",
+              "title": "IQVIA Launches ePromo - a new Commercial Content Management Solution",
+              "snippet": "Formed through the merger of IMS Health and Quintiles, IQVIA applies human data science \u2014 leveraging ... leader in protecting individual patient privacy. The company uses a wide variety of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:51.330927+00:00",
+              "published_date": "2018-06-05T00:00:00+00:00",
+              "source_hash": "40e9ed0b8d3927d619b1ca82df23286d"
+            },
+            {
+              "url": "",
+              "title": "IQVIA CFO Ron Bruehlman to Speak at the UBS Global Healthcare Conference on November 13, 2024",
+              "snippet": "IQVIA's portfolio of solutions are powered by IQVIA Connected Intelligence\u2122 to deliver actionable insights and services built on high-quality health data, Healthcare-grade AI\u2122, advanced ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA data privacy lawsuits",
+              "retrieved_at": "2025-01-06T13:03:51.330953+00:00",
+              "published_date": "2024-11-06T16:15:00+00:00",
+              "source_hash": "0bf2bb2d5062a1b11fb519c53f24b080"
+            },
+            {
+              "url": "",
+              "title": "Stop Papering Over Consent Problems: Address Them Head-On with ... - IQVIA",
+              "snippet": "IQVIA Patient Experience Solutions with Apple devices. ... To prove this, we analyzed 100 clinical trials that employed IQVIA Complete Consent and found that these trials had only 6% deviations as compared to consent related protocol deviations across all IQVIA trials which averaged at 14%. The result was a whopping 57% reduction in informed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772528+00:00",
+              "published_date": null,
+              "source_hash": "406cf8d67ee330f6f41652182a36dc66"
+            },
+            {
+              "url": "",
+              "title": "Stop Papering Over Consent Problems: Leverage eConsent for ... - IQVIA",
+              "snippet": "Clinical trials are an invaluable part of bringing breakthrough treatments to market. However, they are complex, often rife with unknowns and require patients to consent to a myriad of steps and actions that are essential for conducting research. Regulatory bodies around the world (including health authorities and institutional review boards) are appropriately strict about informed consent ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772551+00:00",
+              "published_date": null,
+              "source_hash": "542d4f51a75d3fc691e1d566b5f2ce25"
+            },
+            {
+              "url": "",
+              "title": "Why not Paper? Answering Five Common eConsent Questions - IQVIA",
+              "snippet": " The Insight Brief addresses issues from sponsors and their CRO partners about the transition from traditional paper-based consent to electronic informed consent (eConsent) for clinical operations. This paper explains how eConsent solutions enhance patient understanding, engagement, and satisfaction while streamlining site workflows and ensuring compliance. Reductions in protocol deviations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772557+00:00",
+              "published_date": null,
+              "source_hash": "00fd3bd8f04b31b1b5b9e82146bc4108"
+            },
+            {
+              "url": "",
+              "title": "Protocol amendments and Electronic Consent: Overcoming the Challenges ...",
+              "snippet": "Addressing protocol amendments in an eConsent solution is of critical importance to the clinical trials industry. With IQVIA Complete Consent, patients are presented only the areas of the eICF that have been amended, saving time, and eliminating confusion so the participant and physician can focus on improving comprehension to ensure participant comfort with the change.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772561+00:00",
+              "published_date": null,
+              "source_hash": "6600a6ba974fd54fd6c633de9844f895"
+            },
+            {
+              "url": "",
+              "title": "Complete Consent - IQVIA",
+              "snippet": "IQVIA Complete Consent is the user-friendly, feature-rich electronic consent solution designed to support diverse protocols at a global scale. Proven through more than 300 studies with over 400,000 participants and 10,000 sites, we offer complete flexibility to meet your trial needs while delivering more convenience for sites and a better ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772565+00:00",
+              "published_date": null,
+              "source_hash": "4cfee90156ed869eb7980d27c661a4a6"
+            },
+            {
+              "url": "",
+              "title": "Clinical trial sample and consent tracking in the Digital Age",
+              "snippet": "We are IQVIA Laboratories, a leading clinical trial laboratory services organization with end-to-end laboratory services and secure, enterprise-wide biospecimen and consent management solutions. Download Corporate Video. Our commitment to customer success is embedded in every facet of our operations. Learn more Science Innovation",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772568+00:00",
+              "published_date": null,
+              "source_hash": "6bbe32b56f8ec83ea3c9a607c0af762b"
+            },
+            {
+              "url": "",
+              "title": "Challenges in Healthcare Professional (HCP) Consent Management - IQVIA",
+              "snippet": "IQVIA Patient Experience Solutions with Apple devices. ... CRM (Customer Relationship Management) systems can be effective tools for capturing consent but in IQVIA's experience these systems fall short in offering comprehensive consent management features and direct access for healthcare professionals (HCPs), which is a key requirement when ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772572+00:00",
+              "published_date": null,
+              "source_hash": "8e1f46e4cffcaa4948c3adcccdbaf939"
+            },
+            {
+              "url": "",
+              "title": "Five Frequently Asked Questions (and Answers) about eConsent during the ...",
+              "snippet": "For the clinical research industry, COVID-19 poses immediate and longer-term challenges. For ongoing studies, sponsors and sites are looking for ways to modify protocols and keep patients engaged, especially as face-to-face interactions are being limited and access to facilities is discouraged. For the numerous COVID-19 trials that have been or will be started up on an urgent basis ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772575+00:00",
+              "published_date": null,
+              "source_hash": "d1d700ee451619dccfeed3efab6e2456"
+            },
+            {
+              "url": "",
+              "title": "Despite Disinformation Attempt, Antitrust Case Against IQVIA Moves ...",
+              "snippet": "IQVIA monopoly abuse harms life sciences companies and patients. PLEASANTON, CA \u2014 May 11, 2021 \u2014 Consistent with its history of deceptive and unethical behavior, IQVIA (NYSE: IQV) yesterday issued a press release that mischaracterizes the nature of a recent procedural e-discovery ruling in Veeva Systems (NYSE: VEEV) antitrust case against ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772578+00:00",
+              "published_date": null,
+              "source_hash": "2f73e43f177878046617fa0276559b05"
+            },
+            {
+              "url": "",
+              "title": "Consent - IQVIA",
+              "snippet": "Obtaining, storing, and documenting consent for email and disclosure usage can introduce numerous operational challenges. IQVIA Consent is a comprehensive turnkey SaaS solution that aligns internal business and operational processes to easily comply with the growing number of data privacy laws around the globe, including GDPR and CCPA.. Using a single online platform, internal and external ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:53.772589+00:00",
+              "published_date": null,
+              "source_hash": "a312a15f3256b7b3682e7e4ffef28e0c"
+            },
+            {
+              "url": "",
+              "title": "Digital Health Tools are Expanding in Scope and Function to Aid Patient Diagnosis, Treatment and Monitoring, Says New Report from The IQVIA Institute",
+              "snippet": "These findings are based on a new report from the IQVIA Institute for Human Data Science: Digital Health Trends 2024: Implications for Research and Patient Care. There are currently 337,000 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:57.392676+00:00",
+              "published_date": "2024-12-23T08:00:00+00:00",
+              "source_hash": "2831eef510282f75525fbaca819bba7d"
+            },
+            {
+              "url": "",
+              "title": "IQVIA CFO Ron Bruehlman to Speak at the UBS Global Healthcare Conference on November 13, 2024",
+              "snippet": "IQVIA is a global leader in protecting individual patient privacy. The company uses a wide variety of privacy-enhancing technologies and safeguards to protect individual privacy while generating ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IQVia IQVIA patient consent controversies",
+              "retrieved_at": "2025-01-06T13:03:57.392720+00:00",
+              "published_date": "2024-11-06T16:15:00+00:00",
+              "source_hash": "5e980ffb2b392496c06a4a224befcde7"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Affairs and Strategies in Clinical Trials - IQVIA",
+              "snippet": "IQVIA Decentralized Trials deliver purpose-built clinical services and technologies that engage the right patients wherever they are. Our hybrid and fully virtual solutions have been used more than any others. ... IQVIA's Regulatory Affairs and Drug Development Solutions integrates technology, analytics, and insights built from years of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761632+00:00",
+              "published_date": null,
+              "source_hash": "7f91c2b632e46f81f6bcc64615827eec"
+            },
+            {
+              "url": "",
+              "title": "Rethinking Clinical Trial Country Prioritization - IQVIA",
+              "snippet": " The biopharma clinical research ecosystem has been undergoing a significant evolution in the last five years as technological, environmental, societal, regulatory, and geopolitical shifts have re-shaped the clinical trial pipeline of activity and operations. Together these changes have converged to enable the emergence of new global players and in places, these shifts have contributed to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761706+00:00",
+              "published_date": null,
+              "source_hash": "398ce6c0d72b1dea7028f404c0e93868"
+            },
+            {
+              "url": "",
+              "title": "2025 Safety and Regulatory Compliance Trends and Predictions for Pharma ...",
+              "snippet": "Discover the future of drug safety and regulatory compliance with IQVIA's \"2025 Safety and Regulatory Compliance Trends and Predictions for Pharma and Biotech\" white paper. This comprehensive report explores the integration of AI in pharmacovigilance, medical information, and regulatory intelligence, highlighting how these advancements will streamline operations, reduce costs, and enhance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761721+00:00",
+              "published_date": null,
+              "source_hash": "765d6a54e4fa2a380592c4597eb0d31d"
+            },
+            {
+              "url": "",
+              "title": "Life Sciences Regulatory Compliance Solutions - IQVIA",
+              "snippet": "IQVIA Decentralized Trials deliver purpose-built clinical services and technologies that engage the right patients wherever they are. Our hybrid and fully virtual solutions have been used more than any others. ... IQVIA Regulatory Intelligence provides instant access to regulatory insights and real-time updates from national authorities across ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761733+00:00",
+              "published_date": null,
+              "source_hash": "cd34e6748f2d4e5c8e28297a43c23391"
+            },
+            {
+              "url": "",
+              "title": "Clinical Trial Solutions - IQVIA",
+              "snippet": "Find out how IQVIA can reach your clinical development milestones faster with precision, expertise, and speed powered by data analytics ... Generate and disseminate evidence that answers crucial clinical, regulatory and commercial questions, enabling you to drive smarter decisions and meet your stakeholder needs with confidence. ... Improve the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761743+00:00",
+              "published_date": null,
+              "source_hash": "04cb3b1adf41f92b5ff7b894b523c9ce"
+            },
+            {
+              "url": "",
+              "title": " Beyond the Benchmark: How Innovative Trial Designs are Transforming ...",
+              "snippet": "initiatives that help aid trial activities. While clinical trial activity has decreased, partly due to reduced COVID-19 trials, biotech sponsors remain pivotal in drug development, driving research in Phases I and II. IQVIA Biotech is a biotech-specialized CRO delivering flexible clinical development solutions for biotech and emerging",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761754+00:00",
+              "published_date": null,
+              "source_hash": "52706afc8e2ed58ae0e2c08859af944e"
+            },
+            {
+              "url": "",
+              "title": " Assessing the clinical trial ecosystem in Europe - efpia.eu",
+              "snippet": "Assessing the clinical trial ecosystem in Europe October 2024. IQVIA Template (V3.0.0) 1 + Executive summary ... \u2022 The loss of share to China could be linked to a more favorable regulatory and funding environment for Phase 1 and Cell and Gene Therapy trials, where Europe has ... IQVIA Template (V3.0.0) 8 The clinical trial ecosystem has been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761764+00:00",
+              "published_date": null,
+              "source_hash": "e3e358934df67e366d41cfd546bc6ea3"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Affairs and Strategies in Clinical Trials - IQVIA",
+              "snippet": "Stay ahead of regulatory changes with IQVIA strategic services, operation models, local expertise and real-time information. Regions. Americas. Asia & Oceania. Europe. Middle East & Africa. Americas. ... Developing IQVIA's positions on key trends in the pharma and life sciences industries, with a focus on EMEA. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761778+00:00",
+              "published_date": null,
+              "source_hash": "cd109b1397b9d4e3b3beca244f73e99b"
+            },
+            {
+              "url": "",
+              "title": "Beyond the Benchmark: How Innovative Trial Designs are ... - IQVIA Biotech",
+              "snippet": "Authored by experts from IQVIA Biotech, IQVIA and the IQVIA Institute for Human Data Science, this brief discusses the dynamic changes in the biotech market, including uncertainties in funding & investments and the complexities of the regulatory environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761788+00:00",
+              "published_date": null,
+              "source_hash": "c7f5fcbd376676f2b0d9d85cf4500989"
+            },
+            {
+              "url": "",
+              "title": "Using Real World Evidence in Clinical Development to Enhance Regulatory ...",
+              "snippet": "The use of real world evidence (RWE) to enhance clinical trials and regulatory submissions is gaining more acceptance around the world. Regulatory bodies are encouraging the incorporation of evidence beyond that from randomized control trials (RCT). Following a long history of applying RWE in evaluating safety, it is now recognized that RWE can be leveraged to assess effectiveness and can ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:03:58.761798+00:00",
+              "published_date": null,
+              "source_hash": "48845046a37341e60b754f0809740593"
+            },
+            {
+              "url": "",
+              "title": "Upholding regulatory compliance in decentralised trials",
+              "snippet": "Eric Klaver, decentralised clinical trials regulatory director, IQVIA, brings nearly three decades of clinical research experience to the company, in roles varying from data management to post ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:04:01.274753+00:00",
+              "published_date": "2024-12-28T23:59:00+00:00",
+              "source_hash": "89fec8cb5d48a9483ca75d2fd76dd538"
+            },
+            {
+              "url": "",
+              "title": "Revolutionizing the clinical trial patient experience with IQVIA",
+              "snippet": "IQVIA's new technologies are changing clinical trials, reducing the administrative burden on staff and improving insights for sponsors. Greg Lever, Director within the IQVIA Applied Data Science ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:04:01.274818+00:00",
+              "published_date": "2023-10-14T22:48:00+00:00",
+              "source_hash": "1908283c9dd33506ce9a6f1e0aef0691"
+            },
+            {
+              "url": "",
+              "title": "Is IQVIA Holdings Stock Underperforming the Nasdaq?",
+              "snippet": "Durham, North Carolina-based IQVIA Holdings Inc. (IQV) provides healthcare research services. Valued at $36.1 billion by market cap, the company offers analytics, technology solutions, and clinical research services to the life sciences industry which helps them in the clinical development and commercialization of medical treatments that improve",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:04:01.274831+00:00",
+              "published_date": "2024-12-17T13:19:13+00:00",
+              "source_hash": "4f6019af6e5b432223116af244211df6"
+            },
+            {
+              "url": "",
+              "title": "Bringing the Benefits of eCOA BYOD Strategies to Clinical Studies",
+              "snippet": "Over the past few years, many clinical study ... as well as lower trial costs that support investment in innovation. About the author J.C. Wilson is product manager at IQVIA eCOA, where he leads ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:04:01.274843+00:00",
+              "published_date": "2023-04-13T22:08:00+00:00",
+              "source_hash": "7cd39b8048e5d5e8200f4243150e335a"
+            },
+            {
+              "url": "",
+              "title": "Changing Customer Needs",
+              "snippet": "How Virtual Clinical Trials Are Speeding The Path To Another Vaccine For decades, IQVIA has been helping pharmaceutical giants perform clinical trials to test new treatments. The company combines ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IQVia IQVIA regulatory scrutiny clinical trials",
+              "retrieved_at": "2025-01-06T13:04:01.274852+00:00",
+              "published_date": "2021-02-15T20:17:00+00:00",
+              "source_hash": "82a99a1b4184de77680078de05d977f8"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "IQVIA data privacy lawsuits",
+              "rationale": "Investigate legal challenges related to data privacy and compliance with GDPR and HIPAA",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "IQVIA patient consent controversies",
+              "rationale": "Explore ethical concerns regarding the use of real-world data and patient consent practices",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "IQVIA regulatory scrutiny clinical trials",
+              "rationale": "Examine regulatory challenges and scrutiny faced by IQVIA in clinical trial transparency and data usage",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:04:23.246289",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

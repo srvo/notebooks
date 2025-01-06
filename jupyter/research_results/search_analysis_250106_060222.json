@@ -1,0 +1,579 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:02:22.994775",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Vodafone Group Plc",
+      "symbol": "VOD",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "High debt levels and financial leverage",
+            "Regulatory and legal challenges, particularly in India and the UK",
+            "Intense competitive pressures in the telecommunications market",
+            "Customer dissatisfaction and potential churn due to network quality and service issues"
+          ],
+          "controversies": [
+            "$2 billion tax dispute with the Indian government",
+            "Potential customer bill increases following the merger with Three UK",
+            "Criticism over executive compensation and past tax disputes"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Concerns over higher customer bills post-merger",
+            "Customer dissatisfaction with network quality and service"
+          ],
+          "governance_issues": [
+            "Regulatory hurdles and legal disputes impacting governance",
+            "Executive compensation concerns"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Dispute over the 2007 acquisition - Vodafone",
+              "snippet": "The Indian tax authorities' actions led to a protracted legal dispute, culminating in a hearing before the Indian Supreme Court, which concluded unambiguously and unanimously, in January 2012, that no tax was due. ... Vodafone Group Plc commenced a separate claim under the UK Bilateral Investment Treaty (UK BIT) with India in January 2017 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745001+00:00",
+              "published_date": null,
+              "source_hash": "3b45e8ea8c955def8b296fd58af44543"
+            },
+            {
+              "url": "",
+              "title": " Vodafone Group Plc Tax Strategy",
+              "snippet": "In accordance with Para 16(2) Schedule 19 Finance Act 2016 this represents the Group's tax strategy in effect for the year ended 31 March 2019 Page 1 of 15 Global Policy Standard on Tax Risk Management VODAFONE GROUP PLC TAX STRATEGY In accordance with Para 16(2) Schedule 19 Finance Act 2016 this represents the Group's tax strategy in",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745058+00:00",
+              "published_date": null,
+              "source_hash": "ce6e419cda469cfe56ce1816a6b6cca4"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Vs IT Department Tax Dispute-Timelines",
+              "snippet": "September 25, 2020 - The Court of Arbitration ruled in favour of Vodafone Group Plc stating that the tax liability on Vodafone is a breach of the investment treaty signed between India and the Netherlands. It described the act of India's Income-Tax Department as a breach of 'fair and equitable' treatment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745067+00:00",
+              "published_date": null,
+              "source_hash": "59b736bda55b74c1151387f889b3db6e"
+            },
+            {
+              "url": "",
+              "title": "Vodafone's tax principles and strategy",
+              "snippet": "Vodafone operates within a clearly defined governance framework on tax that is designed to provide certainty for all stakeholders with an interest in our tax affairs. We have a long-established Tax Strategy that is underpinned by our Tax Principles and supported by our Tax Risk Management Policy (first published in 2009) and includes our Tax ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745073+00:00",
+              "published_date": null,
+              "source_hash": "18bc450841aab5599303bad0b73543e9"
+            },
+            {
+              "url": "",
+              "title": "The Vodafone-India Capital Gains Tax Controversy: The Past and the ...",
+              "snippet": "On September 25 the Permanent Court of Arbitration (PCA) at The Hague unanimously ruled in favor of Vodafone Group PLC in a $5.5 billion capital gains tax dispute with the government of India (No. 2016-35). The international arbitral award is confidential, so it is unclear how and why the PCA reached the conclusions it did.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745078+00:00",
+              "published_date": null,
+              "source_hash": "0debe4e88a2431b660c1a669f4c51168"
+            },
+            {
+              "url": "",
+              "title": "Vodafone wins controversial $2B in retroactive tax case ... - JURIST",
+              "snippet": "Vodafone Group Plc VOD.L has reportedly won a controversial $2 billion tax case against the Indian government after the Permanent Court of Arbitration at The Hague held Friday that India breached its Bilateral Investment Treaty with The Netherlands by imposing tax liability on Vodafone. India is believed to have claimed as much as 279 billion rupees from Vodafone ($3.79 billion), including $2 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745083+00:00",
+              "published_date": null,
+              "source_hash": "f89b647d76d2d8c7be77dadff2a66483"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Case on Retrospective Tax - E-Justice India",
+              "snippet": "The British telecom giant Vodafone Group plc, won a decade long-battle against the Indian Government over demand for Rs 22,100 crore in taxes using retrospective legislation. The arbitration case was against India's tax demand stemming from a retrospective change in the nation's tax law. In 2014, Vodafone International Holdings BV had initiated the proceedings, claiming that the tax ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745089+00:00",
+              "published_date": null,
+              "source_hash": "62f0d16bc4b11143892bffc3e43a4b74"
+            },
+            {
+              "url": "",
+              "title": "India to settle long-run tax dispute with Vodafone, Cairn: Report",
+              "snippet": "India is in talks with Vodafone Group Plc and Cairn Energy Plc to settle long-running tax disputes with them, a top government official told Bloomberg. It comes after Finance Minister Nirmala Sitharaman last week tabled a bill in the Lok Sabha to nullify the tax claims raised based on retrospective use of an anti-evasion tax law amendment introduced in 2012.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745095+00:00",
+              "published_date": null,
+              "source_hash": "d758701e6bc28f64ec2ac20568005335"
+            },
+            {
+              "url": "",
+              "title": "Vodafone tax dispute outcome under review for its implications ... - Mint",
+              "snippet": "For Modi administration, reducing tax litigation is a policy priority but the dispute with Vodafone Group Plc is on a different league Gireesh Chandra Prasad Updated 13 Oct 2020, 09:55 PM IST",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745101+00:00",
+              "published_date": null,
+              "source_hash": "af17bd71acd85a9e550c11a8a4a8887e"
+            },
+            {
+              "url": "",
+              "title": "Vodafone wins international arbitration against India in $2 billion tax ...",
+              "snippet": "Vodafone Group Plc  said on Friday it had won an international arbitration case against the Indian government, ending one of the most high-profile disputes in the country involving a $2 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:50.745107+00:00",
+              "published_date": null,
+              "source_hash": "d8ab325ac2c58b579dc6f782fd0cc7f4"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group PLC",
+              "snippet": "Mobile services startup Gigs raises $73 mln in rare non-AI-centered funding December 12, 2024 A group of current and former Vodafone franchisees in the UK filed a legal claim against the company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:53.306904+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "087f673a21cda4bff54d5f1d7d2d2444"
+            },
+            {
+              "url": "",
+              "title": "Vodafone wins $2 billion tax dispute case against the Indian government",
+              "snippet": "Vodafone Group Plc has won the $2 billion tax dispute case against the Indian government. The international tribunal has ruled that the Indian government's decision to impose tax retrospectively ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:53.307012+00:00",
+              "published_date": "2020-09-25T09:14:00+00:00",
+              "source_hash": "268e2de89bfc6fc8549855e7be7503f8"
+            },
+            {
+              "url": "",
+              "title": "Vodafone and Three offer legal protections to allow $20.1 billion merger",
+              "snippet": "Vodafone Group Plc and Three, a subsidiary of Hong Kong-based CK Hutchison Holdings Ltd, are offering legal remedies in order to obtain permission from the British Competition and Markets Authority (UK's Competition Markets Authority, CMA) for a deal worth ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:53.307040+00:00",
+              "published_date": "2024-11-20T04:12:00+00:00",
+              "source_hash": "8333185bd163a65981c1257840eb7a12"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group Plc",
+              "snippet": "its chief executive has said Vodafone says paid no UK corporation tax in two years Vodafone Group Plc said it had paid no corporation tax in Britain in two years. It sparked a debate on corporate ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:53.307066+00:00",
+              "published_date": "2013-01-28T17:02:00+00:00",
+              "source_hash": "53389dae1ff44954356c82c0d812b2f1"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Plc",
+              "snippet": "Vodafone Group Plc had announced plans to ... cases of merger beyond 35 percent. Vodafone Plc is actively looking at solving the tax dispute the Government of India through an amicable resolution.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc tax disputes and legal challenges",
+              "retrieved_at": "2025-01-06T13:01:53.307086+00:00",
+              "published_date": "2018-03-02T11:10:00+00:00",
+              "source_hash": "88b9083c7489ddfadb2d4a49c922faf0"
+            },
+            {
+              "url": "",
+              "title": "Complaints | Vodafone UK",
+              "snippet": "Vodafone complaints. What can we help you with? ... this page. Before you get in touch, check out our support pages. They'll help you fix your issue quickly and easily. Network. Problems with your signal for calls, texts or using the internet. ... Make sure you include the issue, what you want us to do, and your contact details. Send your ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.012980+00:00",
+              "published_date": null,
+              "source_hash": "65fc6cea8304559ddf741e754c56444a"
+            },
+            {
+              "url": "",
+              "title": "Contact us - Vodafone Group media relations",
+              "snippet": "If you have a customer service question, please select your local Vodafone website from the list below. ... Our media relations teams are unable to process questions on customer issues as they do not have access to customer service systems. ... Vodafone Group Plc. Registered Office: Vodafone House. The Connection, Newbury, Berkshire RG14 2FN ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013088+00:00",
+              "published_date": null,
+              "source_hash": "360ccd43a0ba51a1b1182ff80db73bf2"
+            },
+            {
+              "url": "",
+              "title": "Complaints Code of Practice | Vodafone UK",
+              "snippet": "It aims to impartially settle complaints about communication and internet services that cannot be resolved between a customer and a service provider. Read through their guidelines to make sure your complaint is eligible. Contact CISAS online. Phone: 020 7520 3814 (standard call charges apply) Email: cisas@cedr.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013104+00:00",
+              "published_date": null,
+              "source_hash": "741a48499eb5e821e967db03eea27f03"
+            },
+            {
+              "url": "",
+              "title": "How to contact and complain to Vodafone UK customer care",
+              "snippet": "Some customer issues are easy to sort out for yourself, but if you need get help from Vodafone, here's how. ... What are the Vodafone UK customer service opening hours? On Monday-Friday, the phone lines are open 08.00-22.00. On weekends, the phone lines are open 08.00-20.00. ... Go to the dedicated Vodafone complaints webpage and follow the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013114+00:00",
+              "published_date": null,
+              "source_hash": "b85473fb658c04d6a0a205be754af8ac"
+            },
+            {
+              "url": "",
+              "title": "CMA provisionally finds Vodafone / Three could address competition ...",
+              "snippet": "Vodafone UK (which is owned by Vodafone Group Plc) and Three UK (which is owned by CK Hutchison Holdings Limited) are two major providers of mobile telecommunication services in the UK.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013123+00:00",
+              "published_date": null,
+              "source_hash": "70ef7935d796de6eb1ffa8cc60e9bbee"
+            },
+            {
+              "url": "",
+              "title": "Vodafone: how to contact customer services to make a complaint",
+              "snippet": "You can also complain using the online complaints form here or by writing to Customer Relations Manager, Vodafone Limited, The Connection, Newbury, Berkshire, RG14 2FN. Vodafone says it will aim ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013133+00:00",
+              "published_date": null,
+              "source_hash": "f54e586be571bb682cbf81ac308c8e8d"
+            },
+            {
+              "url": "",
+              "title": "Vodafone hit with mass outage as thousands report broadband issues",
+              "snippet": "More than 3500 users have reported issues with the Vodafone network this morning, with many taking to social media to express their frustration. Vodafone's service checker on its website is showing no issues, despite many complaints from customers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013141+00:00",
+              "published_date": null,
+              "source_hash": "04df36ddbc5e6f7da702ba1ad3776704"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Customer Service Contacts - Elliott Report",
+              "snippet": "This guide on how to solve a customer service problem will help you resolve most problems with the company. You can also refer to the executive contacts below or contact our advocacy team directly. Note: If you're having customer service trouble, please use our proven methods for fixing any consumer problem before contacting a manager.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013150+00:00",
+              "published_date": null,
+              "source_hash": "1246053842329198cdabc776c1d7dc8e"
+            },
+            {
+              "url": "",
+              "title": "Vodafone hit with mass outage as thousands report broadband issues",
+              "snippet": "THOUSANDS of Vodafone customers have reported issues with their home broadband today. According to DownDetector, over 1,400 users reported problems this morning, as the network faced internet and s\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013158+00:00",
+              "published_date": null,
+              "source_hash": "3137aef2ed6eb6142af49940d995114f"
+            },
+            {
+              "url": "",
+              "title": "Vodafone (UK) Complaints - Complaints Department",
+              "snippet": "Vodafone Group plc is a British multinational telecommunications company headquartered in London and with its registered office in Newbury, Berkshire. It is the world's second-largest mobile telecommunications company measured by both subscribers and 2011 revenues, and had 439 million subscribers as of December 2011.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:55.013171+00:00",
+              "published_date": null,
+              "source_hash": "3dccdf0514f1d03c04b899a1827cf060"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group PLC",
+              "snippet": "Mobile services startup ... concerns about higher customer bills. Britain approves $19 billion Vodafone-Three mobile merger December 5, 2024 Vodafone Group will sell its remaining 3% stake in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:58.327260+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "10bed40c4085c7073f0546a7f09a50f9"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group Plc",
+              "snippet": "Telecom firms Bharti Airtel, Vodafone Group Plc's local ... to switch network operators but keep their numbers, a move that will increase competition and quality of service, an industry regulator ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc customer service complaints and network quality issues",
+              "retrieved_at": "2025-01-06T13:01:58.327375+00:00",
+              "published_date": "2013-01-28T17:02:00+00:00",
+              "source_hash": "b920aad8d7dd7e6701d8e6872a5a69a8"
+            },
+            {
+              "url": "",
+              "title": "Debt Investors: Bond programmes & more | Vodafone IR",
+              "snippet": "As part of its commitment to sustainability, Vodafone Group Plc has designed a Sustainable and Sustainability-linked Framework (the 'Framework') under which Vodafone can issue green, social, sustainability and sustainability-linked funding instruments to finance or refinance projects enabling the company to meet its environmental and/or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033167+00:00",
+              "published_date": null,
+              "source_hash": "e94b9ef0e74ac16d86362d6aa780aa68"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group Plc Credit Ratings :: Fitch Ratings",
+              "snippet": "Infra Sale Proceeds May Lower EMEA Leveraged Telecoms' Financial Risk. Non-Rating Action Commentary / Wed 30 Nov, 2022. ... European Media - Stability a Relative Value in Diverse Sector. 05 Securities and Obligations. Filter. International. National / Local ... Vodafone Group Plc Debt Level: senior unsecured Issue: USD 5.6 mln 7.875% Notes 15 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033299+00:00",
+              "published_date": null,
+              "source_hash": "c06470ae3f07b394c2a93f78fbe5d16e"
+            },
+            {
+              "url": "",
+              "title": "Vodafone 2024 Annual Report",
+              "snippet": "Vodafone Group Plc Annual Report 2024 Welcome to our 2024 Annual Report We continue to use a simplified ... FY24 update: Margherita Della Valle, Chief Executive, Luka Mucic, Chief Financial Officer. Vodafone Business. Digital services & experiences. Vodafone Technology. ... Long dated and low cost debt 2.25-2.75x target leverage range.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033315+00:00",
+              "published_date": null,
+              "source_hash": "53a3c0bb1a59ab949654eb66fcb1dd8a"
+            },
+            {
+              "url": "",
+              "title": "Financial results and presentations - Vodafone",
+              "snippet": "Vodafone Business achieved a 5% growth rate in the quarter, driven by strong performance in digital services and the IoT sector. In Africa, financial services in Egypt saw a significant customer increase of over 55% to 7.5 million, supported by Vodacom's capabilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033327+00:00",
+              "published_date": null,
+              "source_hash": "6639cf680bc774105e3538e647cc1035"
+            },
+            {
+              "url": "",
+              "title": "Bonds outstanding (EU and US) | Vodafone IR",
+              "snippet": "Debt issuance programme. We have three bond programmes to meet our medium to long-term funding requirements; two \u20ac30 billion euro medium-term note (EMTN) programmes and a US shelf programme. European shelf programme. Bonds are issued by Vodafone Group PLC and Vodafone International Financing DAC.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033338+00:00",
+              "published_date": null,
+              "source_hash": "115b76a64d11772486f556d12db0eb89"
+            },
+            {
+              "url": "",
+              "title": "FY25 H1 Results Presentation - reports.investors.vodafone.com",
+              "snippet": "2. In 2024, Vodafone Group Plc received an ESG rating of A (on a scale of AAA-CCC) in MSCI ESG Ratings assessment. 3. In 2023, Vodafone Group Plc received an ESG Risk Rating of 16.2 and was assessed by Sustainalytics to be at low risk of experiencing material financial impacts from ESG factors. H1 FY25 results \u2af6 November 2024. 29",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033355+00:00",
+              "published_date": null,
+              "source_hash": "b1f9f6d7c402c7733fe1fa4332909abf"
+            },
+            {
+              "url": "",
+              "title": "Vodafone 2024 Annual Report - Page 199",
+              "snippet": "197 Vodafone Group Plc Annual Report 2024 197. Strategic report. Governance. Financials. Other information. Vodafone Group Plc Annual Report 2024. Market risk Interest rate management Under the Group's interest rate management policy, interest rates on long-term monetary assets and liabilities are principally maintained on a fixed rate basis.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033366+00:00",
+              "published_date": null,
+              "source_hash": "f4140ebb0c8885aee233300e551e97b4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The Group made a profit for the financial year of \u20ac2.6 billion (FY21: \u20ac0.5 billion). The profit increase was primarily ... Net debt at 31 March 2022 was \u20ac41.6 billion, compared to \u20ac40.5 billion as at 31 March 2021. Net debt increased by ... Vodafone Group Plc \u2af6 FY22 Preliminary results",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033376+00:00",
+              "published_date": null,
+              "source_hash": "cec2ef2862977f9a42156250c92e7e22"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group Plc - Fitch Ratings",
+              "snippet": "Vodafone Group Plc Tue 27 Aug, 2024 - 9:37 AM ET The Positive Outlook on Vodafone Group Plc's 'BBB' Issuer Default Rating (IDR) reflects the potential for medium-term operational improvement in core markets, improving organic free cash flow (FCF) generation and reducing leverage through portfolio reshaping and debt reduction.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033386+00:00",
+              "published_date": null,
+              "source_hash": "f2e3c50ffe72ae135fe88c255cc1aba7"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Vodafone Group Plc \u2af6 H1 FY23 results 15 November 2022 ... Financial results H1 FY23 H1 FY22 Change Page \u20acm \u20acm % Group revenue 6 22,930 22,489 2.0 Group service revenue 6 19,207 19,010 2.5* ... Net debt increased by \u20ac3.9 billion to \u20ac45.5 billion (\u20ac41.6 billion as at 31 March 2022). This was driven by the free cash",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:01.033396+00:00",
+              "published_date": null,
+              "source_hash": "5bddfe7bbaf3e8fb47cf1859c606361e"
+            },
+            {
+              "url": "",
+              "title": "Why Did Goldman Give Vodafone Group Plc (VOD) Stock Neutral Rating?",
+              "snippet": "Goldman has recently reduced Vodafone Group Plc (VOD) stock to Neutral rating, as announced on December 9, 2024, according to Finviz. Earlier, on August 5, 2024, UBS had reduced the stock from a Buy to Neutral.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:03.380292+00:00",
+              "published_date": "2025-01-04T20:26:00+00:00",
+              "source_hash": "7e0c43a74949b9e9149a5e7d29722f2f"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group Plc (VOD) Stock: Understanding Its Underlying Value",
+              "snippet": "Vodafone Group Plc (VOD) stock saw a modest uptick, ending the day at $8.43 which represents a slight increase of $0.06 or 0.72% from the prior close of $8.37. The stock opened at $8.43 and touched a low of $8.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:03.380395+00:00",
+              "published_date": "2024-12-25T17:19:00+00:00",
+              "source_hash": "000cb2f793839d996ba0ae9ac47b2177"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group settles Rs 11,650 crore debt, releases shares in Vodafone Idea",
+              "snippet": "The Group had previously used nearly its entire shareholding in VIL as collateral for this debt. The debt arrangement was structured through HSBC Corporate Trustee Company (UK) for funds raised by Vodafone Group's entities in Mauritius and India.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:03.380424+00:00",
+              "published_date": "2024-12-28T10:35:00+00:00",
+              "source_hash": "18df0d520581ebf447db3fa1d9219b76"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Idea Share Price: Vodafone Group sells entire stake to settle Rs 11,650 cr debt - Details",
+              "snippet": "The UK-based Vodafone Group has discharged dues of about Rs 11,650 crore (about 109 million pounds) levied against Vodafone Idea shares.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:03.380450+00:00",
+              "published_date": "2024-12-28T15:05:00+00:00",
+              "source_hash": "77676d2a75c602e68b3b1b99456d7d11"
+            },
+            {
+              "url": "",
+              "title": "Vodafone Group Completes Sale Of Vodafone Italy - Quick Facts",
+              "snippet": "(RTTNews) - Vodafone Group Plc (VOD.L, VOD) said it has completed ... from this sale will be used to reduce Vodafone Group net debt and the Board will target to return to shareholders up to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Vodafone Group Plc Vodafone Group Plc debt levels and financial stability",
+              "retrieved_at": "2025-01-06T13:02:03.380471+00:00",
+              "published_date": "2025-01-02T02:19:00+00:00",
+              "source_hash": "62a1cc98b35d14c961b24ae87a9bab57"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Vodafone Group Plc tax disputes and legal challenges",
+              "rationale": "Investigate past and ongoing tax-related legal issues and their financial impact",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Vodafone Group Plc customer service complaints and network quality issues",
+              "rationale": "Assess customer dissatisfaction and its impact on brand reputation",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Vodafone Group Plc debt levels and financial stability",
+              "rationale": "Examine the company's debt burden and its implications for financial health",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:02:22.994788",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

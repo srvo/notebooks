@@ -1,0 +1,570 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:53:03.759223",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Waste Connections",
+      "symbol": "WCN",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Environmental and regulatory risks, including methane emissions and landfill operations",
+            "Financial and legal risks from class action lawsuits and regulatory disputes",
+            "Market and operational risks, such as recycling market volatility and labor challenges"
+          ],
+          "controversies": [
+            "Class action lawsuits alleging deceptive pricing practices",
+            "Public opposition to landfill expansions, e.g., Chiquita Canyon Landfill closure",
+            "Regulatory disputes over water pollution and environmental violations"
+          ],
+          "environmental_issues": [
+            "Methane emissions and inadequate landfill gas monitoring",
+            "Hazardous air pollutants from landfill operations",
+            "Vulnerability to new methane emission regulations"
+          ],
+          "social_issues": [
+            "Community resistance to landfill expansions due to environmental and quality-of-life concerns",
+            "Labor shortages and rising wage pressures in the waste management industry"
+          ],
+          "governance_issues": [
+            "Regulatory compliance challenges and potential fines",
+            "Integration risks from aggressive acquisition strategy"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Waste Connections Hit with Class Action Over Allegedly 'Unlawful and ...",
+              "snippet": "The case alleges that although Waste Connections US, Inc. and Waste Connections Palmetto, Inc. have represented an add-on \"Fuel & Material Surcharge\" as a pass-through cost related to fuel and materials price increases, the charge is, in truth, a \"hidden profit device\" unrelated to the defendants' actual costs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984719+00:00",
+              "published_date": null,
+              "source_hash": "e47c57e1f88be8769ec093eb89628712"
+            },
+            {
+              "url": "",
+              "title": "EPA says Waste Connections landfill in California violated ... - Waste Dive",
+              "snippet": "The EPA also alleges Waste Connections failed to adequately monitor and correct landfill gas temperatures \"inside and outside the reaction area.\" Such violations can cause excess emissions of hazardous air pollutants, the EPA said. The violations could result in fines or further legal action, according to the agency.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915294+00:00",
+              "published_date": null,
+              "source_hash": "d92c11c2543979adc6e86da22dc8c374"
+            },
+            {
+              "url": "",
+              "title": "California landfill receives US EPA scrutiny - Waste Today",
+              "snippet": "The U.S. Environmental Protection Agency (EPA) has issued a violation notice to Chiquita Canyon LLC (CCL), a Southern California landfill operated by Texas-based Waste Connections Inc., regarding New Source Performance Standards and National Emission Standards for Hazardous Air Pollutants for municipal solid waste (MSW) landfills.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915306+00:00",
+              "published_date": null,
+              "source_hash": "b0c77ec781c078f85e758ef40ff89d8f"
+            },
+            {
+              "url": "",
+              "title": "Tracking GHG emissions of US waste management companies",
+              "snippet": "2021 status: 7% decrease in emissions from 2019 through 2021. Waste Connections sees increased biogas recovery and increasing recycling volumes as some of the ways to decrease emissions. It has made investments in renewable natural gas projects at landfills, as well as several recycling facility investments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915314+00:00",
+              "published_date": null,
+              "source_hash": "9693472fb4fcc6d6ea72788d69a87b9c"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections closes embattled Chiquita Canyon Landfill in ...",
+              "snippet": "Waste Connections has stopped accepting waste at its Chiquita Canyon Landfill in Castaic, California, effective Jan. 1. This sudden move follows years of regulatory and legal actions that the company said affected operations at a site capable of receiving over 7,000 tons per day.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915321+00:00",
+              "published_date": null,
+              "source_hash": "7bf605271c889e6e5ca01d02491f04ab"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections sues Port Angeles, Washington, for $4 ... - Waste Today",
+              "snippet": "Canada-based Waste Connections, with U.S. headquarters in The Woodlands, Texas, has sued the city of Port Angeles, Washington, for $4.8 million in unpaid fees, citing breach of contract and collapse in the global recycling market.. According to the Peninsula Daily News, Port Angeles city officials deny the claims in Waste Connections June 2 lawsuit, and have taken steps to prepare for a legal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915328+00:00",
+              "published_date": null,
+              "source_hash": "d0e3bb43ba298282a3b2de20e34e8957"
+            },
+            {
+              "url": "",
+              "title": "Connections: Food Waste And Landfill Methane Report - BioCycle",
+              "snippet": "58% of the methane from landfills comes from food waste; 61% of the total methane produced is released to the atmosphere; For each metric ton of food waste that goes into a landfill you get about 0.86 tons of CO 2 equivalent (CO 2 e) released to the atmosphere as methane \u2014 effectively a 1:1 equivalent",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915336+00:00",
+              "published_date": null,
+              "source_hash": "90695a4341241b398b72aaeb4960767e"
+            },
+            {
+              "url": "",
+              "title": "Class action suit against Waste Connections dismissed after plaintiffs ...",
+              "snippet": "A proposed class action lawsuit that targeted a Waste Connections-owned landfill in Lower Saucon Township, Pennsylvania, was dismissed March 30 after plaintiffs made clear that the odor issues they were attributing to the landfill were instead originating from the nearby Bethlehem Wastewater Treatment Plant instead of the IESI Bethlehem Landfill. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915346+00:00",
+              "published_date": null,
+              "source_hash": "724de78cfe7faada7a8e45878aeeb9ac"
+            },
+            {
+              "url": "",
+              "title": "Connections: Reality Check On Carbon Trading And Organics ... - BioCycle",
+              "snippet": "Subler: In the U.S., the GHG emission reductions achieved by composting food waste (avoided landfill methane emissions) are not recognized by 'compliance markets', i.e., state or regional governmental GHG reduction programs such as California's cap-and-trade program and the Regional Greenhouse Gas Initiative (RGGI) in the Northeast.This is largely a result of competing regulations in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915354+00:00",
+              "published_date": null,
+              "source_hash": "695137272a7e4d42188686b804de6de3"
+            },
+            {
+              "url": "",
+              "title": "Serving Our Planet | Waste Connections 2024 Sustainability Report",
+              "snippet": "Many Waste Connections landfills capture the landfill gas generated at those facilities and provide it to offset the need for energy from fossil fuel sources. Additionally, recycled materials have a smaller carbon footprint over their life cycle compared to virgin materials, further avoiding emissions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:31.915361+00:00",
+              "published_date": null,
+              "source_hash": "c3e7139c5d94b37e0794ad01226049ee"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections closes embattled Chiquita Canyon Landfill in California",
+              "snippet": "The site, which was the second-largest active landfill in Los Angeles County, faced years of legal and regulatory pressure. County officials are now focused on regional cost and environmental implications.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:42.589183+00:00",
+              "published_date": "2025-01-02T17:08:00+00:00",
+              "source_hash": "3877785894626291b39484b81427eb4d"
+            },
+            {
+              "url": "",
+              "title": "US finalizes waste methane fine on drillers, but future uncertain",
+              "snippet": "US President Joe Biden's outgoing government announced on Tuesday a rule to impose fees on the oil and gas industry for waste methane emissions from drilling operations, despite doubts it will ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:34.517263+00:00",
+              "published_date": "2024-11-12T17:20:00+00:00",
+              "source_hash": "679ac56489ac4f9c86d16186972585ea"
+            },
+            {
+              "url": "",
+              "title": "Methane Eating Microbes - A Novel Solution For Greenhouse Gas Mitigation",
+              "snippet": "But there are many other sources of methane emissions that have been more difficult ... If the methane is from an organic source like manure of food waste, then that CO2 is considered to be ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:34.517277+00:00",
+              "published_date": "2024-04-25T14:00:00+00:00",
+              "source_hash": "13bd6b0abc9e0efe22eb7b149af432f6"
+            },
+            {
+              "url": "",
+              "title": "Revolutionizing Trash Collection for Texas: Food Cycle Science and Waste Connections Team Up with Canton, Texas to Combat Food Waste",
+              "snippet": "reduces landfill GHG emissions, and lowers the exorbitant cost of food waste management. Learn more at www.foodcyclescience.com. Waste Connections is an integrated solid waste services company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:34.517287+00:00",
+              "published_date": "2024-11-21T00:00:00+00:00",
+              "source_hash": "6938d78f29e4726e6a821170018ddf93"
+            },
+            {
+              "url": "",
+              "title": "Biden EPA to charge first-ever 'methane fee' for emissions waste by oil and gas companies",
+              "snippet": "The fee, formally known as the Waste Emissions Charge, will encourage early deployment of available technologies to reduce methane emissions and other harmful air pollutants, Regan said.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Waste Connections Waste Connections methane emissions controversy",
+              "retrieved_at": "2025-01-06T13:52:34.517298+00:00",
+              "published_date": "2024-11-12T10:20:00+00:00",
+              "source_hash": "efce0a3f37fdd32985a4a36ce5f214c9"
+            },
+            {
+              "url": "",
+              "title": "Judge denies class action effort over Waste Connections ... - Waste Dive",
+              "snippet": "Waste Connections is claiming victory after a federal judge dismissed a Florida customer's efforts to certify a class action lawsuit against the company over its pricing tactics. Sunshine Children's Learning Center, based in Tampa, sued the company in 2021 over alleged breach of contract due to the nature of its rate increase notifications.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984786+00:00",
+              "published_date": null,
+              "source_hash": "634685c1297fe0611c3d5c39a0fcc78e"
+            },
+            {
+              "url": "",
+              "title": "B&D Wins Dismissal of Nuisance Class Action Lawsuits in New York State",
+              "snippet": "The court issued published decisions dismissing two putative class action lawsuits against landfills in the Albany, NY area owned or operated by Waste Connections. The lawsuits asserted public nuisance and negligence claims against the Dunn Landfill and Colonie Landfill on behalf of proposed class members living around the landfills, based on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984796+00:00",
+              "published_date": null,
+              "source_hash": "09f017025fcf6c5d47cf7abc15767b32"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections and Rubicon enter new legal battle over competitive ...",
+              "snippet": "So far, Waste Connections appears to have been the most active litigant against Rubicon for this and similar issues. In addition to a June lawsuit against Rubicon and a former employee over alleged theft of trade secrets \u2014 which is still ongoing \u2014 there have also been four other complaints related to customer competition.. In August 2016, Waste Connections sued Rubicon for tortious ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984805+00:00",
+              "published_date": null,
+              "source_hash": "b0ebcc6bc5b53e10fb8f07961f2fc143"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections pursues escalating New York legal fight in face of ...",
+              "snippet": "The feud escalated when County alleged numerous counts of \"unfair competition,\" interference and other actions by Twin Bridges in a November lawsuit.Twin Bridges responded with a third-party complaint in December, also targeting Waste Connections, alleging \"anticompetitive conduct\" and \"predatory pricing\" in the market.Both parties are seeking injunctive relief and damages.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984814+00:00",
+              "published_date": null,
+              "source_hash": "37747c3983a64c8c0410953692bd21d9"
+            },
+            {
+              "url": "",
+              "title": "Class Action Alleges Waste Connections of FL 'Crams' Customers with ...",
+              "snippet": "According to the lawsuit, the plaintiff was presented in October 2013 with a Waste Connections customer service agreement \"in tiny and blurred font, rending parts of the contract illegible.\" Per the suit, the contract provided for pick-up services for a two-yard waste container twice per week for a total monthly cost of $84.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984821+00:00",
+              "published_date": null,
+              "source_hash": "c81a0b00e867309885c3b8e557c91d34"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections Loses Round One in Upstate N.Y. Antitrust Case",
+              "snippet": "Waste Connections Inc. must face litigation over its alleged scheme to corner the market in New York's \"capital region\" by offering below-cost discounts, locking customers into long-term contracts, smearing a rival, and getting it boycotted by landfills, a federal judge ruled Wednesday. Judge David N. Hurd let the antitrust claims move forward in the U.S. District Court for the Northern ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984827+00:00",
+              "published_date": null,
+              "source_hash": "4f986293469d802152fcd72861723e99"
+            },
+            {
+              "url": "",
+              "title": "waste-connections-inc | Violation Tracker - Good Jobs First",
+              "snippet": "Current Parent Company Name: Waste Connections Inc. Ownership Structure: publicly traded (ticker symbol WCN) Headquartered in: Texas ... private lawsuit-federal $900,000: El Paso Disposal, L.P. labor relations violation: 2011: NLRB $552,977: Waste Connections of Missouri, Inc. employment discrimination: 2018: OFCCP",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984833+00:00",
+              "published_date": null,
+              "source_hash": "237d393f710d91d98c979e17780bda89"
+            },
+            {
+              "url": "",
+              "title": "Competition Litigation in Georgia: Did Waste Connections just turn a ...",
+              "snippet": "Sixth, the firing likely signals an early settlement of the suit unless Waste Connections can connect any marketplace effects\u2014e.g., losing customers or not getting new business\u2014to the information Mr. Dewitt allegedly took. In short, though Mr. Dewitt's actions prompted this lawsuit, Rubicon and Waste Connections are the ongoing competitors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984839+00:00",
+              "published_date": null,
+              "source_hash": "f0fc549c13b355d788a0563a831be64a"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections US, Inc. - ClassAction.org",
+              "snippet": "Lawsuit Filings. Waste Connections Hit with Class Action Over Allegedly 'Unlawful and Excessive' Surcharges, Rate Increases. April 29, 2021 A proposed class action alleges Waste Connections has overcharged customers for waste removal services by levying excessive fuel surcharges and price increases. by Erin Shaak. Recently Updated.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:35.984846+00:00",
+              "published_date": null,
+              "source_hash": "da9f5568d93b440d6a8286aff57d75b6"
+            },
+            {
+              "url": "",
+              "title": "Chiquita Canyon Landfill closes active waste disposal operations",
+              "snippet": "Chiquita Canyon Landfill, a Southern California landfill operated by The Woodlands, Texas-based Waste Connections Inc., has closed its waste disposal operations. In a letter sent via email Dec. 31, Chiquita Canyon District Manager Steve Cassulo announced the closure, effective Jan. 1.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:42.589227+00:00",
+              "published_date": "2025-01-03T20:57:00+00:00",
+              "source_hash": "b2cee054b820331cd955064ee738f387"
+            },
+            {
+              "url": "",
+              "title": "Regulatory agency refutes claims of water pollution at Upvalley waste sites",
+              "snippet": "Waste Connections ... regulatory action \"will be appealed\" to state-level agencies. He said the matter is also being pursued through the federal investigation and the workers' federal lawsuit. \"",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:38.417871+00:00",
+              "published_date": "2024-12-04T03:11:00+00:00",
+              "source_hash": "dc911af752f5ac3bc24df9cba7f729af"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections price target raised to $195 from $192 at Oppenheimer",
+              "snippet": "Oppenheimer raised the firm's price target on Waste Connections (WCN ... with favorable tax, regulatory, and immigration policy supporting higher profitability, along with a constructive ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:38.417880+00:00",
+              "published_date": "2024-12-13T12:50:00+00:00",
+              "source_hash": "7ce250ae6f112f21edb086fe81cee073"
+            },
+            {
+              "url": "",
+              "title": "Plan for Waste Illegal, New Mexico Tells Nuclear Regulatory Commission in Lawsuit",
+              "snippet": "A facility in rural West Texas, on the border with New Mexico, already houses certain kinds of nuclear waste ... a federal lawsuit filed by the state Monday. The state, through state Attorney General Hector Balderas, sued the U.S. Nuclear Regulatory ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Waste Connections Waste Connections regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T13:52:38.417891+00:00",
+              "published_date": "2021-03-29T00:00:00+00:00",
+              "source_hash": "3d14b6dedf5b79dfdf566274713d7711"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections' Chiquita Canyon landfill under pressure; expansion ...",
+              "snippet": "Waste Connections already maintains a public website with information and updates about the landfill. AQMD now requires a public page for specific historical data such as 24-hour time-integrated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056443+00:00",
+              "published_date": null,
+              "source_hash": "f7661d6e318e4a38c16d54413688195d"
+            },
+            {
+              "url": "",
+              "title": "Landfill expansion faces opposition - Gilroy Dispatch",
+              "snippet": "The project includes the existing 90 acre John Smith Road Landfill, an adjacent 388 acre expansion area owned by the Waste Connections; a 5-acre facility owned by the City of Hollister and 70 acres of county-owned land across from the current landfill entrance. The expansion would \"increase the landfill's capacity, expand the total waste ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056552+00:00",
+              "published_date": null,
+              "source_hash": "e5c7cf99dbe4160682c62359af95d9be"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections closes embattled Chiquita Canyon Landfill in ...",
+              "snippet": "The landfill's closure, while foreshadowed in recent months, is a significant development for waste infrastructure in Los Angeles County and beyond. The 639-acre site was the second-largest active landfill in the county. It handled an estimated 34% of in-county disposal volumes during 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056573+00:00",
+              "published_date": null,
+              "source_hash": "5826389c5a980a9e3842ed8fafa933c3"
+            },
+            {
+              "url": "",
+              "title": "Landfill expansion rejected over groundwater concerns",
+              "snippet": "An attempted landfill expansion project in Southern California has met with an initial rejection from a water quality agency in the Golden State, according to a regional report. The Chiquita Canyon Landfill in Castaic, California, operated by Texas-based Waste Connections Inc., has been denied a permit to expand this month by Los Angeles ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056588+00:00",
+              "published_date": null,
+              "source_hash": "0b3ddfc9cd90c630fbdcb154cc675e26"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections' Chiquita Canyon Landfill Battle Explained",
+              "snippet": "The landfill was slated to close when it reached 23 million tons, or by November 2019, but Waste Connections proposed an expansion last year that would extend the landfill's life by 30 years.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056601+00:00",
+              "published_date": null,
+              "source_hash": "eaf195c66e23efada883820bb1fc7717"
+            },
+            {
+              "url": "",
+              "title": "California Appeals Court Upholds Expansion of Waste Connections Landfill",
+              "snippet": "A California appeals court has ruled that an expansion of Waste Connections Inc.'s Potrero Hills Landfill in Solano County is environmentally sound, overturning a trial court decision.. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056614+00:00",
+              "published_date": null,
+              "source_hash": "012254b872eb6d9774e3fce3564c5f64"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections' landfill outreach covers Seneca Meadows expansion ...",
+              "snippet": "Waste Connections is currently conducting community outreach measures at two notable sites due to neighbors' environmental concerns. Waste Connections has hosted a number of community meetings this month as part of its effort to expand its Seneca Meadows location in New York and extend its permit that is set to expire in 2025; but it's facing significant community pushback. Meanwhile, it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056626+00:00",
+              "published_date": null,
+              "source_hash": "6fb8f6fee0ddbf83e830abfd3b495ad0"
+            },
+            {
+              "url": "",
+              "title": "Groups File Litigation Regarding Chiquita Canyon Landfill Expansion",
+              "snippet": "In June, the Los Angeles County Board of Supervisors voted unanimously to expand the Chiquita Canyon Landfill in Santa Clarita Valley, Calif., despite opposition from activists and some residents.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056639+00:00",
+              "published_date": null,
+              "source_hash": "cee5ea07238870b2f75dae17a779d93d"
+            },
+            {
+              "url": "",
+              "title": "Waste Connections scores legal win in ongoing California landfill fight",
+              "snippet": "The ensuing dispute culminated in Waste Connections winning an appeal over the $5.1 million landfill penalty against the Los Angeles County Department of Public Works. But new 2017 permit requirements at the landfill generated a separate legal fight. Those requirements \u2014 totaling more than 130 \u2014 reduced tonnage allowances and added $15 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056651+00:00",
+              "published_date": null,
+              "source_hash": "67b9e08dd249dbe469a34fcde0e7f722"
+            },
+            {
+              "url": "",
+              "title": "2024 Will Be Another Outsize Year of Acquisitions for Wide-Moat Waste ...",
+              "snippet": "Waste Connections increased its landfill closure and postclosure liabilities by approximately $160 million in 2023 due to an elevated-temperature landfill event at a landfill in Southern California.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:40.056669+00:00",
+              "published_date": null,
+              "source_hash": "2121c08bc57f8f613ea3128df27efd9e"
+            },
+            {
+              "url": "",
+              "title": "Lower Saucon council approves landfill expansion",
+              "snippet": "The 29-acre expansion is within the boundaries of the existing 224-acre property, which was formerly the landfill for the City of Bethlehem but is now owned by Waste Connections Inc. The plan ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:42.589215+00:00",
+              "published_date": "2020-12-02T00:00:00+00:00",
+              "source_hash": "d9295fe3b6bfb3b738fee7fe32676d4f"
+            },
+            {
+              "url": "",
+              "title": "More than 500 businesses tell governor to deny expansion of Seneca Meadows landfill",
+              "snippet": "Opponents of Seneca Meadows Inc.'s plans to expand its Salcman Road landfill said a letter of opposition signed by 558 businesses across the state has been sent",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:42.589223+00:00",
+              "published_date": "2024-12-30T10:55:00+00:00",
+              "source_hash": "5b2dfdc0b4e1ddf16edbeb7290569409"
+            },
+            {
+              "url": "",
+              "title": "Campbell County commission backs denial of regional landfill expansion",
+              "snippet": "A zoning request to expand a regional landfill in Campbell County, which recently sparked strong opposition from more ... the county does its own solid waste disposal, even if it involves a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Waste Connections Waste Connections community opposition landfill expansion",
+              "retrieved_at": "2025-01-06T13:52:42.589232+00:00",
+              "published_date": "2025-01-03T18:50:00+00:00",
+              "source_hash": "098734869b424e829257972177636e22"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Waste Connections methane emissions controversy",
+              "rationale": "Investigate concerns about methane emissions from landfills and regulatory scrutiny",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Waste Connections regulatory compliance lawsuits",
+              "rationale": "Identify legal challenges related to environmental regulations or permitting issues",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Waste Connections community opposition landfill expansion",
+              "rationale": "Explore public resistance to landfill or transfer station expansions due to environmental and social concerns",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:53:03.759232",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

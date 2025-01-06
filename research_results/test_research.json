@@ -1,0 +1,104 @@
+{
+  "company": {
+    "name": "Test Company",
+    "ticker": "TEST",
+    "tick": 50
+  },
+  "company_context": "test context",
+  "search_queries": [
+    {
+      "category": "environmental_safety",
+      "query": "test query",
+      "rationale": "test rationale",
+      "priority": 1
+    }
+  ],
+  "research_results": [
+    {
+      "category": "environmental_safety",
+      "query": "test query",
+      "rationale": "test rationale",
+      "priority": 1,
+      "web_results": [
+        {
+          "title": "Test",
+          "url": "https://example.com",
+          "source_hash": "123",
+          "link": "https://example.com",
+          "source_type": "web",
+          "snippet": "Test snippet",
+          "domain": "example.com",
+          "query_context": "test query",
+          "category": "environmental_safety",
+          "retrieved_at": "2025-01-06T10:48:14.827117+00:00",
+          "published_date": null
+        }
+      ],
+      "news_results": [
+        {
+          "title": "Test News",
+          "url": "https://example.com",
+          "source_hash": "456",
+          "link": "https://example.com",
+          "source_type": "news",
+          "snippet": "Test news snippet",
+          "domain": "example.com",
+          "query_context": "test query",
+          "category": "environmental_safety",
+          "retrieved_at": "2025-01-06T10:48:14.827117+00:00",
+          "published_date": "2024-01-06"
+        }
+      ]
+    }
+  ],
+  "summary": "test summary",
+  "structured_data": {
+    "risk_score": 50
+  },
+  "sources": [
+    {
+      "title": "Test",
+      "url": "https://example.com",
+      "source_hash": "123",
+      "link": "https://example.com",
+      "source_type": "web",
+      "snippet": "Test snippet",
+      "domain": "example.com",
+      "query_context": "test query",
+      "category": "environmental_safety",
+      "retrieved_at": "2025-01-06T10:48:14.827117+00:00",
+      "published_date": null
+    },
+    {
+      "title": "Test News",
+      "url": "https://example.com",
+      "source_hash": "456",
+      "link": "https://example.com",
+      "source_type": "news",
+      "snippet": "Test news snippet",
+      "domain": "example.com",
+      "query_context": "test query",
+      "category": "environmental_safety",
+      "retrieved_at": "2025-01-06T10:48:14.827117+00:00",
+      "published_date": "2024-01-06"
+    }
+  ],
+  "metadata": {
+    "total_sources": 2,
+    "sources_by_type": {
+      "web": 1,
+      "news": 1
+    },
+    "sources_by_category": {
+      "environmental_safety": 2,
+      "financial_legal": 0,
+      "ethical_social": 0
+    },
+    "queries_by_priority": {
+      "1": 1,
+      "2": 0,
+      "3": 0
+    },
+    "timestamp": "2025-01-06T10:48:14.829790+00:00"
+  }
+}

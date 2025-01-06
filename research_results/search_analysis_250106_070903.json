@@ -1,0 +1,472 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:09:03.937073",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Resideo Technologies Inc",
+      "symbol": "REZI",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Securities litigation related to alleged misrepresentations and omissions",
+            "Global supply chain disruptions, including semiconductor shortages",
+            "Dependence on Honeywell for a significant portion of revenue",
+            "Cybersecurity vulnerabilities due to connected home devices",
+            "Intense competitive pressure in the smart home and building automation markets"
+          ],
+          "controversies": [
+            "Class-action securities lawsuit (In re Resideo Technologies, Inc. Securities Litigation)",
+            "Potential reputational damage from litigation and supply chain issues"
+          ],
+          "environmental_issues": [
+            "None explicitly mentioned"
+          ],
+          "social_issues": [
+            "Cybersecurity risks impacting customer trust"
+          ],
+          "governance_issues": [
+            "Litigation risks indicating potential governance challenges",
+            "Cybersecurity governance processes disclosed, but vulnerabilities remain"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "United States District Court District of Minnesota",
+              "snippet": "IN RE RESIDEO TECHNOLOGIES, INC. SECURITIES LITIGATION Case No. 19-cv-02863 (WMW/KMM) ... they have a right to know about the proposed Settlement of this class action lawsuit, and about all of their options, before the Court decides whether to approve the Settlement. 11. The Court in charge of the Action is the United States District Court for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780658+00:00",
+              "published_date": null,
+              "source_hash": "7e4a59bc9ad2a9be668697c82170a8c2"
+            },
+            {
+              "url": "",
+              "title": "Home | IN RE RESIDEO TECHNOLOGIES, INC SECURITIES LITIGATION",
+              "snippet": "All persons and entities who or which purchased or otherwise acquired the common stock of Resideo during the period from October 15, 2018 through November 6, 2019, inclusive, and were damaged thereby.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780776+00:00",
+              "published_date": null,
+              "source_hash": "80533f9c538ff7b94310a060ed917544"
+            },
+            {
+              "url": "",
+              "title": "In re Resideo Techs., Inc. Sec. Litig. - Casetext",
+              "snippet": "Plaintiffs in this putative class-action lawsuit are investment management companies, investment funds and a pension plan that purchased Defendant Resideo Technologies, Inc.'s (Resideo) stock between October 29, 2018, and November 6, 2019 (class period). ... Resideo's supply chain issues, Resideo's new product launches (GRIP and Project Storm ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780793+00:00",
+              "published_date": null,
+              "source_hash": "250528f52d58ed59b2d4ace4fcc7a355"
+            },
+            {
+              "url": "",
+              "title": "Resideo Investor Sues Over Stock Drop Caused by 'Disappointing' Third ...",
+              "snippet": "Nevertheless, the defendants, the lawsuit argues, continued to mislead investors with regard to the company's financial health, even going so far as to praise Resideo's supply chain management. The case claims the truth was revealed when Resideo released disappointing third quarter financial results on October 22, 2019 and lowered its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780803+00:00",
+              "published_date": null,
+              "source_hash": "65c400d1c75ef581d64ef38fccc6e4e0"
+            },
+            {
+              "url": "",
+              "title": "Resideo Technologies, Inc. | Saxena White P.A.",
+              "snippet": "The Complaint charged Resideo's Board of Directors and certain officers with breach of fiduciary duty, unjust enrichment, abuse of control, gross mismanagement, waste of corporate assets, and violations of Section 14(a) of the Securities Exchange Act, in connection with a multitude of serious supply-chain and operational problems and related ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780813+00:00",
+              "published_date": null,
+              "source_hash": "4efa7579349a067a44ef0269123d7965"
+            },
+            {
+              "url": "",
+              "title": "In re Resideo Technologies, Inc. Securities Litigation",
+              "snippet": "Resideo Technologies Inc. (Resideo) is a global provider of security, comfort, and smart-technology solutions and products. The Company emerged out of a corporate spin-off of Honeywell, which was completed on October 29, 2018, whereby Honeywell combined certain unrelated business units and products and spun them off to create Resideo (the Spin-Off).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734719+00:00",
+              "published_date": null,
+              "source_hash": "d421e97d7dfb0e8c17c9730ded63bd49"
+            },
+            {
+              "url": "",
+              "title": "In re Resideo Technologies, Inc. Securities Litigation, No. 0 ...",
+              "snippet": "In re Resideo Technologies, Inc. Securities Litigation Doc. 158 UNITED STATES DISTRICT COURT DISTRICT OF MINNESOTA In re Resideo Technologies, Inc., Securities Litigation Case No. 19-cv-2863 (WMW/BRT) ORDER GRANTING PLAINTIFFS' MOTIONS FOR FINAL APPROVAL OF CLASS ACTION SETTLEMENT AND ATTORNEYS' FEES Plaintiffs, on behalf of themselves and the proposed Settlement Class,1 seek final ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780831+00:00",
+              "published_date": null,
+              "source_hash": "4734ff90e320a53ffafebd52ba25b817"
+            },
+            {
+              "url": "",
+              "title": "Levi & Korsinsky Announces Resideo Technologies Class Action ...",
+              "snippet": "According to the Resideo Technologies lawsuit, throughout the Class Period defendants made false and/or misleading statements and/or failed to disclose that: (1) the negative operational effects of the Company's spin-off from Honeywell International Inc. were more substantial and persistent than disclosed and had negatively affected Resideo ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780843+00:00",
+              "published_date": null,
+              "source_hash": "00b5c728eb8c85874ee4e5dbea82133b"
+            },
+            {
+              "url": "",
+              "title": "Resideo to Pay $55 Million to Settle Class Action Litigation",
+              "snippet": "Resideo Technologies, a provider of security solutions and distributor of commercial and residential security and audio-visual products, announced that it has entered into a binding agreement to settle the pending securities class action litigation arising from allegations with respect to statements and disclosures made in 2019. The proposed settlement calls for a payment of $55 million in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780852+00:00",
+              "published_date": null,
+              "source_hash": "dfd483bc40aafcfe627e6a3cc923ceca"
+            },
+            {
+              "url": "",
+              "title": "IN RE RESIDEO TECHNOLOGIES, INC. DERIVATIVE LITIGATION, No. 0 ...",
+              "snippet": "IN RE RESIDEO TECHNOLOGIES, INC. DERIVATIVE LITIGATION, No. 0:2021cv01965 - Document 60 (D. Minn. 2024) case opinion from the District of Minnesota US Federal District Court ... Sec. Litig., No. 19-cv-2863 (WMW/BRT), 2022 WL 872909 (D. Minn. Mar. 24, 2022)\u2014a separate but parallel class action lawsuit. 3 A district court \"may correct a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T14:08:29.780861+00:00",
+              "published_date": null,
+              "source_hash": "c73614c9543232ff6a6a8945fd817c27"
+            },
+            {
+              "url": "",
+              "title": "An Intrinsic Calculation For Resideo Technologies, Inc. (NYSE:REZI) Suggests It's 43% Undervalued",
+              "snippet": "Using the 2 Stage Free Cash Flow to Equity, Resideo Technologies fair value ... estimate of fair value How far off is Resideo Technologies, Inc. (NYSE:REZI) from its intrinsic value?",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:44.251844+00:00",
+              "published_date": "2024-12-11T00:00:00+00:00",
+              "source_hash": "12a77533f4ccb1f820bb0e21a4431bc8"
+            },
+            {
+              "url": "",
+              "title": "Resideo Technologies: Q3 Earnings Snapshot",
+              "snippet": "SCOTTSDALE, Ariz. (AP) \u2014 SCOTTSDALE, Ariz. (AP) \u2014 Resideo Technologies Inc. (REZI) on Thursday reported net income of $20 million in its third quarter. On a per-share basis, the Scottsdale ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:39.258402+00:00",
+              "published_date": "2024-11-07T00:00:00+00:00",
+              "source_hash": "561b178321512448a975f325c819c1be"
+            },
+            {
+              "url": "",
+              "title": "Vulnerability Report - Resideo",
+              "snippet": "Our goal at Resideo is to minimize our customers' risks associated with security vulnerabilities by providing timely information, guidance, and remediation of vulnerabilities in our products. ... \u24b8 2024 Resideo Technologies Inc. The Honeywell Home trademark is used under license from Honeywell International Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734543+00:00",
+              "published_date": null,
+              "source_hash": "e7d287bf516c073be6304954e2e8936b"
+            },
+            {
+              "url": "",
+              "title": "Are you aware of any security vulnerabilities in your system ... - Resideo",
+              "snippet": "There is no security breach or vulnerability on the evohome system. All the data is being stored on a server with a high level of security. Region EMEA. Files (0) Show actions for Files. Drop Files. Upload Files Or drop files. Recommendations. ... \u24b8 2023 Resideo Technologies Inc. The Honeywell Home trademark is used under license from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734668+00:00",
+              "published_date": null,
+              "source_hash": "c43aabb0b516231690aeea4add74b5d2"
+            },
+            {
+              "url": "",
+              "title": "RESIDEO TECHNOLOGIES, INC. 10-K Cybersecurity GRC - 2024-02-14",
+              "snippet": "RESIDEO TECHNOLOGIES, INC. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-14 17:16:11 EST. Filings 10-K filed on 2024-02-14 Company Information Filings 10-K filed on 2024-02-14 RESIDEO TECHNOLOGIES, INC. filed a 10-K at 2024-02-14 17:16:11 EST Accession Number: 0001740332-24-000019 Note: filing items unformatted. Drop us a note with the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734686+00:00",
+              "published_date": null,
+              "source_hash": "a8086e59323de60b7b09dee04628acf4"
+            },
+            {
+              "url": "",
+              "title": "Holders Of Resideo Technologies Stock Since At Least October 2018",
+              "snippet": "Investors of Resideo Technologies who have owned their stock shares continuously since at least October 2018 are encouraged to contact Kevin Cauley, Director, Business Development, (215) 792-6676, Ext. 802, [email protected], [email protected], to discuss the Resideo investigation or potential legal claims. Kehoe Law Firm, P.C.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734698+00:00",
+              "published_date": null,
+              "source_hash": "7f2eba861e49482305a57a9551441be2"
+            },
+            {
+              "url": "",
+              "title": "Resideo Technologies, Inc. - Resideo Enters into Binding Agreement in ...",
+              "snippet": "Company expects second quarter 2021 GAAP operating profit of $121 million, including $16 million settlement expense Resideo Technologies, Inc. (NYSE: REZI), a leading global provider of home comfort and security solutions and distributor of commercial and residential security and audio-visual products, today announced that it has entered into a binding agreement in principle to settle the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734709+00:00",
+              "published_date": null,
+              "source_hash": "a1c7398d104a6f92a434002572637fc7"
+            },
+            {
+              "url": "",
+              "title": "Responsible Disclosure Submission - resideo.com",
+              "snippet": "Resideo recognizes the important contribution of the security research community. If you believe you've found a security issue and would like to tell us about it, please use the form below. ... \u24b8 2024 Resideo Technologies Inc. The Honeywell Home trademark is used under license from Honeywell International Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734728+00:00",
+              "published_date": null,
+              "source_hash": "41fc2e4763bbe7b221862e6b3b7192ab"
+            },
+            {
+              "url": "",
+              "title": "Important Documents | IN RE RESIDEO TECHNOLOGIES, INC SECURITIES LITIGATION",
+              "snippet": "IN RE RESIDEO TECHNOLOGIES, INC SECURITIES LITIGATION Resideo Technologies, Inc. Securities Settlement Case No. 19-cv-02863 (WMW/KMM) Home; Key Dates; Important Documents; File a Claim; Contact Us; Important Documents (To view/download a document, click its name.) Get Adobe Reader.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734738+00:00",
+              "published_date": null,
+              "source_hash": "16721523a492e435199f76543d0030c8"
+            },
+            {
+              "url": "",
+              "title": "DEF 14A - SEC.gov",
+              "snippet": "References to \"Resideo,\" the \"Company,\" \"we,\" \"us\" or \"our\" refer to Resideo Technologies, Inc. 2021 Annual Meeting of Shareholders . Date and Time: June 9, 2021, 1:00 p.m. EDT ... is also charged with oversight of Resideo's Integrity & Compliance program and risks relating to enterprise-wide cybersecurity, including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734746+00:00",
+              "published_date": null,
+              "source_hash": "9e179937c84b8b57fa81718d702183e6"
+            },
+            {
+              "url": "",
+              "title": "United States District Court District of Minnesota",
+              "snippet": "If you purchased or otherwise acquired the common stock of Resideo Technologies, Inc. during the period from October 15, 2018 through November 6, 2019, inclusive, and were damaged thereby, you may be entitled to a payment from a class action settlement. A Federal Court authorized this Notice. This is not a solicitation from a lawyer.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:35.734756+00:00",
+              "published_date": null,
+              "source_hash": "9b16adb202e23d6e276d324de2ba7639"
+            },
+            {
+              "url": "",
+              "title": "Resideo Technologies, Inc. (REZI) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "Have you been paying attention to shares of Resideo Technologies (REZI ... One industry peer that looks good is Alarm.com Holdings, Inc. (ALRM). ALRM has a Zacks Rank of # 1 (Strong Buy) and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:08:39.257888+00:00",
+              "published_date": "2024-12-09T18:19:00+00:00",
+              "source_hash": "5e0ba4cfb26b27c8b69fc6c1fea1dc40"
+            },
+            {
+              "url": "",
+              "title": "Future Honeywell Spin-Off Resideo Hosts Investors On First Anniversary ...",
+              "snippet": "We identify the principal risks and uncertainties that affect our performance in Honeywell's Form 10-K, Resideo's Form 10 Registration Statement, as amended, and other filings with the Securities and Exchange Commission. ... \u24b8 2024 Resideo Technologies Inc. The Honeywell Home trademark is used under license from Honeywell International Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.675973+00:00",
+              "published_date": null,
+              "source_hash": "5a66428eaa5ad137180f022386df591d"
+            },
+            {
+              "url": "",
+              "title": "Future Honeywell Spin-off Resideo",
+              "snippet": "Technologies, Inc. (\"Resideo\") from Honeywell, Resideo Funding Inc. (the \"Issuer\"), a wholly owned subsidiary of Resideo, has commenced a private offering of $400 million aggregate principal amount of ... subject to a number of material risks and uncertainties, including but not limited to economic, competitive, governmental, and",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676143+00:00",
+              "published_date": null,
+              "source_hash": "eb70999511297f65322247169e173991"
+            },
+            {
+              "url": "",
+              "title": "Honeywell Completes Spin-Off of Resideo Technologies, Inc.",
+              "snippet": "MORRIS PLAINS, N.J., Oct. 29, 2018 /PRNewswire/ -- Honeywell (NYSE: HON) announced today that it has completed its spin-off of Resideo Technologies, Inc., Honeywell's former Homes and ADI Global Distribution business.Resideo shares will begin \"regular way\" trading on the New York Stock Exchange today under the symbol \"REZI.\" \"The spin-off of Resideo marks the completion of the portfolio ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676153+00:00",
+              "published_date": null,
+              "source_hash": "f194863c9bf6b95bc938ecfd82b3a93a"
+            },
+            {
+              "url": "",
+              "title": "Resideo Technologies, Inc. - Resideo Announces Third Quarter 2024 ...",
+              "snippet": "Net revenue growth of 18% year-over-year; mid-single-digit organic revenue growth at both ADI and Products and Solutions Products and Solutions gross margin of 42.2%, sixth consecutive quarter of year-over-year improvement Net income available to common stockholders of $11 million; adjusted EBITDA of $190 million, above the high end of outlook range Strong demand for the refreshed Honeywell ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676159+00:00",
+              "published_date": null,
+              "source_hash": "37666a80e7588e15cc2b89d5aa6f4a76"
+            },
+            {
+              "url": "",
+              "title": "Honeywell Completes Spin-Off Of Resideo Technologies - Forbes",
+              "snippet": "On October 29, 2018 Honeywell spin-off Resideo Technologies - undervalued PT $35. Resideo will be a leader in home heating, ventilation and air conditioning controls and security markets and a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676164+00:00",
+              "published_date": null,
+              "source_hash": "b6edcb9c50d635f0821f61f202030785"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Impact to Honeywell. All Honeywell shareowners as of the record dat e will receive shares of Resideo Honeywell intends to update its 2018 full-year guidance after the Resideo and Garrett spins are complete Honeywell w ill receive one-time dividend f rom Resideo totaling ~$1.2B. Proceeds expected to be used to pay down debt and repurchase Honeywell",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676169+00:00",
+              "published_date": null,
+              "source_hash": "0b34fa6d7748d064cd8ec54556984da5"
+            },
+            {
+              "url": "",
+              "title": "Future Honeywell Spin-off Resideo Hosts Investors on First",
+              "snippet": "FUTURE HONEYWELL SPIN-OFF RESIDEO HOSTS INVESTORS ON FIRST ANNIVERSARY OF SPIN ANNOUNCEMENT MORRIS PLAINS, N.J., Oct. 10, 2018 - Exactly one year after Honeywell (NYSE: HON) announced it would spin off its Homes and Global Distribution business, Resideo Technologies, Inc. will host an Investor Conference in New York City today.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676173+00:00",
+              "published_date": null,
+              "source_hash": "3124cdf5af93905a9e6b425d09e14ba9"
+            },
+            {
+              "url": "",
+              "title": "How Resideo decoupled core IT from parent Honeywell",
+              "snippet": "Resideo \u2014 whose thermostats, humidifiers, air filters and security systems monitor and control the environment in more than 150 million homes \u2014 was going to have to carefully migrate key IT capabilities from Honeywell to a brand new set-up, while taking advantage of the rare opportunity to modernize and shape technology services to the new ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676181+00:00",
+              "published_date": null,
+              "source_hash": "56f048399ca9c34cef3429d198d9888f"
+            },
+            {
+              "url": "",
+              "title": "Honeywell Board Of Directors Declares Spin-Off Dividend Of Resideo Shares",
+              "snippet": "MORRIS PLAINS, N.J., Oct. 2, 2018 /PRNewswire/ -- Honeywell (NYSE: HON) today announced that its Board of Directors has declared a pro rata dividend of Resideo Technologies, Inc. common stock, to be made effective at 12:01 a.m. EDT on October 29, 2018, to Honeywell's shareowners of record as of 5:00 p.m. EDT on October 16, 2018, the record date. Each Honeywell shareowner of record will receive ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676186+00:00",
+              "published_date": null,
+              "source_hash": "0f65fb2923deb53187e639dd6f449c3d"
+            },
+            {
+              "url": "",
+              "title": "Honeywell Completes Spin-off of Resideo Technologies, Inc.",
+              "snippet": "HONEYWELL COMPLETES SPIN-OFF OF RESIDEO TECHNOLOGIES, INC. MORRIS PLAINS, N.J., October 29, 2018 - Honeywell (NYSE: HON) announced today that it has completed its spin-off of Resideo Technologies, Inc., Honeywell's former Homes and ADI Global Distribution business. Resideo shares will begin \"regular way\" trading on the New York Stock Exchange",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:40.676190+00:00",
+              "published_date": null,
+              "source_hash": "4dcdf5ea8c98e46d1585c245409c3bf3"
+            },
+            {
+              "url": "",
+              "title": "Resideo Technologies Reports Strong Q3 2024 Growth",
+              "snippet": "Resideo Technologies ( (REZI)) has released its ... highlighting strong demand for new product introductions such as the Honeywell Home Focus Pro thermostat line. The integration of Snap One ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Resideo Technologies Inc Resideo Technologies Inc Honeywell dependency risks",
+              "retrieved_at": "2025-01-06T14:08:44.251805+00:00",
+              "published_date": "2024-11-08T04:24:00+00:00",
+              "source_hash": "01050d2aaf3ce70f2defb9ce0fbb08a7"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Resideo Technologies Inc supply chain lawsuits",
+              "rationale": "Investigate legal disputes or challenges related to supply chain disruptions and their financial impact",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Resideo Technologies Inc cybersecurity breaches",
+              "rationale": "Explore incidents of data breaches or cybersecurity vulnerabilities affecting customer trust and privacy",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Resideo Technologies Inc Honeywell dependency risks",
+              "rationale": "Assess financial and legal risks associated with Resideo's reliance on Honeywell for revenue and contracts",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:09:03.937079",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

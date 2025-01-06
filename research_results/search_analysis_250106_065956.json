@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T06:59:56.228300",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Vesta",
+      "symbol": "VTMX",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Cybersecurity vulnerabilities due to recent data security incidents",
+            "Regulatory challenges and compliance risks in a highly regulated industry",
+            "Legal disputes, such as the breach of contract case against Evolution Lighting, LLC",
+            "Dependence on third-party technology providers and infrastructure",
+            "Intense competitive pressures in the fintech space"
+          ],
+          "controversies": [
+            "Data security incident involving Vesta Property Services",
+            "Legal disputes leading to potential financial liabilities"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data privacy concerns and the challenge of maintaining digital trust",
+            "Fraud prevention and securing digital transactions"
+          ],
+          "governance_issues": [
+            "Regulatory compliance and risk management challenges",
+            "Potential operational disruptions due to reliance on third parties"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": " United States District Court District of Connecticut",
+              "snippet": "Evolution Lighting, LLC. Plaintiff Vesta Liberty Street, LLC (\"Vesta\") brought this action against ELX seeking to recover damages for the total amount of lost rent and other costs incurred by Vesta due to ELX's breach. On December 14, 2023, I granted partial summary judgment in favor of Vesta on the question of liability for breach of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202219+00:00",
+              "published_date": null,
+              "source_hash": "6729e4e54aeab5f3972ce981feb865d7"
+            },
+            {
+              "url": "",
+              "title": "Vesta Property Group Notifies Individuals of Data Security Incident",
+              "snippet": "Vesta Property Services, Inc. (\"Vesta\"), an organization that provides association management services to developers of planned Wednesday, December 11, 2024 ... Further, Vesta is working with its external legal and cybersecurity experts to improve its cybersecurity policies, procedures, and protocols to help minimize the likelihood of this ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202344+00:00",
+              "published_date": null,
+              "source_hash": "f37a7514d343104438ffafd645c29639"
+            },
+            {
+              "url": "",
+              "title": "Vesta Property Group - Business Wire",
+              "snippet": "Further, Vesta is working with its external legal and cybersecurity experts to improve its cybersecurity policies, procedures, and protocols to help minimize the likelihood of this type of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202363+00:00",
+              "published_date": null,
+              "source_hash": "e93232177692af9820e1383bbd0dbec1"
+            },
+            {
+              "url": "",
+              "title": "Nvd - Cve-2021-46850",
+              "snippet": "myVesta Control Panel before .9.8-26-43 and Vesta Control Panel before 0.9.8-26 are vulnerable to command injection. An authenticated and remote administrative user can execute arbitrary commands via the v_sftp_license parameter when sending HTTP POST requests to the /edit/server endpoint. ... Technical Cyber Security Questions: US-CERT ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202375+00:00",
+              "published_date": null,
+              "source_hash": "a846606e7eb1848f8c191397f5c9d66a"
+            },
+            {
+              "url": "",
+              "title": "Vesta Property Group Notifies Individuals of Data Security Incident",
+              "snippet": "Vesta Property Services, Inc. , an organization that provides association management services to developers of planned unit communities, condominium associations, homeowners associations and property... -January 12, 2022 at 04:02 pm EST - MarketScreener",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202386+00:00",
+              "published_date": null,
+              "source_hash": "89f724964634c4b3ec18d42a8d0717c9"
+            },
+            {
+              "url": "",
+              "title": "OS Command Injection in Vesta Control Panel - ImmuniWeb",
+              "snippet": "HTB23261 (CVE-2015-4117): OS Command Injection in Vesta Control Panel. 24/7 Support Login: ... ImmuniWeb collaborates with regulated law firms and licensed lawyers. Cybersecurity and technical tasks are performed by ImmuniWeb, while ... prevent data breaches and reduce third-party risk, and to comply with regulatory requirements.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202397+00:00",
+              "published_date": null,
+              "source_hash": "f5cd64c4fdad3d9b5d78108e5af3d30d"
+            },
+            {
+              "url": "",
+              "title": "2024's Top Data Protection Settlements and Cybersecurity Changes",
+              "snippet": "2024 was a year chock-full of data breaches and privacy violations. Many new data privacy and cybersecurity regulations were introduced (and became effective), and regulators sent a strong message ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202408+00:00",
+              "published_date": null,
+              "source_hash": "646356c169d31428d36f8d0afe9f5c17"
+            },
+            {
+              "url": "",
+              "title": "Another US law firm reaches data breach settlement as cyber risks mount",
+              "snippet": "Florida business law firm Gunster has agreed to pay $8.5 million to resolve a proposed class action over a 2022 data breach that allegedly exposed the personal and health information of thousands ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202417+00:00",
+              "published_date": null,
+              "source_hash": "bae8b35cd86fcb83c6c7a322a019b89a"
+            },
+            {
+              "url": "",
+              "title": "Vesta Corporation Cyber Security Rating & Vendor Risk Report ...",
+              "snippet": "View Vesta Corporation's cyber security risk rating against other vendors' scores. Explore cyber risks, data breaches, and cybersecurity incidents involving Vesta Corporation. Sign In. Join Now. SecurityScorecard TOP 10. Financial Services. Vesta Corporation. Vesta Corporation trustvesta.com.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202428+00:00",
+              "published_date": null,
+              "source_hash": "87e2f4d38aa7e3715930fae125a6d54b"
+            },
+            {
+              "url": "",
+              "title": "Vesta Admin Panel Vulnerability Allows Complete Linux Server Takeover",
+              "snippet": "A vulnerability in the Vesta Control Panel has been discovered that allows attackers to take over entire Linux servers. This alarming exploit leverages weaknesses in the password reset mechanism, posing a severe risk to users relying on Vesta for server management. Vesta is a web-based control panel that simplifies server management for Linux ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta cybersecurity breaches and legal actions",
+              "retrieved_at": "2025-01-06T13:59:26.202437+00:00",
+              "published_date": null,
+              "source_hash": "ce0a2148742bd51860b97bd61f80c7b8"
+            },
+            {
+              "url": "",
+              "title": "About Us \u2014 Vesta Compliance Solutions, LLC.",
+              "snippet": "AML Transaction Monitoring Model Validation NYDFS Rule 504 Know Your Customer Regulatory Compliance and Market Abuse Monitoring. About Vesta . We're not like other firms. With offices in New York City, New York and Utrecht, Netherlands, our international consulting firm provides expertise, leadership & support to detect, assess, and prevent ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281643+00:00",
+              "published_date": null,
+              "source_hash": "2a4c7dc7122f403914855b92d85c9ccd"
+            },
+            {
+              "url": "",
+              "title": "International Trade Commission (ITC) Institutes New 337 Investigation ...",
+              "snippet": "Vesta's asserted trade secrets fall into two categories: (1) technical\u2014relating to the materials, components, schematics, and tooling used to create Vesta's foodservice equipment products; and (2) commercial\u2014including Vesta's customer list, supplier list, and commercial agreement terms.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281720+00:00",
+              "published_date": null,
+              "source_hash": "4293e47238abfca8348e802655a5682a"
+            },
+            {
+              "url": "",
+              "title": "SitusAMC announces ComplianceEase integration with Vesta LOS to ...",
+              "snippet": "This partnership allows Vesta users to access comprehensive, loan-level compliance reviews, to help them resolve errors directly within the Vesta platform with just one click. In today's market, staying ahead of compliance risk and regulatory audits is increasingly top of mind for lenders, in addition to increasing margin and efficiency at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281729+00:00",
+              "published_date": null,
+              "source_hash": "fe0601ca5bfa964bc813d65803d79c66"
+            },
+            {
+              "url": "",
+              "title": "Vesta Integrates with ComplianceEase to Mitigate Regulatory Risk for ...",
+              "snippet": "This partnership allows Vesta users to access comprehensive, loan-level compliance reviews, to help them resolve errors directly within the Vesta platform with just one click. In today's market, staying ahead of compliance risk and regulatory audits is increasingly top of mind for lenders, in addition to increasing margin and efficiency at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281745+00:00",
+              "published_date": null,
+              "source_hash": "bcf4f09a67d045543388b579aba4669d"
+            },
+            {
+              "url": "",
+              "title": "Vesta announces integration with ComplianceEase to Seamlessly Mitigate ...",
+              "snippet": "Vesta is a SaaS provider of mortgage loan origination software. The platform provides lenders with a modern system of record, customizable workflows for end to end mortgage loan fulfillment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281749+00:00",
+              "published_date": null,
+              "source_hash": "fdcc6a140c578864fd1c23a1356abda4"
+            },
+            {
+              "url": "",
+              "title": "Vesta Report: Card-Not-Present Fraud is Becoming Increasingly ...",
+              "snippet": "Vesta is the only instant, end-to-end transaction guarantee platform for online purchases, delivering unparalleled approval rates, a better customer experience and eliminating fraud for leading ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179787+00:00",
+              "published_date": null,
+              "source_hash": "6c02f71b1b5594a496acf54a28c2e58c"
+            },
+            {
+              "url": "",
+              "title": "Vesta Announces New Integration with Asurity to Power Seamless Digital ...",
+              "snippet": "May 24, 2022 - Vesta, a modern mortgage loan origination system and software-as-a-service company,today announces a new first-class integration with Asurity Technologies, LLC\u00ae (\"Asurity\"), a leadingprovider of mortgage compliance technology. With this partnership, lenders using the Vesta loanorigination platform will be able to seamlessly access real-time compliance monitoring and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281762+00:00",
+              "published_date": null,
+              "source_hash": "cb69e4509f1b886fd625de267fc27d87"
+            },
+            {
+              "url": "",
+              "title": "Lessons from recent regulatory enforcements",
+              "snippet": "A wide range of businesses, big and small, make the headlines for receiving regulatory fines due to failing to meet compliance standards. As such, it is integral for regulated firms to look at these events as an opportunity to learn from, and to ensure that they not only comply, but demonstrate compliance to the levels and standards required.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281766+00:00",
+              "published_date": null,
+              "source_hash": "06a145cf38226ee616e7f2f0ee161d76"
+            },
+            {
+              "url": "",
+              "title": "Navigating Legal and Regulatory Challenges in Real Estate Tokenization",
+              "snippet": "Vesta and its investors must navigate a complex network of rules and regulations to ensure a secure and fully compliant investment environment. This article will delve into the key aspects of these challenges and how Vesta maintains strict compliance standards. Understanding the Regulatory Landscape",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281778+00:00",
+              "published_date": null,
+              "source_hash": "afb28a5dcc0724fd41570ffab3ae8f77"
+            },
+            {
+              "url": "",
+              "title": "Vesta - the future of mortgage infrastructure",
+              "snippet": "Vesta's modern architecture, best-in-class API platform, and open ecosystem approach ensures lenders can take advantage of any new innovations for years to come. Down-to-earth partnership With Vesta, you're getting a partner who knows that helping you unlock the power of technology requires a deliberate and thoughtful approach.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vesta Vesta regulatory fines and compliance issues",
+              "retrieved_at": "2025-01-06T13:59:30.281781+00:00",
+              "published_date": null,
+              "source_hash": "f271670008e489cea58e1ecbeb3eab0c"
+            },
+            {
+              "url": "",
+              "title": "Privacy Policy - vesta.com",
+              "snippet": "Additional responsibilities include:Execute the privacy operations of the firm, including monitoring the system used to solicit, evaluate, and respond to individual privacy complaints and problems.Evaluate implemented privacy controls;Assessing existing policies and procedures that address privacy areas;Working with appropriate departments to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179640+00:00",
+              "published_date": null,
+              "source_hash": "fa5260db2d54e63418f119aa90c4ad51"
+            },
+            {
+              "url": "",
+              "title": "The Convergence Of Data Privacy And Digital Trust - Forbes",
+              "snippet": "Having consumer trust is important, but as data breaches accelerate in severity and frequency, digital trust is a delicate commodity. And the cost of losing trust can be sizable. Luckily, the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179805+00:00",
+              "published_date": null,
+              "source_hash": "63cd9615464fec7bd56a8676566faa54"
+            },
+            {
+              "url": "",
+              "title": "The Data Privacy Disconnect Between Businesses and Consumers",
+              "snippet": "Consumer trust is at an all-time low and data privacy is a central factor in the decline, with privacy becoming a core expectation among 89 per cent of consumers. This expectation demands that businesses re-evaluate how they treat their customers' data to ensure they prioritise privacy focused practices and technology to keep data safe online.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179817+00:00",
+              "published_date": null,
+              "source_hash": "265d626c9fb74da2a7eadd68ace97318"
+            },
+            {
+              "url": "",
+              "title": "Why Data Privacy Is a Controversy That Shouldn't Exist",
+              "snippet": "Any fair solution to data collection must recognize this reality. Education, not regulation, must play the largest role in helping users shield their data from prying eyes. For example, in October, New York City launched its first library privacy week, a series of public workshops aimed at helping people learn digital privacy best practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179828+00:00",
+              "published_date": null,
+              "source_hash": "8c15021f2f92bb028d6b53a0c8389ba8"
+            },
+            {
+              "url": "",
+              "title": "The Rising Concern Around Consumer Data And Privacy - Forbes",
+              "snippet": "The more transparent you can be, and the more trust you can build with your customers, the better. ... so I wanted to dive further into consumer data and privacy. A History Of Consumer Data.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179837+00:00",
+              "published_date": null,
+              "source_hash": "c6d672dd2cc1944974abb97c3660ebfb"
+            },
+            {
+              "url": "",
+              "title": "Corporate data responsibility: Bridging the consumer trust gap - KPMG",
+              "snippet": "Build trust in your organization's data practices. Given the critical and growing importance of consumer data, it makes sense for businesses to develop policies and practices that address consumer concerns around how their data is being collected, used and protected, and to be forthright and empathetic in developing and sharing those policies and practices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179845+00:00",
+              "published_date": null,
+              "source_hash": "e1588be139ac953944ffc9126480105b"
+            },
+            {
+              "url": "",
+              "title": "Data Privacy Is Key to Upholding Consumer Trust in the Connected World",
+              "snippet": "From secure financial transactions to making health care data A.I.-ready, to protecting business reputation and consumer data from cyber threats, advancements in data security across industries ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179856+00:00",
+              "published_date": null,
+              "source_hash": "8aad9f66b3a241eeb9fc27e936d31934"
+            },
+            {
+              "url": "",
+              "title": "Vesta Reviews 2024: Details, Pricing, & Features - G2",
+              "snippet": "Vesta is the only fraud prevention platform with more than 25 years of industry experience. An established leader in the space, Vesta pioneered the link analysis for fraud detection and prevention and continues to innovate today. With 2 billion orders approved to date, Vesta stands alone as the most experienced fraud prevention solution.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179865+00:00",
+              "published_date": null,
+              "source_hash": "0602becca9a0e27fa2722bfa4ff545e0"
+            },
+            {
+              "url": "",
+              "title": "Account Protect - Vesta",
+              "snippet": "Foster Trust - Verifying a new customer's identity at account opening establishes trust with good customers and can lead to tangible and intangible benefits for your brand. Protect Revenue - Account takeover fraud results in fraudulent transactions, which lead to chargeback fees and refunds. Synthetic fraud can lead to orders being shipped ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vesta Vesta controversies related to data privacy and consumer trust",
+              "retrieved_at": "2025-01-06T13:59:34.179873+00:00",
+              "published_date": null,
+              "source_hash": "e18acb8de755af064c9b890eab661994"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Vesta cybersecurity breaches and legal actions",
+              "rationale": "Investigate past cybersecurity incidents and any resulting legal consequences to assess risks to client trust and regulatory compliance.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Vesta regulatory fines and compliance issues",
+              "rationale": "Examine any fines or penalties imposed on Vesta for non-compliance with financial regulations like PCI DSS or GDPR to understand potential legal vulnerabilities.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Vesta controversies related to data privacy and consumer trust",
+              "rationale": "Explore any public controversies or ethical concerns regarding Vesta's handling of consumer data and its impact on customer trust.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T06:59:56.228306",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}
