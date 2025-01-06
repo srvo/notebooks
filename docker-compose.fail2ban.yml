@@ -9,7 +9,12 @@ services:
     cap_add:
       - NET_ADMIN
       - NET_RAW
+    healthcheck:
+      test: ["CMD", "fail2ban-client", "status"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
     volumes:
       - /var/log:/var/log:ro
-      - ./fail2ban/data:/data
+      - ./fail2ban/data:/data:rw
       - ./fail2ban/jail.d:/etc/fail2ban/jail.d 
