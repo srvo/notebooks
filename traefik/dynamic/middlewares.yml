@@ -1,0 +1,13 @@
+http:
+  middlewares:
+    auth:
+      basicAuth:
+        usersFile: /etc/traefik/.htpasswd
+    
+    secure-headers:
+      headers:
+        sslRedirect: true
+        forceSTSHeader: true
+        stsIncludeSubdomains: true
+        stsPreload: true
+        stsSeconds: 31536000
