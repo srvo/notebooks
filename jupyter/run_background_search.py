@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 import argparse
 from search_flow import SearchFlow
+from api_client import APIClient
+from data_store import DataStore
+from data_processor import DataProcessor
 from logger import setup_logger
 
+logger = setup_logger('run_background_search', 'logs/run_background_search.log')
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Run search flow as a background process.')
