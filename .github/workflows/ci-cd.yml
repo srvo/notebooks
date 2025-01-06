@@ -80,8 +80,9 @@ jobs:
     - name: Create Docker networks
       run: |
         echo "Creating required Docker networks..."
-        docker network create proxy || true
-        docker network create my_network || true
+        docker network ls | grep -q proxy || docker network create proxy
+        docker network ls | grep -q my_network || docker network create my_network
+        docker network ls
     
     - name: Validate Docker Compose files
       env:
@@ -99,6 +100,10 @@ jobs:
         # Create test environment
         mkdir -p nginx/certs cloudflared
         
+        # Verify networks exist
+        echo "Verifying Docker networks..."
+        docker network ls
+        
         # Create .env with configuration
         cat > .env << EOL
         JUPYTER_TOKEN=${JUPYTER_TOKEN}
@@ -114,10 +119,10 @@ jobs:
         EOL
         
         echo "Validating docker-compose.yml..."
-        docker compose -f docker-compose.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
+        DOCKER_BUILDKIT=0 docker compose -f docker-compose.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
         
         echo "Validating docker-compose.fail2ban.yml..."
-        docker compose -f docker-compose.fail2ban.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
+        DOCKER_BUILDKIT=0 docker compose -f docker-compose.fail2ban.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
         
     - name: Validate Traefik config
       run: |
@@ -136,8 +141,9 @@ jobs:
     - name: Create Docker networks
       run: |
         echo "Creating required Docker networks..."
-        docker network create proxy || true
-        docker network create my_network || true
+        docker network ls | grep -q proxy || docker network create proxy
+        docker network ls | grep -q my_network || docker network create my_network
+        docker network ls
       
     - name: Create test environment
       env:
@@ -154,6 +160,10 @@ jobs:
       run: |
         echo "Creating test environment..."
         mkdir -p nginx/certs cloudflared
+        
+        # Verify networks exist
+        echo "Verifying Docker networks..."
+        docker network ls
         
         # Create .env with configuration
         cat > .env << EOL
