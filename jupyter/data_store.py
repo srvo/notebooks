@@ -49,6 +49,7 @@ class DataStore:
             logger.error(f"File not found: {file_path}")
         except NoCredentialsError:
             logger.critical("S3 credentials not available.")
+import boto3
 from botocore.exceptions import NoCredentialsError
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker
@@ -67,11 +68,13 @@ class DataStore:
             aws_secret_access_key=Config.AWS_SECRET_ACCESS_KEY,
             region_name=Config.AWS_REGION
         )
+        logger.debug("Initialized DataStore with database and S3 client")
 
     def save_to_db(self, data):
         """Save data to database"""
         session = self.Session()
         try:
+            logger.debug("Saving data to database")
             # Assuming data is a dictionary and corresponding ORM models are defined
             # Example:
             # new_record = ResearchModel(**data)
@@ -90,10 +93,9 @@ class DataStore:
         if object_name is None:
             object_name = file_path.split('/')[-1]
         try:
+            logger.debug(f"Backing up {file_path} to S3 as {object_name}")
             self.s3_client.upload_file(file_path, Config.S3_BUCKET_NAME, object_name)
             logger.info(f"Backup {file_path} to S3 bucket {Config.S3_BUCKET_NAME} as {object_name}.")
-        except FileNotFoundError:
-            logger.error("The file was not found.")
         except FileNotFoundError:
             logger.error(f"File not found: {file_path}")
         except NoCredentialsError:
