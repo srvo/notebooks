@@ -3,7 +3,6 @@ import argparse
 from search_flow import SearchFlow
 from logger import setup_logger
 
-logger = setup_logger('run_background_search', 'logs/run_background_search.log')
 
 def parse_arguments():
     parser = argparse.ArgumentParser(description='Run search flow as a background process.')
