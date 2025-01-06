@@ -4,32 +4,37 @@ from search_flow import SearchFlow
 from api_client import APIClient
 from data_store import DataStore
 from data_processor import DataProcessor
+from database_reset import DatabaseResetter
 from logger import setup_logger
 
 logger = setup_logger('run_background_search', 'logs/run_background_search.log')
 
 def parse_arguments():
+    """Parse command line arguments"""
     parser = argparse.ArgumentParser(description='Run search flow as a background process.')
     parser.add_argument('--reset', action='store_true', help='Reset the research database.')
     parser.add_argument('--query', type=str, required=True, help='Search query to process')
     return parser.parse_args()
 
+def initialize_components():
+    """Initialize all application components"""
+    return {
+        'api_client': APIClient(),
+        'data_store': DataStore(),
+        'data_processor': DataProcessor(),
+        'search_flow': SearchFlow(APIClient(), DataStore(), DataProcessor())
+    }
+
 def main():
     args = parse_arguments()
-    # Initialize components
-    api_client = APIClient()
-    data_store = DataStore()
-    data_processor = DataProcessor()
-    search_flow = SearchFlow(api_client, data_store, data_processor)
+    components = initialize_components()
 
     if args.reset:
-        # Logic to reset the database
         logger.info("Resetting the research database.")
-        # Example:
-        # data_store.reset_database()
+        DatabaseResetter(components['data_store']).reset_research_tables()
     
     try:
-        search_flow.process_search(args.query)
+        components['search_flow'].process_search(args.query)
         logger.info("Background search completed successfully.")
     except Exception as e:
         logger.error(f"Background search failed: {e}")
