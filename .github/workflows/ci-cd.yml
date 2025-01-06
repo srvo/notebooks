@@ -286,7 +286,85 @@ jobs:
         COMPOSE_DOCKER_CLI_BUILD: 1
         DOCKER_BUILDKIT: 1
       run: |
-        # Create .env with configuration
+        # Create required directories
+        mkdir -p nginx/certs cloudflared dagster
+
+        # Create docker-compose.override.yml
+        cat > docker-compose.override.yml << EOL
+        networks:
+          my_network:
+            name: my_network
+            external: true
+          traefik_network:
+            name: traefik_network
+            external: true
+          proxy:
+            name: proxy
+            external: true
+
+        volumes:
+          searxng_config:
+            external: true
+          jupyter_data:
+            external: true
+          jupyter_notebooks:
+            external: true
+          jupyter_config:
+            external: true
+          dagster_data:
+            external: true
+        EOL
+
+        # Create Dagster files
+        cat > dagster/workspace.yaml << EOL
+        load_from:
+          - python_file: repo.py
+        EOL
+        
+        cat > dagster/dagster.yaml << EOL
+        storage:
+          postgres:
+            postgres_db:
+              username:
+                env: DAGSTER_PG_USERNAME
+              password:
+                env: DAGSTER_PG_PASSWORD
+              hostname:
+                env: DAGSTER_PG_HOST
+              db_name:
+                env: DAGSTER_PG_DB
+              port: 5432
+        
+        compute_logs:
+          module: dagster.core.storage.local
+          class: LocalComputeLogManager
+          config:
+            base_dir: /opt/dagster/dagster_home/compute_logs
+        
+        local_artifact_storage:
+          module: dagster.core.storage.root
+          class: LocalArtifactStorage
+          config:
+            base_dir: /opt/dagster/local/
+        EOL
+        
+        cat > dagster/repo.py << EOL
+        from dagster import job, op, repository
+        
+        @op
+        def hello():
+            return "Hello, World!"
+        
+        @job
+        def hello_job():
+            hello()
+        
+        @repository
+        def hello_repository():
+            return [hello_job]
+        EOL
+
+        # Create .env file
         cat > .env << EOL
         JUPYTER_TOKEN=${JUPYTER_TOKEN}
         JUPYTER_ENABLE_LAB=${JUPYTER_ENABLE_LAB}
@@ -301,7 +379,25 @@ jobs:
         CF_TUNNEL_TOKEN=${CF_TUNNEL_TOKEN}
         HETZNER_S3_ACCESS_KEY=${AWS_ACCESS_KEY_ID}
         HETZNER_S3_SECRET_KEY=${AWS_SECRET_ACCESS_KEY}
+        DAGSTER_PG_USERNAME=dagster
+        DAGSTER_PG_PASSWORD=dagster
+        DAGSTER_PG_HOST=postgres
+        DAGSTER_PG_DB=dagster
         EOL
+
+    - name: Create Docker networks
+      run: |
+        docker network create my_network || true
+        docker network create traefik_network || true
+        docker network create proxy || true
+
+    - name: Create Docker volumes
+      run: |
+        docker volume create searxng_config || true
+        docker volume create jupyter_data || true
+        docker volume create jupyter_notebooks || true
+        docker volume create jupyter_config || true
+        docker volume create dagster_data || true
 
     - name: Test containers
       uses: nick-fields/retry@v3.0.0
