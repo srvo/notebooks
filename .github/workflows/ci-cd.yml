@@ -88,28 +88,27 @@ jobs:
         on_retry_command: docker buildx prune --force --all
 
     - name: Verify Docker setup
-      run: |
-        max_retries=3
-        retry_count=0
-        
-        while [ $retry_count -lt $max_retries ]; do
-          echo "Attempting Docker setup verification (attempt $((retry_count + 1)) of $max_retries)..."
-          
+      uses: nick-fields/retry@v3.0.0
+      with:
+        timeout_minutes: 5
+        max_attempts: 2
+        command: |
           if docker buildx inspect | grep -q "default"; then
             echo "Docker Buildx setup successful"
-            exit 0
+          else
+            echo "Docker Buildx setup failed"
+            docker buildx inspect
+            docker buildx ls
+            docker info
+            exit 1
           fi
-          
-          retry_count=$((retry_count + 1))
-          
-          if [ $retry_count -lt $max_retries ]; then
-            echo "Docker setup verification failed, retrying in 10 seconds..."
-            sleep 10
-          fi
-        done
-        
-        echo "Error: Docker setup verification failed after $max_retries attempts"
-        exit 1
+        shell: bash
+        on_retry_command: |
+          echo "Retry attempt - enabling debug logging..."
+          export DOCKER_BUILDKIT=1
+          export BUILDKIT_PROGRESS=plain
+          docker buildx prune --force --all
+          sleep 10
     
     - name: Verify Docker network connectivity
       run: |
