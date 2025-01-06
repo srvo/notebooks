@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:22:04.218937",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Carvana Co",
+      "symbol": "CVNA",
+      "analysis": {
+        "historical": {
+          "risk_score": 75,
+          "key_risks": [
+            "Financial instability with $4.8 billion in net debt and a junk-rated credit profile",
+            "High sensitivity to macroeconomic factors such as rising interest rates and used car price volatility",
+            "Intense competition from traditional dealerships and online platforms",
+            "Customer complaints about vehicle quality, delivery delays, and customer service"
+          ],
+          "controversies": [
+            "Investigation for potential securities law violations, including accounting manipulation and insider trading",
+            "Legal challenges related to title processing delays, sales practices, and state licensing requirements",
+            "Accusations of financial improprieties by Hindenburg Research, leading to an 11% stock drop"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Poor customer service and billing issues, evidenced by numerous BBB complaints and negative reviews",
+            "Reliance on subprime auto loans and partnership with Ally Financial, raising ethical concerns about lending practices"
+          ],
+          "governance_issues": [
+            "Allegations of accounting manipulation and insider trading",
+            "Scrutiny over financial practices and compliance with regulatory requirements"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Carvana: A Father-Son Accounting Grift For The Ages",
+              "snippet": "The company has ~$4.8 billion in net debt and is junk-rated by ratings agencies. Carvana's business already faces major headwinds. Used vehicle prices have declined 20.3% in the past 3 years, according to the Manheim Price Index. Subprime auto loan delinquencies are now higher than during the Global Financial Crisis, per Fitch.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313778+00:00",
+              "published_date": null,
+              "source_hash": "e890d0f0b44c9dd935ffea4388a7bda3"
+            },
+            {
+              "url": "",
+              "title": " Debt Exchange Summary - Carvana",
+              "snippet": "\u00a92023 Carvana, LLC Confidential Document Transaction Impacts \u2022 At close, the exchange: \u2022 Lowers Carvana\u02bcs required cash interest expense by $456 million per year over the next two years. \u2022 Reduces our combined 2025 and 2027 maturities by 88%. \u2022 Lessens our total principal balance of debt outstanding by $1.326 billion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313853+00:00",
+              "published_date": null,
+              "source_hash": "8759388ed72e7c02fec02448e9b68418"
+            },
+            {
+              "url": "",
+              "title": "Carvana's Debt Problems Haven't Gone Away. Investors Should Keep a ...",
+              "snippet": "On the surface, Carvana (CVNA-4.51%) looks like it had a spectacular turnaround year in 2023. Earnings rocketed from a $15.74 per share loss in 2022 to a profit of $4.12 per share. And it also ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313871+00:00",
+              "published_date": null,
+              "source_hash": "7b906b7e1e20a425dea5421d90d88937"
+            },
+            {
+              "url": "",
+              "title": "Carvana Completes Restructuring to Slash $1.3 Billion of Debt",
+              "snippet": "Carvana Co. has completed its debt restructuring with a majority of creditors agreeing to participate in the deal, slashing about $1.3 billion of debt and saving the company more than $455 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313880+00:00",
+              "published_date": null,
+              "source_hash": "4ef7b1086e0993392d36c50712378768"
+            },
+            {
+              "url": "",
+              "title": "Carvana Plans Turnaround With Strategic Restructuring, Stock ... - Benzinga",
+              "snippet": "Collectively, the old and new notes constitute approximately 78% of Carvana's nearly $6 billion total debt. The company is scheduled to report its fourth quarter and fiscal year 2023 financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313889+00:00",
+              "published_date": null,
+              "source_hash": "ab093908f61a74ba10c738dae12d08e8"
+            },
+            {
+              "url": "",
+              "title": "Carvana stock surges 40% after it reaches a massive debt ... - CNN",
+              "snippet": "Shares of Carvana, the online used-car seller known for its tall, glass car-vending machines, closed the trading day on Wednesday up by more than 40% after the company reached a debt restructuring ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313896+00:00",
+              "published_date": null,
+              "source_hash": "58ad2b63790ae7442ca0bb680a29fe29"
+            },
+            {
+              "url": "",
+              "title": "Carvana Completes Restructuring to Slash $1.3 Billion of Debt",
+              "snippet": "Carvana Co. has completed its debt restructuring with a majority of creditors agreeing to participate in the deal, slashing about $1.3 billion of debt and saving the company more than $455 million of interest expense annually over the next two years. Participating creditors exchanged about $5.5 billion in unsecured bonds with maturities ranging from 2025 through 2030 for roughly $4.2 billion ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313904+00:00",
+              "published_date": null,
+              "source_hash": "56acf5d604de3155f25256bef8f68bbc"
+            },
+            {
+              "url": "",
+              "title": "Carvana to attempt restructuring of $9bn debt load - Financial Times",
+              "snippet": "Carvana, the online used auto retailer, is trying to drum up support from its creditors for a restructuring of its $9bn debt load as it attempts to stay afloat at a time of declining vehicle sales.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313912+00:00",
+              "published_date": null,
+              "source_hash": "22de870ee8104d94a0fa186d494459e9"
+            },
+            {
+              "url": "",
+              "title": "Carvana's debt restructuring is good news, but its losses are 'hardly ...",
+              "snippet": "Carvana Co. cheered investors on Wednesday with news it has reached an agreement with bondholders that will reduce its debt by $1.2 billion. The online used-car seller CVNA said the agreement will ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313919+00:00",
+              "published_date": null,
+              "source_hash": "4e203f3ddc5dbc3dd701d8ffb59aee74"
+            },
+            {
+              "url": "",
+              "title": "Carvana Liquidation: What You Need to Know \u2022 Road Sumo",
+              "snippet": "Carvana has completed its debt restructuring with a majority of creditors agreeing to participate in the deal, slashing about $1.3 billion of debt and saving the company more than $455 million in interest payments. However, despite this, the company is still facing financial difficulties, with experts predicting that it may be close to bankruptcy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:36.313927+00:00",
+              "published_date": null,
+              "source_hash": "b926ea49f1779c1e48081b99e9629cdd"
+            },
+            {
+              "url": "",
+              "title": "Carvana Shares Plummet After Scathing Report by Hindenburg Research Accuses Firm of Financial Manipulation",
+              "snippet": "Hindenburg Research's report on Carvana causes its shares to drop 11% amid accusations of poor practices and financial manipulation.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:46.751877+00:00",
+              "published_date": "2025-01-06T17:30:00+00:00",
+              "source_hash": "762ffcf5cc599672e23de3154912cbd2"
+            },
+            {
+              "url": "",
+              "title": "Carvana shares fall after Hindenburg Research calls company's turnaround 'a mirage'",
+              "snippet": "Shares of Carvana Co. fell 11% on Friday after activist short seller Hindenburg Research published a report accusing the Tempe-based used car retailer of lax car loan underwriting practices, insider trading and accounting manipulation to artificially inflate its bottom line.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:38.727030+00:00",
+              "published_date": "2025-01-03T20:43:00+00:00",
+              "source_hash": "02362c3abc276ec8b087e7a95e046c11"
+            },
+            {
+              "url": "",
+              "title": "Carvana stock tumbles after inflammatory report alleges financial improprieties",
+              "snippet": "Shares of Carvana Co. tumbled after an investment firm issued an inflammatory report about the online car retailer that alleges accounting manipulations, questionable insider stock sales and other ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co debt restructuring and financial instability",
+              "retrieved_at": "2025-01-06T18:21:38.727059+00:00",
+              "published_date": "2025-01-03T10:06:00+00:00",
+              "source_hash": "a93c04455f9ac050a27e8e8bf807e049"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With Carvana Stock Monday?",
+              "snippet": "Carvana Co (NYSE:CVNA) shares are trading higher Monday after a company subsidiary amended an agreement to reestablish a $4 billion commitment for automotive finance receivables.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:42.706228+00:00",
+              "published_date": "2025-01-06T15:47:00+00:00",
+              "source_hash": "fe37ca2140ada72dda955ca2c39b8a6c"
+            },
+            {
+              "url": "",
+              "title": "Carvana Co Is Being Investigated For Securities Law Violations And Affected Investors Are Urged To Contact The Schall Law Firm",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / January 3, 2025 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Carvana Co. (\"Carvana\" or \"the Company\") (NYSE:CVNA) for violations of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:46.751954+00:00",
+              "published_date": "2025-01-03T16:41:00+00:00",
+              "source_hash": "ce53e199aa8ccfe9cbfb371aa97c762f"
+            },
+            {
+              "url": "",
+              "title": "Carvana Co. (CVNA) Investigation | Hagens Berman",
+              "snippet": "Key to Hindenburg's scrutiny is Carvana's purchase commitment agreement with Ally Financial, through which the company offloaded $3.6 billion in vehicle loans (~60% of Carvana's total originations) in 2023. Hindenburg's analysis reveals a troubling trend: as of September 30, 2024, Carvana's sales to Ally had waned significantly, and that:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254624+00:00",
+              "published_date": null,
+              "source_hash": "411d6b5830746d12b9a4dd0549503bb8"
+            },
+            {
+              "url": "",
+              "title": "Carvana: A Father-Son Accounting Grift For The Ages",
+              "snippet": "Carvana prides itself on a \"simple, seamless and differentiated used car buying experience\", where customers can purchase cars online rather than in dealership showrooms. The company's platform has been described as \"the Amazon of cars\" by Forbes.. In September 2023, amid fears of bankruptcy, the company \"aggressively restructured\", working with creditors to slash $1.3 billion of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254705+00:00",
+              "published_date": null,
+              "source_hash": "efcb11edf040f587e45def57afe58c46"
+            },
+            {
+              "url": "",
+              "title": "Hindenburg Shorts Carvana, Accusing Firm of 'Grift for the Ages'",
+              "snippet": "The report, titled: \"Carvana: A Father-Son Accounting Grift for the Ages,\" makes several claims, including that Carvana has lax underwriting standards and uses a company owned by the father of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254721+00:00",
+              "published_date": null,
+              "source_hash": "cf886e663e4bcfcb22fb53c852ddbcf1"
+            },
+            {
+              "url": "",
+              "title": "Carvana Admits to Violating State Laws Over Titling and Registering ...",
+              "snippet": "Carvana brands itself as a one-stop-shop for buying or selling a used car online, but last year, it faced a barrage of complaints from state regulators, including here in Illinois.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254733+00:00",
+              "published_date": null,
+              "source_hash": "2bb2389d2e0f0652999cd6c76a037731"
+            },
+            {
+              "url": "",
+              "title": " CORPORATE GOVERNANCE GUIDELINES - investors.carvana.com",
+              "snippet": "CARVANA CO. CORPORATE GOVERNANCE GUIDELINES . The following Corporate Governance Guidelines (these \"Guidelines\") have been adopted by the Board of Directors (the \"Board\") of Carvana Co. (the \"Company\") to assist the Board in the exercise of its responsibilities to the Company and its stockholders. These Guidelines should",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254743+00:00",
+              "published_date": null,
+              "source_hash": "fee194b3aba9391b1f8e29655efa8008"
+            },
+            {
+              "url": "",
+              "title": " Effective April 27, 2017 CARVANA CO. AUDIT COMMITTEE CHARTER MEMBERSHIP",
+              "snippet": "CARVANA CO. AUDIT COMMITTEE CHARTER MEMBERSHIP The Audit Committee (the \"Committee\") of Carvana Co. (the \"Company\") shall consist ... the Company's compliance with legal and regulatory requirements; (3) the independent auditor's qualifications and ... C. Major issues regarding accounting principles and financial statement presentations,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254753+00:00",
+              "published_date": null,
+              "source_hash": "94a0b5358145cce1cf3aeab78d5d3304"
+            },
+            {
+              "url": "",
+              "title": "Governance Documents - Carvana",
+              "snippet": "Description Download; Code of Conduct for the Board of Directors Code of Ethics for Senior Financial Officers",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254764+00:00",
+              "published_date": null,
+              "source_hash": "e9384950d8a685d797ac21a015f9a6dd"
+            },
+            {
+              "url": "",
+              "title": "Carvana's latest troubles emerge in Pennsylvania - Automotive News",
+              "snippet": "The snarls in Pennsylvania are the latest challenge for the used-car retailer on the regulatory front and related to titling and registration issues. Carvana has been at the center of multiple ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254773+00:00",
+              "published_date": null,
+              "source_hash": "72b6ced4287f416beb3ec87c3e3f4e08"
+            },
+            {
+              "url": "",
+              "title": "Column: Monitoring Carvana licensing disputes - Automotive News",
+              "snippet": "Monitoring Carvana licensing disputes credit: BLOOMBERG On top of macroeconomic turbulence, Carvana Co. is navigating another burgeoning problem: state-level legal challenges to its operations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254782+00:00",
+              "published_date": null,
+              "source_hash": "5fefba80476a4a1affe45d6ac2bd22af"
+            },
+            {
+              "url": "",
+              "title": "Carvana - Legal and Compliance Team - The Org",
+              "snippet": "The Legal and Compliance Team at Carvana ensures that the company's operations adhere to all applicable laws and regulations while supporting its innovative business model. This team evaluates corporate and capital market transactions, advises on lending compliance, manages corporate risks and insurance, and ensures that all products align with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:40.254791+00:00",
+              "published_date": null,
+              "source_hash": "999b53d197ae8dc8416838ce93a5545a"
+            },
+            {
+              "url": "",
+              "title": "Carvana Co. (CVNA): A Bear Case Theory",
+              "snippet": "We came across a bearish thesis on Carvana Co. (NYSE:CVNA) on wallstreetbets Subreddit Page by High-Voltage-. In this article, we will summarize the bears' thesis on CVNA. Carvana Co. (NYSE:CVNA)'s share was trading at $177.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:46.751906+00:00",
+              "published_date": "2025-01-06T13:29:00+00:00",
+              "source_hash": "ecde5db301829ee9a8d79e3b0d06f640"
+            },
+            {
+              "url": "",
+              "title": "Carvana Co. Is Being Investigated For Securities Law Violations And Impacted Investors Are Urged To Contact The Schall Law Firm",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / January 5, 2025 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:42.706198+00:00",
+              "published_date": "2025-01-05T17:15:00+00:00",
+              "source_hash": "128d4a8c80f72f1f85fb09e4a4c577a3"
+            },
+            {
+              "url": "",
+              "title": "Here are the reasons not to worry too much about short-seller report on Carvana, according to these analysts",
+              "snippet": "Analysts at J.P. Morgan sought to assuage investors on Friday about Carvana Co. after the online used-car sales platform drew intense criticism from short-seller Hindenburg Research, saying that ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:46.751931+00:00",
+              "published_date": "2025-01-03T18:31:00+00:00",
+              "source_hash": "eac50396845238435f956a7cd1280399"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of Investors of Carvana Co. - CVNA",
+              "snippet": "NEW YORK, NY / ACCESSWIRE / January 3, 2025 / Pomerantz LLP is investigating claims on behalf of investors of Carvana Co. (\"Carvana\" or the \"Company\") (NYSE:CVNA). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Carvana Co Carvana Co regulatory compliance and legal issues",
+              "retrieved_at": "2025-01-06T18:21:42.706274+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "4c65ba0558e3eb03084c6e4cbff0d45e"
+            },
+            {
+              "url": "",
+              "title": "Carvana LLC | BBB Complaints | Better Business Bureau",
+              "snippet": "Customer Service Issues (106) Billing Issues (67) ... please take into account the company's size and volume of transactions, and understand that the nature of complaints and a firm's responses to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460095+00:00",
+              "published_date": null,
+              "source_hash": "9ee94785a58b07f0b47cd16d4a87106f"
+            },
+            {
+              "url": "",
+              "title": "Carvana LLC | BBB Complaints | Better Business Bureau",
+              "snippet": "Customer Service Issues (107) Billing Issues (67) ... View customer complaints of Carvana LLC, BBB helps resolve disputes with the services or products a business provides. ... Carvana is not ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460198+00:00",
+              "published_date": null,
+              "source_hash": "7f707fadf2f755806d205bd9ba5e3ed7"
+            },
+            {
+              "url": "",
+              "title": "Top 3,488 Reviews From Legit Carvana Buyers - ConsumerAffairs",
+              "snippet": "Read reviews and complaints about Carvana's personalized car search, sell and trade options, financing and more. Top 3,488 Reviews From Legit Carvana Buyers Trending",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460212+00:00",
+              "published_date": null,
+              "source_hash": "02b7356ade61a4083a57671e3eff368f"
+            },
+            {
+              "url": "",
+              "title": "Carvana Car Buyers Reviews 2025 - All You Need to Know | ComplaintsBoard",
+              "snippet": "While Carvana has a high level of trust, our investigation has revealed that the company's complaint resolution process is inadequate and ineffective. As a result, only 0% of 41 complaints are resolved. The support team may have poor customer service skills, lack of training, or not be well-equipped to handle customer complaints.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460222+00:00",
+              "published_date": null,
+              "source_hash": "e54e8e97a5f023c09886bcf52d8fd128"
+            },
+            {
+              "url": "",
+              "title": "Carvana Reviews | Read Customer Service Reviews of carvana.com - Yelp",
+              "snippet": "Read below to see the top rated Carvana businesses on Yelp and their customer service rating. Recent reviews of Carvana. Overall rating. 1,582 reviews based on 7 locations. 1,582 reviews based on 7 locations. 5. 4. 3. 2. 1. ... The hotel property is between Carvana and my old dealership/Rental Car Company. It was a pleasure doing business with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460234+00:00",
+              "published_date": null,
+              "source_hash": "0cfdfd4c96d03a51e76ba039d95297be"
+            },
+            {
+              "url": "",
+              "title": "Carvana Reviews | Read Customer Service Reviews of carvana.com - Trustpilot",
+              "snippet": "Two weeks later the engine went. Dealt with the warranty company and had the engine replaced. Then there was a problem with the charge pipe. A few months later thermostat went. As of today 01/04/2025 the car is currently waiting on yet another engine. Carvana does not inspect the vehicles they sell you regardless of what they say.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460245+00:00",
+              "published_date": null,
+              "source_hash": "9c4220c29116074986305781fc1809c7"
+            },
+            {
+              "url": "",
+              "title": "11 Investigates: Carvana driving some customers crazy with delays",
+              "snippet": "The online car dealer is facing a growing number of customer complaints and legal issues around the country and Pennsylvania customers are right in the thick of it. ... it has at least 130 Carvana ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460256+00:00",
+              "published_date": null,
+              "source_hash": "f03ee8cd37fc6ab6c8a5ee60a6efb0eb"
+            },
+            {
+              "url": "",
+              "title": "Can I file a lawsuit against Carvana? - Kneupper & Covey PC",
+              "snippet": "Some customers have complained that the car they bought from Carvana wasn't inspected and had various undisclosed issues. One reported to the BBB that \"I purchased a 2016 Mercedes-Benz CLA 50 from this online dealership. My car has had nothing but issues and I haven't even had the car for two months\u2026.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460264+00:00",
+              "published_date": null,
+              "source_hash": "b43d6def607ebf2c5750e3cf14bbf8d9"
+            },
+            {
+              "url": "",
+              "title": "Carvana faces government scrutiny and fines following consumer complaints",
+              "snippet": "Some buyers report months-long delays getting paperwork and other problems; Carvana says it remains committed to improvement. By Ben Foldy and Mike Colias. Carvana Co. CVNA +0.68% says its goal is to help consumers sidestep everything people hate about buying used cars, thanks to a shopping experience that takes place almost entirely online.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460279+00:00",
+              "published_date": null,
+              "source_hash": "c6d80f782469e8c8ce18fc0f097328d4"
+            },
+            {
+              "url": "",
+              "title": "Carvana's Problems That Led to Their Struggle to Stay Intact",
+              "snippet": "Carvana took the online car buying experience by storm, particularly during the pandemic. However, as major legal troubles and other company issues arise, Carvana's problems take a front seat as their struggles are showcased. Here's a look at the issues that led Carvana to the situation they find themselves stuck in. . Things were looking up during the pandemic",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:44.460289+00:00",
+              "published_date": null,
+              "source_hash": "620f57bc100642edf233c4296ded231b"
+            },
+            {
+              "url": "",
+              "title": "CVNA ALERT: Levi & Korsinsky Reminds Investors of an Investigation Involving Possible Securities Fraud Violations by Carvana Co.",
+              "snippet": "NEW YORK, NY / ACCESSWIRE / January 6, 2025 / Levi & Korsinsky notifies investors that it has commenced an investigation of Carvana Co.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Carvana Co Carvana Co customer complaints and service issues",
+              "retrieved_at": "2025-01-06T18:21:46.751772+00:00",
+              "published_date": "2025-01-06T18:04:00+00:00",
+              "source_hash": "6f698747996f5b4e8c5ff875dd15d91d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Carvana Co debt restructuring and financial instability",
+              "rationale": "Investigate the company's financial challenges and debt management strategies",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Carvana Co regulatory compliance and legal issues",
+              "rationale": "Examine legal challenges related to sales practices, title processing, and state licensing",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Carvana Co customer complaints and service issues",
+              "rationale": "Assess customer feedback on vehicle quality, delivery delays, and overall service experience",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:22:04.218950",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

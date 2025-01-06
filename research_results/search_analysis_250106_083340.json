@@ -1,0 +1,545 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:33:40.449771",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Smartsheet Inc",
+      "symbol": "SMAR",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and fiduciary concerns due to ongoing investigations and lawsuits",
+            "Intense competition from established players like Microsoft, Asana, and Monday.com",
+            "Dependence on third-party cloud infrastructure providers and integration partners",
+            "Customer concentration risk with significant revenue from large enterprise clients",
+            "Economic sensitivity tied to business spending and potential downturns",
+            "Data security and privacy risks despite robust measures",
+            "Financial leverage and integration challenges from the $3.2 billion private debt financing"
+          ],
+          "controversies": [
+            "Investigation by multiple law firms for potential breaches of fiduciary duties",
+            "Lawsuit against insurers regarding coverage disputes and breach of contract",
+            "Class-action lawsuit alleging inadequate disclosure of material information to shareholders"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Complaints filed with the Better Business Bureau regarding customer access and licensing"
+          ],
+          "governance_issues": [
+            "Potential breaches of fiduciary duties related to the acquisition by Blackstone and Vista Equity Partners",
+            "Concerns over the adequacy of the sale price and process"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Smartsheet Inc.: Rigrodsky Law, P.A. - rl-legal.com",
+              "snippet": "Rigrodsky Law, P.A. is investigating Smartsheet Inc. (\"Smartsheet\") regarding possible breaches of fiduciary duties and other violations of law related to Smartsheet's agreement to be acquired by funds managed by Blackstone and Vista Equity Partners. Under the terms of the a greement, Smartsheet shareholders will receive $56.50 per share in cash",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212770+00:00",
+              "published_date": null,
+              "source_hash": "eab872ae99c97483c276ccf208c4fd88"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet, Inc. v. Fed. Ins. Co. - Casetext",
+              "snippet": "A local software company, Plaintiff Smartsheet, Inc., has filed suit against its insurers to obtain declaratory relief as to the scope of coverage due under its directors and officers policies. Smartsheet also asserts breach of contract, bad faith, and Washington Insurance Fair Conduct Act claims against variously against certain defendants.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626268+00:00",
+              "published_date": null,
+              "source_hash": "46f0cf82ca12434bb0fbe800946e8ccf"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. (NYSE - SMAR) - Brodsky Smith",
+              "snippet": "SHAREHOLDER NOTICE: Brodsky & Smith Announces an Investigation of Smartsheet Inc. (NYSE - SMAR) BALA CYNWYD - September 24, 2024 /Globe Newswire/ - Law office of Brodsky & Smith announces that it is investigating potential claims against the Board of Directors of Smartsheet Inc. (\"Smartsheet\" or the \"Company\") (NYSE - SMAR) for possible breaches of \u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626287+00:00",
+              "published_date": null,
+              "source_hash": "49d95312978ecc38366246553c7104d0"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet.com, Inc | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Smartsheet.com, Inc filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626307+00:00",
+              "published_date": null,
+              "source_hash": "8ef99e9edbc59c67db7a757c605c7d06"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. | Ademi LLP - ademilaw.com",
+              "snippet": "Ademi LLP is investigating Smartsheet (NYSE: SMAR) for possible breaches of fiduciary duty and other violations of law in its transaction with Blackstone and Vista. In the transaction, Smartsheet shareholders will receive only $56.50 per share in cash. The transaction agreement unreasonably limits competing transactions for Smartsheet by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626320+00:00",
+              "published_date": null,
+              "source_hash": "778183fc093013c0d6e44c3f04ed3384"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc v. Federal Insurance Company et al, No. 2:2022cv00314 ...",
+              "snippet": "Smartsheet Inc v. Federal Insurance Company et al, No. 2:2022cv00314 - Document 70 (W.D. Wash. 2022) case opinion from the Western District of Washington US Federal District Court ... Smartsheet also asserts breach of contract, bad faith, and Washington Insurance Fair Conduct ORDER DENYING MOTIONS TO DISMISS - 1 Dockets.Justia.com Case 2:22-cv ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626332+00:00",
+              "published_date": null,
+              "source_hash": "b850fcfb120921b8b29077b7d0dcfa6a"
+            },
+            {
+              "url": "",
+              "title": "Potential Smartsheet Class Action - wohlfruchter.com",
+              "snippet": "UPDATE. On November 14, 2024, we filed a class action lawsuit in the United States District Court for the Southern District of New York, captioned Bushansky v.Smartsheet, Inc. et al., Case No. 1:24-cv-08648-ALC, on behalf of a class (\"Class\") of individuals and entities holding the common stock of Smartsheet, Inc. (NYSE: SMAR) (\"Smartsheet\"), as of the close of business on October 25 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626348+00:00",
+              "published_date": null,
+              "source_hash": "3c676c900d18ba35d6b54a65361da71e"
+            },
+            {
+              "url": "",
+              "title": "SMAR Alert: Wohl & Fruchter LLP Files Class Action Lawsuit on Behalf of ...",
+              "snippet": "Smartsheet, Inc. et al., Case No. 1:24-cv-08648-ALC, on behalf of a class (\"Class\") of individuals and entities holding the common stock of Smartsheet, Inc. (NYSE: SMAR) (\"Smartsheet\") as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626361+00:00",
+              "published_date": null,
+              "source_hash": "27d753a6fa34ef868baeecf61d6423a6"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. - Monteverde & Associates PC",
+              "snippet": "To start a Class Action lawsuit, please sign the Smartsheet Inc. Retainer Agreement. This confirms that you have retained Monteverde & Associates PC to file an action with a complaint against Smartsheet Inc. and/or its board of directors or officers. As a named plaintiff, you acknowledge that you owned shares in Smartsheet Inc. prior to the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626373+00:00",
+              "published_date": null,
+              "source_hash": "7a2a170b89c79301672dd34ced9a1663"
+            },
+            {
+              "url": "",
+              "title": "RUSTY RENDON v. SMARTSHEET INC. - accessibility",
+              "snippet": "Smartsheet was founded in 2005 and is headquartered in 10500 NE 8th St 1300, Bellevue, WA 98004, USA. It is in the Internet Software & Services industry and the website is smartsheet.com.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:05.626385+00:00",
+              "published_date": null,
+              "source_hash": "1715353392942ef4a592b5258d0271f9"
+            },
+            {
+              "url": "",
+              "title": "SMARTSHEET INVESTOR ALERT by the Former Attorney General of Louisiana: Kahn Swick & Foti, LLC Investigates Adequacy of Price and Process in Proposed Sale of Smartsheet Inc. - SMAR",
+              "snippet": "Foti, Jr., Esq. and the law firm of Kahn Swick & Foti, LLC (\"KSF\") are investigating the proposed sale of Smartsheet Inc. (NYSE: SMAR) to funds managed by Blackstone and Vista Equity Partners.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:20.557450+00:00",
+              "published_date": "2024-11-15T17:49:00+00:00",
+              "source_hash": "be600eab827f8f9e56230d45f00372c7"
+            },
+            {
+              "url": "",
+              "title": "Amazon Sues Former Exec Hired By Smartsheet, Hints That A Still-Secret Competitive Effort Is In the Works",
+              "snippet": "The lawsuit, filed Friday and first reported by tech news site GeekWire, claims Farrell accepted the job as head of product at Smartsheet, a Bellevue, Wash.-based software vendor, even though his ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:09.757105+00:00",
+              "published_date": "2023-12-12T14:06:00+00:00",
+              "source_hash": "7d756a8e2d2ffdd92d4f0635aa8ccb2e"
+            },
+            {
+              "url": "",
+              "title": "Blue Owl Capital Inc. leads $3.2B private debt financing for Smartsheet - report",
+              "snippet": "Blue Owl Capital Inc. (NYSE:OWL) led a $3.2B private debt financing backing the buyout of Smartsheet (NYSE:SMAR) by Blackstone (BX) and Vista Equity Partners, according to a media report.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc data breaches lawsuits",
+              "retrieved_at": "2025-01-06T15:33:09.757157+00:00",
+              "published_date": "2024-09-24T21:00:00+00:00",
+              "source_hash": "efa4d310a99cdc36ceed0d97ad027ef1"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Safeguard: Empowering customers by bridging control and ...",
+              "snippet": "Managing data retention to reduce risk. There's an old adage in security: the more data you house in a system, the more risk a system is exposed to. The purpose of a data retention policy is to mitigate that risk by setting limits on how long data can be stored. By removing unused content from their account, a customer is lowering their risk ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302430+00:00",
+              "published_date": null,
+              "source_hash": "ca68ef12f0fea40bfc9659ff92db18f0"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. - Smartsheet Announces Results of 2024 Special ...",
+              "snippet": "Further information on risks that could affect Smartsheet's results is included in its filings with the SEC, including its most recent Quarterly Report on Form 10-Q and its Annual Report on Form 10-K for the fiscal year ended January 31, 2024, and any current reports on Form 8-K that it may file from time to time. ... Customer stories ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302512+00:00",
+              "published_date": null,
+              "source_hash": "d78048f859b4f29588839ebdeed610f6"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "For Smartsheet, keeping customer data private and secure is a key aim, as is access management and delivering a rich, built-in reporting structure to enable better management control. These objectives are at the heart of Smartsheet\u02bcs application ... \u2022 Risk management processes and procedures \u2022 External audit and testing standards",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302543+00:00",
+              "published_date": null,
+              "source_hash": "efd9107d698d786318fad2fefffcdbe9"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc Updates 5 Key Risk Factors - Nasdaq",
+              "snippet": "According to the TipRanks Risk Factors tool, Smartsheet's top two risk categories are Finance & Corporate and Tech & Innovation, contributing 35% and 19% to the total 54 risks identified ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302574+00:00",
+              "published_date": null,
+              "source_hash": "a4a175fa349f9cd56c6a48b07868b28f"
+            },
+            {
+              "url": "",
+              "title": "Data Security and Risk Management \u2014 Smartsheet Community",
+              "snippet": "I would like to know more about data security in Smartsheet. Does Smartsheet has appropriate third-party security assessment. ... Data Security and Risk Management. ... Customer Resources; 64.4K Get Help; 424 Global Discussions; 136 Industry Talk; 465 Announcements; 17 Community Corner Newsletter; 4.8K Ideas & Feature Requests; 143 Brandfolder ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302597+00:00",
+              "published_date": null,
+              "source_hash": "208be8e35ea9a11d82d2949a8b197c1b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "encouraging collaboration while managing the risks involved as data and teams become increasingly distributed. To support this, Smartsheet offers three distinct governance models in line with the",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302623+00:00",
+              "published_date": null,
+              "source_hash": "1b378f71b716a406d2a7bce7c09bd8b0"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Smartsheet is used by organizations in various industries, such as technology, finance, healthcare, and education. The company offers both a free and paid version of its platform, with additional features and capabilities included in the paid version. Smartsheet is available on various devices and platforms, including desktop, mobile, and web.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302645+00:00",
+              "published_date": null,
+              "source_hash": "0d064da951f51e2f7f7bdd332c3d7868"
+            },
+            {
+              "url": "",
+              "title": "Which Is a Better Investment, C3.ai, Inc. or Smartsheet Inc. Stock?",
+              "snippet": "Smartsheet Inc.'s stock is NA 0% in 2024, up 0.1% in the previous five trading days and up 17.17% in the past year. Currently, Smartsheet Inc. does not have a price-earnings ratio. Smartsheet Inc.'s trailing 12-month revenue is $1.1 billion with a -0.8% net profit margin. Year-over-year quarterly sales growth most recently was 16.7%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302666+00:00",
+              "published_date": null,
+              "source_hash": "7e146b045b661a5b68a7a1d15be757a7"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "the imperative to evolve in new ways that expose them to new or different kinds of risk. Organizations must move more quickly if they want to remain competitive. To succeed,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302688+00:00",
+              "published_date": null,
+              "source_hash": "db827aa81f2b071c6d401e1ed73277a7"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. - Customers Recognize Smartsheet as the Leading Dynamic ...",
+              "snippet": "Smartsheet's dynamic work platform took the number one spot for Project and Portfolio Management (PPM) Software with an overall satisfaction score of 99 out of 100. Smartsheet's platform received high customer accolades across several key areas including ease of doing business with, ease of setup, and likelihood to recommend among others.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:12.302708+00:00",
+              "published_date": null,
+              "source_hash": "0706076de97d50fba113580675073603"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet: A Hold Is Good, But A Sell Might Be More Favorable",
+              "snippet": "Smartsheet's acquisition by Blackstone and Vista Equity at $56.50 per share limits upside potential. Read why I rate SMAR stock a Hold now.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:15.519059+00:00",
+              "published_date": "2024-12-29T08:10:00+00:00",
+              "source_hash": "0f14f5017ba3bf685d1026316b893dcc"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc (SMAR) Stock Sees Market Value Hit $7.87 billion: What Are the Implications?",
+              "snippet": "Guggenheim has recently reduced Smartsheet Inc (SMAR) stock to Neutral rating, as announced on November 11, 2024, according to Finviz. Earlier, on September 6, 2024, BMO Capital Markets had reiterated the stock to Outperform,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:15.519161+00:00",
+              "published_date": "2025-01-04T19:05:00+00:00",
+              "source_hash": "4e2124d0c69e1f3bf6f17431d959030a"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Benefits From Growing Customer Base and AI Adoption",
+              "snippet": "Smartsheet's expanding AI portfolio and strong partner base are expected to drive top-line growth. For third-quarter fiscal 2025, SMAR expects revenues in the $282-$285 million range, suggesting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Smartsheet Inc Smartsheet Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T15:33:15.519192+00:00",
+              "published_date": "2024-10-10T15:07:00+00:00",
+              "source_hash": "2a2caf5ac50dc62496aca6a57bd7b870"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet.com, Inc | BBB Complaints | Better Business Bureau",
+              "snippet": "Came aboard a new company as a project manager and I was given access to Smartsheets Software to run projects. I was given a license by the company, but after 30 days the program kicked me out.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212678+00:00",
+              "published_date": null,
+              "source_hash": "51542d826d5c30cad7274fa7ad329022"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc v. Federal Insurance Company et al, No. 2:2022cv00314 ...",
+              "snippet": "Smartsheet Inc v. Federal Insurance Company et al, No. 2:2022cv00314 - Document 70 (W.D. Wash. 2022) case opinion from the Western District of Washington US Federal District Court ... And in April 2021, 11 Smartsheet served an arbitration demand against a former employee, David Hanson, who was a 12 named plaintiff in the Colacurcio Class Action ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212720+00:00",
+              "published_date": null,
+              "source_hash": "1551db986d1588c3600a861cdb32841d"
+            },
+            {
+              "url": "",
+              "title": "SMAR Alert: Wohl & Fruchter LLP Files Class Action Lawsuit - GlobeNewswire",
+              "snippet": "Smartsheet, Inc. et al., Case No. 1:24-cv-08648-ALC, on behalf of a class (\"Class\") of individuals and entities holding the common stock of Smartsheet, Inc. (NYSE: SMAR) (\"Smartsheet\") as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212736+00:00",
+              "published_date": null,
+              "source_hash": "d578662ada61feb9ed09576359afe363"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. - Smartsheet 2025 Project and Portfolio Management ...",
+              "snippet": "New data from Smartsheet shows that high frequencies of internal and external disruptions are negatively impacting business outcomes Today, Smartsheet (NYSE:SMAR), the AI enhanced enterprise grade work management platform, released new research on the effects of workplace changes on project and portfolio management (PPM) professionals in the 2025 Project and Portfolio Management Priorities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212746+00:00",
+              "published_date": null,
+              "source_hash": "f7e68e23c21c75ad4c83ec0037b9b1a4"
+            },
+            {
+              "url": "",
+              "title": "SmartSheet for Employee Case Management",
+              "snippet": "SMARTSHEET EXPERT CONSULTANT & PARTNER. Andr\u00e9e Star\u00e5 | Workflow Consultant / CEO @ WORK BOLD. W: www.workbold.com | E:andree@workbold.com | P: +46 (0) - 72 - 510 99 35. Feel free to contact me for help with Smartsheet, integrations, general workflow advice, or anything else.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212757+00:00",
+              "published_date": null,
+              "source_hash": "07871db457ff26c1dc04aa3d33dcc37b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Smartsheet went public, and is now worth over $1 billion, and is trading in excess of $40.00 per share, more than four times the 2017 Tender Offer price. 6. At the time Defendants made the 2017 Tender Offer, Smartsheet was already forming plans for an IPO. Defendant Ryan Hinkle was a both a member of Smartsheet's Board",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212781+00:00",
+              "published_date": null,
+              "source_hash": "6a87784967275e09052e2a12d1b3b54c"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet has been recognized as a Leader in the 2024 Gartner Magic ...",
+              "snippet": "Not only was Smartsheet recognized as a Leader in Collaborative Work Management for the second year in a row, but we were also recognized with a Gartner Peer Insights \u2122 'Customers' Choice' distinction for CWM.Read the report.. We're especially thankful for the 'Customers' Choice' distinction because it's based on you, our customers, and your Smartsheet experience.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212801+00:00",
+              "published_date": null,
+              "source_hash": "a2a9311e0be9459e415b456621e960dc"
+            },
+            {
+              "url": "",
+              "title": "Working at Smartsheet - Glassdoor",
+              "snippet": "Overall, 72% of employees would recommend working at Smartsheet to a friend. This is based on 1,046 anonymously submitted reviews on Glassdoor. This is based on 1,046 anonymously submitted reviews on Glassdoor.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212814+00:00",
+              "published_date": null,
+              "source_hash": "f46f0a75b9d4f6e2c41f85ea6279302c"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "2019 All Rihts Reserved Smartsheet Inc 2 www.smartsheet.com Finally, these interruption-driven activities inherent in email reduce the amount of time spent on actual task activity to a mere 18%, according to Forrester Research. 5 That's essentially only one day a week that you're actually able to focus on the tasks that drive your work forward.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:18.212824+00:00",
+              "published_date": null,
+              "source_hash": "ac87d68f427e204ab75c4cc5e353b810"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc (NYSE:SMAR) Given Consensus Recommendation of \"Hold\" by Brokerages",
+              "snippet": "Smartsheet, Inc engages in managing and automating collaborative work. Its platform provides solutions that eliminate the obstacles to capturing information, including a familiar and intuitive ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:20.557538+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "1a491abecdd54ed4c85e6dfd6fc0f448"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Inc. Announces Third Quarter Fiscal Year 2025 Results",
+              "snippet": "BELLEVUE, Wash.--(BUSINESS WIRE)--Smartsheet Inc. (NYSE: SMAR), the AI enhanced enterprise grade work management platform, today announced financial results for its third fiscal quarter ended ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:20.557569+00:00",
+              "published_date": "2024-12-05T16:07:00+00:00",
+              "source_hash": "3fc4b7b8aa15dc84058310db4f34dc41"
+            },
+            {
+              "url": "",
+              "title": "Smartsheet Named a Leader for Second Consecutive Year in 2024 Gartner\u00ae Magic Quadrant\u2122 for Collaborative Work Management",
+              "snippet": "BELLEVUE, Wash., December 05, 2024--(BUSINESS WIRE)--Smartsheet, the AI enhanced enterprise grade work management platform, today announced it was named a Leader in the 2024 Gartner Magic Quadrant ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:20.557594+00:00",
+              "published_date": "2024-12-05T12:02:00+00:00",
+              "source_hash": "e15f9fe730925104ff49315434e1cfb3"
+            },
+            {
+              "url": "",
+              "title": "GSA Capital Partners LLP Sells 35,658 Shares of Smartsheet Inc (NYSE:SMAR)",
+              "snippet": "Smartsheet, Inc engages in managing and automating collaborative work. Its platform provides solutions that eliminate the obstacles to capturing information, including a familiar and intuitive ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Smartsheet Inc Smartsheet Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T15:33:20.557628+00:00",
+              "published_date": "2024-11-20T00:00:00+00:00",
+              "source_hash": "39b097a20bf89b76a59f922d87962f0c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Smartsheet Inc data breaches lawsuits",
+              "rationale": "Investigate potential legal issues related to data security and privacy breaches",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Smartsheet Inc customer concentration risks",
+              "rationale": "Examine the impact of revenue dependency on large enterprise customers and potential churn risks",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Smartsheet Inc employee workplace controversies",
+              "rationale": "Assess any reported workplace issues or ethical concerns related to employee treatment",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:33:40.449778",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

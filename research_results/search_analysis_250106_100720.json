@@ -1,0 +1,568 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:07:20.164835",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "FREYR Battery Inc",
+      "symbol": "FREY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on critical raw materials like lithium, nickel, and cobalt",
+            "Technological dependence on 24M Technologies' semi-solid battery technology",
+            "Regulatory and policy dependence on government support for renewable energy and EV adoption",
+            "Financial performance risks due to lack of profitability and potential delays in production",
+            "Competitive pressure from established players like Tesla, Panasonic, and LG Chem",
+            "Operational challenges including halting production and workforce reductions"
+          ],
+          "controversies": [
+            "Layoffs in Norway raising concerns about workforce stability and community commitment",
+            "Operational setbacks impacting production targets and scalability"
+          ],
+          "environmental_issues": [
+            "Commitment to carbon-neutral production using renewable energy sources"
+          ],
+          "social_issues": [
+            "Workforce reductions in Norway impacting local communities"
+          ],
+          "governance_issues": [
+            "Need for ongoing scrutiny of human rights due diligence efforts"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "FREYR Battery | FREYR is developing regional supply chains",
+              "snippet": "FREYR (NYSE: FREY) is a clean energy solutions provider building an integrated U.S. supply-chain for solar and batteries. In November 2024, FREYR announced a transformative transaction, positioning the Company as to be one of the leading solar manufacturing companies in the U.S., with a complementary solar and battery storage strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152598+00:00",
+              "published_date": null,
+              "source_hash": "b57db28972786dbd2ede035f66563a7f"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery | Bloomberg: Battery Startup Freyr Strikes\u2026",
+              "snippet": "FREYR (NYSE: FREY) is a clean energy solutions provider building an integrated U.S. supply-chain for solar and batteries. In November 2024, FREYR announced a transformative transaction, positioning the Company as to be one of the leading solar manufacturing companies in the U.S., with a complementary solar and battery storage strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152624+00:00",
+              "published_date": null,
+              "source_hash": "dc7bf6c9a68cb02c28b716e05718d3fb"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery and ITOCHU Partner to Develop Materials Supply Chain",
+              "snippet": "FREYR (NYSE: FREY) is a clean energy solutions provider building an integrated U.S. supply chain for solar and batteries. In November 2024, FREYR announced a transformative transaction, positioning the Company as one of the leading solar manufacturing companies in the U.S., with a complementary solar and battery storage strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152636+00:00",
+              "published_date": null,
+              "source_hash": "41aa1718f8471a91335171b57ca8bcf9"
+            },
+            {
+              "url": "",
+              "title": "FREYR Batterys Strategic Moves Solar Acquisition and Operational ...",
+              "snippet": "As the global transition to renewable energy intensifies, FREYR Battery (NYSE: FREY) has taken groundbreaking steps to cement its position as a key player in the clean technology space. The company s recent acquisition of Trina Solar s U.S. manufacturing assets and significant operational achievements in Norway mark pivotal moments in its growth strategy. Strategic Acquisition Expands Solar ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152645+00:00",
+              "published_date": null,
+              "source_hash": "e8bd73636b461b09ec4179ee97685904"
+            },
+            {
+              "url": "",
+              "title": "FREY - FREYR Battery Inc. | News | OTC Markets",
+              "snippet": "FREYR (NYSE: FREY) is a clean energy solutions provider building an integrated U.S. supply chain for solar and batteries. In November 2024, FREYR announced a transformative transaction, positioning the Company as one of the leading solar manufacturing companies in the U.S., with a complementary solar and battery storage strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152649+00:00",
+              "published_date": null,
+              "source_hash": "b0e63add419d62756458349b4728cd6a"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery and ITOCHU Partner to Develop Materials Supply Chain",
+              "snippet": "FREYR Battery (NYSE: FREY) (\"FREYR\"), a developer of clean, next-generation battery cell production capacity, has announced a new service agreement with ITOCHU Corporation (\"ITOCHU\"), the Japan-based global trading and import/export company. As part of this agreement, ITOCHU will serve as a direct materials supplier for FREYR's procurement and supply chain operations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152652+00:00",
+              "published_date": null,
+              "source_hash": "7515e9972467cf63103b20ccf3c47fce"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Closes Transformative Acquisition of Trina Solar's U.S ...",
+              "snippet": "NEW YORK & NEWNAN, Ga.--(BUSINESS WIRE)--FREYR Battery (NYSE: FREY) (\"FREYR\" or the \"Company\") today announced the closing of the Company's acquisition of the U.S. solar manufacturing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152659+00:00",
+              "published_date": null,
+              "source_hash": "aa8db473c4e6bb7853128bc758111312"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Announces Transformative Acquisition of Trina Solar's U.S ...",
+              "snippet": "FREYR Battery, Inc. is a solar manufacturing company. The Company is a clean energy solutions provider building an integrated United States (U.S.) supply chain for solar and batteries. The Company owns five gigawatt (GW) solar module manufacturing facility in Wilmer, Texas. The Company is also focused on expanding its operations in America.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152663+00:00",
+              "published_date": null,
+              "source_hash": "29f8e446d989f812dab0e44f7943c4ac"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Expands with Trina Solar Acquisition",
+              "snippet": "FREYR Battery (NYSE: FREY) is a clean energy solutions provider focusing on developing an integrated U.S. supply chain for solar and battery storage solutions. The company is positioned as a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152667+00:00",
+              "published_date": null,
+              "source_hash": "6f38a09b7ef8c11576eeb628f939e4ad"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Closes Transformative Acquisition of Trina Solar's U.S ...",
+              "snippet": "FREYR Battery (NYSE: FREY) (\"FREYR\" or the \"Company\") today announced the closing of the Company's acquisition of the U.S. solar manufacturing assets of Trina Solar Co Ltd. (SHA: 688599 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:49.152670+00:00",
+              "published_date": null,
+              "source_hash": "eca8542d7dbe3d03b1ae9931cd2a94b8"
+            },
+            {
+              "url": "",
+              "title": "Why Did FREYR Battery Inc (FREY) Stock Plunge -8.39% Last Week?",
+              "snippet": "FREYR Battery Inc (FREY) stock saw a modest uptick, ending the day at $2.73 which represents a slight increase of $0.15 or 5.81% from the prior close of $2.58. The stock opened at $2.69 and touched a low of $2.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:07:01.663065+00:00",
+              "published_date": "2025-01-03T13:37:00+00:00",
+              "source_hash": "3713995f11ea201599cd9291bffa395d"
+            },
+            {
+              "url": "",
+              "title": "Microvast vs. FREYR: Which Battery Stock Holds the Power?",
+              "snippet": "And not just car manufacturers but any company that impacted the EV supply chain, including battery production. Two of these companies were Microvast Holdings Inc. (NASDAQ: MVST) and FREYR Battery ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:07:01.663091+00:00",
+              "published_date": "2024-08-19T12:10:00+00:00",
+              "source_hash": "9f321d1977cc8271db967bee26f7149d"
+            },
+            {
+              "url": "",
+              "title": "BTIG Research Issues Buy Rating for FREYR Battery Inc (FREY) Stock",
+              "snippet": "FREYR Battery Inc (FREY) stock saw a decline, ending the day at $2.58 which represents a decrease of $-0.12 or -4.44% from the prior close of $2.7. The stock opened at $2.71 and touched a low of $2.45 during the day,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:51.811220+00:00",
+              "published_date": "2025-01-01T14:29:00+00:00",
+              "source_hash": "c091fdfbb2f77b60e1e68e57139375bc"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With FREYR Battery Stock On Tuesday?",
+              "snippet": "FREYR Battery (NYSE: FREY) shares up on completing Trina Solar acquisition worth $340M. Expects full production by 2025, targeting annual EBITDA of $650M-$700M",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:06:51.811223+00:00",
+              "published_date": "2024-12-24T16:42:00+00:00",
+              "source_hash": "733b76f1bcea382809050d2ca5bd602c"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery, Inc. (FREY)",
+              "snippet": "NEW YORK & OSLO, Norway & NEWNAN, Ga., November 06, 2024--FREYR Battery, Inc. (NYSE: FREY) (\"FREYR\" or the \"Company\"), a developer of sustainable clean energy capacity and solutions, today ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:57.702346+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "4802e3ce54c5d3a99fb058a7c471ffcb"
+            },
+            {
+              "url": "",
+              "title": "Freyr Stops Battery Production and Lays Off Employees - High North News",
+              "snippet": "Freyr has about 60 employees in Mo i Rana in Northern Norway, and about 180 in total. Jensen informs that the most significant reduction will be in Mo i Rana. Stopped by China. Jensen highlights that Freyr will still have employees in Mo i Rana and that the company still considers the city the best place in Norway for battery production. One of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301035+00:00",
+              "published_date": null,
+              "source_hash": "7651d917a7fafa83c657ffc84c387d96"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Strandveien 50, 1366 Lysaker, Norway FREYR attery Norway AS and FREYR attery Giga Arctic AS Status on Human Rights Due Diligence 2023 Published June 2024 DocuSign Envelope ID: 50CA2447-9366-4ABD-8801-B397DCEDD851",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301156+00:00",
+              "published_date": null,
+              "source_hash": "9512114a7336394bb6f5fc389516e234"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery | Norwegian Green Platform Initiative to Support\u2026",
+              "snippet": "Norwegian Green Platform Initiative to Support Sustainable Battery Production. Feb 21, 2022 New York, Oslo and Luxembourg, February 21, 2022, FREYR Battery (NYSE: FREY) (\"FREYR\"), a developer of clean, next-generation battery cell production, is announcing that the Research Council of Norway, Innovation Norway, and Siva have granted $11 million (NOK 100 million) through the Norwegian Green ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301169+00:00",
+              "published_date": null,
+              "source_hash": "4157e7dbea6c69c28be769ed3856edac"
+            },
+            {
+              "url": "",
+              "title": "A Norwegian Battery Maker Is Moving To The U.S. To Tap Federal ... - Forbes",
+              "snippet": "Freyr opened a small-scale factory line early this year in Mo I Rana, Norway, to start making pouch-type \"SemiSolid\" lithium-ion cells developed by battery researcher 24M Technologies that it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301186+00:00",
+              "published_date": null,
+              "source_hash": "36e9ede89181aa90f0c76afe8f5f332b"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery | Information and Reporting",
+              "snippet": "FREYR (NYSE: FREY) is a clean energy solutions provider building an integrated U.S. supply chain for solar and batteries. In November 2024, FREYR announced a transformative transaction, positioning the Company as one of the leading solar manufacturing companies in the U.S., with a complementary solar and battery storage strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207627+00:00",
+              "published_date": null,
+              "source_hash": "a395c87c93e4c4c274cb6f8d4f24e5af"
+            },
+            {
+              "url": "",
+              "title": "News Details - FREYR Battery Norway",
+              "snippet": "FREYR Battery (NYSE: FREY) (\"FREYR\"), a developer of clean, next-generation battery cell production, is announcing that the Research Council of Norway, Innovation Norway, and Siva have granted $11 million (NOK 100 million) through the Norwegian Green Platform initiative (the \"Green Platform\") to a consortium of companies, including FREYR. The initiative is intended to provide a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301208+00:00",
+              "published_date": null,
+              "source_hash": "8ed574d2d01c1a423700f7a14f29202e"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Inc, FREY:NYQ profile - FT.com - Financial Times",
+              "snippet": "FREYR Battery, Inc. is a developer of clean, battery cell production capacity. The Company seeks to serve its primary markets of energy storage systems (ESS) and commercial mobility, including marine applications and commercial vehicles. Its facilities are located at Mo i Rana industrial complex in Northern Norway.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301218+00:00",
+              "published_date": null,
+              "source_hash": "4d155b42b3499b554c68db11c4ab9a48"
+            },
+            {
+              "url": "",
+              "title": "FREYR BATTERY PRODUCTION NORWAY - European Investment Bank",
+              "snippet": "FREYR BATTERY PRODUCTION NORWAY. Reference: 20210736 Release date: 27 June 2022. Promoter - Financial Intermediary FREYR BATTERY SA Location. Norway Description. The project concerns the construction and operation of a large plant for industrial scale production of clean lithium-ion battery cells in Norway. The cells are to be sold for making ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301226+00:00",
+              "published_date": null,
+              "source_hash": "721c2636c83a702b4642ddcfb16e1120"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Selected by European Union Innovation Fund for ... - Nasdaq",
+              "snippet": "NEW YORK & OSLO, Norway & NEWNAN, Ga.--(BUSINESS WIRE)-- FREYR Battery, Inc. (NYSE: FREY) (\"FREYR\" or the \"Company\"), a developer of sustainable battery and clean energy solutions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301235+00:00",
+              "published_date": null,
+              "source_hash": "1153b56b1a296e1f151e363073ce342c"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery - FREYR Advances Clean Battery Cell Production in Norway ...",
+              "snippet": "FREYR Battery (NYSE: FREY, or \"FREYR\"), a developer of clean, next-generation battery cell production capacity, has reached a final investment decision (\"FID\") by the FREYR Board of Directors to proceed with the construction of the Customer Qualification Plant (\"CQP\") and first battery cell production line in Mo i Rana, Norway. The FID comes after completing the tender processes ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:55.301243+00:00",
+              "published_date": null,
+              "source_hash": "78eba3428469b2176d74fb15a0330ff7"
+            },
+            {
+              "url": "",
+              "title": "Short Interest in FREYR Battery, Inc. (NYSE:FREY) Rises By 11.3%",
+              "snippet": "FREYR Battery, Inc provides battery solutions in the United States, Norway, and internationally. The company develops battery cell manufacturing facilities. It serves its products to energy ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:57.702294+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "de81444dff7e2a488662b4ec60dcac62"
+            },
+            {
+              "url": "",
+              "title": "Jennison Associates LLC Boosts Holdings in FREYR Battery, Inc. (NYSE:FREY)",
+              "snippet": "FREYR Battery, Inc provides battery solutions in the United States, Norway, and internationally. The company develops battery cell manufacturing facilities. It serves its products to energy ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:57.702368+00:00",
+              "published_date": "2024-11-24T00:00:00+00:00",
+              "source_hash": "24ca48b14e7d946b812c5b8c2168f2ee"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With FREYR Battery Stock On Tuesday?",
+              "snippet": "FREYR Battery, Inc. FREY shares are trading higher on Tuesday. The company closed its acquisition of Trina Solar's 5 GW solar module manufacturing facility in Wilmer, Texas, announced last month.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:57.702373+00:00",
+              "published_date": "2024-12-24T12:41:00+00:00",
+              "source_hash": "b9c21a962fa63095c7d79fe1799faba5"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery updates guidance after closing on solar manufacturing assets deal",
+              "snippet": "FREYR Battery announces the acquisition of Trina Solar's solar manufacturing assets in Texas, positioning the company for value enhancing growth.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc labor practices Norway",
+              "retrieved_at": "2025-01-06T17:06:57.702377+00:00",
+              "published_date": "2024-12-24T12:44:17+00:00",
+              "source_hash": "5de09ad0630d0ab6e07eaaff26ec2b63"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery | FREYR Battery Receives Shareholder Approval for\u2026",
+              "snippet": "Additional information about factors that could materially affect FREYR is set forth under the \"Risk Factors\" section in (i) FREYR's Registration Statement on Form S-3 filed with the Securities and Exchange Commission (the \"SEC\") on September 1, 2022, (ii) FREYR Battery, Inc.'s Registration Statement on Form S-4 filed with the SEC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207514+00:00",
+              "published_date": null,
+              "source_hash": "413d98b1ab387bf08c5e0c069ef6c21b"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery - Leading Independent Proxy Advisory Firms Recommend ...",
+              "snippet": "Additional information about factors that could materially affect FREYR is set forth under the \"Risk Factors\" section in (i) FREYR's Registration Statement on Form S-3 filed with the Securities and Exchange Commission (the \"SEC\") on September 1, 2022, (ii) FREYR Battery, Inc.'s Registration Statement on Form S-4 filed with the SEC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207552+00:00",
+              "published_date": null,
+              "source_hash": "b04aac6975b1057f1029ea239a0667eb"
+            },
+            {
+              "url": "",
+              "title": " FREYR BATTERY AUDIT AND RISK COMMITTEE CHARTER Committee Board ...",
+              "snippet": "FREYR BATTERY AUDIT AND RISK COMMITTEE CHARTER (Adopted on 19 December 2023) The Audit and Risk Committee (the \"Committee\") of the Board of Directors (the \"Board\") of FREYR Battery, Inc. (the \"Corporation\") shall be appointed by the Board to perform the duties and responsibilities set forth in this charter. A. PURPOSE",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207582+00:00",
+              "published_date": null,
+              "source_hash": "9a853d87dc5b259f1fd7e107064e9635"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "Additional information about factors that could materially affect FREYR is set forth under the \"Risk Factors\" section in (i) FREYR's Registration Statement on Form S-3 filed with the Securities and Exchange Commission (the \"SEC\") on September 1, 2022, (ii) FREYR Battery, Inc.'s Registration Statement on Form S-4 filed with the SEC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207591+00:00",
+              "published_date": null,
+              "source_hash": "be104a9e252d0dc9e2760f172360ec4c"
+            },
+            {
+              "url": "",
+              "title": "Corporate Governance Documents - FREYR Battery",
+              "snippet": "Global Health and Safety Policy for FREYR Battery (opens in new window) 128 KB. Global Environmental Policy for FREYR Battery (opens in new window) 131 KB. Code of Business Conduct and Ethics (opens in ... Audit and Risk Committee Charter (opens in new window) 129 KB. Supplier Code of Conduct (opens in new window) 179 KB. Whistle-blower Policy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207606+00:00",
+              "published_date": null,
+              "source_hash": "0031755956510b983a5a2abe097630cd"
+            },
+            {
+              "url": "",
+              "title": "FREY - FREYR Battery Inc. | News | OTC Markets",
+              "snippet": "Additional information about factors that could materially affect FREYR is set forth under the \"Risk Factors\" section in (i) FREYR's post-effective amendment no. 1 to the Registration Statement on Form S-3 filed with the Securities and Exchange Commission (the \"SEC\") on January 4, 2024, (ii) FREYR's Registration Statement on Form S ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207613+00:00",
+              "published_date": null,
+              "source_hash": "41f33b2b7657faab8c112e5a2d2c7179"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery, Inc. /DE/ SEC 10-Q Report - TradingView",
+              "snippet": "Challenges and Risks. FREYR Battery, Inc. faces several challenges and risks as it continues to grow and expand its operations: Operational Risks: Restructuring and Workforce Reduction: The restructuring plan implemented in September 2024, which included a reduction in force of 91 employees, could impact operational efficiency and employee morale.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207620+00:00",
+              "published_date": null,
+              "source_hash": "3889caf980f8879391e6427b79765b9f"
+            },
+            {
+              "url": "",
+              "title": "Leading Independent Proxy Advisory Firms Recommend Shareholders Vote ...",
+              "snippet": "NEW YORK & OSLO, Norway & LUXEMBOURG, December 11, 2023--FREYR Battery (NYSE: FREY) (\"FREYR\" or the \"Company\"), a developer of clean, next-generation battery cell production capacity, has ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207633+00:00",
+              "published_date": null,
+              "source_hash": "00c423b7d2888cb3a8f62de5e1d97a08"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery | Sustainability Strategy and Governance",
+              "snippet": "FREYR (NYSE: FREY) is a clean energy solutions provider building an integrated U.S. supply chain for solar and batteries. In November 2024, FREYR announced a transformative transaction, positioning the Company as one of the leading solar manufacturing companies in the U.S., with a complementary solar and battery storage strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:06:59.207640+00:00",
+              "published_date": null,
+              "source_hash": "c114464bd9e84c4602fd54917253f63a"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Inc (FREY) Stock Dilemma: A Surge That Has Everyone Talking\u2014What's the Real Story?",
+              "snippet": "FREYR Battery Inc's profitability metrics reveal financial health. The company currently boasts a gross margin of 77.30%. The profit margin, also known as the revenue ratio or gross profit ratio, measures how efficiently a company converts sales into net income; higher margins indicate greater profitability.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:07:01.662994+00:00",
+              "published_date": "2025-01-06T14:59:00+00:00",
+              "source_hash": "e1d4c9b0f47c24f289ce954ddb0cfafd"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With FREYR Battery Stock On Tuesday?",
+              "snippet": "FREYR Battery, Inc. (NYSE:FREY) shares are trading higher on Tuesday ... FREYR plans to begin U.S. solar cell facility construction in second quarter of 2025, with regulatory filings starting in the first quarter of 2025. Approximately 30% of the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:07:01.663075+00:00",
+              "published_date": "2024-12-24T14:42:00+00:00",
+              "source_hash": "c3660a576ae089fa885fed94b2eefc8b"
+            },
+            {
+              "url": "",
+              "title": "FREYR Battery Closes Transformative Acquisition of Trina Solar's U.S. Manufacturing Assets",
+              "snippet": "FREYR Battery (NYSE: FREY) (\"FREYR\" or the \"Company\") today announced the closing of the Company's acquisition of the U.S. solar manufacturing assets",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "FREYR Battery Inc FREYR Battery Inc regulatory dependence risks",
+              "retrieved_at": "2025-01-06T17:07:01.663118+00:00",
+              "published_date": "2024-12-24T14:30:00+00:00",
+              "source_hash": "cc5dd4fc009454392d418ba19495a180"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "FREYR Battery Inc supply chain disruptions",
+              "rationale": "Investigate risks related to raw material availability and pricing",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "FREYR Battery Inc labor practices Norway",
+              "rationale": "Assess potential controversies or concerns regarding labor conditions in its manufacturing facilities",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "FREYR Battery Inc regulatory dependence risks",
+              "rationale": "Explore how changes in government policies or subsidies could impact the company's growth and profitability",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:07:20.164844",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

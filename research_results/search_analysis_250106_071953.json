@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:19:53.780813",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Enovix",
+      "symbol": "ENVX",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on overseas suppliers",
+            "Manufacturing challenges in scaling production while maintaining quality",
+            "Legal and regulatory risks from securities litigation and compliance requirements",
+            "Competitive pressures from established battery industry players",
+            "Leadership and financial instability due to executive turnover"
+          ],
+          "controversies": [
+            "Securities litigation related to SPAC merger disclosures",
+            "Executive turnover, including the departure of the CFO"
+          ],
+          "environmental_issues": [
+            "Compliance with evolving environmental regulations for battery production and disposal"
+          ],
+          "social_issues": [
+            "Potential impact of supply chain disruptions on workforce and communities"
+          ],
+          "governance_issues": [
+            "Leadership instability and concerns about investor confidence"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "IN RE ENOVIX CORPORATION SECURITIES LITIGATION, No. 3:2023cv00071 ...",
+              "snippet": "See also CC \u00b6 118 (stating that Enovix overcame \"obstacles such as extended shipping times and 12 intermittent vendor support during equipment bring-up resulting from COVID travel restrictions 13 to/from Asia\"), \u00b6 127 (\"Challenges associated with building out Fab-1 include extended shipping 14 times, supply chain constraints and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271463+00:00",
+              "published_date": null,
+              "source_hash": "86d055e986012641a1be1feb8edf1b3a"
+            },
+            {
+              "url": "",
+              "title": " Co-Lead Counsel for Plaintiffs and the Class - Rosen Legal",
+              "snippet": "Enovix merged with Rodgers Silicon Valley Acquisition Corp. (\"RSVAC\"), a public special purpose acquisition company known as a \"SPAC\" or \"blank check\" company. A SPAC is a public shell corporation whose lone stated purpose is to acquire a private company. 6. RSVAC and Enovix entered into a merger agreement in what is known as a \"de-",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271604+00:00",
+              "published_date": null,
+              "source_hash": "db75b5b33c00960ea9cc3215e976fb5e"
+            },
+            {
+              "url": "",
+              "title": "Twitchell v. Enovix Corp., 23-cv-00071-SI - Casetext",
+              "snippet": "4. Risk Disclosures. Plaintiffs challenge the risk disclosures contained in the June 24, 2021 Proxy Statement and in the March 25, 2022 Form 10-K. SAC \u00b6\u00b6 135, 151 (Statements 3 and 10). These disclosures stated: Enovix relies on a new and complex manufacturing process for its operations: achieving production involves a significant degree of",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271624+00:00",
+              "published_date": null,
+              "source_hash": "8889ef163f3fe0af299a56a846b21c5e"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, Dec. 27, 2024 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Enovix Corporation (\"Enovix\" or the \"Company\") (NASDAQ: ENVX).Such investors are advised to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271636+00:00",
+              "published_date": null,
+              "source_hash": "b8a1e60c09b90ae755930d10dd71c6d4"
+            },
+            {
+              "url": "",
+              "title": "The Competitive Landscape of Enovix - CANVAS, SWOT, PESTEL ... - CBM",
+              "snippet": "Failure to meet these standards could result in legal issues and damage to the company's reputation. ... Supply Chain Management: Enovix will need to effectively manage its supply chain to ensure a steady and reliable source of materials for battery production. Any disruptions in the supply chain could impact the company's ability to meet ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271647+00:00",
+              "published_date": null,
+              "source_hash": "78f354c0bc9779b7e2a58dc00b99ff7a"
+            },
+            {
+              "url": "",
+              "title": "INVESTOR NOTICE: Enovix Corporation f/k/a Rodgers Silicon Valley ...",
+              "snippet": "The Enovix class action lawsuit alleges that, throughout the Class Period, defendants made false and/or misleading statements and/or failed to disclose material adverse facts about Enovix's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271657+00:00",
+              "published_date": null,
+              "source_hash": "247d1ea84e1bf010350c2c882a6bab72"
+            },
+            {
+              "url": "",
+              "title": "Enovix: Big Solution for a Growing Problem (Your Phone Needs a Better ...",
+              "snippet": "Risks: Not Profitable: Perhaps the most obvious risk is Enovix is not profitable and continues to burn through cash. This is normal for a company in Enovix's nascent position, but if it cannot achieve progress in scale (and profits) then the shares could be worth very little, especially as liquidity could become an increasing challenge over time.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271667+00:00",
+              "published_date": null,
+              "source_hash": "44c221d9f27ce35355d62ca9edbf5d3e"
+            },
+            {
+              "url": "",
+              "title": "Enovix Corporation Investigated by Shareholder Rights Advocates ...",
+              "snippet": "Enovix Corporation Investigated by Shareholder Rights Advocates - Investors Should Contact Levi & Korsinsky Regarding Potential Securities Law Violations - ENVX",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271676+00:00",
+              "published_date": null,
+              "source_hash": "7676c6fe0c1ce41d0884fd2804a27b48"
+            },
+            {
+              "url": "",
+              "title": "Legal Considerations for Supply Chain Disruptions - National Law Review",
+              "snippet": "With respect to supply chain disruptions arising from COVID-19, a breaching party will have the strongest defense if its contract expressly lists a pandemic, epidemic, or supply shortage as a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271686+00:00",
+              "published_date": null,
+              "source_hash": "b84b1fb56cb15aed6c82f374c3da09c2"
+            },
+            {
+              "url": "",
+              "title": "Enovix Corp SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Supply Chain Risks: Enovix depends on third-party suppliers for key components and materials. Disruptions in the supply chain, including the availability and cost of raw materials, could negatively impact production timelines and costs. ... Market Risks: Enovix is exposed to market risks such as changes in interest rates, inflation, and the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:21.271694+00:00",
+              "published_date": null,
+              "source_hash": "fc10b69e95c32a4e9353d84c2b67c3b8"
+            },
+            {
+              "url": "",
+              "title": "Enovix Corporation Achieves Key Milestone with Shipment of Second-Generation EX-2M Battery Samples and First Mobile Phone Purchase Order",
+              "snippet": "ARTHI CHAKRAVARTHY (Chief Legal Officer ... who need supply chain diversification, continuously improving HVM yields, and shipping smartphone battery cells in high volume.\" Enovix Executive ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:25.468742+00:00",
+              "published_date": "2024-12-20T13:43:00+00:00",
+              "source_hash": "6f5399da69ba9cb7355ad04be81a8ec0"
+            },
+            {
+              "url": "",
+              "title": "Enovix Ships first EX-2M Samples to Mobile Phone Customers",
+              "snippet": "Enovix Executive Chairman, T.J. Rodgers commented, \"Since 2012, I've been doing whatever job Enovix needed - from funding to chemistry to strategic planning - and now we have a real order from a real customer to be shipped from our new factory.\"",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:30.241027+00:00",
+              "published_date": "2024-12-20T14:30:00+00:00",
+              "source_hash": "b591413dbd33f8a40ead9defe534c472"
+            },
+            {
+              "url": "",
+              "title": "Enovix Appoints Kristina Truong as Chief Accounting Officer",
+              "snippet": "Dec. 30, 2024 (GLOBE NEWSWIRE) -- Enovix Corporation (\"Enovix ... including inflationary and supply chain pressures, and political, social, and economic instability, including as a result ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:25.468812+00:00",
+              "published_date": "2024-12-30T08:30:00+00:00",
+              "source_hash": "94ad1e71fa4e0ae4d34d301eb387d07f"
+            },
+            {
+              "url": "",
+              "title": "Enovix Ships First EX-2M Samples To Mobile Phone Customers",
+              "snippet": "Dec. 20, 2024 (GLOBE NEWSWIRE) -- Enovix Corporation (\"Enovix ... class graphite battery business with customers who need supply chain diversification, continuously improving HVM yields ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Enovix Enovix supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:19:25.468823+00:00",
+              "published_date": "2024-12-20T08:45:00+00:00",
+              "source_hash": "11801ba687542522fc98d1346bf7df30"
+            },
+            {
+              "url": "",
+              "title": "Enovix: Big Solution for a Growing Problem (Your Phone Needs a Better ...",
+              "snippet": "It has developed a proprietary three-dimensional (\"3D\") cell architecture that allows higher energy density, longer cycle life, and superior safety compared to conventional wound lithium-ion cell battery architectures. Enovix's unique approach involves using a 100% active Silicon Anode, which is a significant departure from the historical ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905779+00:00",
+              "published_date": null,
+              "source_hash": "d4e5ebd0e1bc1385d9be0fa9485fb572"
+            },
+            {
+              "url": "",
+              "title": "Enovix's SWOT analysis: battery maker's stock poised for growth amid ...",
+              "snippet": "Safety enhancements: Advanced battery technology often comes with improved safety features. If Enovix can demonstrate superior safety characteristics, it could become a preferred choice for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905844+00:00",
+              "published_date": null,
+              "source_hash": "e54e29cc12f7058380c0117b2d26dbe4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Enovix is the leader in advanced 100% active silicon-anode lithium-ion battery development and production. The company's proprietary 3D cell architecture increases energy density, maintains high cycle life, and enables advanced cell-level safety features. Enovix has built an advanced silicon-anode",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905858+00:00",
+              "published_date": null,
+              "source_hash": "d42942536985b2528ecf7e00384dca58"
+            },
+            {
+              "url": "",
+              "title": "The Electric Flash Analysis: Enovix Claims Safety and Energy Density ...",
+              "snippet": "Enovix, a Fremont, Calif., battery company, claimed this week that its silicon anode can outdo rival pure lithium-metal technology, which has gained favor among major automakers searching for the next generation of batteries to power electric vehicles. The company's chief technology officer, Ashok Lahiri, said Enovix's silicon-based battery achieves energy density of 900 watt-hours per ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905869+00:00",
+              "published_date": null,
+              "source_hash": "3fb8c1d45cf17ed18ed9f7c65138c038"
+            },
+            {
+              "url": "",
+              "title": "Enovix BrakeFlow\u2122 Technology",
+              "snippet": "It wasn't enough to reimagine the lithium-ion battery, we've also introduced a whole new level of safety. Here's How It Works. 01. Enovix 3D cell architecture enables multiple parallel cell-to-busbar connections. 02. This uniquely enables BrakeFlow (shown in green) - which includes a resistor with a set value - at the busbar junction ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905880+00:00",
+              "published_date": null,
+              "source_hash": "8bd77bc8508fcad9a78afa9d0b4966fc"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Enovix has not independently verified the data obtained from these sources and cannot assure you of the data's accuracy or completeness. This data is subject to change. In addition, this Presentation does not purport to be all-inclusive or to contain all of the information that may be required to make a full analysis of Enovix.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905897+00:00",
+              "published_date": null,
+              "source_hash": "c0221a8617e99cd049233ae08725a183"
+            },
+            {
+              "url": "",
+              "title": "Enovix Ships first EX-2M Samples to Mobile Phone Customers | Enovix",
+              "snippet": "Every electronic appliance - for IoT, mobile, and computing - needs a better battery. Enovix is partnering with OEMs worldwide to usher in a new era of user experiences. Our innovative, materials-agnostic battery architecture creates higher-performing batteries without compromising safety and keeps us on the cutting-edge.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905908+00:00",
+              "published_date": null,
+              "source_hash": "7cbf1e603f14cfb66600023b48a1b791"
+            },
+            {
+              "url": "",
+              "title": "Enovix to Speak at The Electrochemical Society Meeting & The Battery ...",
+              "snippet": "His presentation titled, \"Enovix 100% Active Silicon Anode Battery,\" will describe the company's novel 3D cell architecture, which enables the use of a 100% active silicon anode without ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905919+00:00",
+              "published_date": null,
+              "source_hash": "8e233521b16295ad276fa03735c5ba8c"
+            },
+            {
+              "url": "",
+              "title": "Five injured, one critical, following electrical explosion in West ...",
+              "snippet": "Five people were injured, with one being transported in critical condition, following an electrical explosion in West Valley City Saturday morning.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905928+00:00",
+              "published_date": null,
+              "source_hash": "354935627e28424a87a413da12ae29e5"
+            },
+            {
+              "url": "",
+              "title": "Worker recounts experience being injured in electrical explosion in ...",
+              "snippet": "Five people were injured, with one being transported in critical condition, following an electrical explosion in West Valley City Saturday morning.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:27.905938+00:00",
+              "published_date": null,
+              "source_hash": "936b9f8dd5e440b0c07272d6af5ff9b6"
+            },
+            {
+              "url": "",
+              "title": "Spotlight on Enovix: Analyzing the Surge in Options Activity",
+              "snippet": "Delving into the details, we found 29% of traders were bullish, while 52% showed bearish tendencies. Out of all the trades we spotted, 4 were puts, with a value of $190,289, and 13 were calls, valued at $439,740.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:30.240934+00:00",
+              "published_date": "2025-01-02T18:00:00+00:00",
+              "source_hash": "c63247700417d2a3ae65b5924a1d1c70"
+            },
+            {
+              "url": "",
+              "title": "Enovix's SWOT analysis: battery maker's stock poised for growth amid challenges",
+              "snippet": "EVs equipped with Enovix batteries might offer longer driving ranges, making them more appealing to consumers. 3. Safety enhancements: Advanced battery technology often comes with improved safety ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:30.241059+00:00",
+              "published_date": "2024-12-16T15:27:00+00:00",
+              "source_hash": "dac628ae77538471e7dc5dfa2f519278"
+            },
+            {
+              "url": "",
+              "title": "Enovix Corporation Shares Are Up Today: What's Going On?",
+              "snippet": "Shares of Enovix Corporation (NASDAQ: ENVX) are trading higher Friday. The company reported it has shipped its first samples of the second-generation EX-2M battery to mobile phone customers. Here's what you need to know.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:30.241083+00:00",
+              "published_date": "2024-12-20T19:40:00+00:00",
+              "source_hash": "49e0e82d7ea2036f877ec7885699ce14"
+            },
+            {
+              "url": "",
+              "title": "Enovix Corporation Achieves Key Milestone with Shipment of Second-Generation EX-2M Battery Samples and First Mobile Phone Purchase Order",
+              "snippet": "Our innovative, materials-agnostic battery architecture creates higher-performing batteries without compromising safety and keeps us on the cutting-edge. Enovix is headquartered in Silicon Valley ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Enovix Enovix battery safety incidents",
+              "retrieved_at": "2025-01-06T14:19:30.241106+00:00",
+              "published_date": "2024-12-20T13:43:00+00:00",
+              "source_hash": "4bcc1efcb3e332b2f07b937b5fd1e4dd"
+            },
+            {
+              "url": "",
+              "title": " A Strategy for U.S. Leadership in Advanced Lithium-ion Battery ... - Enovix",
+              "snippet": "and coupling R&D and production in the same facility is extremely high for process-driven advanced battery innovation. The facility also will serve as validation for the Enovix 'drop-in' production process. Phase two of the Enovix strategy is to scale production of its 3D Silicon Lithium-ion Battery for portable electronic device applications.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939056+00:00",
+              "published_date": null,
+              "source_hash": "16ed216496498b387a45dbee46e95e23"
+            },
+            {
+              "url": "",
+              "title": "Enovix Announces Fab2 Manufacturing Milestones | Enovix",
+              "snippet": "Enovix patented manufacturing process uses dozens of machines to produce battery cells with a unique architecture that enables the use of a 100% active silicon anode for higher energy density. ... and close proximity to our customers' manufacturing facilities, and our equipment and materials vendors, support of the company's growth and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939089+00:00",
+              "published_date": null,
+              "source_hash": "5c17a02040c0c9f34cafe71d6ad6791b"
+            },
+            {
+              "url": "",
+              "title": "Bringing Operational Excellence to Enovix | by Enovix | Medium",
+              "snippet": "In 1988, I was running high-volume manufacturing for AMD's 80286 microprocessor. It was fast-paced and exhilarating. We were successfully producing millions of chips per year. Manufacturing in high volume is complex and requires systems working in concert with continued learning and improvements along the way.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939099+00:00",
+              "published_date": null,
+              "source_hash": "49b8d075e3ccf9ee2691ca44c2522749"
+            },
+            {
+              "url": "",
+              "title": "Enovix Announces Strategic Realignment of Fab1 to Improve Operational ...",
+              "snippet": "Shifting Fab1's focus will result in a reduction of the workforce in Fremont that had been dedicated to supporting 24/7 manufacturing by approximately 185 personnel, including over 125 contractors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939106+00:00",
+              "published_date": null,
+              "source_hash": "e3fb7f32226f9767ba382ba9a7001b40"
+            },
+            {
+              "url": "",
+              "title": "Our Path to High Volume Manufacturing | by Enovix - Medium",
+              "snippet": "Defining our Manufacturing Lines. We are building two types of \"Agility\" lines and one High Volume Manufacturing line currently. The Agility Line in Fab1 (also called the Agility R&D Line), located at our headquarters in Fremont, will handle New Technology Programs (NTPs), New Materials Development and R&D for EV batteries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939112+00:00",
+              "published_date": null,
+              "source_hash": "794d33806e15920dc063e7c98d9bc055"
+            },
+            {
+              "url": "",
+              "title": "Enovix Announces Strategic Realignment of Fab1 to Improve - GlobeNewswire",
+              "snippet": "Enovix is scaling its silicon-anode, lithium-ion battery manufacturing capabilities to meet customer demand. For more information visit www.enovix.com and follow us on LinkedIn. Forward-Looking ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939118+00:00",
+              "published_date": null,
+              "source_hash": "6a0270099553e23805203b00927a555c"
+            },
+            {
+              "url": "",
+              "title": "Enovix Announces Fab2 Manufacturing Milestones - Yahoo Finance",
+              "snippet": "Enovix patented manufacturing process uses dozens of machines to produce battery cells with a unique architecture that enables the use of a 100% active silicon anode for higher energy density.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939124+00:00",
+              "published_date": null,
+              "source_hash": "1088eee7f39815a1260d85f06118eaf1"
+            },
+            {
+              "url": "",
+              "title": "This U.S. Manufacturing Day, a Glimpse of the Future",
+              "snippet": "Enovix team members celebrating the first cells off the line in our Fremont, CA facility. For us at Enovix, this year's U.S. Manufacturing Day \u2014 held the first Friday each October and falling on October 7th this year \u2014 is an opportunity to pause and take stock of how far we have come as a next-generation battery manufacturer since becoming a public company in July 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939129+00:00",
+              "published_date": null,
+              "source_hash": "2fed57a69d788501a0d75eeddcc2004d"
+            },
+            {
+              "url": "",
+              "title": "Enovix Continues Momentum, Achieves Key Manufacturing Facility ...",
+              "snippet": "Product Catalog. Product Catalog Custom Batteries Certifications Testing Considerations Routejade Batteries. Terms of Use",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939138+00:00",
+              "published_date": null,
+              "source_hash": "f6d0481a0b46de5bbded9f0a0db919c6"
+            },
+            {
+              "url": "",
+              "title": "Enovix: Executing On Commercialization And Manufacturing Milestones ...",
+              "snippet": "Enovix is executing on commercialization and manufacturing milestones that are crucial for growth in battery technology. As new partnerships emerge, the company's advancements position it for success in the automotive market. Explore how Enovix is reshaping industry standards. Enovix's Path to Success in Battery Technology and Automotive Markets",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:31.939143+00:00",
+              "published_date": null,
+              "source_hash": "14745c474c2749685de0311dfe9a9f64"
+            },
+            {
+              "url": "",
+              "title": "Enovix Ships first EX-2M Samples to Mobile Phone Customers",
+              "snippet": "Enovix Corporation (\"Enovix\") (Nasdaq: ENVX), a Silicon Valley high-performance battery manufacturing company, today announced the major milestone of shipping second-generation EX-2M samples ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:34.255086+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "454821ee808d5831ae65fee60d178f83"
+            },
+            {
+              "url": "",
+              "title": "Enovix Appoints Kristina Truong as Chief Accounting Officer",
+              "snippet": "Enovix CEO Raj Talluri commented, \"With Enovix poised for significant growth in 2025 and beyond, and operating in five international geographies, we decided now is the right time to add the role of Chief Accounting Officer to our executive team.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:34.255163+00:00",
+              "published_date": "2024-12-30T14:30:00+00:00",
+              "source_hash": "555fadda650c3f7e0cf2e1f895f36f2f"
+            },
+            {
+              "url": "",
+              "title": "Enovix Stock Is Tumbling Today: What's Driving The Action?",
+              "snippet": "Enovix announces that CFO Farhan Ahmad has left the company, and notes it's currently searching for a new CFO. Enovix is looking for a replacement \"with an outstanding record at investor relations ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:34.255180+00:00",
+              "published_date": "2024-12-16T11:35:00+00:00",
+              "source_hash": "833fd5f137dda3dc71b524cc9f3ec356"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With Enovix Stock Thursday?",
+              "snippet": "Enovix expects to use the net proceeds from the offering to achieve high-volume manufacturing at its \"Fab2\" production facility in Malaysia, as well as for general corporate purposes.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:34.255191+00:00",
+              "published_date": "2024-11-01T11:57:00+00:00",
+              "source_hash": "cb51ff8260f7fbffbd94abe29d0ebeb3"
+            },
+            {
+              "url": "",
+              "title": "Enovix Corporation Appoints Kristina Truong as Senior Vice President and Chief Accounting Officer",
+              "snippet": "Dec. 30, 2024 (GLOBE NEWSWIRE) -- Enovix Corporation (\"Enovix\") (Nasdaq: ENVX), a Silicon Valley high-performance battery manufacturing ... in Silicon Valley with facilities in India, Korea ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Enovix Enovix labor practices in manufacturing facilities",
+              "retrieved_at": "2025-01-06T14:19:34.255201+00:00",
+              "published_date": "2024-12-30T13:41:00+00:00",
+              "source_hash": "59fd18fc37c3a7aade92b7f2d0abd408"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Enovix supply chain disruptions legal risks",
+              "rationale": "Investigate potential legal and financial impacts of supply chain vulnerabilities",
+              "priority": 1
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Enovix battery safety incidents",
+              "rationale": "Assess safety concerns related to Enovix's battery technology",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Enovix labor practices in manufacturing facilities",
+              "rationale": "Examine ethical concerns regarding labor conditions in Enovix's production sites",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:19:53.780819",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

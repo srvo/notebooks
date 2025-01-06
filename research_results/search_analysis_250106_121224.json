@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:12:24.511859",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Elastic NV",
+      "symbol": "ESTC",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "License change backlash impacting developer and enterprise trust",
+            "Intense competition from cloud providers like AWS, Azure, and GCP",
+            "Revenue concentration from a small number of large customers",
+            "Market saturation in search, analytics, and observability sectors"
+          ],
+          "controversies": [
+            "Transition from open-source to proprietary licenses causing community backlash",
+            "Competition with AWS's OpenSearch due to the license change"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical concerns over the shift away from open-source principles"
+          ],
+          "governance_issues": [
+            "Potential reputational damage from the license change controversy"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Amazon: NOT OK - why we had to change Elastic licensing",
+              "snippet": "We recently announced a license change: Blog, FAQ. We posted some additional guidance on the license change this morning. I wanted to share why we had to make this change. This was an incredibly hard decision, especially with my background and history around Open Source. I take our responsibility very seriously.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611398+00:00",
+              "published_date": null,
+              "source_hash": "2901947c36ad7c51703282f7edffd513"
+            },
+            {
+              "url": "",
+              "title": "Elastic founder on returning to open source four years after going ...",
+              "snippet": "Moving forward, Elastic says that it's hoping to work with the OSI toward creating a new license, or at least having a discussion about which licenses do and don't get to be classed as open source.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611478+00:00",
+              "published_date": null,
+              "source_hash": "f7382d51e97122cf4b1ba2943ee694bb"
+            },
+            {
+              "url": "",
+              "title": "Elastic Search and Open Search: a brief history of the license war",
+              "snippet": "2014: Elastic Search was released under the Apache License, Version 2.0, which is a permissive open-source license. 2018: Elastic NV, the company behind Elastic Search, introduced the Elastic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611493+00:00",
+              "published_date": null,
+              "source_hash": "be4587256f928b21858f1857dc85f275"
+            },
+            {
+              "url": "",
+              "title": "Elasticsearch does not belong to Elastic : r/programming - Reddit",
+              "snippet": "The problem is the project was built by a lot of contributors working for free on what was an open source project which many fairly assumed would remain open source. Elastic has exploited a somewhat common good faith agreement, nominally designed to allow changes from one open source license to another in a reasonable way, to change to a non ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611504+00:00",
+              "published_date": null,
+              "source_hash": "1fea3cc0559a87995862f1da63ab2e13"
+            },
+            {
+              "url": "",
+              "title": "Elastic founder on why they returned to open source 4 years after going ...",
+              "snippet": "Elastic, the company behind Elasticsearch, has reverted to open source nearly four years after adopting proprietary licenses. This decision follows a trademark dispute with AWS, which had marketed its own version of Elasticsearch. Co-founder Shay Banon expressed that the legal battles were consuming resources and causing market confusion. Elastic has now adopted the AGPL license, which imposes ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611514+00:00",
+              "published_date": null,
+              "source_hash": "b9314049bca7168551d4c49392072d2f"
+            },
+            {
+              "url": "",
+              "title": "Two Ways of Interpreting the Elastic License Change - ITPro Today",
+              "snippet": "The Elastic license change is terrible for open source. One is to view this as a major retreat by Elastic--and, by extension, the open source community in general--in the face of the cloud. Open source has long had a strained relationship with the cloud due to the fundamental design of cloud services.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611526+00:00",
+              "published_date": null,
+              "source_hash": "c76d5ec9a235e7915e7586803170b1af"
+            },
+            {
+              "url": "",
+              "title": "Can Elastic regain the trust of the open source community - IT PRO",
+              "snippet": "Why Elastic's decision is important. Speaking to ITPro, Amanda Brock, CEO at OpenUK, welcomed the announcement, noting a there have been a number of license changes away from open source in the previous month, \"Ending August, a month that has become associated with license changes away from open source, by welcoming Elastic back to the fold is great news.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611536+00:00",
+              "published_date": null,
+              "source_hash": "98e78ffe119edf0858dc2b25d00a9ad1"
+            },
+            {
+              "url": "",
+              "title": "Fall 2024 Software Licensing Roundup - FOSSA",
+              "snippet": "In the software development landscape, licensing continues to play a pivotal role in shaping how technology is shared, built, and maintained. In this roundup, we'll explore some of the most significant licensing stories of fall 2024, including Elastic's return to open source, the new fair source licensing model, and the controversy surrounding PearAI.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611547+00:00",
+              "published_date": null,
+              "source_hash": "6c2ee9a70342537e9974ed9041e373a0"
+            },
+            {
+              "url": "",
+              "title": "Elasticsearch reappears as open -source software - heise online",
+              "snippet": "The sticking point: although Elastic insisted at the time that the source code was still openly available under the SSPL, the license is not open-source software as defined by the OSI.However, the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611557+00:00",
+              "published_date": null,
+              "source_hash": "8e2c956857e62afc651c600483b00388"
+            },
+            {
+              "url": "",
+              "title": "AWS Open-Source Brouhaha About Elasticsearch Takes Another Turn",
+              "snippet": "Elastic fired back, claiming, \"Our brand has been used and abused, hijacked, and misrepresented many times.Companies have falsely claimed that they work in collaboration with our company, topically Amazon.\" So AWS launched Open Distro for Elasticsearch, which led the way to OpenSearch, announced in April 2021 as an open-source alternative (Apache 2.0 license) after development on the open ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV open-source license controversy",
+              "retrieved_at": "2025-01-06T19:11:56.611566+00:00",
+              "published_date": null,
+              "source_hash": "a11b242d360d56989049b3612f30881d"
+            },
+            {
+              "url": "",
+              "title": "Elastic Reports Strong Fourth Quarter and Fiscal 2022 Financial Results",
+              "snippet": "Elastic Cloud revenue was $87.7 million, an increase of 71% year-over-year, or 72% on a constant currency basis ... Additional risks and uncertainties that could cause actual outcomes and results to differ materially are included in our filings with the Securities and Exchange Commission (the \"SEC\"), including our Annual Report on Form 10-K ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644450+00:00",
+              "published_date": null,
+              "source_hash": "827410e9162705a7206ddb087e9d96d6"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V. Reports Strong First Quarter Fiscal 2020 Financial Results",
+              "snippet": "Additional risks and uncertainties that could cause actual outcomes and results to differ materially from those contemplated by the forward-looking statements are included under the caption \"Risk Factors\" and elsewhere in our most recent filings with the Securities and Exchange Commission (the \"SEC\"), including our Annual Report on Form ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644565+00:00",
+              "published_date": null,
+              "source_hash": "d7abf64695f219be7428a3a123c1eb8f"
+            },
+            {
+              "url": "",
+              "title": "Decoding Elastic NV (ESTC): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On December 1, 2023, Elastic NV , a leading software company specializing in enterprise search, observability, and security, filed its 10-Q report, revealing a mix of financial challenges and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537720+00:00",
+              "published_date": null,
+              "source_hash": "d740327d2b18c167dfcc53fb6db29cc9"
+            },
+            {
+              "url": "",
+              "title": "Elastic Reports Fourth Quarter and Fiscal 2024 Financial Results",
+              "snippet": "Q4 Revenue of $335 million, up 20% year-over-year (20% in constant currency) Q4 Elastic Cloud Revenue of $148 million, up 32% year-over-year (32% in constant currency) FY24 Revenue of $1.267 billion, up 19% year-over-year (18% in constant currency) Elastic (NYSE: ESTC) (\"Elastic\"), the Search AI Company, announced financial results for its fourth quarter and full fiscal year ended April 30 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644595+00:00",
+              "published_date": null,
+              "source_hash": "9273032cbad667d9ea5a2ac27a66153d"
+            },
+            {
+              "url": "",
+              "title": "Elastic - Elastic N.V. Reports Strong Third Quarter Fiscal 2021 ...",
+              "snippet": "Q3 Revenue of $157.1 million, Up 39% year-over-year Q3 SaaS Revenue of $44.9 million, Up 79% year-over-year. MOUNTAIN VIEW, Calif.--(BUSINESS WIRE)-- Elastic (NYSE: ESTC) (\"Elas",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644607+00:00",
+              "published_date": null,
+              "source_hash": "84ee525a04f3af571a936a1043f3fe7e"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V. - AnnualReports.com",
+              "snippet": "Elastic (NYSE: ESTC) is a search company. As the creators of the Elastic Stack (Elasticsearch, Kibana, Beats, and Logstash), Elastic builds self-managed and SaaS offerings that make data usable in real time and at scale for use cases like application search, site search, enterprise search, logging, APM, metrics, security, business analytics, and many more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644617+00:00",
+              "published_date": null,
+              "source_hash": "92743da6a874cb055a054671f8483582"
+            },
+            {
+              "url": "",
+              "title": "Decoding Elastic NV (ESTC): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On June 14, 2024, Elastic NV , a leader in search-adjacent software solutions, filed its 10-K report, revealing a year of significant financial milestones and strategic advancements. The company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537762+00:00",
+              "published_date": null,
+              "source_hash": "bbc8216b6b8ffe41d719ade702174a6b"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V. (ESTC) Statistics & Valuation Metrics - Stock Analysis",
+              "snippet": "Detailed statistics for Elastic N.V. (ESTC) stock, including valuation metrics, financial numbers, share information and more. ... In the last 12 months, Elastic had revenue of $1.38 billion and earned $60.35 million in profits. Earnings per share was $0.57. Revenue: 1.38B: Gross Profit : 1.02B: Operating Income -104.95M:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644638+00:00",
+              "published_date": null,
+              "source_hash": "da190a8544431fde9d50a81991bff9fd"
+            },
+            {
+              "url": "",
+              "title": "Elastic - Elastic N.V. Reports Strong Fourth Quarter and Fiscal 2020 ...",
+              "snippet": "Q4 Revenue of $123.6 million, Up 53% year-over-year (57% in constant currency) Q4 SaaS Revenue of $29.0 million, Up 110% year-over-year (120% in constant currency) FY20 Revenue of $427.6 million, Up 57% year-over-year (60% in constant currency) Elastic N.V. (NYSE: ESTC) (Elastic), the company behind Elasticsearch and the Elastic Stack, announced strong results for its fourth quarter and full ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644648+00:00",
+              "published_date": null,
+              "source_hash": "cd634606daea4005e122b1ac9f72de25"
+            },
+            {
+              "url": "",
+              "title": "Elastic Reports Strong Fourth Quarter and Fiscal 2021 Financial Results",
+              "snippet": "Additional risks and uncertainties that could cause actual outcomes and results to differ materially are included in our filings with the Securities and Exchange Commission (the \"SEC\"), including our Annual Report on Form 10-K for the fiscal year ended April 30, 2020 and any subsequent reports filed with the SEC. ... Elastic N.V. REVENUE BY ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:00.644659+00:00",
+              "published_date": null,
+              "source_hash": "7da054ad54306879d3cf4c91f309911f"
+            },
+            {
+              "url": "",
+              "title": "Elastic NV (NYSE:ESTC): A Hibernating Stock with Tremendous Potential",
+              "snippet": "We came across a bullish thesis on Elastic NV (NYSE:ESTC) on ValueInvestorsClub by cuyler1903. In this article, we will summarize the bulls' thesis on ESTC. The company's shares were trading at $104.96 when this thesis was published,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:08.428631+00:00",
+              "published_date": "2025-01-06T14:44:00+00:00",
+              "source_hash": "0af5d69c930ff0d838157a4982ce1819"
+            },
+            {
+              "url": "",
+              "title": "Elastic's Revenue Growth Amid Execution Challenges and Market Uncertainties: A Hold Rating Perspective",
+              "snippet": "Despite Elastic's impressive revenue and earnings growth in the second ... Elastic (ESTC) Company Description: Elastic NV engages in the provision of open source search and analytics engine ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:02.955500+00:00",
+              "published_date": "2024-11-22T07:56:00+00:00",
+              "source_hash": "71f7fc7fd88715f64f8d4513686488ed"
+            },
+            {
+              "url": "",
+              "title": "Elastic NV Stock Surges Ahead of Q2 Earnings: Retail Sentiment Jumps",
+              "snippet": "Shares of Elastic N.V. ($ESTC) were up nearly 5.2% on Thursday morning ahead of the data analytics provider's second-quarter earnings release, lifting retail ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:02.955530+00:00",
+              "published_date": "2024-11-21T16:34:00+00:00",
+              "source_hash": "378abff63cf10a92d41169a3cc0761ee"
+            },
+            {
+              "url": "",
+              "title": "Elastic's Expected Growth and Recovery: A Buy Rating Amidst Go-to-Market Improvements and ESRE Demand",
+              "snippet": "Moreover, Radke anticipates a slight increase in revenue estimates and ... Begin your TipRanks Premium journey today. Elastic (ESTC) Company Description: Elastic NV engages in the provision ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:02.955555+00:00",
+              "published_date": "2024-11-19T12:35:00+00:00",
+              "source_hash": "8a1c08e2fc09e6410caae11005bf258f"
+            },
+            {
+              "url": "",
+              "title": "Mixed Results And Lowered Revenue Outlook Dragged Elastic N.V. (ESTC) in Q3",
+              "snippet": "Elastic N.V. (NYSE:ESTC) is a data analytics supplier. Its shares dropped -33% for the month after they reported mixed fiscal first quarter results and lowered their revenue outlook due to lower ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Elastic NV Elastic NV revenue concentration risks",
+              "retrieved_at": "2025-01-06T19:12:02.955577+00:00",
+              "published_date": "2024-12-09T08:52:00+00:00",
+              "source_hash": "f5f039ac1ad6ae16587c3121c1c40244"
+            },
+            {
+              "url": "",
+              "title": "Elastic N V Comparisons to its Competitors and Market Share - CSIMarket",
+              "snippet": "News about Elastic N v Contracts: Elastic Listed in AWS ICMP for the US Federal Government September 27, 2024 Elastic Innovations: Strengthening Government Services, Data Authenticity, and Log Analytics with AI Power SAN FRANCISCO In a series of groundbreaking announcements, Elastic (NYSE: ESTC), the Search AI Company, has cemented its position as a leader in the artificial intelligence and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537439+00:00",
+              "published_date": null,
+              "source_hash": "64851482f39d7a2c1a3748f5c7b27e79"
+            },
+            {
+              "url": "",
+              "title": "Top Elastic Competitors and Alternatives | Craft.co",
+              "snippet": "Elastic's main competitors include Datadog, Sumo Logic, Lucidworks, Splunk and Algolia. Compare Elastic to its competitors by revenue, employee growth and other metrics at Craft. ... Datadog is a provider of cloud-scale monitoring and security solutions. View company. Sumo Logic. HQ. Redwood City, US. Employees. 983 \u2191 4% increase.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537634+00:00",
+              "published_date": null,
+              "source_hash": "855d445e0ad0697c552f379c5c0cf1fc"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V.: Competitive Advantages And Reasonable Valuations",
+              "snippet": "Within subscriptions, revenue from Elastic Cloud was again strong at $87.7 million, growing 71% year-over-year or 72% in constant currency. Elastic Cloud revenue grew 9% on a sequential basis ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537733+00:00",
+              "published_date": null,
+              "source_hash": "aadfb4c9a6b0cf428a60a1ac222a9ff7"
+            },
+            {
+              "url": "",
+              "title": "Decoding Elastic NV (ESTC): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "Strategic Cloud Focus: Elastic Cloud has become an increasingly significant part of Elastic NV's business, contributing 43% of total revenue for the nine months ended January 31, 2024. This ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537743+00:00",
+              "published_date": null,
+              "source_hash": "4b6283764ab2f0e774c2483b400c237d"
+            },
+            {
+              "url": "",
+              "title": "Elastic's Cloud Growth Challenges and Competitive Pressures Justify ...",
+              "snippet": "Elastic (ESTC) Company Description: Elastic NV engages in the provision of open source search and analytics engine services. It offers Elastic Stack, which is a set of software products that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537752+00:00",
+              "published_date": null,
+              "source_hash": "f97dec0b9d20b67f71da3a9ae7da5571"
+            },
+            {
+              "url": "",
+              "title": "Elastic Shows Robust Growth on the Back of GenAI & Cloud Expansion - Forbes",
+              "snippet": "Elastic's 17% year-over-year increase in total revenue is impressive and reflects the increasing market demand for Elastic's offerings. Elastic Cloud's exceptional 31% growth is especially ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537771+00:00",
+              "published_date": null,
+              "source_hash": "479edaefd7a1993fcd20c268bb30e6c3"
+            },
+            {
+              "url": "",
+              "title": "Elastic: The Future Is Built On Search (NYSE:ESTC)",
+              "snippet": "The bear case encompasses the risks I listed previously, namely that Elastic loses to best-of-breed solutions and cloud providers like Amazon step up their offerings, resulting in continued losses ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537780+00:00",
+              "published_date": null,
+              "source_hash": "66bb88c808df7cc386bf4e7df105e1c9"
+            },
+            {
+              "url": "",
+              "title": "Elastic NV Stock: Underrated Play On Bottom-Up Software - Seeking Alpha",
+              "snippet": "Elastic Cloud Revenue grew 89% YoY in Q1 and contributed roughly 30% of total revenues. It will continue outpacing the rest of the non-SaaS business as clients both old and new make the transition ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:04.537789+00:00",
+              "published_date": null,
+              "source_hash": "c36b020c97cfb7726f60342eb23b207b"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V. (ESTC) Expands AWS Partnership to Enhance Observability for Generative AI with Amazon Bedrock",
+              "snippet": "In this article, we are going to take a look at where Elastic N.V. (NYSE:ESTC) stands against the other buzzing AI stocks. Power needs for artificial intelligence and cloud computing are expanding ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:08.428727+00:00",
+              "published_date": "2024-11-28T15:29:00+00:00",
+              "source_hash": "872cf3c17c1bc758ff579fbfcba76669"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V. (ESTC) Launches AI-Powered Cloud Serverless for Enhanced Search and Security",
+              "snippet": "Elastic N.V. (NYSE:ESTC) is a search AI company offering cloud-based solutions that enable users to bring in all kinds of unstructured data and make it searchable. On December 2 nd, the company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:08.428759+00:00",
+              "published_date": "2024-12-03T19:17:00+00:00",
+              "source_hash": "2e8ace14f55379d2d320ad79b2a74f06"
+            },
+            {
+              "url": "",
+              "title": "Elastic N.V. (ESTC) Launches Industry-First Integrated Cloud Detection and Response Capabilities in AI-Driven Security Platform",
+              "snippet": "Elastic N.V. (NYSE:ESTC) is a search AI company offering cloud-based solutions. On December 3, the company announced new capabilities on Elastic Security, designed to help organizations detect ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:08.428784+00:00",
+              "published_date": "2024-12-05T14:01:00+00:00",
+              "source_hash": "ffce45cad9f641d605833dd5343e6529"
+            },
+            {
+              "url": "",
+              "title": "Is Elastic N.V. (ESTC) the Best Predictive Analytics Stock to Invest in Now?",
+              "snippet": "In this article, we are going to take a look at where Elastic N.V. (NYSE ... representing an increase of 18% year-over-year. Of this cloud revenue was $157 million, an increase of 30% from the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Elastic NV Elastic NV competition with cloud providers",
+              "retrieved_at": "2025-01-06T19:12:08.428809+00:00",
+              "published_date": "2024-11-18T09:09:00+00:00",
+              "source_hash": "eab579b95e5c09b8f35f3e58ccf8c207"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "Elastic NV open-source license controversy",
+              "rationale": "Investigate the impact of Elastic's license change on its relationship with the open-source community and potential backlash",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Elastic NV revenue concentration risks",
+              "rationale": "Assess the risks associated with Elastic's reliance on a small number of large customers for a significant portion of its revenue",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Elastic NV competition with cloud providers",
+              "rationale": "Explore the competitive challenges posed by cloud providers like AWS and Microsoft, and their impact on Elastic's market position",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:12:24.511866",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

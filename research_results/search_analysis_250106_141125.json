@@ -1,0 +1,556 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:11:25.237451",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Docusign Inc",
+      "symbol": "DOCU",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Competitive pressures from established and emerging players",
+            "Economic sensitivity tied to digital transformation spending",
+            "Data security and compliance risks, including past breaches",
+            "Stock volatility due to slowing growth and macroeconomic headwinds",
+            "Leadership changes and workforce reductions impacting morale and efficiency"
+          ],
+          "controversies": [
+            "Data breaches, including a 2024 phishing campaign and prior email compromise",
+            "CEO stock sale raising questions about insider confidence",
+            "Multiple rounds of layoffs (10% in 2022 and 6% in 2024)"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Workforce reductions raising concerns about employee welfare",
+            "Data breaches impacting customer trust and brand reputation"
+          ],
+          "governance_issues": [
+            "Leadership changes and restructuring efforts",
+            "Regulatory compliance costs and risks in regulated industries"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "DocuSign Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "DocuSign\u201a\u00c4\u00f4s features include authentication services, user identity management and workflow automation. UpGuard continuously monitors the security posture of DocuSign using open-source, commercial, and proprietary threat intelligence feeds. Our analysis is centered on objective, externally verifiable information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379676+00:00",
+              "published_date": null,
+              "source_hash": "6660f22631d265c203eaaedcd5435b95"
+            },
+            {
+              "url": "",
+              "title": "DocuSign update on MOAB",
+              "snippet": "In January 2024, researchers from Security Discovery and CyberNews discovered the Mother of all Breaches (MOAB). DocuSign has observed no indicators of compromise in the environment or to customers. DocuSign will continue to monitor and assess alerts and notifications for potential impact.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379785+00:00",
+              "published_date": null,
+              "source_hash": "f14efd74d12974c5c874d11c6883fbda"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Admits Data Breach That Led to Recent Spam Campaigns",
+              "snippet": "Today, DocuSign \u2014 a provider of e-signature technology \u2014 acknowledged a data breach incident following which a third-party managed to gain access to the email addresses of its customers, data ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379801+00:00",
+              "published_date": null,
+              "source_hash": "c39877c34c87bc90051f781f877bc323"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Exploit Lets Hackers Send Fake Invoices - Forbes",
+              "snippet": "DocuSign, Inc. is an American company providing document management services. getty. In a recent cyber threat development discovered by the Wallarm security firm, attackers are exploiting DocuSign ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379813+00:00",
+              "published_date": null,
+              "source_hash": "201d19243512b381c33c3f953fc6662f"
+            },
+            {
+              "url": "",
+              "title": "Data Stolen in DocuSign Breach Used for Email Attacks",
+              "snippet": "On Monday, DocuSign admitted that the spike in malicious emails was the result of a security breach. According to the company, hackers breached a \"non-core system\" designed for sending service-related email announcements to users.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379823+00:00",
+              "published_date": null,
+              "source_hash": "bfc66864d9f19848ada413ccebd3b320"
+            },
+            {
+              "url": "",
+              "title": "DocuSign data breach: customer emails stolen in phishing attack",
+              "snippet": "The company has confirmed the data breach after tracking the phishing campaign on May 9. In a statement, the company said: \"Last week and again this morning, DocuSign detected an increase in phishing emails sent to some of our customers and users - and we posted alerts here on the DocuSign Trust Site and in social media. The emails ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379833+00:00",
+              "published_date": null,
+              "source_hash": "9446d3102a719d4b216166438d1b4f92"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Brand Impersonation Attack Bypasses Security Measures, Targets ...",
+              "snippet": "A DocuSign brand impersonation attack has been observed bypassing native cloud and inline email security solutions and targeting over 10,000 end users across multiple organizations. ... Learn Key Strategies for Industrial Data Security. Webinar 27 Jun 2024. 4. New Cyber Regulations: What it Means for UK and EU Businesses. Webinar 10 Oct 2024. 5.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379844+00:00",
+              "published_date": null,
+              "source_hash": "f177db52e08ed941b4111cf5735c9559"
+            },
+            {
+              "url": "",
+              "title": "API Abuse: Insights from the DocuSign Incident and Security Measures",
+              "snippet": "Lessons in API Security: DocuSign's API Abuse. API abuse is on the rise, with incidents increasing by 35% in two years. A recent DocuSign API attack highlights how cybercriminals exploit APIs to deceive users, risking data breaches and financial losses. Robust API security measures are critical to safeguarding companies and maintaining trust.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379855+00:00",
+              "published_date": null,
+              "source_hash": "125bf6b1ea3b04bfd55fae52b6d68e9b"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Confirms Hack And The Stolen Data Could Put You At Risk - Forbes",
+              "snippet": "DocuSign noted that no names, addresses, social security numbers, or payment data was accessed. So what did the attackers get their hands on? Email addresses -- possibly more than 100 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379864+00:00",
+              "published_date": null,
+              "source_hash": "e1cb64beb42e6dbac6983af81bca19b6"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Compare DocuSign's security performance with other companies. Learn about data breaches, cyber attacks, and security incidents involving DocuSign. Join our upcoming webinar: Bridging HIPAA Compliance and Third-Party Risk Management. Register. Shape your 2025 cyber GRC strategy with a complimentary Gartner report.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:55.379873+00:00",
+              "published_date": null,
+              "source_hash": "26edc4ed6ea6b79168c91fe921047172"
+            },
+            {
+              "url": "",
+              "title": "E-Signature Leadership Is Not Enough to Drive an Economic Moat for Docusign",
+              "snippet": "From an environmental, social and governance perspective, data breaches and service outages are a concern for any type of cloud software provider. Docusign has personal information, including ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:58.522589+00:00",
+              "published_date": "2024-12-06T00:01:00+00:00",
+              "source_hash": "f2008f14785ed1fdc66769a87acbced2"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Stock Jumps On Strong Q3, Analysts Await Proof Of Sustained Growth",
+              "snippet": "DocuSign, Inc DOCU stock climbed after the company reported better-than-expected third-quarter financial results and issued fourth-quarter and fiscal 2025 revenue guidance above estimates.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:03.543221+00:00",
+              "published_date": "2024-12-06T14:54:00+00:00",
+              "source_hash": "ed7184bde4748f48344d7500dded4f6a"
+            },
+            {
+              "url": "",
+              "title": "Major DocuSign Phishing Campaign Targets Corporate Credentials Across US and Europe",
+              "snippet": "A sophisticated phishing campaign targeting corporate credentials through DocuSign impersonation has emerged as a significant cybersecurity threat in 2023, building on the growing challenges of securing digital identity and authentication systems in an increasingly mobile-first business environment.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:58.522683+00:00",
+              "published_date": "2024-12-20T23:02:00+00:00",
+              "source_hash": "27c87c6b5f246ba394f232985a3d0526"
+            },
+            {
+              "url": "",
+              "title": "DocuSign, Inc. (DOCU) Gains Analyst Target Boost Amid AI Innovations and Stabilizing Demand Trends",
+              "snippet": "In this article, we are going to take a look at where DocuSign, Inc. (NASDAQ:DOCU ... about these developments by accessing 10 Best AI Data Center Stocks and 10 Buzzing AI Stocks According ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:58.522694+00:00",
+              "published_date": "2024-12-05T14:43:00+00:00",
+              "source_hash": "6c1981b97d856b0533161b19351bc587"
+            },
+            {
+              "url": "",
+              "title": "JMP Securities Lifts DocuSign, Inc. (DOCU) Price Target to $108, Highlights Positive Sales Momentum and AI Innovations",
+              "snippet": "In this article, we are going to take a look at where DocuSign, Inc. (NASDAQ:DOCU ... about these developments by accessing 10 Best AI Data Center Stocks and 10 Buzzing AI Stocks According ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc data security breaches",
+              "retrieved_at": "2025-01-06T21:10:58.522704+00:00",
+              "published_date": "2024-11-24T06:57:00+00:00",
+              "source_hash": "7bbbf0b94301acd4be820dc04e7e1bd4"
+            },
+            {
+              "url": "",
+              "title": "Compliance Overview Page - DocuSign",
+              "snippet": "Docusign's top priority is the privacy and security of our customers' information, documents, and data. The compliance content on these pages explains how Docusign meets or exceeds national and international security standards, including strict security policies and practices that set the standard for world-class information security.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062339+00:00",
+              "published_date": null,
+              "source_hash": "14ef8c9eff1fdab067046fdbb30913f9"
+            },
+            {
+              "url": "",
+              "title": "Customer Compliance and DocuSign",
+              "snippet": "Configuring account settings on the Docusign eSignature service and maintaining them to ensure adherence to a specific regulatory requirement is critical for customers relying on specific workflows or the enforcement of particular policies as part of their compliance. DocuSign can work with a customer's account administrator to make any ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062446+00:00",
+              "published_date": null,
+              "source_hash": "3e6fe858c9699378db7a263f76872df0"
+            },
+            {
+              "url": "",
+              "title": "Banking Regulations: How Docusign Can Make Compliance Easier",
+              "snippet": "The cost of not complying can be damaging to your brand and customer loyalty, but more importantly, regulatory fees associated with non-compliance can directly impact operating margins. According to a McKinsey report, regulatory fees have increased dramatically since 2009, relative to banks' earnings and credit losses.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062459+00:00",
+              "published_date": null,
+              "source_hash": "f5b8e9ad6615aa0cbcd110de75c15723"
+            },
+            {
+              "url": "",
+              "title": "Docusign Legal FAQ - DocuSign Support Center",
+              "snippet": "Compliance. I would like to know more about Docusign's compliance program. For general information on the Docusign compliance program, visit the following pages: Compliance Overview, Certifications, and Docusign e-Signature public certificates. I would like a copy of the Docusign certificates, reports, or need Docusign to complete a questionnaire (sometimes called a Due Diligence Request).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062470+00:00",
+              "published_date": null,
+              "source_hash": "c2b12e039a6372d749bfffbe841b8f2c"
+            },
+            {
+              "url": "",
+              "title": "Docusign Inc. - DocuSign Achieves StateRAMP Authorization, Enabling ...",
+              "snippet": "DocuSign will submit monthly and annual reports to demonstrate ongoing compliance. These StateRAMP-authorized solutions will be available for DocuSign state, local, and higher education customers beginning December 1, 2023. ... SOURCE DocuSign, Inc. View All News. Investor Contact. investors@docusign.com 415-985-2687.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062481+00:00",
+              "published_date": null,
+              "source_hash": "1314c598fdf63c8ad655411484c65492"
+            },
+            {
+              "url": "",
+              "title": "How does Docusign IDV Premier help my business maintain compliance with ...",
+              "snippet": "Docusign IDV Premier enables businesses to meet the requirements of Know Your Customer (KYC), Anti-Money Laundering (AML), and other relevant regulations by offering a secure and thorough ID verification process. ... By utilizing Docusign IDV Premier, businesses can confidently demonstrate their commitment to regulatory compliance while ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062491+00:00",
+              "published_date": null,
+              "source_hash": "c89d37ae7cbce146bca8bffdf4a92cda"
+            },
+            {
+              "url": "",
+              "title": "How the Part 11 Module Helps Enables Compliance - DocuSign Support Center",
+              "snippet": "Read about how the Docusign Part 11 module helps address 21 CFR Part 11 compliance issues.. The Docusign Part 11 module helps customers meet their legal and regulatory obligations. These include obligations under the Food and Drug Administration (FDA) 21 CFR Part 11 regulation (Part 11). The module is designed to be part of an \"open system\" solution.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062501+00:00",
+              "published_date": null,
+              "source_hash": "316ca8dd14163404ea8e56f20b6240a1"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "This Code is an element of DocuSign, Inc.'s (\"DocuSign,\" the \"Company,\" \"we,\" \"us\" or \"our\") Legal Compliance Policy. We adopted this Code to set expectations and provide guidance applicable to every employee, officer and director of DocuSign (each, a \"Covered Person\"). It is your responsibility",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062510+00:00",
+              "published_date": null,
+              "source_hash": "c049fd2804fab0c9d443b7db4cdeac77"
+            },
+            {
+              "url": "",
+              "title": "Docusign Compliance Standards for Partners",
+              "snippet": "As part of this commitment, Docusign performs business qualification on potential Docusign Partners to ensure that a relationship makes sense, conducts legal due diligence screening on potential and existing Docusign Partners, and requires Partners to complete annual compliance training. Docusign's diligence process screens for concerns ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062520+00:00",
+              "published_date": null,
+              "source_hash": "8a326fa86d68fda9af58a445c40ef1a7"
+            },
+            {
+              "url": "",
+              "title": "Legal Information | Browse By Topic | DocuSign Support Center",
+              "snippet": "Connect with DocuSign customers, partners, and employees to get answers to your questions, learn, and share ideas. ... Rooms for Real Estate Rooms Admin Rooms for Mortgage System Issues Learn the Basics Product Overviews. Regulatory and Compliance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:01.062529+00:00",
+              "published_date": null,
+              "source_hash": "eeada4ae7d207328a3e16ccfddd95d0e"
+            },
+            {
+              "url": "",
+              "title": "DocuSign CEO sells $3.6M in common stock",
+              "snippet": "In a regulatory filing, DocuSign (DOCU) disclosed that its CEO Allan Thygesen sold 40K shares of common stock on January 2nd in a total",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:03.543114+00:00",
+              "published_date": "2025-01-02T22:50:00+00:00",
+              "source_hash": "684f974c81241931e0eee32bfbe45f01"
+            },
+            {
+              "url": "",
+              "title": "DocuSign, Inc. (DOCU) Beats Q3 Estimates, Guides Revenue Higher, and Expands AI Features in Global Markets",
+              "snippet": "In this article, we are going to take a look at where DocuSign, Inc. (NASDQ ... we've created AI models that meet local regulatory and compliance requirements.\" Overall DOCU ranks 10th on our ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:03.543197+00:00",
+              "published_date": "2024-12-07T06:32:00+00:00",
+              "source_hash": "03bd289b80f1a259c3c6f795b908349f"
+            },
+            {
+              "url": "",
+              "title": "E-Signature Leadership Is Not Enough to Drive an Economic Moat for Docusign",
+              "snippet": "As Docusign continues to move upstream to larger clients, it will likely need to expand its sales and servicing headcount to deal with more complex issues. SMB customers tend to be more nimble and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:03.543211+00:00",
+              "published_date": "2024-12-06T00:01:00+00:00",
+              "source_hash": "2b8c26488c6ec462d15e8a2fb99b58b7"
+            },
+            {
+              "url": "",
+              "title": "Docusign Stock Soars as Profit Doubles Expectations on Strong Billings",
+              "snippet": "Gabby Jones / Bloomberg via Getty Images Docusign's earnings and revenue exceeded forecasts as billings and subscription revenue jumped. The e-document software provider also posted strong new ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Docusign Inc Docusign Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:11:03.543231+00:00",
+              "published_date": "2024-12-06T15:05:00+00:00",
+              "source_hash": "729b3467876f670967afaff6074ad852"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to cut 10% of workforce, nearly 700 employees will lose jobs",
+              "snippet": "In 2022, the company had 7,461 employees before it announced a 9% reduction of it staff in September, meaning roughly 680 DocuSign workers are now on the chopping block in the company's latest cuts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957680+00:00",
+              "published_date": null,
+              "source_hash": "c7e72742cfcb16f00240b6f71131ddb0"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Layoffs: 400 More Employees to be Terminated",
+              "snippet": "DocuSign, the leading e-signature software firm, has announced another workforce reduction, cutting 6% of its employees. This decision, detailed in an SEC filing, primarily affects the sales and marketing teams, with the company expecting to incur between $28 and $32 million in severance, benefits, and other related costs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957740+00:00",
+              "published_date": null,
+              "source_hash": "ef3ff769e11703e6adc2cadf27f06cf5"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to Cut 6% of Its Workforce as Sale Talks Stall - Yahoo Finance",
+              "snippet": "(Bloomberg) -- DocuSign Inc. is cutting about 6% of its workforce as part of a restructuring effort after talks to sell itself appear to have stalled.Most Read from BloombergBiden's Attempt to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957755+00:00",
+              "published_date": null,
+              "source_hash": "6bfce03cdd4c5c32bbda4418e8a9823a"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to cut 6% of its workforce as part of restructuring plan",
+              "snippet": "DocuSign had 7,336 employees, as of Jan. 31, 2023, according to its last annual filing. ... (Reuters) - DocuSign said on Tuesday it would reduce its current workforce by about 6%, or 400 employees ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957765+00:00",
+              "published_date": null,
+              "source_hash": "066d728686aedf306f740525239078bb"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to Cut 6% of Its Workforce as Sale Talks Stall - Bloomberg.com",
+              "snippet": "DocuSign had 7,336 employees at the end of 2023. As a result of the layoffs, the company will incur about $28 million to $32 million in restructuring charges. The stock slipped 7.4% in premarket ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957774+00:00",
+              "published_date": null,
+              "source_hash": "c8dc22628acbc1565ade0da29a9cbc10"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to cut 6% of its workforce as part of restructuring plan",
+              "snippet": "DocuSign had 7,336 employees, as of Jan. 31, 2023, according to its last annual filing. The company expects to incur the majority of the restructuring charges in the first quarter of fiscal 2025.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957784+00:00",
+              "published_date": null,
+              "source_hash": "346ed3a1def26450dc069e88f0c2f41c"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to lay off 10% of workers in second round of cuts - Yahoo Finance",
+              "snippet": "DocuSign expects to take charges of $25 million to $35 million on the restructuring plan, with the majority being incurred in the quarter ending April 30. As of Jan. 31, 2022, the company had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957793+00:00",
+              "published_date": null,
+              "source_hash": "4c4d48d3c267a82d23fcd76f7547c6c3"
+            },
+            {
+              "url": "",
+              "title": "DocuSign Stock Falls Amid Third Round of Layoffs in Two Years",
+              "snippet": "PayPal Holdings Inc. , Alphabet Inc. , and Microsoft Corp. are among the firms that already have cut jobs this year. DocuSign shares were down 3.2% at $51.51 as of 2:22 p.m. ET on Tuesday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957802+00:00",
+              "published_date": null,
+              "source_hash": "f4e058df24f1cf2ec0beaac663887bcd"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to cut workforce by 9% as part of restructuring plan",
+              "snippet": "DocuSign will lay off 9% of its workforce as part of a major restructuring plan, the company announced Wednesday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957810+00:00",
+              "published_date": null,
+              "source_hash": "3878684d2556217b93ce32cc332cf104"
+            },
+            {
+              "url": "",
+              "title": "DocuSign lays off 700 employees - SiliconANGLE",
+              "snippet": "Electronic signature provider DocuSign Inc. today announced that it is laying off about 10% of its workforce, or about 700 employees.The company stated in a regulatory filing that the job cuts wil ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:04.957819+00:00",
+              "published_date": null,
+              "source_hash": "13f61f538b43a2fa06779fabc8b34fa0"
+            },
+            {
+              "url": "",
+              "title": "DocuSign to lay off 6% of workforce, or about 440 jobs",
+              "snippet": "DocuSign announced Tuesday it will cut 6% of its workforce as part of a restructuring plan, according to a release. The company employs 7,336 workers according to its most recent filing with the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Docusign Inc Docusign Inc workforce reduction controversies",
+              "retrieved_at": "2025-01-06T21:11:08.471926+00:00",
+              "published_date": "2024-02-06T13:38:00+00:00",
+              "source_hash": "df845d6d5ccbc456b3d1958d83900902"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Docusign Inc data security breaches",
+              "rationale": "Investigate potential data security incidents and their legal implications",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Docusign Inc regulatory compliance issues",
+              "rationale": "Examine compliance with GDPR, CCPA, and other data privacy regulations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Docusign Inc workforce reduction controversies",
+              "rationale": "Explore public and employee reactions to recent workforce reductions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:11:25.237459",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

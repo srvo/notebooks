@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:26:33.004655",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Maximus Inc",
+      "symbol": "MMS",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "High dependency on government contracts, making revenue vulnerable to political shifts and budget cuts",
+            "Significant cybersecurity and data privacy risks, highlighted by a major data breach in 2023",
+            "Operational challenges due to workforce instability and contract fluctuations"
+          ],
+          "controversies": [
+            "Legal battles over contract renewals, including a partial denial of a protest over a $6.6 billion CMS contract",
+            "Criticism for privatizing welfare services, with allegations of mismanagement and poor service delivery",
+            "Employee dissatisfaction due to low wages and inadequate benefits"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Criticism for reducing accountability and service quality in public services",
+            "Employee dissatisfaction and layoffs due to contract expirations"
+          ],
+          "governance_issues": [
+            "Ethical concerns related to the handling of sensitive citizen data and service delivery",
+            "Regulatory scrutiny due to cybersecurity vulnerabilities and data breaches"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Maximus wins partial victory in $6.6B CMS battle but several issues ...",
+              "snippet": "The majority of Maximus' protest involving the Contact Center Operations contract was denied, but the Government Accountability Office does say parts of the solicitation's harmony agreement clause ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925792+00:00",
+              "published_date": null,
+              "source_hash": "bd82368c49f33a624280e79b6116c041"
+            },
+            {
+              "url": "",
+              "title": "MAXIMUS Federal Services, Inc. | U.S. GAO - U.S. Government ...",
+              "snippet": "MAXIMUS Federal Services, Inc., of McLean, ... It's unacceptable that we work for a federal contractor making billions of dollars from government contracts, but we don't even get a living wage and affordable health care. ... restricts the government to seeking only a \"voluntary agreement\" between parties to a labor dispute; in contrast ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251819+00:00",
+              "published_date": null,
+              "source_hash": "aa8278db167bb7338b847be2d6627822"
+            },
+            {
+              "url": "",
+              "title": "GAO Partially Upholds MAXIMUS Protest on $6.6 Billion Medicare Call ...",
+              "snippet": "Washington, D.C., September 17, 2024 - The U.S. Government Accountability Office (GAO) has sustained in part and denied in part a bid protest filed by MAXIMUS Federal Services, Inc., challenging a labor requirement in a $6.6 billion contract solicitation from the Department of Health and Human Services (HHS). The contract, under request for proposals (RFP) No. 75FCMC24R0010, seeks services ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251858+00:00",
+              "published_date": null,
+              "source_hash": "25dfa50c72bc765db76b0a40ff338ba6"
+            },
+            {
+              "url": "",
+              "title": "Maximus files lawsuit over $6.6B call center recompete",
+              "snippet": "Maximus won the current contract in 2022, but CMS officially started the recompete process in the spring with its release of a final solicitation that detailed a two-phase evaluation process ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251869+00:00",
+              "published_date": null,
+              "source_hash": "e9c45127454bb5fece49bb8d3d59751e"
+            },
+            {
+              "url": "",
+              "title": "Maximus Challenges Early Rebid of 1-800-MEDICARE Contract to U.S. Court ...",
+              "snippet": "TYSONS, Va.--(BUSINESS WIRE)-- Maximus (NYSE: MMS), a leading employer and provider of government services worldwide, announced they have filed suit in the U.S. Court of Federal Claims challenging the baseless and unlawful rebid of the U.S. Department of Health and Human Services Contact Center Operations (CCO) 1-800-MEDICARE and Federal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251878+00:00",
+              "published_date": null,
+              "source_hash": "fe7826d7dae3e8c647d73afdfe5573fa"
+            },
+            {
+              "url": "",
+              "title": "Maximus' call center's labor dispute might cost it a $7 billion HHS ...",
+              "snippet": "On May 16, the Department of Health and Human Services issued a request for proposals to rebid a 2022 call center contract with Maximus Inc. Maximus workers have struck six times since 2018 and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925800+00:00",
+              "published_date": null,
+              "source_hash": "63d20179028f8b5f1ff6e01b3b8259a6"
+            },
+            {
+              "url": "",
+              "title": " In the United States Court of Federal Claims Bid Protest",
+              "snippet": "MAXIMUS FEDERAL SERVICES, INC., ) ) Plaintiff, ) ... contract again to Maximus. (GAO Protest Ex. G, Maximus 2022 Debriefing at 2.) ... dispute actually threaten a government program, but only if ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251900+00:00",
+              "published_date": null,
+              "source_hash": "f33153a4ba3dc5983a037a03a790bdfb"
+            },
+            {
+              "url": "",
+              "title": "Maximus Ends Labor Rules Suit on Canceled Medicare Reprocurement",
+              "snippet": "Maximus is \"pleased\" that the agency withdrew their re-procurement of the Contract Center Operations 1-800-MEDICARE and Federal Marketplace contract, the company said in a Tuesday press release. The early re-procurement would have forced Maximus to re-compete for the same services it provides under its current contract, the company said.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251908+00:00",
+              "published_date": null,
+              "source_hash": "92fe901abd026e220a4a9ebfc6f8b175"
+            },
+            {
+              "url": "",
+              "title": "Maximus Challenges Early Rebid of 1-800-MEDICARE Contract to U.S. Court ...",
+              "snippet": "TYSONS, Va., November 01, 2024--Maximus files suit in the U.S. Court of Federal Claims challenging the rebid of U.S. Department of HHS contract.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251916+00:00",
+              "published_date": null,
+              "source_hash": "995dab508f9d997d80e40d5944dfa407"
+            },
+            {
+              "url": "",
+              "title": "Maximus sues to challenge early rebid of 1-800-MEDICARE contract",
+              "snippet": "The lawsuit follows the Government Accountability Office's ruling in September 2024 that partially sustained Maximus' pre-award protest, requiring HHS to redraft the labor harmony requirement.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:06.251924+00:00",
+              "published_date": null,
+              "source_hash": "696e6b68c16578f0898e3bb6fd1ea858"
+            },
+            {
+              "url": "",
+              "title": "Maximus wins contracts to continue medical disability exam services for veterans",
+              "snippet": "Maximus (MMS) announced that VES, a Maximus Company, was re-awarded contracts for domestic Regions 1 through 4, collectively spanning the",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:08.197356+00:00",
+              "published_date": "2025-01-06T13:11:00+00:00",
+              "source_hash": "e25466dcd70d610bde348017aff77e8b"
+            },
+            {
+              "url": "",
+              "title": "Medicaid contractor will lay off 34 employees working remotely in central Iowa",
+              "snippet": "Maximus Inc. has announced the layoff of 34 remote ... \"Impacted staff were made aware of this possibility due to the contract ending. They have been encouraged to consider other opportunities ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:08.197395+00:00",
+              "published_date": "2024-12-03T21:00:00+00:00",
+              "source_hash": "73974ef08815a947896afe3a784e5f73"
+            },
+            {
+              "url": "",
+              "title": "Maximus Secures Medicare Contract Through 2031, Shares Gain Momentum",
+              "snippet": "CMS withdraws early re-procurement of Maximus' Medicare contract, allowing the company ... surpassing analyst estimates. Maximus, Inc. MMS shares are trading higher on Wednesday.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:08.197407+00:00",
+              "published_date": "2024-11-27T10:33:00+00:00",
+              "source_hash": "b874a1f7a8503dfe01f9029cd1057a2c"
+            },
+            {
+              "url": "",
+              "title": "Maximus says it will continue to perform CCO contract",
+              "snippet": "The early re-procurement of the contract would have otherwise caused Maximus to recompete for the same scope of work it currently performs under its contract today. The current contract retains ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:08.197416+00:00",
+              "published_date": "2024-11-27T01:20:00+00:00",
+              "source_hash": "753ff979dafdea57b380550160e6031c"
+            },
+            {
+              "url": "",
+              "title": "Maximus, Inc. laying off 34 employees in Iowa",
+              "snippet": "Maximus, Inc. plans to lay off 34 employees in the state, according to Iowa's Worker Adjustment and Restraining Notification (WARN) website. The company, which is headquartered in Virginia, was ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maximus Inc Maximus Inc government contract disputes",
+              "retrieved_at": "2025-01-06T19:26:08.197425+00:00",
+              "published_date": "2024-12-04T20:03:00+00:00",
+              "source_hash": "6936a74c5a406f36298a88b0fa3054ea"
+            },
+            {
+              "url": "",
+              "title": "Up to 11 Million Health Records Compromised in Cyberattack on ...",
+              "snippet": "Maximus has recorded expenses of $15 million for the quarter to June 30, 2023, in relation to the data breach. The Department of Health and Human Services' Centers for Medicare and Medicaid Services (CMS) initially reported the breach as affecting 612,000 current Medicare recipients and up to 645,000 individuals in total, but later amended ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026318+00:00",
+              "published_date": null,
+              "source_hash": "d2b0f350da2f8b00a5de15b96089ee17"
+            },
+            {
+              "url": "",
+              "title": "CMS Notifies Additional Individuals Potentially Impacted by MOVEit Data ...",
+              "snippet": "As part of an ongoing investigation into the May 2023 data breach of Progress Software's MOVEit Transfer software on the corporate network of Maximus Federal Services, Inc. (Maximus Federal Services), a contractor to the Medicare program, the Center for Medicare & Medicaid Services (CMS) has learned of additional individuals whose personally identifiable information (PII) may have been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026371+00:00",
+              "published_date": null,
+              "source_hash": "305b3a7ecbf76222056d3154e3733459"
+            },
+            {
+              "url": "",
+              "title": "8 million people hit by data breach at US govt contractor Maximus",
+              "snippet": "U.S. government services contractor Maximus has disclosed a data breach warning that hackers stole the personal data of 8 to 11 million people during the recent MOVEit Transfer data-theft attacks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026384+00:00",
+              "published_date": null,
+              "source_hash": "26c8abd165f6d4c71cf06a5e54cfe900"
+            },
+            {
+              "url": "",
+              "title": "Maximus Inc Data Breach Exposed 330K Medicaid Providers' Info, Says ...",
+              "snippet": "The personal information of more than 330,000 Medicaid health care providers in Ohio was exposed by Maximus, Inc, a contractor for the state, in a May data breach, claims a class action lawsuit. Lead plaintiff, James Brickman, filed the nationwide class action lawsuit in Ohio federal court Friday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026394+00:00",
+              "published_date": null,
+              "source_hash": "97fcec5861aa1414ca060a0193d13b8c"
+            },
+            {
+              "url": "",
+              "title": "Up to 11 Million People Hit by MOVEit Hack at Government Services Firm ...",
+              "snippet": "Government services provider Maximus this week revealed that the personal information of up to 11 million individuals was stolen in the MOVEit cyberattack earlier this year. Disclosed at the end of May, the attack involved the exploitation of a zero-day vulnerability in the MOVEit Transfer managed file transfer (MFT) software, allowing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026403+00:00",
+              "published_date": null,
+              "source_hash": "76834386964f3564074f86edcd8aa740"
+            },
+            {
+              "url": "",
+              "title": "CMS Responding to Data Breach at Contractor | CMS",
+              "snippet": "The Department of Health and Human Services (HHS) and the Centers for Medicare & Medicaid Services (CMS) have responded to a May 2023 data breach in Progress Software's MOVEit Transfer software on the corporate network of Maximus Federal Services, Inc. (Maximus), a contractor to the Medicare program, that involved Medicare beneficiaries' personally identifiable information (PII) and/or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026412+00:00",
+              "published_date": null,
+              "source_hash": "7147ff35715b6883bef836bf5508dc26"
+            },
+            {
+              "url": "",
+              "title": "Maximus data breach may have exposed information of 612,000 ... - FedScoop",
+              "snippet": "A data breach that hit the corporate network of federal contractor Maximus earlier this year may have exposed the personal information of as many as 612,000 Medicare recipients, according to the Centers for Medicare and Medicaid Services. ... have responded to a May 2023 data breach in Progress Software's MOVEit Transfer software on the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026421+00:00",
+              "published_date": null,
+              "source_hash": "0f096ca8a33ef237dcdd790b990369f7"
+            },
+            {
+              "url": "",
+              "title": "Maximus data breach confirmed, 11 million people at risk",
+              "snippet": "Maximus data breach might affect over 11 million people. Maximus has stated that this breach could affect up to 11 million individuals. The breach, which took place in May and was publicized by CMS on July 28, involved personal identifiable information (PII) and protected health information (PHI) of Medicare beneficiaries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026430+00:00",
+              "published_date": null,
+              "source_hash": "1de44dc6b5728d136d63a85f2e54fee3"
+            },
+            {
+              "url": "",
+              "title": "US Government Contractor Maximus Suffers Massive Data Breach ... - Vulnera",
+              "snippet": "The Clop ransomware gang added Maximus to its dark web data leak site, along with 70 other new victims, all breached using the MOVEit zero-day flaw. The gang claims to have stolen 169GB of data during the breach on Maximus' MOVEit Transfer server. However, no data has been leaked as of yet, indicating that the extortion process is still ongoing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026438+00:00",
+              "published_date": null,
+              "source_hash": "7f887ab0538554f65afeb10950cd2f2f"
+            },
+            {
+              "url": "",
+              "title": "CMS Notifies Additional Individuals Potentially Impacted ... - Data Breach",
+              "snippet": "As part of an ongoing investigation into the May 2023 data breach of Progress Software's MOVEit Transfer software on the corporate network of Maximus Federal Services, Inc. (Maximus Federal Services), a contractor to the Medicare program, the Center for Medicare & Medicaid Services (CMS) has learned of additional individuals whose personally identifiable information (PII) may have been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:10.026446+00:00",
+              "published_date": null,
+              "source_hash": "a4d8475c984085d174e3ba9f94c36008"
+            },
+            {
+              "url": "",
+              "title": "Data Breach Exposes Personal Information of 612K Medicare Recipients",
+              "snippet": "A data breach ... Maximus are sending letters to Medicare beneficiaries who may be impacted by the incident and both are offering free credit monitoring services for two years. \"Data privacy ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T19:26:13.347965+00:00",
+              "published_date": "2023-07-31T00:00:00+00:00",
+              "source_hash": "e2bba1a17ca50bf6f29267c754077425"
+            },
+            {
+              "url": "",
+              "title": "Privatization Fail: The Troubled History of Maximus Inc.",
+              "snippet": "Based in Virginia but with offices all over the world, Maximus Inc. rakes in more than $1 billion a year from U.S. states and governments outsourcing social service and administrative functions. Wisconsin and the privatizing giant have a long and very troubled history, but breaking up, it seems, is hard to do.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925678+00:00",
+              "published_date": null,
+              "source_hash": "651df39b72d525e76888b0e240f488e8"
+            },
+            {
+              "url": "",
+              "title": "Maximum Harm: MAXIMUS' Medicaid Management Failures",
+              "snippet": "MAXIMUS Overview MAXIMUS, Inc. is a publicly traded company specializing in business process outsourcing for U.S. and foreign government agencies, primarily in the fields of health and social services. The company reported $2.4 billion in revenue in FY2018.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925735+00:00",
+              "published_date": null,
+              "source_hash": "47120936231aa5a5b5e5590f871038d1"
+            },
+            {
+              "url": "",
+              "title": "Privatization of Welfare Services: A Review of the Literature",
+              "snippet": "A review of state and local governments' experience with privatization suggests that outsourcing of social services takes place, broadly, in two forms. ... a four-year contract was awarded to MAXIMUS, Inc., ... Dissatisfaction with the quality of public services and the perception that privatization will result in higher quality services have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925749+00:00",
+              "published_date": null,
+              "source_hash": "e218e31be2b14bf5be29116db701193a"
+            },
+            {
+              "url": "",
+              "title": "Low-rated firm fights to keep rich county work - Los Angeles Times",
+              "snippet": "Faced with the possibility that its $32-million contract won't be renewed, Maximus Inc. has spent more than $124,000 this year on lobbyists and thousands more on political contributions to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925759+00:00",
+              "published_date": null,
+              "source_hash": "eb9c41d75d948070a1b5ea1234d05545"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Federal Call Centers Run by Maximus Maximus, Inc. is a major federal contractor specializing in outsourcing government services such as call centers. In 2023, it received $2.4 billion in revenue from the federal government. Maximus workers face poor working conditions and are organizing with CWA to fight back. This",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925768+00:00",
+              "published_date": null,
+              "source_hash": "23353be600fd5ec8957493a57c62ad82"
+            },
+            {
+              "url": "",
+              "title": "Maximus to the rescue: The backstory - Illinois Times",
+              "snippet": "Maximus is one of the largest providers of business process outsourcing services in the U.S. and the countries it serves. Maximus employs more than 7,000 people and conducts business in almost every state, with more than 200 offices in the U.S., Canada, Australia, the United Kingdom and Israel.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925776+00:00",
+              "published_date": null,
+              "source_hash": "774102f7bb20514450b7a2862f0b052f"
+            },
+            {
+              "url": "",
+              "title": "Political Struggle Centers on Welfare-to-Work Contractor",
+              "snippet": "The review found that the county had set the parameters of the bid in a way that made Maximus seem more expensive and public workers less. The board ordered a new bid, and Maximus bid $4 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925784+00:00",
+              "published_date": null,
+              "source_hash": "1d5113a7b2a679937d00ba34700be33f"
+            },
+            {
+              "url": "",
+              "title": "Maximus Inc. - Wikipedia",
+              "snippet": "Maximus Inc. is an American government services company, [1] with operations in countries including the United States, Canada, and the United Kingdom. [2] Maximus provides administration and other services for Medicaid, Medicare, health care reform, welfare-to-work, and student loan servicing, among other government programs.The company is based in Tysons, Virginia, has 39,600 employees and a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maximus Inc Maximus Inc criticism of outsourcing public services",
+              "retrieved_at": "2025-01-06T19:26:14.925808+00:00",
+              "published_date": null,
+              "source_hash": "e5fd70c1eec38b5818728ec812768b93"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Maximus Inc government contract disputes",
+              "rationale": "Investigate potential legal issues or disputes related to government contracts, which are a major revenue source",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Maximus Inc data privacy breaches",
+              "rationale": "Examine incidents of data privacy violations or cybersecurity risks due to handling sensitive citizen data",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Maximus Inc criticism of outsourcing public services",
+              "rationale": "Explore public and stakeholder criticism regarding the outsourcing of government services and its impact on service quality",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:26:33.004665",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

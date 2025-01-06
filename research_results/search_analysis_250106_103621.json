@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:36:21.096638",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Fluence Energy Inc.",
+      "symbol": "FLNC",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and regulatory risks, including SEC investigation and lawsuit by Siemens",
+            "Supply chain vulnerabilities, particularly with lithium-ion batteries",
+            "Financial performance and sustainability concerns",
+            "High competitive pressures in the energy storage market"
+          ],
+          "controversies": [
+            "SEC investigation into potential securities law violations",
+            "Lawsuit by Siemens alleging engineering and design failures, false representations, and fraud"
+          ],
+          "environmental_issues": [
+            "Dependence on lithium-ion batteries, which have environmental and supply chain challenges"
+          ],
+          "social_issues": [
+            "Potential impact on investor confidence due to legal and financial controversies"
+          ],
+          "governance_issues": [
+            "Ongoing SEC investigation and internal audit concerns",
+            "Legal disputes with major shareholder Siemens"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Fluence Energy Inc Is Being Investigated For Securities Law Violations ...",
+              "snippet": "According to the report, the U.S. affiliate of the Company's largest shareholder and corporate parent, Siemens, filed a lawsuit against the it. The lawsuit accuses Fluence of \"a laundry list of embarrassing and costly engineering and design failures, false representations, and most notably fraud.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303523+00:00",
+              "published_date": null,
+              "source_hash": "f649caf99a8308d319eec07b4edae1ad"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy tries to maneuver around supply-chain problems as demand ...",
+              "snippet": "Most significantly, Fluence Energy said it signed a contract with The AES Corp., a Fluence Energy co-founder and major shareholder, for the use of Fluence bidding software on a 1.1 GW portfolio of solar and energy storage projects in the western U.S. \"They are ramping up, they are expanding aggressively their renewable targets.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303619+00:00",
+              "published_date": null,
+              "source_hash": "c9a78d8c6c42a882ac37532a0aacb60d"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy Inc. Is Being Investigated For Securities Law Violations ...",
+              "snippet": "The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Fluence Energy, Inc. (\"Fluence\" or \"the Company\") (NASDAQ ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640674+00:00",
+              "published_date": null,
+              "source_hash": "fec8ab1e7d5940bd83781a6882ae82a6"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy (FLNC) Posts Declining Revenues Amid SEC - GlobeNewswire",
+              "snippet": "Fluence Energy tried to calm investors' nerves by stating that in response to the Blue Orca report, the Audit Committee of its board of directors completed an internal investigation, with the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640435+00:00",
+              "published_date": null,
+              "source_hash": "e4157e9f9e9016f1b3b4d4ce68a8d972"
+            },
+            {
+              "url": "",
+              "title": "FLNC Stockholders: Robbins LLP is Investigating the Officers and ...",
+              "snippet": "SAN DIEGO, Dec. 18, 2024 /PRNewswire/ -- Shareholder rights law firm Robbins LLP is investigating Fluence Energy, Inc. (NASDAQ: FLNC) to determine whether certain Fluence officers and directors violated securities laws and breached fiduciary duties to shareholders. Fluence Energy, Inc. provides energy storage products and services, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303657+00:00",
+              "published_date": null,
+              "source_hash": "83399ba19416cdcfaffc2de11cd5a393"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "Fluence Energy, Inc. (Nasdaq: FLNC) is a global market leader delivering intelligent energy storage and optimization software for renewables and storage. The Company's solutions and operational services are helping to create a more resilient grid and unlock the full potential of renewable portfolios.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303666+00:00",
+              "published_date": null,
+              "source_hash": "e7d1eb5ecc3dc07996cf7eaba69f369e"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy Investors Urged to Explore Legal Remedies",
+              "snippet": "Fluence Energy Securities Fraud Investigation Overview. Fluence Energy, Inc. (NASDAQ: FLNC) finds itself under scrutiny as investors are encouraged to explore potential claims regarding securities fraud. The inquiry highlights issues surrounding possible misleading statements issued by the Company that could negatively affect its shareholders.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303676+00:00",
+              "published_date": null,
+              "source_hash": "cb7bc50324e6784d0e530411a69758f8"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. (FLNC) Stock Lawsuit Investigation - Gibbs Law Group",
+              "snippet": "According to Blue Orca Capital, the lawsuit by Siemens accuses Fluence of \"a laundry list of embarrassing and costly engineering and design failures, false representations, and most notably fraud.\" Following the release of the report, the stock dropped as much as 21% in intraday trading on February 22nd, causing harm to investors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303686+00:00",
+              "published_date": null,
+              "source_hash": "49355206c7dca88f487b216ca1b062fc"
+            },
+            {
+              "url": "",
+              "title": "Johnson Fistel Law Firm Continues the Investigation into Claims Against ...",
+              "snippet": "SAN DIEGO, July 26, 2024 /PRNewswire/ -- Shareholder rights law firm Johnson Fistel, LLP is investigating whether Fluence Energy, Inc. (NASDAQ: FLNC) (the \"Company\") or any of its executive ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303696+00:00",
+              "published_date": null,
+              "source_hash": "f5f14ffd34fe6630de7749af49e3abfc"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy Investors Are Encouraged to Contact Kaplan Fox ...",
+              "snippet": "NEW YORK, NY-- October 14, 2024- Kaplan Fox& Kilsheimer LLP is investigating potential securities violations against Fluence Energy, Inc.. On February 22, 2024, Blue Orca Capital issued a report ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:52.303705+00:00",
+              "published_date": null,
+              "source_hash": "e3bf4befb780f9d5dca1c69df29b4351"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Pricing of Upsized Offering of $350.0 Million of Convertible Notes and Capped Call Transactions",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... to operating as a global company with a global supply chain; changes in the cost and availability of raw materials ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:56.099830+00:00",
+              "published_date": "2024-12-11T03:13:00+00:00",
+              "source_hash": "0ff13205b19aa7fcf649bf18aed0c6b5"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Convertible Notes Offering and Intention to Enter into Capped Call Transactions",
+              "snippet": "Dec. 09, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... to operating as a global company with a global supply chain; changes in the cost and availability of raw materials ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:56.099936+00:00",
+              "published_date": "2024-12-09T16:01:00+00:00",
+              "source_hash": "f64820041f4566d3db11b951a1d527d0"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Closing of Offering of $400.0 Million of Convertible Senior Notes due 2030",
+              "snippet": "Dec. 12, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... risks relating to operating as a global company with a global supply chain; changes in the cost and availability of raw materials and underlying components; failure by manufacturers ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:56.099970+00:00",
+              "published_date": "2024-12-12T21:02:00+00:00",
+              "source_hash": "b906b14332547f597a028f72f81f9c13"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Closing Of Offering Of $400.0 Million Of Convertible Senior Notes Due 2030",
+              "snippet": "Dec. 12, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... to operating as a global company with a global supply chain; changes in the cost and availability of raw materials ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:56.099998+00:00",
+              "published_date": "2024-12-12T16:16:00+00:00",
+              "source_hash": "452ac34dfd86bfa6c1e1dbb01268cf5d"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Closing of Offering of $400.0 Million of Convertible Senior Notes due 2030",
+              "snippet": "Dec. 12, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... to operating as a global company with a global supply chain; changes in the cost and availability of raw materials ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T17:35:56.100022+00:00",
+              "published_date": "2024-12-12T21:00:00+00:00",
+              "source_hash": "688832de5dccce3926ab5ace1b6934ea"
+            },
+            {
+              "url": "",
+              "title": "Fluence Discloses SEC Investigation After Short Seller Report",
+              "snippet": "Energy storage developer Fluence Energy reported the Securities and Exchange Commission is investigating its financial reporting.. Investigation was disclosed in company's quarterly earnings report Wednesday; Investigation follows a February short seller's report; In earnings call Thursday, CFO Ahmed Pasha said SEC appears to be focusing on revenue recognition policies",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640564+00:00",
+              "published_date": null,
+              "source_hash": "af85451b27f8d8cd791a4c6e266f97dc"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy Llc Vs Siemens Energy Inc - Trellis.Law",
+              "snippet": "On September 08, 2023, Fluence Energy Llc filed a Breach of Contract - (Commercial) case against Siemens Energy Inc in the jurisdiction of Arlington County, VA. ... Taking into account the Labor Day court holiday, nine court days before the hearing fell on August 30, 2024. The opposition was accordingly filed one court day late (three calendar ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640600+00:00",
+              "published_date": null,
+              "source_hash": "9262a11f027e1abdcb2cfb54b0267843"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. (FLNC) Investigation | Hagens Berman",
+              "snippet": "Fluence Energy is facing increased scrutiny regarding the propriety of its financial reporting after revealing that the Securities and Exchange Commission has opened a formal investigation. The probe was triggered by allegations of accounting irregularities made by activist short seller Blue Orca Capital in February.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640628+00:00",
+              "published_date": null,
+              "source_hash": "f22a6e567380b159ee6edd5785ba7400"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy (FLNC) Posts Declining Revenues Amid SEC ... - Morningstar",
+              "snippet": "SAN FRANCISCO, Dec. 25, 2024 (GLOBE NEWSWIRE) -- Shares of electricity storage and software provider Fluence Energy (NASDAQ: FLNC) are down more than 28% year-to-date as the company continues to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640652+00:00",
+              "published_date": null,
+              "source_hash": "7a37161e064eed02eef1c8e0159ed85c"
+            },
+            {
+              "url": "",
+              "title": " COMPANY: Fluence Energy, Inc. NASDAQ: FLNC INDUSTRY: Energy Storage",
+              "snippet": "Energy, the US affiliate of Siemens, Fluence's corporate parent and largest shareholder, has filed a lawsuit accusing Fluence COMPANY: Fluence Energy, Inc. \u2502 NASDAQ: FLNC INDUSTRY: Energy Storage PRICE (AS OF CLOSE 2/21/2024) USD 17.01 MARKET CAP USD 3.0 BN",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640698+00:00",
+              "published_date": null,
+              "source_hash": "74b5f0be3c0a1fc8b0b1d0b261d7539b"
+            },
+            {
+              "url": "",
+              "title": "Investigation Into Fluence Energy's Leadership by Robbins LLP",
+              "snippet": "If you own shares in Fluence Energy, Inc. and suspect that your investment may have been compromised due to potential mismanagement or legal violations, reaching out to Robbins LLP could provide clarity on your situation. ... A New Era of Labor: Teamsters Challenge Amazon's Practices ; How SYM Investors Can Take Charge Amid Legal Challenges ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640728+00:00",
+              "published_date": null,
+              "source_hash": "cbe2906619305edfa3618520f591cdb4"
+            },
+            {
+              "url": "",
+              "title": " Code of Conduct for Fluence Business Partners and Third-Party ...",
+              "snippet": "3. Human Rights and Fair Labor Practices 3.1 Prohibition of Child Labor 3.1.1 Suppliers must comply with applicable labour and employment laws regarding any form of child labour and prohibit any exploitation of children in the manufacturing and delivery of products or services. If there is any doubt about the minimum age of",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640751+00:00",
+              "published_date": null,
+              "source_hash": "f35482e676378da84abdbbc349a843bd"
+            },
+            {
+              "url": "",
+              "title": " Forced Labor Due Diligence Process",
+              "snippet": "Forced Labor Due Diligence Process Guided by our Code of Conduct for Fluence Business partners and Third-Party Intermediaries (\"Supplier Code of Conduct\") and Forced Labor Commitment letter, Fluence strives to respect human rights across all its operations, through its business relationships and in its local communities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:35:57.640773+00:00",
+              "published_date": null,
+              "source_hash": "6623ca7b9a1a790ba3a2ecaedeb3a06a"
+            },
+            {
+              "url": "",
+              "title": "Why Did Fluence Energy Inc (FLNC) Soar? Key Factors Explained",
+              "snippet": "Investors often prefer to invest in shares held by company insiders, as management is typically more aligned with the company's success and shareholder interests. Currently, insiders own just 42.58% of Fluence Energy Inc (FLNC)'s shares, while financial institutions hold 53.46%.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:36:00.089551+00:00",
+              "published_date": "2025-01-03T13:29:00+00:00",
+              "source_hash": "3a2646ebcbaa6b79fa439390e2216952"
+            },
+            {
+              "url": "",
+              "title": "Analysts Predict a $20 Target for Fluence Energy Inc (FLNC) Stock\u2014What Could Drive It There?",
+              "snippet": "Fluence Energy Inc (FLNC) stock saw a modest uptick, ending the day at $16.42 which represents a slight increase of $0.18 or 1.11% from the prior close of $16.24. The stock opened at $16 and touched a low of $15.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:36:00.089652+00:00",
+              "published_date": "2024-12-31T14:12:00+00:00",
+              "source_hash": "1cd3ef9d6e04a836920ad6c54e2e3899"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Pricing of Upsized Offering of $350.0 Million of Convertible Notes and Capped Call Transactions",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... and suppliers to use ethical business practices and comply with applicable laws and regulations; significant reduction ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:36:00.089695+00:00",
+              "published_date": "2024-12-11T03:13:00+00:00",
+              "source_hash": "885e7f6bbe1d54634c8315a801b8148a"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy (FLNC) Posts Declining Revenues Amid SEC Investigation - Hagens Berman",
+              "snippet": "SAN FRANCISCO, Dec. 25, 2024 (GLOBE NEWSWIRE) -- Shares of electricity storage and software provider Fluence ... practices. Hagens Berman is investigating whether Fluence Energy may have ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:36:00.089721+00:00",
+              "published_date": "2024-12-25T17:12:00+00:00",
+              "source_hash": "5e00d97edfbce1db7f9e44fbea0b4047"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Convertible Notes Offering and Intention to Enter into Capped Call Transactions",
+              "snippet": "Dec. 09, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... and suppliers to use ethical business practices and comply with applicable laws and regulations; significant reduction ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. labor practices controversies",
+              "retrieved_at": "2025-01-06T17:36:00.089744+00:00",
+              "published_date": "2024-12-09T16:01:00+00:00",
+              "source_hash": "18a6299043af40cb74d8c8ac1f1e4969"
+            },
+            {
+              "url": "",
+              "title": "Circular Economy in Utility-Scale Energy Storage: Closing the ... - Fluence",
+              "snippet": "Fluence partners with Li-Cycle for recycling damaged batteries at Fluence-controlled locations in the Americas and EMEA. Li-Cycle's two-step process can recycle lithium-ion batteries of all chemistries and enables up to a 95% recovery rate. ... these initiatives reduce the environmental impact of energy storage systems and create new economic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633490+00:00",
+              "published_date": null,
+              "source_hash": "df555142ce3b4379e61c336e5c56648b"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Fluence",
+              "snippet": "We support those UN Sustainable Development Goals (SDGs) where the Company's particular strengths can help create meaningful impact. Fluence made a public commitment to the SDGs in 2023 that was aligned with our on-going work in the areas of gender equality, affordable and clean energy, industry, innovation and infrastructure, and climate action.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633551+00:00",
+              "published_date": null,
+              "source_hash": "7a47597809dea99b81b551273269bfa4"
+            },
+            {
+              "url": "",
+              "title": " Fluence Global Environmental Policy",
+              "snippet": "8. Minimize the environmental impact of hazardous materials and dangerous goods in all activities. 9. Foster continuous improvement based on the concept of PlanDo-Check- -Act, consistent with ISO 14001:2015 methodologies. 10. Make appropriate resources available to manage environmental impacts and ensure roles and responsibilities are defined. 11.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633568+00:00",
+              "published_date": null,
+              "source_hash": "c458a80e82b57eace9872e300204c922"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy expects to ride US battery boom as storage capacity ...",
+              "snippet": "Recyclus completed the commissioning of the UK's first lithium-ion battery recycling plant in September 2023, allowing it to start commercial operations and raise processing rates. The plant has a permit to process up to 22,000 mt/year and has achieved a 47% recycling rate from end-of-life battery to black mass.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633581+00:00",
+              "published_date": null,
+              "source_hash": "b809c3d620c77bdb41373eeb27940fe4"
+            },
+            {
+              "url": "",
+              "title": "Fluence initiates manufacturing of battery storage modules in the US",
+              "snippet": "The company recently announced an agreement with Excelsior Energy Capital to deploy 2.2 GWh of energy storage projects using domestically manufactured battery systems across the United States, beginning in 2025. This week, Fluence is displaying its Gridstack Pro 2000 + Gridstack Pro lineup in booth B50038 at RE+ in Anaheim. These energy storage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633593+00:00",
+              "published_date": null,
+              "source_hash": "3284d7a861746d02acce0a09a10e288c"
+            },
+            {
+              "url": "",
+              "title": "Fluence | A Siemens and AES Company",
+              "snippet": "Fluence is a global market leader in energy storage products and services, and cloud-based software for renewables and storage assets. ... Fluence Initiates U.S. Manufacturing of Battery Modules for Energy Storage Products. First mover advantage in offering a storage solution that qualifies for the Inflation Reduction Act's domestic content ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633605+00:00",
+              "published_date": null,
+              "source_hash": "71ffd602a77e92acdc5088b655581843"
+            },
+            {
+              "url": "",
+              "title": "Fluence Initiates U.S. Manufacturing of Battery Modules for Energy ...",
+              "snippet": "These forward-looking statements include, without limitation, statements regarding the anticipated operational performance of our battery modules, Fluence's current production, manufacturing, and supply chain strategy, including relating to cybersecurity, and related impacts to the energy storage market, anticipated impacts to our supply ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633617+00:00",
+              "published_date": null,
+              "source_hash": "a83b728cd8fb3de6b3eda65e41c0338d"
+            },
+            {
+              "url": "",
+              "title": "Fluence to provide 2.2GWh of battery storage in US - Power Technology",
+              "snippet": "Fluence Energy, a subsidiary of Siemens, and Excelsior Energy Capital have agreed to install 2.2 gigawatt-hours (GWh) of battery energy storage systems (BESS) in the US from 2025.. Excelsior will deploy Fluence's Gridstack Pro product line, which will use battery cells manufactured in Tennessee and modules produced in Utah, utilising the Inflation Reduction Act's (IRA) domestic content bonus.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633628+00:00",
+              "published_date": null,
+              "source_hash": "7da47b0e78cac63753355ac45ea861e6"
+            },
+            {
+              "url": "",
+              "title": "Australia's Rangebank Battery Energy Storage System, - GlobeNewswire",
+              "snippet": "MELBOURNE, Australia, Dec. 08, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (\"Fluence\" or the \"Company\") (NASDAQ: FLNC), a global market leader delivering intelligent energy storage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633641+00:00",
+              "published_date": null,
+              "source_hash": "54bdfc25e97f30e0761caac5ff2e4232"
+            },
+            {
+              "url": "",
+              "title": "Fluence Initiates U.S. Manufacturing of Battery Modules for Energy ...",
+              "snippet": "Additionally, Fluence recently announced an agreement with Excelsior Energy Capital to deploy 2.2 GWh of energy storage projects using domestically manufactured battery systems across the United ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:01.633653+00:00",
+              "published_date": null,
+              "source_hash": "74ccc2c5537444b9e72bcd7811d683c6"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Pricing of Upsized Offering of $350.0 Million of Convertible Notes and Capped Call Transactions",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... upgrading one of our battery cell production lines from 305 amp hour cells to 530 amp hour cells, and general corporate ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:04.289901+00:00",
+              "published_date": "2024-12-11T03:13:00+00:00",
+              "source_hash": "a8dbb504a7c3f01d9e35ab3c89980a96"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Closing of Offering of $400.0 Million of Convertible Senior Notes due 2030",
+              "snippet": "Dec. 12, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... LLC intends to use for working capital needs, upgrading one of its battery cell production lines from 305 amp hour cells to 530 amp hour cells, and general corporate purposes.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:04.289995+00:00",
+              "published_date": "2024-12-12T21:02:00+00:00",
+              "source_hash": "c468d18c0ec0e40b3e254299893e7bd7"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy, Inc. Announces Convertible Notes Offering and Intention to Enter into Capped Call Transactions",
+              "snippet": "Dec. 09, 2024 (GLOBE NEWSWIRE) -- Fluence Energy, Inc. (Nasdaq: FLNC ... upgrading one of its battery cell production lines from 305 amp hour cells to 530 amp hour cells, and general corporate ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:04.290026+00:00",
+              "published_date": "2024-12-09T13:01:00+00:00",
+              "source_hash": "1c0ae5a4864e0f42a7f3989c00234b99"
+            },
+            {
+              "url": "",
+              "title": "Why Fluence Energy (FLNC) is One of the Best Alternative Fuel Stocks to Buy According to Hedge Funds?",
+              "snippet": "In this article, we are going to look at where Fluence Energy, Inc. (NASDAQ ... growing at a CAGR of 8.8%. Growing environmental concerns and stringent environmental regulations in many developed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:04.290051+00:00",
+              "published_date": "2024-12-11T13:32:00+00:00",
+              "source_hash": "8085b731d74c6da89605c27710217600"
+            },
+            {
+              "url": "",
+              "title": "Fluence Energy: Growth Ahead, A Strategy With Some Downside Protection And Leverage On The Upside",
+              "snippet": "Rising electricity demand and technological transformations will drive significant growth in the BESS market, benefiting companies like Fluence ... BESS (Battery Energy Store Systems) offer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Fluence Energy Inc. Fluence Energy Inc. battery disposal environmental impact",
+              "retrieved_at": "2025-01-06T17:36:04.290074+00:00",
+              "published_date": "2024-12-11T05:47:00+00:00",
+              "source_hash": "d8043db0c85da53d9633cab321bbe1d2"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Fluence Energy Inc. supply chain disruptions lawsuits",
+              "rationale": "Investigate legal challenges related to supply chain issues affecting battery production",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Fluence Energy Inc. labor practices controversies",
+              "rationale": "Examine reports on labor practices and worker conditions in manufacturing and deployment sites",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Fluence Energy Inc. battery disposal environmental impact",
+              "rationale": "Assess environmental concerns related to the disposal and recycling of used energy storage batteries",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:36:21.096651",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

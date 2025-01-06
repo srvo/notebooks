@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:37:05.453592",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "United Rentals, Inc.",
+      "symbol": "URI",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Economic Sensitivity: URI\u2019s business is highly cyclical and tied to construction and industrial activity, making it vulnerable to economic downturns.",
+            "Supply Chain Disruptions: Challenges in sourcing new equipment and parts could impact fleet availability and operational efficiency.",
+            "Market Competition: Intense competition in the equipment rental industry may pressure margins."
+          ],
+          "controversies": [
+            "Legal Settlements: URI settled an SEC inquiry related to past financial practices, raising concerns about governance and transparency.",
+            "Environmental Concerns: Despite sustainability efforts, URI\u2019s reliance on diesel-powered equipment has drawn criticism."
+          ],
+          "environmental_issues": [
+            "Reliance on diesel-powered equipment and potential regulatory pressures to reduce greenhouse gas emissions."
+          ],
+          "social_issues": [
+            "Labor Market Resilience: Despite a tight labor market, URI has grown its employee base by 7% in 2023, reflecting strong workforce management and retention strategies."
+          ],
+          "governance_issues": [
+            "Past SEC complaint alleging fraudulent transactions to meet earnings forecasts, which may raise concerns about governance and transparency."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Sustainability - United Rentals",
+              "snippet": "Our pursuit of environmental stewardship extends beyond our commitment to our own sustainability efforts. We have the expertise and the tools to help drive positive change from the inside out - bringing experience, technology and a robust fleet of low- and zero-emission options to support ongoing and ever-changing environmental stewardship decisions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354390+00:00",
+              "published_date": null,
+              "source_hash": "3646d000d5bbee999bce4fa16fba7f0f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "United Rentals | 3 Reducing emissions across our business United Rentals' commitment to environmental stewardship starts with our own facilities and day-to-day business operations. A focal point of our climate action efforts is reducing our greenhouse gas (GHG) emissions, thereby doing our part to limit global temperature rise.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354510+00:00",
+              "published_date": null,
+              "source_hash": "7e5b3181d2890f11a44df4c5108a9708"
+            },
+            {
+              "url": "",
+              "title": "Corporate Responsibility Report - United Rentals",
+              "snippet": "At United Rentals, our approach to corporate responsibility is reflected in our purpose: In pursuit of this mission, we are guided by our core values. United Rentals\u02bc 2023 Corporate Responsibility Report provides our stakeholders with an overview of our corporate responsibility commitments, activities, and performance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354534+00:00",
+              "published_date": null,
+              "source_hash": "9a2b88e5453429f484ef778abeb9c5fb"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Releases 2022 Corporate ...",
+              "snippet": "United Rentals, the world's largest equipment rental company, today released its 2022 Corporate Responsibility Report. This comprehensive report showcases the company's dedication to sustainability, culture and governance and includes important updates from 2022 and 2023. 2022 was a landmark year for United Rentals, which celebrated its 25th anniversary. For over 25 years, the company has ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354558+00:00",
+              "published_date": null,
+              "source_hash": "f94df805340dc276e8c7c424956dab55"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Outlines Sustainability Approach",
+              "snippet": "United Rentals is committed to reducing its GHG emissions intensity by 35 percent by 2030, from a 2018 baseline. United Rentals outlined its approach in its recent Corporate Responsibility Report. To learn more, visit the Sustainability page. About United Rentals. United Rentals, Inc. is the largest equipment rental company in the world.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354577+00:00",
+              "published_date": null,
+              "source_hash": "5773950509f4435ef89b57f9b1e014ad"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Outlines Roadmap to Low-Emission ...",
+              "snippet": "White Paper Shares Steps to Reduce Emissions; Details Digital Tools and Equipment United Rentals, Inc. (NYSE: URI), the world's largest equipment rental company, today outlined ways companies can implement sustainable business practices that reduce equipment greenhouse gas (GHG) emissions while maintaining jobsite productivity and safety. United Rentals released a white paper, \" Roadmap to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354595+00:00",
+              "published_date": null,
+              "source_hash": "32f9b57ffef006c6ab7f27f485c14b69"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Announces New Estimated Emissions ...",
+              "snippet": "The Estimated Emissions dashboard is part of the suite of United Rentals' sustainability offerings, which includes digital tools, power generation alternatives, battery energy storage systems, micro grids and electric or hybrid equipment. About United Rentals. United Rentals, Inc. is the largest equipment rental company in the world.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354613+00:00",
+              "published_date": null,
+              "source_hash": "92670bfe7f61230bde5392150a2b6b41"
+            },
+            {
+              "url": "",
+              "title": "Power Rental Market Set to grow $19.28 Billion by 2032, Driven by ...",
+              "snippet": "- Caterpillar Inc. - Cummins Inc. - United Rentals Inc. ... The growing emphasis on sustainability and carbon footprint reduction is driving demand for cleaner and more efficient power rental ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354629+00:00",
+              "published_date": null,
+              "source_hash": "3d00802075b37081099bf14eee0d1399"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals to Add Several Zero-Emissions ...",
+              "snippet": "New Offering Provides United Rentals Customers with Sustainable Power Solution United Rentals, Inc. (NYSE: URI), the world's largest equipment rental company, today announced it is adding several hydrogen power generators to its North American rental fleet in the coming months. With the generators, United Rentals customers will have a zero-emissions power solution to charge electric vehicles ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354645+00:00",
+              "published_date": null,
+              "source_hash": "b38d5b03a6ed80674861eff85961172a"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "carbon emissions. This report also contains statements that United Rentals believes to be \"forward-looking statements\" within the meaning of the Private Securities Litigation Reform Act of 1995. All statements other than statements of historical fact, including, without limitation, statements regarding United Rentals' future business",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:34.354660+00:00",
+              "published_date": null,
+              "source_hash": "fd04c3a64f1f4947bb978740f9089e7e"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. (URI)",
+              "snippet": "December 18, 2024--United Rentals, Inc ... clean, sustainable power that enables contractors to reduce fuel consumption and equipment-related downtime while achieving quieter, lower-emission ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. carbon emissions and sustainability efforts",
+              "retrieved_at": "2025-01-06T15:36:37.579926+00:00",
+              "published_date": "2024-12-26T21:00:00+00:00",
+              "source_hash": "54d97cab05b99ba751da80f37d3df9ce"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Announces Settlement of SEC Inquiry",
+              "snippet": "About United Rentals. United Rentals, Inc. is the largest equipment rental company in the world, with an integrated network of over 665 rental locations in 48 states, 10 Canadian provinces and Mexico. The company's approximately 10,500 employees serve construction and industrial customers, utilities, municipalities, homeowners and others.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.128935+00:00",
+              "published_date": null,
+              "source_hash": "b230554e31fc11b1f9af004c19d1f7ef"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - Investor relations",
+              "snippet": "At United Rentals Inc., we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129040+00:00",
+              "published_date": null,
+              "source_hash": "616db108954cdf8c81933661cc9a0a60"
+            },
+            {
+              "url": "",
+              "title": "SEC v. United Rentals, LLC, et al. Case No. 08-cv-01354-CFD (D. Conn.)",
+              "snippet": "On September 8, 2008, the Commission filed a complaint against United Rentals, Inc. (\"URI\"). The complaint alleged that, from late 2000 through 2002, URI engaged in a series of fraudulent transactions undertaken in order to meet URI's earnings forecasts and analyst expectations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129070+00:00",
+              "published_date": null,
+              "source_hash": "669f0ff8dbedfbeae7852c6c33ffb7b9"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - Investor relations",
+              "snippet": "Industry Leadership. Track-Record of Strong Growth",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129095+00:00",
+              "published_date": null,
+              "source_hash": "52cac772442d9a7d17f5dd2a0accf827"
+            },
+            {
+              "url": "",
+              "title": "Data Processing Terms - United Rentals",
+              "snippet": "2.1 Annual Audit . In addition to any other audit rights under the Agreement, once every 12 months, subject to any contrary provisions of Section 2.3 of these Data Processing Terms, Supplier will provide to Company, or an independent third party chosen by Company and reasonably acceptable to Supplier, on reasonable notice: (1) access to Supplier's information, Processing premises, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129116+00:00",
+              "published_date": null,
+              "source_hash": "b1ee3a2de9d8d652f8f3ed53c321e2db"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "the amounts, or at the prices, we expect; (26) risks related to security breaches, cybersecurity attacks, failure to protect personal information, compliance with data protection laws and other significant disruptions in our information",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129141+00:00",
+              "published_date": null,
+              "source_hash": "69f346f4b15dcec9b2e582dec4f6730c"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Announces Record Fourth Quarter ...",
+              "snippet": "United Rentals, Inc. (NYSE: URI) today announced financial results for the fourth quarter 2021 and reported its full year results on Form 10-K 1 . The company also announced a new $1 billion share repurchase program. Fourth Quarter 2021Highlights Total revenue of $2.776 billion, including rental revenue 2 of $2.312 billion. Fleet productivity 3 increased 10.3% year-over-year. Net income of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129164+00:00",
+              "published_date": null,
+              "source_hash": "fa088df619c96359424ac3910476d1f1"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Announces Record Third Quarter ...",
+              "snippet": "United Rentals, Inc. (NYSE: URI) today announced financial results for the third quarter of 2024 and reaffirmed, at mid-point, its 2024 outlook, while narrowing the outlook ranges for revenue, adjusted EBITDA 1 , rental capital expenditures and net cash provided by operating activities. Third Quarter 2024 Highlights Total revenue of $3.992 billion, including rental revenue 2 of $3.463 billion ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129186+00:00",
+              "published_date": null,
+              "source_hash": "9e1aa824fd7df1ea73bf338c579d37c1"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Announces Record First Quarter ...",
+              "snippet": "United Rentals, Inc. (NYSE: URI) today announced financial results for the first quarter of 2024 and raised its full-year 2024 guidance to include the expected financial contribution from the company's acquisition of Yak 1 on March 15, 2024. First Quarter 2024 Highlights Total revenue of $3.485 billion, including rental revenue 2 of $2.929 billion. Net income of $542 million, at a margin 3 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:39.129208+00:00",
+              "published_date": null,
+              "source_hash": "97f00ebc21736bea2c450cf0a77ff050"
+            },
+            {
+              "url": "",
+              "title": "United Rentals - Wikipedia",
+              "snippet": "United Rentals, Inc. is an American equipment rental company, with about 16 percent of the North American market share as of 2022. [5] It owns the largest rental fleet in the world with approximately 4,700 classes of equipment totaling about $19.3 billion in original equipment cost (OEC) as of 2022. [3] The company has a combined total of 1,625 locations, including an integrated network of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.458038+00:00",
+              "published_date": null,
+              "source_hash": "238cb74f7de2705885dd14d4b014d0a9"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Launches New Excavation Safety Training Program",
+              "snippet": "United Rentals, Inc., an equipment rental company, has launched its Excavation Safety Training for Competent Persons Program, offering an interactive approach to teaching trench and excavation safety. Designed to enhance compliance and productivity ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. regulatory compliance and safety violations",
+              "retrieved_at": "2025-01-06T15:36:42.887286+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "ecd033c671535518c6873cbde9eb731d"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "United Rentals' workplace policies and practices include commitments to safety, non-discrimination, freedom from harassment, and anti-violence. These policies are detailed in our Policy and Procedure Bulletins focused around Personal Safety Responsibility, Equal Employment Opportunity, Anti-Harassment and Anti-Violence, Employee",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.457867+00:00",
+              "published_date": null,
+              "source_hash": "d4711249fd99d98fc6e95a7ce0202d78"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - Governance - Letter to stockholders",
+              "snippet": "In 2023, we saw strong employee retention in a tight labor market and grew our employee base by almost 7%. We invested in our best-in-class safety culture, resulting in another excellent safety recordable rate for the year, while also strengthening the diversity of our organization and earning national recognition for our strong culture.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.457973+00:00",
+              "published_date": null,
+              "source_hash": "15e4a021b092cb047988b47c4c752ac2"
+            },
+            {
+              "url": "",
+              "title": "Mission & Values - United Rentals",
+              "snippet": "United Rentals, Inc. is the largest equipment rental company in the world. The company has an integrated network of 1,186 rental locations in North America and 11 in Europe. ... The company's approximately 18,500 employees serve construction and industrial customers, utilities, municipalities, homeowners and others. ... Engage in practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.457988+00:00",
+              "published_date": null,
+              "source_hash": "a060ba22e20d559ba900de0dfd3f67e1"
+            },
+            {
+              "url": "",
+              "title": "Scaffold Builder | Clearwater, FL | United Rentals",
+              "snippet": "Adhere to safe work practices and procedures so that the job site and/or equipment yard/facilities is free of potential hazards. ... Recognize safety concerns; work in a safe manner ... United Rentals, Inc. is an Equal Opportunity Employer and makes employment decisions regardless of race, color, religion, sex, national origin, age, genetic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.457999+00:00",
+              "published_date": null,
+              "source_hash": "fe550fc4df025872a9ebe15b77b474a3"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "unlawful or inconsistent with the Supplier Code, or any United Rentals' policy, risk termination of their business relationship with United Rentals. Complying with the Supplier Code is required in addition to meeting any other obligations contained in any agreement a supplier may have with United Rentals. Legal Compliance and Business Integrity",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.458009+00:00",
+              "published_date": null,
+              "source_hash": "27da556935a50d07657cced8fbfa74f7"
+            },
+            {
+              "url": "",
+              "title": "OREM, UT Equipment Rental Locations | United Rentals",
+              "snippet": "844.873.4948; Would you prefer the European site? We think you might, as BakerCorp is now United Rentals throughout Europe. To learn more about our products or career opportunities in Europe, please choose your language below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.458019+00:00",
+              "published_date": null,
+              "source_hash": "69db99ba2a523c27d1faa4c0eaf9132f"
+            },
+            {
+              "url": "",
+              "title": "United Rentals, Inc. - United Rentals Provides Update on Business ...",
+              "snippet": "Ensuring employee safety and well-being: Above all else, United Rentals is committed to ensuring the health, safety and well-being of its employees and customers. The company has implemented a variety of COVID-19 safety measures, including ensuring that branches have sufficient and adequate personal protection equipment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.458030+00:00",
+              "published_date": null,
+              "source_hash": "99aeeb61e9d1395dcf6568bd7bf1d27f"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Information - RocketReach",
+              "snippet": "View Top Employees from United Rentals As North America's largest equipment rental company, with 1500+ stores in the United States and Canada, we serve construction and industrial companies, utilities, municipalities, homeowners, and communities, with the goal of fulfilling customer needs and surpassing expectations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.458047+00:00",
+              "published_date": null,
+              "source_hash": "e41d19114f4f28060164bfa298e5ddea"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Inc, URI:NYQ profile - FT.com - Financial Times",
+              "snippet": "United Rentals, Inc. is an equipment rental company. The Company's segments include General Rentals and Specialty. ... including trench safety equipment, such as trench shields, aluminum hydraulic shoring systems, slide rails, crossing plates, construction lasers and line testing equipment for underground work; fluid solutions equipment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:44.458056+00:00",
+              "published_date": null,
+              "source_hash": "2731c758ebde01039bafac7f8529b1f6"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Launches New Excavation Safety Training Program",
+              "snippet": "The interactive training course transforms how workers learn regulations and safe practices for trench and excavation projects. United Rentals, Inc., an equipment rental company, has launched its Excavation Safety Training for Competent Persons Program ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:47.791254+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "3f84d962f65315acf8664903df7a3cb8"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Inc. stock underperforms Thursday when compared to competitors",
+              "snippet": "Shares of United Rentals Inc. URI slipped 0.18% to $726.11 Thursday, on what proved to be an all-around mixed trading session for the stock market, with the Dow Jones Industrial Average DJIA rising 0.07% to 43,325.80 and the S&P 500 Index SPX falling 0.04% ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:47.791391+00:00",
+              "published_date": "2024-12-26T21:55:00+00:00",
+              "source_hash": "26e253556ce4c6dfe17a197a5872d5e2"
+            },
+            {
+              "url": "",
+              "title": "Jim Cramer Says United Rentals, Inc. (URI) Is A 'Winner', Shares Up 26% YTD",
+              "snippet": "In this article, we are going to take a look at where United Rentals, Inc. (NYSE:URI) stands against the other industrial stocks. As 2024 comes to an end, the flagship S&P index is up by 25.9% ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:47.791424+00:00",
+              "published_date": "2024-12-30T23:15:00+00:00",
+              "source_hash": "1368a1fa444db2b9831bb1b5a1e1af7b"
+            },
+            {
+              "url": "",
+              "title": "United Rentals Inc. stock underperforms Monday when compared to competitors",
+              "snippet": "United Rentals Inc. closed $177.38 below its 52-week high ($896.98), which the company reached on November 11th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "United Rentals, Inc. United Rentals, Inc. labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T15:36:47.791450+00:00",
+              "published_date": "2024-12-23T21:54:00+00:00",
+              "source_hash": "04d4878e74773069879320ee81179e7a"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "United Rentals, Inc. carbon emissions and sustainability efforts",
+              "rationale": "Assess the company's progress in reducing its environmental impact and addressing criticism over diesel-powered equipment",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "United Rentals, Inc. regulatory compliance and safety violations",
+              "rationale": "Investigate potential legal or regulatory issues related to safety standards and environmental regulations in the equipment rental industry",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "United Rentals, Inc. labor practices and employee safety concerns",
+              "rationale": "Examine controversies or risks related to workforce treatment, safety protocols, and employee satisfaction",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:37:05.453601",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

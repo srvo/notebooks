@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:55:34.356156",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Baidu Inc",
+      "symbol": "BIDU",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and antitrust challenges, including fines and strict internet regulations",
+            "Geopolitical tensions, such as U.S.-China trade issues and delisting risks",
+            "Intense competition from Alibaba, Tencent, and ByteDance",
+            "Dependence on advertising revenue, making it vulnerable to economic downturns"
+          ],
+          "controversies": [
+            "Search engine bias and promotion of paid advertisements over organic results",
+            "Past controversies involving misleading medical advertisements",
+            "Compliance with Chinese censorship laws, drawing criticism from activists and observers",
+            "Public backlash for allegedly abusing its dominant market position"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Criticism for search engine bias and ethical concerns in advertising practices",
+            "Public backlash and reputational damage due to market dominance concerns"
+          ],
+          "governance_issues": [
+            "Antitrust fines and regulatory scrutiny from Chinese authorities",
+            "Compliance with strict Chinese internet regulations and censorship laws"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "China fines Alibaba, Tencent and Baidu for more antitrust violations - CNN",
+              "snippet": "Baidu fell the most, 2.1%, while Tencent slumped 0.3%. Alibaba fell 1.6%. The company on Friday plunged nearly 11% in its steepest decline since listing in Hong Kong in November 2019.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842262+00:00",
+              "published_date": null,
+              "source_hash": "923352179e91b6f29736019a641126e2"
+            },
+            {
+              "url": "",
+              "title": "China fines tech giants for failing to report 43 old deals",
+              "snippet": "China's market regulator on Saturday said it was fining companies including Alibaba, Baidu and JD.com for failing to declare 43 deals that date as far back as 2012 to authorities, saying that they ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842363+00:00",
+              "published_date": null,
+              "source_hash": "17e0643ad11c0c90d7a52e528361f25f"
+            },
+            {
+              "url": "",
+              "title": "Baidu defeats U.S. shareholder lawsuit over China internet law ...",
+              "snippet": "In a Wednesday night decision, U.S. District Judge Lucy Koh rejected claims in the proposed class action that 12 statements that Baidu made from March 2019 to March 2020 were false and misleading ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842376+00:00",
+              "published_date": null,
+              "source_hash": "f375a035e06d5e852c4f16549b39635b"
+            },
+            {
+              "url": "",
+              "title": "Alibaba, Tencent, Baidu fined by China's competition watchdog",
+              "snippet": "Alibaba Group Holding Ltd., Tencent Holdings Ltd. and Baidu Inc. are among companies that have been ordered to pay a total of 21.5 million yuan ($3.4 million) in fines by China's competition ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842386+00:00",
+              "published_date": null,
+              "source_hash": "6fa107f4e246e789ca81834430a9dd0f"
+            },
+            {
+              "url": "",
+              "title": "Companies fined in anti-monopoly efforts - Chinadaily.com.cn",
+              "snippet": "China's top market regulator fined companies including Alibaba Group, Baidu Inc and Tencent Holdings Ltd for violating the Anti-Monopoly Law, which industry experts said on Sunday is a broader part of normalized antitrust efforts following the recent setup of the anti-monopoly bureau.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842397+00:00",
+              "published_date": null,
+              "source_hash": "e50446eaff4cbd7ecb8c7341bc73e731"
+            },
+            {
+              "url": "",
+              "title": "China's Baidu defeats U.S. lawsuit over censored search results - Yahoo",
+              "snippet": "By Jonathan Stempel NEW YORK (Reuters) - Chinese Internet company Baidu Inc on Thursday won the dismissal of a U.S. lawsuit by pro-democracy activists who complained that Baidu illegally ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756373+00:00",
+              "published_date": null,
+              "source_hash": "6ad74c6519efa18533aae0f9b0eae1a5"
+            },
+            {
+              "url": "",
+              "title": "China's antitrust watchdog fines Citic Bank, Baidu unit for failing to ...",
+              "snippet": "Citic Bank and a unit of tech giant Baidu were fined US$78,280 yuan each for violating anti-monopoly law; China's antitrust watchdog fines Citic AiBank because the joint venture partners failed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842418+00:00",
+              "published_date": null,
+              "source_hash": "9d3de93ef5675494184cc20ccfd5d141"
+            },
+            {
+              "url": "",
+              "title": "China fines tech giants over anti-monopoly violations | AP News",
+              "snippet": "In this photo released by Xinhua News Agency, Wang Yong, Chinese state councilor and director of the Anti-Monopoly Commission of the State Council, at center attends the inauguration of the National Anti-Monopoly Bureau in Beijing, capital of China, on Thursday, Nov. 18, 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842426+00:00",
+              "published_date": null,
+              "source_hash": "9fed17d79cea3e0cc324b8de6435bcc5"
+            },
+            {
+              "url": "",
+              "title": "Baidu defeats U.S. shareholder lawsuit over China internet law ...",
+              "snippet": "A U.S. judge has dismissed a lawsuit accusing Baidu Inc (9888.HK), of defrauding shareholders about its ability to comply with Chinese regulations governing internet content.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842435+00:00",
+              "published_date": null,
+              "source_hash": "0bdf46ebd9ba4b20e1a2665b49db97e5"
+            },
+            {
+              "url": "",
+              "title": "Baidu defeats U.S. shareholder lawsuit over China internet law compliance",
+              "snippet": "A U.S. judge has dismissed a lawsuit accusing Baidu Inc of defrauding shareholders about its ability to comply with Chinese regulations governing internet content. In a Wednesday night decision, U ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:04.842444+00:00",
+              "published_date": null,
+              "source_hash": "470919d61cc4459a09ca5fee060bf763"
+            },
+            {
+              "url": "",
+              "title": "Baidu Inc",
+              "snippet": "Baidu-backed Ji Yue Auto to streamline operations, seeks to raise fresh funds December 11, 2024 China has found a clever way to retaliate against Washington. Beijing has started an antitrust ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:08.080107+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "8e87e15ce3493714270b9f0c11919f0d"
+            },
+            {
+              "url": "",
+              "title": "China Fines Alibaba and Other Tech Giants in Latest Antitrust Investigation",
+              "snippet": "China's competition watchdog on Saturday said it was fining companies including Alibaba Group Holding, Tencent Holdings, Baidu and ... Beijing has been increasing antitrust oversight over the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:08.080195+00:00",
+              "published_date": "2024-11-21T00:00:00+00:00",
+              "source_hash": "c9dfa94472ddfb8ee6b1d716c7ed6b97"
+            },
+            {
+              "url": "",
+              "title": "What Makes Baidu (BIDU) a Top Pick for Asian Hedge Funds in the AI Race?",
+              "snippet": "We recently compiled a list of the 11 Important AI News and Ratings for Investors. In this article, we are going to take a look at where Baidu, Inc. (NASDAQ:BIDU) stands against the other AI stocks. The rapid advancements in artificial intelligence have raised both opportunities and concerns,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:08.080212+00:00",
+              "published_date": "2024-12-20T16:23:00+00:00",
+              "source_hash": "c9f6b4b9f52342bf97a9c28382d3dfbe"
+            },
+            {
+              "url": "",
+              "title": "Baidu (BIDU) Joins China's AI Standardization Committee to Lead AI Innovation",
+              "snippet": "Baidu, Inc. (NASDAQ:BIDU) is a Chinese internet giant that specializes in artificial intelligence (AI) and internet services. On December 14, the South China Morning Post reported that China's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc antitrust investigations China",
+              "retrieved_at": "2025-01-06T20:55:08.080224+00:00",
+              "published_date": "2024-12-18T07:22:00+00:00",
+              "source_hash": "b02709c0bf2e08eac73bc3993eb46383"
+            },
+            {
+              "url": "",
+              "title": "Criticisms of Baidu - Wikipedia",
+              "snippet": "Criticisms of Baidu and related controversies related to the company refer to the critical assessment of and incidents related to Baidu ... Baidu's Chinese search engine maintains an extensive list of filtered keywords used to censor content in search results and other services. When users search for terms or images prohibited by the Chinese ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756196+00:00",
+              "published_date": null,
+              "source_hash": "86a5e57352053f73a47ac2b7b44d5aa3"
+            },
+            {
+              "url": "",
+              "title": "Baidu's perfect paradox: free speech and the right to censor",
+              "snippet": "Eight New York-based pro-democracy activists sued Baidu Inc in 2011, seeking damages because Baidu prevents their work from showing up in search results. Baidu follows Chinese law that requires it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756303+00:00",
+              "published_date": null,
+              "source_hash": "9a58a1ca8a4ec7a8aa9e404f0c26735f"
+            },
+            {
+              "url": "",
+              "title": "Baidu faces popular backlash over promotion of sponsored sites",
+              "snippet": "HONG KONG -- China's search engine Baidu Inc. is facing a wave of public criticism in the world's largest internet market as users question whether Baidu has abused its monopoly in a country where ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756319+00:00",
+              "published_date": null,
+              "source_hash": "d349c968372f0d3cd1513f2a7ed5fd43"
+            },
+            {
+              "url": "",
+              "title": "Baidu Bruised By Markets Skittish About Misleading Newspaper Report",
+              "snippet": "Baidu, whose primary business is its search engine, is not comparable to Huawei. Nonetheless, this is the context of the South China Morning Post article and its subsequent impact on the Chinese ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756330+00:00",
+              "published_date": null,
+              "source_hash": "a1da9c49b1986a6da3497aeeaf3cc8db"
+            },
+            {
+              "url": "",
+              "title": "Baidu's Political Censorship is Protected by First Amendment ... - DMLP",
+              "snippet": "This post will introduce the debate over search engine bias and the First Amendment, analyze the recent decision in Zhang v. Baidu, ... Yahoo, and Bing, it was allegedly \"banned from any search performed on \u2026 Baidu.\" Baidu responded by filing a motion for judgment on the pleadings. Baidu argued that the plaintiffs' suit should be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756339+00:00",
+              "published_date": null,
+              "source_hash": "cd539fb15f2653adef7971bc7fcef249"
+            },
+            {
+              "url": "",
+              "title": "'Difficult years' for Baidu as China's internet goes mobile",
+              "snippet": "Baidu. has been China's dominant search engine for much of the past two decades, but is once again facing heavy criticism, after a claim went viral that it prioritised links to its own platforms ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756355+00:00",
+              "published_date": null,
+              "source_hash": "30c37171b451df227f8f8bf6d7628b5c"
+            },
+            {
+              "url": "",
+              "title": "Of Course The First Amendment Protects Baidu's Search Engine ... - Forbes",
+              "snippet": "For further perspectives on the legal regulation of search engine results, see my 2006 article on search engine bias (cited by the court) and my 2011 revisit of the topic. Case citation : Zhang v.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756365+00:00",
+              "published_date": null,
+              "source_hash": "fbd7ede74869292be38c69084d29bb0b"
+            },
+            {
+              "url": "",
+              "title": "Baidu, China sued in U.S. for Internet censorship | Reuters",
+              "snippet": "Eight New York residents sued Baidu Inc and the People's Republic of China on Wednesday, accusing China's biggest search engine of conspiring with the country's government to censor pro-democracy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756382+00:00",
+              "published_date": null,
+              "source_hash": "944f69cca3e33a35306002e77cdd5598"
+            },
+            {
+              "url": "",
+              "title": "U.S. judge rules Baidu's censorship is protected as free speech",
+              "snippet": "The lawsuit against Baidu, originally filed in 2011 by eight activists in New York, claimed that the Chinese search engine had violated U.S. laws on free speech.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Baidu Inc Baidu Inc search engine bias controversies",
+              "retrieved_at": "2025-01-06T20:55:09.756391+00:00",
+              "published_date": null,
+              "source_hash": "8d48e36ac7144d1218e8149ddfccf3ec"
+            },
+            {
+              "url": "",
+              "title": "Exclusive: Baidu considers leaving the Nasdaq to boost its valuation ...",
+              "snippet": "Chinese search engine giant Baidu Inc is considering delisting from the U.S. Nasdaq and moving to an exchange closer to home to boost its valuation amid rising tension between the United States ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902474+00:00",
+              "published_date": null,
+              "source_hash": "85b4d75587913a9c0f3dda565232d30f"
+            },
+            {
+              "url": "",
+              "title": "Should Investors Avoid Baidu Stock Due to Geopolitical Risks?",
+              "snippet": "However, for all the concerns about the U.S.-China rivalry, it has no direct effect on Baidu stock. According to StatCounter, Baidu controls about 55% of the internet search market in China.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902533+00:00",
+              "published_date": null,
+              "source_hash": "852421f3e6126c7e3ceba5d8b14a0eca"
+            },
+            {
+              "url": "",
+              "title": "China's Baidu exploring options after U.S. delisting risk",
+              "snippet": "Chinese search engine giant Baidu Inc said on Thursday it is exploring options, after the company was added to a U.S. securities regulator's list of companies that face the risk of being delisted.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902546+00:00",
+              "published_date": null,
+              "source_hash": "2175dae8a579cf464ed55b22b408313e"
+            },
+            {
+              "url": "",
+              "title": "1 Green Flag and 1 Red Flag for Baidu's Delisting Dilemma",
+              "snippet": "Baidu (BIDU-1.80%) has been one of the most well-known Chinese tech stocks on the Nasdaq Exchange ever since its public debut in 2005. It owns the country's largest online search engine, one of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902555+00:00",
+              "published_date": null,
+              "source_hash": "713ea529b4653e31fb2067902fd5334f"
+            },
+            {
+              "url": "",
+              "title": "Baidu Considers Delisting From Nasdaq and Moving To Another Exchange ...",
+              "snippet": "By Julie Zhu, Zhang Yan HONG KONG/BEIJING (Reuters) - Chinese search engine giant Baidu Inc is considering delisting from the U.S. Nasdaq and moving to an exchange closer to home to boost its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902564+00:00",
+              "published_date": null,
+              "source_hash": "d3d0828e7e5dafea697995162bd4530c"
+            },
+            {
+              "url": "",
+              "title": "Baidu Falls as SEC Action Raises Delisting Fears - Yahoo Finance",
+              "snippet": "Investing.com - Baidu (NASDAQ:BIDU) stock traded 3.5% weaker in premarket Thursday after the U.S. securities regulator added its name to the list of companies that face the risk of being ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902573+00:00",
+              "published_date": null,
+              "source_hash": "c39a135fa77ae898a7cd7ac1f7cc9e13"
+            },
+            {
+              "url": "",
+              "title": "Baidu 'actively exploring' solutions after SEC adds it to firms facing ...",
+              "snippet": "Baidu 'actively exploring' solutions after SEC adds it to firms facing risk of delisting Mar. 31, 2022 7:18 AM ET Baidu, Inc. (BIDU) Stock TWTR , HCM , WB , ONC , YUMC , ZLAB , ACMR By: Chris ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902584+00:00",
+              "published_date": null,
+              "source_hash": "f1925a392fac450c4d0482f0329ab434"
+            },
+            {
+              "url": "",
+              "title": "Baidu considers delisting from Nasdaq to increase its valuation as ...",
+              "snippet": "Baidu is exploring the possibility of delisting its stock from the Nasdaq exchange in order to boost its valuation and escape increasing pressure being put on Chinese companies by US lawmakers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902592+00:00",
+              "published_date": null,
+              "source_hash": "769f97d54a42742d8f08a6a495f99526"
+            },
+            {
+              "url": "",
+              "title": "Baidu Exploring Potential Options After SEC Warns of US Delisting",
+              "snippet": "-- Baidu said Thursday it is evaluating options after it was identified by the Securities and Exchange Commission of being at potential risk of a delisting from a US stock exchange. The Chinese... 7fb.gmjKeN6sM7V-DC-KNPBx35vxgY1OjqcIvRh1_APk-_M.1S-5MujYQd8tdGX5A8cauOKI5_0azPJs1GI-ummizZ7YPZNI68RV-zY_Hw",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902605+00:00",
+              "published_date": null,
+              "source_hash": "4e6c435311334706c63b7957d8f7b1c6"
+            },
+            {
+              "url": "",
+              "title": "Baidu Added to List of Chinese Stocks Facing Delisting Risks in U.S.",
+              "snippet": "U.S. regulators added Baidu to a list of New York-listed Chinese companies that face delisting risks for failing to meet new auditing requirements. Baidu, China's biggest search provider that also operates many other internet services, is the latest addition to the lengthening list, which includes major social media firm Weibo and several biotechnology firms.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:13.902614+00:00",
+              "published_date": null,
+              "source_hash": "049a43d4babc1853fe50317ea6cd610d"
+            },
+            {
+              "url": "",
+              "title": "Baidu: Patience Will Be Rewarded",
+              "snippet": "Find out why patience is key for investors in Baidu despite challenges from economic uncertainty, fiscal policies, and US-China tensions.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:17.230308+00:00",
+              "published_date": "2024-12-30T15:55:00+00:00",
+              "source_hash": "b53915b214687d9c3450375dd12d9734"
+            },
+            {
+              "url": "",
+              "title": "Baidu, Inc. (BIDU): JPMorgan Downgrades to Neutral Amid Uncertainty in Macro Outlook and Generative AI Impact",
+              "snippet": "In this article, we are going to take a look at where Baidu, Inc. (NASDAQ:BIDU ... as his 2025 target for the broad market index. The U.S. will remain \"the global growth engine with the business ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Baidu Inc Baidu Inc U.S. delisting risks and implications",
+              "retrieved_at": "2025-01-06T20:55:17.230338+00:00",
+              "published_date": "2024-11-30T23:29:00+00:00",
+              "source_hash": "6948a5261b9cfda6105722feabccc542"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Baidu Inc antitrust investigations China",
+              "rationale": "Investigate ongoing or past antitrust cases and their impact on Baidu's operations",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Baidu Inc search engine bias controversies",
+              "rationale": "Explore public and regulatory concerns about biased search results and paid advertisements",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Baidu Inc U.S. delisting risks and implications",
+              "rationale": "Assess the potential impact of U.S.-China tensions on Baidu's stock listing and financial stability",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:55:34.356164",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

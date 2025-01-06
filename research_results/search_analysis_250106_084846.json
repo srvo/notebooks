@@ -1,0 +1,484 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:48:46.555195",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "State Street Corp",
+      "symbol": "STT",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal issues, including significant fines and employment discrimination cases",
+            "Cybersecurity vulnerabilities, with recent data breaches affecting sensitive financial data",
+            "ESG-related legal challenges, including antitrust lawsuits from Republican-led states",
+            "Market and operational risks due to reliance on global financial markets and competition"
+          ],
+          "controversies": [
+            "$115 million criminal fine for defrauding clients by overcharging expenses",
+            "$4.2 million settlement in an employment discrimination case",
+            "Antitrust lawsuits over ESG initiatives from 11 Republican-led states"
+          ],
+          "environmental_issues": [
+            "Legal challenges related to ESG initiatives and climate activism"
+          ],
+          "social_issues": [
+            "Employment discrimination cases raising concerns about workplace practices"
+          ],
+          "governance_issues": [
+            "Regulatory penalties highlighting compliance risks and reputational damage",
+            "Leadership changes introducing execution risks during transition"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "state-street-corp | Violation Tracker - Good Jobs First",
+              "snippet": "Links: For a summary of this company's regulatory penalties in more than 50 other countries, ... State Street Corporation: fraud: 2021: USAO $115,000,000: State Street Bank And Trust Co. ... State Street Corp. employment discrimination: 2024: OFCCP $4,200,000:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737200+00:00",
+              "published_date": null,
+              "source_hash": "9b7682a78859a701b3a7446d906a06ef"
+            },
+            {
+              "url": "",
+              "title": "State Street Corporation to Pay $115 Million Criminal Penalty and Enter ...",
+              "snippet": "BOSTON - Massachusetts-based global financial services company State Street Corporation entered into a deferred prosecution agreement and agreed to pay a $115 million criminal penalty to resolve charges that it engaged in a scheme to defraud a number of the bank's clients by secretly overcharging for expenses related to the bank's custody of client assets.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737306+00:00",
+              "published_date": null,
+              "source_hash": "a3d9a6c4af42fd7d8d661ebbc8b5f1cd"
+            },
+            {
+              "url": "",
+              "title": "State Street to pay $115 million criminal fine for overcharges - U.S ...",
+              "snippet": "(Reuters) -State Street Corp agreed to pay a $115 million criminal penalty and enter a deferred prosecution agreement to resolve charges the bank defrauded customers by secretly overcharging them ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737321+00:00",
+              "published_date": null,
+              "source_hash": "6da45a8a402d582f71520dbdbf5c0eb1"
+            },
+            {
+              "url": "",
+              "title": "State Street Corporation Agrees to Pay More than $64 Million to Resolve ...",
+              "snippet": "Massachusetts-based global financial services company State Street Corporation (State Street) entered into a deferred prosecution agreement and agreed to pay a $32.3 million criminal penalty to resolve charges that it engaged in a scheme to defraud a number of the bank's clients by secretly applying commissions to billions of dollars of securities trades.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737332+00:00",
+              "published_date": null,
+              "source_hash": "ccb046a93b7162dc3e418f51ee9d0678"
+            },
+            {
+              "url": "",
+              "title": "State Street to pay $115M in overcharge case | Bankers Online",
+              "snippet": "State Street Corporation, Boston, Massachusetts, has entered into a deferred prosecution agreement and agreed to pay a $115 million criminal penalty to resolve charges that it engaged in a scheme to defraud a number of the bank's clients by secretly overcharging for expenses related to the bank's custody of client assets, according to a May 13 press release from the U.S. Attorney's Office ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737342+00:00",
+              "published_date": null,
+              "source_hash": "294e929cd61cd9b390e616b42eed9aca"
+            },
+            {
+              "url": "",
+              "title": "State Street Paying Penalties to Settle Fraud Charges and Disclosure ...",
+              "snippet": "State Street Global Markets LLC, State Street Global Advisors Funds Distributors LLC, and State Street Bank and Trust Company agreed to pay a $32.3 million penalty to settle the fraud charges for the hidden transition services markups, which violated Sections 17(a)(1) and (3) of the Securities Act of 1933 as well as Section 15(c)(1) and Section ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737352+00:00",
+              "published_date": null,
+              "source_hash": "e183f886cd79b87fcf299a0c08ce5d5a"
+            },
+            {
+              "url": "",
+              "title": "State Street agrees to pay $115 million criminal fine for customer ...",
+              "snippet": "State Street Corp agreed to pay a $115 million criminal penalty and enter a deferred prosecution agreement to resolve charges it defrauded customers by secretly overcharging them for expenses, the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737363+00:00",
+              "published_date": null,
+              "source_hash": "c48f5323b3f53fc1a4d96ea6f3a778b6"
+            },
+            {
+              "url": "",
+              "title": "State Street Corporation To Pay $115M Criminal Penalty",
+              "snippet": "The top of the State Street Financial Center in Downtown Boston. (Jesse Costa/WBUR) State Street Corporation has agreed to pay a $115 million criminal penalty to resolve charges that it schemed to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737372+00:00",
+              "published_date": null,
+              "source_hash": "3892a0804f00961cdf93ab15a32c3cb1"
+            },
+            {
+              "url": "",
+              "title": "State Street (STT) Agrees to Pay a Criminal Penalty of $115M",
+              "snippet": "State Street (STT) enters a deferred prosecution agreement and agrees to pay $115 million criminal fine to settle charges that it deceived customers by overcharging them for back-office expenses.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737381+00:00",
+              "published_date": null,
+              "source_hash": "b62ee097d69bcda1cc5cfd62864e84da"
+            },
+            {
+              "url": "",
+              "title": "State Street agrees to pay $115 mln criminal fine for customer ... - Nasdaq",
+              "snippet": "A dds details throughout. May 13 (Reuters) - State Street Corp STT.N agreed to pay a $115 million criminal penalty and enter a deferred prosecution agreement to resolve charges it defrauded ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:14.737389+00:00",
+              "published_date": null,
+              "source_hash": "341a83dd5368a07c19457c8b8a326a44"
+            },
+            {
+              "url": "",
+              "title": "state street corp. - STT",
+              "snippet": "The CEOs of the eight largest U.S. banks planned to push back on pending banking regulations ... Banking Committee. State Street Corp agreed to pay a $115 million criminal penalty and enter ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T15:48:18.409140+00:00",
+              "published_date": "2024-09-26T17:24:00+00:00",
+              "source_hash": "b06b48148803a951a38c24c46e217265"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, State Street, Vanguard sued by GOP states over ESG goals",
+              "snippet": "BlackRock, State Street and Vanguard have been sued by Texas and 10 other Republican-led states, which said the large asset managers violated antitrust law through climate activism that resulted ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.950978+00:00",
+              "published_date": null,
+              "source_hash": "e4db341ba473dd1f975e87af7eaa747b"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, Vanguard, and State Street sued in Republican anti-ESG ...",
+              "snippet": "Federal complaint filed in Texas court by a consortium of 11 states argues the fund giants used their market power to pressure energy companies and ultimately hurt consumers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951092+00:00",
+              "published_date": null,
+              "source_hash": "22878150a9ec0f36b68aa5b2499d818d"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, Vanguard, State Street sued by Republican states over ...",
+              "snippet": "(Reuters) -BlackRock, Vanguard and State Street have been sued by Texas and 10 other Republican-led states, which said the large asset managers violated antitrust law through climate activism that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951107+00:00",
+              "published_date": null,
+              "source_hash": "c42c21505cdc4f2611382497ed888bfd"
+            },
+            {
+              "url": "",
+              "title": "Texas Leads 11 States in ESG Suit Against Vanguard, BlackRock, State Street",
+              "snippet": "The Republican war on ESG investing has taken a new turn. A coalition of 11 states, led by Texas, has brought a lawsuit against Vanguard Group, BlackRock, and State Street Corp.The states allege ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:23.525168+00:00",
+              "published_date": "2024-12-04T21:21:00+00:00",
+              "source_hash": "17cda80b6b3a8fb37bef719164c96254"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, State Street & Vanguard Face Antitrust Violation Lawsuit",
+              "snippet": "BlackRock Inc. BLK, State Street Corp. STT and Vanguard have been accused of violation of antitrust law via climate activism, which reduced coal output and hiked energy prices. The allegations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951130+00:00",
+              "published_date": null,
+              "source_hash": "4a653a7d03a01343d329f76646f857aa"
+            },
+            {
+              "url": "",
+              "title": "Suddenly Vanguard, BlackRock, State Street not only have the ... - RIABiz",
+              "snippet": "A handful of super-charged fund managers control $34 trillion of assets and most of the ESG inflows, giving them 'carte blanche' to shape corporate policies. News, Vision & Voice for the Advisory Community",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951141+00:00",
+              "published_date": null,
+              "source_hash": "8df1bdeb92f051431d7ce8388f1df254"
+            },
+            {
+              "url": "",
+              "title": "State Street boss says facts 'left aside' in attacks on ESG funds",
+              "snippet": "Unlike its indexing rival Vanguard, which dropped out of the main financial alliance on climate change last autumn, State Street's asset management arm has committed to making the group's $3 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951151+00:00",
+              "published_date": null,
+              "source_hash": "2f977baabca512ad388789c12a6c0a5f"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, Vanguard, and State Street turned against environmental and ...",
+              "snippet": "The most surprising finding is how thoroughly the \"Big 3\" investors\u2014BlackRock, Vanguard and State Street\u2014turned against environmental and social shareholder proposals in the past year. In ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951161+00:00",
+              "published_date": null,
+              "source_hash": "68418c6e00be4743c90ebaa705421982"
+            },
+            {
+              "url": "",
+              "title": "State Street Corp. Faces Legal and Political Scrutiny Over Climate ...",
+              "snippet": "State Street Corp. finds itself at the intersection of legal challenges and political scrutiny as allegations of antitrust violations and climate initiative controversies unfold. With the potential for billions in damages and a shifting landscape in ESG investing, how will this impact the firm's future and investor confidence?",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951177+00:00",
+              "published_date": null,
+              "source_hash": "52ffce98c34d37e7823e4245ef7eef44"
+            },
+            {
+              "url": "",
+              "title": "State Street under fire for environmental, social, and governance focus",
+              "snippet": "State Street was already an easy target for the ESG haters: It started endorsing climate-oriented shareholder proposals in 2015, and advocating for more diversity on corporate boards in 2018 (a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:19.951189+00:00",
+              "published_date": null,
+              "source_hash": "161f372c11b28ecf830eb2f246d208d3"
+            },
+            {
+              "url": "",
+              "title": "State Street Corporation (STT)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:23.525233+00:00",
+              "published_date": "2024-12-27T23:15:00+00:00",
+              "source_hash": "fac22bc666cd7980aee0c2ffc50e4bbe"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, State Street & Vanguard Face Antitrust Violation Lawsuit",
+              "snippet": "BlackRock Inc. BLK, State Street Corp. STT and Vanguard have been accused ... social, and governance (ESG) goals. The 10 other states are Alabama, Arkansas, Indiana, Iowa, Kansas, Missouri ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:23.525261+00:00",
+              "published_date": "2024-11-28T18:26:00+00:00",
+              "source_hash": "6dcf711635b9e343e214300b7e1b2cda"
+            },
+            {
+              "url": "",
+              "title": "State Street Corp. stock outperforms competitors despite losses on the day",
+              "snippet": "Shares of State Street Corp. STT shed 0.15% to $100.46 Friday, on what proved to be an all-around mixed trading session for the stock market, with the S&P 500 Index SPX remaining mostly unchanged ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "State Street Corp State Street Corp ESG controversies",
+              "retrieved_at": "2025-01-06T15:48:23.525286+00:00",
+              "published_date": "2024-12-13T22:02:00+00:00",
+              "source_hash": "800557b8e238c2338e10be0d98e10b7d"
+            },
+            {
+              "url": "",
+              "title": "2024-225 - Mass.gov",
+              "snippet": "State Street Corporation One Congress Street Boston, MA 02114-2016 statestreet.com Information Classification: General Month DD, YYYY NOTICE of DATA BREACH Name Address City, State Zip Dear [Name]: State Street is a service provider to your retirement plan. We are one of the world's leading providers to ... cyber security breach. We are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965487+00:00",
+              "published_date": null,
+              "source_hash": "612f2d24c5dbf784a4948ed30971d1af"
+            },
+            {
+              "url": "",
+              "title": "State Street Security Rating, Vendor Risk Report, and Data Breaches",
+              "snippet": "State Street Data Breaches, Cybersecurity Incidents and News. Security incidents, news, and data leaks relating to State Street. Coming soon. ... Starbucks. Starbucks Corporation is an American coffee company and coffeehouse chain. Starbucks was founded in Seattle, Washington in 1971. As of 2018, the company operates 28,218 locations worldwide ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965608+00:00",
+              "published_date": null,
+              "source_hash": "53c07192677d3ea0ffda28818173c62f"
+            },
+            {
+              "url": "",
+              "title": "state-street-corp | Violation Tracker - Good Jobs First",
+              "snippet": "Violation Tracker Current Parent Company Summary Current Parent Company Name: State Street Corp. Ownership Structure: publicly traded (ticker symbol STT) Headquartered in: Massachusetts Major Industry: financial services Specific Industry: financial services Penalty total since 2000: $1,237,471,675 Number of records: 23",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965629+00:00",
+              "published_date": null,
+              "source_hash": "ff596cc67f408728700a29be7df9da95"
+            },
+            {
+              "url": "",
+              "title": " STATE STREET CORPORATION, INFORMATION - United States Department of Justice",
+              "snippet": "Defendant STATE STREET CORPORATION (\"STATE STREET\" or the \"bank\") was a financial services company headquartered and with its principal place of business in Boston, Massachusetts. STATE STREET owned one of the world's largest custody banks, State Street Bank and Trust Company. Its clients included corporate and public retirement plans ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965644+00:00",
+              "published_date": null,
+              "source_hash": "3611cba1452ddc8a9f56f7d08b6df6ce"
+            },
+            {
+              "url": "",
+              "title": "Maintaining critical functions and minimizing risk at State Street ...",
+              "snippet": "Since the onset of the COVID-19 pandemic, Managing Director and Chief Security Officer Stephen D. Baker, CPP, and his entire security function provided strategy and risk leadership with ongoing risk assessments and mitigation strategies at the State Street Corporation. This allowed the company to continue its global operations, placed workers at ease and supported State Street clients' needs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965657+00:00",
+              "published_date": null,
+              "source_hash": "23ae3f0258e19c51b9033c3f97a2fdaf"
+            },
+            {
+              "url": "",
+              "title": "Digging Into the State Street Settlement - Radical Compliance",
+              "snippet": "I haven't had time to write about this until now, but last week State Street Corp. agreed to pay a $115 million criminal penalty and accept a compliance monitor for two years, to settle charges that the bank deliberately overcharged its clients for years.If you want an example of how invasive compliance monitorships can be, this is a settlement worth reading.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965671+00:00",
+              "published_date": null,
+              "source_hash": "1b69c7f5f4ebd97147407007e4d6e4e1"
+            },
+            {
+              "url": "",
+              "title": "Ensuring Security and Safety at The State Street Corporation",
+              "snippet": "Keeping a business running for more than 227 years takes effective security management. This is true for State Street Corporation, the second oldest bank in the United States. A global company with headquarters in downtown Boston, State Street Corporation (State Street) was founded in 1792. It is ranked among the largest banks in the United States by assets, with $31 trillion of assets under ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965683+00:00",
+              "published_date": null,
+              "source_hash": "1e9bf1221564131620c2429e6935194f"
+            },
+            {
+              "url": "",
+              "title": "State Street Corp. faces possible data breach at bank that it acquired",
+              "snippet": "State Street Corp. faces a new headache from its acquisition of Investors Financial Services Corp. last year because of the theft of computer equipment that contained personal data for roughly ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965697+00:00",
+              "published_date": null,
+              "source_hash": "5e8060786ba0e35cc931dcb8a5fbc6f2"
+            },
+            {
+              "url": "",
+              "title": "The evolution of electronic markets in securities ... - State Street",
+              "snippet": "The recent cybersecurity incident at EquiLend has highlighted gaps in the securities borrowing and lending industry. ... announcements and other commercial electronic messages regarding products and services from State Street Corporation and its affiliates and subsidiaries (\"State Street\"). ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965709+00:00",
+              "published_date": null,
+              "source_hash": "814ad22d3a0f2c424cbebff4db65f466"
+            },
+            {
+              "url": "",
+              "title": "State Street monitor certifies compliance with DOJ overcharging accord",
+              "snippet": "The case is U.S. v. State Street Corp, U.S. District Court, District of Massachusetts, No. 21-10153. For the United States: Stephen Frank of the U.S. Attorney's Office for the District of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "State Street Corp State Street Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:24.965721+00:00",
+              "published_date": null,
+              "source_hash": "294c317ed93cd859d67a54cd7b78c1c0"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "State Street Corp regulatory fines and penalties",
+              "rationale": "Investigate past legal issues related to overcharging clients and improper foreign exchange transactions",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "State Street Corp ESG controversies",
+              "rationale": "Assess potential controversies or criticisms related to State Street's ESG investment products and practices",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "State Street Corp cybersecurity breaches",
+              "rationale": "Examine incidents of cyberattacks or data breaches affecting State Street's operations and client data",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:48:46.555204",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

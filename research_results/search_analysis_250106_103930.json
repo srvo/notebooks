@@ -1,0 +1,601 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:39:30.430013",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Banco Santander-Chile",
+      "symbol": "BSAC",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory and compliance issues, including fines for failing to submit banking records",
+            "Cybersecurity vulnerabilities, including a significant data breach affecting over 320,000 clients",
+            "Economic and market volatility, particularly sensitivity to Chile's inflation, interest rates, and currency risks"
+          ],
+          "controversies": [
+            "Multiple sanctions from the Financial Market Commission (CMF) for regulatory breaches",
+            "Cybersecurity breach compromising customer and employee data in multiple countries"
+          ],
+          "environmental_issues": [
+            "No significant environmental issues reported"
+          ],
+          "social_issues": [
+            "Cybersecurity breach impacting customer trust and data security"
+          ],
+          "governance_issues": [
+            "Regulatory non-compliance and fines for breaches of the General Banking Act"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "CMF sanctions Banco Santander Chile for failing to submit banking ...",
+              "snippet": "March 27, 2024 - The Board of the Financial Market Commission (CMF) sanctioned Banco Santander Chile with a fine of UF 400 through Exempt Resolution No. 2,638 for failing to submit in a timely manner banking records required by the Public Prosecutor's Office to carry out a criminal investigation. During the sanctioning procedure, it became evident that the bank repeatedly infringed Article 154 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829410+00:00",
+              "published_date": null,
+              "source_hash": "682bc926cbb0905ab71bb6b47d58fab4"
+            },
+            {
+              "url": "",
+              "title": "CMF sanciona a Banco Santander Chile y a Banco de Cr\u00e9dito e Inversiones ...",
+              "snippet": "26 de noviembre de 2024.-La Comisi\u00f3n para el Mercado Financiero (CMF) informa que, mediante Resoluci\u00f3n Exenta N\u00b0 10609 y N\u00b0 10613, su Consejo aplic\u00f3 una multa de UF 450 al Banco Santander Chile y de UF 250 al Banco de Cr\u00e9dito e Inversiones, respectivamente, por no remitir de forma total y oportuna al Ministerio P\u00fablico, diversos antecedentes bancarios requeridos por el organismo ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829511+00:00",
+              "published_date": null,
+              "source_hash": "926590c52cb3ddd16f9e9264ae9c5443"
+            },
+            {
+              "url": "",
+              "title": "CMF sanctions Banco Santander Chile, Banco de Cr\u00e9dito e Inversiones for ...",
+              "snippet": "CMF sanctions Banco Santander Chile, Banco de Cr\u00e9dito e Inversiones for failing to submit banking records required for a criminal investigation by the Public Prosecutor's Office The Commission applied fines of UF 450 and 250, respectively, for breaching the provisions of Article 154 of the General Banking Act, which mandates financial institutions to submit background information for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829531+00:00",
+              "published_date": null,
+              "source_hash": "553ddbc202c6d4012fa203623127ec46"
+            },
+            {
+              "url": "",
+              "title": "CMF sanciona al Santander y Bci por no remitir al Ministerio P\u00fablico ...",
+              "snippet": "Banco Santander Chile, multa de UF 450. Banco de Cr\u00e9dito e Inversiones (Bci), multa de UF 250. En el curso de los procedimientos sancionatorios, las entidades bancarias aceptaron la responsabilidad por su infracci\u00f3n al art\u00edculo 154 de la Ley General de Bancos, que se\u00f1ala que estas entidades deben remitir dentro de un plazo de 10 d\u00edas ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829546+00:00",
+              "published_date": null,
+              "source_hash": "28e0fa1a3af70460ef9740b6a6aa1487"
+            },
+            {
+              "url": "",
+              "title": "CMF multa a los bancos Santander Chile y BCI por env\u00edo tard\u00edo de ...",
+              "snippet": "El Banco Santander Chile y el Banco de Cr\u00e9dito e Inversiones (BCI) fueron sancionados con 450 y 250 Unidades de Fomento (UF) respectivamente, por remitir de forma tard\u00eda la informaci\u00f3n ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829560+00:00",
+              "published_date": null,
+              "source_hash": "fed8a4724869905da86e169029559a44"
+            },
+            {
+              "url": "",
+              "title": "CMF multa a los bancos Santander Chile y BCI por env\u00edo tard\u00edo de ...",
+              "snippet": "El Banco Santander Chile y el Banco de Cr\u00e9dito e Inversiones (BCI) fueron sancionados con 450 y 250 Unidades de Fomento (UF) respectivamente, por remitir de forma tard\u00eda la informaci\u00f3n requerida por el Ministerio P\u00fablico, lo que obstaculiz\u00f3 investigaciones penales. La Polar Corredores de Seguros y Servicios Limitada recibi\u00f3 una multa de ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829571+00:00",
+              "published_date": null,
+              "source_hash": "c2ccda593f6fb76643e7a42839b277e7"
+            },
+            {
+              "url": "",
+              "title": "CMF sanciona a Santander por no remitir ... - Diario Financiero",
+              "snippet": "La Comisi\u00f3n para el Mercado Financiero (CMF) inform\u00f3, a trav\u00e9s de un comunicado de prensa, que su Consejo decidi\u00f3 aplicar una multa de UF 400 a Banco Santander, por no remitir de forma total y oportuna al Ministerio P\u00fablico, sobre diversos antecedentes bancarios requeridos por el organismo persecutor, para el desarrollo de una investigaci\u00f3n penal.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829594+00:00",
+              "published_date": null,
+              "source_hash": "b856a872135838ab5bd207d445dcc40f"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander-Chile Faces Regulatory Fine - TipRanks.com",
+              "snippet": "Banco Santander-Chile (BSAC) has released an update. Banco Santander-Chile has been fined 400 UF by the Financial Market Commission due to non-compliance with the d...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829607+00:00",
+              "published_date": null,
+              "source_hash": "eb02445d33025328d687e58976597773"
+            },
+            {
+              "url": "",
+              "title": "Dos entidades bancarias son sancionadas por CMF tras no remitir ...",
+              "snippet": "La Comisi\u00f3n para el Mercado Financiero (CMF) sancion\u00f3 a los bancos y a dos entidades m\u00e1s por incumplir normativas sobre la entrega de informaci\u00f3n clave, afectando tanto investigaciones judiciales.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829619+00:00",
+              "published_date": null,
+              "source_hash": "b7712538a3d4b9c04515471daac410ec"
+            },
+            {
+              "url": "",
+              "title": "CMF multa a Santander y Bci por no remitir antecedentes al Ministerio ...",
+              "snippet": "La Comisi\u00f3n para el Mercado Financiero (CMF) inform\u00f3 que su consejo resolvi\u00f3 aplicar una multa de UF 450 ($17,1 millones) a Banco Santander Chile y de UF 250 a Bci por no remitir de forma total y oportuna al Ministerio P\u00fablico, diversos antecedentes bancarios requeridos por el organismo persecutor, para el desarrollo de distintas investigaciones penales, pese a la existencia de una ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:00.829630+00:00",
+              "published_date": null,
+              "source_hash": "48c31209e0111aead93d4e1b429a9130"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Chile Divests Stake in Insurance Subsidiary",
+              "snippet": "reflects the bank's compliance with regulatory requirements and its ongoing efforts to optimize its operations and market positioning. More about Banco Santander Chile Banco Santander Chile ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:03.383492+00:00",
+              "published_date": "2024-12-17T16:17:00+00:00",
+              "source_hash": "ab07a0adad2c670d873d45205332459a"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander denuncia ciberataque que afect\u00f3 a m\u00e1s de 320 mil clientes",
+              "snippet": "Banco Santander de Chile denunci\u00f3 un ciberataque a su sistema de tr\u00e1fico que afect\u00f3 a m\u00e1s de 300 mil clientes y usuarios. Seg\u00fan la entidad bancaria, se trat\u00f3 de un tipo de ciberataque que ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:03.383593+00:00",
+              "published_date": "2024-10-30T22:31:00+00:00",
+              "source_hash": "1adcb638499bbc418b8cfb77149202b4"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Chile Reports Strong Financial Performance for November 2024",
+              "snippet": "Pick the best stocks and maximize your portfolio: Banco Santander Chile ( (BSAC)) has issued ... solutions in the Chilean market, adhering to regulatory standards set by the Financial Market ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:03.383628+00:00",
+              "published_date": "2024-12-11T15:27:00+00:00",
+              "source_hash": "12dfda02bf995a3cc48adc7727b3174c"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander-Chile (BSAC)",
+              "snippet": "Banco Santander-Chile, together with its subsidiaries, provides commercial and retail banking services in Chile. It operates through Retail Banking, Middle-Market, Corporate Investment Banking, and Corporate Activities segments. The company offers debit ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:13.418389+00:00",
+              "published_date": "2024-12-19T12:00:00+00:00",
+              "source_hash": "506a686989564c233cc6a108e001aaaa"
+            },
+            {
+              "url": "",
+              "title": "El nuevo banquero del Papa fue presidente de Santander Chile",
+              "snippet": "En ese contexto, la nueva incorporaci\u00f3n se llama Mauricio Larra\u00edn Garc\u00e9s y fue el N\u00b01 del Banco Santander en Chile. 17 de septiembre de 2014 - 10:13 CIUDAD DE BUENOS AIRES (Urgente24). El expresidente del Banco Santander en Chile y ahora director ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile regulatory fines",
+              "retrieved_at": "2025-01-06T17:39:03.383677+00:00",
+              "published_date": "2014-09-17T16:03:00+00:00",
+              "source_hash": "22e86f94a3a564d95c0225f140b5f0f9"
+            },
+            {
+              "url": "",
+              "title": "Santander Reports Unauthorized Data Access in Chile, Spain, and Uruguay ...",
+              "snippet": "The unauthorized data access incident at Banco Santander is a stark reminder of the global banking industry's cybersecurity challenges. As financial institutions like Santander navigate these challenges, they will play a crucial role in shaping the future of cybersecurity in banking.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033089+00:00",
+              "published_date": null,
+              "source_hash": "5c193ba17b4bf7f308e8ed86b99d4df3"
+            },
+            {
+              "url": "",
+              "title": "Statement - Santander Corporate Website",
+              "snippet": "Madrid, 14 May 2024. We recently became aware of an unauthorized access to a Santander database hosted by a third-party provider. We immediately implemented measures to contain the incident, including blocking the compromised access to the database and establishing additional fraud prevention controls to protect affected customers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033205+00:00",
+              "published_date": null,
+              "source_hash": "9d0f6e22f111cc9af3c7a73a089066c3"
+            },
+            {
+              "url": "",
+              "title": "Santander Customer Data Compromised Following Third-Party Breach",
+              "snippet": "Banking giant Santander has confirmed that customer and employee data has been breached following a compromise of a third-party provider. In a statement published on May 14, 2024, the bank revealed that \"certain information\" relating to customers of Santander Chile, Spain and Uruguay, as well as all current and some former Santander employees of the group, had been accessed by hackers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033224+00:00",
+              "published_date": null,
+              "source_hash": "2eff146614655b9e605709d87c20af9e"
+            },
+            {
+              "url": "",
+              "title": "Santander reports customer, employee data breach in Spain, Chile ...",
+              "snippet": "Spanish bank Santander said on Tuesday some customer and employee data in a database hosted by an outside provider was accessed by an unauthorized party, but that the bank's own operations and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033241+00:00",
+              "published_date": null,
+              "source_hash": "3c0756f83d2770ea15e489dc1196d862"
+            },
+            {
+              "url": "",
+              "title": "Santander Data Breach Impacts Customers, Employees",
+              "snippet": "The Spanish bank Santander said customers in Chile, Spain and Uruguay are affected by a data breach at a third-party provider. The Spain-based bank Santander revealed on Tuesday that some of its customers and employees are impacted by a data breach at a third-party provider. The bank said it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033255+00:00",
+              "published_date": null,
+              "source_hash": "129022d055662157fe172ea66615751c"
+            },
+            {
+              "url": "",
+              "title": "Santander: el robo masivo de datos del banco que afecta a ... - BBC",
+              "snippet": "El Banco Santander, que emplea a 200,000 personas en todo el mundo, ha confirmado que se le ha robado informaci\u00f3n y ha pedido disculpas por \"la preocupaci\u00f3n que comprensiblemente esto causar\u00e1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033267+00:00",
+              "published_date": null,
+              "source_hash": "644fd607514db63358482c4bef197675"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander sufre filtraci\u00f3n de datos de clientes y empleados en ...",
+              "snippet": "Rom\u00e1n Blanco, CEO y Country Head de Banco Santander Chile. Informaci\u00f3n a clientes \"Comunicaci\u00f3n importante; respecto del acceso no autorizado a bases de clientes haga clic aqu\u00ed\", se\u00f1al\u00f3 el banner que habilit\u00f3 Santander en su sitio web y app m\u00f3vil para comunicar a los clientes sobre el incidente.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033285+00:00",
+              "published_date": null,
+              "source_hash": "9c636a5407809d9f2492420a3b88d1dd"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander's Third-Party Data Breach Exposes Customer and Employee ...",
+              "snippet": "Banco Santander S.A. is one of the world's largest financial institutions, with 140 million customers in Spain, the United States, the United Kingdom, Brazil, Mexico, and other countries. \"We recently became aware of an unauthorized access to a Santander database hosted by a third-party provider,\" the financial institution disclosed on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033298+00:00",
+              "published_date": null,
+              "source_hash": "036ac0825fd159495ae7545ac8eda165"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Data Breach Affects Customers in Spain, Chile, and ...",
+              "snippet": "WHAT WE KNOW A Spanish multinational financial services Banco Santander S.A. experienced a data breach due to unauthorized access to a database hosted by a third-party service provider. The breach affected customers and employees in Spain, Chile, and Uruguay. Santander serves over 140 million customers globally and has a strong presence in Spain, the",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033313+00:00",
+              "published_date": null,
+              "source_hash": "69a4cf3f17671c60f0cf7492b7ac303f"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander sufre filtraci\u00f3n de datos de clientes y empleados en Chile",
+              "snippet": "\"Tras la investigaci\u00f3n llevada a cabo, podemos confirmar que se ha accedido a informaci\u00f3n de clientes de Santander Chile, Espa\u00f1a y Uruguay, y de todos los empleados y algunos exempleados del grupo. En el resto de mercados y negocios de la entidad no hay datos de clientes afectados\", dijo en el comunicado, que tambi\u00e9n fue difundido por Banco ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:05.033325+00:00",
+              "published_date": null,
+              "source_hash": "69d52ff43e7e934f4f431de40e6d6208"
+            },
+            {
+              "url": "",
+              "title": "Santander staff and '30 million' customers hacked",
+              "snippet": "It told the BBC that \"UK customer data was not affected or lost in the hack\". \"Following an investigation, we have now confirmed that certain information relating to customers of Santander Chile ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:08.315740+00:00",
+              "published_date": "2024-05-31T13:30:00+00:00",
+              "source_hash": "c3c43807b3adf087bd52f717fc617450"
+            },
+            {
+              "url": "",
+              "title": "Analysts Set Banco Santander-Chile (NYSE:BSAC) Target Price at $21.50",
+              "snippet": "Shares of Banco Santander-Chile (NYSE:BSAC - Get Free Report) have received a consensus recommendation of \"Hold\" from the four research firms that are covering the firm, MarketBeat.com reports. Three equities research analysts have rated the stock with a hold recommendation and one has given a buy recommendation to the company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:08.315864+00:00",
+              "published_date": "2024-12-19T05:10:00+00:00",
+              "source_hash": "4009cb6ba0bbcb934bb6d41016611fe4"
+            },
+            {
+              "url": "",
+              "title": "Santander confirms data breach affecting customers across the world",
+              "snippet": "Some customers of Santander ... about the breaches. The Chile website, however, does display a warning. Some of the stolen data belongs to some current and former employees. \"Customer data ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:08.315887+00:00",
+              "published_date": "2024-05-16T13:06:00+00:00",
+              "source_hash": "b975a7cd202187363ab341203d3a50bf"
+            },
+            {
+              "url": "",
+              "title": "Santander explains three types of customer affected by 'hackers stealing data'",
+              "snippet": "Santander has ... customers of Santander Chile, Spain and Uruguay, as well as all current and some former Santander employees of the group had been accessed. Customer data in all other Santander ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:08.315908+00:00",
+              "published_date": "2024-05-31T16:24:00+00:00",
+              "source_hash": "5943a7d7e839c76b63758f61bddab8a9"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Chile Reports Strong Financial Performance for November 2024",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Banco Santander Chile ( (BSAC)) has ... TipRanks is the most comprehensive data set of sell side analysts ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile customer data breaches",
+              "retrieved_at": "2025-01-06T17:39:08.315931+00:00",
+              "published_date": "2024-12-11T21:27:00+00:00",
+              "source_hash": "e9142e9d0d8c214600255602fa1ac5c5"
+            },
+            {
+              "url": "",
+              "title": "Lowering Our Uncertainty Rating for Banco Santander Chile as Economic ...",
+              "snippet": "While Banco Santander Chile did benefit from high inflation in 2022, due to a large portion of the bank's assets being directly indexed to inflation, high interest rates have begun to pressure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.120993+00:00",
+              "published_date": null,
+              "source_hash": "16c686e7b9783a88cfaa0356047bd461"
+            },
+            {
+              "url": "",
+              "title": "Panorama Econ\u00f3mico | Banco Santander",
+              "snippet": "Logo Banco Santander Chile. Estudios; Panorama Econ\u00f3mico; 23 Marzo 2023. Panorama econ\u00f3mico Alzas de tasas se moderan ante la volatilidad financiera . Las recientes tensiones podr\u00edan tener un impacto relevante en la econom\u00eda y en la inflaci\u00f3n, provocando un giro en los movimientos futuros de la pol\u00edtica monetaria de los principales bancos ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121094+00:00",
+              "published_date": null,
+              "source_hash": "62d762cfdad8dea6169fe1e77f4b4cfe"
+            },
+            {
+              "url": "",
+              "title": "Panorama Econ\u00f3mico - Banco Santander",
+              "snippet": "Este sitio tiene como \u00fanico fin brindar informaci\u00f3n a los clientes de Banco Santander Chile. No es una solicitud ni una oferta para comprar o vender ninguna de las acciones o activos financieros que en \u00e9l se mencionan, cuyas cotizaciones son esencialmente variables, por lo que no es posible garantizar que la rentabilidad presente o pasada se repita en el futuro.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121114+00:00",
+              "published_date": null,
+              "source_hash": "fb6c35d02d9e00e65c2d5b47d863a4c2"
+            },
+            {
+              "url": "",
+              "title": "We Expect Better Results From Banco Santander Chile in ... - Morningstar",
+              "snippet": "Even within the context of this concentrated banking system Banco Santander Chile is large, with 18.6% and 17.4% of the country's loans and deposits, respectively, in 2020, making it the largest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121128+00:00",
+              "published_date": null,
+              "source_hash": "d4acd174cbbe9346c8936f41b049b184"
+            },
+            {
+              "url": "",
+              "title": "XX Santander Latin America Meeting - Santander Corporate Website",
+              "snippet": "The global economy has lately been typified by high volatility, with supply shocks and growing geopolitical risks. Careers ... Santander's VP of Economic Research, Juan Cerruti, also called attention to how Latin America has been navigating this situation, with strong FX rates and continued GPD growth in most countries. ... Banco Santander ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121139+00:00",
+              "published_date": null,
+              "source_hash": "f3749e02f2adc2cb4b0e7febec9e3dba"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander-Chile SNSE:BSANTANDER Stock Report - Simply Wall St",
+              "snippet": "Research Banco Santander-Chile's (SNSE:BSANTANDER) stock price, latest news & stock analysis. Find everything from its Valuation, Future Growth, Past Performance and more. ... BSANTANDER has not had significant price volatility in the past 3 months compared to the CL market. Volatility Over Time: BSANTANDER's weekly volatility (2%) ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121149+00:00",
+              "published_date": null,
+              "source_hash": "3048a0a0f12d38ac66bafe00b813adc5"
+            },
+            {
+              "url": "",
+              "title": " H1'23 Earnings Presentation - Santander Corporate Website",
+              "snippet": "Santander Chile is the nation's leading bank (1) Gross loans excluding reverse repos. (2) Excluding repos. (3) As at Mar-23. (4) Constant euros. Continue with a leadership position through the commercial network transformation and digital banking proposition Boost the three innovative initiatives: M\u00e1s Lucas,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121159+00:00",
+              "published_date": null,
+              "source_hash": "bf65a827627d388b5a4da8cf30aab11d"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Chile (BSAC) Q3 2024 Earnings Call Highlights: Robust ...",
+              "snippet": "The bank's commercial loan book contracted, partly due to slower economic activity and changes in consolidation perimeter. Inflation is expected to rise, closing 2024 at 4.3%, which could impact ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121170+00:00",
+              "published_date": null,
+              "source_hash": "8e5d4716817eb77408197a119d2bbc97"
+            },
+            {
+              "url": "",
+              "title": "Panorama Econ\u00f3mico | Banco Santander",
+              "snippet": "Logo Banco Santander Chile. Estudios; Panorama Econ\u00f3mico; 18 Noviembre 2021. Panorama econ\u00f3mico ... -adem\u00e1s de presionar las tasas producto de nuevas liquidaciones de instrumentos de renta fija- tambi\u00e9n tendr\u00e1 un impacto en la demanda potencial de este tipo de activos, lo que, de no ser compensada con demanda externa, constituir\u00eda un ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121180+00:00",
+              "published_date": null,
+              "source_hash": "62b9b843e1d1f249b17b6029fd72c52c"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Chile Posts Strong Q2 Growth - Yahoo Finance",
+              "snippet": "Banco Santander Chile (BSAC) has released an update. Banco Santander Chile reported a robust second quarter in 2024, with net income attributable to shareholders surging by 81.1% from the previous ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:11.121190+00:00",
+              "published_date": null,
+              "source_hash": "1f4145ef570fc07079faf38ccdeafe3e"
+            },
+            {
+              "url": "",
+              "title": "Barclays PLC Reduces Stock Holdings in Banco Santander-Chile (NYSE:BSAC)",
+              "snippet": "Barclays PLC trimmed its position in Banco Santander-Chile (NYSE:BSAC - Free Report) by 39.3% during the 3rd quarter, HoldingsChannel.com reports. The firm owned 21,800 shares of the bank's stock after selling 14,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:13.418206+00:00",
+              "published_date": "2025-01-04T07:18:00+00:00",
+              "source_hash": "3fa87e1a1396e470cc6acf797e48b646"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander SA (SAN) Stock Sees Market Value Hit $68.23 billion: What Are the Implications?",
+              "snippet": "Banco Santander SA (SAN) stock saw a decline, ending the day at $4.49 which represents a decrease of $-0.01 or -0.22% from the prior close of $4.5. The stock opened at $4.51 and touched a low of $4.48 during the day,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:13.418309+00:00",
+              "published_date": "2024-12-25T20:20:00+00:00",
+              "source_hash": "b5885d7f2043f3b8eafa1bf8ea078f05"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander-Chile (NYSE:BSAC) Shares Pass Below Fifty Day Moving Average - What's Next?",
+              "snippet": "Shares of Banco Santander-Chile (NYSE:BSAC - Get Free Report) passed below its 50-day moving average during trading on Thursday . The stock has a 50-day moving average of $19.48 and traded as low as $18.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:13.418341+00:00",
+              "published_date": "2024-12-27T08:26:00+00:00",
+              "source_hash": "5f600f3c2a2c412a51c0e82115621f49"
+            },
+            {
+              "url": "",
+              "title": "Banco Santander Chile Reports Strong Financial Performance for November 2024",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Banco Santander Chile ( (BSAC)) has issued an update. Banco Santander Chile reported its financial results for ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Banco Santander-Chile Banco Santander-Chile economic volatility impact",
+              "retrieved_at": "2025-01-06T17:39:13.418366+00:00",
+              "published_date": "2024-12-11T21:27:00+00:00",
+              "source_hash": "5c128e95df115f6a4d7b0f7f94fd439f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Banco Santander-Chile regulatory fines",
+              "rationale": "Investigate any recent fines or penalties imposed by regulatory bodies",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Banco Santander-Chile customer data breaches",
+              "rationale": "Look for any reported incidents of data breaches or cybersecurity issues",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Banco Santander-Chile economic volatility impact",
+              "rationale": "Assess how economic fluctuations in Chile have affected the bank's financial stability",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:39:30.430023",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

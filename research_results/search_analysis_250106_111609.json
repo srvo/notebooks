@@ -1,0 +1,422 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:16:09.096301",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Eventbrite",
+      "symbol": "EB",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Reliance on live events industry, making it vulnerable to external shocks like pandemics or economic downturns",
+            "Dependence on third-party services such as payment processors and cloud infrastructure providers",
+            "Intense competition in the event management and ticketing industry",
+            "Data privacy and security concerns despite robust measures"
+          ],
+          "controversies": [
+            "Securities litigation settlement of $19.25 million for claims between September 20, 2018, and May 24, 2019",
+            "Criticism over fee structure, particularly service fees charged to ticket buyers"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Handling of sensitive user data and potential breaches impacting trust",
+            "Ethical emphasis on data privacy and security, though no system is perfectly secure"
+          ],
+          "governance_issues": [
+            "Securities litigation highlighting governance and disclosure risks",
+            "Regulatory compliance challenges across over 180 countries"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Eventbrite, Inc. Securities Settlement - Frequently Asked Questions",
+              "snippet": "In exchange for the Settlement and the release of the Released Plaintiff's Claims against the Released Defendant Parties (see FAQ 10), Eventbrite, Inc. has agreed to pay $19,250,000.00 into an escrow account, which, along with any interest earned, will be distributed after deduction of Court-awarded attorneys' fees and litigation expenses ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825009+00:00",
+              "published_date": null,
+              "source_hash": "560ba039158ba8d9b303be9a24a76c38"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite, Inc. Securities Settlement - Home",
+              "snippet": "All persons and entities that purchased or otherwise acquired Eventbrite, Inc. common stock during the period from September 20, 2018, through May 24, 2019, inclusive and were damaged thereby, except for certain persons and entities who are excluded from the Settlement Class (see FAQ 4).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825137+00:00",
+              "published_date": null,
+              "source_hash": "6a57a498eb5d8f757607e26f9e8d5d82"
+            },
+            {
+              "url": "",
+              "title": "In re Eventbrite, Inc. Sec. Litig. - Casetext",
+              "snippet": "Read In re Eventbrite, Inc. Sec. Litig., Case No. 5:18-cv-02019-EJD, ... so long as they are not charging an admission fee. Id. \u00b6 57-58. If, however, customers want to charge for admission or if they want more services, they can purchase an essential, professional, or premium package. ... multiple lawsuits were filed against Defendants.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825160+00:00",
+              "published_date": null,
+              "source_hash": "afcaba6c4d1987413d26da70bf2d2c73"
+            },
+            {
+              "url": "",
+              "title": "In re Eventbrite, Inc. Securities Litigation, No. 5:2019cv02019 ...",
+              "snippet": "Id. \u00b6 56. This means that whenever an event-attendee RSVPs 7 for an event (or buys tickets for that event), the event-attendee must use Eventbrite's platform, 8 which provides Eventbrite with free advertising. Id. \u00b6 56. Eventbrite customers can plan their 9 event for free, so long as they are not charging an admission fee. Id. \u00b6 57-58.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825179+00:00",
+              "published_date": null,
+              "source_hash": "3e513b13e391ecff9702cbcc2bf38d76"
+            },
+            {
+              "url": "",
+              "title": "Class Action Seeks Ticket Refunds from Eventbrite for Events Canceled ...",
+              "snippet": "The lawsuit argues that Eventbrite's \"minimum requirements\" for event organizers at best only encourage the entities to \"make good\" when an event is canceled, or the advertised goods and services are otherwise not provided. The suit claims Eventbrite's minimum requirements fail to comply with California law even when adhered to.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825195+00:00",
+              "published_date": null,
+              "source_hash": "980bbbfa38b07bdefed4bfec57d29350"
+            },
+            {
+              "url": "",
+              "title": "CONNER v. EVENTBRITE, INC. - accessibility",
+              "snippet": "EVENTBRITE, INC.. Case number: 1:21-CV-00279. Filed in Federal court of New York on January 19, 2021. ... Plaintiff's reasonable attorneys' fees, expenses, and costs of suit as provided by state and federal law ... Within Digital Accessibility Lawsuits. Sidebar. Get Matched with Web Accessibility Vendors. Compare quotes from multiple ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825212+00:00",
+              "published_date": null,
+              "source_hash": "bc8d6a7820fce9f84720696207f78878"
+            },
+            {
+              "url": "",
+              "title": "Understanding Eventbrite's Prices and Their Impact on Your Events",
+              "snippet": "Let's break down the core fees Eventbrite charges for its services. When using Eventbrite, event organizers typically face the following costs: Service fee: 3.7% of the ticket price + $1.79 per sold ticket. Payment processing fee: 2.9% of the total order. On-site payment fee: An additional per ticket for on-site payments via credit cards and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825226+00:00",
+              "published_date": null,
+              "source_hash": "009cd58d87a943ba79d583982e1c1f04"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Investors Settle With $1.9 MM Payout Amid Financial Woes",
+              "snippet": "Eventbrite investor's legal team has negotiated a $1.9 million settlement with the ticketing company over false statements. Investors sued Eventbrite last year over false or misleading ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825238+00:00",
+              "published_date": null,
+              "source_hash": "d7194bd60c67bae03c09507188ddab05"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite, Inc. | The ClassAction.org Legal News Wire | Breaking Class ...",
+              "snippet": "Eventbrite, Inc. | The ClassAction.org Newswire is a free resource for breaking class action lawsuit and settlement news, case updates and more. ... Lawsuit Filings. Class Action Seeks Ticket Refunds from Eventbrite for Events Canceled, Rescheduled Due to Pandemic. June 12, 2020 Eventbrite has refused to issue refunds for tickets to events ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825251+00:00",
+              "published_date": null,
+              "source_hash": "5c302605a122e630fd68c7957074ad8d"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite, Inc. v. M.R.G. Concerts Ltd. et al, No. 3:2020cv04040 ...",
+              "snippet": "Id. at 12, \u00b6 8. Eventbrite is based in California, 2 with offices around the world. Id. 3 Eventbrite and MRG executed the Eventbrite Services Agreement (\"ESA\")3 on December 4 5, 2019, and executed Amendment #1 to the ESA (\"Amendment\") on January 13, 2020 (collectively, 5 the \"Contract\"). Id. at 13, \u00b6 11.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite fee structure lawsuits",
+              "retrieved_at": "2025-01-06T18:15:40.825264+00:00",
+              "published_date": null,
+              "source_hash": "3abdfc4c7a05b85c3412003f6c0ba6a2"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Security Guide",
+              "snippet": "Require written acknowledgement by employees of their roles and responsibilities with respect to protecting user data and privacy. Incident Response While we don't anticipate there ever being a breach of our systems, we know that no computer system is perfectly secure. ... In the event of a breach of an Eventbrite information system, we have a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615095+00:00",
+              "published_date": null,
+              "source_hash": "c69c9c1953ac42c9c245d748e1939a20"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Eventbrite is an online ticketing and event management platform that allows people to plan, promote, and sell tickets to events. The company's platform enables users to browse, create, and promote events, as well as manage registration and ticket sales, and provides features such as marketing and promotion tools, analytics, and a mobile app for event check-in. UpGuard continuously monitors the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.609970+00:00",
+              "published_date": null,
+              "source_hash": "b45b7eca128878b0054901f89a04682b"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Eventbrite is a global ticketing and event management platform that helps organizations plan, promote, and sell tickets to events of all sizes. They provide tools for event promotion, payment processing, and attendance tracking, and serve clients in a range of industries, including music, sports, and technology.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615218+00:00",
+              "published_date": null,
+              "source_hash": "03700c44bcd03917ec5b4759f8229ef1"
+            },
+            {
+              "url": "",
+              "title": "Data Processing Addendum (DPA) for Processors and Sub ... - Eventbrite",
+              "snippet": "9.1 Promptly notify Eventbrite without undue delay (and latest within 48 hours of becoming aware of the Data Breach) and provide Eventbrite with a reasonably detailed description of the Data Breach, the type of data that was the subject of the Data Breach and the identity of each affected person as soon as such information can be collected or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615230+00:00",
+              "published_date": null,
+              "source_hash": "927fd3da8d4d982ecd56178dc95ecef8"
+            },
+            {
+              "url": "",
+              "title": "How a Lack of Data Security Can Ruin Your Attendee Experience - Eventbrite",
+              "snippet": "Even a minor breach of simple name or email information can make your customers vulnerable to ID theft or phishing campaigns. When it comes to protecting your event's data, the devil is in the details \u2014 and the excellence is in the execution. Here are five proactive steps you can take to keep your data safe and your customers free from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615243+00:00",
+              "published_date": null,
+              "source_hash": "fa514d0f2a6199f3e9137d56e305f0e4"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Facing Class Action Lawsuit Over Data Breach - Billboard",
+              "snippet": "Ticketing company Eventbrite is facing a class action lawsuit over the data breach that occurred when their subsidiary, Ticketfly, was hacked at the end of May in an event the company described as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615259+00:00",
+              "published_date": null,
+              "source_hash": "95707894ed8c13fa44da4e30416bf9db"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite & California Data Protection",
+              "snippet": "Eventbrite takes data privacy and security very seriously. We take steps to make sure that we comply with our data privacy law obligations, and our go... Eventbrite. Terms and policies. Terms and policies. Eventbrite & California Data Protection. Use Eventbrite; Create events. Pricing. Pricing Calculator ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615271+00:00",
+              "published_date": null,
+              "source_hash": "ae6f74b5095314ed531d9ffe637fdf6e"
+            },
+            {
+              "url": "",
+              "title": "Data Security and Event Ticketing: What You Need to Know - Eventbrite",
+              "snippet": "Learn how to identify breaches and read up on Eventbrite's measures. As an event creator, it's critical that you know how to protect attendee data. Tips & Guides",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615281+00:00",
+              "published_date": null,
+              "source_hash": "ba64740a9503c515e8634e1abde3e50c"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite And Ticketfly Facing Lawsuits After Massive Data Breach",
+              "snippet": "However, earlier this year Eventbrite and Ticketfly were hacked, and information was stolen in a massive data breach that put people's personal information at risk. Phone numbers, credit card information, email addresses, and passwords were among the information that was taken during the breach.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615292+00:00",
+              "published_date": null,
+              "source_hash": "11b31ba416311d6b37f92b5c39678c0d"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Privacy Policy | Eventbrite Help Center",
+              "snippet": "If you are not happy with how we have attempted to resolve your complaint, you may contact the relevant data protection authority.Eventbrite as a data controller and a data processorEU data protection law makes a distinction between organizations that process Personal Data for their own purposes (known as \"data controllers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eventbrite Eventbrite data privacy breaches",
+              "retrieved_at": "2025-01-06T18:15:44.615302+00:00",
+              "published_date": null,
+              "source_hash": "7622d9cf35a3b95e94ef050c574cdb3c"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Security Guide",
+              "snippet": "Eventbrite complies with PCI-DSS 3.2.1 Level 1 as both a Merchant and a Service Provider. ... Reports are independent third-party examination reports that demonstrate how Eventbrite achieves key compliance controls and objectives. Eventbrite SOC 3 Security, Availability & Confidentiality Report, available for Download. ... We have a full time ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.609652+00:00",
+              "published_date": null,
+              "source_hash": "2d48bd2bec41226f09883ccc2a30ad8e"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite & EU Data Protection | Eventbrite Help Centre",
+              "snippet": "Last updated: September 1, 2021 Eventbrite takes data privacy and security very seriously. We take steps to make sure that we comply with our data pri...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.609790+00:00",
+              "published_date": null,
+              "source_hash": "7471933e3152931ce0f6e17554aa92ca"
+            },
+            {
+              "url": "",
+              "title": "Complaint Management: Best Practices to Assure Regulatory ... - Eventbrite",
+              "snippet": "Eventbrite - COMPLYPURE presents Complaint Management: Best Practices to Assure Regulatory Compliance - Wednesday, February 5, ... This webinar will address these issues and more. Complaint handling is likely one of the more cross-functional parts of your quality system: Customer Service may receive your customer complaints, Sales and Marketing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.609823+00:00",
+              "published_date": null,
+              "source_hash": "0d30bdcdf3fe00f1c14a94f64db19800"
+            },
+            {
+              "url": "",
+              "title": "Supplier Code of Conduct | Eventbrite Help Center",
+              "snippet": "COMPLIANCE WITH LAWS AND REGULATIONS. Accessibility: Eventbrite is committed to partnering with Suppliers that comply with the Web Content Accessibility Guidelines (\"WCAG\") 2.1 Conformance Level AA (\"Access Standard\"). Suppliers whose services integrate with the Eventbrite platform in a manner that presents the Supplier's Third-Party ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.609921+00:00",
+              "published_date": null,
+              "source_hash": "eebe83008c63f99c5dec329c3327cdcc"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Privacy Policy | Eventbrite Help Center",
+              "snippet": "Eventbrite's UK representative for European data protection law purposes is Eventbrite UK Limited with its principal place of business at 10-11 Charterhouse Square, London, EC1M 6EE United Kingdom.If you have any questions or concerns at any time, please do not hesitate to contact us at the address above or by contacting us at privacy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.609947+00:00",
+              "published_date": null,
+              "source_hash": "a7c469ccc108ebc1c8489dcab10cdaf9"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Regulatory Challenges: Changes in regulations governing events, ticket sales, and data privacy could pose challenges for Eventbrite's operations. Competitors. As Eventbrite continues to navigate the event management landscape, it faces competition from various companies. Some of its key competitors in 2024 include: 1. Ticketmaster",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.610037+00:00",
+              "published_date": null,
+              "source_hash": "ec98b91c077235067a5d052940365fe5"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite and GDPR: Top 3 Things to Know",
+              "snippet": "Eventbrite. Eventbrite is a global ticketing and event technology platform, powering millions of live experiences each year. We empower creators of events of all shapes and sizes - from music festivals, experiential yoga, political rallies to gaming competitions -- by providing them the tools and resources they need to seamlessly plan, promote, and produce live experiences around the world.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.610059+00:00",
+              "published_date": null,
+              "source_hash": "5913a5b7326b4558370107190046931d"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Privacy Policy | Eventbrite Help Centre",
+              "snippet": "In this article. 1-2; 3-4; 5-6; 7-8; 9-10; 11-12; 13-14; 15-16; 17-18; 1-2. 1. Who We Are. 1.1 Eventbrite Services. Welcome to Eventbrite! We are a ticketing and registration platform dedicated to bringing the world together through live experiences.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.610083+00:00",
+              "published_date": null,
+              "source_hash": "575cc7b7c810f47a44b0e14c9eeeaa7c"
+            },
+            {
+              "url": "",
+              "title": "Eventbrite Privacy Policy | Eventbrite Help Center",
+              "snippet": "Last Updated: June 26th, 2024 To learn more about Eventbrite's Legal Terms, take a look here.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eventbrite Eventbrite regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:15:48.610108+00:00",
+              "published_date": null,
+              "source_hash": "ee600ae913d1d0aa49dd76278c34ec4e"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Eventbrite fee structure lawsuits",
+              "rationale": "Investigate legal challenges related to Eventbrite's fee structure and its impact on event creators and ticket buyers",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Eventbrite data privacy breaches",
+              "rationale": "Examine incidents of data privacy violations or security breaches on Eventbrite's platform",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Eventbrite regulatory compliance issues",
+              "rationale": "Research regulatory challenges and compliance costs faced by Eventbrite in different countries",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:16:09.096308",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

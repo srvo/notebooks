@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:13:57.455397",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Byline Bancorp Inc",
+      "symbol": "BY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Economic Sensitivity: Heavy reliance on the Chicago metropolitan area increases exposure to regional economic downturns.",
+            "Regulatory Risks: Potential fines, penalties, or restrictions due to non-compliance with federal and state banking regulations.",
+            "Credit Risk: Notable exposure to higher-risk loans, including commercial real estate and small business lending.",
+            "Competitive Pressures: Intense competition from larger national banks and fintech companies.",
+            "Dividend Restrictions: Regulatory constraints limit the ability to pay dividends beyond net profits."
+          ],
+          "controversies": [
+            "BBB Complaints: Customer complaints filed with the Better Business Bureau indicating potential issues with customer service or operational inefficiencies.",
+            "Short Interest Growth: Increased short interest reflecting growing skepticism among some investors."
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer Service Issues: BBB complaints suggest potential social issues related to customer satisfaction and service quality."
+          ],
+          "governance_issues": [
+            "Regulatory Compliance: Concerns about increased expenses or operational limitations due to regulatory changes.",
+            "Dividend Policy: Restrictions on dividend payments under the Illinois Banking Act."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SEC Filings - Byline Bancorp",
+              "snippet": "Personal. Checking. Freedom Personal Checking; High Interest Checking",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217349+00:00",
+              "published_date": null,
+              "source_hash": "bbde43ad1a5ba1d70952ac8f79b40c9f"
+            },
+            {
+              "url": "",
+              "title": "BYLINE BANCORP, INC. (Form: S-1/A, Received: 06/19/2017 06:18:36)",
+              "snippet": "Byline Bancorp, Inc. 180 North LaSalle Street, Suite 300 Chicago, Illinois 60601 (773) 244-7000 (Name, Address, Including Zip Code, and Telephone Number, Including Area Code, of Agent for Service) ... could subject us to significant fines, penalties, judgments, publicity or other requirements resulting in increased expenses or restrictions on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217466+00:00",
+              "published_date": null,
+              "source_hash": "a10c689cd8c6b78fdb7cc17d2e41363b"
+            },
+            {
+              "url": "",
+              "title": "BYLINE BANCORP, INC. (Form: 10-K, Received: 03/12/2020 17:01:09)",
+              "snippet": "Under the Illinois Banking Act, Byline Bank generally may not pay dividends in excess of its net profits. Under these restrictions, Byline Bank could pay aggregate dividends of approximately $111.9 million to us without obtaining affirmative regulatory approvals as of December 31, 2019.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217487+00:00",
+              "published_date": null,
+              "source_hash": "907470245913dbbc948f7777178e8aa3"
+            },
+            {
+              "url": "",
+              "title": " Byline Bancorp, Inc. Insider Trading Policy",
+              "snippet": "The Board of Directors (the \"Board\") of Byline Bancorp, Inc. (together with Byline Bank and its other subsidiaries, the \"Company\") has adopted this Insider Trading Policy (this \"Policy\") ... individuals who violate them and may impose large fines on the Company if the Company fails to take appropriate steps to prevent violatio ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217501+00:00",
+              "published_date": null,
+              "source_hash": "19bb8bbfd0b1da49180a1450c68ab449"
+            },
+            {
+              "url": "",
+              "title": " Byline Bancorp, Inc. Corporate Governance Guidelines",
+              "snippet": "The Board of Directors (the \"Board\") of Byline Bancorp, Inc. (the \"Company\"), acting on the recommendation of its Governance and Nominating Committee (the \"Committee\"), has ... \u2022 legal or regulatory requirements, 5 \u2022 the materiality of the transaction to the Company's financial performance, risk profile",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217515+00:00",
+              "published_date": null,
+              "source_hash": "74eea8a30226ef147dfe3f158d4d4c5f"
+            },
+            {
+              "url": "",
+              "title": "10-K - SEC.gov",
+              "snippet": "legislative or regulatory changes, particularly changes in regulation of financial services companies and/or the products and services offered by financial services companies; ... Byline Bancorp, Inc., headquartered in Chicago, Illinois, is a bank holding company and we conduct all our business activities through our subsidiary, Byline Bank, a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217533+00:00",
+              "published_date": null,
+              "source_hash": "dcf6e5c4ec5ca4aaddb25d833d7e2725"
+            },
+            {
+              "url": "",
+              "title": "Corporate Profile - Byline Bancorp",
+              "snippet": "We're Byline Bancorp, Inc. Headquartered in Chicago, Byline Bancorp is the holding company for Byline Bank, a full service commercial bank serving small- and medium-sized businesses, financial sponsors, and consumers. The bank has been a community partner in its neighborhoods for over 100 years and operates more than 40 full service branch ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217545+00:00",
+              "published_date": null,
+              "source_hash": "de12de3bd16aeec25a695fc6a5ea7941"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp Inc. - AnnualReports.com",
+              "snippet": "Byline Bank is a full-service commercial bank with approximately $7.4 billion in assets, serving small businesses, mid-market companies, and consumers. Operating over 30 branch locations throughout the Chicago and Milwaukee metro areas, Byline's been a community partner in its neighborhoods for over 100 years.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099202+00:00",
+              "published_date": null,
+              "source_hash": "9acdd47284879afb3f6c958f5ffc0a95"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp, Inc. (BY) 10K Annual Reports & 10Q SEC Filings",
+              "snippet": "Inside Byline Bancorp, Inc.'s 10-K Annual Report: Other - Other Highlight. Failure to meet minimum capital requirements can initiate certain mandatory and possibly additional discretionary actions by federal banking regulators that, if undertaken, could have a direct material effect on our financial statements. Financial - Earnings Highlight",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099181+00:00",
+              "published_date": null,
+              "source_hash": "f017a7a2f009c68618e7d711ed8e759a"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp, Inc. Company Profile - Dun & Bradstreet",
+              "snippet": "Company Description: Byline Bancorp is the holding for the full service Byline Bank, which serves small- and medium-sized businesses, financial sponsors, and consumers. The bank has been a community partner in its neighborhoods for over 100 years and operates more than 50 full service branch locations throughout the Chicago and Milwaukee metropolitan areas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:25.217581+00:00",
+              "published_date": null,
+              "source_hash": "4874bde72f1681c7fc3d6695404d49ff"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp, Inc. to Announce Fourth Quarter 2024 Financial Results on Thursday, January 23",
+              "snippet": "CHICAGO--(BUSINESS WIRE)--Byline Bancorp, Inc. (NYSE: BY) announced today that it will issue its fourth quarter 2024 financial results after market close on Thursday, January 23, 2025. Byline ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:37.572873+00:00",
+              "published_date": "2025-01-03T08:00:00+00:00",
+              "source_hash": "ca53a481ad0e62639db66e39f83e650b"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp Announces Approval of New Stock Repurchase Program",
+              "snippet": "Byline Bancorp, Inc. (\"Byline\" or the \"Company\") (NYSE: BY), announced today that its Board of Directors has approved a new stock repurchase program that authorizes the Company to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:28.508839+00:00",
+              "published_date": "2024-12-05T21:30:00+00:00",
+              "source_hash": "f80c9634cc5b9aa17331737cb735f519"
+            },
+            {
+              "url": "",
+              "title": "RSI Alert: Byline Bancorp Now Oversold",
+              "snippet": "Byline Bancorp Inc (Symbol: BY) presently has an excellent rank, in the top 25% of the coverage universe, which suggests it is among the top most \"interesting\" ideas that merit further research by ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:13:28.508851+00:00",
+              "published_date": "2024-12-27T16:30:00+00:00",
+              "source_hash": "83982778a7d69660a66cb9829b14bae7"
+            },
+            {
+              "url": "",
+              "title": "KBRA Affirms Ratings for Byline Bancorp, Inc.",
+              "snippet": "KBRA Affirms Ratings for Byline Bancorp, Inc. 7 Jun 2024 | New York ... which is reflective of the higher risk credit profile, notably the SBA/USDA loans, though have also been attributable to PCD loans. ... (170% of total risk-based capital), notably, a minimal office portfolio (3% of loans). Byline has also reported respectable core deposit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099060+00:00",
+              "published_date": null,
+              "source_hash": "aaae670c06770ec034f280ca4b8e0a3e"
+            },
+            {
+              "url": "",
+              "title": "Corporate Profile - Byline Bancorp",
+              "snippet": "SBA/USDA Loans; Credit Cards; Commercial. Financing & Loans; Treasury Management ... Rates; Help & Support ... Your Byline Bancorp. Hello. We're Byline Bancorp, Inc. Headquartered in Chicago, Byline Bancorp is the holding company for Byline Bank, a full service commercial bank serving small- and medium-sized businesses, financial sponsors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099122+00:00",
+              "published_date": null,
+              "source_hash": "5fd2a4bc177c94cbc000ca4cb2246624"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank Financial Reports - iBanknet",
+              "snippet": "Byline Bank Financial Reports - Balance Sheet, Income Statement, Capital Ratios :: Widgets ... Holding Company Credit Default Swaps:: Bank Credit Default Swaps:: Derivatives:: Credit Union Derivatives : Byline Bank ... Loans to individuals - Credit Cards: 0: Total Capital Ratio: 13.82: Loans to individuals - Other:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099137+00:00",
+              "published_date": null,
+              "source_hash": "ea201801b949ee0d7e8427a606f34c97"
+            },
+            {
+              "url": "",
+              "title": "BYLINE BANCORP, INC. (Form: 10-K, Received: 03/12/2020 17:01:09)",
+              "snippet": "Byline Bancorp, Inc. (Exact name of Registrant as specified in its Charter) Delaware 36-3012593 ... a portfolio of more seasoned loans may more predictably follow a bank's historical default or credit deterioration patterns than a newer portfolio. Because 74.9% of our portfolio has been originated since our recapitalization, the current level ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099149+00:00",
+              "published_date": null,
+              "source_hash": "ef7c618de2e151c27d5ee07432a95d33"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "- Byline Bancorp, Inc. (NYSE: BY), today reported: At or For the quarter ... mainly attributed to increases related to individually assessed loans in the government guaranteed loan portfolio. The provision for credit losses for the quarter iscomprised of a provision for loan and lease losses of $7.6 million compared to ... The effective tax ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099160+00:00",
+              "published_date": null,
+              "source_hash": "e66d7e9f4a22fcb0e820cd6fa3b2f9ba"
+            },
+            {
+              "url": "",
+              "title": "BYLINE BANCORP, INC. (Form: S-1/A, Received: 06/19/2017 06:18:36)",
+              "snippet": "Byline Bancorp, Inc. 180 North LaSalle Street, Suite 300 Chicago, Illinois 60601 ... Greater seasoning of our loan portfolio could increase risk of credit defaults in the future. ... a portfolio of more seasoned loans may more predictably follow a bank's historical default or credit deterioration patterns than a newer portfolio. Because 61.4% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099171+00:00",
+              "published_date": null,
+              "source_hash": "0c0035a1ef0fca04f7c86ee149307c71"
+            },
+            {
+              "url": "",
+              "title": "All About Credit Scores - Byline Bank",
+              "snippet": "If you are in default on your student loans, don't ignore them-they aren't going to go away. If necessary, contact your lender about loan rehabilitation programs; successful completion of such programs can remove default status notations on your credit report. ... Loans subject to credit approval. National SBA ranking by the U.S. Small ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099191+00:00",
+              "published_date": null,
+              "source_hash": "1dcad025a1a99e7b97db79a91e6808e4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Byline Bancorp, Inc. Reports Full Year and Fourth Quarter 2021 Financial Results . Select Full Year 2021 Financial Highlights \u2022 Net income of $92.8 million, or $2.40 per diluted share \u2022 Net interest margin of 3.84% \u2022 Return on average assets of 1.40% \u2022 Efficiency ratio of 57.27% \u2022 Originated loans and leases increased $425.9 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:30.099212+00:00",
+              "published_date": null,
+              "source_hash": "818e10540f7eb5423eb750e4f6a24b94"
+            },
+            {
+              "url": "",
+              "title": "Short Interest in Byline Bancorp, Inc. (NYSE:BY) Grows By 7.6%",
+              "snippet": "Finally, American Century Companies Inc. increased its position in shares of Byline Bancorp by 20.4% in the 2nd quarter. American Century Companies Inc. now owns 518,727 shares of the company's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:37.572904+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "50cecee093b7870d0ea75255bee34cca"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp Announces Approval of New Stock Repurchase Program",
+              "snippet": "Byline Bancorp, Inc. (\"Byline\" or the \"Company ... including among other things under the heading \"Risk Factors\" in its Annual Report on Form 10-K for the year ended December ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:33.551706+00:00",
+              "published_date": "2024-12-05T21:30:00+00:00",
+              "source_hash": "32cb855f9d17d1ea372b6ce0253509d3"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp Announces New Share Repurchase Plan, Stock Up",
+              "snippet": "Shares of Byline Bancorp, Inc. BY have gained 1% since the announcement of a new share repurchase program last week. Under the buyback plan, BY will be able to repurchase up to 1.25 million shares ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:33.551729+00:00",
+              "published_date": "2024-12-08T23:59:00+00:00",
+              "source_hash": "8a4b08d261844c6fbcc304c431ebe87f"
+            },
+            {
+              "url": "",
+              "title": "Is the Options Market Predicting a Spike in Byline Bancorp (BY) Stock?",
+              "snippet": "Clearly, options traders are pricing in a big move for Byline Bancorp shares ... these trades can actually reduce your risk. Just released: Experts distill 7 elite stocks from the current list ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc loan default rates or credit risk",
+              "retrieved_at": "2025-01-06T16:13:33.551748+00:00",
+              "published_date": "2024-11-27T14:00:00+00:00",
+              "source_hash": "d535373eee2f6290a4fce9efc5075367"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Byline Bank filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096209+00:00",
+              "published_date": null,
+              "source_hash": "290eef49a4566c3da427717cffc8e0ae"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank | BBB Reviews | Better Business Bureau",
+              "snippet": "View BBB customer reviews of Byline Bank. Leave a review and share your experience with the BBB and Byline Bank.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096324+00:00",
+              "published_date": null,
+              "source_hash": "bd211954e8ad7c2f43de0b1f64d339c6"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank | BBB Business Profile - Better Business Bureau",
+              "snippet": "BBB Accredited since 1/8/2021. Bank in Chicago, IL. See BBB rating, reviews, complaints, get a quote and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096342+00:00",
+              "published_date": null,
+              "source_hash": "0439552c37b49bfd24980f0a994206b7"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank Reviews & Complaints - Bank Branch Locator",
+              "snippet": "Byline Bank has an overall customer satisfaction rating of 2.5 out of 5 stars based on 20 votes and 1 reviews & complaints for 51 branches. Below you can read unbiased reviews, complaints and comments for branches or the bank in general. You can also share your own toughts and complaints about Byline Bank using the form below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096355+00:00",
+              "published_date": null,
+              "source_hash": "3c0bc3c064dcb54d72c19fe7f04b39bf"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank Reviews | Read Customer Service Reviews of ... - Yelp",
+              "snippet": "Recent reviews of Byline Bank. Overall rating. 115 reviews based on 53 locations. 115 reviews based on 53 locations. 5. 4. 3. 2. 1. Jeff S. Phoenix, AZ. 0. 1. 0. ... caring, customer friendly way. My Byline Bank have willing, helpful and amazingly professional employees. My contact has always been exceptionally helpful. (I as a senior need ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096369+00:00",
+              "published_date": null,
+              "source_hash": "460143553b79f10ae929990afce81949"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank Reviews: 53 User Ratings - WalletHub",
+              "snippet": "Byline Bank Q&A. Get answers to your questions about Byline Bank below. Editorial and user-generated content is not provided, reviewed or endorsed by any company. Please keep in mind that it is not a financial institution's responsibility to ensure all posts and questions are answered.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096388+00:00",
+              "published_date": null,
+              "source_hash": "06311cfe9753ddea4ae9ebd9adbfd58b"
+            },
+            {
+              "url": "",
+              "title": "Byline Bank is a scam or a predatory lender : r/smallbusiness - Reddit",
+              "snippet": "Do not use this bank especially for a small business loan. They are either a scam or a predatory lender. They will compromise your personal information, withhold your funds, and charge you thousands in fees.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096403+00:00",
+              "published_date": null,
+              "source_hash": "7fa7a96281edc09b6e98d084d52cc5f2"
+            },
+            {
+              "url": "",
+              "title": "Spike Body Werks v. Byline Bank, Inc. - Casetext",
+              "snippet": "The bank made two SBA loans. Byline Bank entered into a note with Spike Body Werks, Geneva Repair Shop, and NICNAT for $2,706,600. See Note 1 (Dckt. No. 7, at 76 of 184). Byline Bank also entered into a second note with Spike Body Werks and Geneva Repair Shop (the operating companies) for $324,000. See Note 2 (Dckt. No. 7, at 138 of 184).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096415+00:00",
+              "published_date": null,
+              "source_hash": "dd7703d13613609fd4faed98755a54a4"
+            },
+            {
+              "url": "",
+              "title": "KBRA Affirms Ratings for Byline Bancorp, Inc.",
+              "snippet": "KBRA Affirms Ratings for Byline Bancorp, Inc. 7 Jun 2024 | New York. Contacts. KBRA affirms the senior unsecured debt rating of BBB, the subordinated debt rating of BBB-, and the short-term debt rating of K3 for Chicago, Illinois-based Byline Bancorp, Inc. (NYSE: BY) (\"Byline\" or \"the company\"). Additionally, KBRA affirms the deposit and senior ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096427+00:00",
+              "published_date": null,
+              "source_hash": "384997667205e9ba154caa46fe1150dd"
+            },
+            {
+              "url": "",
+              "title": "CCBANK | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of CCBANK filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:35.096438+00:00",
+              "published_date": null,
+              "source_hash": "3417059eef3ba650d947161f649e188f"
+            },
+            {
+              "url": "",
+              "title": "Is the Options Market Predicting a Spike in Byline Bancorp (BY) Stock?",
+              "snippet": "I nvestors in Byline Bancorp, Inc. BY need to pay close attention to the stock based on moves in the options market lately. That is because the Dec 20, 2024 $20.00 Put had some of the highest ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:37.572769+00:00",
+              "published_date": "2024-11-27T15:13:00+00:00",
+              "source_hash": "38cdd942d3f3c41544d6868a37a0293b"
+            },
+            {
+              "url": "",
+              "title": "Byline Bancorp Announces Approval of New Stock Repurchase Program",
+              "snippet": "CHICAGO, December 05, 2024--(BUSINESS WIRE)--Byline Bancorp, Inc. (\"Byline\" or the \"Company\") (NYSE: BY), announced today that its Board of Directors has approved a new stock repurchase program ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:37.572928+00:00",
+              "published_date": "2024-12-05T13:29:00+00:00",
+              "source_hash": "c23e9f080af51a28f6d4b2f8fdf38a34"
+            },
+            {
+              "url": "",
+              "title": "UBS AM a distinct business unit of UBS ASSET MANAGEMENT AMERICAS LLC Trims Stake in Byline Bancorp, Inc. (NYSE:BY)",
+              "snippet": "Byline Bancorp, Inc. has a 52 week low of $19.70 and a 52 week high of $32.89. The business's fifty day simple moving average is $29.34 and its 200-day simple moving average is $26.88.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Byline Bancorp Inc Byline Bancorp Inc controversies or customer complaints",
+              "retrieved_at": "2025-01-06T16:13:37.572951+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "6fea6e3bcc85edb560e9f3e20d951c20"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Byline Bancorp Inc regulatory fines or penalties",
+              "rationale": "Investigate potential legal or regulatory issues related to compliance with banking laws",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Byline Bancorp Inc loan default rates or credit risk",
+              "rationale": "Assess exposure to credit risk, particularly in commercial real estate and SMB lending",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Byline Bancorp Inc controversies or customer complaints",
+              "rationale": "Identify any ethical or social concerns, such as customer dissatisfaction or unfair practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:13:57.455406",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

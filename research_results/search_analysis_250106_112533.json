@@ -1,0 +1,578 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:25:33.028589",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Invesco Ltd",
+      "symbol": "IVZ",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal issues, including SEC charges for misleading ESG claims",
+            "High competition from low-cost passive investment providers",
+            "Global market volatility and economic trends impacting AUM growth",
+            "Underperformance of some funds leading to client outflows"
+          ],
+          "controversies": [
+            "SEC fine of $17.5 million for misleading ESG-related claims",
+            "Violation of the Investment Advisers Act of 1940"
+          ],
+          "environmental_issues": [
+            "Increased scrutiny of ESG claims and potential greenwashing"
+          ],
+          "social_issues": [
+            "Reputational damage from underperformance and client outflows"
+          ],
+          "governance_issues": [
+            "Concerns about compliance and governance practices following SEC charges"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SEC Charges Invesco Advisers for Making Misleading Statements About ...",
+              "snippet": "The order charges Invesco with willfully violating the Investment Advisers Act of 1940. Without admitting or denying the order's findings, Invesco agreed to cease and desist from violations of the charged provisions, be censured, and pay the aforementioned $17.5 million civil penalty.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876623+00:00",
+              "published_date": null,
+              "source_hash": "189fe8f6a519c79d686a42859542c5f6"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers to pay $17.5M penalty to settle SEC charges",
+              "snippet": "The order charges Invesco with willfully violating the Investment Advisers Act of 1940. Without admitting or denying the order's findings, Invesco agreed to cease and desist from violations of the charged provisions, be censured, and pay the aforementioned $17.5 million civil penalty.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876741+00:00",
+              "published_date": null,
+              "source_hash": "8bcd8dbde2251cc9ad7692e3cff59b5b"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines Invesco $17.5 Million for Misleading ESG Investing Claims",
+              "snippet": "The U.S. Securities and Exchange Commission (SEC) announced that it has charged global asset manager Invesco for making misleading claims regarding its ESG-related investments, including overstating the proportion of assets under management that integrated ESG considerations. Invesco has agreed to pay a $17.5 million civil penalty to settle the SEC's charges, while not admitting or [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876759+00:00",
+              "published_date": null,
+              "source_hash": "dfa2b0f8fcce9ce9e621888ffdedede0"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines Invesco Advisers $17.5M For 'Misleading' ESG Claims",
+              "snippet": "Invesco Advisers will pay $17.5 million to settle SEC charges it misled investors when claiming the company invested as much as 94% of its assets under management while considering environmental ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876783+00:00",
+              "published_date": null,
+              "source_hash": "e897ed238806dc0a7065da11df98428e"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines Invesco $17.5 Million for Misleading ESG Claims",
+              "snippet": "SEC Action: Invesco Advisers, Inc. faced a $17.5 million civil penalty after being charged by the SEC for making misleading ESG-related statements to clients. Misrepresentation Details: From 2020 to 2022, Invesco falsely claimed that 70-94% of its assets under management were \"ESG integrated,\" including passive ETFs that did not apply ESG considerations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876797+00:00",
+              "published_date": null,
+              "source_hash": "f898f5ec272e268a6a6611201dcde376"
+            },
+            {
+              "url": "",
+              "title": "Invesco Pays $17.5M Fine to Settle SEC Greenwashing Charges",
+              "snippet": "Invesco subsidiary Invesco Advisers Inc. has agreed to pay a $17.5 million fine to settle Securities and Exchange Commission charges that it violated the Investment Advisers Act of 1940 by making misleading statements about the how many of its assets were invested according to environmental, social and governance guidelines.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876810+00:00",
+              "published_date": null,
+              "source_hash": "dfb40246fa71b7dcc1ab92d43f5bcb94"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Invesco Advisers for Making Misleading ESG Claims",
+              "snippet": "On November 8, 2024, the U.S. Securities and Exchange Commission (\"SEC\") announced a settled enforcement action (the \"SEC Order\") against Invesco Advisers, Inc. (\"Invesco\"), an investment advisory firm, for making misleading statements concerning the company-wide percentage of assets under management (\"AUM\") that integrated environmental, social and governance (\"ESG ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876822+00:00",
+              "published_date": null,
+              "source_hash": "554ff7743ebd2987e1fdb924afcc1615"
+            },
+            {
+              "url": "",
+              "title": "SEC fines Invesco Advisers USD$17.5 million for Misleading Statements ...",
+              "snippet": "The SEC ordered that Invesco cease and desist from committing or causing violations or future violations of the Investment Advisers Act 1940 and Rules, that Invesco is censured, and that it pays a civil penalty of USD$17.5 million to the SEC.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876837+00:00",
+              "published_date": null,
+              "source_hash": "047b5a299a2c9cbc3fead10d0bc92a59"
+            },
+            {
+              "url": "",
+              "title": "SEC orders Invesco to pay $17.5M over misleading investors about ESG ...",
+              "snippet": "Invesco Advisors agreed to pay $17.5 million to the Securities and Exchange Commission to settle allegations that the company misled investors about the extent of its assets that included environmental, social, and governance factors. ... and regulatory developments, ... WisdomTree pays $4M SEC fine for including fossil fuel, tobacco securities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876850+00:00",
+              "published_date": null,
+              "source_hash": "6e2972ced3e50c348645f78a339b3f73"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers Faces SEC Penalty for Misleading ESG Claims",
+              "snippet": "In a recent enforcement action, the U.S. Securities and Exchange Commission penalized Invesco Advisers, Inc., accusing the investment management firm of making deceptive claims regarding the percentage of its assets under management (AUM) that incorporated environmental, social, and governance (ESG) factors.This Atlanta-based investment adviser agreed to a $17.5 million civil penalty to settle ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:03.876861+00:00",
+              "published_date": null,
+              "source_hash": "0aee3a26b1c86c891bb0f4ca23dcc771"
+            },
+            {
+              "url": "",
+              "title": "Investment giant to pay $17.5 million in fines over misleading marketing practices: 'Seeking to capitalize on ... trends and buzzwords'",
+              "snippet": "This investment company's greenwashing case may set an unfortunate precedent. Invesco Advisers, an investment management firm, has settled its greenwashing case \u2014 a loss for holding companies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:07.461019+00:00",
+              "published_date": "2024-12-08T20:49:00+00:00",
+              "source_hash": "ab6b8cbeecfc3b8c1bdcc0ef849efa3f"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers, Inc. Announces Termination and Liquidation of Invesco High Income 2024 Target Term Fund",
+              "snippet": "ATLANTA, Dec. 3, 2024 /PRNewswire/ -- Invesco Advisers, Inc., a subsidiary of Invesco Ltd. (NYSE: IVZ), announced today that it completed the termination and liquidation of Invesco High Income ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:07.461114+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "7d60a1d17535860fb47ff3b971cd2fdf"
+            },
+            {
+              "url": "",
+              "title": "Invesco Ltd. (NYSE:IVZ) Shares Acquired by Verition Fund Management LLC",
+              "snippet": "Get Our Latest Research Report on Invesco Invesco Trading Up 3.0 % Shares of IVZ stock opened at $18.37 on Tuesday. Invesco Ltd. has a fifty-two week low of $14.16 and a fifty-two week high of $18 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:15.591387+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "8ce290fc0c82762d6d817b97bf85bcbc"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers hit with $17.5m SEC fine for misleading ESG claims",
+              "snippet": "Invesco Advisers has agreed to pay civil penalty of $17.5m to resolve allegations from the US Securities and Exchange Commission (SEC) that it misled statements related to supposed investment ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd regulatory fines",
+              "retrieved_at": "2025-01-06T18:25:07.461148+00:00",
+              "published_date": "2024-12-10T23:54:00+00:00",
+              "source_hash": "ec76a99c703ae3580bb15a2220801251"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Invesco Advisers for Making Misleading Statements About ...",
+              "snippet": "The Atlanta-based registered investment adviser agreed to pay a $17.5 million civil penalty to settle the SEC's charges. According to the SEC's order, from 2020 to 2022, Invesco told clients and stated in marketing materials that between 70 and 94 percent of its parent company's assets under management were \"ESG integrated.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906176+00:00",
+              "published_date": null,
+              "source_hash": "652aea56e5e2c02eabbcf18ec7a07524"
+            },
+            {
+              "url": "",
+              "title": "SEC hits Invesco with $17.5 million fine over ESG misstatements",
+              "snippet": "Between approximately April 2020 and July 2022, Invesco told clients and stated in marketing materials that between 70% and 94% of its parent company's AUM were \"ESG integrated,\" but the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906306+00:00",
+              "published_date": null,
+              "source_hash": "9aa224a216f34e9e3129d72e49607530"
+            },
+            {
+              "url": "",
+              "title": "Invesco Ltd. ESG Risk Rating - Sustainalytics",
+              "snippet": "View the ESG Risk Rating for Invesco Ltd. See Sustainalytics' high-quality public ESG risk ratings for over 10,000 companies. ... Invesco provides investment-management services to retail (68% of managed assets) and institutional (32%) clients. ... Controversy Rating. Highest Controversy level that has impacted Invesco Ltd. 's ESG Risk Rating ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906341+00:00",
+              "published_date": null,
+              "source_hash": "a3859632d6001c19f5fd270911ce1843"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers' ESG Claims Draw $17.5 Million SEC Fine (1)",
+              "snippet": "Invesco Advisers Inc. will pay a $17.5 million fine to settle US Securities and Exchange Commission allegations that it misled clients about the share of company-wide assets under management that integrated environmental, social and governance factors into investment decisions. From 2020 to 2022, the firm told clients that between 70% and 94% of parent company Invesco Ltd. 's AUM were \"ESG ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874821+00:00",
+              "published_date": null,
+              "source_hash": "0fe3d2a13c0394ea49edafaae7369b87"
+            },
+            {
+              "url": "",
+              "title": " 2023 ESG Investment Stewardship Report",
+              "snippet": "on a number of ESG criteria such as ESG ratings, controversy scores, governance data, business involvement data, and United Nations Global Compact (UNGC) compliance status. ESGintel, Invesco's proprietary ESG ratings and research platform, is used by some investment teams to enhance ESG integration in the investment process.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906433+00:00",
+              "published_date": null,
+              "source_hash": "29aaa02b0c8c81d77715b05a4ee0d2bc"
+            },
+            {
+              "url": "",
+              "title": "Invesco : 2022 ESG Investment Stewardship Report - MarketScreener",
+              "snippet": "Invesco : 2022 ESG Investment Stewardship Report November 16, 2023 ... controversies) as part of an informed investment decision. The ESG team also provides statistics on the fund manager's engagement activities in the past ... Invesco Ltd. published this content on 17 November 2023 and is solely responsible for the information contained therein.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906478+00:00",
+              "published_date": null,
+              "source_hash": "7a3f30d970bc6a4816a9239857fdb854"
+            },
+            {
+              "url": "",
+              "title": "Environmental, social, and governance | Invesco Corporate",
+              "snippet": "Invesco provides a broad range of ESG-related capabilities that help our clients express their values through their investments while meeting their investment objectives. ... Explore Invesco's ESG advocacy, including their commitment to responsible investing, industry leadership, and global stewardship initiatives. ... \u00a92025 Invesco Ltd. All ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906493+00:00",
+              "published_date": null,
+              "source_hash": "7f93c5eb10f865eb219990f458d991c9"
+            },
+            {
+              "url": "",
+              "title": " ESG Quarterly Factsheet - invesco.co.uk",
+              "snippet": "ESG Portfolio Report Invesco Sterling Bond Fund EMEA 2827765/2023 Dubai: Invesco Asset Management Limited, Index Tower Level 6 - Unit 616, P.O. Box 506599, Al Mustaqbal Street, DIFC, Dubai, United Arab Emirates. Regulated by the Dubai Financial Services Authority. Guernsey: The fund can only be promoted to Professional Clients.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906511+00:00",
+              "published_date": null,
+              "source_hash": "5a1c156abdd1c10e42f413cbaf5cfa35"
+            },
+            {
+              "url": "",
+              "title": " ESG Portfolio Report - Invesco",
+              "snippet": "The Henley Investment Centre's approach to ESG means that investment teams make their own subjective conclusions about the ESG characteristics of each investment held ... Controversy Exposure Top ESG rated companies in Portfolio ... Invesco Asset Management Limited, Index Tower Level 6 - Unit 616, P.O. Box 506599, Al Mustaqbal Street, DIFC, ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906520+00:00",
+              "published_date": null,
+              "source_hash": "2fe900852582b71852c14e43ae8154c1"
+            },
+            {
+              "url": "",
+              "title": " Invesco Environmental, Social and Governance Investment Stewardship Report",
+              "snippet": "08 Invesco ESG Philosophy and Approach 2.3 Resources Global ESG Team Description Invesco's Global ESG efforts are led by our Global Head of ESG, Cathrine De Coninck-Lopez. The degree of ESG integration varies from team to team. However, our investment teams are supported by our centralized team of ESG professionals, located",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:08.906530+00:00",
+              "published_date": null,
+              "source_hash": "ec027f2e531d5474aae945b2e3e56acf"
+            },
+            {
+              "url": "",
+              "title": "INVESCO Ltd. stock outperforms competitors on strong trading day",
+              "snippet": "Shares of INVESCO Ltd. IVZ inched 0.97% higher to $17.65 Thursday, on what proved to be an all-around dismal trading session for the stock market, with the S&P 500 Index SPX falling 0.22% to 5,868 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:11.397365+00:00",
+              "published_date": "2025-01-02T22:26:00+00:00",
+              "source_hash": "7796f9a6a00101eaf6bbe3e0431b5b98"
+            },
+            {
+              "url": "",
+              "title": "Invesco S&P 500 ESG Index ETF (ESG.TO)",
+              "snippet": "Invesco Canada Ltd. (\"Invesco\") announced today the estimated December 2024 distributions for its exchange-traded funds (ETFs). Unitholders of record on December 30, 2024 will receive cash ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:11.397466+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "029fbd1c01faed6c32bc8529162bc702"
+            },
+            {
+              "url": "",
+              "title": "INVESCO Ltd. stock remains steady Tuesday, still outperforms market",
+              "snippet": "Shares of INVESCO Ltd. IVZ were unchanged Tuesday, on what proved to be an all-around poor trading session for the stock market, with the S&P 500 Index SPX falling 0.43% to 5,881.63 and Dow Jones ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:11.397495+00:00",
+              "published_date": "2024-12-31T22:27:00+00:00",
+              "source_hash": "5bfbb51e37d2df1583a31798944abd08"
+            },
+            {
+              "url": "",
+              "title": "Invesco Closed-End Funds Declare Dividends",
+              "snippet": "Investing involves risk and it is possible to lose money on any investment in the funds. For additional information, shareholders of the closed end fund may call Invesco at 800-341-2929. Invesco Distributors, Inc. is the U.S. distributor for Invesco Ltd.'s ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:11.397519+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "54f217c57ed1f73c4e4d49c71a6d994c"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers, Inc. Announces Termination and Liquidation of Invesco High Income 2024 Target Term Fund",
+              "snippet": "Invesco Distributors, Inc. is the U.S. distributor for Invesco Ltd.'s retail products. Invesco Advisers, Inc. is an investment adviser; it provides investment advisory services to individual and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Invesco Ltd Invesco Ltd ESG investment controversies",
+              "retrieved_at": "2025-01-06T18:25:11.397542+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "7da73431681b29b0e2b192a9fedd4855"
+            },
+            {
+              "url": "",
+              "title": "Is Invesco Stock Underperforming the Dow? - Nasdaq",
+              "snippet": "Based in Atlanta, Georgia, Invesco Ltd. (IVZ) is a publicly owned investment manager that provides its services to retail clients, institutional clients, high-net-worth clients, public entities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874674+00:00",
+              "published_date": null,
+              "source_hash": "9fd7ed8e081a3ab64acd4c0c946a39c2"
+            },
+            {
+              "url": "",
+              "title": "Invesco to Pay $17.5 Million to Resolve 'Greenwashing' Allegations",
+              "snippet": "Invesco Advisers, which operates Invesco mutual funds and has around $746 billion in assets under management, has agreed to pay $17.5 million to resolve allegations that it overstated the volume ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874790+00:00",
+              "published_date": null,
+              "source_hash": "ddc32c50a0bb0bc8b3cf6c3657bfc9c0"
+            },
+            {
+              "url": "",
+              "title": "Invesco tops list of poorly performing funds - Financial Times",
+              "snippet": "According to the report, the value of \u00a3100 invested in Invesco's High Income fund three years ago is worth just \u00a399.70 today. Invesco said UK investments had suffered from low valuations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874848+00:00",
+              "published_date": null,
+              "source_hash": "958d386a1bfdbebd8d28d16e10a2cb7a"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines Invesco $17.5 Million Over ESG Claims",
+              "snippet": "Invesco Ltd. is one of the world's leading asset management companies. The group also provides investment consulting services. The activity is organized primarily around 4 areas: - management and sales of mutual investment funds; - management of corporate assets; - management of personal funds; - management of exchange-traded funds.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874873+00:00",
+              "published_date": null,
+              "source_hash": "2d7a1bd25a9e8b7cca893a3afce7a5cf"
+            },
+            {
+              "url": "",
+              "title": "INVESCO Ltd. stock underperforms Wednesday when compared ... - MarketWatch",
+              "snippet": "Shares of INVESCO Ltd. IVZ slipped 5.28% to $16.86 Wednesday, on what proved to be an all-around dismal trading session for the stock market, with the S&P 500 Index SPX falling 2.95% to 5,872.16 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874897+00:00",
+              "published_date": null,
+              "source_hash": "8d774559e4633328f4b7cc52061dcbbb"
+            },
+            {
+              "url": "",
+              "title": "Invesco Perpetual is 'top dog' in list of underperforming funds",
+              "snippet": "Invesco Perpetual High Income, with almost \u00a310bn in assets under management, and Invesco Perpetual Income, with \u00a34.49bn, struggled to beat the market because of Mr Barnett's focus on unloved ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874921+00:00",
+              "published_date": null,
+              "source_hash": "5024800e8b15b9e5b0e85c053aa2e196"
+            },
+            {
+              "url": "",
+              "title": "INVESCO Ltd. stock underperforms Friday when compared to competitors",
+              "snippet": "Shares of INVESCO Ltd. IVZ shed 1.81% to $15.71 Friday, on what proved to be an all-around grim trading session for the stock market, with the S&P 500 Index SPX falling 0.14% to 5,234.18 and Dow ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874946+00:00",
+              "published_date": null,
+              "source_hash": "43706e795774f98d3cb8f3575ae5dcf1"
+            },
+            {
+              "url": "",
+              "title": "Invesco | Performance",
+              "snippet": "Invesco Distributors, Inc. is the US distributor for Invesco's Retail Products, Collective Trust Funds and CollegeBound 529. Invesco Capital Management LLC is the investment adviser for Invesco's ETFs. Invesco Unit Investment Trusts are distributed by the sponsor, Invesco Capital Markets, Inc. and broker dealers including Invesco Distributors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874968+00:00",
+              "published_date": null,
+              "source_hash": "d68d439c328f50e0de7c9e1d59b48c9d"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers' ESG Claims Draw $17.5 Million SEC Fine",
+              "snippet": "From 2020 to 2022, the firm told clients that between 70% and 94% of parent company Invesco Ltd.'s AUM were \"ESG integrated,\" the agency said in a news release Friday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:12.874989+00:00",
+              "published_date": null,
+              "source_hash": "b60c3883b0d8347be5272f521bb2db1a"
+            },
+            {
+              "url": "",
+              "title": "INVESCO Ltd. stock rises Friday, still underperforms market",
+              "snippet": "Shares of INVESCO Ltd. IVZ inched 0.57% higher to $17.75 Friday, on what proved to be an all-around positive trading session for the stock market, with the S&P 500 Index SPX rising 1.26% to 5,942.47 and the Dow Jones Industrial Average DJIA rising 0.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:15.591208+00:00",
+              "published_date": "2025-01-03T22:30:00+00:00",
+              "source_hash": "287f336712138120e7bece8e422a00d1"
+            },
+            {
+              "url": "",
+              "title": "INVESCO Ltd. stock outperforms competitors on strong trading day",
+              "snippet": "INVESCO Ltd. closed $1.29 short of its 52-week high ($18.94), which the company reached on November 6th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:15.591308+00:00",
+              "published_date": "2025-01-02T22:26:00+00:00",
+              "source_hash": "54023c9fce2f608c7228a3157ed99a5a"
+            },
+            {
+              "url": "",
+              "title": "Invesco Limited Term CA Municipal R6",
+              "snippet": "Invesco Ltd Tm CA Mncpl Fd earns an Average Process Pillar rating. The leading factor in the rating is the fund's impressive long-term risk-adjusted performance. This can be seen in its ten-year ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:15.591338+00:00",
+              "published_date": "2024-11-30T00:00:00+00:00",
+              "source_hash": "db2a1502611f8f2ddfeb0892ad876716"
+            },
+            {
+              "url": "",
+              "title": "Invesco Advisers, Inc. Announces Termination and Liquidation of Invesco High Income 2024 Target Term Fund",
+              "snippet": "Inc., a subsidiary of Invesco Ltd. (NYSE: IVZ), announced today that it completed the termination and liquidation of Invesco High Income 2024 Target Term Fund (NYSE: IHTA) (the \"Fund\"). In accordance with its investment objectives and organizational ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Invesco Ltd Invesco Ltd fund underperformance lawsuits",
+              "retrieved_at": "2025-01-06T18:25:15.591363+00:00",
+              "published_date": "2017-12-04T00:00:00+00:00",
+              "source_hash": "f1274a21b17d209769e7b8e114647301"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Invesco Ltd regulatory fines",
+              "rationale": "Investigate potential legal and financial penalties due to regulatory non-compliance",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Invesco Ltd ESG investment controversies",
+              "rationale": "Explore criticisms or controversies related to the authenticity and impact of Invesco's ESG investment strategies",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Invesco Ltd fund underperformance lawsuits",
+              "rationale": "Examine any legal actions or reputational risks stemming from underperforming funds",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:25:33.028596",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

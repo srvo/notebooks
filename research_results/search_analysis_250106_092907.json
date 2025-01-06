@@ -1,0 +1,423 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:29:07.743194",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Allient Inc.",
+      "symbol": "ALNT",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on global suppliers and rare earth metals",
+            "Regulatory and compliance challenges in highly regulated industries",
+            "Competitive pressure in the motion control industry",
+            "Environmental concerns related to rare earth mining and energy-intensive manufacturing"
+          ],
+          "controversies": [
+            "Potential reputational risks from environmental impact of rare earth mining",
+            "Regulatory scrutiny and potential fines for non-compliance in aerospace and medical sectors"
+          ],
+          "environmental_issues": [
+            "Reliance on rare earth metals with unsustainable mining practices",
+            "Energy-intensive manufacturing processes"
+          ],
+          "social_issues": [
+            "Commitment to ethical business practices and human rights as highlighted in sustainability initiatives"
+          ],
+          "governance_issues": [
+            "Navigating complex international regulations in aerospace, defense, and medical sectors"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Allient, Inc. Sustainability Report",
+              "snippet": "Allient, Inc. Sustainability Report It is with great pride and a sense of responsibility that I introduce our inaugural Sustainability Report, a milestone that marks our commitment to a more sustainable and responsible future. This report is the first step in a long journey where we share our successes, the challenges we face and our\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517861+00:00",
+              "published_date": null,
+              "source_hash": "cb3fc1062c33c1f84ded00aa592311d9"
+            },
+            {
+              "url": "",
+              "title": "Mapping the Impacts and Conflicts of Rare-Earth Elements",
+              "snippet": "Of these, the Australian mining company Lynas Rare Earths Ltd. (LYC.AX) is involved in a rare earth processor in Malaysia\u2014the largest outside of China. In 2022, the company signed an agreement with the US Department of Defense to construct a rare earth separation facility in Texas, which is expected to be operational in 2025. The Geopolitics ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647004+00:00",
+              "published_date": null,
+              "source_hash": "a623f2ee42ef9013f782bc884b49e34f"
+            },
+            {
+              "url": "",
+              "title": "Environmental impacts of rare earth production - PMC",
+              "snippet": "Rare earth elements (REEs) are important raw materials for green technologies. However, REE mining and production uses techniques that are often not environmentally sustainable. Life cycle assessment (LCA) is a well-recognized method for evaluating the environmental impacts of products and technologies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647021+00:00",
+              "published_date": null,
+              "source_hash": "893de4f0b47b5887dc37f98f5ebc2232"
+            },
+            {
+              "url": "",
+              "title": "Environmental impacts of rare earth production - ResearchGate",
+              "snippet": "The areas \"rare earth elements,\" \"recovery,\" and \"metals\" are situated within the basic themes but also are motor themes, distinguished by both high centrality and density, including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647034+00:00",
+              "published_date": null,
+              "source_hash": "cf60276f1a34095e0726aca56913f12f"
+            },
+            {
+              "url": "",
+              "title": "Not So \"Green\" Technology: The Complicated Legacy of Rare Earth Mining",
+              "snippet": "Most worrying is that rare earth ores are often laced with radioactive thorium and uranium, which result in especially detrimental health effects. Overall, for every ton of rare earth, 2,000 tons of toxic waste are produced. China currently dominates the REE market, accounting for 85 percent of the global supply in 2016.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647043+00:00",
+              "published_date": null,
+              "source_hash": "51f5647767b41d6064b573168b379fad"
+            },
+            {
+              "url": "",
+              "title": "Investigating Rare Earth Element Mine Development in EPA Region 8 and ...",
+              "snippet": "Perhaps the fastest growing consumer of rare earth material is the phosphor production industry. In 2008, phosphors alone accounted for 7% of all rare earth usage by volume and 32% of total rare earth value. Phosphor materials produce luminescence essential to today's lighting technologies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647055+00:00",
+              "published_date": null,
+              "source_hash": "cb6feae3c7617d16f30e3232a3748f91"
+            },
+            {
+              "url": "",
+              "title": " Presentation - Rare Earth Elements: a Review of Production, Processing ...",
+              "snippet": "Introduction to the Rare Earth Elements \u2022 15 lanthanides \u2022 La through Lu - Pm is rare in nature - mostly human-made \u2022 Plus scandium and yttrium are often included \u2022 a.k.a. Rare Earth Minerals, Oxides, and/or Metals 5/8/2012 U.S. Environmental Protection Agency 3 . Powders of six rare earth elements oxides. Photograph by",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647065+00:00",
+              "published_date": null,
+              "source_hash": "7d31c00feaba19c9a05aca7e8169fc5f"
+            },
+            {
+              "url": "",
+              "title": "Mapping the The Rare-Earth Elements Impacts and Impacts and",
+              "snippet": "place in Malaysia (by Lynas Rare Earths, an Australian corporation) and 1% takes place in Estonia . Pressures to extract and process REEs are accelerating globally. However, REE mining has been linked to larger environmental impacts than other minerals and metals. REEs are usually present in very low concentrations",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647075+00:00",
+              "published_date": null,
+              "source_hash": "72dc2ae01e631f02da7c790956e27899"
+            },
+            {
+              "url": "",
+              "title": "Rare earth elements: A review of applications, occurrence, exploration ...",
+              "snippet": "Xenotime deposits (xenotime is a rare earth phosphate mineral which is a rich source of yttrium and heavy rare earths) in Madhya Pradesh, carbonatite-alkaline complex in Ambadongar, Gujarat, polymetallic mineralization in Siwana Ring Complex, Rajasthan (Banerjee et al., 2014) are some of the promising areas for REE exploration and exploitation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647084+00:00",
+              "published_date": null,
+              "source_hash": "4cc041db45e95840f9e4073169d6e9b3"
+            },
+            {
+              "url": "",
+              "title": "Global environmental cost of using rare earth elements in green energy ...",
+              "snippet": "The existed literature has highlighted methodological challenges, high uncertainty and lack of knowledge about the environmental impact of REEs production (Bailey et al., 2020; Schreiber et al., 2021).Several studies on the environmental impact of rare earth elements conducted using the life cycle assessment (LCA) are summarized in Table 1. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Allient Inc. Allient Inc. environmental impact of rare earth metals usage",
+              "retrieved_at": "2025-01-06T16:28:37.647095+00:00",
+              "published_date": null,
+              "source_hash": "4be050e7f5b65c7329b0fa395257c051"
+            },
+            {
+              "url": "",
+              "title": "Allient, Inc. ESG Risk Rating - sustainalytics.com",
+              "snippet": "View the ESG Risk Rating for Allient, Inc. See Sustainalytics' high-quality public ESG risk ratings for over 10,000 companies. ... medical, aerospace and defense, and electronics and industrial, pumps, and robotics sectors. It mainly operates and sells across the United States, Canada, South America, Europe, and Asia. Its products and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.556975+00:00",
+              "published_date": null,
+              "source_hash": "e1b741a1ae3135cce2ef5942f6784543"
+            },
+            {
+              "url": "",
+              "title": "SEC Filings - Allient, Inc.",
+              "snippet": "All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557033+00:00",
+              "published_date": null,
+              "source_hash": "393ac4696b6d4e7b89dbf9032b9a003e"
+            },
+            {
+              "url": "",
+              "title": "Allient Inc - AnnualReports.com",
+              "snippet": "Allient (Nasdaq: ALNT) is a global engineering and manufacturing enterprise that develops solutions to drive the future of market-moving industries, including medical, life sciences, aerospace and defense, industrial automation, robotics, semi-conductor, transportation, agriculture, construction and facility infrastructure.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517916+00:00",
+              "published_date": null,
+              "source_hash": "6cf7d65698d6b47c8dd65ae58cd2a5cb"
+            },
+            {
+              "url": "",
+              "title": "In-Depth Examination Of 4 Analyst Recommendations For Allient",
+              "snippet": "The firm primarily caters to the vehicle, medical, aerospace and defense, and electronics and industrial, pumps, and robotics sectors. It mainly operates and sells across the United States, Canada ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557052+00:00",
+              "published_date": null,
+              "source_hash": "dc100556b36f129872ae32358d0d95e7"
+            },
+            {
+              "url": "",
+              "title": "ALNT - Allient | About | Fundamentei",
+              "snippet": "Allient Inc, formerly Allied Motion Technologies Inc designs, manufactures, and sells precision and specialty motion control components and systems. The firm primarily caters to the vehicle, medical, aerospace and defense, and electronics and industrial, pumps, and robotics sectors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557059+00:00",
+              "published_date": null,
+              "source_hash": "694cd2155a61701c51776403f7dfc751"
+            },
+            {
+              "url": "",
+              "title": "ALNT | Allient Inc. Profile - MarketWatch",
+              "snippet": "Allient Inc. company facts, information and financial ratios from MarketWatch. ... 7:39a Honeywell exploring aerospace-unit sale during a boom time and its ... vehicle, medical, and aerospace and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557066+00:00",
+              "published_date": null,
+              "source_hash": "76273a133f21eea44115a9eb1e26934b"
+            },
+            {
+              "url": "",
+              "title": "Allient Inc.: Governance, Directors and Executives & Committees ...",
+              "snippet": "Allient Inc. is a global company, which designs, manufactures, and sells precision and specialty-controlled motion components and systems used in a range of industries. The Company sells component and integrated controlled motion solutions to end customers and original equipment manufacturer (OEMs) through its own direct sales force and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557074+00:00",
+              "published_date": null,
+              "source_hash": "69470fa4870e1afcc514c485eb0aeac9"
+            },
+            {
+              "url": "",
+              "title": "Allient Inc. - Filings and Transcripts - BamSEC",
+              "snippet": "Allient Inc. Watch . NASDAQ: ALNT Share price (1/3/25): $25.61 Market cap (1/3/25): $431 million Categorized Chronological Ownership by Owner Insider Transactions Institutional Owners Expert Interviews ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557081+00:00",
+              "published_date": null,
+              "source_hash": "4783824f00f52667616fa326327a142c"
+            },
+            {
+              "url": "",
+              "title": "How to address top regulatory compliance challenges in 2024 - 6clicks",
+              "snippet": "Stay updated on key regulatory compliance challenges expected in 2024 and learn practical steps organizations can take to meet requirements. ... Regulatory compliance is one of the most pressing issues organizations across sectors face. With the global regulatory environment developing, organizations often struggle to keep pace with new rules ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557087+00:00",
+              "published_date": null,
+              "source_hash": "2a32cd3ac777d518f4d5d6a46eabf065"
+            },
+            {
+              "url": "",
+              "title": "Allient Inc. Launches Defense Solutions Business Unit, Advancing ...",
+              "snippet": "About Allient Inc. Allient (Nasdaq: ALNT) is a global engineering and manufacturing enterprise that develops solutions to drive the future of market-moving industries, including medical, life sciences, aerospace and defense, industrial automation, robotics, semi-conductor, transportation, agriculture, construction and facility infrastructure.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:41.557095+00:00",
+              "published_date": null,
+              "source_hash": "2c098c1eaecb2313053156136e48a163"
+            },
+            {
+              "url": "",
+              "title": "Allient Inc. Launches Defense Solutions Business Unit, Advancing Vertical Market Strategy",
+              "snippet": "BUFFALO, N.Y., December 11, 2024--(BUSINESS WIRE)--Allient Inc. (Nasdaq ... and Custom Critical Solutions development for the Aerospace & Defense markets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Allient Inc. Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "retrieved_at": "2025-01-06T16:28:45.085379+00:00",
+              "published_date": "2024-12-11T00:00:00+00:00",
+              "source_hash": "bb0d064196befd8e070a936fafebf775"
+            },
+            {
+              "url": "",
+              "title": "Allient releases sustainability report - Industrial Supply Magazine",
+              "snippet": "Reducing Allient's carbon footprint, conserving resources, and improving the sustainability of the company's supply chain. Uplifting the well-being of Allient's employees, customers, shareholders, and the communities in which the Company operates by emphasizing ethical business practices, respecting human rights, and actively engaging ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517778+00:00",
+              "published_date": null,
+              "source_hash": "a229b3bb5f1c188a34c47ac6bffe7744"
+            },
+            {
+              "url": "",
+              "title": "CODE OF ETHICS AND BUSINESS CONDUCT 1. INTRODUCTION - Allient Inc.",
+              "snippet": "rights of employees throughout our supply chain. Our Code of Ethics and Business Conduct and our strategy and business policies work together to support the principles contained in the United Nation's International Bill of Human Rights and the International Labor Organization Fundamental Principles and Labor Standards.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517832+00:00",
+              "published_date": null,
+              "source_hash": "1094bdf8e9c278bfe74a885aa7b338c9"
+            },
+            {
+              "url": "",
+              "title": "Allient Publishes Inaugural Sustainability Report - Business Wire",
+              "snippet": "Reducing Allient's carbon footprint, conserving resources, and improving the sustainability of the Company's supply chain. Uplifting the well-being of Allient's employees, customers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517850+00:00",
+              "published_date": null,
+              "source_hash": "06b2b30f8b9f0832888de162ae3758a0"
+            },
+            {
+              "url": "",
+              "title": "Allient Publishes Inaugural Sustainability Report | EPICOS",
+              "snippet": "Reducing Allient's carbon footprint, conserving resources, and improving the sustainability of the Company's supply chain. Uplifting the well-being of Allient's employees, customers, shareholders, and the communities in which the Company operates by emphasizing ethical business practices, respecting human rights, and actively engaging ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517877+00:00",
+              "published_date": null,
+              "source_hash": "54074d37a7b48ca61884f6824f2b17f7"
+            },
+            {
+              "url": "",
+              "title": "Allient Inc. Updated August 2024: Supply Chain Analysis | Ark.ai",
+              "snippet": "The resulting vendor analysis and supplier profile includes a supply chain analysis, an evaluation of key subcontractors and prime contractors, and an assessment of their compliance risk and supply chain risk. The analysis of Allient Inc. resulted in the following statistics. Allient Inc. has 70 subsidiaries and 89 Tier 1 supply chain connections.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517888+00:00",
+              "published_date": null,
+              "source_hash": "97c8ce66319c78b3e4c9869164fe6bea"
+            },
+            {
+              "url": "",
+              "title": "Allient Publishes Inaugural Sustainability Report - tmcnet.com",
+              "snippet": "Reducing Allient's carbon footprint, conserving resources, and improving the sustainability of the Company's supply chain. Uplifting the well-being of Allient's employees, customers, shareholders, and the communities in which the Company operates by emphasizing ethical business practices, respecting human rights, and actively engaging with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517898+00:00",
+              "published_date": null,
+              "source_hash": "00341570d85b2975bd29f2335f9f8b15"
+            },
+            {
+              "url": "",
+              "title": "Allient Publishes Inaugural Sustainability Report - sharewise",
+              "snippet": "Allient Inc. (formerly known as Allied Motion Technologies Inc.) (Nasdaq: ALNT) (\"Allient\" or the \"Company\"), a global designer and manufacturer of precision and specialty Motion, Controls and",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517907+00:00",
+              "published_date": null,
+              "source_hash": "c72c97c67fafab6b607acb6ff910cb7f"
+            },
+            {
+              "url": "",
+              "title": "Corporate Governance - Allient, Inc.",
+              "snippet": "All qualified applicants will receive consideration for employment without regard to race, color, sex, sexual orientation, gender identity, religion, national origin, disability, veteran status, or other legally protected status.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Allient Inc. Allient Inc. labor practices and supply chain ethics",
+              "retrieved_at": "2025-01-06T16:28:46.517925+00:00",
+              "published_date": null,
+              "source_hash": "0ba7c3a324812e7a17c2ccb31180eec5"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Allient Inc. environmental impact of rare earth metals usage",
+              "rationale": "Assess the environmental concerns related to the company's reliance on rare earth metals in manufacturing",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Allient Inc. regulatory compliance issues in aerospace and medical sectors",
+              "rationale": "Investigate potential legal and financial risks from non-compliance with international regulations in critical industries",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Allient Inc. labor practices and supply chain ethics",
+              "rationale": "Examine the company's labor practices and ethical considerations in its global supply chain",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:29:07.743214",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

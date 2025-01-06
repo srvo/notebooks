@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:02:09.250494",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "HashiCorp Inc.",
+      "symbol": "HCP",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Acquisition by IBM faces legal and regulatory challenges, including antitrust review and potential breaches of fiduciary duties.",
+            "Shift from open-source Mozilla Public License to semi-proprietary Business Source License may alienate users and partners.",
+            "Security vulnerabilities in products like Vault and involvement in the Codecov supply-chain attack.",
+            "Economic sensitivity due to reliance on cloud adoption and competition from providers like Red Hat, Pulumi, and CloudBolt."
+          ],
+          "controversies": [
+            "Legal investigations into the IBM acquisition by Rigrodsky Law, P.A.",
+            "Backlash from the developer community over the licensing change for Terraform.",
+            "Handling of employee grievances as seen in the Smith v. HashiCorp case."
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Perceived abandonment of open-source principles affecting community support.",
+            "Potential reputational risks from employee grievances and legal cases."
+          ],
+          "governance_issues": [
+            "Potential breaches of fiduciary duties related to the IBM acquisition.",
+            "Lack of a public bug bounty program to proactively address security vulnerabilities."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "HashiCorp Inc.: Rigrodsky Law, P.A. - rl-legal.com",
+              "snippet": "Rigrodsky Law, P.A. is investigating HashiCorp Inc. (\"HashiCorp\") regarding possible breaches of fiduciary duties and other violations of law related to HashiCorp's agreement to be acquired by IBM. Under the terms of the agreement, HashiCorp shareholders will receive $35.00 per share in cash.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432168+00:00",
+              "published_date": null,
+              "source_hash": "2e33eb93c62c9e07ba6b3704b67ff6bb"
+            },
+            {
+              "url": "",
+              "title": "Smith v. HashiCorp, Inc., No. A165389 | Casetext Search + Citator",
+              "snippet": "The first two causes of action both allege that HashiCorp \"abruptly terminated Mr. Smith on January 17, 2020 after [he] complained to the human resources department about how he had and was being treated by his superiors.\"(Italics added.) The first cause of action alleges that HashiCorp's termination of Smith \"was in violation of California Labor Code section 98.6 and public policy as all of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432234+00:00",
+              "published_date": null,
+              "source_hash": "c8617b0b9e1069ef6fb45d8cd5f194b1"
+            },
+            {
+              "url": "",
+              "title": "IBM plan to buy HashiCorp challenged in court by investor",
+              "snippet": "The deal, expected to close by the end of 2024, has kept HashiCorp stock up around the proposed $35 sale price and has reversed the share decline in the latter half of 2023 that followed its decision to shift Terraform away from the Mozilla Public License (MPL) to the semi-proprietary Business Source License (BSL) 1.1.. That relicensing inspired developers who wanted to continue working under ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432249+00:00",
+              "published_date": null,
+              "source_hash": "56b794be26d5fdfae6e5010b0d323857"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Inc. (Nasdaq - HCP) - Brodsky Smith",
+              "snippet": "SHAREHOLDER NOTICE: Brodsky & Smith Announces an Investigation of HashiCorp Inc. (Nasdaq - HCP) . BALA CYNWYD - April 29, 2024 /Globe Newswire/ - Law office of Brodsky & Smith announces that it is investigating potential claims against the Board of Directors of HashiCorp Inc. (\"HashiCorp\" or the \"Company\") (Nasdaq - HCP) for possible breaches of fiduciary duty and other ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432260+00:00",
+              "published_date": null,
+              "source_hash": "e48dfffa5931b4da50f364424e865b57"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Inc. - Monteverde & Associates PC",
+              "snippet": "To start a Class Action lawsuit, please sign the HashiCorp Inc. Retainer Agreement. ... Should you choose to do so, we will never ask you to reimburse us directly for any legal fees or expenses. During the course of this litigation, you authorize us to employ, share work and/or fees with other attorneys or law firms to prosecute your case. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432270+00:00",
+              "published_date": null,
+              "source_hash": "1904d030f14c9337c50090cafd3c2fad"
+            },
+            {
+              "url": "",
+              "title": "IBM dream to gobble up HashiCorp challenged in court - MSN",
+              "snippet": "The lawsuit argues that HashiCorp and its board violated the US securities laws by omitting material financial information from proxy statements covering the proposed acquisition. And it seeks to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432284+00:00",
+              "published_date": null,
+              "source_hash": "6c18558b54e147391c027e07777b4b3c"
+            },
+            {
+              "url": "",
+              "title": "BRODSKY & SMITH SHAREHOLDER UPDATE: Notifying Investors of - GlobeNewswire",
+              "snippet": "Under the terms of the agreement, HashiCorp will be acquired by IBM (NYSE - IBM). IBM will acquire all outstanding shares of HashiCorp common stock for $35.00 per share in cash, for an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432294+00:00",
+              "published_date": null,
+              "source_hash": "a28f59a93b99b8e0cef159cd7138723c"
+            },
+            {
+              "url": "",
+              "title": "Potential HashiCorp Class Action - Wohl & Fruchter LLP",
+              "snippet": "HashiCorp We are investigating the proposed sale of HashiCorp, Inc. (Nasdaq: HCP) (\"Hashi\") to IBM for $35.00 per share in cash. If you remain a Hashi shareholder and question the fairness of the price, you may contact our firm to discuss your legal rights at no charge by completing and submitting the form below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432302+00:00",
+              "published_date": null,
+              "source_hash": "06590abe1cd6258f4943ca618d08f1bd"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Inc. | Ademi LLP - ademilaw.com",
+              "snippet": "In the transaction, HashiCorp stockholders will receive only $35 per share in cash, or $6.4 billion enterprise value, net of cash. The transaction agreement unreasonably limits competing transactions for HashiCorp by imposing a significant penalty if HashiCorp accepts a competing bid.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432311+00:00",
+              "published_date": null,
+              "source_hash": "d99f173c6e719c96b8d183ef7ddf287c"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp/IBM's regulatory scrutiny could focus on cloud infrastructure ...",
+              "snippet": "The Federal Trade Commission's focus on IBM's [NYSE:IBM] acquisition of HashiCorp [NASDAQ:HCP] could be on the overlap between HashiCorp's Terraform business line and the Red Hat subsidiary of IBM, said two antitrust attorneys and a consultant.. In April, Armonk, New York-based IBM agreed to acquire HashiCorp in a deal valued at USD 6.4bn. . HashiCorp is expected to help drive growth for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:36.432325+00:00",
+              "published_date": null,
+              "source_hash": "8251e0a51929a76c5438391d9a447599"
+            },
+            {
+              "url": "",
+              "title": "UK launches antitrust review of IBM's proposed HashiCorp acquisition",
+              "snippet": "The U.K.'s antitrust regulator has launched an inquiry into IBM Corp.'s proposed acquisition of HashiCorp Inc. for $6.4 billion. The CMA is seeking to determine whether the acquisition could ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:49.265711+00:00",
+              "published_date": "2024-12-30T22:07:00+00:00",
+              "source_hash": "4b3fcabbdac61e6586a091011709b9a4"
+            },
+            {
+              "url": "",
+              "title": "Why HashiCorp, Inc. (HCP) is a Top Momentum Stock for the Long-Term",
+              "snippet": "The stock is down 0.1% and up 1.9% over the past one-week and four-week period, respectively, and HashiCorp, Inc. has gained 49.7% in the last one-year period as well. Additionally, an average of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:39.947302+00:00",
+              "published_date": "2025-01-01T14:49:00+00:00",
+              "source_hash": "c9930b8fcfd2173c0689af993bda55e1"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Announces Third Quarter of Fiscal Year 2025 Financial Results",
+              "snippet": "SAN FRANCISCO, Dec. 05, 2024 (GLOBE NEWSWIRE) -- HashiCorp, Inc. (NASDAQ: HCP), The Infrastructure ... which comprise one-time costs associated with advisory, legal, and other professional fees ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:39.947336+00:00",
+              "published_date": "2024-12-05T21:01:00+00:00",
+              "source_hash": "49bec5cdeb1c07952533684a8aad0180"
+            },
+            {
+              "url": "",
+              "title": "IBM Faces UK Watchdog Scrutiny for HashiCorp Buyout: Trouble Brewing?",
+              "snippet": "Interested parties will have until Jan. 16 to make their concerns known. Based in California, HashiCorp is a software company that enables organizations to efficiently automate multi-cloud and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:39.947361+00:00",
+              "published_date": "2025-01-02T20:00:00+00:00",
+              "source_hash": "15e0739563c6740fd5e2d09f52a8a96e"
+            },
+            {
+              "url": "",
+              "title": "Potential Risks and Challenges in Hashicorp's Pending Merger Impacting Business and Stock Value",
+              "snippet": "Hashicorp, Inc. Class A (HCP) has disclosed a new risk, in the Corporate Activity and Growth category. Unlock your investing potential with TipRanks Premium - Now At 40% OFF! Make smarter ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:01:39.947382+00:00",
+              "published_date": "2024-12-07T14:25:00+00:00",
+              "source_hash": "0e363ccc691d8840e1876d7d468c7be0"
+            },
+            {
+              "url": "",
+              "title": "How HashiCorp's license change impacts organizations?",
+              "snippet": "The announcement received a strong negative response from many of HashiCorp's users in the community, who viewed the company as turning its back on its open-source roots. HashiCorp's open-source licensing had enabled thousands of partner companies to incorporate Terraform and other coding into products that are sold commercially.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471452+00:00",
+              "published_date": null,
+              "source_hash": "227d2abafaf2d62b617970a0405a01cc"
+            },
+            {
+              "url": "",
+              "title": "Open Source is Dead: Understanding the HashiCorp License Controversy",
+              "snippet": "HashiCorp's controversial switch from open source to \"source-available\" licensing has reignited debates on open-source sustainability and business models. Amidst the backdrop of open source's rich history, the tech community remains vigilant, advocating for collaborative digital futures.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471559+00:00",
+              "published_date": null,
+              "source_hash": "2a49038d789b8a6aecd2d790ca253577"
+            },
+            {
+              "url": "",
+              "title": "Open Source and HashiCorp",
+              "snippet": "They learned the theory of computer science through university, but the practice of building software and communities through open source software. To enable the free use of their projects and to support a vibrant community around HashiCorp, they chose an open source model, which evolved over time to include free, enterprise, and managed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471577+00:00",
+              "published_date": null,
+              "source_hash": "f27ccfbea30f5bfb8ad26c975a2e182a"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Licensing Firestorm Fuels Open Source Debate - Forbes",
+              "snippet": "Open-source database company MongoDB converted its primary products to paid licenses, and they have grown into a $25 billion public company, whether the open-source community thinks they are cool ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471589+00:00",
+              "published_date": null,
+              "source_hash": "efc9899ab9847cc24a447f75b96adc74"
+            },
+            {
+              "url": "",
+              "title": "How HashiCorp's license shakeup seeded an open source rebel",
+              "snippet": "Interview HashiCorp might be less than impressed with the rise of the Terraform fork, OpenTofu, but where Hashi sees challenges, the maintainers of the open source project see opportunities.. OpenTofu sprang into existence following HashiCorp's 2023 decision to adopt the Business Source License, thus taking its popular Terraform infrastructure-as-code tool from open source to source available.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471601+00:00",
+              "published_date": null,
+              "source_hash": "f4e7b2b2a78013f6a345fb303eac048c"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Abandons Open Source for Business Source License - LinkedIn",
+              "snippet": "\"HashiCorp's decision to adopt the Business Source License reflects the growing need for sustainable open-source business models,\" said Scott Raynovich, a technology analyst and founder of The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471613+00:00",
+              "published_date": null,
+              "source_hash": "ad01d9280324dce362313816b0a78838"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Abandons Open Source for 'Source Available' Approach",
+              "snippet": "As HashiCorp embraces a 'source available' approach, the open source landscape evolves. Balancing community contributions and commercial goals reflects the ongoing transformation in software collaboration. The latest that's sending ripples through the open source community, HashiCorp has announced a shift from its conventional open source ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471624+00:00",
+              "published_date": null,
+              "source_hash": "1f5e078d929ebb1a5fade987aead3538"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp open source change targets competitors | TechTarget",
+              "snippet": "HashiCorp open source is no more. The company is moving to a Business Source License for all its products. The company pledged that users of its community edition software and partners that have contributed to projects such as Terraform providers will not be affected by the change. The move -- from a Mozilla Public License version 2.0 to a Business Source License (BSL) version 1.1 on future ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471638+00:00",
+              "published_date": null,
+              "source_hash": "7e56521bd31a2fd8ba155c70bc61add6"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp CEO talks license changes and foundations",
+              "snippet": "Interview Controversial cloud wrangler HashiCorp came out swinging last week at its San Francisco HashiConf shindig when the topic of licensing came up.. The event featured plenty of product announcements, alongside the inevitable smattering of AI, but the topic of that license change and the appearance of at least one notable Terraform alternative was never far away.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471652+00:00",
+              "published_date": null,
+              "source_hash": "d84f627baf6d56afa867888ba11ff65e"
+            },
+            {
+              "url": "",
+              "title": "Confusion mounts amid HashiCorp open source change",
+              "snippet": "HashiCorp revealed plans on Aug. 10 to move future releases of all its core products from a Mozilla Public License v2.0 (MPL 2.0) to a Business Source License (BSL). This includes Packer image builder, Vagrant development environments, Terraform infrastructure as code, Vault secrets management, Consul service discovery and service mesh, Nomad container orchestration, Boundary access management ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:41.471665+00:00",
+              "published_date": null,
+              "source_hash": "65bab12f12df1f691c329c32a3995dbe"
+            },
+            {
+              "url": "",
+              "title": "IBM's Acquisition of HashiCorp Investigated by UK Competition Authority",
+              "snippet": "The U.K. government is investigating whether IBM's acquisition of cloud infrastructure firm HashiCorp will result in a \"substantial lessening of competition\" within markets in the country.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:43.939750+00:00",
+              "published_date": "2025-01-03T03:47:00+00:00",
+              "source_hash": "9290cdd48b01a53ad999dbcb27aa1307"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "Have you been paying attention to shares of HashiCorp, Inc. (HCP)? Shares have been on the move with the stock up 1.1% over the past month. The stock hit a new 52-week high of $34.26 in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:43.939782+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "93f880c9bf2c57c0bcd46c0fe3de798d"
+            },
+            {
+              "url": "",
+              "title": "UK launches antitrust review of IBM's proposed HashiCorp acquisition",
+              "snippet": "The U.K.'s antitrust regulator has launched an inquiry into IBM Corp.'s proposed acquisition of HashiCorp Inc. for $6.4 billion ... all its tools under an open-source license.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:43.939793+00:00",
+              "published_date": "2024-12-30T22:07:00+00:00",
+              "source_hash": "a5d275db488240228188cd744982d321"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Announces Third Quarter of Fiscal Year 2025 Financial Results",
+              "snippet": "SAN FRANCISCO, Dec. 05, 2024 (GLOBE NEWSWIRE) -- HashiCorp, Inc. (NASDAQ ... \"This quarter we gathered our community of customers, practitioners, and partners at HashiConf in Boston, where ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:43.939802+00:00",
+              "published_date": "2024-12-05T21:01:00+00:00",
+              "source_hash": "d68b1b253e5f076ac327edb67c885fdb"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. open-source community controversies",
+              "retrieved_at": "2025-01-06T16:01:43.939810+00:00",
+              "published_date": "2024-11-29T13:00:00+00:00",
+              "source_hash": "6bf3c0a6f80fd1ba53270c8578d56e0c"
+            },
+            {
+              "url": "",
+              "title": "Vulnerability management - HashiCorp",
+              "snippet": "HashiCorp does not currently operate a public bug bounty program or offer monetary rewards for vulnerability reports, but individuals may be acknowledged in product security bulletins as appropriate. If you would like to report a vulnerability in one of our products or services, or have security concerns regarding HashiCorp software or systems ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481719+00:00",
+              "published_date": null,
+              "source_hash": "e973531064976921a926dc377627f50b"
+            },
+            {
+              "url": "",
+              "title": "Reporting HashiCorp security vulnerabilities",
+              "snippet": "Security Alert: HashiCorp Response to CircleCI; Subscribing to HashiCorp security updates; HCSEC-2024-26 - Vault Vulnerable to Denial of Service Through Memory Exhaustion When Processing Raft Cluster Join Requests; HCSEC-2024-21 - Vault Operators in Root Namespace May Elevate Their Privileges",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481827+00:00",
+              "published_date": null,
+              "source_hash": "2a476c4f71e477287c1b0ba2572abb9f"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp is the latest victim of Codecov supply-chain attack",
+              "snippet": "\"Existing releases have been validated and re-signed,\" states HashiCorp in a security event disclosure. According to HashiCorp, this incident has only impacted HashiCorp's SHA256SUM signing mechanism.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481844+00:00",
+              "published_date": null,
+              "source_hash": "2f06bb4663c3c2ed1745da6ed800e54d"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Learn about data breaches, cyber attacks, and security incidents involving HashiCorp. ... This vendor risk report is based on UpGuard's continuous monitoring of HashiCorp's security posture using open-source, commercial, and proprietary threat intelligence feeds. ... open ports and common vulnerabilities. Free score. Want a complete vendor ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481857+00:00",
+              "published_date": null,
+              "source_hash": "c9fd219fa12a363e02f97f27d2723d3f"
+            },
+            {
+              "url": "",
+              "title": "Security at HashiCorp",
+              "snippet": "Vulnerability management. Abuse reporting. Product security. HashiCorp Cloud Platform ... The current PGP public key referenced above can be used to encrypt email to security@hashicorp.com. ... CN=\"HashiCorp, Inc.\", O=\"HashiCorp, Inc.\", L=San Francisco, S=California, C=US Issuer : CN=DigiCert SHA2 Assured ID Code Signing CA, OU=www.digicert.com ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481872+00:00",
+              "published_date": null,
+              "source_hash": "46d5d0854bb7640f19423b45ec6bcd6b"
+            },
+            {
+              "url": "",
+              "title": "Nvd - Cve-2024-8365",
+              "snippet": "This vulnerability, CVE-2024-8365, was fixed in Vault Community Edition and Vault Enterprise 1.17.5 and Vault Enterprise 1.16.9. ... Published Date: 09/02/2024 NVD Last Modified: 09/04/2024 Source: HashiCorp Inc. twitter (link is external) ... Technical Cyber Security Questions: US-CERT Security Operations Center",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481885+00:00",
+              "published_date": null,
+              "source_hash": "97347cec399edf61bf9b9eede5acab28"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp - Security Vulnerabilities in 2024 - stack.watch",
+              "snippet": "In 2024 there have been 4 vulnerabilities in HashiCorp with an average score of 6.9 out of ten. Last year HashiCorp had 30 security vulnerabilities published. Right now, HashiCorp is on track to have less security vulnerabilities in 2024 than it did last year. However, the average CVE base score of the vulnerabilities in 2024 is greater by 0.43.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481896+00:00",
+              "published_date": null,
+              "source_hash": "d6d2fd5c6a2c9a9e18896fe63b268618"
+            },
+            {
+              "url": "",
+              "title": "Subscribing to HashiCorp security updates",
+              "snippet": "Security Alert: HashiCorp Response to CircleCI; Subscribing to HashiCorp security updates; HCSEC-2024-26 - Vault Vulnerable to Denial of Service Through Memory Exhaustion When Processing Raft Cluster Join Requests; HCSEC-2024-21 - Vault Operators in Root Namespace May Elevate Their Privileges",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481933+00:00",
+              "published_date": null,
+              "source_hash": "35c0a38fe1ae329c442d12c44507d0d0"
+            },
+            {
+              "url": "",
+              "title": "About HashiCorp security updates",
+              "snippet": "Security updates for all HashiCorp products and services. Posting to this category is restricted to HashiCorp employees only. Reporting Security Vulnerabilities We deeply appreciate any effort to discover and coordinate the disclosure of security vulnerabilities. For information about security at HashiCorp and the reporting of security vulnerabilities, please see Security at HashiCorp ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481944+00:00",
+              "published_date": null,
+              "source_hash": "672c222e5b59c333c1ea54566fb0018b"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Vault Security Vulnerabilities in 2024 - stack.watch",
+              "snippet": "Recent HashiCorp Vault Security Vulnerabilities. A privileged Vault operator with write permissions to the root namespaces identity endpoint could escalate their own or another users privileges to Vaults root policy CVE-2024-9180 7.2 - High - October 10, 2024. A privileged Vault operator with write permissions to the root namespaces identity ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:45.481955+00:00",
+              "published_date": null,
+              "source_hash": "0febe5172076b66fbb6ef254b5a15a82"
+            },
+            {
+              "url": "",
+              "title": "IBM Faces UK Watchdog Scrutiny for HashiCorp Buyout: Trouble Brewing?",
+              "snippet": "International Business Machines Corporation IBM has welcomed 2025 with an apparent glitch in its effort to develop a comprehensive suite of modernized cloud security and compliance solutions with the proposed acquisition of HashiCorp Inc.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:49.265564+00:00",
+              "published_date": "2025-01-02T20:00:00+00:00",
+              "source_hash": "f5ebf98106839b3ab1c960189d1e3bcf"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "Have you been paying attention to shares of HashiCorp, Inc. (HCP)? Shares have been on ... stocks (beyond looking at the Zacks Rank of a security). These styles are represented by grades running ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:49.265676+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "d4d24658bc3fb1490ef37c863043fdcb"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Announces Third Quarter of Fiscal Year 2025 Financial Results",
+              "snippet": "SAN FRANCISCO, Dec. 05, 2024 (GLOBE NEWSWIRE) -- HashiCorp, Inc. (NASDAQ ... we announced critical updates across Infrastructure and Security Lifecycle Management product lines, and also continued ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. security breaches or vulnerabilities",
+              "retrieved_at": "2025-01-06T16:01:49.265738+00:00",
+              "published_date": "2024-12-05T21:01:00+00:00",
+              "source_hash": "46aa6f2f0fa7fb8fae55cdc0ded5d8f0"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "HashiCorp Inc. legal disputes or lawsuits",
+              "rationale": "Identify any ongoing or past legal issues that could impact the company's reputation or finances",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "HashiCorp Inc. open-source community controversies",
+              "rationale": "Explore potential conflicts or dissatisfaction within the open-source community that could affect product development and adoption",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "HashiCorp Inc. security breaches or vulnerabilities",
+              "rationale": "Investigate any reported security incidents or vulnerabilities in HashiCorp's products that could undermine customer trust",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:02:09.250504",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

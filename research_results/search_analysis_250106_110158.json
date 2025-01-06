@@ -1,0 +1,468 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:01:58.049904",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Alight Inc",
+      "symbol": "ALIT",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Cybersecurity breaches and regulatory scrutiny from the Department of Labor",
+            "Client concentration and dependency on a limited number of large clients",
+            "Intense competition in the HR technology and services market",
+            "Post-IPO stock volatility and investor concerns",
+            "Regulatory and compliance challenges related to labor laws and data privacy"
+          ],
+          "controversies": [
+            "Investigation by the Department of Labor for cybersecurity breaches and potential ERISA violations"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data privacy concerns and potential impact on employee records"
+          ],
+          "governance_issues": [
+            "Regulatory compliance and potential financial liabilities from cybersecurity breaches"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Alight Ordered to Comply With DOL Subpoena Related to Cybersecurity ...",
+              "snippet": "According to the court order, the agency's investigation was prompted, at least in part, by its discovery that Alight had processed unauthorized distributions as a result of cybersecurity breaches relating to its ERISA plan clients' accounts. In addition, the investigation found that, in violation of its service provider agreements, Alight ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210065+00:00",
+              "published_date": null,
+              "source_hash": "b08680ec6af41f193366657db20c7752"
+            },
+            {
+              "url": "",
+              "title": "DOL Seeks Information From Alight Solutions About Cybersecurity Incidents",
+              "snippet": "According to the court order, the agency's investigation was prompted, at least in part, by its discovery that Alight had processed unauthorized distributions as a result of cybersecurity breaches relating to its ERISA plan clients' accounts. In addition, the investigation found that, in violation of its service provider agreements, Alight ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210124+00:00",
+              "published_date": null,
+              "source_hash": "fc6aa3cfc7ec5be5c2fb0849d7a88bc7"
+            },
+            {
+              "url": "",
+              "title": "Alight Solutions Must Comply with Subpoena Issued by DOL in ...",
+              "snippet": "The DOL then began investigating these incidents to determine whether any parties involved in the breaches had violated (or would violate) ERISA (the Employee Retirement Income Security Act of 1974). During the investigation, the DOL issued a subpoena that Alight argued was overly broad and burdensome and that the DOL did not have the authority ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210136+00:00",
+              "published_date": null,
+              "source_hash": "358623daa2ccf77526174253b99088f9"
+            },
+            {
+              "url": "",
+              "title": "Alight Solutions Security Rating, Vendor Risk Report, and Data Breaches",
+              "snippet": "Compare Alight Solutions's security performance with other companies. Learn about data breaches, cyber attacks, and security incidents involving Alight Solutions. Shape your 2025 cyber GRC strategy with a complimentary Gartner report",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210145+00:00",
+              "published_date": null,
+              "source_hash": "0a738931ecd0003ee55772a4be914c2c"
+            },
+            {
+              "url": "",
+              "title": "Walsh v. Alight Solutions, LLC, No. 21-3290 (7th Cir. 2022)",
+              "snippet": "Alight provides recordkeeping services for employee healthcare and retirement benefit plans, some of which are governed by ERISA, 29 U.S.C. 1001-1461 The Department of Labor investigated Alight, following a discovery that Alight processed unauthorized distributions of plan benefits due to cybersecurity breaches, and sent Alight an administrative subpoena duces tecum, seeking documents in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210170+00:00",
+              "published_date": null,
+              "source_hash": "e024ca5836abdc5bbbef840274bbaf8a"
+            },
+            {
+              "url": "",
+              "title": "DOL Subpoenas Alight Solutions For Possible ERISA Violations",
+              "snippet": "A subpoena was issued to Alight Solutions by the U.S. Department of Labor (DOL) for documents related to a cybersecurity breach that potentially resulted in Employee Retirement Income Security Act ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210179+00:00",
+              "published_date": null,
+              "source_hash": "93401a533f120310a22bb0c27e9176b5"
+            },
+            {
+              "url": "",
+              "title": "Seventh Circuit upholds DOL cybersecurity subpoena against Alight ...",
+              "snippet": "On August 12, 2022, the Seventh Circuit Court of Appeals upheld a decision by a lower court in Walsh v.Alight Solutions LLC enforcing (with modifications) an administrative subpoena by the Department of Labor against Alight.The subpoena requires Alight to produce documents in connection with alleged cybersecurity breaches at Alight with respect to the retirement and health plans for which it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210187+00:00",
+              "published_date": null,
+              "source_hash": "63cae339178e3ef716946a390c9d0ab8"
+            },
+            {
+              "url": "",
+              "title": "Expansion of Department of Labor's Investigatory Authority ... - CaseMine",
+              "snippet": "Expansion of Department of Labor's Investigatory Authority Under ERISA to Non-Fiduciaries and Cybersecurity Incidents Introduction. In the case of Martin J. Walsh, Secretary of Labor v.Alight Solutions LLC, decided by the United States Court of Appeals for the Seventh Circuit on August 12, 2022, the focus was on the Department of Labor's (DOL) authority to investigate cybersecurity breaches ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210196+00:00",
+              "published_date": null,
+              "source_hash": "ecce1ad901c2e707d57cc0812f86340a"
+            },
+            {
+              "url": "",
+              "title": "District Court Enforces DOL Investigative ... - Cybersecurity Insider",
+              "snippet": "According to the Court's order, the DOL's investigation of Alight began back in July 2019 based in part on its discovery that Alight had processed unauthorized distributions from its ERISA plan clients' accounts as a result of cybersecurity breaches and, further, had failed to promptly report the breaches and restore the unauthorized ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210204+00:00",
+              "published_date": null,
+              "source_hash": "2dc40952a61eedd27374bf7e38b28ac3"
+            },
+            {
+              "url": "",
+              "title": "Alight Data Breach Investigation - Strauss Borrelli PLLC",
+              "snippet": "On November 15, 2022, Alight discovered that it had experienced a data breach in which the sensitive personal identifiable information in its systems may have been accessed.Through its investigation, Alight determined that an unauthorized actor may have accessed this sensitive information through the company's corporate email environment.On February 24, 2023, Alight began contacting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T18:01:29.210212+00:00",
+              "published_date": null,
+              "source_hash": "b5fb7d0f4cab92c5089d95cd405d0ecb"
+            },
+            {
+              "url": "",
+              "title": "Alight, Inc. - Governance - Governance documents",
+              "snippet": "Alight Investor Relations 470-638-7400 Investor.relations@alight.com. ... If you experience any issues with this process, please contact us for further assistance. By providing your email address below, you are providing consent to Alight Solutions to send you the requested Investor Email Alert updates.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261757+00:00",
+              "published_date": null,
+              "source_hash": "904f7bc7368dfa3e2f64fc78ba2f248e"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Alight's Ethics Helpline is a way for colleagues to seek guidance on legal or compliance matters, or to report possible violations of the Code, Alight policies, or procedures or the law. Alight's Ethics Helpline is operated by an independent, third-party provider which maintains the confidentiality of calls. Those who contact the Ethics",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261878+00:00",
+              "published_date": null,
+              "source_hash": "e6a280b2761628a1897ecf999bac63b4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "6. Regulatory and Accounting Initiatives. The Audit Committee will review periodically the effect of regulatory and accounting initiatives, as well as off-balance sheet structures (if any), on the financial statements of the Company. 7. Independent Auditor Audit Work. The Audit Committee will review with",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261895+00:00",
+              "published_date": null,
+              "source_hash": "d05ffc44596447b08d5e15771dcdcb35"
+            },
+            {
+              "url": "",
+              "title": "Data security for human capital - Alight",
+              "snippet": "Alight's enterprise-grade security controls are assessed over 350 times each year by many of the world's most security-focused companies. And, we annually engage independent auditors to ensure compliance with HIPAA, HITECH, GDPR, CCPA and the Department of Labor's cybersecurity guidelines.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261906+00:00",
+              "published_date": null,
+              "source_hash": "96a3e65dde70438c3f6a2db4065e7776"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "ALIGHT, INC. CORPORATE GOVERNANCE GUIDELINES INTRODUCTION The Board of Directors (the \"Board\") of Alight, Inc. (the \"Company\") has adopted these corporate governance guidelines, which describe the principles and practices that the Board is expected to follow in carrying out its responsibilities. It is expected that these guidelines will be",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261917+00:00",
+              "published_date": null,
+              "source_hash": "34746f4a67d29a6313825b129dfb1dbb"
+            },
+            {
+              "url": "",
+              "title": "Alight Solutions Must Comply with Subpoena Issued by DOL in ...",
+              "snippet": "Alight Solutions, LLC, No. 21-3290, 2022 WL 3334450 (7 th Cir. Aug. 12, 2022). ... evading regulatory oversight. Congress did not confine the department's investigatory power in this manner.\" ... however, the court was not persuaded by this argument, stating that Alight did not present evidence that compliance was unduly burdensome. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261926+00:00",
+              "published_date": null,
+              "source_hash": "b0ae10ce9d970c047ee61af120a93c5f"
+            },
+            {
+              "url": "",
+              "title": "DOL Subpoenas Alight Solutions For Possible ERISA Violations",
+              "snippet": "Alight Solutions, LLC, No. 21-3290, 2022 WL 3334450 (7 th Cir. Aug. 12, 2022). In the opinion, the court said, \"Whether or not Alight is a fiduciary does not affect the department's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261938+00:00",
+              "published_date": null,
+              "source_hash": "2301f3c2e4ddcd271efaf84ddb08685c"
+            },
+            {
+              "url": "",
+              "title": "Martin Felli - Alight",
+              "snippet": "As chief legal officer and corporate secretary, Martin Felli oversees all legal, regulatory and compliance matters at Alight. Martin brings more than 27 years of legal expertise to Alight with significant experience in regulatory, compliance, governance, intellectual property, consumer products, real estate and general corporate matters.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261949+00:00",
+              "published_date": null,
+              "source_hash": "7c708f3e6c8939564b0ad5ed16f9c89d"
+            },
+            {
+              "url": "",
+              "title": "Navigating the Impact of GDPR and CCPA on Businesses: Data ... - Concord",
+              "snippet": "5. Implement a process for addressing non-compliance issues with vendors. This may involve remediation plans, corrective actions, or even terminating contracts with vendors who fail to comply with GDPR and CCPA standards. 6. Provide training and resources to vendors to help them understand and comply with GDPR and CCPA requirements.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261958+00:00",
+              "published_date": null,
+              "source_hash": "e85cfd6081ee986609d2e878066ad489"
+            },
+            {
+              "url": "",
+              "title": "Data Privacy Compliance: GDPR & CCPA Challenges - TechFunnel",
+              "snippet": "Data privacy compliance is not just a buzzword; it's the cornerstone of ethical and legal business practices, especially in today's digital landscape. Here's why it's paramount for businesses: 1. Legal obligations. First and foremost, compliance with data privacy regulations like GDPR and CCPA isn't optional; it's mandatory. Failure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Alight Inc Alight Inc regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T18:01:33.261967+00:00",
+              "published_date": null,
+              "source_hash": "c85c06e133c93d095d45527f338c8fab"
+            },
+            {
+              "url": "",
+              "title": "Understanding Alight, Inc. (ALIT) Revenue Streams - dcf.fm",
+              "snippet": "Diverse Client Base: With over 3,500 clients, including Fortune 500 companies, Alight benefits from a diversified revenue stream that mitigates risk. Overall, these growth opportunities indicate a strong potential for Alight, Inc. to enhance its financial performance in the coming years, provided it successfully leverages its strategic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507056+00:00",
+              "published_date": null,
+              "source_hash": "e62ab7830acc284c0694f87258ac43f0"
+            },
+            {
+              "url": "",
+              "title": " 2 Quarter 2024 Earnings Presentation Alight, Inc.",
+              "snippet": "entitled \"Risk Factors\" of Alight's Annual Report on Form 10-K, filed with the Securities and Exchange Commission (the \"SEC\") on February 29, 2024 and in the Quarterly Report on Form 10-Q filed with the SEC on May 8, 2024, as such factors",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507205+00:00",
+              "published_date": null,
+              "source_hash": "39a9f74390fd35d2c181023aa2e791fa"
+            },
+            {
+              "url": "",
+              "title": " Powering confident decisions, for life. - s27.q4cdn.com",
+              "snippet": "under the section entitled \"Risk Factors\" of Alight's Annual Report on Form 10 -K, filed with the Securities and Exchange Commission (the \"SEC\") on March 10, 2022, as such factors may be updated ... 2Among Top 25 client by revenue 3Retention defined as prior year's active client revenue compared to the following year 4As of June 30, 2022",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507226+00:00",
+              "published_date": null,
+              "source_hash": "85dd0ec8398cdf64e9f0470b0ec60662"
+            },
+            {
+              "url": "",
+              "title": " Investor Day 2023",
+              "snippet": "Client interactions annually Alight at a glance 1 Number of participants as of 12/31/22 2 Retention defined as prior year's active client revenue compared to the following year measured as of \u00ed \u00ee/ \u00ef \u00ed/ \u00ee \u00ee 3 LTM as of 6/30/23 4 BPaaS TCV sold between 2021 through 6/30/2023 5 As of 9/30/22",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507240+00:00",
+              "published_date": null,
+              "source_hash": "53203d6e6a219a2d47f5beb615c2cb47"
+            },
+            {
+              "url": "",
+              "title": "Alight Inc.: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Future Outlook: Explore the trends and challenges that may shape Alight Inc.'s strategy moving forward. Business Model of Alight Inc. Alight Inc. operates on a business model that is centered around providing integrated human capital management solutions to businesses of all sizes. The company's offerings can be broken down into several key ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507257+00:00",
+              "published_date": null,
+              "source_hash": "3123b1422613d9332302d3e09f44d730"
+            },
+            {
+              "url": "",
+              "title": "Alight, Inc. - Alight Reports Third Quarter 2024 Results",
+              "snippet": "- Initiates quarterly dividend program - - Revenue of $555 million - - Key wins with Hewlett Packard Enterprise, Nokia and Siemens - - Repurchased $75 million of common stock - - Raises revenue guidance range - Alight, Inc. (NYSE: ALIT), a leading cloud-based provider of integrated digital human capital and business solutions, today reported results for the third quarter ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507272+00:00",
+              "published_date": null,
+              "source_hash": "ab8914051e98ddb1e8b92092674b5df0"
+            },
+            {
+              "url": "",
+              "title": "Alight Reports Fourth Quarter and Full Year 2023 Results",
+              "snippet": "LINCOLNSHIRE, Ill.--(BUSINESS WIRE)-- Alight, Inc. (NYSE: ALIT), a leading cloud-based provider of integrated digital human capital and business solutions, today reported results for the fourth quarter and full year ended December 31, 2023. \"Our three-year transformation has generated significant momentum and enabled Alight to deliver strong 2023 results,\" said Chief Executive Officer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507287+00:00",
+              "published_date": null,
+              "source_hash": "e649f843f9b0579ff7918982fbf47922"
+            },
+            {
+              "url": "",
+              "title": "Alight Inc (ALIT) Q3 2024 Earnings Call Highlights: Strategic Wins and ...",
+              "snippet": "Revenue: $555 million, down 0.5% from the prior year. Recurring Revenue: Comprised 91% of total revenue, nearly flat from the prior year. Non-Recurring Project Revenue: Down $2 million or roughly 4%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507298+00:00",
+              "published_date": null,
+              "source_hash": "67af1504ffa69455dbbf118c62239c8d"
+            },
+            {
+              "url": "",
+              "title": "ALIT | Alight Inc. Financial Statements - WSJ",
+              "snippet": "Alight Inc. balance sheet, income statement, cash flow, earnings & estimates, ratio and margins. ... Risk & Compliance; WSJ Professional. ... Sales or Revenue: 555.00 M: Sales or Revenue Growth +1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507310+00:00",
+              "published_date": null,
+              "source_hash": "28c3d9319ac39f385a262832d70372fb"
+            },
+            {
+              "url": "",
+              "title": " 4 Quarter and Full Year 2023 Earnings Presentation Alight, Inc.",
+              "snippet": "- Remains significant client across Alight; expect business line revenue growth to normalize from 2023 \u2022 BPaaS revenue of $222M, up nearly 30% in the fourth quarter and up 34% for 2023 \u2022 Fourth quarter revenue growth of 24.2% in Professional Services driven by project work for new clients 3",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:37.507323+00:00",
+              "published_date": null,
+              "source_hash": "0dca3ac6dc2c08cf6c90f0cb2727decb"
+            },
+            {
+              "url": "",
+              "title": "Is Alight, Inc. (ALIT) Among the Best Low Priced Stocks to Invest in Now?",
+              "snippet": "We recently published a list of the 10 Best Low Priced Stocks to Invest in Now. In this article, we are going to take a look at where Alight, Inc. (NYSE:ALIT) stands against the other best low priced stocks to invest in now.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:40.833412+00:00",
+              "published_date": "2024-12-28T14:48:22+00:00",
+              "source_hash": "729b46afb97bd8a5698963b3ad461d47"
+            },
+            {
+              "url": "",
+              "title": "Alight Inc. Q3 Earnings Summary",
+              "snippet": "Excluding items, Alight Inc. reported adjusted earnings of $48 million or $0.09 per share for the period. Analysts projected $0.09 per share Revenue: $555 million in Q3 vs. $557 million in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:40.833560+00:00",
+              "published_date": "2024-11-12T13:07:00+00:00",
+              "source_hash": "b6a8da5852b80270e0876620d3cfb5a2"
+            },
+            {
+              "url": "",
+              "title": "Alight Issues Statement in Conjunction with Cannae",
+              "snippet": "CHICAGO--(BUSINESS WIRE)--Alight, Inc. (NYSE: ALIT ... Such forward-looking statements are subject to various risks and uncertainties including, among others, risks described under the section ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Alight Inc Alight Inc client concentration risks revenue dependency",
+              "retrieved_at": "2025-01-06T18:01:40.833595+00:00",
+              "published_date": "2024-12-04T14:07:00+00:00",
+              "source_hash": "0076fa3bd195fa3bc328b2d209422e5a"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Alight Inc data breaches cybersecurity incidents",
+              "rationale": "Investigate risks related to data security and potential breaches affecting client trust and regulatory compliance",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Alight Inc regulatory compliance issues GDPR CCPA",
+              "rationale": "Examine challenges and penalties related to compliance with data privacy laws like GDPR and CCPA",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Alight Inc client concentration risks revenue dependency",
+              "rationale": "Assess the impact of reliance on a limited number of large clients and potential risks to revenue stability",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:01:58.049912",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

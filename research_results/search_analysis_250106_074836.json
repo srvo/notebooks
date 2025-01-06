@@ -1,0 +1,409 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:48:36.166196",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Appian Corp",
+      "symbol": "APPN",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal dispute with Pegasystems creating financial and reputational uncertainty",
+            "Intense competition from established players like Microsoft Power Apps and Salesforce Lightning",
+            "Dependence on third-party cloud providers and system integrators",
+            "Vulnerability to macroeconomic conditions and IT budget constraints",
+            "Security and compliance risks in regulated industries"
+          ],
+          "controversies": [
+            "Ongoing legal battle with Pegasystems over alleged trade secret misappropriation",
+            "Insider selling raising questions about management\u2019s confidence"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Potential incidents highlighted by Sustainalytics that could negatively impact stakeholders"
+          ],
+          "governance_issues": [
+            "Insider selling despite high insider ownership"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Appian Pega Lawsuit - Information About the Case & Verdict",
+              "snippet": "Appian has petitioned the Supreme Court of Virginia\u2014the state's highest court\u2014for review of this decision and is hopeful that the Supreme Court will reinstate the jury's verdict in full. A link to Appian's Supreme Court petition can be found here. The Virginia Supreme Court has the final say on whether Pega is on the hook for the $2 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206421+00:00",
+              "published_date": null,
+              "source_hash": "6ab43a15d4cd954c59205041a34698b5"
+            },
+            {
+              "url": "",
+              "title": "PEGASYSTEMS INC v. APPIAN CORPORATION (2024) | FindLaw - FindLaw Caselaw",
+              "snippet": "APPIAN CORPORATION. Read the Court's full decision on FindLaw. Skip to main ... The gist of this dispute is that Appian contends that Pega misappropriated its trade secrets to copy and steal Appian's user-friendly features to enhance Pega's appeal with a broader base of potential customers. ... See Campbell v. Bettius, 244 Va. 347, 352, 421 S.E ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:48:01.590044+00:00",
+              "published_date": null,
+              "source_hash": "6f6478bb4285602bfaa824ca9f97de28"
+            },
+            {
+              "url": "",
+              "title": "Appeals Court Overturns Appian's $2B Verdict Against Pegasystems",
+              "snippet": "July 31, 2024: A significant reversal has occurred in the high-stakes legal battle between Appian and Pegasystems. The Virginia Court of Appeals ... of robust evidentiary support and the potential pitfalls of relying solely on jury determinations in complex commercial disputes. Appian and Pegasystems are likely to assess their strategic options ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:48:01.590050+00:00",
+              "published_date": null,
+              "source_hash": "2ecb4906a8e9aaf87eb40f5f9596e094"
+            },
+            {
+              "url": "",
+              "title": "Appeals court reverses $2B judgment for Appian",
+              "snippet": "Appian included Zou, a software architect, in the lawsuit, and he was ordered to pay Appian $5,000. In the 2020 complaint, Appian claimed that it lost 201 customers and claimed $479 million in \"unjust enrichment of Pega\" between 2012 and 2020, but Pegasystems' attorneys argued that the information gained by the company was not actually \"trade secrets\" because some of it was sourced ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206463+00:00",
+              "published_date": null,
+              "source_hash": "c3dff53a19a3e982b9dfa5bf3502f175"
+            },
+            {
+              "url": "",
+              "title": "Virginia Court Strikes $2B Trade Secrets Award in Appian vs. Pega",
+              "snippet": "Despite striking the damages award, the court upheld the lower court's determination that Appian Corp (Appian) had properly defined its trade secrets, thereby allowing it to make a trade secrets ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206484+00:00",
+              "published_date": null,
+              "source_hash": "de746b733ddb95fc30fe067ab6d4abab"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "customers. And Appian did not swear any of them to secrecy. How could a jury have concluded that the information Pega learned was secret even though Appian shared it with thousands? Because the jury never learned that fact. Although Appian was required to prove that its purported secrets",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:48:01.590062+00:00",
+              "published_date": null,
+              "source_hash": "847045cc121475cc8d68ffbfd383656d"
+            },
+            {
+              "url": "",
+              "title": "Virginia Appeals Court Reverses $2 Billion Jury Award to Appian in ...",
+              "snippet": "IntroductionIn May 2022, a jury in the Circuit Court for Fairfax County, Virginia awarded Appian Corp. (Appian) in excess of $2 billion in damages from Pegasystems, Inc. (Pegasystems) for misappropriating Appian's trade secrets in violation of the Virginia Uniform Trade Secrets Act (VUTSA). This award was the largest damages verdict in Virginia court history, and is among the largest awards ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:48:01.590065+00:00",
+              "published_date": null,
+              "source_hash": "c4f653a2d5c9a14ca666ec019cef6586"
+            },
+            {
+              "url": "",
+              "title": "Appian's $2 billion verdict against Pegasystems overturned by appeals ...",
+              "snippet": "McLean, Virginia-based Appian had said in a 2020 lawsuit that Pegasystems hired a contractor to steal confidential information from Appian's software platform in order to improve its own products ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:48:01.590069+00:00",
+              "published_date": null,
+              "source_hash": "7ebaeead2b8a395c5159d9e5049fb035"
+            },
+            {
+              "url": "",
+              "title": "Virginia Court Overturns $2B Trade Secret Award - National Law Review",
+              "snippet": "In Pegasystems Inc. v. Appian Corp., Virginia appeals court reverses trade secret damages, citing legal errors in jury instructions and evidentiary limitations Virginia Court Overturns $2B Trade ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206479+00:00",
+              "published_date": null,
+              "source_hash": "17fbe1ec3260793e8ee7a9869acc7ba7"
+            },
+            {
+              "url": "",
+              "title": "Virginia Appellate Court Vacates Trade Secret Verdict - National Law Review",
+              "snippet": "The Court of Appeals of Virginia vacated a $2 billion award in a trade secret misappropriation case based on a series of evidential errors and improper jury instructions. PegaSystems Inc. v ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206500+00:00",
+              "published_date": null,
+              "source_hash": "bf5d4ddf1ae2e81894bcaa07b9f97fc4"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc. v. Appian Corporation :: 2024 - Justia Law",
+              "snippet": "Appian's asserted trade secrets in this regard relate to Pega obtaining Appian's \"written documentation\" that included private information as well as - 28 - Pega's ability to identify and exploit weaknesses in Appian's software once armed with Zou's demonstrations and Appian's documentation.9 Indeed, Pega initiated a program ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206472+00:00",
+              "published_date": null,
+              "source_hash": "1f95043ed23413cfe3a4e4915b96ec46"
+            },
+            {
+              "url": "",
+              "title": "Appian awarded $2b after claiming Pegasystems stole its data",
+              "snippet": "Appian has been awarded more than $2 billion in damages from Pegasystems for \"trade secret misappropriation.\" It's an eyewatering sum, and came in a verdict received from a jury in the Circuit Court for Fairfax County, Virginia following a seven-week trial. Appian is all about building apps and workflows rapidly with its low-code platform.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206489+00:00",
+              "published_date": null,
+              "source_hash": "325be407f30e2ecaf6f4e142dbe84288"
+            },
+            {
+              "url": "",
+              "title": "Appian's $2 billion verdict against Pegasystems overturned by appeals court",
+              "snippet": "By Blake Brittain (Reuters) -Software company Pegasystems convinced a Virginia appeals court on Tuesday to throw out a $2 billion jury verdict for rival Appian in a court battle over Pegasystems ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206495+00:00",
+              "published_date": null,
+              "source_hash": "40f4b210363246dbd4ff3cdb41a0ec6d"
+            },
+            {
+              "url": "",
+              "title": "Court overturns Appian's $2bn trade secrets award against Pegasystems",
+              "snippet": "Appian, a software company based in Maclean, Virginia, claims that Pega misappropriated its trade secrets, copied Appian's user friendly features to enhance its own software and illicitly ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206505+00:00",
+              "published_date": null,
+              "source_hash": "424bb9cfedb223ec9f771dfea36c28eb"
+            },
+            {
+              "url": "",
+              "title": "Cloud Firm Appian Awarded $2B in Trade Secret Cyber-Theft Lawsuit",
+              "snippet": "The court awarded Appian $5,000 in damages against Zou. Pegasystems also has to pay an additional $1 for violating the Virginia Computer Crimes Act. Pegasystems has said it will appeal the ruling.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:08.206510+00:00",
+              "published_date": null,
+              "source_hash": "32cdea58d2c939874614551d297a86bd"
+            },
+            {
+              "url": "",
+              "title": "Appian Gains 7% in the Past 6 Months: Should You Buy the Stock?",
+              "snippet": "enhancing business process automation while ensuring data security and privacy. Appian is benefiting from expanding clientele and solid growth, particularly in its cloud and subscription ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:11.714642+00:00",
+              "published_date": "2024-12-31T15:48:00+00:00",
+              "source_hash": "39d3c2eb4898497ca822f81efb201221"
+            },
+            {
+              "url": "",
+              "title": "Appian Corporation (APPN)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:11.714674+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "0e828ba3067e472b5487cdb86383918a"
+            },
+            {
+              "url": "",
+              "title": "Although Appian Corporation (NASDAQ:APPN) insiders have sold lately, they have the highest ownership with 44% stake",
+              "snippet": "To get a sense of who is truly in control of Appian Corporation (NASDAQ ... While it makes sense to study institutional ownership data for a company, it also makes sense to study analyst ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Appian Corp Appian Corp data privacy controversies",
+              "retrieved_at": "2025-01-06T14:48:11.714681+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "e083854d60e3d029d34c4e53565f8cb3"
+            },
+            {
+              "url": "",
+              "title": "Appian Pros and Cons | User Likes & Dislikes - G2",
+              "snippet": "Appian is a powerful business process automation tool. Our company has builds under Appian that are used daily. It has allowed our company to implement builds in record times, usually takes 2 months to 15 days. Appian has proved its strength in data integration to external systems such as Salesforce and AWS.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187082+00:00",
+              "published_date": null,
+              "source_hash": "98e2ffd9efb860eb30ca0b49280cb2ab"
+            },
+            {
+              "url": "",
+              "title": "Appian Reviews 2025: Details, Pricing, & Features - G2",
+              "snippet": "Appian is a powerful business process automation tool. Our company has builds under Appian that are used daily. It has allowed our company to implement builds in record times, usually takes 2 months to 15 days. Appian has proved its strength in data integration to external systems such as Salesforce and AWS.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187196+00:00",
+              "published_date": null,
+              "source_hash": "e4290f3afa06ab5de5d2202c28a29546"
+            },
+            {
+              "url": "",
+              "title": "Appian Reviews, Pricing, Pros & Cons 2024 - TrustRadius",
+              "snippet": "Explore verified Appian reviews, up-to-date pricing, helpful pros and cons, & alternatives to other Low-Code Development tools ... Score 8.3 out of 10. 271; Reviews and RatingsLow-Code Development; Save. Appian. Save. Appian. Open Menu. Overview; Pricing; Product Demos; Features Scorecard; Product Details; Comparisons; Reviews and Ratings (271 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187209+00:00",
+              "published_date": null,
+              "source_hash": "8a17b73f190ed9ec50cc51e0892f6950"
+            },
+            {
+              "url": "",
+              "title": "Appian 2024 Verified Reviews, Pros & Cons - TrustRadius",
+              "snippet": "Search through 100% verified reviews & ratings by industry, company size, or role to find out how Appian works for similar organizations. Search. ... Strong customer focus. Cons. ... My organization currently has 3 external company integrations and 3 internal company integrations set up within Appian that provides ease of use for our users ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187221+00:00",
+              "published_date": null,
+              "source_hash": "79dfb00e70d6e5c8e3122e2528cb8d6d"
+            },
+            {
+              "url": "",
+              "title": "Appian Reviews, Pricing & Features - 2025 | TEC - Technology Evaluation",
+              "snippet": "Contact Appian directly for pricing details. Cost will vary based on deployment type, number of users, applications required and other factors. Appian Reviews. Based on over 450 customer reviews on Gartner Peer Insights, Appian receives an overall rating of 4.3 out of 5 stars.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187229+00:00",
+              "published_date": null,
+              "source_hash": "74ee197f3d2ecfb5e0b7797211884a6f"
+            },
+            {
+              "url": "",
+              "title": "Appian - Features, Reviews & Pricing (December 2024) - SaaSworthy",
+              "snippet": "A low-code and unified app development platform that enables medium to large enterprises (finance, insurance, health care and life sciences) to rapidly develop powerful customized applications to satisfy the business demand of digital transformation. Appian boasts of industry-leading business process management, data management, collaboration, case management, native mobility and lots of other ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187238+00:00",
+              "published_date": null,
+              "source_hash": "9818ff0460addb8639b0daefff74c00c"
+            },
+            {
+              "url": "",
+              "title": "Appian Reviews 2025: Pricing, Features & More - SelectHub",
+              "snippet": "Appian Reviews & Pricing. by Appian | Founded 1999, Tysons, VA 79 ... Customer Satisfaction: Enhance customer experiences by streamlining service delivery and reducing response times through automated processes. ... Appian Reviews. Based on our most recent analysis, Appian reviews indicate a 'great' User Satisfaction Rating of 84% based on 70 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187246+00:00",
+              "published_date": null,
+              "source_hash": "245bc21196ad3aa47c02d62a9d22de02"
+            },
+            {
+              "url": "",
+              "title": "Appian Reviews 2025. Verified Reviews, Pros & Cons - Capterra",
+              "snippet": "Explore 74 verified user reviews from people in industries like yours to make a confident choice. ... Company Size. Self-employed. 1-10 employees. 11-50 employees. 51-200 employees. 201-500 employees. ... Overall customer support and service. The Appian Labs offering is great to better know the solution. Cons: Nothing really.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187255+00:00",
+              "published_date": null,
+              "source_hash": "2be5423cf31a98de95ac513f37c6540e"
+            },
+            {
+              "url": "",
+              "title": "Appian Customer Reviews 2024 - SoftwareReviews",
+              "snippet": "Automate complex workflows at the speed of low-code. Appian provides a low-code automation platform that accelerates the creation of high-impact business applications. Many of the world's largest organizations use Appian applications to improve customer experience, achieve operational excellence, and simplify global risk management and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187263+00:00",
+              "published_date": null,
+              "source_hash": "e37399422460f7e8bd40df806a794b38"
+            },
+            {
+              "url": "",
+              "title": "Appian Reviews: Overview, Benefits, & Pricing | FeaturedCustomers",
+              "snippet": "Read 321 Appian reviews & customer references including company overview, benefits, & pricing. Read real customer references including testimonials,case studies and success stories to learn more about how they like using Appian.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Appian Corp Appian Corp pricing complaints customer dissatisfaction",
+              "retrieved_at": "2025-01-06T14:48:14.187271+00:00",
+              "published_date": null,
+              "source_hash": "e110103e9294658744d68ee048b19638"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Appian Corp lawsuits legal disputes",
+              "rationale": "Investigate potential legal challenges or disputes that could impact the company's financial stability or reputation.",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Appian Corp data privacy controversies",
+              "rationale": "Examine any controversies or concerns related to data privacy and security, especially given the company's reliance on cloud-based platforms.",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Appian Corp pricing complaints customer dissatisfaction",
+              "rationale": "Explore customer feedback and complaints regarding pricing, which could affect market adoption and competitive positioning.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:48:36.166204",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

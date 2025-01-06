@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:04:56.535479",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Canadian National Railway Co",
+      "symbol": "CNI",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Labor disputes leading to operational shutdowns and revenue loss",
+            "Regulatory and legal challenges increasing operational costs",
+            "Competitive pressures from other Class I railroads"
+          ],
+          "controversies": [
+            "2024 Canada railway dispute causing cargo backlogs and reputational damage",
+            "Failed acquisition of Kansas City Southern (KCS) in 2021"
+          ],
+          "environmental_issues": [
+            "Criticism for transporting fossil fuels despite sustainability commitments",
+            "Role in enabling carbon-intensive industries"
+          ],
+          "social_issues": [
+            "Significant labor challenges including strikes and union disputes"
+          ],
+          "governance_issues": [
+            "Potential for regulatory interventions disrupting operations"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Canadian National Railway - Wikipedia",
+              "snippet": "The Canadian National Railway Company [a] (French: Compagnie des chemins de fer nationaux du Canada) (reporting mark CN) is a Canadian Class I freight railway headquartered in Montreal, Quebec, which serves Canada and the Midwestern and Southern United States. [4] [5]CN is Canada's largest railway, in terms of both revenue and the physical size of its rail network, [6] spanning Canada from the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018129+00:00",
+              "published_date": null,
+              "source_hash": "e5352beac84606c0626f4228c4ab92f6"
+            },
+            {
+              "url": "",
+              "title": "Case study: Canadian National Railway - CDP",
+              "snippet": "Canadian National Railway commits to reduce Scope 1 and 2 GHG emissions 43% per gross ton miles by 2030 from a 2019 base year. Canadian National commits to reduce Scope 3 GHG emissions from fuel and energy-related activities 40% per gross ton miles by 2030 from a 2019 base year. Why Canadian National Railway set a science-based target",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744432+00:00",
+              "published_date": null,
+              "source_hash": "5c9862dc14c8cc291fd74f3535400895"
+            },
+            {
+              "url": "",
+              "title": "CN and Progress Rail Advance Sustainability Efforts with a Renewable ...",
+              "snippet": "MONTREAL, November 2, 2021 - Canadian National Railway Company (CN) and Progress Rail, A Caterpillar Company are partnering with Renewable Energy Group (REG) to test high-level renewable fuel blends including both biodiesel and renewable diesel in support of the companies' sustainability goals. Trials and qualifications of up to 100% bio-based diesel fuel are important steps in reducing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744470+00:00",
+              "published_date": null,
+              "source_hash": "2e2764139e2e6010ec14692a33728235"
+            },
+            {
+              "url": "",
+              "title": "CN and Progress Rail Advance Sustainability Efforts with a Renewable ...",
+              "snippet": "Renewable fuel blends present immediate opportunity to further reduce greenhouse gas emissions. MONTREAL, Nov. 03, 2021 (GLOBE NEWSWIRE) -- Canadian National Railway Company (CN) and Progress Rail, a Caterpillar Company are partnering with Renewable Energy Group (REG) to test high-level renewable fuel blends including both biodiesel and renewable diesel in support of the companies ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744498+00:00",
+              "published_date": null,
+              "source_hash": "62cdf4caa0370e4aa7b1a463124cb39a"
+            },
+            {
+              "url": "",
+              "title": "Delivering Responsibly | cn.ca",
+              "snippet": "Delivering Responsibly is at the heart of how CN is building for a sustainable future. It means moving customer goods safely and efficiently, being environmentally responsible, attracting and developing the best railroaders, helping build safer, stronger communities, while adhering to the highest ethical standards.We are raising our game to deliver for a sustainable future, to make a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744523+00:00",
+              "published_date": null,
+              "source_hash": "123dd80bbf4d3c35968cd63d9fddb45a"
+            },
+            {
+              "url": "",
+              "title": "CN Outlines Details of Strategic Plan",
+              "snippet": "\"CN's ambition is to build the premier railway of the 21 st century by methodically investing in technologies to deliver high-quality service to customers, improve safety and sustainability, create capacity and reduce costs and delays. Just as CN pioneered the industry's focus on efficiency to increase reliability, we are now well ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744547+00:00",
+              "published_date": null,
+              "source_hash": "9e4727e26a5312286476122445106091"
+            },
+            {
+              "url": "",
+              "title": "CN and Progress Rail Advance Sustainability Efforts with a - GlobeNewswire",
+              "snippet": "MONTREAL, Nov. 03, 2021 (GLOBE NEWSWIRE) -- Canadian National Railway Company (CN) and Progress Rail, a Caterpillar Company are partnering with Renewable Energy Group (REG) to test high-level ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744571+00:00",
+              "published_date": null,
+              "source_hash": "219c02f89d073d7dd799c0daed0dc33b"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway : Sustainability Report - 2020",
+              "snippet": "Canadian National Railway Company is a transportation and logistics company. The Company's services include rail, intermodal, trucking, and supply chain services. The Company\u00e2 s rail services offer equipment, customs brokerage services, transloading and distribution, private car storage and others.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744593+00:00",
+              "published_date": null,
+              "source_hash": "741fca2243ba34810d429da6074a470e"
+            },
+            {
+              "url": "",
+              "title": "CN Signs the \"Business Ambition for 1.5\u00b0C\" and Joins the",
+              "snippet": "Media Canada Mathieu Gaudreault CN Media Relations 514-249-4735 Media@cn.ca: Investment Community Paul Butcher Vice-President Investor Relations 514-399-0052",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744622+00:00",
+              "published_date": null,
+              "source_hash": "5c5431cd44b42220546e43c9741cd66e"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway (CN) - The Canadian Encyclopedia",
+              "snippet": "Canadian National Railway Company, incorporated 6 June 1919, is the longest railway system in North America, controlling more than 31,000 km of track in Canada and the United States. It is the only transcontinental rail network in North America, connecting to three coasts: Atlantic, Pacific and Gulf of Mexico.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:31.744645+00:00",
+              "published_date": null,
+              "source_hash": "4ad1887fe34f46ff1ce3149317cd65c0"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway Co. stock rises Friday, outperforms market",
+              "snippet": "Canadian National Railway Co. closed C$33.16 short of its 52-week high of C$181.34, which the company reached on March 21st.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:38.190751+00:00",
+              "published_date": "2025-01-03T21:31:00+00:00",
+              "source_hash": "476953b92509555a9880d3b6880d233a"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway Company",
+              "snippet": "Canadian National Railway Company, often abbreviated as CNI, is a cornerstone of the transportation industry, providing vital rail services across North America. This company operates a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:42.291959+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "e2668388dd5b9f06f8fd5905d40be237"
+            },
+            {
+              "url": "",
+              "title": "Here's Why You Should Avoid Canadian National Stock for Now",
+              "snippet": "Canadian National Railway Company (CNI) is currently mired in multiple headwinds, which, we believe, have made it an unimpressive investment option. Let's delve deeper. Southward Earnings Estimate Revision: The Zacks Consensus Estimate for 2025 earnings has been revised 6.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co environmental impact fossil fuels",
+              "retrieved_at": "2025-01-06T18:04:34.094124+00:00",
+              "published_date": "2025-01-03T18:43:00+00:00",
+              "source_hash": "df7f27664b8ddf020b48798631049719"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway Co. stock rises Thursday, still underperforms market",
+              "snippet": "Canadian National Railway Co. closed C$34.56 below its 52-week high of C$181.34, which the company reached on March 21st.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:38.190903+00:00",
+              "published_date": "2025-01-02T21:31:00+00:00",
+              "source_hash": "c2bf5d96e1a54ee61f08b4c91c3976ef"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway Co.DL-Notes 2020(20/50) Bond",
+              "snippet": "More Bonds of Canadian National Railway Co. Moody's Daily Credit Risk Score About the Canadian National Railway Co.-Bond (US136375CZ30) The Canadian National Railway Co.-Bond has a maturity date ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:42.291931+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "e6472eeec30f736e73a08ad0a19383ba"
+            },
+            {
+              "url": "",
+              "title": "2024 Canada railway dispute - Wikipedia",
+              "snippet": "The 2024 Canada railway dispute was a labour-business dispute between the Canadian National Railway Company (CN) and Canadian Pacific Kansas City (CPKC) and the Teamsters Canada Rail Conference that shut down the freight railway operations of both railway companies. The shutdown also included passenger trains operating on CPKC tracks, but not passenger trains running on CN tracks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018097+00:00",
+              "published_date": null,
+              "source_hash": "5be073f6f21d40496f4284ddce22dbdd"
+            },
+            {
+              "url": "",
+              "title": "Ottawa has sent the rail dispute to arbitration - CBC.ca",
+              "snippet": "The federal government has referred the ongoing rail labour dispute to arbitration \u2014 but that might not guarantee a resumption of service. Canadian National Railway Co. (CN) and Canadian Pacific ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.738967+00:00",
+              "published_date": null,
+              "source_hash": "052074e7805ad445a61ff25f2d90688e"
+            },
+            {
+              "url": "",
+              "title": "Arbitration hearing between Canadian railroads and union ends with no ...",
+              "snippet": "Train cars are seen on the tracks in an aerial view at Canadian National Rail's Thornton Yard as the Port Mann Bridge spans the Fraser River and trucks transport cargo containers on the highway in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.738989+00:00",
+              "published_date": null,
+              "source_hash": "f123876478965cb7b81dcc203d1afa93"
+            },
+            {
+              "url": "",
+              "title": "Canada railway shutdown order 'unprecedented': tribunal - CTV News",
+              "snippet": "MONTREAL - Canadian National Railway Co. felt the heat of wildfires and labour disputes last quarter, as the company looks to rebound from the resulting cargo backlogs and lost business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739003+00:00",
+              "published_date": null,
+              "source_hash": "bb6f834617a8a232a633b05fde765b3a"
+            },
+            {
+              "url": "",
+              "title": "Canada's two major railways resume service as railroaders return to ...",
+              "snippet": "Amid a bitter labour dispute, the Canada Industrial Relations Board on Saturday ordered Canadian National Railway Co. and Canadian Pacific Kansas City Ltd. to resume operations and 9,300 workers to return to their posts at 12:01 a.m. ahead of binding arbitration set to begin this week.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739015+00:00",
+              "published_date": null,
+              "source_hash": "7f791318e6454b2954a72e4862b30a02"
+            },
+            {
+              "url": "",
+              "title": "This is how Canada's railroad dispute threatens North ... - Morningstar",
+              "snippet": "Canadian National Railway Co. (CNI) (CA:CNR) and Canadian Pacific Kansas City Ltd. (CP) (CA:CP) formally locked out employees represented by the Teamsters Canada Rail Conference at 00:01 Eastern ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739028+00:00",
+              "published_date": null,
+              "source_hash": "5fdcc902fe08d8058567c20f8e7bd4cd"
+            },
+            {
+              "url": "",
+              "title": "Trains could start rolling 'within days,' labour minister says after ...",
+              "snippet": "Canadian National Railway Co. (CN) and Canadian Pacific Kansas City Ltd. (CPKC) locked out 9,300 engineers, conductors and yard workers just after midnight Thursday, capping months of increasingly ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739040+00:00",
+              "published_date": null,
+              "source_hash": "632b8affe682a34762942d44e4daa391"
+            },
+            {
+              "url": "",
+              "title": "'The system, in some ways, is broken': Former CN CEO on rail dispute",
+              "snippet": "\"The system, in some ways, is broken \u2026 these are not your usual industrial labour disputes, this is not a mine going on strike or a chemical plant or a paper mill,\" JJ Ruest, former CEO of Canadian National Railway Co. (CN), told BNN Bloomberg in a Friday interview.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739050+00:00",
+              "published_date": null,
+              "source_hash": "ec5cd70c4e75ac5deae8e213d00165b2"
+            },
+            {
+              "url": "",
+              "title": "Canada's biggest railways lock out workers after failed negotiations ...",
+              "snippet": "Canadian Pacific Kansas City Ltd. CP-T and Canadian National Railway Co. CNR-T said in separate statements that they took the steps after months of negotiations with the Teamsters union failed to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739063+00:00",
+              "published_date": null,
+              "source_hash": "b9249713a94bc7803e26fc6a56433e77"
+            },
+            {
+              "url": "",
+              "title": "CN Rail profits down amid wildfires, labour standoffs | CTV News",
+              "snippet": "Canadian National Railway Co. felt the heat of wildfires and labour disputes last quarter, as the company looks to bounce back from the resulting cargo backups and lost business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:35.739074+00:00",
+              "published_date": null,
+              "source_hash": "6d40881e5082f1474ac669f56004b455"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway Co",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co labor disputes legal actions",
+              "retrieved_at": "2025-01-06T18:04:38.190852+00:00",
+              "published_date": "2024-11-04T06:00:00+00:00",
+              "source_hash": "219b157ad7b9ba730fe1bcd940b0911c"
+            },
+            {
+              "url": "",
+              "title": "Industry awaits labour board decision in railway dispute - National Post",
+              "snippet": "On Thursday, the federal government asked the board to enact binding arbitration in the dispute between Canadian Pacific Kansas City Ltd., Canadian National Railway Co., and their workers Author ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018010+00:00",
+              "published_date": null,
+              "source_hash": "7e19d5bb98183011efaedac2113ca490"
+            },
+            {
+              "url": "",
+              "title": "Canada railway shutdown order 'unprecedented': tribunal - CTV News",
+              "snippet": "Canadian National Railway Co. felt the heat of wildfires and labour disputes last quarter, as the company looks to rebound from the resulting cargo backlogs and lost business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018115+00:00",
+              "published_date": null,
+              "source_hash": "d62b2d91e5e2aa2f03f8744c4e515bf7"
+            },
+            {
+              "url": "",
+              "title": "Feds' order to end rail shutdown 'unprecedented,' labour tribunal says",
+              "snippet": "On Aug. 22, Canadian National Railway Co. and Canadian Pacific Kansas City Ltd. locked out some 9,300 engineers, conductors and yard workers in anticipation of potential job action. The shutdowns ranged from one to four days and capped off a two-week operational wind-down from coast to coast, marking the first time in decades the country's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018143+00:00",
+              "published_date": null,
+              "source_hash": "272a7b3635f87c48e877ea324c528684"
+            },
+            {
+              "url": "",
+              "title": "2014 SCC 40 (CanLII) | Canadian National Railway Co. v. Canada ...",
+              "snippet": "Canadian National Railway Company Appellant. v. Attorney General of Canada, Peace River Coal Inc. and. Canadian Industrial Transportation Association Respondents. Indexed as: Canadian National Railway Co. v. Canada (Attorney General) 2014 SCC 40. File No.: 35145.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018155+00:00",
+              "published_date": null,
+              "source_hash": "337cc04e3de81a24d878d04e0eb5def7"
+            },
+            {
+              "url": "",
+              "title": "CN Rail cuts earnings forecast amid strike uncertainty - Financial Post",
+              "snippet": "The Montreal-based railway, which earned $1.11 billion in the second quarter, said it is seeing international customers route shipments away from Canadian ports in the face of continued labour uncertainty at the company.. CN is awaiting a decision from the Canada Industrial Relations Board on whether some shipments would be considered essential services in the event of a strike by the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018170+00:00",
+              "published_date": null,
+              "source_hash": "4f6f6ea05755a3822fab6f215ab9d1f0"
+            },
+            {
+              "url": "",
+              "title": "Canadian National lowers 2024 profit forecast due to labor stoppages ...",
+              "snippet": "(Reuters) -Canadian National Railway (CN) lowered its profit forecast for 2024, citing the impact of labor stoppages and wildfires in Alberta. Both CN and Canadian Pacific Kansas City faced a threat of work stoppages by the Teamsters Canada Rail Conference Union, until the Canadian government called for binding arbitration to reach an agreement over a new contract.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018182+00:00",
+              "published_date": null,
+              "source_hash": "e77bef063111cf978624e81a6ad6e189"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway (CN) | Trains and Railroads",
+              "snippet": "CANADIAN NATIONAL RAILWAYS (CN) The Canadian National Railway Company (French: Compagnie des chemins de fer nationaux du Canada) (reporting mark CN) is a Canadian Class I freight railway headquartered in Montreal, Quebec, which serves Canada and the Midwestern and Southern United States.. CN is Canada's largest railway, in terms of both revenue and the physical size of its rail network ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018194+00:00",
+              "published_date": null,
+              "source_hash": "a232e8e0a822e9e3605f7bcbfd31db01"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway Co. releases new Indigenous relations policy ...",
+              "snippet": "Canadian National Railway Co. releases new Indigenous relations policy CN rail trains are shown at the CN MacMillan Yard in Vaughan, Ont., on Monday, June 20, 2022. THE CANADIAN PRESS/Nathan Denette",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:40.018206+00:00",
+              "published_date": null,
+              "source_hash": "397fea756045a26ad06343a5b0d094ef"
+            },
+            {
+              "url": "",
+              "title": "canadian national railway co. - CNI",
+              "snippet": "Kansas City Southern is in talks with Canadian Pacific to determine whether its $31 billion bid for the railroad is the best offer on the table after regulators rejected a key part of Canadian ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:42.291830+00:00",
+              "published_date": "2023-02-08T14:56:00+00:00",
+              "source_hash": "fda1602da193c152abb863b1cb59daeb"
+            },
+            {
+              "url": "",
+              "title": "Why Canadian National Railway Company (CNI) Is One of the Best Freight Stocks to Buy Now?",
+              "snippet": "We recently published a list of 11 Best Freight Stocks To Buy Now. In this article, we are going to look at where Canadian National Railway Company (NYSE:CNI) stands against other Best Freight Stocks To Buy Now.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:42.291983+00:00",
+              "published_date": "2024-12-20T11:08:00+00:00",
+              "source_hash": "b217b16941a503f3c46c053fc12b29d6"
+            },
+            {
+              "url": "",
+              "title": "Canadian National Railway's (TSE:CNR) investors will be pleased with their respectable 42% return over the last five years",
+              "snippet": "But Canadian National Railway Company (TSE:CNR) has fallen short of that second goal, with a share price rise of 30% over five years, which is below the market return. The last year hasn't been ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian National Railway Co Canadian National Railway Co community relations controversies",
+              "retrieved_at": "2025-01-06T18:04:42.292006+00:00",
+              "published_date": "2024-11-25T06:24:00+00:00",
+              "source_hash": "56580a950142b988a6bfb40e9f3cca53"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Canadian National Railway Co environmental impact fossil fuels",
+              "rationale": "Assess environmental concerns related to transporting fossil fuels",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Canadian National Railway Co labor disputes legal actions",
+              "rationale": "Investigate legal and financial impacts of labor disputes",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Canadian National Railway Co community relations controversies",
+              "rationale": "Explore social and ethical issues in community interactions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:04:56.535488",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

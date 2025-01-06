@@ -1,0 +1,579 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:40:50.141554",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Keppel REIT",
+      "symbol": "KREVF",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal and tenant disputes, including unresolved payment disputes with Bluesea in China",
+            "Exposure to fluctuations in the commercial real estate market, particularly in Singapore and Australia",
+            "Tenant concentration risks in key properties",
+            "Potential impact of rising interest rates and reduced corporate demand for office space"
+          ],
+          "controversies": [
+            "DXC Technology lawsuit, resolved with a S$13.3 million settlement",
+            "Ongoing payment dispute with Bluesea in China involving $6.8 million in unpaid rent and security deposit top-ups"
+          ],
+          "environmental_issues": [
+            "Increased operational costs due to sustainability initiatives and Green Mark certifications"
+          ],
+          "social_issues": [
+            "Tenant support measures during COVID-19, including rental relief and flexible leasing arrangements"
+          ],
+          "governance_issues": [
+            "Regulatory changes in real estate and tax policies in Singapore and Australia",
+            "Focus on ESG considerations and green financing initiatives"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Singapore High Court rules in favor of Keppel DC REIT over DXC lawsuit",
+              "snippet": "The lawsuit in question was filed in March 2022. DXC had tried to reduce the amount of floor space it leased from Keppel, but the latter argued that this was not included in the SSA. DXC entered that agreement with Keppel in 2010 for 20,300 sqm (218,500 sq ft) across four modules.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451840+00:00",
+              "published_date": null,
+              "source_hash": "306dfbfb3dfb03ea011ca4bdc9411e8e"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT and DXC resolve payment dispute - DCD - DatacenterDynamics",
+              "snippet": "In addition to the lawsuit against DXC, Keppel DC REIT is currently negotiating late payments with Bluesea Data Development in China after the latter company failed to make payment for rental arrears and coupons for four months, totaling $6.8m including interest. In addition, Keppel was asking for a top-up of security deposits of $4.54m.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451872+00:00",
+              "published_date": null,
+              "source_hash": "43600843a84ae3584f284c45ab4635e8"
+            },
+            {
+              "url": "",
+              "title": " UPDATE ANNOUNCEMENT ON LITIGATION - Keppel",
+              "snippet": "The dispute is set down for trial in February 2024 in the Singapore High Court, largely to determine the actual quantum to be paid to KDC by DXC. Any judgement by the Singapore High Court pursuant to the trial is not expected to have any impact on Keppel DC REIT's distribution per unit for the financial year ending 31 December 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451879+00:00",
+              "published_date": null,
+              "source_hash": "f5c13af771ad46adc5b66f9289008406"
+            },
+            {
+              "url": "",
+              "title": "Keppel files lawsuit against DXC in Singapore - DCD - DatacenterDynamics",
+              "snippet": "In its announcement of the suit, Keppel said the dispute centers on DXC's partial default of payment in connection with the provisioning of colocation services at Keppel's DC Singapore 1 facility. DXC disputes their liability to make payment. The amount being disputed is approximately S$14.8 million (US$10.9m) for the four-year period between April 2021 and March 2025.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451884+00:00",
+              "published_date": null,
+              "source_hash": "b932fdfdd72208b73b9fa821460c3319"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC Reit to receive S$13.3 million from DXC ... - \u5546\u4e1a\u65f6\u62a5",
+              "snippet": "The Singapore High Court endorsed Keppel DC Singapore's interpretation of the agreement on Jan 12, 2024, after the Reit's master lessee at Keppel DC Singapore 1 commenced legal proceedings against DXC in March 2022.. In the written judgment released in January, Keppel was claiming S$3 million from DXC as the sum outstanding from April 2021 to December 2021, as well as all losses it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451889+00:00",
+              "published_date": null,
+              "source_hash": "13023eea74004352af82aa84b7ce65e2"
+            },
+            {
+              "url": "",
+              "title": "Singapore court decides in favour of Keppel DC Reit facility manager in ...",
+              "snippet": "THE Singapore High Court has made a decision in favour of a facility manager of Keppel DC Reit, paving the way for a positive outcome for the litigation announced by the data-centre real estate investment trust (Reit) in March 2022. Read more at The Business Times.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512385+00:00",
+              "published_date": null,
+              "source_hash": "38b4447e25c1d09928d365ae2febe805"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC Reit eschews lawsuit for 'collaborative' approach to 48 ...",
+              "snippet": "KEPPEL DC Reit is taking a \"collaborative but firm\" approach as it seeks to resolve the current situation of rental arrears at its Guangdong data centres (GDC), after reporting a S$10.5 million loss allowance in the second half of 2023. Read more at The Business Times.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451901+00:00",
+              "published_date": null,
+              "source_hash": "4c427a8cfcaa7b71166d0dd5ab198130"
+            },
+            {
+              "url": "",
+              "title": "Legal proceedings against DXC Technology Services over payment default ...",
+              "snippet": "The manager of Keppel DC REIT, on March 21 announced that Keppel DC Singapore 1 has commenced a suit against DXC Technology Services Singapore in Singapore's High Court. Keppel DC Singapore 1 is the master lessee and appointed facility manager of the data centre located at 25 Serangoon North Avenue 5.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451904+00:00",
+              "published_date": null,
+              "source_hash": "e5686711f969cdd168a6e15d0a853cf9"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT: News Analysis: Courts ruled in KDCREIT's favour ... - DBS",
+              "snippet": "Keppel DC REIT:  Earnings driven by organic growth and Tokyo DC 18 Oct 2024; ... (S$3m) in FY21 for part of DXC's lease in dispute; The remaining c.S$11.8m in dispute will be heard in trail in February, and we believe this ruling serves as a pivotal development in KDCREIT's favour ... DBS Bank Ltd accepts legal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:22.451908+00:00",
+              "published_date": null,
+              "source_hash": "a719b1cb25296f1546ae08283fa78d6a"
+            },
+            {
+              "url": "",
+              "title": "Analysts cheer ruling in favour of Keppel DC REIT",
+              "snippet": "The Jan 12 ruling by the court favoured Keppel DC REIT's claim of $3 million for outstanding rents from April 2021 to Dec 2021. A related dispute on another $11.8 million will be heard next month. \"The ruling by the High Court in favour of KDCREIT marks a positive development, given that the disputed amount represents approximately 2% of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512397+00:00",
+              "published_date": null,
+              "source_hash": "1de36a78cb2cef948b658592e98dc9b6"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT",
+              "snippet": "Singapore's Keppel will spin off its data centre joint venture (JV) to unit Keppel DC REIT for a total gross divestment price of S$1.38 billion ($1.03 billion), the two companies said on Tuesday.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:28.981039+00:00",
+              "published_date": "2022-01-24T00:00:00+00:00",
+              "source_hash": "a0f95665eddd3654630580b3061d74e0"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT Gains Approval for Equity Fundraising",
+              "snippet": "Keppel DC REIT has received in-principle approval from the Singapore Exchange for its Sponsor Subscription Units, a part of its plan to raise approximately S$1 billion through equity fundraising.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:25.028817+00:00",
+              "published_date": "2024-11-29T09:44:00+00:00",
+              "source_hash": "befadf165d222d0083ced7ea639455c3"
+            },
+            {
+              "url": "",
+              "title": "Keppel REIT Launches A$50 Million Green Notes",
+              "snippet": "Keppel REIT (SG:K71U) has released an update. Keppel REIT has announced the pricing of A$50 million in floating rate green notes, set to mature in 2027, under its multicurrency debt issuance ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:25.028828+00:00",
+              "published_date": "2024-11-12T14:43:00+00:00",
+              "source_hash": "8a618dff1e09581b50b6dad6881bcebc"
+            },
+            {
+              "url": "",
+              "title": "Growth Outlook for Keppel DC REIT Reduced on Higher Competition and Interest Rates Risk; FVE Lowered",
+              "snippet": "and the quality and safety of its buildings (may expose the trust to legal action and hurt reputation). We assign a Standard capital allocation rating to Keppel DC REIT. The trust has prudently ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:25.028835+00:00",
+              "published_date": "2022-01-25T00:00:00+00:00",
+              "source_hash": "4d2e3662f5934bc1fff049308e7f093f"
+            },
+            {
+              "url": "",
+              "title": "Keppel Pacific Oak US REIT Urges Unitholders to Submit Tax Forms",
+              "snippet": "Keppel Pacific Oak US REIT (SG:CMOU) has released an update. Discover the latest stocks recommended by top Wall Street analysts, all in one place with Analyst Top Stocks Make smarter investments ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Keppel REIT Keppel REIT legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T16:40:25.028843+00:00",
+              "published_date": "2024-12-30T03:36:00+00:00",
+              "source_hash": "38dedfe0ac6e26414365834a3d4d5227"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT's H2 2023 results struggle amidst payment dispute with ...",
+              "snippet": "One contributing factor was Keppel's tenant dispute with Bluesea Data Development regarding the Guangdong DC1 and DC2 facilities, for which the data center REIT says owes Keppel around $6.8m for missed rental payments. Keppel officially announced that it had issued a letter of demand to the customer for the payment on December 15, 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512198+00:00",
+              "published_date": null,
+              "source_hash": "4ca735d0dec68400a2e5e907c2db533a"
+            },
+            {
+              "url": "",
+              "title": "Tenant troubles cast pall over Keppel DC REIT as manager temporises ...",
+              "snippet": "Keppel DC REIT appears to be temporising over challenges facing its China assets, and remains non-committal towards stating when it will decide to terminate the lease with a delinquent tenant. The REIT first disclosed on 15 December that it has issued a letter of demand to this tenant, Guangdong Bluesea Data Development, in relation to [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512307+00:00",
+              "published_date": null,
+              "source_hash": "b39758c03371af00c6ffd5244a223dc0"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT: Sweet ending to a \"tenant tiff\" - DBS",
+              "snippet": "Keppel DC REIT (\"KDCREIT\") (+2.4% as of writing) announced that legal proceedings with one of its tenants, DXC Technology Services Singapore (\"DXC\") has concluded with a commercial and amicable resolution to the dispute with DXC agreeing to a payment of S$13.3m to KDCREIT by April'24 which represents the full and final settlement of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512345+00:00",
+              "published_date": null,
+              "source_hash": "bcebcc66a187ff74a44162f9d9a35905"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC Reit eschews lawsuit for 'collaborative' approach to 48 ...",
+              "snippet": "KEPPEL DC Reit is taking a \"collaborative but firm\" approach as it seeks to resolve the current situation of rental arrears at its Guangdong data centres (GDC), after reporting a S$10.5 million loss allowance in the second half of 2023. ... Keppel DC Reit said it issued a letter of demand to the tenant of GDC 1, 2 and 3 - Guangdong ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512361+00:00",
+              "published_date": null,
+              "source_hash": "74f6a45b5d5bf9a0c17a52a39dd6cbc6"
+            },
+            {
+              "url": "",
+              "title": "Data centre dilemma: Is Keppel DC REIT a buy or sell? - The Fifth Person",
+              "snippet": "Neo Telemedia is the sole tenant and master lessee of Keppel DC REIT's Guangdong Data Centres 1, 2, and 3. The tenant is loss-making and in a net debt position of HK$828.6 million as of 9M2023. ... Keppel DC REIT's share price was on the high side in 2020 as investors rushed to buy stocks that benefited from and remained largely unaffected ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512373+00:00",
+              "published_date": null,
+              "source_hash": "ebb33ff57394065ee0fd03ac66c931a2"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT - Hope For The Best But Prepared For The Worst",
+              "snippet": "Keppel DC REIT's 2H23 results were affected by provisions for arrears from Guangdong data centres of S$10.5m, equivalent to 5.5 months of rental income from DC 1 and DC 2 and coupon income from DC 3. Keppel DC REIT has drawn up a recovery road map and seeks to resolve the arrears amicably.; On a brighter note, the High Court has ruled in favour of Keppel DC REIT as it seeks to claim S$14.8m ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512407+00:00",
+              "published_date": null,
+              "source_hash": "3369aeef414289662cd2be58ac10533a"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT Earnings: Tenant Issue Dragged Distributions Lower ...",
+              "snippet": "Keppel DC REIT's, or KDC REIT's, second-half 2023 results came in lower than our expectations due to a higher-than-expected loss allowance for its Guangdong data centers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512418+00:00",
+              "published_date": null,
+              "source_hash": "8348db42553f127100d4bc2cbf856b18"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC Reit to receive S$13.3 million from DXC ... - \u5546\u4e1a\u65f6\u62a5",
+              "snippet": "THE manager of Keppel DC Real Estate Investment Trust (Keppel DC Reit) announced on Tuesday (Feb 13) that DXC Technology Services will pay a settlement amount of S$13.3 million to the Reit's facility manager by April 2024, as a \"commercial and amicable resolution\" to the payment dispute. The Reit's pro forma distribution per unit for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:26.512429+00:00",
+              "published_date": null,
+              "source_hash": "120ffbfd9b3216e1405a1e6c349967e0"
+            },
+            {
+              "url": "",
+              "title": "Keppel REIT (K71U.SI)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:28.980748+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "251de11edd92e8e17d54e1585e1ce66a"
+            },
+            {
+              "url": "",
+              "title": "Growth Outlook for Keppel DC REIT Reduced on Higher Competition and Interest Rates Risk; FVE Lowered",
+              "snippet": "Keppel DC REIT is mainly a wholesale data center provider, which means that it leases out a large amount of data center space to a relatively small number of tenants. Its operations are spread ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:28.980779+00:00",
+              "published_date": "2022-01-25T00:00:00+00:00",
+              "source_hash": "11d91e1629342f51f57ea29d8f1a9c6c"
+            },
+            {
+              "url": "",
+              "title": "Company Reports",
+              "snippet": "Keppel DC REIT, or KDC REIT ... recognition of SGD 13.3 million from the settlement of the dispute between the trust and its tenant DXC Technology. After deducting related expenses, management ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:28.980785+00:00",
+              "published_date": "2024-10-18T00:00:00+00:00",
+              "source_hash": "8e19bf0a55de6c3b3d36bed3f54c9fdf"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC Reit to divest Malaysia data centre for RM55.6 million",
+              "snippet": "KEPPEL DC Real Estate Investment Trust (Reit) is divesting Basis Bay Data Centre in Cyberjaya, Malaysia, for RM55.6 million (S$16.9 million). On Thursday (Jan 2), Keppel DC Reit's manager said that Basis Bay Capital Management, a subsidiary of the Reit ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Keppel REIT Keppel REIT tenant controversies or disputes",
+              "retrieved_at": "2025-01-06T16:40:28.980790+00:00",
+              "published_date": "2025-01-02T19:48:00+00:00",
+              "source_hash": "40c61e7ce5d439211d77c7919c7934a5"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY REPORT SUSTAINABILITY FRAMEWORK - Keppel REIT",
+              "snippet": "of Keppel REIT's total borrowings by 2025. SUSTAINABILITY GOVERNANCE GRI 102-18 | 102-20 Acknowledging that sustainability is a long-haul ambition, the Manager will step up its focus and commitment on integrating ESG considerations into Keppel REIT's strategy, business and operation in order to deliver long-term value creation for Keppel REIT.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475114+00:00",
+              "published_date": null,
+              "source_hash": "a4f3fbadb87e1b8e0f3562c7c1f8b88f"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY REPORT SUSTAINABILITY FRAMEWORK - Keppel REIT",
+              "snippet": "into Keppel REIT's business operations. The Committee comprises representatives from various functions including asset management, investment, finance, human resources, investor relations, as well as risk and compliance. The Committee monitors Keppel REIT's sustainability progress and communicates its findings",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475144+00:00",
+              "published_date": null,
+              "source_hash": "d9b74eccf3aec04cc14cdabde330697f"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Keppel REIT",
+              "snippet": "In line with Keppel Vision 2030, we will do our part to combat climate change, and are committed to improving resource efficiency and reducing our environmental impact. Responsible Business The long-term sustainability of our business is driven at the highest level of the organisation through a strong and effective board, good corporate ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475158+00:00",
+              "published_date": null,
+              "source_hash": "424aad4dc33d11feea383df2563f3c2a"
+            },
+            {
+              "url": "",
+              "title": "Keppel - Annual Report 2023 - Sustainability Framework",
+              "snippet": "The Board and management consider sustainability issues in the Company's business and strategy, determine the material ESG factors and oversee the management and monitoring of the material ESG factors. ... Including the distributions in specie of then Sembcorp Marine shares and Keppel REIT units, total dividends amount to about $2.70 per ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475164+00:00",
+              "published_date": null,
+              "source_hash": "bc753a06ca6d43d8257f566b36eb4ec7"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY REPORT SUSTAINABILITY FRAMEWORK - Keppel DC REIT",
+              "snippet": "This is Keppel DC REIT's sixth annual sustainability report and contains information pertaining to the financial year ended December 2021 (FY 2021). This Report covers the ESG issues most relevant to Keppel DC REIT's business, operations and key stakeholders, which were identified through a comprehensive materiality",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475169+00:00",
+              "published_date": null,
+              "source_hash": "c09fd9b0f57f99aaaf4332da11be9ab2"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY REPORT - Keppel REIT",
+              "snippet": "Keppel Investor Day webinar on the real estate market, sustainability trends and KORE's strategy, as well as an asset management session at Keppel's Annual Learning Festival, where employees gained insights on navigating a challenging landscape. KORE believes in doing good as we do well, being active in engaging the communities we are part of.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475174+00:00",
+              "published_date": null,
+              "source_hash": "82651fed20aef5aa8355a49d4b16de06"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY REPORT SUSTAINABILITY FRAMEWORK - Keppel REIT",
+              "snippet": "This sustainability report (the Report) outlines Keppel Pacific Oak US REIT Management's (the Manager) strategy and approach towards sustainability. It also provides a summary of KORE's performance and progress in managing environmental, social and governance (ESG) issues. GLOBAL REPORTING INITIATIVE STANDARDS",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475179+00:00",
+              "published_date": null,
+              "source_hash": "331b1502a0db3920b8eb6c3eb680e412"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Keppel",
+              "snippet": "Our Board and management consider sustainability issues in our business and strategy, determine the material environmental, social and governance (ESG) factors and oversee the management and monitoring of the material ESG factors. ... real estate and connectivity, Keppel matches capital from investors with sustainability solutions to meet some ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475183+00:00",
+              "published_date": null,
+              "source_hash": "d4e8f6d083e6fa4a831cef18384a3531"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY FRAMEWORK - Keppel DC REIT",
+              "snippet": "In addition, Keppel DC REIT also uses renewable energy in its Dublin assets. In 2019, 18.1% of Keppel DC REIT's total electricity consumed was powered by wind, thus reducing about 29,003 tCO 2e of GHG emissions that would have resulted from non-renewable sources. Various measures were also undertaken to minimise water consumption. For instance,",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475188+00:00",
+              "published_date": null,
+              "source_hash": "7a5162938ae2d4bcc5d921bbc6fc9575"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY FRAMEWORK - Keppel DC REIT",
+              "snippet": "has considered Keppel DC REIT's material ESG issues in the REIT's strategy formulation, taking into account inputs from the management team and key stakeholders. The Board reviews and monitors these ESG performance periodically. The content and topic boundaries in this report are guided by the GRI's principles for defining report content:",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:30.475193+00:00",
+              "published_date": null,
+              "source_hash": "6aa5d01b1609a9c763b4dc10231b2083"
+            },
+            {
+              "url": "",
+              "title": "Keppel REIT Issues A$50M Green Notes in 2027 Programme",
+              "snippet": "This move, managed by DBS Bank Ltd., signifies Keppel REIT's commitment to sustainable financing and could appeal to investors looking for green investment opportunities. The issuance aligns ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:33.024143+00:00",
+              "published_date": "2024-11-19T05:42:00+00:00",
+              "source_hash": "0f25449651bc8ed03eebdeddbec21c68"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT Issues New Units to Cover Management Fees",
+              "snippet": "Keppel DC REIT (SG:AJBU) has released an update. Keppel DC REIT has issued 425,752 new units at S$2.2070 each to cover management fees for its data center holdings across Europe and Asia for the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:33.024193+00:00",
+              "published_date": "2024-11-05T13:12:00+00:00",
+              "source_hash": "7454c4a7d19b1436b3dc3dc0c40b32c6"
+            },
+            {
+              "url": "",
+              "title": "Keppel REIT Launches A$50 Million Green Notes",
+              "snippet": "Keppel REIT (SG:K71U) has released an update ... appealing to investors interested in sustainable finance. TipRanks is the most comprehensive data set of sell side analysts and hedge fund managers.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:33.024205+00:00",
+              "published_date": "2024-11-12T14:43:00+00:00",
+              "source_hash": "e00600c724fda788de3ddda085e24842"
+            },
+            {
+              "url": "",
+              "title": "Keppel DC REIT AJBU",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:33.024214+00:00",
+              "published_date": "2024-11-15T00:00:00+00:00",
+              "source_hash": "bd0f611044e3cccb38c7bb4442bb30a0"
+            },
+            {
+              "url": "",
+              "title": "Keppel REIT Welcomes BBC Studios to North Sydney",
+              "snippet": "Keppel REIT and Lendlease announced that BBC Studios ... offers state-of-the-art facilities and is set to achieve high sustainability ratings. This move reflects the growing trend of companies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Keppel REIT Keppel REIT sustainability compliance issues",
+              "retrieved_at": "2025-01-06T16:40:33.024222+00:00",
+              "published_date": "2024-11-18T09:42:00+00:00",
+              "source_hash": "2fc8d6d0d99d9e22905c3c1a5e49312e"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Keppel REIT legal disputes or lawsuits",
+              "rationale": "Identify any ongoing or past legal issues that could impact financial stability",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Keppel REIT tenant controversies or disputes",
+              "rationale": "Assess potential reputational risks from tenant-related issues",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Keppel REIT sustainability compliance issues",
+              "rationale": "Evaluate adherence to environmental standards and certifications",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:40:50.141562",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

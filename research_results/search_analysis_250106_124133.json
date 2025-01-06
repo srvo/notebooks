@@ -1,0 +1,580 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:41:33.337645",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "MACQUARIE GROUP LTD",
+      "symbol": "MQBKY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Exposure to volatile commodity markets and global economic uncertainties",
+            "Regulatory scrutiny and compliance risks in multiple jurisdictions",
+            "Reputational risks due to environmental and governance controversies"
+          ],
+          "controversies": [
+            "Criticism for financing fossil fuel projects despite net-zero commitments",
+            "Exploitation of loopholes in Net-Zero Banking Alliance (NZBA) guidelines",
+            "Past instances of poor compliance practices and governance issues"
+          ],
+          "environmental_issues": [
+            "Continued involvement in fossil fuel projects conflicting with green energy initiatives",
+            "Lack of targets for off-balance sheet fossil fuel exposures"
+          ],
+          "social_issues": [
+            "Potential backlash from stakeholders and environmental groups"
+          ],
+          "governance_issues": [
+            "Regulatory investigations into compliance and market conduct",
+            "Historical controversies related to corporate governance and ethical practices"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Macquarie fails to rule out funding fossil fuel projects incompatible ...",
+              "snippet": "29 July 2021 Major Australian financial institution Macquarie was today challenged by shareholders and communities over its support for the oil and gas industry, and inconsistencies between this support and its commitment to net zero emissions by 2050. Just weeks after Macquarie's commitment to \"aligning our financing activity with the global goal of net zero [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196772+00:00",
+              "published_date": null,
+              "source_hash": "e526b97751a1f3cec2bd598cbc6a6d2c"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group slammed over oil and gas investments",
+              "snippet": "She was referring to claims that Macquarie's disclosure on financed emissions appears to be exploiting a loophole in NZBA guidelines. These guidelines, however, don't mandate member banks to establish targets for their fossil fuel exposure through off-balance sheet activities. As such, Macquarie hasn't tried to circumvent NZBA guidelines.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196891+00:00",
+              "published_date": null,
+              "source_hash": "439a03afc73f313ef25982dd2e5ff6ae"
+            },
+            {
+              "url": "",
+              "title": " Macquarie Group Net Zero and Climate Risk Report",
+              "snippet": "While our fossil fuel financed emissions remain relatively small ... and principal investment. This is Macquarie's second Net Zero and Climate Risk Report (Report), informed by recommendations of the Task Force on ... The Macquarie Group Limited (MGL) and Macquarie Bank Limited (MBL) Boards and management recognise the importance of sound ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196912+00:00",
+              "published_date": null,
+              "source_hash": "94be1a0d767bd6096e43ac541348b531"
+            },
+            {
+              "url": "",
+              "title": " Table of Contents - IEEFA",
+              "snippet": "Billions in oil and gas investments undermine Macquarie Group's climate commitment 3 Key Findings Macquarie Group presents itself as a leader in the global transition to net zero emissions by 2050, but its billions of oil and gas investments are at odds with its commitment to the 1.5\u00b0C goal. After joining two net zero alliances, Macquarie Group",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196925+00:00",
+              "published_date": null,
+              "source_hash": "20a2cd4463e2b65d03eefd7722463a6d"
+            },
+            {
+              "url": "",
+              "title": " Macquarie Global Listed Infrastructure1 - Macquarie Group Limited",
+              "snippet": "Despite the enormous global investment in renewables and energy transition to date, the world continues to rely heavily on fossil fuels. According to the Energy Institute, global primary energy consumption grew by 2% in 2023. A new record in the consumption of fossil fuels (in absolute terms) was recorded, with fossil fuels still accounting for",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196940+00:00",
+              "published_date": null,
+              "source_hash": "f718ec3dd0d5f4517b7704400a978f85"
+            },
+            {
+              "url": "",
+              "title": "Billions in oil and gas investments undermine Macquarie Group's climate ...",
+              "snippet": "Macquarie Group presents itself as a leader in the global transition to net zero emissions by 2050, but its billions of oil and gas investments are at odds with its commitment to the 1.5\u00b0C goal. ... Macquarie Group will need to start focusing not only on increasing its green investments, but also on decreasing its investments in fossil fuel ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196953+00:00",
+              "published_date": null,
+              "source_hash": "f6145ba28845ac827f89989f1e9bb80a"
+            },
+            {
+              "url": "",
+              "title": " Net Zero and Climate Risk Report - Macquarie Group Limited",
+              "snippet": "Macquarie Group (Macquarie) has been driving practical climate solutions for almost 20 years, with our first investments in renewables dating back to 2005. Since then, we have evolved our approach year\u2011by\u2011year, building capabilities to support the global transition to net zero.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.196968+00:00",
+              "published_date": null,
+              "source_hash": "337ccc21cf1d04c430b438d5aca7e7b4"
+            },
+            {
+              "url": "",
+              "title": "Why Macquarie's not as green as you think - Financial Review",
+              "snippet": "But that does not mean the great energy transition from fossil fuels to renewables will be the major strategic driver of Macquarie's growth over the next five to 10 years.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.197017+00:00",
+              "published_date": null,
+              "source_hash": "11b65120ff5b36ef1b5920d0cca7c7db"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Investments at Odds with Energy Transition ... - Rigzone",
+              "snippet": "Despite its energy transition commitments, Macquarie Group's oil and gas investments \"are at odds\" with the global transition goal of net zero emissions by 2050, according to a recent report ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.197044+00:00",
+              "published_date": null,
+              "source_hash": "9f4cecb41169149280a411733413a15a"
+            },
+            {
+              "url": "",
+              "title": "Written evidence submitted by Macquarie Group Limited",
+              "snippet": "Macquarie Group includes Macquarie Infrastructure and Real Assets (MIRA), the world's largest infrastructure manager, and the Green Investment Group (GIG), acquired from the UK Government in 2017 and now a global developer of renewable energy projects. Macquarie is happy to be contacted by the Committee in relation to this submission. Please",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:04.197061+00:00",
+              "published_date": null,
+              "source_hash": "75965fa06fdd06813be7330e1096b21e"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Boosts Stake in Karoon Energy Ltd",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Macquarie Group Limited has become a substantial holder in Karoon Energy Ltd, with significant control over a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:07.618978+00:00",
+              "published_date": "2024-12-11T07:51:00+00:00",
+              "source_hash": "56aac101e17f20f06ca0c481765795ae"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Strengthens Stake in Karoon Energy",
+              "snippet": "Macquarie Group Limited (AU:MQG ... strategic move highlights Macquarie's influence in the energy sector, reflecting its growing investment interests and control over voting rights in major ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:07.619085+00:00",
+              "published_date": "2024-12-11T01:51:00+00:00",
+              "source_hash": "5fa80d90b1a01de87fad0e9842e0bf8d"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group's Substantial Stake in Auric Mining",
+              "snippet": "Auric Mining Ltd. (AU:AWJ) has released an update.Don't Miss Our Christmas Offers:Discover the latest stocks recommended by top Wall Street",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "retrieved_at": "2025-01-06T19:41:07.619117+00:00",
+              "published_date": "2024-12-27T03:42:00+00:00",
+              "source_hash": "620549994df7331d0cd91877afe03069"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "\u2022 overseeing a self-assessment of Macquarie's governance, culture, remuneration and accountability practices (the second such self- assessment Macquarie has undertaken, the first of which was in 2018) and endorsing the findings and recommended actions from that self-assessment \u2022 overseeing Macquarie's regulatory engagement, including",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072499+00:00",
+              "published_date": null,
+              "source_hash": "8204bb02e555f47c24d9f8a5a0bb3751"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group - Legal and Compliance Team | The Org",
+              "snippet": "The Legal and Compliance Team at Macquarie Group is responsible for ensuring that the company adheres to all legal and regulatory requirements while managing compliance risks. The team provides expert legal advice, develops policies, oversees governance, and engages with stakeholders to protect the company's interests and uphold its reputation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072613+00:00",
+              "published_date": null,
+              "source_hash": "08536d1e29afbd198520257b6e1460f0"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "including compliance with regulatory requirements and Macquarie policies and procedures. Approve remuneration policies that provide alignment of the interests of staff and shareholders while effectively aligning remuneration with prudent risk taking. Bottom up assessment of performance at both business and individual",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072632+00:00",
+              "published_date": null,
+              "source_hash": "542d1b1829c2ddddddc48d2f125cc563"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Macquarie Group Limited and its subsidiaries 2021 Annual Report About Directors' Report Financial Report Further Information Governance Risk Management Group RMG, which forms the second line of defence, is an independent and centralised function responsible for independent and objective review and challenge, oversight,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072645+00:00",
+              "published_date": null,
+              "source_hash": "52fc29f59f632eabfc87a0eecd53c42e"
+            },
+            {
+              "url": "",
+              "title": "Manager, Regulatory Compliance - - 13779 - Macquarie Group",
+              "snippet": "Salary range for this position: $136,000- $150,000/Year. Actual base salary may vary based upon, but not limited to, relevant experience, time in role, peer and market data, prior performance, business sector, and geographic location.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072657+00:00",
+              "published_date": null,
+              "source_hash": "a8bf462f90a47637738326ecfcfd737d"
+            },
+            {
+              "url": "",
+              "title": "Important Terms and Information - Macquarie Bank",
+              "snippet": "Macquarie Group Limited is the owner or licensed user of the Articles available from this webpage. ... and the Private Bank (a division of Macquarie Bank Limited ('MBL')), in compliance with the Corporations (Relevant Providers Continuing Professional Development Standard) Determination 2018. ... 5 hours for regulatory compliance and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072671+00:00",
+              "published_date": null,
+              "source_hash": "3172134ce5919f8a34a3de5d4fefc406"
+            },
+            {
+              "url": "",
+              "title": "Compliance Testing Manager - - 13415 - Macquarie Group",
+              "snippet": "In this role, you will lead and conduct regular reviews across various business units and functions to identify potential area of risks and non-compliance. You will also collaborate with the team to shape compliance policies, procedures and guidelines based on industry best practices and regulatory changes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072682+00:00",
+              "published_date": null,
+              "source_hash": "4709519ffe8618d5f8e4a64b4cef8444"
+            },
+            {
+              "url": "",
+              "title": "Macquarie's compliance cost explosion - Financial Review",
+              "snippet": "Macquarie Group's latest full-year financial results contain many extraordinary numbers, including the 92 per cent increase in profits from market-facing businesses to $5.33 billion, the 56 per ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072694+00:00",
+              "published_date": null,
+              "source_hash": "42e2c664d6d065f72a9d07ac8d594aa8"
+            },
+            {
+              "url": "",
+              "title": "Regulator Calls Australia's Macquarie 'Reckless' Over Futures Trading ...",
+              "snippet": "Macquarie's response to ASIC's investigation of the futures trades \"was in all the circumstances demonstrative of a reckless and poor attitude to compliance\", Longo said. \"This is a very ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072706+00:00",
+              "published_date": null,
+              "source_hash": "707ad2c8854b14d61c3054da307f3abb"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Ltd | Reuters",
+              "snippet": "Investigations; More. Sports. ... Macquarie Group Ltd. ... Top Australian investment bank Macquarie Group showed a \"reckless and poor attitude to compliance\" by failing to act on warnings about ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:10.072718+00:00",
+              "published_date": null,
+              "source_hash": "261bcd16ec9e599191cf25df749898e7"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Ltd",
+              "snippet": "Australia's Macquarie misses first-half profit forecasts on subdued energy trade; shares slide Top Australian investment bank Macquarie Group showed a \"reckless and poor attitude to compliance\" by ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:13.594116+00:00",
+              "published_date": "2024-11-28T00:00:00+00:00",
+              "source_hash": "562ce8bb5de9faf63ddd507bbe5c9855"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Considers a Potential $5 Billion-Plus Sale of Former Cincinnati Bell",
+              "snippet": "Macquarie Group Ltd. is beginning to explore strategic options including a sale for Altafiber, the telecommunications carrier formerly known as Cincinnati Bell, as appetite surges for companies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:18.578855+00:00",
+              "published_date": "2024-12-18T12:56:00+00:00",
+              "source_hash": "dd192e9ab9728d6975d59397ed5bd855"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Reduces Stake in Elsight Ltd",
+              "snippet": "Elsight Ltd. (AU:ELS) has released an update.Don't Miss Our New Year's Offers:Discover the latest stocks recommended by top Wall Street",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:13.594255+00:00",
+              "published_date": "2025-01-03T05:32:00+00:00",
+              "source_hash": "8a9bbebcbf9deb1df8b0ecefa63c2778"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Secures Exemption, Boosts Share Control",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Macquarie Group Limited has received an exemption from section 259C of the Corporations Act, allowing it to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:13.594279+00:00",
+              "published_date": "2024-12-10T07:14:00+00:00",
+              "source_hash": "8b44bf7451e37d152422634eea114ef5"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Announces Upcoming Dividend Distribution",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Macquarie Group Limited has announced a dividend distribution for its security, MQGPF, with a payment amount of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD regulatory investigations compliance",
+              "retrieved_at": "2025-01-06T19:41:13.594302+00:00",
+              "published_date": "2024-12-13T03:37:00+00:00",
+              "source_hash": "2424c6e9a29c2f6ffb3732d6af605af2"
+            },
+            {
+              "url": "",
+              "title": "Company | Corporate Governance | Macquarie Group",
+              "snippet": "Macquarie's approach to corporate governance is to identify opportunity, promote the long term profitability while managing risk, drive superior and sustainable shareholder value and meet stakeholder expectations of sound corporate governance. ... Constitution of Macquarie Group Limited. PDF 1 MB. 01 June 2024 MGL Board Charter. PDF 227 KB ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085473+00:00",
+              "published_date": null,
+              "source_hash": "7802ba1fbdeacc87516deb9ce15939be"
+            },
+            {
+              "url": "",
+              "title": " 2022 Corporate Governance Statement - Macquarie Group Limited",
+              "snippet": "to meet stakeholder expectations of sound corporate governance, acknowledging Macquarie's specific and broader responsibilities to its shareholders, funders, clients, staff and the communities in which it operates. Macquarie Group Limited's (MGL) corporate governance practices have been consistent with the 4th edition of the ASX Corporate",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085573+00:00",
+              "published_date": null,
+              "source_hash": "8ff7d4440feafc73469ed31efbb9cdbd"
+            },
+            {
+              "url": "",
+              "title": " Corporate Governance summary - Macquarie Group Limited",
+              "snippet": "Corporate Governance Macquarie's key governance practices guide decision\u2011making of MGL and its subsidiaries (Macquarie) to meet stakeholder expectations of sound corporate governance, acknowledging Macquarie's specific and broader responsibilities to shareholders, funders, clients, staff and the communities in which it operates.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085588+00:00",
+              "published_date": null,
+              "source_hash": "13ef95d8ed159294b8253ab38036c330"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group 2021 Corporate Governance Statement",
+              "snippet": "Macquarie Group Limited's (MGL) corporate governance practices have been consistent with the 4th edition of the ASX Corporate Governance Council's Corporate Governance Principles and Recommendations throughout the year. ... The Customer Advocate reports directly to the CEO and provides an annual report to the BGCC. 5 2021 Macquarie ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085602+00:00",
+              "published_date": null,
+              "source_hash": "93485045a3d280dd2e7ca39e8d279200"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group - Wikipedia",
+              "snippet": "Macquarie Group Limited (/ m \u0259 \u02c8 k w \u0254\u02d0r i /), more commonly known as Macquarie Bank, is an Australian multinational investment banking and financial services group headquartered in Sydney and listed on the ASX (ASX: MQG).. Macquarie's investment banking division is Australia's top-ranked mergers and acquisitions adviser with more than 871 billion Australian dollars in assets under ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085612+00:00",
+              "published_date": null,
+              "source_hash": "c32bb717ef7c17f647bfbe8089d1c9e9"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Limited (MQG.AX) - Yahoo Finance",
+              "snippet": "See the company profile for Macquarie Group Limited (MQG.AX) including business summary, industry/sector information, number of employees, business summary, corporate governance, key executives ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085621+00:00",
+              "published_date": null,
+              "source_hash": "bf9f8ceb591eb84350aaddb1b870ff13"
+            },
+            {
+              "url": "",
+              "title": "Company Macquarie Group Limited - MarketScreener",
+              "snippet": "The British company's approach to corporate governance is to identify opportunities, promote long-term profitability while managing risk, drive superior and sustainable shareholder value, and meet stakeholder expectations of sound corporate governance. ... Part of Macquarie Group Ltd., Macquarie Meters 3 (UK) Ltd. is a diversified financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085631+00:00",
+              "published_date": null,
+              "source_hash": "7fb59c6a46dbe06b7958ff1a0f10180b"
+            },
+            {
+              "url": "",
+              "title": "Governance Macquarie Group Limited BOERSE MUENCHEN - MarketScreener.com",
+              "snippet": "Governance Macquarie Group Limited BOERSE MUENCHEN Equities 4M4 AU000000MQG1 Diversified Investment Services ... Corporate Officer/Principal ... Macquarie Group Limited is an Australia-based global financial services company. The Company specializes in asset management, retail and business banking, wealth management, leasing and asset financing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085640+00:00",
+              "published_date": null,
+              "source_hash": "eb9f73d34e492cdfdc3807c51e10bfb0"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Limited (MQBKY) Company Profile & Overview - Stock Analysis",
+              "snippet": "Company profile for Macquarie Group Limited (MQBKY) with a description, list of executives, contact details and other key facts. ... Global Chief Operating Officer and Head of Corporate Operations Group: G. N. Bruce: Head of Legal and Governance Group and Group General Counsel: Gregory Colin Ward B.Ec., F Fin, FCA, M.Ec. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085649+00:00",
+              "published_date": null,
+              "source_hash": "7d35489c918ad7a666ad2172f30b73d2"
+            },
+            {
+              "url": "",
+              "title": " Year ended 31 March 2020 - Macquarie Group Limited",
+              "snippet": "2020 acuare Corporate Governance tateent Corporate Governance This Corporate Governance Statement (Statement) has been approved by the Board. It describes Macquarie's key governance practices and articulates how decision\u2011making is guided to meet stakeholder expectations of sound corporate governance, acknowledging Macquarie's specific",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:16.085658+00:00",
+              "published_date": null,
+              "source_hash": "3a01028397f83f31d7a846c4b134b9a7"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Ltd",
+              "snippet": "Corio Generation, the UK-based offshore wind developer backed by Australia's Macquarie Group , plans to cut a ... combined stake in Queensland Airports Ltd to a consortium comprising global ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:18.578737+00:00",
+              "published_date": "2024-11-28T00:00:00+00:00",
+              "source_hash": "9e02462907bd6f0ad8f5d32f26029d4c"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Strengthens Stake in Karoon Energy",
+              "snippet": "Macquarie Group Limited (AU:MQG) has released an update ... as it underscores Macquarie's expanding role in corporate governance and market influence. For further insights into AU:MQG stock ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:18.578826+00:00",
+              "published_date": "2024-12-11T01:51:00+00:00",
+              "source_hash": "908efda91425ce014594ac9af7d8cb29"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group Reduces Stake in Elsight Ltd",
+              "snippet": "all in one place with Analyst Top Stocks Make smarter investments with weekly expert stock picks from the Smart Investor Newsletter Macquarie Group Limited has reduced its voting power in Elsight ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:18.578880+00:00",
+              "published_date": "2025-01-03T05:32:00+00:00",
+              "source_hash": "0564a7085a047120ce01e652db46f45c"
+            },
+            {
+              "url": "",
+              "title": "Macquarie Group (ASX: MQG)",
+              "snippet": "Macquarie Group Ltd. operates as a non-operating holding ... Commodities and Global Markets (CGM), Macquarie Capital and Corporate. The MAM segment delivers investment solutions to clients across ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "MACQUARIE GROUP LTD MACQUARIE GROUP LTD corporate governance controversies",
+              "retrieved_at": "2025-01-06T19:41:18.578903+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "4430a2e0c0b521e41bab1c80690b06b6"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "MACQUARIE GROUP LTD fossil fuel investments controversy",
+              "rationale": "Investigate criticisms and controversies related to the company's investments in fossil fuel projects despite its green energy initiatives.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "MACQUARIE GROUP LTD regulatory investigations compliance",
+              "rationale": "Explore ongoing regulatory investigations and compliance issues in various jurisdictions to assess legal and financial risks.",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "MACQUARIE GROUP LTD corporate governance controversies",
+              "rationale": "Examine past controversies related to corporate governance and ethical practices to understand potential reputation risks.",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:41:33.337653",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

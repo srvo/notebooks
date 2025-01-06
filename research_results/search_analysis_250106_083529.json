@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:35:29.300289",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Toast Inc",
+      "symbol": "TOST",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Profitability challenges due to high stock-based compensation expenses",
+            "Customer retention issues stemming from pricing model concerns",
+            "Data security risks and ongoing federal lawsuit",
+            "Competitive pressures in the restaurant technology sector"
+          ],
+          "controversies": [
+            "Federal lawsuit alleging misappropriation of trade secrets",
+            "Backlash over unilateral 99-cent processing fee on online orders"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer dissatisfaction and complaints over service fees",
+            "Potential harm to brand image due to ethical concerns"
+          ],
+          "governance_issues": [
+            "Legal risks and potential financial liabilities from lawsuits"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Breaking Down Toast, Inc. (TOST) Financial Health: Key Insights for ...",
+              "snippet": "A Deep Dive into Toast, Inc. (TOST) Profitability A Deep Dive into Toast, Inc.'s Profitability. Gross Profit Margin: For the three months ended September 30, 2024, the gross profit was $365 million, representing a gross profit margin of approximately 28%.In comparison, for the same period in 2023, the gross profit was $270 million, which corresponds to a gross profit margin of about 26%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165265+00:00",
+              "published_date": null,
+              "source_hash": "39912c1701d19b738394a40fb26a4215"
+            },
+            {
+              "url": "",
+              "title": "Toast (TOST) Soars 131% in 2024, Driven by Revenue Growth and Market ...",
+              "snippet": "As the restaurant tech sector thrives, can Toast maintain its momentum amidst mixed investor sentiments and market challenges? Toast (TOST) has made waves in 2024 with a remarkable 131.1% surge in shares and a 26.5% revenue increase, reaching $1.31 billion in Q3. ... TOST-TOAST INC Toast (TOST) Soars 131% in 2024, Driven by Revenue Growth and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165396+00:00",
+              "published_date": null,
+              "source_hash": "b14f571256e91743ef431abbd6f3123f"
+            },
+            {
+              "url": "",
+              "title": "Toast, Inc. (TOST): SWOT Analysis [11-2024 Updated] - dcf-fm",
+              "snippet": "Toast, Inc. (TOST) - SWOT Analysis: Weaknesses Net Loss. Toast reported a net loss of $13 million for the nine months ended September 30, 2024, indicating ongoing profitability challenges.. Stock-Based Compensation Expenses. High stock-based compensation expenses continue to impact financial results, with $193 million recorded in the first nine months of 2024.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165429+00:00",
+              "published_date": null,
+              "source_hash": "f4ebfb75deb918f2f5989f4e009c0fe2"
+            },
+            {
+              "url": "",
+              "title": "Toast Inc (TOST) Q3 2024 Earnings Call Highlights: Strong Location ...",
+              "snippet": "Toast Inc (TOST) reports robust expansion with 7,000 new locations and a 35% increase in recurring gross profit streams, while addressing challenges in transaction volume and customer retention.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252455+00:00",
+              "published_date": null,
+              "source_hash": "f2eea148153f6b90255a7b20f361e000"
+            },
+            {
+              "url": "",
+              "title": "Toast Earnings: Revenue Growth Challenges In A Competitive Market",
+              "snippet": "As investors contemplate the company's 80x forward EBITDA valuation, the focus on maintaining a balance between growth and profitability becomes increasingly crucial for Toast's future prospects ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165479+00:00",
+              "published_date": null,
+              "source_hash": "277d8a00e988cc5fefd6ccd8e4c7e3e3"
+            },
+            {
+              "url": "",
+              "title": "Positive Outlook for Toast Inc. with Strategic Growth and Profitability ...",
+              "snippet": "This positive trend is supported by Toast's strategic initiatives, such as introducing new products, expanding into international markets, and increasing its presence in the food and beverage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165502+00:00",
+              "published_date": null,
+              "source_hash": "4b22b345e26e97ddd59d43f37451aa45"
+            },
+            {
+              "url": "",
+              "title": "Toast Earnings: Strong Results Despite Tough Restaurant ... - Morningstar",
+              "snippet": "Toast Inc Class A. TOST: XNYS (USA) ... expansion road map laid out at Toast's May 2024 investor day, which called for 30% to 35% incremental margins as a percentage of recurring gross profit over ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165525+00:00",
+              "published_date": null,
+              "source_hash": "05631861d15c90584308e4b7c6432756"
+            },
+            {
+              "url": "",
+              "title": "Toast's Long-Term Trajectory Still Attractive Despite Challenging ...",
+              "snippet": "After considering the firm's cash burn rate, over $1 billion in cash, cash equivalents and investments on the balance sheet at the end of September 2023, and the schedule of near-to-medium term ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165548+00:00",
+              "published_date": null,
+              "source_hash": "18c12dc49533562efb6f75155efe54ef"
+            },
+            {
+              "url": "",
+              "title": "Toast Is an Unprofitable Company Now. But It Has 3 Key Ways to Boost ...",
+              "snippet": "Restaurant-technology company Toast (TOST-0.19%) is unprofitable, and it's not even close to breaking even. Through the first three quarters of 2023, the company reported a net loss of $210 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252516+00:00",
+              "published_date": null,
+              "source_hash": "56b248cdc398751ab94d7f2b1239d3e0"
+            },
+            {
+              "url": "",
+              "title": "Analyst Issues Sell Rating for Toast Inc Amid Performance Concerns and ...",
+              "snippet": "Toast Inc (TOST - Research Report), the Technology sector company, was revisited by a Wall Street analyst yesterday. Analyst Andrew Bauch from Wells Fargo reiterated a Sell rating on the stock ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:02.165591+00:00",
+              "published_date": null,
+              "source_hash": "757140fb5ecfecd3cc31026403b18071"
+            },
+            {
+              "url": "",
+              "title": "Hold Rating on Toast Inc: Balancing Growth Prospects with Overvaluation Concerns",
+              "snippet": "BTIG analyst Andrew Harte has maintained their neutral stance on TOST stock, giving a Hold rating on December 12.Pick the best stocks and",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:04.709892+00:00",
+              "published_date": "2024-12-20T17:36:00+00:00",
+              "source_hash": "20c5ef3c73e537bb8133f746a0854cfc"
+            },
+            {
+              "url": "",
+              "title": "Toast: Profitability Doesn't Justify The Multiple (Rating Downgrade)",
+              "snippet": "The most important factor since my last analysis is that Toast achieved GAAP profitability in the past two quarters. In addition to the obvious benefits, this allows investors with a strict ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:04.709951+00:00",
+              "published_date": "2024-12-15T10:17:00+00:00",
+              "source_hash": "e67a66195a9d95eff508f9e5c2ac1c58"
+            },
+            {
+              "url": "",
+              "title": "DA Davidson Just Downgraded Toast Inc (TOST) Stock\u2014What Does This Mean for Investors?",
+              "snippet": "Investors often prefer to invest in shares held by company insiders, as management is typically more aligned with the company's success and shareholder interests. Currently, insiders own just 27.82% of Toast Inc (TOST)'s shares, while financial institutions hold 69.99%.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:04.709981+00:00",
+              "published_date": "2024-12-31T19:59:00+00:00",
+              "source_hash": "5e163527231700efed4b55f72abe51b0"
+            },
+            {
+              "url": "",
+              "title": "Toast, Inc. (TOST) is Attracting Investor Attention: Here is What You Should Know",
+              "snippet": "Toast (TOST) has recently been on ... A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher. This is why empirical ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:04.710016+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "af1bfd6b302d039601b07b5418d5a706"
+            },
+            {
+              "url": "",
+              "title": "Toast shares downgraded to neutral amid margin concerns",
+              "snippet": "Thursday, shares of Toast Inc ... potential, investors can access the comprehensive Pro Research Report, available exclusively on InvestingPro. However, the analyst expressed concerns that ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc profitability challenges and investor concerns",
+              "retrieved_at": "2025-01-06T15:35:04.710041+00:00",
+              "published_date": "2024-12-05T07:38:00+00:00",
+              "source_hash": "238b6242b5015dd8bbf195ab8bc2df47"
+            },
+            {
+              "url": "",
+              "title": "Toast, Inc. | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Toast, Inc. filed with BBB. BBB helps resolve disputes with the services or products a business provides. ... Customer Service Issues (16) Delivery Issues (13) Order Issues (12 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252334+00:00",
+              "published_date": null,
+              "source_hash": "9abb45789c4acc1f8ef2ede1ffdeccf2"
+            },
+            {
+              "url": "",
+              "title": "Restaurateurs fume over ominous new fee billed to customers by Toast Inc.",
+              "snippet": "Toast Inc., a powerful cloud-based third-party point-of-sale vendor used by more than 85,000 restaurants, is unilaterally adding a 99-cent \"processing fee\" to online orders of $10 or more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252429+00:00",
+              "published_date": null,
+              "source_hash": "dd527bfd0e734b49b7f61c7db9e361fe"
+            },
+            {
+              "url": "",
+              "title": "Restaurateurs are Angry Over New Fee Billed by Toast Inc.",
+              "snippet": "Toast Inc., a well-known cloud-based third-party point-of-sale vendor trusted by over 85,000 eateries, has sparked outrage among restaurant owners with its recent action. Toast Inc. discreetly implemented an apparently harmless 99-cent \"processing fee\" on online sales totaling $10 or more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252442+00:00",
+              "published_date": null,
+              "source_hash": "c0005be1d63c608615123af790ed4cd2"
+            },
+            {
+              "url": "",
+              "title": "Toast Reviews | Read Customer Service Reviews of toasttab.com - Trustpilot",
+              "snippet": "On day 3 - today, I called Toast merchant customer service again only to be told the same thing. They still have my money with no resolution. Date of experience: ... So far, a great product, a great price, and great customer service! Date of experience: September 29, 2024. Reply from Toast. Sep 30, 2024. ... Read 2 more reviews about Toast. JP ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252464+00:00",
+              "published_date": null,
+              "source_hash": "41387b05c9e404dae508d3fad03ca3f2"
+            },
+            {
+              "url": "",
+              "title": "Toast Revenue Soars 26.5%, Hits $1.3B | The Motley Fool",
+              "snippet": "Toast showcased significant growth in its third-quarter earnings, ... Price as of December 27, 2024, 4:00 p.m. ET ... aiding in enhancing customer retention and driving sales.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252475+00:00",
+              "published_date": null,
+              "source_hash": "af60c6079312ec3cec9e846f6feff6bd"
+            },
+            {
+              "url": "",
+              "title": "Toast Reviews 2025: Details, Pricing, & Features - G2",
+              "snippet": "Toast is a restaurant software company built from the ground up for restaurant operators and their guests. The Toast system and team will help your restaurant decrease costs, increase revenue through efficiency and customer retention, and provide you with reliable tools that help you to understand and optimize every facet of your business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252484+00:00",
+              "published_date": null,
+              "source_hash": "a1b5ec9db2132691811a356211dfb6d9"
+            },
+            {
+              "url": "",
+              "title": "Does Toast Have a Recipe for Resilience to Overcome a Growth Slowdown?",
+              "snippet": "Toast may turn the tide of a growth drop-off with cutting-edge digital solutions and a forward-thinking approach. ... Current Price. $37.58. ... indicating Toast's strong customer retention and value.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252496+00:00",
+              "published_date": null,
+              "source_hash": "ed075d34519feea972c116cf133abb03"
+            },
+            {
+              "url": "",
+              "title": "Experience of using Toast POS : r/ToastPOS - Reddit",
+              "snippet": "Toast is a restaurant management system that has become very costly. You also forced to use their processing now which is 0.70% higher than the going rate. There are a lot of comparable companies to toast at much better price points, more flexible, etc. Toast was good a year ago.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Toast Inc Toast Inc customer retention issues and pricing complaints",
+              "retrieved_at": "2025-01-06T15:35:06.252507+00:00",
+              "published_date": null,
+              "source_hash": "76b91d36d6a1ac69200e6df1d5ffe06d"
+            },
+            {
+              "url": "",
+              "title": "Toast Emboldened Its Advisory Board to Steal Secrets, Suit Says",
+              "snippet": "Toast Inc. misappropriated a former business partner's trade secrets\u2014and used them to launch a competing service\u2014in part by encouraging members of its customer advisory board to breach confidentiality agreements, a new federal lawsuit said. The restaurant point-of-sale and business-management platform was \"willfully blind\" to the unauthorized use of secret information by its advisory ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.323799+00:00",
+              "published_date": null,
+              "source_hash": "b286ead79f237cd1a4756f39e29347cb"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Gross Law Firm Notifies Shareholders of Toast ...",
+              "snippet": "NEW YORK, July 26, 2023 /PRNewswire/ -- The Gross Law Firm issues the following notice to shareholders of Toast, Inc.:. On or around September 22, 2021, Toast conducted its initial public offering ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.323917+00:00",
+              "published_date": null,
+              "source_hash": "40148cd45f62719a3d9f7bf531e4ee63"
+            },
+            {
+              "url": "",
+              "title": "TOST NEWS: The Klein Law Firm Initiates an Investigation - GlobeNewswire",
+              "snippet": "Among other items, Toast reported earnings per share of -$0.19, missing consensus estimates by $0.01. On this news, Toast's stock price fell $5.93 per share, or 22.84%, to close at $20.03 per ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.323952+00:00",
+              "published_date": null,
+              "source_hash": "d0c92e9ef3e298368356dbd9f9c21e9b"
+            },
+            {
+              "url": "",
+              "title": "Toast, Inc. 10-K Cybersecurity GRC - 2024-02-27",
+              "snippet": "Toast, Inc. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-27 16:04:51 EST. Filings 10-K filed on 2024-02-27 Company Information Filings 10-K filed on 2024-02-27 Toast, Inc. filed a 10-K at 2024-02-27 16:04:51 EST Accession Number: 0001650164-24-000084 Note: filing items unformatted. Drop us a note with the above URL to help us prioritize ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.323978+00:00",
+              "published_date": null,
+              "source_hash": "46746922a96397dda98a9a7213f41b76"
+            },
+            {
+              "url": "",
+              "title": "Decoding Toast Inc (TOST): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Data Security Risks: As a technology company handling a high volume of sensitive information, Toast Inc faces the threat of data breaches and cyber attacks. Any compromise in data security could result in significant reputational damage and financial loss, emphasizing the need for robust security measures and compliance with data protection ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.324008+00:00",
+              "published_date": null,
+              "source_hash": "247890ee7be1318ce843de3a9200cb67"
+            },
+            {
+              "url": "",
+              "title": "Big Tech restaurant vendor Toast to replace CEO after fee outrage ...",
+              "snippet": "Toast Inc., the Boston-based Big Tech restaurant point-of-sale vendor, announced a management change six weeks after it angered customers over its sudden new fees.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.324034+00:00",
+              "published_date": null,
+              "source_hash": "464854f1cb78d95cc77131cb71aab992"
+            },
+            {
+              "url": "",
+              "title": "Four Keys to Cyber Security: Protecting Restaurants and ... - Toast",
+              "snippet": "About Toast. Toast [NYSE: TOST] is a cloud-based, all-in-one digital technology platform purpose-built for the entire restaurant community. Toast provides a comprehensive platform of software as a service (SaaS) products and financial technology solutions that give restaurants everything they need to run their business across point of sale, payments, operations, digital ordering and delivery ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.324060+00:00",
+              "published_date": null,
+              "source_hash": "a4d63abedae112623399a5b6b0dd7d58"
+            },
+            {
+              "url": "",
+              "title": "Toast Cyber Security Rating & Vendor Risk Report - SecurityScorecard",
+              "snippet": "Explore cyber risks, data breaches, and cybersecurity incidents involving Toast ... View Toast's cyber security risk rating against other vendors' scores. Explore cyber risks, data breaches, and cybersecurity incidents involving Toast. Sign In. Start Free Trial. SecurityScorecard TOP 10; Telecommunications; Toast.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.324084+00:00",
+              "published_date": null,
+              "source_hash": "ff9afd63cacf7886641aa97ab4f16383"
+            },
+            {
+              "url": "",
+              "title": "PCI Compliance Overview - Toast",
+              "snippet": "\"PCI compliance\" refers to a set of rules for taking credit cards securely to minimize risks of data breaches or other security problems. Every business that takes credit cards, even if only a few cards a month, must comply with Payment Card Industry Data Security Standard (PCI DSS) requirements.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.324110+00:00",
+              "published_date": null,
+              "source_hash": "03a5ebc38e8419965702e0631559f7b4"
+            },
+            {
+              "url": "",
+              "title": "Toast Serves Up Enhanced Payment Data Security for Enterprise ...",
+              "snippet": "Toast Serves Up Enhanced Payment Data Security for Enterprise Restaurants with Bluefin P2PE ... According to IBM's 2022 Cost of a Data Breach Report, the average cost of a breach has risen to $4 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Toast Inc Toast Inc data security breaches and compliance issues",
+              "retrieved_at": "2025-01-06T15:35:10.324134+00:00",
+              "published_date": null,
+              "source_hash": "912a66184d47cc5331c18c6ef1fa7cab"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Toast Inc profitability challenges and investor concerns",
+              "rationale": "Investigate financial sustainability and investor sentiment",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Toast Inc customer retention issues and pricing complaints",
+              "rationale": "Assess customer satisfaction and potential churn risks",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Toast Inc data security breaches and compliance issues",
+              "rationale": "Evaluate risks related to data security and regulatory compliance",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:35:29.300298",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

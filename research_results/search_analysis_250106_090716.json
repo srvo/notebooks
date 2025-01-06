@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:07:16.960103",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Umicore",
+      "symbol": "UMICY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on cobalt and nickel",
+            "Regulatory and legal challenges, including patent disputes",
+            "Competitive pressures in the battery materials sector"
+          ],
+          "controversies": [
+            "Ethical concerns over cobalt sourcing from artisanal mines in the DRC",
+            "Patent infringement dispute with BASF and the University of Chicago Argonne National Laboratory"
+          ],
+          "environmental_issues": [
+            "Environmental impact of mining and recycling operations, including energy consumption and emissions",
+            "Challenges in achieving carbon neutrality and reducing diffuse metal emissions"
+          ],
+          "social_issues": [
+            "Child labor and unsafe working conditions in cobalt supply chain"
+          ],
+          "governance_issues": [
+            "Compliance with evolving environmental and safety regulations"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Environmental Impact - Umicore",
+              "snippet": "Water Stewardship. Minimizing our impact on water is essential to our Zero Harm ambition. To this end, Umicore has set out to implement a water stewardship program for all industrial activities facing water stress. The program focuses on two main objectives: raising global awareness about water sustainability and addressing local water risks where they exist.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.430859+00:00",
+              "published_date": null,
+              "source_hash": "743f110c2b387307b17ad27ed8d77c27"
+            },
+            {
+              "url": "",
+              "title": "Climate & environment | Umicore",
+              "snippet": "Our high yield recycling process continues to be a driving force in resource efficiency and contributing to the circular economy. In 2019 Umicore carried out several studies to feed our process of climate and environment-related strategy for the future, these include studying our scope 3 emissions and climate related risks and opportunities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431017+00:00",
+              "published_date": null,
+              "source_hash": "b29ac4210a9555bbee695ebcb103c2ba"
+            },
+            {
+              "url": "",
+              "title": "Environment | Integrated Annual Report 2021 - Umicore",
+              "snippet": "Minimizing the environmental impact of our operations is an important part of our Zero Harm ambition. Building on significant achievements over the last five years, Umicore will continue efforts to maximize the efficient use of resources, minimize emissions to air and water and commits to reduce diffuse metal emissions by 25% by 2025 compared to 2020. . In the course of 2022, Umicore will also ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431115+00:00",
+              "published_date": null,
+              "source_hash": "79b9b1abd027c05b3f4a70ef1b38c08f"
+            },
+            {
+              "url": "",
+              "title": "Sustainability at Umicore | Climate action",
+              "snippet": "Scope 1 & 2 emissions. In 2019, Umicore's scope 1 GHG emissions amounted to 389 kTon CO 2 e and scope 2 GHG emissions were 403 kTon CO 2 e. We commit to carbon neutrality for Scope 1 + Scope 2 GHG emissions by 2035, with intermediate milestones of already reaching a 20% reduction in GHG emissions by 2025 and a 50% reduction by 2030.. In addition to our net zero targets, we are also committed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431139+00:00",
+              "published_date": null,
+              "source_hash": "b6c2cb34ec3bd6f2ec75cfe54abdd43f"
+            },
+            {
+              "url": "",
+              "title": "Environmental Statements | Integrated Annual Report 2021",
+              "snippet": "At all relevant locations with environmental emissions, Umicore is compliant with the applicable laws and legislation that regulate and control emissions to the environment. ... Recycling. Umicore Group. CO 2 e emissions (scope1+2) - Market based. tonne. ... The total number of measurements is the total number of environmental impact ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431154+00:00",
+              "published_date": null,
+              "source_hash": "90df7a927ac1e34422084878f44682df"
+            },
+            {
+              "url": "",
+              "title": "Environmental Statements | Integrated Annual Report 2022 - Umicore",
+              "snippet": "The higher the impact factor, the higher the toxicity is to the receiving water body (for water emissions) or to human health (for air emissions). The impact factors for water emissions are based on scientific data generated (\"predicted no effect concentrations\" or PNECs) for the REACH regulation for most metals and on Tatsi et.al (2015 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431168+00:00",
+              "published_date": null,
+              "source_hash": "83999e559b16bf9518810bc0be15c99d"
+            },
+            {
+              "url": "",
+              "title": "Environment as a catalyst for improvement | Umicore",
+              "snippet": "We have invested \u20ac100 million in expanding our capacity since 2014. Ensuring that our plant operates safely and efficiently while at the same time further reducing our environmental impact was a major part of the plan. Over the years we have managed to drastically reduce the impact of our activities on the environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431182+00:00",
+              "published_date": null,
+              "source_hash": "c2b6a53cf7f58b453c3b4c6cc90a6bb0"
+            },
+            {
+              "url": "",
+              "title": "Speeding up the transition to a climate-positive future | Umicore",
+              "snippet": "Minimizing environmental impact. In addition to net zero GHG emissions by 2035, Umicore will continue minimizing all emissions further building on the significant emission reductions achieved over the Horizon 2020 strategy time frame (from 2015 to 2020). Furthermore, Umicore commits to reduce diffuse metal emission by 25% by 2025 compared to 2020.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431205+00:00",
+              "published_date": null,
+              "source_hash": "d8bbe61a945dd7d50628a27c0565df44"
+            },
+            {
+              "url": "",
+              "title": "Continuous improvement in Hoboken | Umicore",
+              "snippet": "Umicore continues to minimize the impact of its production activities on the environment. More specifically in Hoboken, Belgium, Umicore has over many years consistently invested and acted to further reduce the emissions of its recycling plant. As a result, the levels of lead in the blood of the children living next to the site have been declining.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431219+00:00",
+              "published_date": null,
+              "source_hash": "86ba031c48b2687ff6e81a50ca417cd5"
+            },
+            {
+              "url": "",
+              "title": "Our journey to decarbonization - Umicore",
+              "snippet": "For scope 3 emissions, Umicore has set an ambitious target to reduce the carbon intensity of purchased materials by 42% by 2030. To achieve this ambition, we will not increase the Scope 3 emissions of our raw materials, despite the exponential growth projected in our 2030 strategy. ... with our new plant in Nysa as a perfect example: 100% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:45.431231+00:00",
+              "published_date": null,
+              "source_hash": "c3c6eae4097724c4fb3534cf25249ad8"
+            },
+            {
+              "url": "",
+              "title": "Umicore to pause construction of battery materials plant in Canada",
+              "snippet": "(Reuters) -Metals recycler and battery materials producer Umicore will pause construction of a battery materials plant in ... a challenging environment where we feel the impact of the complex ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:48.793814+00:00",
+              "published_date": "2024-11-06T00:00:00+00:00",
+              "source_hash": "0381a565af6edd91551a3d891fccd13b"
+            },
+            {
+              "url": "",
+              "title": "Umicore hits pause on Canadian battery materials plant construction",
+              "snippet": "\"Umicore is navigating a challenging environment where we feel the impact of the complex transitioning ... primarily at its production plant in Jiangmen, China. Additionally, Umicore plans ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Umicore Umicore recycling plant emissions and environmental impact",
+              "retrieved_at": "2025-01-06T16:06:48.793952+00:00",
+              "published_date": "2024-11-06T14:44:00+00:00",
+              "source_hash": "53afaa5a869f8f7e46eda2bd3090b37f"
+            },
+            {
+              "url": "",
+              "title": "Umicore and ethical cobalt sourcing | Umicore",
+              "snippet": "Global context Description of global cobalt landscape and sourcing issues. Cobalt is an essential element in the booming electrification of our society. This metal is required to stabilize rechargeable lithium-ion batteries in applications like electronics that enhance our connectivity and in automotive as part of the transition to clean mobility and the achievement of the Paris Agreement's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253009+00:00",
+              "published_date": null,
+              "source_hash": "8da1f12ca9388c85c1870350dc61e151"
+            },
+            {
+              "url": "",
+              "title": "The Challenges of Cobalt | Umicore",
+              "snippet": "At the same time, part of the cobalt supply is extracted by hand in small-scale, so-called artisanal mines, where serious abuses have been reported. Artisanal mines in the DRC are often linked to child labor and unsafe work conditions. Umicore has been active in ensuring that the cobalt used in its products and services is sustainably sourced.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253036+00:00",
+              "published_date": null,
+              "source_hash": "01d4d3a75bc8aa47997c7f43167c8681"
+            },
+            {
+              "url": "",
+              "title": "Responsible global supply chain of minerals from conflict ... - Umicore",
+              "snippet": "In the area of cobalt sourcing, Umicore has implemented a pioneering Sustainable Procurement Framework for Cobalt and is the first to obtain external validation for its approach in this area. More about the certifications. Access Umicore's policy \"Responsible global supply chain of minerals from conflict-affected and high risk areas\" here.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253098+00:00",
+              "published_date": null,
+              "source_hash": "08faa6aa274d7690da66fe3cd5e961cb"
+            },
+            {
+              "url": "",
+              "title": " Sustainable Procurement Framework for Cobalt - Umicore",
+              "snippet": "Framework for Cobalt Umicore introduced a specific approach to sustainable and ethical cobalt sourcing in 2004. The current Sus - tainable Procurement Framework for Cobalt builds on this and takes into account the specific risks that are currently linked to the mining of cobalt. It is inspired by the OECD Due Diligence Guidance for Responsible",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253110+00:00",
+              "published_date": null,
+              "source_hash": "ecf793b25afdaa98bcd9b3f5b75add8d"
+            },
+            {
+              "url": "",
+              "title": " Sustainable Procurement Framework for Cobalt - csm.umicore.com",
+              "snippet": "sustainable sourcing of its raw materials including cobalt. Umicore is aware of the risks that are linked to the sourcing of cobalt. In-fringements of human rights, occurrence of child labour and environmental issues, as well as the lack of sufficient health and safety protection are re-ported to occur in certain parts of the cobalt supply chain.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253120+00:00",
+              "published_date": null,
+              "source_hash": "844ee71a42a472319b9525532ae813df"
+            },
+            {
+              "url": "",
+              "title": "Myth #8: Cobalt in batteries is unethical - Umicore",
+              "snippet": "Umicore is aware of the risks linked to the sourcing of cobalt. Infringement of human rights, child labor, environmental issues, and inadequate health and safety protection are reported in certain parts of the cobalt supply chain, particularly in the Democratic Republic of Congo (DRC). The DRC produces about 65% of the world's cobalt.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253129+00:00",
+              "published_date": null,
+              "source_hash": "efcb13eeaafc64d0edf9c21de1d0781b"
+            },
+            {
+              "url": "",
+              "title": "Umicore confirms its commitment to ethical and sustainable cobalt",
+              "snippet": "Umicore was one of the first companies to proactively address issues such as human rights, child labor, occupational health and safety conditions and environmental impact related to the extraction of cobalt. Almost 15 years ago, Umicore made the decision to exclude entirely from its supply chain cobalt obtained from Artisanal and Small-scale ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253140+00:00",
+              "published_date": null,
+              "source_hash": "1bdd83e767d21f19e37f383b16fd90e7"
+            },
+            {
+              "url": "",
+              "title": "Umicore visits all mines it buys from and ensures that no unethical ...",
+              "snippet": "Umicore is aware of the risks linked to the sourcing of cobalt. Infringement of human rights, child labor, environmental issues, and inadequate health and safety protection are reported in certain parts of the cobalt supply chain, particularly in the Democratic Republic of Congo (DRC). The DRC produces about 65% of the world's cobalt.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253150+00:00",
+              "published_date": null,
+              "source_hash": "9347ba7c2bd6da850e7fcadd72122804"
+            },
+            {
+              "url": "",
+              "title": "Ensuring sustainable cobalt sourcing | Umicore",
+              "snippet": "Ensuring sustainable cobalt sourcing. ... In 2004 we introduced a procurement framework to ensure that Umicore only sources ethical cobalt that is mined in sustainable conditions. The framework - which was the first of its kind in the industry - has undergone several improvements over the years. Umicore also obtained third-party validation that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253159+00:00",
+              "published_date": null,
+              "source_hash": "6bbbe2a4e7ac70158552253437951141"
+            },
+            {
+              "url": "",
+              "title": "Umicore confirms its commitment to ethical and sustainable cobalt",
+              "snippet": "Umicore commits to supply battery materials, including cobalt, in an ethical and sustainable way. We take all possible actions and measures in order to ensure clean and ethical cobalt in our supply chain. ... Umicore was one of the first companies to proactively address issues such as human rights, child labor, occupational health and safety ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Umicore Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "retrieved_at": "2025-01-06T16:06:51.253168+00:00",
+              "published_date": null,
+              "source_hash": "7802de4c4178abb24aece2496c964861"
+            },
+            {
+              "url": "",
+              "title": "Regulatory & legal context - Umicore",
+              "snippet": "Geopolitical conditions, trade and tariffs continue to be a factor in Umicore's trans-border activities. Measures taken by Umicore. To ensure ongoing compliance with environmental legislation on our industrial sites, Umicore has a well-established EHS compliance audit program and constantly monitors changes in legal requirements where we operate.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242164+00:00",
+              "published_date": null,
+              "source_hash": "5d3ec6ced0fb7c125b4320db7c5b2b9e"
+            },
+            {
+              "url": "",
+              "title": "Umicore to appeal decision regarding its imports of certain ...",
+              "snippet": "The U.S. International Trade Commission (ITC) today issued notice of its decision relating to the patent infringement complaint brought against Umicore by BASF and University of Chicago Argonne National Laboratory. Umicore strongly disputes the findings of infringement of two U.S. patents relating to certain battery cathode materials.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242274+00:00",
+              "published_date": null,
+              "source_hash": "d81eeb7413ba72bcb609c3ab442b2e23"
+            },
+            {
+              "url": "",
+              "title": "Supervision and compliance - Umicore",
+              "snippet": "Regulatory supervision. As an issuer of listed securities, Umicore is subject to the listing requirements of Euronext Brussels. In Belgium it is also subject to supervision by the Financial Services and Markets Authority (FSMA). Statutory auditor. Umicore has a specific policy regarding the independence of the company auditor.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242290+00:00",
+              "published_date": null,
+              "source_hash": "44d7f004f9e010ddd1cdbc3ff1a1b813"
+            },
+            {
+              "url": "",
+              "title": "Umicore denies infringement in US patent case | Umicore",
+              "snippet": "Business unit / dept.: Cobalt & Specialty Materials Share price 10.090 EUR-0.88 %. Business unit / dept.: Cobalt & Specialty Materials",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242302+00:00",
+              "published_date": null,
+              "source_hash": "aa93f2ac44430bc7b57e4410c65bbd8a"
+            },
+            {
+              "url": "",
+              "title": "Umicore disputes the decision of the French Competition Authority and ...",
+              "snippet": "Umicore will appeal this decision in court. The French Competition Authority claims that Umicore Building Products France had imposed an exclusive purchase obligation on some of its French distributors between 1999 and 2007 and in doing so had abused an alleged position of market dominance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242314+00:00",
+              "published_date": null,
+              "source_hash": "bc385bcc31c0e9781428e7aacf3ce66a"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The 2020 Governance Code does not call for many changes in Umicore's governance practice. The company will implement the 2020 Governance Code as of 2020 and will report on compliance against its provisions in the annual report. In terms of remuneration, the Directors are already partly paid in shares, as foreseen by the 2020 Governance Code.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242324+00:00",
+              "published_date": null,
+              "source_hash": "ea8e1aa902f1db77ff31d6126df921f5"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "INDEPENDENT REASONABLE ASSURANCE REPORT ON THE LBMA REFINER'S COMPLIANCE REPORT OF UMICORE PRECIOUS METAL REFINING HOBOKEN FOR THE YEAR ENDED ... professional standards and applicable legal and regulatory requirements. Our opinion . In our opinion, the Subject Matter Information as of and for the year ended 31 December 2021 has been",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242335+00:00",
+              "published_date": null,
+              "source_hash": "424d599bc1e058ccf938a7c9d9f851fa"
+            },
+            {
+              "url": "",
+              "title": "Umicore code of conduct",
+              "snippet": "In case of non-compliance, the situation must be reported and the continuation of Umicore's involvement will be assessed. ... this Code of Conduct to discriminate against or harass anyone for making a report that brings to light a violation of law or Umicore policy. Any employee who has brought forward any such violation, and feels that it is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242345+00:00",
+              "published_date": null,
+              "source_hash": "ef76a781c9be460729c98a6db8356cab"
+            },
+            {
+              "url": "",
+              "title": "Regulatory & legal context | Umicore",
+              "snippet": "Potential impact. Umicore is exposed to changes in the regulatory environment in the countries or regions where it operates. Umicore's businesses stand to benefit from certain regulatory trends, notably those regarding more stringent emission controls for vehicles, low carbon mobility and enforced recycling of end-of-life products.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242354+00:00",
+              "published_date": null,
+              "source_hash": "bb3d7ed13e8ea887215c4c1c7a233a52"
+            },
+            {
+              "url": "",
+              "title": "Umicore - Transparency notifications by Bank of America Corp.",
+              "snippet": "In accordance with article 14, \u00a7 1 of the law of 2 May 2007 on the disclosure of major holdings, Umicore was recently notified by: Bank of America Corp. that it has crossed the regulatory ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Umicore Umicore regulatory compliance fines and legal disputes",
+              "retrieved_at": "2025-01-06T16:06:55.242364+00:00",
+              "published_date": null,
+              "source_hash": "1c32f863c81b0c0a2f8ca86d813c4a7f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Umicore recycling plant emissions and environmental impact",
+              "rationale": "Investigate potential environmental concerns related to Umicore's recycling operations",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Umicore cobalt sourcing ethical concerns and conflict minerals",
+              "rationale": "Examine ethical issues surrounding Umicore's sourcing of cobalt from conflict-affected regions",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Umicore regulatory compliance fines and legal disputes",
+              "rationale": "Identify any financial or legal risks stemming from regulatory non-compliance or litigation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:07:16.960112",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,522 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:19:01.029119",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "SAP SE",
+      "symbol": "SAP",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Cloud transition challenges and customer migration concerns",
+            "Pricing and licensing complexity impacting customer retention",
+            "Regulatory and legal risks from DOJ probe",
+            "Cybersecurity vulnerabilities and data privacy risks",
+            "Workforce restructuring and declining employee morale"
+          ],
+          "controversies": [
+            "Expanded DOJ probe for alleged price-fixing",
+            "Cybersecurity incidents and employee data leaks",
+            "Public protests and internal discontent over workforce restructuring"
+          ],
+          "environmental_issues": [
+            "Commitment to carbon neutrality by 2025"
+          ],
+          "social_issues": [
+            "Declining employee morale and dissatisfaction with return-to-office policies",
+            "Customer dissatisfaction with pricing and migration challenges"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and potential financial penalties",
+            "Opaque pricing models and licensing agreements"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Why Doesn't SAP Publish Its Price List? - ASUG",
+              "snippet": "SAP's Welsh points out that pricing for SAP's \"uniform deployment solutions\" is public. For instance, its on-demand ERP suite, Business ByDesign, will cost customers $149 per user, per month , with access to the full suite, including no additional fees for the service (there is a 10-user minimum).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733375+00:00",
+              "published_date": null,
+              "source_hash": "be218ed72a7d5cdc50e59845531abf9b"
+            },
+            {
+              "url": "",
+              "title": "SAP licenses: how companies are reducing their costs - T-Systems",
+              "snippet": "Now, the license matrix is made up of a wide range of parameters. There are several pricing tiers and a digital licensing model that bases fees on the number of transactions made. It is also still possible to license SAP systems on a per-user basis. It is virtually impossible to handle the increasing complexity with standard tools.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733510+00:00",
+              "published_date": null,
+              "source_hash": "92998aadd33338cb393b88ceb50b73a9"
+            },
+            {
+              "url": "",
+              "title": "SAP Reportedly Faces Expanded DOJ Probe for Alleged Price Fixing",
+              "snippet": "SAP SE SAP is facing an intensified investigation by U.S. prosecutors for possible price-fixing alongside Carahsoft Technology Corp. The investigation now includes their work with almost 100 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733545+00:00",
+              "published_date": null,
+              "source_hash": "e18a6d90780a52644ce41627f862eda1"
+            },
+            {
+              "url": "",
+              "title": "SAP Licensing Costs & Fees",
+              "snippet": "Subscription Pricing. SAP subscription pricing offers a pay-as-you-go model, which provides organizations with flexibility and scalability. In this model, businesses pay a recurring fee, typically monthly or yearly, that covers both software access and the underlying infrastructure (in case of cloud deployment). Benefits: The subscription model eliminates high upfront costs, making it easier ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733571+00:00",
+              "published_date": null,
+              "source_hash": "43feb6472b249e1a08793188be956e3e"
+            },
+            {
+              "url": "",
+              "title": "SAP Licensing Challenges",
+              "snippet": "SAP Licensing Challenges. Complex Licensing Models: SAP's licensing structures with various metrics and conditions can be difficult to navigate.; Indirect Access: Licensing for third-party system access can lead to unexpected costs.; Compliance Risks: Ensuring compliance with contract terms is challenging, risking audits and penalties.; Cost Management: Managing and optimizing SAP licensing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733601+00:00",
+              "published_date": null,
+              "source_hash": "f699f164b8356ae51e15323230fdde22"
+            },
+            {
+              "url": "",
+              "title": "Get more licenses for less with SAP price tiering - The Register",
+              "snippet": "SAP's tiered pricing sometimes means it is cheaper for users to buy more software licenses than they need under its RISE with SAP package. Evidence presented to an ITAM Forum webinar shows how, under the pricing structure, buying 6,001 licenses would be cheaper than buying 5,000, something users should be aware of before they step into the enterprise application vendor's preferred elevator to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733625+00:00",
+              "published_date": null,
+              "source_hash": "7056ab1c48513b7b08ad5f6b76b960a3"
+            },
+            {
+              "url": "",
+              "title": "Decoding Licenses: Updates and Changes in SAP Licensing - SAPPulse.com",
+              "snippet": "Indirect Access: SAP has revised its definition of indirect access to provide clarity and ensure fair pricing for customers using third-party systems to access SAP data. Digital Core Licensing: With the rise of cloud computing and hybrid landscapes, SAP has introduced a new licensing model called Digital Core.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733649+00:00",
+              "published_date": null,
+              "source_hash": "41c53b8dbf8e03ee629afc6632503e1e"
+            },
+            {
+              "url": "",
+              "title": "The Evolution of SAP software licensing and Its impact on ... - LinkedIn",
+              "snippet": "These changes in SAP's licensing model have a direct impact on customers. While the subscription-based pricing may offer more flexibility and cost-effectiveness in the short term, customers may ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733673+00:00",
+              "published_date": null,
+              "source_hash": "9996e826bdf5b282920501183ca68889"
+            },
+            {
+              "url": "",
+              "title": "SAP co-CEO: We're working to fix software licensing, pricing complexity ...",
+              "snippet": "SAP is aware of widespread user discontent over the complexity involved with licensing rules and pricing for its software, and is working to remedy the situation, co-CEO Jim Hagemann Snabe said in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733695+00:00",
+              "published_date": null,
+              "source_hash": "0c423ec792c7479c36007ca9ff8616b9"
+            },
+            {
+              "url": "",
+              "title": "Avoid These Licensing and Pricing Pitfalls When Negotiating SAP Deals",
+              "snippet": "Due to the complexity of SAP's pricing and licensing, clients are often caught by surprises in their contracts that go unnoticed until it's too late. Sourcing, procurement and vendor management leaders can use this research to uncover these 10 common risks and work to mitigate them. Included in Full Research.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:31.733717+00:00",
+              "published_date": null,
+              "source_hash": "c60f6c4c76a3f21e091008d222c30ca0"
+            },
+            {
+              "url": "",
+              "title": "Jim Cramer Says SAP SE (SAP) 'Got A Really Good Product', Shares Up More Than 4% in October",
+              "snippet": "In this article, we are going to take a look at where SAP SE (NYSE:SAP) stands against the other SaaS stocks. As 2024 comes to a close, the software-as-a-service or SaaS industry has been shaken ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:35.201162+00:00",
+              "published_date": "2025-01-01T05:28:00+00:00",
+              "source_hash": "25baafaf5b0012caf88b8f1a6417fe35"
+            },
+            {
+              "url": "",
+              "title": "SAP SE (SAP) and Amazon Launch 'GROW with SAP on AWS' to Simplify Cloud ERP Adoption with AI Integration",
+              "snippet": "In this article, we are going to take a look at where SAP SE (NYSE:SAP) stands against the other AI stocks that broke the Internet recently. U.S. e-commerce sales hit a record this year on the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE pricing and licensing controversies",
+              "retrieved_at": "2025-01-06T18:18:35.201271+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "7511dc62da51a45bd9c1f5ac2f49ab7e"
+            },
+            {
+              "url": "",
+              "title": "SAP Layoffs - TheLayoff.com",
+              "snippet": "SAP Layoffs: Downsizing related discussion, postings, questions and answers. TheLayoff.com Latest Posts ... We had 107,602 full-time employees at the end of December 2023 (according to SAP press info) . CK said that... \u2014 read more . 11 days ago by Anonymous | 3351 views | | 19 replies (last 1 day ago) Post ID: @OP+1w7vKIr7. SAP mentioned in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.873927+00:00",
+              "published_date": null,
+              "source_hash": "df85f3abff8ec669a516b7f23a05fd41"
+            },
+            {
+              "url": "",
+              "title": "Layoffs at SAP: 8,000 Employees Impacted - Whitten & Lublin",
+              "snippet": "Restructure details regarding Layoffs at SAP. Layoffs at SAP impact 8,000 employees. German tech major SAP has announced a 2 billion euro ($2.17 billion) restructuring program for 2024, as it focuses on AI. \"In 2024, SAP will further increase its focus on key strategic growth areas, in particular Business AI.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874053+00:00",
+              "published_date": null,
+              "source_hash": "ee3261c5a43439becbec34309e69b0a7"
+            },
+            {
+              "url": "",
+              "title": "SAP Staff Morale Plunges in Internal Survey Amid Restructuring",
+              "snippet": "(Bloomberg) -- SAP SE is facing swelling discontent among employees in its home market, according to an internal survey, as Chief Executive Officer Christian Klein pushes through a restructuring ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874073+00:00",
+              "published_date": null,
+              "source_hash": "ef779681671c2f999531223b31cfc958"
+            },
+            {
+              "url": "",
+              "title": "SAP plans to lay off 3,000 workers amid tech layoff wave",
+              "snippet": "European software giant SAP SE plans to lay off up to 3,000 workers as part of a restructuring program, the company announced Thursday. SAP SAP disclosed alongside its fourth-quarter earnings that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874086+00:00",
+              "published_date": null,
+              "source_hash": "51da443c6adbd11e69bbf3ee251f7b5d"
+            },
+            {
+              "url": "",
+              "title": "SAP Layoffs 2023: What to Know About the Latest SAP Job Cuts",
+              "snippet": "SAP (NYSE: SAP) layoffs are a hot topic on Thursday as the company plans to reduce its workforce by 3,000 employees.. SAP intends to cut its global workforce by 2.5%. It expects to see 300 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874099+00:00",
+              "published_date": null,
+              "source_hash": "c83a2788c48cb50efed88bd4a2c52fa5"
+            },
+            {
+              "url": "",
+              "title": "SAP eliminated 3,000 jobs. It's now hiring 1,000 mission-critical roles ...",
+              "snippet": "Layoffs are a sensitive subject, especially for affected employees, and companies that opt to hire while reducing headcount should do so with careful consideration. \"We're a very values-based ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874111+00:00",
+              "published_date": null,
+              "source_hash": "a11afa54f9242892631524b5e6c97cf4"
+            },
+            {
+              "url": "",
+              "title": "SAP Layoffs Will Target 3,000 Employees - Dice",
+              "snippet": "SAP Layoffs Will Target 3,000 Employees. by Nick Kolakowski Jan 30, 2023 2 min read SAP has become the latest tech giant to announce layoffs. The enterprise software company plans on reducing its workforce by 2.5 percent, or roughly 3,000 employees. It may also divest Qaultrics, the business software company it acquired in late 2018 for $8 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874123+00:00",
+              "published_date": null,
+              "source_hash": "80608012807569651c2d99f56c273487"
+            },
+            {
+              "url": "",
+              "title": "SAP To Cut Up To 3,000 Jobs, About 2.5 Percent Of Its Workforce",
+              "snippet": "Wednesday IBM confirmed layoffs that could number up to 3,000 employees. The SAP layoffs come despite solid fourth-quarter financial results, including a 6 percent increase in revenue and a 30 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874136+00:00",
+              "published_date": null,
+              "source_hash": "6466c346eca151f4cb2126a50f905a32"
+            },
+            {
+              "url": "",
+              "title": "SAP Layoffs: What CIOs Should Know | InformationWeek",
+              "snippet": "Despite the layoffs announcement, SAP's cloud revenue for the fiscal year 2022 increased 33%. SAP CEO Christian Klein told CNBC that its cloud momentum increased in the fourth quarter of 2022 with S4/HANA, the company's enterprise resource planning software. \"Cloud revenue is also accelerating once again and growing at 90%,\" Klein said.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874147+00:00",
+              "published_date": null,
+              "source_hash": "007d3b93c7f6098bbf078c64f328b8df"
+            },
+            {
+              "url": "",
+              "title": "SAP Layoffs: Software giant SAP announces layoffs to focus ... - Times Now",
+              "snippet": "Software Giant SAP has announced layoffs. SAP Layoffs will be held in order for the German company to focus on its \"core business\". Around 3,000 employees expected to be fired in this round of layoffs. 2.5 percent of SAP's workforce will be impacted by these layoffs. Details shared below. .",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:37.874159+00:00",
+              "published_date": null,
+              "source_hash": "5ae4ab8da4147cb05af065ff24d37dce"
+            },
+            {
+              "url": "",
+              "title": "SAP plans job changes or buyouts for 8,000 employees in restructuring plan",
+              "snippet": "SAP had about 108,000 full-time employees at the end of 2023, meaning that the restructuring will affect over 7% of the workforce. A year ago the company said it would get rid of 3,000 roles.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:41.425500+00:00",
+              "published_date": "2024-01-23T22:49:00+00:00",
+              "source_hash": "c9a5f942ed451d06be0b40c6dd5a9a2f"
+            },
+            {
+              "url": "",
+              "title": "SAP announces restructuring to impact 10,000 employees in 2025",
+              "snippet": "This increase is largely attributed to the strong employee response to voluntary leave options. Despite the significant number of affected positions, SAP anticipates its overall headcount at the end of 2024 to remain similar to year-end 2023 levels ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:41.425607+00:00",
+              "published_date": "2024-07-23T00:00:00+00:00",
+              "source_hash": "f5a602a1a7ff2ddaa6b7aaa70564f97b"
+            },
+            {
+              "url": "",
+              "title": "SAP Employees Protest Return-to-Office Policy",
+              "snippet": "(Bloomberg) -- An internal letter criticizing SAP SE's back-to-office policy has attracted more than 5,000 signatures in less than two weeks, with the German software company's employees ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:41.425640+00:00",
+              "published_date": "2024-01-31T21:08:00+00:00",
+              "source_hash": "f637d10d26691897a49d10040eda4284"
+            },
+            {
+              "url": "",
+              "title": "SAP layoffs hidden behind transformation program, European Works Council claims",
+              "snippet": "We are committed to carrying out this restructuring, which will impact 8,000 positions ... in relevant regions.\" SAP also committed to notifying affected employees within the coming weeks ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:41.425668+00:00",
+              "published_date": "2024-04-11T13:04:00+00:00",
+              "source_hash": "6a125db98a7d6a6733a5467afc5ceb22"
+            },
+            {
+              "url": "",
+              "title": "Intel leads 2024 tech layoffs, but sector lays off 43% less year over year",
+              "snippet": "Intel (NASDAQ:INTC), a company which featured more downs than ups in 2024, led the tech sector in layoffs with approximately 15,000 employees let go during the year. However, the total number of tech workers terminated declined by 43% year over year,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SAP SE SAP SE employee layoffs 2023 impact",
+              "retrieved_at": "2025-01-06T18:18:41.425689+00:00",
+              "published_date": "2024-12-28T14:00:00+00:00",
+              "source_hash": "ab86c029998edea4490e3cb5e9ee4c39"
+            },
+            {
+              "url": "",
+              "title": "Threat Actor 888 Allegedly Claims Leak of SAP Employees Data",
+              "snippet": "A Twitter account known as DarkWebInformer has claimed that a notorious hacker, identified only by the alias \"888,\" has allegedly leaked sensitive data belonging to SAP employees.. A member of BreachForums has claimed responsibility for leaking an employee database purportedly belonging to SAP SE, one of the world's leading enterprise software companies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098416+00:00",
+              "published_date": null,
+              "source_hash": "bd92bcaf0438c11ff96eca3d9e991d09"
+            },
+            {
+              "url": "",
+              "title": "Hackers Exploit Known SAP Security Vulnerabilities With a Typical Cyber ...",
+              "snippet": "A joint report by SAP and Onapsis warns that cyber attackers are actively exploited known SAP security vulnerabilities to steal information and compromise mission-critical SAP applications. SAP and Onapsis researchers warned that threat actors could leverage faults in unsecured SAP applications exposed to the Internet to commit financial fraud ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098525+00:00",
+              "published_date": null,
+              "source_hash": "6a143af32925d1529d0b7770f4749b80"
+            },
+            {
+              "url": "",
+              "title": "SAP Vulnerability Exploited in Attacks After Details Disclosed at ...",
+              "snippet": "Malware & Threats SAP Vulnerability Exploited in Attacks After Details Disclosed at Hacker Conferences. The US Cybersecurity and Infrastructure Security Agency (CISA) has added a critical SAP vulnerability to its Known Exploited Vulnerabilities Catalog less than one week after its details were disclosed at the Black Hat and Def Con hacker conferences.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098541+00:00",
+              "published_date": null,
+              "source_hash": "e9224e29588e58d734b76430e290ebed"
+            },
+            {
+              "url": "",
+              "title": "SAP discloses security lapses; says there was no data breach",
+              "snippet": "Business software group SAP disclosed on Tuesday that some of its cloud products did not meet contractual or statutory security standards and said it would take remedial action to fix the problem ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098553+00:00",
+              "published_date": null,
+              "source_hash": "38ba359a03663deb7bc9e8fe4ee00cde"
+            },
+            {
+              "url": "",
+              "title": "SAP Applications Increasingly in Attacker Crosshairs, Report Shows",
+              "snippet": "Over the past three years, ransomware attacks against SAP systems went up 400%, the same as the price brokers are willing to pay for exploits targeting SAP vulnerabilities, the report said [PDF]. On hacker forums, chatter related to SAP flaws and exploits went up 490%, while discussions related to SAP-specific cloud and web services increased 220%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098568+00:00",
+              "published_date": null,
+              "source_hash": "c668598fdc22114004cf64ecbd6451fe"
+            },
+            {
+              "url": "",
+              "title": " CYBERSECURITY THREATS TO SAP SYSTEMS - SAPinsider",
+              "snippet": "(29%), data protection compliance (23%), and cyber risk from connections to other systems (18%). These indicate the increas-ing importance of data integrity and availability that is driving security concerns in the SAP landscape (See DARTdiagram on page 9). Protecting secure and confidential data is a complex subject",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098580+00:00",
+              "published_date": null,
+              "source_hash": "ccef4e761c2957609d10f70160bf9c96"
+            },
+            {
+              "url": "",
+              "title": "Increasing SAP Security Threats and How to Prevent Them",
+              "snippet": "According to IBM's 2023 Data Breach Report, the global average cost of a data breach this year was $4.45 million, a 15% increase over 3 years. Companies running SAP should focus on additional security checkpoints to protect their business from cyber threats that will cause significant damage.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098593+00:00",
+              "published_date": null,
+              "source_hash": "43a4c9bdc1565cebbdf8c599d0372e66"
+            },
+            {
+              "url": "",
+              "title": "SAP AI Core Vulnerabilities Allowed Service Takeover, Customer Data ...",
+              "snippet": "SAP's AI Core service was until recently affected by vulnerabilities that could have allowed attackers to take over the service and access customer data, cloud security giant Wiz reported on Wednesday. Part of the SAP Business Technology Platform, SAP AI Core enables users to develop, train and run AI services.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098605+00:00",
+              "published_date": null,
+              "source_hash": "4fd36364226f5ed400d4652be14278c5"
+            },
+            {
+              "url": "",
+              "title": "A Guide to Handling SAP Security Breaches - Cybersecurity Insiders",
+              "snippet": "In those cases, contacting the SAP security team immediately could make a big difference in preventing authorized accounts from being misused. There's never a good time to experience an SAP breach, but companies that have a plan to address it quickly and effectively will fare better in both the short and long term than those that don't. SAP ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098615+00:00",
+              "published_date": null,
+              "source_hash": "47eaaf8634e911c370ffb82003516489"
+            },
+            {
+              "url": "",
+              "title": "Case study of SAP SE where threat actor 888 claimed leak of employees' data",
+              "snippet": "Alleged Hacker \"888\" May Have Leaked Data of 2,600 SAP Employees. Cybersecurity experts urge SAP to investigate claims of a data breach impacting employee information and to strengthen its security posture to prevent future incidents.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SAP SE SAP SE data privacy and security breaches",
+              "retrieved_at": "2025-01-06T18:18:43.098627+00:00",
+              "published_date": null,
+              "source_hash": "65c7333226600510adf62dd9639a6652"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "SAP SE pricing and licensing controversies",
+              "rationale": "Investigate customer complaints and legal disputes related to SAP's pricing models and licensing agreements",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "SAP SE employee layoffs 2023 impact",
+              "rationale": "Assess the social and ethical implications of SAP's workforce restructuring and layoffs in 2023",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "SAP SE data privacy and security breaches",
+              "rationale": "Examine incidents of data privacy violations and cybersecurity breaches involving SAP's software solutions",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:19:01.029127",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

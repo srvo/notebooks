@@ -1,0 +1,397 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:33:10.980464",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Chemed Corp",
+      "symbol": "CHE",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal risks due to False Claims Act settlement",
+            "Labor shortages in both VITAS and Roto-Rooter",
+            "Economic sensitivity of Roto-Rooter to housing market and consumer spending"
+          ],
+          "controversies": [
+            "$75 million settlement for false Medicare billings by VITAS Healthcare",
+            "Allegations of enrolling ineligible patients in hospice care"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical concerns over hospice care practices",
+            "Reputational damage from regulatory and legal issues"
+          ],
+          "governance_issues": [
+            "Compliance failures leading to regulatory scrutiny",
+            "Potential governance lapses in oversight of billing practices"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Office of Public Affairs | Chemed Corp. and Vitas Hospice Services ...",
+              "snippet": "Chemed Corporation and various wholly-owned subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation, have agreed to pay $75 million to resolve a government lawsuit alleging that defendants violated the False Claims Act (FCA) by submitting false claims for hospice services to Medicare. Chemed, which is based in Cincinnati, Ohio, acquired Vitas in",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928322+00:00",
+              "published_date": null,
+              "source_hash": "0627ff4416d57c335b64c46d3ca094cb"
+            },
+            {
+              "url": "",
+              "title": "United States Files False Claims Act Lawsuit - United States Department ...",
+              "snippet": "The United States has filed suit against Chemed Corporation and various wholly owned hospice subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation, alleging false Medicare billings for hospice services, the Justice Department announced today. Vitas is the largest for-profit hospice chain in the United States and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.811980+00:00",
+              "published_date": null,
+              "source_hash": "b511f5d188fc5694230847014a00366a"
+            },
+            {
+              "url": "",
+              "title": "Chemed Corp. and Vitas Hospice Services Agree to Pay $75 Million to ...",
+              "snippet": "Chemed Corporation and various wholly-owned subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation, have agreed to pay $75 million to resolve a government lawsuit alleging that defendants violated the False Claims Act (FCA) by submitting false claims for hospice services to Medicare. Chemed, which is based in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.811998+00:00",
+              "published_date": null,
+              "source_hash": "d7e1bf3ed1c68144e3dd2364d31800c3"
+            },
+            {
+              "url": "",
+              "title": "$75 Million Settlement reached to resolve False Claims Act Allegations ...",
+              "snippet": "The allegations arose from a lawsuit that claimed Chemed Corporation and various wholly-owned subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation submitted false claims for hospice services to Medicare. According to the government, between 2002 and 2013 Vitas knowingly submitted or caused to be submitted false ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.812011+00:00",
+              "published_date": null,
+              "source_hash": "74fc69bdaed81f9970d3ce6f1f92b9e8"
+            },
+            {
+              "url": "",
+              "title": "Largest-ever False Claims Act settlement with hospice provider",
+              "snippet": "On October 30, 2017, the Department of Justice (DOJ) announced a $75 million settlement (the largest-ever settlement under the False Claims Act with a hospice provider) with Chemed Corporation, a Cincinnati-based operator of Vitas Hospice Services LLC and Vitas Healthcare Corp. (Vitas), to resolve allegations that between 2002 and 2013, Vitas submitted false claims to Medicare under the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928360+00:00",
+              "published_date": null,
+              "source_hash": "a37294dbdd6100e26a98a0cab8eb7c57"
+            },
+            {
+              "url": "",
+              "title": "$75M Medicare Whistleblower Settlement to be Paid by Chemed",
+              "snippet": "The largest Medicare whistleblower settlement of $75 million will be paid by Chemed, a deal that was announced Monday, Oct. 30, 2017. Chemed did not admit liability, but its subsidiaries allegedly submitted false Medicare claims that gave rise to a government lawsuit and three whistleblower suits that were filed in the states of California, Illinois and Texas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.812045+00:00",
+              "published_date": null,
+              "source_hash": "d4a7b210e8579f1b3781d2ab71c7b217"
+            },
+            {
+              "url": "",
+              "title": "Largest For-Profit Hospice Provider Sued by DOJ for Medicare Fraud",
+              "snippet": "Chemed Corporation, the largest for-profit hospice chain in the United States, has been accused of fraudulent Medicare billing for hospice and healthcare services\u2014such as crisis care for a patient who was playing bingo part of the time\u2014the Department of Justice announced on Thursday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.812057+00:00",
+              "published_date": null,
+              "source_hash": "2cffb7d09a220f9e34e421309089dea8"
+            },
+            {
+              "url": "",
+              "title": "Biggest U.S. Hospice Co Defrauded Medicare, Feds Charge",
+              "snippet": "Vitas Hospice Services and its parent company, Chemed Corp. of Cincinnati, are accused of having \"misspent tens of millions of taxpayer dollars from the Medicare program,\" according to a statement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.812072+00:00",
+              "published_date": null,
+              "source_hash": "25831c9e18a4ff7d11fe60ac6effc906"
+            },
+            {
+              "url": "",
+              "title": "Hospice provider to pay record-setting $75 million false claims ...",
+              "snippet": "The federal suit, which was filed in 2013 and also named Vitas' parent company Chemed Corporation, additionally claims the provider submitted false Medicare claims for unnecessary home care ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928402+00:00",
+              "published_date": null,
+              "source_hash": "90ce7e044563a6bc6321d4e45f9f2760"
+            },
+            {
+              "url": "",
+              "title": "Cases & Clients - Miner, Barnhill & Galland, P.C.",
+              "snippet": "On October 30, 2017, the Department of Justice announced that Chemed Corporation and its wholly-owned subsidiaries Vitas Hospice Services LLC and Vitas Healthcare Corporation (\"Vitas\") agreed to pay $75 million to resolve allegations that they violated the False Claims Act (FCA) by submitting false claims for hospice services to Medicare.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp Medicare billing controversies",
+              "retrieved_at": "2025-01-06T16:32:43.812102+00:00",
+              "published_date": null,
+              "source_hash": "00616d9e4a26ac9f97575de421bc8250"
+            },
+            {
+              "url": "",
+              "title": "United States Files False Claims Act Lawsuit - United States Department ...",
+              "snippet": "The United States has filed suit against Chemed Corporation and various wholly owned hospice subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation, alleging false Medicare billings for hospice services, the Justice Department announced today. ... As an example, the Complaint alleges that Vitas admitted a patient to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928214+00:00",
+              "published_date": null,
+              "source_hash": "65d7cc37d2c77e97b61215ffaa0cc64b"
+            },
+            {
+              "url": "",
+              "title": "[Updated] $75 Million FCA Settlement is Largest-Ever for a Hospice",
+              "snippet": "The resolution is the largest amount recovered from a provider of hospice services under the False Claims Act, according to the DOJ. Chemed Corporation (NYSE: CHE) and wholly owned subsidiaries, including Vitas Hospice Services and Vitas Healthcare\u2014the nation's largest for-profit hospice chain\u2014settled with the Justice Department.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928342+00:00",
+              "published_date": null,
+              "source_hash": "71e9b42b3c2ec1a16c587acc3ad3eeb8"
+            },
+            {
+              "url": "",
+              "title": "United States Files False Claims Act Lawsuit against the Largest For ...",
+              "snippet": "The United States has filed suit against Chemed Corporation and various wholly owned hospice subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation, alleging false Medicare billings for hospice services, the Justice Department announced today. ... Vitas is the largest for-profit hospice chain in the United States ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928371+00:00",
+              "published_date": null,
+              "source_hash": "c43c8113702cdb6c1da1c5788897b0a4"
+            },
+            {
+              "url": "",
+              "title": "$75 Million Settlement reached to resolve False Claims Act Allegations ...",
+              "snippet": "A settlement has been reached to resolve False Claims Act allegations against Chemed Corporation and Vitas Hospice Services. The allegations arose from a lawsuit that claimed Chemed Corporation and various wholly-owned subsidiaries, including Vitas Hospice Services LLC and Vitas Healthcare Corporation submitted false claims for hospice services to Medicare.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928381+00:00",
+              "published_date": null,
+              "source_hash": "308ea79224fddae14dc2cdeaaf19cfe5"
+            },
+            {
+              "url": "",
+              "title": "MBG Represents Whistleblower in Largest False Claims Act Hospice ...",
+              "snippet": "On October 30, 2017, the Department of Justice announced that Chemed Corporation and its wholly-owned subsidiaries Vitas Hospice Services LLC and Vitas Healthcare Corporation (\"Vitas\") agreed to pay $75 million to resolve allegations that they violated the False Claims Act (FCA) by submitting false claims for hospice services to Medicare.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928392+00:00",
+              "published_date": null,
+              "source_hash": "e2e556a32d6fd06aa8aaae971a931f29"
+            },
+            {
+              "url": "",
+              "title": "Nation's Largest Hospice Chain Faces False Claims Act Lawsuit for ...",
+              "snippet": "The U.S. Department of Justice (DOJ) announced a False Claims Act lawsuit earlier this month against the nation's largest for-profit hospice chain. Vitas",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928411+00:00",
+              "published_date": null,
+              "source_hash": "d4f789172e9158466495ebd9e422aea7"
+            },
+            {
+              "url": "",
+              "title": "Local company reaches settlement in overbilling for hospice services - WKRC",
+              "snippet": "CINCINNATI (WKRC) - A local company agreed to a $75-million settlement over alleged overbilling of hospice services.Chemed Corporation's subsidiary, Vitas Health Care, is accused of submitting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Chemed Corp Chemed Corp hospice patient eligibility concerns",
+              "retrieved_at": "2025-01-06T16:32:47.928420+00:00",
+              "published_date": null,
+              "source_hash": "c1c8565b974747c02dd29256e8e60046"
+            },
+            {
+              "url": "",
+              "title": "Chemed Reports Third-Quarter 2024 Results - Morningstar",
+              "snippet": "Chemed Reports Third-Quarter 2024 Results. Chemed Corporation (Chemed) (NYSE: CHE),which operates VITAS Healthcare Corporation (VITAS), one of the nation's largest providers of end-of-life care ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860658+00:00",
+              "published_date": null,
+              "source_hash": "6a2a7549c7bbd8a5aa8eb094edb0b8e4"
+            },
+            {
+              "url": "",
+              "title": "Chemed Reports Third-Quarter 2024 Results - Yahoo Finance",
+              "snippet": "CINCINNATI, October 29, 2024--Chemed Corporation (Chemed) (NYSE: CHE), which operates VITAS Healthcare Corporation (VITAS), one of the nation's largest providers of end-of-life care, and Roto ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860691+00:00",
+              "published_date": null,
+              "source_hash": "f44f655c9f663502f5a1c787252bfe34"
+            },
+            {
+              "url": "",
+              "title": "VITAS Optimistic About Acquisitions for 'First Time in Long Time'",
+              "snippet": "Workforce shortages and patient-census dips remained the most biting headwinds at the close of last year for Chemed Corporation's (NYSE:CHE) VITAS Healthcare. Despite those challenges, the company is optimistic in its acquisition pipeline and M&A plans \"for the first time in a long time,\" according to executives.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860700+00:00",
+              "published_date": null,
+              "source_hash": "6aa7cf57c3a6757a5a68e6afbf0b56ba"
+            },
+            {
+              "url": "",
+              "title": "Chemed Reports Fourth-Quarter 2023 Results - Chemed Corporation",
+              "snippet": "CINCINNATI--(BUSINESS WIRE)--Feb. 27, 2024-- Chemed Corporation (Chemed) (NYSE: CHE), which operates VITAS Healthcare Corporation (VITAS), one of the nation's largest providers of end-of-life care, and Roto-Rooter, the nation's largest commercial and residential plumbing and drain cleaning services provider, reported financial results for its fourth quarter ended December 31, 2023, versus ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860707+00:00",
+              "published_date": null,
+              "source_hash": "9f25836d055f4f543681712a3dfa2230"
+            },
+            {
+              "url": "",
+              "title": "Staffing Pressures Top of Mind for VITAS Healthcare",
+              "snippet": "COVID-19 headwinds continue to pose obstacles for hospice providers nationwide, including VITAS Healthcare, a subsidiary of Chemed Corp. (NYSE: CHEM). The company has recently seen drops in its patient census due to pandemic-related disruption, and maintaining staffing levels remains a top priority amid industry-wide shortages.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860713+00:00",
+              "published_date": null,
+              "source_hash": "e4209845fe4e38f5e129978190dc8359"
+            },
+            {
+              "url": "",
+              "title": "Chemed Corporation (CHE) Q3 2021 Earnings Call Transcript",
+              "snippet": "Chemed Corporation (CHE 0.64%) Q3 2021 ... especially in the context of the broad-based labor shortages, labor pressure? ... And for the pricing market basket, impact is 2.2%, Frank, what we're ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860719+00:00",
+              "published_date": null,
+              "source_hash": "4417e4674a36e6775061597264306941"
+            },
+            {
+              "url": "",
+              "title": "CHE Intrinsic Valuation and Fundamental Analysis - Chemed Corp - Alpha ...",
+              "snippet": "Chemed Corp (NYSE:CHE) Intrinsic Valuation. Check if CHE is overvalued or undervalued under the bear, base, and bull scenarios of the company's future. ... Labor Shortages: The healthcare sector is experiencing workforce shortages, particularly in nursing and healthcare support roles. Finding and retaining qualified personnel is critical to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860725+00:00",
+              "published_date": null,
+              "source_hash": "a5401c0cd4c4b7909d040a3c67d4ab20"
+            },
+            {
+              "url": "",
+              "title": "Chemed Reports First-Quarter 2024 Results - Business Wire",
+              "snippet": "Chemed Corporation (Chemed) (NYSE: CHE), which operates VITAS Healthcare Corporation (VITAS), one of the nation's largest providers of end-of-life car Chemed Reports First-Quarter 2024 Results ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860731+00:00",
+              "published_date": null,
+              "source_hash": "7b77693599226bb82943d6444bf51550"
+            },
+            {
+              "url": "",
+              "title": "Chemed Reports Fourth-Quarter 2021 Results - Chemed Corporation",
+              "snippet": "CINCINNATI--(BUSINESS WIRE)--Feb. 24, 2022-- Chemed Corporation (Chemed) (NYSE: CHE), which operates VITAS Healthcare Corporation (VITAS), one of the nation's largest providers of end-of-life care, and Roto-Rooter, the nation's largest commercial and residential plumbing and drain cleaning services provider, reported financial results for its fourth quarter ended December 31, 2021, versus ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860736+00:00",
+              "published_date": null,
+              "source_hash": "255aa8193aece1bd8b037a3d12d912d1"
+            },
+            {
+              "url": "",
+              "title": "Reasons to Retain Chemed Stock in Your Portfolio Now - Yahoo Finance",
+              "snippet": "Chemed Corporation CHE is expected to grow in the upcoming quarters, backed by the prospects of the VITAS business. Strength within the company's Roto-rooter brand looks impressive.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Chemed Corp Chemed Corp labor shortages impact",
+              "retrieved_at": "2025-01-06T16:32:51.860742+00:00",
+              "published_date": null,
+              "source_hash": "d0dd7c40cd7cf880f6593409111a0115"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Chemed Corp Medicare billing controversies",
+              "rationale": "Investigate potential legal and financial risks related to Medicare billing practices at VITAS Healthcare",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Chemed Corp hospice patient eligibility concerns",
+              "rationale": "Explore ethical and social risks tied to allegations of enrolling ineligible patients in hospice care",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Chemed Corp labor shortages impact",
+              "rationale": "Assess financial and operational risks from labor shortages in both VITAS Healthcare and Roto-Rooter",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:33:10.980475",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

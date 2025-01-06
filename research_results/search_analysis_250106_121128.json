@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:11:28.523647",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Lilium N.V.",
+      "symbol": "LILM",
+      "analysis": {
+        "historical": {
+          "risk_score": 85,
+          "key_risks": [
+            "Financial instability and insolvency concerns due to layoffs and inability to secure sufficient funding",
+            "Regulatory and certification challenges with EASA and FAA",
+            "Technological and market risks including underestimation of hover time and uncertain market adoption",
+            "Legal and securities issues with multiple class-action lawsuits",
+            "Environmental and safety concerns regarding energy consumption and infrastructure development"
+          ],
+          "controversies": [
+            "Subsidiaries filing for insolvency and significant layoffs",
+            "Class-action lawsuits alleging securities law violations",
+            "Debates over the environmental impact and safety of eVTOL aircraft"
+          ],
+          "environmental_issues": [
+            "Environmental impact of large-scale eVTOL operations, including energy consumption and infrastructure development"
+          ],
+          "social_issues": [
+            "Layoffs affecting approximately 1,000 employees, representing the bulk of the workforce"
+          ],
+          "governance_issues": [
+            "Legal issues and securities law violations leading to class-action lawsuits"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Lilium N.V. Subsidiaries File for Insolvency Amid ... - TipRanks",
+              "snippet": "More about Lilium. Lilium N.V. is a company in the aviation industry, focusing on the development and manufacturing of electric vertical takeoff and landing (eVTOL) aircraft. It is engaged in creating innovative flying solutions that aim to transform regional air mobility. YTD Price Performance:-88.73%. Average Trading Volume: 16,150,520",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398544+00:00",
+              "published_date": null,
+              "source_hash": "e45fb344a4fe5267d4e33ab987f8ce94"
+            },
+            {
+              "url": "",
+              "title": "Means of Compliance proposals submitted for Lilium Jet, in latest ...",
+              "snippet": "MUNICH, Germany, April 12, 2022: Lilium N.V. (NASDAQ: LILM) (\"Lilium\"), developer of the first all-electric vertical take-off and landing (\"eVTOL\") jet, announced today that it has submitted a full set of Means of Compliance proposals to the European Union Aviation Safety Agency (\"EASA\") for the type certification of the Lilium Jet.The submission to EASA represents a milestone on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398669+00:00",
+              "published_date": null,
+              "source_hash": "369e4bc3271ded70ebf19eb390f7785d"
+            },
+            {
+              "url": "",
+              "title": "Lilium Launches M&A Process with KPMG, Targets Program Continuation ...",
+              "snippet": "Lilium N.V. (Nasdaq: LILM), a leading electric aircraft manufacturer and pioneer in Regional Air Mobility (RAM), announces that it has appointed KPMG to conduct an open, transparent and fair M&A process. ... Lilium remain fully focused on re-emerging following restructuring, with fresh investment to support the all-electric Lilium Jet's path ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398688+00:00",
+              "published_date": null,
+              "source_hash": "aa119c6882e7a36fad8cd2d1eda3df13"
+            },
+            {
+              "url": "",
+              "title": "Air-taxi maker Lilium to file for insolvency after failed fundraising ...",
+              "snippet": "Lilium was one of the few electric vertical take-off and landing (eVTOL) makers that debuted on stock exchanges in the U.S. earlier this decade following multi-billion dollar mergers with blank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398704+00:00",
+              "published_date": null,
+              "source_hash": "9bbb9c586352ab9947a90ed0ef477ac0"
+            },
+            {
+              "url": "",
+              "title": "Securities Claims Against Lilium N.V. for Electric Plane Production ...",
+              "snippet": "The complaint further alleged that Lilium's certification with the U.S. Federal Aviation Agency and European Union Aviation Safety Agency will cause a delay in releasing the product to the public ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398715+00:00",
+              "published_date": null,
+              "source_hash": "c1b78fe5495289bcebd0900250426e21"
+            },
+            {
+              "url": "",
+              "title": "Lilium N.V. Subsidiaries File for Insolvency Amid Restructuring Efforts",
+              "snippet": "More about Lilium Lilium N.V. is a company in the aviation industry, focusing on the development and manufacturing of electric vertical takeoff and landing (eVTOL) aircraft.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398727+00:00",
+              "published_date": null,
+              "source_hash": "21b98ec3dde2b3fee670b4ad87e3e086"
+            },
+            {
+              "url": "",
+              "title": "Lilium Embarks on Restructuring and New Investment Efforts",
+              "snippet": "Lilium N.V.,(Nasdaq: LILM) a developer of electric aircraft for Regional Air Mobility (RAM), recently announced it has engaged KPMG to oversee a structured and open M&A process. The Local Court of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398739+00:00",
+              "published_date": null,
+              "source_hash": "e735279b405ad132530de4abcc1a636a"
+            },
+            {
+              "url": "",
+              "title": "Lilium Launches M&A Process with KPMG, Targets Program Continuation ...",
+              "snippet": "Teams on the ground continue to work towards achieving program milestones; Lilium Jet fuselage enters static test rig Lilium N.V. (Nasdaq: LILM), a leading electric aircraft manufacturer and pioneer in Regional Air Mobility (RAM), announces that it has appointed KPMG to conduct an open, transparent and fair M&A process.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398749+00:00",
+              "published_date": null,
+              "source_hash": "59fa94eef2d8ec9f1525793bf59d03b2"
+            },
+            {
+              "url": "",
+              "title": "Lilium launches M&A Process with KPMG, targets program continuation ...",
+              "snippet": "Lilium has appointed KPMG to conduct an open, transparent and fair Mergers & Acquisitions (M&A) process and confirmed first investor briefings will start soon. The appointment of KPMG followed the local court of Weilheim's approval of the insolvency filing of Lilium's German subsidiaries and the court's granting of Lilium's application for self-administration.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398760+00:00",
+              "published_date": null,
+              "source_hash": "7f30a9122bee08949f3e2a53d43a6e89"
+            },
+            {
+              "url": "",
+              "title": "Lilium Launches M&A Process with KPMG, Targets Program Continuation ...",
+              "snippet": "Lilium NV is a Germany-based aviation company, formerly Lilium BV. The Company is focused on developing an electric vertical takeoff and landing (eVTOL) aircraft for use in air transport system for people and goods that offers connectivity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:10:57.398771+00:00",
+              "published_date": null,
+              "source_hash": "66393e9f7e7209a013d80af607fb5862"
+            },
+            {
+              "url": "",
+              "title": "Lilium N.V. Is Being Sued For Securities Law Violations And Affected Investors Are Urged To Contact The Schall Law Firm",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / January 3, 2025 / The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:11:00.659357+00:00",
+              "published_date": "2025-01-03T17:16:00+00:00",
+              "source_hash": "5b1fb03cd9d2ffecc1afba718127897b"
+            },
+            {
+              "url": "",
+              "title": "LILMF LAWSUIT ALERT: Levi & Korsinsky Notifies Lilium N.V. Investors of a Class Action Lawsuit and Upcoming Deadline",
+              "snippet": "WHAT'S NEXT? If you suffered a loss in Lilium N.V. during the relevant time frame, you have until January 6, 2025 to request that the Court appoint you as lead plaintiff. Your ability to share in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:11:00.659460+00:00",
+              "published_date": "2025-01-03T02:31:00+00:00",
+              "source_hash": "d86ac83cb63c73da6bda3edcd66ff00d"
+            },
+            {
+              "url": "",
+              "title": "Electric aircraft startup Lilium ceases operations, 1,000 workers laid off",
+              "snippet": "The layoffs cover the bulk of the company's workforce and come a few days after about 200 workers were let go, according to a regulatory filing on December 16. A spokesperson from Lilium ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:11:00.659491+00:00",
+              "published_date": "2024-12-23T17:35:00+00:00",
+              "source_hash": "3bd1f3ed1f73a7af0c8a8ebb3ddca51c"
+            },
+            {
+              "url": "",
+              "title": "Lilium N.V. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - LILM",
+              "snippet": "LOS ANGELES, Jan. 2, 2025 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Lilium N.V. (\"Lilium\" or \"the Company\") (NASDAQ: LILM) for violations of \u00a7\u00a710(b ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:11:00.659515+00:00",
+              "published_date": "2025-01-02T07:44:00+00:00",
+              "source_hash": "d8b0dc9e5c6d5b172a110be56c9c57b6"
+            },
+            {
+              "url": "",
+              "title": "Why Lilium Stock Is Taking Off Today",
+              "snippet": "Lilium N.V (NASDAQ:LILM) shares are trading higher Monday ... and become the first airline in the U.S. fully committed to integrating eVTOL aircraft into its fleet. \"We are proud that UrbanLink ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lilium N.V. Lilium N.V. regulatory delays eVTOL certification",
+              "retrieved_at": "2025-01-06T19:11:00.659548+00:00",
+              "published_date": "2024-05-06T14:55:00+00:00",
+              "source_hash": "96759f9dbd1dfd69d5cd19e2cb439e22"
+            },
+            {
+              "url": "",
+              "title": "\"Lilium GmbH and Lilium eAircraft GmbH plan on filing for insolvency ...",
+              "snippet": "According to a public filing of FORM 6-K to the US Securities and Exchange Commission, as published by the www.publicnow.com website, \"As previously reported, Lilium N.V. (the \"Company\" or \"Lilium\") has been engaged in fundraising initiatives to raise additional cash including from the German government and other sources.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546334+00:00",
+              "published_date": null,
+              "source_hash": "0341dae37fc536d677840005576b6c0f"
+            },
+            {
+              "url": "",
+              "title": "Lilium on the brink of bankruptcy: 5 things to know about German flying ...",
+              "snippet": "Lilium was established in 2015 by Daniel Wiegand, Sebastian Born, Matthias Meiner and Patrick Nathen. In 2019, the company revealed the prototype of its five-seater electric air taxi \u2014 Lilium Jet. The company focuses on developing eVTOL aircraft, aiming to create a new mode of urban air mobility. Flagship product - Lilium Jet",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546451+00:00",
+              "published_date": null,
+              "source_hash": "bece839ce6a0f65ad329b6b116ba8ecf"
+            },
+            {
+              "url": "",
+              "title": "Should Taxpayers Save Lilium ($LILM) from Bankruptcy? No, it's a fraud.",
+              "snippet": "After nine years and spending $1.5bn, Lilium has built what is essentially a big short-range drone. This is even more problematic for a company that has positioned itself as a regional transport provider, rather than an urban air mobility company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546475+00:00",
+              "published_date": null,
+              "source_hash": "496efa97e62dd09f1d339ed163dbac86"
+            },
+            {
+              "url": "",
+              "title": "The potential fall-out to the global advanced air mobility sector from ...",
+              "snippet": "At the Airspace World event in March 2024, Lilium showed its plans for a central European regional network of services, stretching from Venice to Frankfurt. Beyond this network, Lilium has an agreement with ASL Group for the sale of 60 Lilium Jets and the development of a network of landing sites in the Benelux countries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546491+00:00",
+              "published_date": null,
+              "source_hash": "5395e9fb73fb495c024b63835224f34d"
+            },
+            {
+              "url": "",
+              "title": "Onslaught of potential legal action for Lilium",
+              "snippet": "At the time, Lilium indicated that its second unit in final assembly (MSN2) - the first aircraft it intended to fly with a pilot on board - would take to the skies \"in early 2025\". Lilium also stated that it intended type certification and entry into service to happen in 2026. Lilium has declined to comment on the matter.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546503+00:00",
+              "published_date": null,
+              "source_hash": "c8c8eee3c0cab48a0d7455838d289299"
+            },
+            {
+              "url": "",
+              "title": "Lilium issues update on M&A process and Lilium Jet programme progress",
+              "snippet": "Lilium GmbH has confirmed today that the KPMG-led M&A process aimed at delivering the company's financial restructuring continues. \"In parallel, Lilium reports continuing programme momentum both on the commercial and technology side as the company gears up towards first manned flight of the all-electric Lilium Jet,\" said the company in a press release.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546516+00:00",
+              "published_date": null,
+              "source_hash": "9ebb3770933e835b500cf4f22417159e"
+            },
+            {
+              "url": "",
+              "title": "Opportunity Opens for LILM, LILMF Investors to Spearhead Securities ...",
+              "snippet": "Investors in Lilium N.V., a forefront company in electric air mobility, may have the chance to spearhead a securities fraud lawsuit centered around allegations of misleading financial information and business prospects. ... 2021, when Lilium announced plans to go public through a merger with a special acquisition company, Qell Acquisition Corp ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546530+00:00",
+              "published_date": null,
+              "source_hash": "32847dd578676dccea69c4f1d714c2c4"
+            },
+            {
+              "url": "",
+              "title": "Lilium's future hangs in the balance",
+              "snippet": "After failing to secure state aid, Munich-based electric vertical take-off and landing (eVTOL) start-up Lilium now faces an uncertain future. According to a report in Business Insider, following a federal government meeting on Wednesday 16 October to secure a loan guarantee for \u20ac50 million it is now clear \"there will be no state support for air taxi start-up Lilium.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546543+00:00",
+              "published_date": null,
+              "source_hash": "76b6070d2b16253fc203c21e55e4776d"
+            },
+            {
+              "url": "",
+              "title": "Air-taxi maker Lilium to file for insolvency after failed fundraising ...",
+              "snippet": "Nov 4 (Reuters) - German air-taxi maker Lilium , opens new tab said on Monday it would file for insolvency \"soon\", after efforts to solve its cash-crisis failed to yield results.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546557+00:00",
+              "published_date": null,
+              "source_hash": "fb76bf8c72eade4286744336b8f08726"
+            },
+            {
+              "url": "",
+              "title": "Investors rally behind Lilium amid funding setback from German Government",
+              "snippet": "After over a year of negotiations with the German government for a state-backed loan guarantee, electric air taxi startup Lilium now faces significant financial uncertainty following a critical decision by the Bundestag's budget committee.. Despite broad support from over 650 founders and investors, the German federal government has decided against backing Lilium's proposed \u20ac100 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:02.546570+00:00",
+              "published_date": null,
+              "source_hash": "ab9a1862e97a8deaad9bad6e0b087b42"
+            },
+            {
+              "url": "",
+              "title": "Lilium's Electric Air Taxi Dreams Retake Flight\u2014Hopefully",
+              "snippet": "Lilium's deal with electric aircraft consortium will allow the air taxi maker to restart operations in January.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:04.812405+00:00",
+              "published_date": "2024-12-30T19:39:00+00:00",
+              "source_hash": "85530e2ce908c177afebb8e851e9aaad"
+            },
+            {
+              "url": "",
+              "title": "Shuttered electric air taxi startup Lilium may be saved after all",
+              "snippet": "A consortium of investors has resurrected Lilium just days after the electric air taxi startup ceased operations and laid off about 1,000 employees.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:04.812526+00:00",
+              "published_date": "2024-12-24T17:28:00+00:00",
+              "source_hash": "2d8c7e7fd1afd54bf0863378b0504a87"
+            },
+            {
+              "url": "",
+              "title": "Air-Taxi Maker Lilium Plummets After Insolvency Warning",
+              "snippet": "(Bloomberg) -- Lilium NV said its main subsidiaries may be forced to file for insolvency proceedings within days as the electric flying taxi firm struggles to raise enough funding to continue ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:04.812559+00:00",
+              "published_date": "2024-10-24T15:11:00+00:00",
+              "source_hash": "d58e98f009800858157a08ef169807c1"
+            },
+            {
+              "url": "",
+              "title": "Struggling Air Taxi Firm Lilium Finds Buyer for Subsidiaries",
+              "snippet": "Lilium NV is getting a lifeline from a consortium of European and North American investors who plan to acquire the operating assets of the air taxi company's main subsidiaries. The German ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:04.812584+00:00",
+              "published_date": "2024-12-24T17:54:00+00:00",
+              "source_hash": "ced2009a24a32942ae1a7145af81e520"
+            },
+            {
+              "url": "",
+              "title": "Lilium NV Is Being Sued For Securities Law Violations And Investors With Losses Are Encouraged To Contact The Schall Law Firm",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / December 29, 2024 / The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Lilium N.V. (\"Lilium\" or ... the Company's public statements were false and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lilium N.V. Lilium N.V. public opposition urban air mobility",
+              "retrieved_at": "2025-01-06T19:11:04.812607+00:00",
+              "published_date": "2024-12-29T17:22:00+00:00",
+              "source_hash": "83dea0137737718662b5876bc3c2b127"
+            },
+            {
+              "url": "",
+              "title": "Lilium NV - The Losing Horse in the eVTOL Race\u00a0",
+              "snippet": "Against these criticisms, Lilium argued that battery consumption would be minimized as little time would be spent in hover (take off and landing). One engineer told us that Lilium underestimates the hover time that will be required by aviation regulators. Lilium promises its Jet has ready access to battery cells with energy density of 320-330 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103281+00:00",
+              "published_date": null,
+              "source_hash": "9f152ea36210346a08d8642495d2e943"
+            },
+            {
+              "url": "",
+              "title": "Lilium N.V. Annual Report for the Financial Year Ended December 31, 2021",
+              "snippet": "\"Lilium\" means Lilium N.V. \"Lilium Jets\" means the fully electric eVTOL aircraft being developed by Lilium. \"Lilium Network\" means our plan to use the Lilium Jet within regional passenger shuttle networks, initially in the U.S., Europe and Brazil, which we intend to create and operate with third parties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103394+00:00",
+              "published_date": null,
+              "source_hash": "c74dcd1b48e3928a0057f8ef1bcb69ba"
+            },
+            {
+              "url": "",
+              "title": "Lilium ceases operations without delivering a single electric air taxi",
+              "snippet": "German eVTOL startup Lilium has ceased operations as of this week, sunsetting a decade-long effort funded with over US$1 billion to build electric air taxis, with nary a single aircraft delivered.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103413+00:00",
+              "published_date": null,
+              "source_hash": "4674ca5445709346e7337700fb365adc"
+            },
+            {
+              "url": "",
+              "title": "Lilium NV - The losing horse in the eVTOL race - sUAS News",
+              "snippet": "Against these criticisms, Lilium argued that battery consumption would be minimized as little time would be spent in hover (take off and landing). One engineer told us that Lilium underestimates the hover time that will be required by aviation regulators. Lilium promises its Jet has ready access to battery cells with energy density of 320-330 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103427+00:00",
+              "published_date": null,
+              "source_hash": "3883f4c8bfb0c8ed56066eaa7757b101"
+            },
+            {
+              "url": "",
+              "title": "Lilium's Last-Minute Lifeline: \u20ac200M Injection Resuscitates eVTOL ...",
+              "snippet": "The eVTOL industry holds immense promise, with projections suggesting a market growth to over $1 trillion by 2040. Lilium's successful investor search could accelerate the transition to sustainable aviation, aligning with global shifts towards renewable energy sources like solar, wind, and hydroelectric power. This investment not only secures ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103441+00:00",
+              "published_date": null,
+              "source_hash": "ac02ce1480ce740c1d6c5b366000d858"
+            },
+            {
+              "url": "",
+              "title": "Electric aircraft startup Lilium ceases operations, 1,000 workers laid ...",
+              "snippet": "Lilium co-founder Patrick Nathen confirmed on LinkedIn that the 10-year-old company had stopped operating. \"After 10 years and 10 months, it is a sad fact that Lilium has ceased operations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103467+00:00",
+              "published_date": null,
+              "source_hash": "6fb436c7c92ae4cf7c3046294aa5ba82"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "In connection with the proposed business combination and related transactions (the \"ProposedTransaction\"),Lilium GmbH (\"Lilium\"or the \"Company\"),Qell Acquisition Corp. (\"Qell\")and Lilium B.V. (which will convert into Lilium N.V., a public company under",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103482+00:00",
+              "published_date": null,
+              "source_hash": "359909d67207d62adc4380509f40e930"
+            },
+            {
+              "url": "",
+              "title": "Munich-based e-air taxi startup Lilium to restart operations",
+              "snippet": "Munich-based electric air taxi startup Lilium, which recently ceased operations and laid off 1,000 employees, is set to restructure with new investor backing.The layoff was reported by Gr\u00fcnderszene, with co-founder Patrick Nathen confirming the shutdown on LinkedIn.. Lilium, which raised over $1B before going public, is now set to restructure with new backing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103494+00:00",
+              "published_date": null,
+              "source_hash": "ed695233b2f2ddaf552f563b102f2e50"
+            },
+            {
+              "url": "",
+              "title": "Lilium N.V. (LILMF) Stock Price, News, Quote & History - Yahoo Finance",
+              "snippet": "Find the latest Lilium N.V. (LILMF) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103508+00:00",
+              "published_date": null,
+              "source_hash": "61c5d2fd6db7be356eda80ff5f5e065a"
+            },
+            {
+              "url": "",
+              "title": "Lilium NV, LILMF:PKC profile - FT.com - Financial Times",
+              "snippet": "The Company is focused on developing an electric vertical takeoff and landing (eVTOL) aircraft for use in air transport system for people and goods that offers connectivity. The Company's product is an electric, seven-seater jet aircraft that take-off and land vertically with low noise, which is called as the Lilium Jet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:08.103525+00:00",
+              "published_date": null,
+              "source_hash": "1bb375b7dcaa05c71397b870848be086"
+            },
+            {
+              "url": "",
+              "title": "FINAL DEADLINE ALERT: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Lilium N.V",
+              "snippet": "If you suffered losses exceeding $50,000 in Lilium between June 11, 2024 and November 3, 2024 and would like to discuss your legal rights, call Faruqi & Faruqi partner Josh Wilson directly at 877-247-4292 or 212-983-9330 (Ext. 1310).",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:10.828511+00:00",
+              "published_date": "2025-01-06T18:45:00+00:00",
+              "source_hash": "89929dbba3baced6f8d1c5a9d6dbc2c4"
+            },
+            {
+              "url": "",
+              "title": "Why Lilium Stock Is Taking Off Today",
+              "snippet": "Lilium N.V (NASDAQ ... committed to integrating eVTOL aircraft into its fleet. \"We are proud that UrbanLink has selected the Lilium Jet for its network and operations. This is a huge milestone ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:10.828609+00:00",
+              "published_date": "2024-05-06T14:55:00+00:00",
+              "source_hash": "bfc8e179e177e8d99bcaf65b776f3496"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ACTION REMINDER: Faruqi & Faruqi, LLP Investigates Claims on Behalf of Investors of Lilium N.V.",
+              "snippet": "New York, New York--(Newsfile Corp. - January 3, 2025) - Faruqi & Faruqi, LLP, a leading national securities law firm, is investigating potential claims against Lilium N.V. (\"Lilium\" or the ... funding to continue operations; (3) Defendants failed to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:10.828638+00:00",
+              "published_date": "2024-06-11T00:00:00+00:00",
+              "source_hash": "23f8d593b08b1e192f1270cd883ecad4"
+            },
+            {
+              "url": "",
+              "title": "Mobile Uplift Consortium supports German troubled startup Lilium",
+              "snippet": "Lilium NV, a German startup manufacturing electric vertical takeoff and landing aircraft (eVTOL), has entered into an agreement to sell assets to Mobile Uplift Corp. GmbH in order to obtain financing for the resumption of business operations. This is ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:10.828664+00:00",
+              "published_date": "2024-12-26T12:55:00+00:00",
+              "source_hash": "6cab3a7522827b3e6c09e7ec48adb1a2"
+            },
+            {
+              "url": "",
+              "title": "LILM, LILMF Deadline: LILM, LILMF Investors with Losses in Excess of $100K Have Opportunity to Lead Lilium N.V. Securities Fraud Lawsuit",
+              "snippet": "Why: Rosen Law Firm, a global investor rights law firm, reminds purchasers of securities of Lilium N.V. (NASDAQ ... sufficient funding to continue operations; (3) defendants failed to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lilium N.V. Lilium N.V. energy consumption eVTOL operations",
+              "retrieved_at": "2025-01-06T19:11:10.828687+00:00",
+              "published_date": "2025-01-03T14:04:00+00:00",
+              "source_hash": "b7c04afaa46588ad1c66f9d6e9434306"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Lilium N.V. regulatory delays eVTOL certification",
+              "rationale": "Investigate potential delays in regulatory approvals and their impact on Lilium's timeline and financial stability",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Lilium N.V. public opposition urban air mobility",
+              "rationale": "Explore public sentiment and potential opposition to eVTOL operations in urban areas, focusing on noise, safety, and privacy concerns",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Lilium N.V. energy consumption eVTOL operations",
+              "rationale": "Assess the environmental impact of large-scale eVTOL operations, including energy consumption and infrastructure development",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:11:28.523654",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

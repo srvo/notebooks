@@ -1,0 +1,485 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:37:41.683206",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Global Payments Inc",
+      "symbol": "GPN",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal challenges including CFPB action and OFAC settlement",
+            "Cybersecurity risks highlighted by a significant data breach",
+            "Operational and ethical concerns such as overtime disputes and leadership issues",
+            "Economic sensitivity affecting transaction volumes and revenue"
+          ],
+          "controversies": [
+            "CFPB complaint against Active Network for illegal membership fees",
+            "OFAC settlement for sanctions violations",
+            "Class action lawsuits alleging misleading statements",
+            "Data breach exposing 1.5 million card numbers",
+            "Overtime dispute settlement with remote workers"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Overtime dispute and labor practices",
+            "Internal criticism of leadership and layoffs"
+          ],
+          "governance_issues": [
+            "Regulatory compliance failures",
+            "Leadership and infrastructure investment criticisms"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Lowey Dannenberg Secures Preliminary Settlement Approval on behalf of ...",
+              "snippet": "Global Payments' assurances of legal compliance continued until October 18, 2022, when the CFPB filed an action against Active for illegally imposing membership fees on consumers. The complaint alleged that this caused Global Payments' stock price to drop, injuring investors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.603991+00:00",
+              "published_date": null,
+              "source_hash": "0a27be1311a481677a8260ce1540e2ab"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "Active Network, LLC is a wholly owned subsidiary of Global Payments, Inc. and was acquired by the Company in 2017 for a reported $1.2 billion. The Complaint alleges that throughout the Class Period, Defendants made materially false and misleading statements regarding the Company's business, operational, and compliance policies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604102+00:00",
+              "published_date": null,
+              "source_hash": "09a0c89e8cbd248809b624fff5468e9f"
+            },
+            {
+              "url": "",
+              "title": "OFAC settles with global payments company - buckleyfirm.com",
+              "snippet": "On April 29, the U.S. Treasury Department's Office of Foreign Assets Control (OFAC) announced a nearly $35,000 settlement between a Texas-based global payments company for 359 apparent violations of multiple sanctions programs. According to OFAC's website notice, between March 2013 and April 2016, \"the company provided money transfer services to the Department of Justice's Federal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604121+00:00",
+              "published_date": null,
+              "source_hash": "8784f9d9bbafe85d3066d2f9c01ad600"
+            },
+            {
+              "url": "",
+              "title": "Notice of Filing Securities Class Action Against Global - GlobeNewswire",
+              "snippet": "If you have suffered a net loss from investment in Global Payments' securities from October 31, 2019 and October 18, 2022, you may obtain additional information about this lawsuit and your ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604140+00:00",
+              "published_date": null,
+              "source_hash": "3a383b7b635ba480f7a3050fd21115ca"
+            },
+            {
+              "url": "",
+              "title": "Casey: Global Payments Security Breach Highlights Lack of Regulatory ...",
+              "snippet": "Casey: Troubling Regulatory Gap in Oversight of Some Payment Processors . WASHINGTON, DC - U.S. Senator Bob Casey (D-PA) today expressed concern after reviewing the circumstances surrounding the breach of financial information of 1.5 million people from payment processor Global Payments, Inc., revealing that consumers are at risk due to weakly enforced and poorly coordinated regulation efforts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604154+00:00",
+              "published_date": null,
+              "source_hash": "48ad6307344e01f3bcad63db39ef37ac"
+            },
+            {
+              "url": "",
+              "title": "Compliance & Security - Global Payments",
+              "snippet": "Compliance & security. For more information on Strong Customer Authentication, PCI Compliance, and fraud prevention best practices. ... Global Payments is also a trading name of Pay and Shop Limited. Pay and Shop Limited is a limited company registered in Ireland with company number 324929. Registered Office: The Observatory, 7-11 Sir John ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604168+00:00",
+              "published_date": null,
+              "source_hash": "d88e61193e4e8d724e687b5a8b167ddd"
+            },
+            {
+              "url": "",
+              "title": "$3,600,000 Settlement Reached for Global Payments, Inc. Litigation",
+              "snippet": "The securities class action against Global Payments, Inc. has reached a settlement of $3,600,000. Read more case information. Post navigation. ... unexpected technical or security issues or problems; or; ... To maintain legal and regulatory compliance; To enforce compliance with our Terms and Conditions and Policies; and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604180+00:00",
+              "published_date": null,
+              "source_hash": "19ce52ad287134a2dff1021e2196bc60"
+            },
+            {
+              "url": "",
+              "title": "CORRECTING AND REPLACING -- Global Payments Class Action Lawsuit ...",
+              "snippet": "SAN DIEGO, Feb. 09, 2023 (GLOBE NEWSWIRE) -- Shareholder rights law firm Johnson Fistel, LLP announces that it filed a class action seeking to represent purchasers of Global Payments, Inc. (\"Global Payments\" or the \"Company\") GPN securities between October 31, 2019 and October 18, 2022, both dates inclusive (the \"Class Period\"). The Global Payments class action lawsuit was filed in the United ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604192+00:00",
+              "published_date": null,
+              "source_hash": "aebb0b1631181e870f60b97566420132"
+            },
+            {
+              "url": "",
+              "title": "Global Payments, Inc. Class Action Alert: Wolf Haldenstein Adler ...",
+              "snippet": "NEW YORK, March 6, 2023 /PRNewswire/ -- Wolf Haldenstein Adler Freeman & Herz LLP announces that a federal securities class action lawsuit has been filed in the United States District Court for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604205+00:00",
+              "published_date": null,
+              "source_hash": "dc1c44d6839f5dfa3ab5c8c597669340"
+            },
+            {
+              "url": "",
+              "title": "Governance Documents :: Global Payments Inc. (GPN)",
+              "snippet": "The Company previously adopted a Code of Conduct and Ethics applicable to directors (the \"Director Code\") and an Employee Code of Conduct and Ethics that is applicable to all employees (the \"Employee Code\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:12.604216+00:00",
+              "published_date": null,
+              "source_hash": "ac808fc6843d3c3b31dcc83fc40de281"
+            },
+            {
+              "url": "",
+              "title": "Is Global Payments Stock Underperforming the Dow?",
+              "snippet": "With a market cap of $29 billion, Global Payments Inc. (GPN) is a leading provider of payment technology and software solutions, serving customers across the Americas, Europe, and the Asia-Pacific ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T18:37:16.128776+00:00",
+              "published_date": "2024-12-17T22:01:00+00:00",
+              "source_hash": "b72da34511270f4fc80369efb8d9692c"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Inc. stock outperforms competitors despite losses on the day",
+              "snippet": "Shares of Global Payments Inc. GPN dropped 0.20% to $111.81 Monday, on what proved to be an all-around great trading session for the stock market, with the S&P 500 Index SPX rising 0.73% to 5,974.07 and the Dow Jones Industrial Average DJIA rising 0.16% to 42,906.95.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:26.052732+00:00",
+              "published_date": "2024-12-23T22:05:00+00:00",
+              "source_hash": "06be8fab7ff5a7209653ce65f890a4e4"
+            },
+            {
+              "url": "",
+              "title": "Global Payments $3.6 Million Securities Settlement",
+              "snippet": "If you purchased or acquired publicly traded Global Payments Inc. common stock between October 31, 2019, and October 18, 2022, you may be eligible to claim a portion of a class action settlement.. Global Payments Inc. has agreed to pay $3,600,000 to settle a class action lawsuit for allegedly making false and misleading statements about its business practices and compliance with consumer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906506+00:00",
+              "published_date": null,
+              "source_hash": "69964bd7c32858d62455bebc22179901"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Security Rating, Vendor Risk Report, and Data Breaches",
+              "snippet": "Global Payments Inc. is an American company providing financial technology services globally. Headquartered in Atlanta, its stock is a component of the S&P 500 stock market index. UpGuard continuously monitors the security posture of Global Payments using open-source, commercial, and proprietary threat intelligence feeds.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512298+00:00",
+              "published_date": null,
+              "source_hash": "7578044d82e99186b3fcc6bc8fcd3acd"
+            },
+            {
+              "url": "",
+              "title": "Global Payments: Data Breach Cost Nearly $85 Million",
+              "snippet": "Global Payments, Inc., the payment processing firm that disclosed a data breach back in late March, which the company ultimately said could have exposed up to 1.5 million card numbers, has shared details on the total cost of the incident so far. According to a July 26 statement issued by the company, one of the world's largest electronic transaction processing providers, the cost of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512313+00:00",
+              "published_date": null,
+              "source_hash": "9081e2e062cd384558f7e02bd1e10672"
+            },
+            {
+              "url": "",
+              "title": "Global Payments identified as processor in data breach",
+              "snippet": "A breach at a payments processor is millions of times worse than at a single merchant, given the massively larger amounts of data available in that one location.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512323+00:00",
+              "published_date": null,
+              "source_hash": "dcdde0ed2a971dc27b613f2186510d4a"
+            },
+            {
+              "url": "",
+              "title": "Global Payment Systems Compromised In 'Massive' Breach - Dark Reading",
+              "snippet": "\"Global Payments Inc., a leader in payment processing services, announced it identified and self-reported unauthorized access into a portion of its processing system,\" the statement says.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512332+00:00",
+              "published_date": null,
+              "source_hash": "326b8564023cff3945b9da7cc1f9faab"
+            },
+            {
+              "url": "",
+              "title": "Global Payments: Less Than 1.5M Card Numbers Exposed As a Result of Breach",
+              "snippet": "Following disclosure late Friday afternoon of an incident involving unauthorized access to its processing system, Global Payments Inc., a provider of payment processing services, late Sunday night said that it believes the breach was confined to North America and less than 1.5 million card numbers were exported and in the hands of attackers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512342+00:00",
+              "published_date": null,
+              "source_hash": "5d8b0c6c75607923fd1636e5660804f6"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Says 1.5 Million Cards Stolen; Won't Discuss ... - WIRED",
+              "snippet": "About 1.5 million cards were potentially stolen by hackers in the recent breach of Atlanta-based card processor Global Payments Inc, which said its loss-prevention software had been good enough to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512353+00:00",
+              "published_date": null,
+              "source_hash": "f63e4de2f476f6593f504f2c36611239"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Breach 'Manageable' - BankInfoSecurity",
+              "snippet": "Executives at Global Payments Inc. say they're still uncovering details about the newly reported data breach of some of its North American processing servers - a breach now estimated to have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512362+00:00",
+              "published_date": null,
+              "source_hash": "894ea3e42dff549ec37a889455dc8a0b"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Breach Impact on Banks - BankInfoSecurity",
+              "snippet": "For banking institutions, the payment card data breach that hit third-party processor Global Payments Inc. is just the beginning.. See Also: Gartner Market Guide for DFIR Retainer Services Now, in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512371+00:00",
+              "published_date": null,
+              "source_hash": "f11de1bbb19b26078abf36cd11ca8f29"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Inc. | Privacy Rights Clearinghouse",
+              "snippet": "Global Payments processes credit and debit cards for banks and merchants and a number of credit and debit cards issued to businesses were determined to be compromised. The breach was discovered when Global Payments' security systems detected unusual activity.UPDATE (04/02/2012): Global Payments created a breach information website for consumers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Global Payments Inc Global Payments Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:37:18.512380+00:00",
+              "published_date": null,
+              "source_hash": "4baaca7632ea583c33bd19bf174d70da"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Settles Overtime Dispute with Remote Workers",
+              "snippet": "The Plaintiffs, working in roles as fraud analysts with a pay rate of $15 per hour, alleged that Global Payments did not adequately reimburse them for the additional hours spent getting ready for daily calls. The lawsuit alleged that the company violated overtime regulations outlined in the Fair Labor Standards Act.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906393+00:00",
+              "published_date": null,
+              "source_hash": "95cb14edd6bb0a44fa505eb7320c1a03"
+            },
+            {
+              "url": "",
+              "title": "Good folks got let go - post regarding Global Payments Inc. layoffs",
+              "snippet": "The mergers weren't the problem. The leadership (that's you, Vince) was the problem. Lack of building or shoring up infrastructure, failure to make these units cohesive, Adam (let's just get to the finish line) Mitchell being in charge of software and programs, Mike Brodnick being a CSO who hated salespeople and all his koolaid drinking cronies was the problem.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906527+00:00",
+              "published_date": null,
+              "source_hash": "1a841ac908219f32a38600f09e5b5e9d"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Settles Remote Workers' OT Suit",
+              "snippet": "Law360 (January 23, 2024, 6:10 PM EST) -- Financial technology company Global Payments Inc. has agreed to settle allegations from more than 100 remote customer service workers that it systemically ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906541+00:00",
+              "published_date": null,
+              "source_hash": "f050a6e8fafaa03edc17b918a0feffe0"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Settles Remote Workers' OT Suit - Law360",
+              "snippet": "Law360 (January 23, 2024, 6:10 PM EST) -- Financial technology company Global Payments Inc. has agreed to settle allegations from more than 100 remote customer service workers that it systemically ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906555+00:00",
+              "published_date": null,
+              "source_hash": "d57b7eac27884ccb8d228279a8a8b39a"
+            },
+            {
+              "url": "",
+              "title": "Global Payments $3.6M Deal Gets OK - USA Herald",
+              "snippet": "A Georgia federal judge has granted preliminary approval to a $3.6 million settlement between Global Payments Inc. and investors who accused a subsidiary of deceptive practices. The Atlanta-based payment tech company faces claims that its subsidiary, Active Network LLC, misled consumers into joining a program with hidden fees. Global Payments $3.6M Deal OK : Court",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906567+00:00",
+              "published_date": null,
+              "source_hash": "8bd06c242ab9ca709664b7ff8d2826d5"
+            },
+            {
+              "url": "",
+              "title": "Lawson v. Glob. Payments Inc. - Casetext",
+              "snippet": "Plaintiff does not dispute that she signed the Agreement or that the Agreement is valid and binding as to both defendants. Although plaintiff executed the agreement with Heartland, Docket No. 1 at 3, \u00b6 14, Heartland merged with defendant Global Payments, Inc. in April 2016. Id. at 2, \u00b6 9; Docket No. 16-1 at 4, \u00b6 13.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906581+00:00",
+              "published_date": null,
+              "source_hash": "710ffe3dd82cd8d6eabf326f14f27fe5"
+            },
+            {
+              "url": "",
+              "title": "Ex-Workers Win Conditional Cert. In Global Payments OT Suit",
+              "snippet": "Case Information Case Title. KENAN et al v. GLOBAL PAYMENTS INC. Case Number. 4:23-cv-00089. Court. Georgia Middle. Nature of Suit. Labor: Fair Standards. Date Filed",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906597+00:00",
+              "published_date": null,
+              "source_hash": "a68f7c6896056addd7be1f295381c932"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Securities Litigation",
+              "snippet": "Please note: Only publicly traded Global Payments common stock purchased or otherwise acquired during the Class Period (i.e., October 31, 2019 through October 18, 2022, inclusive) is eligible under the Settlement. Therefore, in order for the Claims Administrator to be able to balance your claim, the requested purchase/acquisition information ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906610+00:00",
+              "published_date": null,
+              "source_hash": "5459214bee53e8f2cce0cdf74ceb71ac"
+            },
+            {
+              "url": "",
+              "title": "Willingham v. Glob. Payments, Inc. - Casetext",
+              "snippet": "The complaint in this putative class action was filed by Plaintiff Natalie Willingham [Doc. 1] and amended after Global Payments, Inc., filed a motion to dismiss the complaint to add Nadine and Robert Hielscher as Plaintiffs and to cure deficiencies outlined in Defendant's Fed. R. Civ. P. 12(b)(1) and 12(b)(6) motion for dismissal of this ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:22.906622+00:00",
+              "published_date": null,
+              "source_hash": "dbda7bf2f217e50f40e898c94d894874"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Inc. stock rises Friday, still underperforms market",
+              "snippet": "Global Payments Inc. closed $29.20 short of its 52-week high ($141.78), which the company achieved on February 15th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:26.052606+00:00",
+              "published_date": "2025-01-03T22:05:00+00:00",
+              "source_hash": "8c0646467505e44a8c75af01c93391f2"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Inc. stock underperforms Thursday when compared to competitors",
+              "snippet": "Global Payments Inc. closed $29.88 short of its 52-week high ($141.78), which the company achieved on February 15th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:26.052702+00:00",
+              "published_date": "2025-01-02T22:04:00+00:00",
+              "source_hash": "439f816519fb9bfa96ee1e01b9f73035"
+            },
+            {
+              "url": "",
+              "title": "Global Payments Inc.",
+              "snippet": "Global Payments Inc. (NYSE: GPN) is a leading worldwide provider of payment technology and software solutions delivering innovative services to our customers globally. Our technologies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Global Payments Inc Global Payments Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:37:26.052719+00:00",
+              "published_date": "2022-08-16T15:31:00+00:00",
+              "source_hash": "468728e7c0d5ad690e2a28b214af785b"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Global Payments Inc regulatory compliance issues",
+              "rationale": "Investigate potential legal and regulatory challenges, including data privacy and anti-money laundering regulations",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Global Payments Inc cybersecurity breaches",
+              "rationale": "Assess the company's history of cybersecurity incidents and their impact on reputation and operations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Global Payments Inc labor practices controversies",
+              "rationale": "Examine any reported issues related to employee treatment, diversity, or workplace conditions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:37:41.683214",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

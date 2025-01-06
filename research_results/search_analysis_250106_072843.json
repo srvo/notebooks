@@ -1,0 +1,599 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:28:43.965227",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "IonQ Inc.",
+      "symbol": "IONQ",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Technological challenges in qubit stability, error correction, and scalability",
+            "Uncertain market readiness and limited commercial viability of quantum computing",
+            "Intense competition from established players and emerging startups",
+            "Financial struggles with significant losses and reliance on R&D investments",
+            "Legal and regulatory risks, including past securities fraud claims"
+          ],
+          "controversies": [
+            "Securities fraud claims related to the SPAC merger in 2021",
+            "Ethical and regulatory concerns over quantum computing's impact on encryption standards"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [
+            "Potential ongoing legal scrutiny and future litigation risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "IonQ, Executives Won't Face Fraud Claims Around SPAC Merger",
+              "snippet": "IonQ Inc., dMY Technology Group Inc. III, and their officers had their bids to dismiss securities fraud claims granted by a judge in US District Court for the District of Maryland, who ruled that the plaintiff failed to state a claim. The quantum computing company and the special purpose acquisition company it merged into in September 2021 had allegedly misled investors about the existence and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764963+00:00",
+              "published_date": null,
+              "source_hash": "b7385bc5cc5a10166824e057cf22487f"
+            },
+            {
+              "url": "",
+              "title": "Quantum Computing Company Hit with SPAC-Related ... - The D&O Diary",
+              "snippet": "dMY Technology Group, Inc. III (DTG) was a special purpose acquisition company (SPAC). DTG completed an IPO on November 12, 2020. IonQ develops quantum computers. On September 30, 2021, IonQ became a publicly traded company as a result of its merger with DTG. On May 3, 2022, IonQ was the subject of a research report by short-seller Scorpion ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688225+00:00",
+              "published_date": null,
+              "source_hash": "9c4de40f0798560434c991715cd008c1"
+            },
+            {
+              "url": "",
+              "title": " IonQ has entered into a definitive merger agreement with dMY Technology ...",
+              "snippet": "IonQ and dMY III, respectively, as legal counsel. About IonQ, Inc. IonQ, Inc. is the leader in quantum computing, with a proven track record of innovation and deployment. IonQ's 32 qubit quantum computer is the world's most powerful quantum computer, and IonQ has defined what it believes is the best path forward to scale.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688236+00:00",
+              "published_date": null,
+              "source_hash": "0fb6cf80994c37b679967674ed689913"
+            },
+            {
+              "url": "",
+              "title": " Verified Petition for Relief Under 8 Del. C. \u00a7 205",
+              "snippet": "7. The Company entered into a de-SPAC business combination (the \"Business Combination\") with IonQ, Inc. (\"Legacy IonQ\"), a quantum computing company. After the Business Combination, the Company renamed itself to take the name of the private company it had acquired: IonQ, Inc. 8. The Old Charter was amended in connection with the Business",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688244+00:00",
+              "published_date": null,
+              "source_hash": "57367fd19f8a5da62b352edb2a96264d"
+            },
+            {
+              "url": "",
+              "title": "Is IonQ Stock a Buy? - Nasdaq",
+              "snippet": "IonQ (NYSE: IONQ) has taken its investors on a wild ride over the past three years. The quantum computing startup went public by merging with a special purpose acquisition company (SPAC) on Oct. 1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688254+00:00",
+              "published_date": null,
+              "source_hash": "3dec0981d0b7effdb21e9dbf000d5c6f"
+            },
+            {
+              "url": "",
+              "title": "425 - SEC.gov",
+              "snippet": "I'm thrilled to be able to share that IonQ will be going public through a merger with a special purpose acquisition company (SPAC), dMY Technology Group III. This transaction includes $300M cash in the trust from the SPAC and $350M in our fully committed PIPE, valuing IonQ at ~$2B post-money.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688261+00:00",
+              "published_date": null,
+              "source_hash": "1d204e016a3403d441503b6fc292fcc7"
+            },
+            {
+              "url": "",
+              "title": "dMY III and IonQ, Inc. Announce Closing of Business Combination",
+              "snippet": "IonQ, Inc. , a leader in quantum computing, today announced the closing of its previously announced business combination with dMY III ... \"De-SPAC with IonQ\" Thursday, July 15, 2021 11:00AM-12:00PM (Watch Replay) ... Mr. de Masi has consummated over 25 mergers and acquisitions and has raised approximately $3 billion in equity to support public ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688268+00:00",
+              "published_date": null,
+              "source_hash": "27fc3d80e0353443bd18f3ef975adc29"
+            },
+            {
+              "url": "",
+              "title": "4 Things About IonQ That Smart Investors Know - Nasdaq",
+              "snippet": "IonQ (NYSE: IONQ) has been a divisive stock ever since it went public by merging with a special purpose acquisition company (SPAC) last October. The bulls claimed the quantum computing company had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688276+00:00",
+              "published_date": null,
+              "source_hash": "4e9734321999dbc2fdf574049192534c"
+            },
+            {
+              "url": "",
+              "title": "IonQ To Become The First Publicly Traded Full Stack Quantum Company",
+              "snippet": "The merger will provide IonQ with gross proceeds of $650 million and is comprised of $300m of cash from the SPAC and $350 million from a consortium of private equity firms. The deal was done at an implied market capitalisation (number of shares x price per share) of $2bn (implying an Enterprise Value (EV) of ~$1.4bn).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688284+00:00",
+              "published_date": null,
+              "source_hash": "cdab8dcf935e8567dd807be4167a28cc"
+            },
+            {
+              "url": "",
+              "title": "IonQ Has A Distinct (And Pretty Good) Place In Emerging Quantum ...",
+              "snippet": "IonQ, Inc and its trapped ion approach has a unique approach that looks noteworthy. Read why I think IONQ stock is a buy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:15.688292+00:00",
+              "published_date": null,
+              "source_hash": "fa934495ec5d531ed7a5f0ff735e9d22"
+            },
+            {
+              "url": "",
+              "title": "What's Happening With IONQ Stock?",
+              "snippet": "The stock price of IonQ Inc. (NYSE: IONQ), a quantum computing ... However, there is a fundamental challenge in quantum computing space, as an increasing number of errors arise as the system ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:18.151923+00:00",
+              "published_date": "2024-12-24T13:58:00+00:00",
+              "source_hash": "bf98938ca6a4db49f8fc5c840d519249"
+            },
+            {
+              "url": "",
+              "title": "IonQ Shares Are Surging Today: What's Going On?",
+              "snippet": "nvestor activity in quantum stocks, including IonQ, has Investor activity in quantum stocks, including IonQ, has intensified. IonQ, Inc. IONQ shares ... sector faces challenges, including high ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:18.152028+00:00",
+              "published_date": "2025-01-03T15:26:00+00:00",
+              "source_hash": "5371b3531070b5abb5224751a4895571"
+            },
+            {
+              "url": "",
+              "title": "IonQ, Inc.: A Rising Star in Quantum Computing or a Risky Bet?",
+              "snippet": "IonQ has yet to report a profit. In Q2 2024, the company posted a loss of $37.6 million, highlighting its ongoing financial struggles. The company is still working on establishing a steady income ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:18.152058+00:00",
+              "published_date": "2025-01-02T09:14:00+00:00",
+              "source_hash": "d4814041279172921a048baa1a0892cb"
+            },
+            {
+              "url": "",
+              "title": "IonQ Stock Swings Amid Bullish Analyst Calls As Retail Investors Eye Quantum Computing's Short-Term Challenges",
+              "snippet": "IonQ, Inc. ($IONQ) shares saw volatility on Thursday after a couple of analysts issued bullish recommendations. DA Davidson analyst Alex Platt initiated the quantum ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:18.152083+00:00",
+              "published_date": "2024-12-19T19:01:00+00:00",
+              "source_hash": "29b626ac7998da5629ca53c034909a07"
+            },
+            {
+              "url": "",
+              "title": "Why IONQ Inc. (IONQ) Skyrocketed Yesterday",
+              "snippet": "In this article, we are going to take a look at where IONQ Inc. (NYSE:IONQ ... catalyst for this kind of equity appreciation in the space over that time, but we do see continued indications ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:28:18.152106+00:00",
+              "published_date": "2024-12-27T08:37:00+00:00",
+              "source_hash": "c62dc6c2794d60b3b1d4b4d17a95bf3d"
+            },
+            {
+              "url": "",
+              "title": "IonQ Has A Distinct (And Pretty Good) Place In Emerging Quantum ...",
+              "snippet": "But for now, IonQ, Inc. (NYSE: IONQ) and its trapped ion approach has a unique approach that looks noteworthy. On the other side, we have superconductive quantum computing .",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785635+00:00",
+              "published_date": null,
+              "source_hash": "c9acfb6ef603e5cd820a34fd76b721c6"
+            },
+            {
+              "url": "",
+              "title": "IonQ, Inc.: A Rising Star in Quantum Computing or a Risky Bet?",
+              "snippet": "IonQ, Inc. (IONQ) is gaining attention in the fast-growing quantum computing field. For instance, the company's quantum systems are available on major cloud platforms like Amazon (AMZN) Braket ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785729+00:00",
+              "published_date": null,
+              "source_hash": "8e711af43266989cf52e79705bc5501c"
+            },
+            {
+              "url": "",
+              "title": "Is IonQ a Buy? - The Motley Fool",
+              "snippet": "Thanks to its soaring stock last year, quantum computing specialist IonQ (IONQ 10.84%) is a company that has people talking. Up more than 225% in 2024, the shares have clearly attracted a ton of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785746+00:00",
+              "published_date": null,
+              "source_hash": "4bf9dfa1d34cef9049223587e7dc910a"
+            },
+            {
+              "url": "",
+              "title": "Better Quantum Computing Stock: IonQ vs. Quantum Computing, Inc.",
+              "snippet": "No, IonQ lands in the 16th place on this list, far behind the 2,735% gain posted by smaller rival Quantum Computing, Inc. (QUBT 13.32%). Can Quantum Computing build on its recent success?",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785759+00:00",
+              "published_date": null,
+              "source_hash": "de97f01cf7fd91feba7a40a2bc08c0aa"
+            },
+            {
+              "url": "",
+              "title": "IonQ Positioned To Dominate Quantum Computing Era: Analyst Highlights ...",
+              "snippet": "D.A. Davidson & Co. analyst Alexander Platt initiated coverage on IonQ, Inc. (NYSE:IONQ) with a Buy rating and price target of $50. The analyst sees IonQ as a standout pure-play investment poised ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785772+00:00",
+              "published_date": null,
+              "source_hash": "ba8a3978d4d86f96e92e161fafdd990f"
+            },
+            {
+              "url": "",
+              "title": "IonQ and Oak Ridge National Laboratory Unveil Novel Approach to ...",
+              "snippet": "COLLEGE PARK, Md., December 30, 2024--IonQ (NYSE: IONQ), a leader in the quantum computing and networking industry, announced a technological breakthrough that demonstrates a new approach to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785786+00:00",
+              "published_date": null,
+              "source_hash": "aa9c875a68f4425148c01b19dec222d9"
+            },
+            {
+              "url": "",
+              "title": "New York Stock Exchange Showcases IonQ Technology in First Ever ...",
+              "snippet": "IonQ, Inc. is a leader in quantum computing that delivers high-performance systems capable of solving the world's largest and most complex commercial and research use cases. ... including but not limited to those described in the \"Risk Factors\" section of IonQ's most recent Quarterly Report on Form 10-Q and other documents filed by IonQ ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785799+00:00",
+              "published_date": null,
+              "source_hash": "2fedd76087abc26e7d7f8f7c20f96cb1"
+            },
+            {
+              "url": "",
+              "title": "IonQ and Oak Ridge National Laboratory Unveil Novel Approach to ...",
+              "snippet": "Innovative, noise-tolerant quantum algorithm reduces the number of two-qubit gates needed by over 85 percent, speeding up solutions for complex optimization problems. IonQ (NYSE: IONQ), a leader in the quantum computing and networking industry, announced a technological breakthrough that demonstrates a new approach to scalable quantum computing, resulting from a collaboration with Oak Ridge ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785811+00:00",
+              "published_date": null,
+              "source_hash": "706ad2580cc7702b071a9cc74c342f8d"
+            },
+            {
+              "url": "",
+              "title": "Is IonQ Leading the Quantum Revolution? Major Deals Fuel Growth",
+              "snippet": "IonQ Inc. (NYSE: IONQ) is a leading developer in the field of quantum computing, focusing on the commercialization of computers based on trapped ion technology. As artificial intelligence (AI ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785824+00:00",
+              "published_date": null,
+              "source_hash": "b75f40c82e67b0bfb33b9ec4bbc6d0d6"
+            },
+            {
+              "url": "",
+              "title": "IonQ to Increase Performance and Scale of Quantum Computers with ...",
+              "snippet": "IonQ, Inc. is a leader in quantum computing that delivers high-performance systems capable of solving the world's largest and most complex commercial and research use cases. ... including but not limited to those described in the \"Risk Factors\" section of IonQ's most recent Quarterly Report on Form 10-Q and other documents filed by IonQ ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:19.785836+00:00",
+              "published_date": null,
+              "source_hash": "a39eb5eedff84eaef0b67020d3a6d70d"
+            },
+            {
+              "url": "",
+              "title": "Better Quantum Computing Stock: IonQ vs. Quantum Computing, Inc.",
+              "snippet": "Can IonQ outperform Quantum Computing, Inc. in 2025 -- and beyond? Here's what you need to know about two leading names in the booming quantum computing market.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:22.255453+00:00",
+              "published_date": "2024-12-28T14:53:00+00:00",
+              "source_hash": "6a654391e64352817ca463a814b10743"
+            },
+            {
+              "url": "",
+              "title": "IonQ Completes Acquisition of Qubitekk, Solidifying Leadership in Quantum Networking",
+              "snippet": "IonQ (NYSE: IONQ), a leader in the quantum computing and networking industry, today announced the completion of its acquisition of substantially all of the assets of Qubitekk, Inc., a prominent quantum networking company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:22.255552+00:00",
+              "published_date": "2025-01-06T13:20:00+00:00",
+              "source_hash": "8fd94c582355ed999856980ec5a01a41"
+            },
+            {
+              "url": "",
+              "title": "1 Quantum Computing Stock to Buy Hand Over Fist",
+              "snippet": "Quantum computing, once a sci-fi fantasy, is rapidly becoming a reality with transformative potential across cryptography,artificial intelligence (AI), drug discovery, and climate modeling. Momentum is surging as the U.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:22.255584+00:00",
+              "published_date": "2024-12-19T22:25:00+00:00",
+              "source_hash": "0fb1ce5bf7a8f60be6bd3d1cbe947595"
+            },
+            {
+              "url": "",
+              "title": "IonQ Stock Price Prediction: 2024, 2025, 2030",
+              "snippet": "IonQ, Inc. is at the forefront ... though investors should consider the risks associated with emerging technologies. If IonQ succeeds in commercializing quantum computing, it could offer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:22.255608+00:00",
+              "published_date": "2024-12-25T23:59:00+00:00",
+              "source_hash": "aacc57b29e4227e27c4a2be660967991"
+            },
+            {
+              "url": "",
+              "title": "2 Cheap Quantum Computing Stocks to Buy Instead of Chasing IonQ",
+              "snippet": "Quantum computing is causing rumblings in the stock market, as evidenced by the interest in stocks like IonQ Inc ... radar if you have risk capital to burn. D-Wave Quantum Inc. (NYSE: QBTS ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IonQ Inc. IonQ Inc. quantum computing encryption risks",
+              "retrieved_at": "2025-01-06T14:28:22.255631+00:00",
+              "published_date": "2024-11-28T13:23:00+00:00",
+              "source_hash": "7aee81a95e6a64a81754a1f42432d06b"
+            },
+            {
+              "url": "",
+              "title": "IonQ Shareholders Lose Bid to Redo Suit Over Tech, Customers",
+              "snippet": "It would be futile for IonQ Inc. investors to re-plead their claims alleging the quantum computing company made misleading statements about its technology and the source of its bookings, a federal court ruled. ... dMY Technology Group Inc. III, misled investors about the existence and attributes of their technology, artificially inflating the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764739+00:00",
+              "published_date": null,
+              "source_hash": "af4cf46f8d211b5e546b4a04fa65ad9f"
+            },
+            {
+              "url": "",
+              "title": "Pomerantz Law Firm Announces the Filing of a Class Action Against IonQ ...",
+              "snippet": "NEW YORK, June 22, 2022 /PRNewswire/ -- Pomerantz LLP announces that a class action lawsuit has been filed against IonQ, Inc. (\"IonQ\" or the \"Company\") (NYSE: IONQ) and certain of its former officers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764855+00:00",
+              "published_date": null,
+              "source_hash": "a759089bf4d1c61d0780ca90a5a84867"
+            },
+            {
+              "url": "",
+              "title": "Leacock v. IonQ, Inc., Civ. DLB-22-1306 - Casetext",
+              "snippet": "IonQ, Inc., Civ. DLB-22-1306, see flags on bad law, and search Casetext's comprehensive legal database ... of IonQ's business call update held on September 20, 2021 and filed with the SEC (ECF 75-54). The plaintiffs do not dispute these documents are authentic or referenced in the amended complaint, but they want the Court to take judicial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764875+00:00",
+              "published_date": null,
+              "source_hash": "c7e58a36f7eb66ac743b94042ca34520"
+            },
+            {
+              "url": "",
+              "title": "IonQ Welcomes Tech Industry Veteran Stacey Giamalis as New Chief Legal ...",
+              "snippet": "COLLEGE PARK, Md., April 05, 2024--IonQ (NYSE: IONQ), a leader in the quantum computing industry, today announced the appointment of Stacey Giamalis as its new Chief Legal Officer and Corporate ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764890+00:00",
+              "published_date": null,
+              "source_hash": "04ff15563aa3bdbe31fbc9298f24f766"
+            },
+            {
+              "url": "",
+              "title": "IONQ ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action ...",
+              "snippet": "IONQ ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against IonQ, Inc. and Encourages Investors to Contact the Firm June 01, 2022 09:00 PM Eastern Daylight ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764902+00:00",
+              "published_date": null,
+              "source_hash": "3593aaa643ceae2bbea2fd099f960762"
+            },
+            {
+              "url": "",
+              "title": "IonQ Strengthens Technical Moat with its Latest Series of Issued Patents",
+              "snippet": "COLLEGE PARK, Md., November 12, 2024--IonQ (NYSE: IONQ), a leader in the quantum computing and networking industry, announced today the issuance of five new U.S. patents designed to deliver ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764914+00:00",
+              "published_date": null,
+              "source_hash": "c7afef19ce810ba6dc132a902382dc16"
+            },
+            {
+              "url": "",
+              "title": "IonQ, Inc. (IONQ) Stock Price, News, Quote & History - Yahoo Finance",
+              "snippet": "Find the latest IonQ, Inc. (IONQ) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764926+00:00",
+              "published_date": null,
+              "source_hash": "c59b3855ebeb8068d113a72e1d431156"
+            },
+            {
+              "url": "",
+              "title": "IonQ's Third-Quarter Results: Revenue Guidance Raised Amid Strategic ...",
+              "snippet": "IonQ reported third-quarter revenue of $12.4 million, a 102% increase year-over-year, and raised its full-year revenue forecast to between $38.5 million and $42.5 million. ... The acquisition, expected to close within six months, includes Qubitekk's intellectual property portfolio of 118 U.S. and international patents in quantum network ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764939+00:00",
+              "published_date": null,
+              "source_hash": "b69ea4e3e3924804bbb7927d308d02c8"
+            },
+            {
+              "url": "",
+              "title": "IonQ - Investor Relations",
+              "snippet": "IonQ is developing quantum computers designed to solve the world's most complex problems, and transform business, society and the planet for the better. ... and that its technology is protected by a robust intellectual property portfolio. IonQ holds a wide array of patents for fundamental technologies core to quantum computing and holds ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:23.764951+00:00",
+              "published_date": null,
+              "source_hash": "f96dd430e2b3b6b6bab310d45a3713e1"
+            },
+            {
+              "url": "",
+              "title": "What's Happening With IONQ Stock?",
+              "snippet": "The stock price of IonQ Inc. (NYSE: IONQ), a quantum computing company, is up a whopping 500% in the last six months. IonQ offers access to a range of quantum computers with varying qubit counts.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:26.344849+00:00",
+              "published_date": "2024-12-24T13:58:00+00:00",
+              "source_hash": "bb362bacee430bca52db24b7d0362d4b"
+            },
+            {
+              "url": "",
+              "title": "Why IONQ Inc. (IONQ) Skyrocketed Yesterday",
+              "snippet": "In this article, we are going to take a look at where IONQ Inc. (NYSE:IONQ) stands against the other stocks that skyrocketed yesterday. Ten companies\u2014predominantly involved in the quantum ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:26.344891+00:00",
+              "published_date": "2024-12-27T08:37:00+00:00",
+              "source_hash": "c2cb2cdd32a429059944f9d7c1697328"
+            },
+            {
+              "url": "",
+              "title": "Validea Detailed Fundamental Analysis - IONQ",
+              "snippet": "Below is Validea's guru fundamental report for IONQ INC (IONQ). Of the 22 guru strategies we follow, IONQ rates highest using our Quantitative Momentum Investor model based on the published ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:26.344899+00:00",
+              "published_date": "2025-01-03T14:00:00+00:00",
+              "source_hash": "39ddd8ec8e3c4361e1ea9c8d6df5dd0e"
+            },
+            {
+              "url": "",
+              "title": "IONQ Factor-Based Stock Analysis",
+              "snippet": "Below is Validea's guru fundamental report for IONQ INC (IONQ). Of the 22 guru strategies we follow, IONQ rates highest using our Quantitative Momentum Investor model based on the published ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:26.344905+00:00",
+              "published_date": "2025-01-01T13:59:00+00:00",
+              "source_hash": "bec5cae20badecf3fdb66799726b03ea"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With IonQ Stock Today?",
+              "snippet": "IonQ announces the launch of its quantum operating system called IonQ Quantum OS. IonQ unveils new capabilities in the IonQ hybrid services suite expected to greatly advance quantum computing for ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IonQ Inc. IonQ Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:28:26.344910+00:00",
+              "published_date": "2024-12-03T09:29:00+00:00",
+              "source_hash": "dd577791fc41e4e9669efcb9535db630"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "IonQ Inc. SPAC merger legal challenges",
+              "rationale": "Investigate potential legal issues or controversies related to IonQ's SPAC merger in 2021",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "IonQ Inc. quantum computing encryption risks",
+              "rationale": "Explore ethical and social concerns regarding IonQ's quantum computing technology and its potential to disrupt current encryption standards",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "IonQ Inc. intellectual property disputes",
+              "rationale": "Examine any ongoing or past intellectual property disputes involving IonQ, which could impact its competitive position",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:28:43.965235",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

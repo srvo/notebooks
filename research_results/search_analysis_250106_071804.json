@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:18:04.276050",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Snowflake Inc",
+      "symbol": "SNOW",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "High valuation multiples raising skepticism among investors",
+            "Significant customer concentration risk",
+            "Dependence on third-party cloud infrastructure providers",
+            "Intense competitive pressures from established and emerging players"
+          ],
+          "controversies": [
+            "Major data breach in 2024 affecting over 160 customers",
+            "Multidistrict litigation (MDL No. 3126) related to the data breach"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving net-zero emissions by 2030"
+          ],
+          "social_issues": [
+            "Reputational damage and customer trust issues due to data security breaches"
+          ],
+          "governance_issues": [
+            "Scrutiny of data security practices and potential governance lapses"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Is Snowflake (SNOW) Still a Solid Investment Despite Valuation Concerns?",
+              "snippet": "This would bring the EV-to-EBITDA multiple down to about 25x, a more palatable figure for investors. However, the key question is timing\u2014if Snowflake hits these targets by 2027 or 2028, there could still be upside potential. But if these milestones are delayed until 2030 or beyond, the premium valuation becomes harder to justify.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243710+00:00",
+              "published_date": null,
+              "source_hash": "c283f3c1b9e3fcb4f5885d48eaeb39c1"
+            },
+            {
+              "url": "",
+              "title": "Class action claims Snowflake is an overhyped sales blizzard",
+              "snippet": "The complaint then says that on March 2, 2022, Snowflake slashed its forecast for product revenue growth for the fiscal year to 65-67 percent, \"far below the triple-digit growth and purportedly ongoing favorable business trends highlighted by defendants.\" On the related earnings, Snowflake CFO Michael Scarpelli said Snowflake customers were consuming at a reduced rate, which he blamed on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243758+00:00",
+              "published_date": null,
+              "source_hash": "2999500693ae9c054ea2b34498a7c8f1"
+            },
+            {
+              "url": "",
+              "title": "Is Snowflake Stock's 9.47X PS Still Worth it? Buy, Sell, or Hold?",
+              "snippet": "Snowflake Inc. price-consensus-chart | Snowflake Inc. Quote. Slowing top-line growth is a concern. Snowflake expects fiscal 2025 product revenues of roughly $3.3 billion, indicating 24% year-over ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243767+00:00",
+              "published_date": null,
+              "source_hash": "ef1109b8c1bb30d0989f563362d2afbf"
+            },
+            {
+              "url": "",
+              "title": "SNOW Stock: Snowflake Bucks Valuation, Business Model Worries With End ...",
+              "snippet": "SNOW Stock: Big IPO, Valuation Issues In addition, Snowflake stock pulled off the largest initial public offering ever by a software company in September 2020. The Snowflake IPO raised $3.4 billion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243774+00:00",
+              "published_date": null,
+              "source_hash": "433ce3ed54ae689f00717c5d23dfbdf4"
+            },
+            {
+              "url": "",
+              "title": "Snowflake's (SNOW) Questionable Capital Allocation Strategy Calls for ...",
+              "snippet": "Snowflake's net revenue retention rate, which measures the revenue growth from existing customers, fell from a high of 178% in Fiscal 2022 to 131% in Fiscal 2024, suggesting that customers are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243780+00:00",
+              "published_date": null,
+              "source_hash": "02ffde48c49e7c9bd4059dcbc71df53f"
+            },
+            {
+              "url": "",
+              "title": "Snowflake's Stock Overvalued Amid Revenue Decline and Competitive ...",
+              "snippet": "Snowflake's operating margin is the lowest among the enterprise software companies covered, and its valuation is the richest, trading at more than double the average of its peers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243785+00:00",
+              "published_date": null,
+              "source_hash": "63c0370a97b72ff42b93282baaf735cc"
+            },
+            {
+              "url": "",
+              "title": "5 Reasons Why Snowflake's Valuation Is Rational, And One Reason Why Not",
+              "snippet": "Snowflake is currently selling at very high valuation multiples: 97 ttm EV/Sales and 67 forward EV/Sales. I will provide readers with multiple reasons why Snowflake's valuation may not be as crazy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243790+00:00",
+              "published_date": null,
+              "source_hash": "c85c65c77641dc29be860af7b7cece04"
+            },
+            {
+              "url": "",
+              "title": "Snowflake's (SNOW) Questionable Capital Allocation Strategy ... - Nasdaq",
+              "snippet": "A closer evaluation of Snowflake's cash flow statement reveals that the company spent $972.5 million for stock buybacks in the last fiscal year at an average stock price of close to $150.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243795+00:00",
+              "published_date": null,
+              "source_hash": "7a41925d4c5760b81f2b6da99ec09834"
+            },
+            {
+              "url": "",
+              "title": "A Look at Snowflake's Pros, Cons and Lofty Valuation - GuruFocus",
+              "snippet": "Valuation concerns. Then there is its lofty valuation. The company has a GF Value of around $597, implying it is significantly undervalued based on its historical ratios, past financial performance and analysts' future earnings projections. However, when I make a relative valuation with its industry key metrics, I see a rather overvalued stock.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243800+00:00",
+              "published_date": null,
+              "source_hash": "946f2c17964bddf65d82d329def7df9f"
+            },
+            {
+              "url": "",
+              "title": "SNOW - Snowflake Inc Ordinary Shares - Class A Valuation - Morningstar",
+              "snippet": "Review the current valuation for Snowflake Inc Ordinary Shares - Class A (SNOW:XNYS) stock based on a yearly calendar providing PE ratios, cash flow, EBITDA and other company valuation information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:31.243805+00:00",
+              "published_date": null,
+              "source_hash": "76d14d7333dd60f46a69c9ef9c63907f"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (SNOW) is Attracting Investor Attention: Here is What You Should Know",
+              "snippet": "Snowflake Inc. (SNOW) has been one of the most searched ... A higher fair value than the current market price drives investors' interest in buying the stock, leading to its price moving higher.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:33.782804+00:00",
+              "published_date": "2024-12-20T14:00:00+00:00",
+              "source_hash": "054f36b491f542e29430dce50467fc07"
+            },
+            {
+              "url": "",
+              "title": "Snowflake: Don't Be Fooled By The Market Again",
+              "snippet": "Snowflake Inc ... valuation of 33.8x, well below SNOW's 248x. Therefore, I cannot conjure feelings of optimism on the stock, notwithstanding its recent outperformance. I also beseech bullish ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:33.782908+00:00",
+              "published_date": "2024-11-30T16:35:00+00:00",
+              "source_hash": "c9b521ab7aadd376352c28bf8c33b21b"
+            },
+            {
+              "url": "",
+              "title": "Wedbush Issues Outperform Rating for Snowflake Inc (SNOW) Stock",
+              "snippet": "Snowflake Inc (SNOW) stock saw a modest uptick, ending the day at $157.51 which represents a slight increase of $3.10 or 2.01% from the prior close of $154.41. The stock opened at $156.99 and touched a low of $154.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:33.782938+00:00",
+              "published_date": "2024-12-02T17:08:00+00:00",
+              "source_hash": "8f178eea69ba16b7310895bb12a4a5bb"
+            },
+            {
+              "url": "",
+              "title": "Is Now The Time To Look At Buying Snowflake Inc. (NYSE:SNOW)?",
+              "snippet": "Let's talk about the popular Snowflake Inc. (NYSE ... Snowflake's valuation and outlook in more detail to determine if there's still a bargain opportunity. Good news, investors!",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:33.782962+00:00",
+              "published_date": "2024-12-15T12:02:00+00:00",
+              "source_hash": "126be00fd779fad44b1a1a50dd0100c3"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (SNOW) Is a Trending Stock: Facts to Know Before Betting on It",
+              "snippet": "Snowflake Inc. (SNOW) has been one of the most searched ... And when a stock's fair value is higher than its current market price, investors tend to buy the stock, resulting in its price moving ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc valuation concerns and investor lawsuits",
+              "retrieved_at": "2025-01-06T14:17:33.782985+00:00",
+              "published_date": "2024-12-09T14:00:00+00:00",
+              "source_hash": "fee9fc0d8ef161a9dfeff1d0125238bb"
+            },
+            {
+              "url": "",
+              "title": "2024 Snowflake Inc data breach - Wikipedia",
+              "snippet": "Data on more than 160 Snowflake customers was stolen, including AT&T, LiveNation / TicketMaster, Santander, Lending Tree, Advance Auto Parts, Neiman Marcus, and Bausch Health. [ 4 ] [ 5 ] A report on the extortion attacks from Mandiant notes that Snowflake victim companies were privately approached by the hackers, who demanded a ransom in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464404+00:00",
+              "published_date": null,
+              "source_hash": "8c1fafe17f1b2b8e5cb0a73fa5fd74b5"
+            },
+            {
+              "url": "",
+              "title": "Snowflake, Data Security Breach Litigation | District of Montana ...",
+              "snippet": "In Re: Snowflake, Inc., Data Security Breach Litigation, MDL No. 3126. This multidistrict litigation consolidates for pretrial purposes all federal cases involving a cluster of breaches of the Snowflake cloud platform that allegedly occurred from approximately April to June 2024, during which a threat actor stole data belonging to certain Snowflake corporate clients including AT&T, Advance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464500+00:00",
+              "published_date": null,
+              "source_hash": "bb98daeb5fc324d8dbc4f253d0419308"
+            },
+            {
+              "url": "",
+              "title": "Data Breach Lawsuits Over Failure To Safeguard Information on Snowflake ...",
+              "snippet": "Given common questions of fact and law raised in the claims being presented against Snowflake Inc. and various other companies, a motion to centralize the data breach lawsuits was filed with the U ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464516+00:00",
+              "published_date": null,
+              "source_hash": "94872dc272ce0d243e65e5db19a49692"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Data Breach Lawsuit Says Cloud Storage Provider Is to Blame ...",
+              "snippet": "Cloud storage provider Snowflake, Inc. faces a proposed class action lawsuit over its alleged failure to safeguard the sensitive information of its clients' current and former employees from a reported April 2024 data breach. Get class action lawsuit news sent to your inbox - sign up for ClassAction.org's free weekly newsletter here.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464527+00:00",
+              "published_date": null,
+              "source_hash": "39f54fe7a956720f01138717e626b1e6"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Breach Victims: 165 Organizations Identified So Far",
+              "snippet": "Mandiant first saw evidence of the Snowflake data breach campaign in April, when the company \"received threat intelligence on database records that were subsequently determined to have originated from a victim's Snowflake instance.\". In the subsequent investigation, Mandiant found that the organization's Snowflake instance had been compromised by a threat actor using credentials ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464538+00:00",
+              "published_date": null,
+              "source_hash": "584f7b0736a8a69762e95a18082c8d1e"
+            },
+            {
+              "url": "",
+              "title": "The Snowflake Attack May Be Turning Into One of the Largest Data ...",
+              "snippet": "In recent days, a BreachForums account going by the handle Sp1d3r has posted two more companies whose data it claims is related to the Snowflake incident: automotive giant Advance Auto Parts ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464550+00:00",
+              "published_date": null,
+              "source_hash": "c3d1c6bfdcb69559dc65894f38450df1"
+            },
+            {
+              "url": "",
+              "title": "Snowflake denies cyber-thieves broke through its security",
+              "snippet": "Updated Infosec analysts at Hudson Rock believe Snowflake was compromised by miscreants who used that intrusion to steal data on hundreds of millions of people from Ticketmaster, Santander, and potentially other customers of the cloud storage and analytics provider. Snowflake denies its security was defeated. This week one or more crooks going by the handle ShinyHunters was spotted putting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464562+00:00",
+              "published_date": null,
+              "source_hash": "ffcaf5e672963414edab97c6a6a88362"
+            },
+            {
+              "url": "",
+              "title": "Snowflake to Close Hacking Probe Into Attack Targeting Clients",
+              "snippet": "Snowflake Inc. plans to close its own investigation this week into a hacking campaign that ensnared as many as 165 of its customers. The cloud data and analytics company hasn't detected any unauthorized access into customer accounts since early last week, Chief Information Security Officer Brad Jones, said in an interview with Bloomberg News.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464572+00:00",
+              "published_date": null,
+              "source_hash": "fbe09d425b30e4fcfe6aaf7b7e262a16"
+            },
+            {
+              "url": "",
+              "title": "Snowflake data breach 2024 | Identite",
+              "snippet": "Snowflake Data Breach Campaign: How, Why, And What Conclusion Are We To Draw? In mid-April 2024, a series of data breaches linked to Snowflake, a multi-cloud data warehousing platform, sent ripples of concern throughout the cybersecurity community. Attackers got unauthorized access to a huge trove of sensitive data belonging to at least 165 high-profile companies using valid credentials to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464582+00:00",
+              "published_date": null,
+              "source_hash": "7d2e8992b4ffa16a1d5ecc0d020b9ed6"
+            },
+            {
+              "url": "",
+              "title": "Hacker Arrested in Major Data Breach Affecting Snowflake Customers ...",
+              "snippet": "The recent arrest of hacker Alexander \"Connor\" Moucka has unveiled a troubling data breach affecting over 165 Snowflake customers, raising critical questions about cybersecurity practices in the cloud services sector. With millions of personal records compromised, can companies truly safeguard their data without robust security measures?",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:35.464593+00:00",
+              "published_date": null,
+              "source_hash": "9cf46f6862f6a8dda0b1b37172dee7b8"
+            },
+            {
+              "url": "",
+              "title": "These were the badly handled data breaches of 2024",
+              "snippet": "It remains unknown how many patients are affected by the incident. The Qilin ransomware group claims to have leaked 400 gigabytes of sensitive data allegedly stolen from Synnovis, including patient names, health system registration numbers, and descriptions of blood tests.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:37.985351+00:00",
+              "published_date": "2024-12-31T16:23:00+00:00",
+              "source_hash": "425d568d14ad0d1bdd09019ac15bde0d"
+            },
+            {
+              "url": "",
+              "title": "More Snowflake Data Theft Claimed Amid Scrutiny Of MFA Policies: Reports",
+              "snippet": "A report indicated that Advance Auto Parts is allegedly the latest victim in a wave of data theft attacks ... may be involved in a security incident related to Snowflake\" and that the company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:37.985456+00:00",
+              "published_date": "2024-06-06T15:11:00+00:00",
+              "source_hash": "882081d11c057976ec105ecce4ac5a86"
+            },
+            {
+              "url": "",
+              "title": "SNOWFLAKE ONGOING INVESTIGATION NOTICE: Scott+Scott Attorneys at Law LLP Investigates Snowflake Inc.'s Directors and Officers for Breach of Fiduciary Duties - SNOW",
+              "snippet": "is investigating whether the leadership of Snowflake Inc. (\"Snowflake\") (NYSE: SNOW) breached their fiduciary duties to Snowflake and its shareholders. CLICK HERE TO LEARN MORE Scott+Scott is ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:37.985486+00:00",
+              "published_date": "2024-12-03T09:00:00+00:00",
+              "source_hash": "10d1533229603f2b805399efdb5922fd"
+            },
+            {
+              "url": "",
+              "title": "Data Theft Impacts From Snowflake Attacks Continue To Expand: Reports",
+              "snippet": "[Related: 10 Major Cyberattacks And Data Breaches In 2024 (So Far)] CRN has reached out to Ticketmaster, Neiman Marcus Group and Snowflake for comment. In June, widespread attacks targeting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:37.985510+00:00",
+              "published_date": "2024-07-09T15:25:00+00:00",
+              "source_hash": "696fa3df7b527105f640f6e3c9aaac95"
+            },
+            {
+              "url": "",
+              "title": "Lax Credential Hygiene at Root of Snowflake Breach: Researchers",
+              "snippet": "Security researchers at Google subsidiary Mandiant have traced the months-long Snowflake security breach to an attack group taking advantage of old credentials and weak authentication methods.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Snowflake Inc Snowflake Inc data security breaches and privacy controversies",
+              "retrieved_at": "2025-01-06T14:17:37.985531+00:00",
+              "published_date": "2024-06-12T00:00:00+00:00",
+              "source_hash": "11cf7d4595acf0606663c75347253e61"
+            },
+            {
+              "url": "",
+              "title": "Decoding Snowflake Inc (SNOW): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "Insightful examination of Snowflake Inc's robust customer growth and innovative cloud data solutions. ... and potential external risks. On December 1, 2023, Snowflake Inc ... revenue growth ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274929+00:00",
+              "published_date": null,
+              "source_hash": "a2709adc5d8d0f890b12e74fa1064635"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (SNOW): SWOT Analysis [10-2024 Updated] - dcf-fm",
+              "snippet": "High reliance on a few large customers for a significant portion of revenue. Snowflake is significantly reliant on a limited number of large customers. For instance, as of July 31, 2024, the company had 510 customers with trailing twelve-month product revenue exceeding $1 million, indicating a concentration risk.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274973+00:00",
+              "published_date": null,
+              "source_hash": "8f6001fb9c68876b46fdb88a66c5a3b1"
+            },
+            {
+              "url": "",
+              "title": "Decoding Snowflake Inc (SNOW): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "Founded in 2012 and publicly listed in 2020, Snowflake has demonstrated a strong trajectory, with its revenue climbing to $2.8 billion in 2024, a significant increase from $2.1 billion in 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274980+00:00",
+              "published_date": null,
+              "source_hash": "e35ac800349f09288684a57a889b3b17"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "with Existing Customers 171% NET REVENUE RETENTION Strong Large Customer Momentum $1M+ PRODUCT REVENUE CUSTOMERS Note: Fiscal year ends January 31. All figures are as of Q2 FY23. $1M+ product revenue customers is a measure of customers with greater than $1M in trailing 12-month product revenue contribution as of July 31, 2022.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274985+00:00",
+              "published_date": null,
+              "source_hash": "1167648dfda6987241edbe8bbffb75a7"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "These risks, uncertainties, assumptions, and other factors include, but are not limited to, those ... Snowflake Inc. in the United States and other countries. All other brand names or logos mentioned or used ... Customer Momentum $1M+ PRODUCT REVENUE CUSTOMERS 1 Note: Fiscal year ends January 31.All figures are as of or for Q2 FY24. Please see ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274988+00:00",
+              "published_date": null,
+              "source_hash": "19bc772604af2e35359b485ec6652957"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "For purposes of determining our customer count, we treat each customer account, including accounts for end-customers under a reseller arrangement, that has at least one corresponding capacity contract as a unique customer, and a single organization withmultiple divisions, segments, or subsidiaries may be counted as multiple customers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274992+00:00",
+              "published_date": null,
+              "source_hash": "a007a1a9330d3fc01ee596275f505bd8"
+            },
+            {
+              "url": "",
+              "title": "Decoding Snowflake Inc (SNOW): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "On March 26, 2024, Snowflake Inc (SNOW, Financial) filed its 10-K report, revealing a year of substantial growth and strategic positioning in the data warehousing and cloud-based solutions market.Founded in 2012 and publicly listed in 2020, Snowflake has demonstrated a strong trajectory, with its revenue climbing to $2.8 billion in 2024, a significant increase from $2.1 billion in 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274995+00:00",
+              "published_date": null,
+              "source_hash": "97ede2890134a10925b6c50b5c489c8b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "All figures are as of or for Q4 FY23. $1M+ product revenue customers is a measure of customers with greater than $1M in trailing 12-month product revenue contribution as of January 31, 2023. Please see the Appendix for definitions of net revenue retention rate and customers with trailing 12-month product revenue greater than $1M.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.274999+00:00",
+              "published_date": null,
+              "source_hash": "686bdf61736cbf4103b4c2118771d1e1"
+            },
+            {
+              "url": "",
+              "title": "Revenue Growth Is Slowing for Snowflake - Morningstar",
+              "snippet": "Roughly 93% of the firm's revenue is consumption-based, meaning that Snowflake is not a subscription-as-a-service company. ... The firm's net revenue retention rate illuminates the loyalty of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.275003+00:00",
+              "published_date": null,
+              "source_hash": "892a04c5c254dbc254c981bab0f9adcb"
+            },
+            {
+              "url": "",
+              "title": "The Data Is In: The 2022 Snowflake Customer Experience Report",
+              "snippet": "Key projects Snowflake engineers maintain and support. Builder Education. Online and in-person classes and workshops to upskill on Snowflake. Connect. Engineering Blog. Snowflake's technical leaders on what, why and how they build features. Community. Tips, tricks and discussion with fellow Snowflake developers. Language.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:41.275007+00:00",
+              "published_date": null,
+              "source_hash": "6d00ce7182c708b8741f6ecb6dfd2098"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (SNOW) Is a Trending Stock: Facts to Know Before Betting on It",
+              "snippet": "Snowflake Inc. (SNOW) has been one of the most searched ... It's almost impossible for a company to grow its earnings without growing its revenue for long periods. Therefore, knowing a company's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:44.803000+00:00",
+              "published_date": "2024-12-09T14:00:00+00:00",
+              "source_hash": "f3f4968066dfff4d051e9a2f8257bdf2"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (NYSE:SNOW) is a favorite amongst institutional investors who own 62%",
+              "snippet": "If you want to know who really controls Snowflake Inc. (NYSE:SNOW), then you'll have ... NYSE:SNOW Earnings and Revenue Growth January 4th 2025 Investors should note that institutions actually ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:44.803310+00:00",
+              "published_date": "2025-01-04T12:00:00+00:00",
+              "source_hash": "27d471808ab6b5487aedd25518cc1a1e"
+            },
+            {
+              "url": "",
+              "title": "Snowflake (SNOW) Price Prediction and Forecast 2025-2030",
+              "snippet": "Cloud-based data storage is big business and Snowflake Inc. is a major player. By 2030, its stock could explode alongside the industry.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:44.803332+00:00",
+              "published_date": "2024-12-30T22:54:00+00:00",
+              "source_hash": "17c720cbeb93ea553a31c992144c3b73"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (SNOW): Should You Invest In This Enterprise Software Stock Right Now?",
+              "snippet": "We recently compiled a list of the 11 Best Enterprise Software Stocks to Invest In. In this article, we are going to take a look at where Snowflake Inc. (NYSE:SNOW) stands against the other enterprise software stocks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:44.803345+00:00",
+              "published_date": "2024-12-27T09:16:51+00:00",
+              "source_hash": "fde75174f242e95c23fa2bdf33d94ee6"
+            },
+            {
+              "url": "",
+              "title": "Snowflake Inc. (SNOW) Falls More Steeply Than Broader Market: What Investors Need to Know",
+              "snippet": "analysts expect Snowflake Inc. to post earnings of $0.15 per share. This would mark a year-over-year decline of 40%. Our most recent consensus estimate is calling for quarterly revenue of $898.77 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Snowflake Inc Snowflake Inc customer concentration risks and revenue dependency",
+              "retrieved_at": "2025-01-06T14:17:44.803355+00:00",
+              "published_date": "2024-11-05T00:04:00+00:00",
+              "source_hash": "43730f959cb7bf1488b7f982f3c25b21"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Snowflake Inc valuation concerns and investor lawsuits",
+              "rationale": "Investigate potential legal challenges or investor concerns regarding Snowflake's high valuation and financial performance",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Snowflake Inc data security breaches and privacy controversies",
+              "rationale": "Explore any reported incidents or controversies related to data security, privacy, or compliance issues at Snowflake",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Snowflake Inc customer concentration risks and revenue dependency",
+              "rationale": "Assess the risks associated with Snowflake's reliance on a small number of large customers for a significant portion of its revenue",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:18:04.276060",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

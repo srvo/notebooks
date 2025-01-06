@@ -1,0 +1,507 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:14:52.921549",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Republic Bancorp Inc",
+      "symbol": "RBCAA",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Regulatory and legal risks, including FDIC fines and potential compliance weaknesses",
+            "Cybersecurity vulnerabilities, including data breach risks and reliance on third-party vendors",
+            "Customer complaints and inconsistent customer satisfaction",
+            "Economic and competitive pressures, including interest rate sensitivity and competition from fintech companies"
+          ],
+          "controversies": [
+            "FDIC fine for violating the Truth in Lending Act and Regulation Z",
+            "Data breach at Republic Bank of Chicago",
+            "Customer complaints filed with the Better Business Bureau"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer dissatisfaction and mixed customer reviews",
+            "Impact of COVID-19 relief measures on customer relations"
+          ],
+          "governance_issues": [
+            "Regulatory compliance weaknesses highlighted by FDIC fine",
+            "Dependence on third-party vendors for core banking systems and cybersecurity"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Republic Bank & Trust Company fined $300K - Bankers Online",
+              "snippet": "The FDIC issued a consent order of assessment of a $300,000 civil money penalty against Republic Bank & Trust Company, Louisville, Kentucky, having determined that the bank violated section 122(a) of the Truth in Lending Act, 15 U.S.C. \u00a7 1632(a), and section I026.5(a)(l) of Regulation Z, 12 C.F.R. \u00a7 1026.S(a)(l), by failing to clearly and conspicuously disclose required",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004173+00:00",
+              "published_date": null,
+              "source_hash": "b726c516995ed8b85be28a544e0510ee"
+            },
+            {
+              "url": "",
+              "title": "Republic First Bank dba Republic Bank | FDIC.gov",
+              "snippet": "You may withdraw your funds from any transferred account without an early withdrawal penalty until you enter into a new deposit agreement with Fulton Bank, N.A. as long as the deposits are not pledged as collateral for loans. ... Republic First Bancorp, Inc. 50 South 16th Street, Suite 2400 Philadelphia, PA 19102. Back to the Top. Contact ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004221+00:00",
+              "published_date": null,
+              "source_hash": "7a7ea3792246a49b9f39d81efa63bfcc"
+            },
+            {
+              "url": "",
+              "title": " Republic First Bank DBA Republic Bank, Philadelphia, PA - FAQs - FDIC",
+              "snippet": "informationfrom you by individuals or e ntities stating they are actin g on behalf o f Republic First Bank dba Republic Bank, Fulton Bank, N.A., or the FDIC. I HAVE MORE QUESTIONS. Please contact the call center at the number provided below with any additional questions: FDIC CALL CENTER: 1-8 88-206-4662 Hours of Operation-Central Time",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004231+00:00",
+              "published_date": null,
+              "source_hash": "2ce8b06534f36be33795798ada55cf47"
+            },
+            {
+              "url": "",
+              "title": "Former First Republic Bank executives under FDIC investigation",
+              "snippet": "The FDIC can also impose fines on these individuals. ... First Republic Bank executives are under investigation by the Federal Deposit Insurance Corp. for potential misconduct, ... \"The net result of these machinations is that, without a complete regulatory review, and at a cost of $13 billion to the Federal Deposit Insurance Fund, the nation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004238+00:00",
+              "published_date": null,
+              "source_hash": "f93ac58d3e9100aefb3985c1fd45ffd5"
+            },
+            {
+              "url": "",
+              "title": "EDOS - Federal Deposit Insurance Corporation",
+              "snippet": "About. The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stability and public confidence in the nation's financial system.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004244+00:00",
+              "published_date": null,
+              "source_hash": "a21e7a34dee1cf24b7afc589515980b5"
+            },
+            {
+              "url": "",
+              "title": " Republic Bancorp, Inc. and Republic Bank & Trust Company Code of ...",
+              "snippet": "REPUBLIC BANCORP, INC. AND REPUBLIC BANK & TRUST COMPANY CODE OF CONDUCT AND ETHICS . i Approved November 2023 Version 11.23.1 ... customers, providers of services to the Bank, competitors of the Bank, and governmental and regulatory authorities. In all situations, including those where there are no applicable legal principles or the law is unclear",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004249+00:00",
+              "published_date": null,
+              "source_hash": "b0727bd1ef2ce9d9e632191ef6d27a86"
+            },
+            {
+              "url": "",
+              "title": "FDIC Should Downgrade Three Banks Engaged in Predatory \"Rent-a-Bank ...",
+              "snippet": "Utah's Capital Community Bank (CC Bank) and First Electronic Bank, along with Kentucky's Republic Bank & Trust, use \"rent-a-bank\" schemes to help third-party, non-bank lenders evade state rate caps on loans with up to 225% annual interest rates, failing to meet the convenience and needs of the communities the banks are meant to serve ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004255+00:00",
+              "published_date": null,
+              "source_hash": "eda00ff4f8db04f138e2756a2655c74e"
+            },
+            {
+              "url": "",
+              "title": "Legal Challenges and Lawsuits Facing Republic Finance",
+              "snippet": "Republic Finance, a significant player in the financial services industry, confronts multiple legal challenges that could potentially impact its operations and reputation. As financial companies are heavily regulated, any legal misstep can lead to serious consequences including lawsuits, regulatory penalties, and loss of consumer trust.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004261+00:00",
+              "published_date": null,
+              "source_hash": "20ff9977779569f1d27e185a51fec260"
+            },
+            {
+              "url": "",
+              "title": "Republic First becomes the 6th largest bank failure since 2010",
+              "snippet": "The FDIC entered into an agreement in which Fulton Financial Corp. subsidiary Fulton Bank NA will assume substantially all of the deposits and purchase substantially all of the assets of Republic First Bank. Republic First, which had $5.87 billion in total assets as of year-end 2023, is the sixth-largest failed bank by total assets since 2010 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004267+00:00",
+              "published_date": null,
+              "source_hash": "041143c1f92d8dda91fffe5983114d56"
+            },
+            {
+              "url": "",
+              "title": "Republic First Bancorp, Inc. Files For Bankruptcy",
+              "snippet": "On August 27, 2024 (the \"Petition Date\") Republic First Bancorp, Inc. filed a voluntary petition for relief under Chapter 11 of the United States Bankruptcy Code.The Debtor's case was assigned case no. 24-12991-amc and is pending before the honorable Judge Chief Ashely M. Chan in the U.S. Bankruptcy Court Pennsylvania Eastern District (the \"Bankruptcy Court\") Philadelphia division office.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T17:14:21.004272+00:00",
+              "published_date": null,
+              "source_hash": "0231c46b899b95a0dbc3123a9f2b9b4f"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Republic Bank filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011318+00:00",
+              "published_date": null,
+              "source_hash": "4edf5d8c46de43c70c6c68949fd18e77"
+            },
+            {
+              "url": "",
+              "title": "Republic Bancorp - 767 Reviews - Banks - Birdeye",
+              "snippet": "Read 767 customer reviews of Republic Bancorp, one of the best Banks businesses. Find reviews, ratings, directions, business hours, and more. Write a review. ... Republic Bancorp. Share this brand profile. 3.4. 767 reviews. across 52 locations. Locations finder. Location performance in the last.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011357+00:00",
+              "published_date": null,
+              "source_hash": "4dbaddff6ea5f8e9affe302f9402f9f0"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank Reviews | Read Customer Service Reviews of ... - Yelp",
+              "snippet": "15 people have already reviewed Republic Bank. Read republicbank.com customer experiences and share your own! Yelp. Yelp for Business. Write a Review. ... Republic Bank has an average rating of 2.9 from 15 reviews. The rating indicates that most customers are generally dissatisfied. ... Recent reviews of Republic Bank. Overall rating. 15 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011366+00:00",
+              "published_date": null,
+              "source_hash": "63c6c94a6f5158b93e065e38cddc105e"
+            },
+            {
+              "url": "",
+              "title": "Ripoff Report | republic bank complaints, reviews, scams, lawsuits and ...",
+              "snippet": "Republic Bank Republic Bank and Trust Co accepted a check i wrote to a payday loan co, 45 times on a empty account they never called to let me know the company was trying to collect i didnt hear a word untill i had 1900.00 in fees my fe Covington, Kentucky",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011374+00:00",
+              "published_date": null,
+              "source_hash": "ae0dd6d2ed1f7f3b2be1dc1b873ec3b7"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank & Trust Company Reviews and Complaints",
+              "snippet": "As a result, only 10% of 10 complaints are resolved. The support team may have poor customer service skills, lack of training, or not be well-equipped to handle customer complaints. Republic Bank & Trust Company protects their ownership data, a common and legal practice.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011380+00:00",
+              "published_date": null,
+              "source_hash": "553f68f177b0451bf6b85005e79523d2"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank Review 2025 - ConsumerAffairs",
+              "snippet": "Republic Bank is a regional financial institution with 47 banking centers spread across Florida, Indiana, Kentucky, Ohio and Tennessee. It uses the Republic Bank, Presto, Sum, MoneyPass and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011386+00:00",
+              "published_date": null,
+              "source_hash": "d81c3e4d2214101ff837f308a78cf847"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank | BBB Business Profile - Better Business Bureau",
+              "snippet": "Republic Bank has 47 locations, ... The Complaints and Customer Reviews shown on this profile include all complaints and reviews submitted about either the business headquarters or any of its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011392+00:00",
+              "published_date": null,
+              "source_hash": "fcf6657acbf5b80a32c8eb0e7608ca30"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank Reviews | Read Customer Service Reviews of ... - Yelp",
+              "snippet": "34 people have already reviewed Republic Bank. Read myrepublicbank.com customer experiences and share your own! Yelp. Yelp for Business. Write a Review. ... Recent reviews of Republic Bank. Overall rating. 34 reviews based on 7 locations. 34 reviews based on 7 locations. 5. 4. 3. 2. 1. ... REPUBLIC bank should really change their name to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011397+00:00",
+              "published_date": null,
+              "source_hash": "367da3e1353c214c88e567b8216832a3"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank Reviews & Complaints - Bank Branch Locator",
+              "snippet": "Republic Bank has an overall customer satisfaction rating of 3.8 out of 5 stars based on 25 votes and 4 reviews & complaints for 46 branches. Below you can read unbiased reviews, complaints and comments for branches or the bank in general. You can also share your own toughts and complaints about Republic Bank using the form below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011403+00:00",
+              "published_date": null,
+              "source_hash": "da8fa78b09fc7517da9eea0f51fded8c"
+            },
+            {
+              "url": "",
+              "title": " Republic Bancorp, Inc. and Republic Bank & Trust Company Code of ...",
+              "snippet": "Approved November 2023 Version 11.23.1 REPUBLIC BANCORP, INC. AND REPUBLIC BANK & TRUST COMPANY CODE OF CONDUCT AND ETHICS",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:25.011409+00:00",
+              "published_date": null,
+              "source_hash": "8b2842f125805cf2ad47176093b6b717"
+            },
+            {
+              "url": "",
+              "title": "Customers Bancorp, Inc. Sued for Securities Law Violations - Investors Should Contact Levi & Korsinsky for More Information - CUBI",
+              "snippet": "NEW YORK, NY / ACCESSWIRE / December 29, 2024 / If you suffered a loss on your Customers Bancorp, Inc. (NYSE:CUBI) investment and want to learn",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:28.664713+00:00",
+              "published_date": "2024-12-30T00:01:00+00:00",
+              "source_hash": "1ed8bd9ac4a36b646f683287419755e6"
+            },
+            {
+              "url": "",
+              "title": "Customers Bancorp Inc Is Being Sued For Violating Securities Regulations And The Schall Law Firm Encourages Stockholder Participation",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / December 7, 2024 / The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Customers Bancorp, Inc. (\"Customers ... According to the Complaint, the Company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:28.664743+00:00",
+              "published_date": "2024-12-07T17:00:00+00:00",
+              "source_hash": "f4ce1a3b048286f08f1653aad1ac9032"
+            },
+            {
+              "url": "",
+              "title": "Customers Bancorp (NYSE: CUBI) Securities Fraud: Contact Berger Montague To Discuss Your Rights",
+              "snippet": "December 27, 2024) - Berger Montague PC advises investors that a securities class action lawsuit has been filed against Customers Bancorp, Inc. (\"Customers Bancorp\" or the \"Company\") (NYSE: CUBI) on behalf of purchasers of Customers Bancorp securities between March 1,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc customer complaints or lawsuits",
+              "retrieved_at": "2025-01-06T17:14:28.664752+00:00",
+              "published_date": "2024-12-27T14:58:00+00:00",
+              "source_hash": "16cd2e42130ba54d6d91ebea13df01d4"
+            },
+            {
+              "url": "",
+              "title": "Republic Bancorp, Inc. Cyber Security Rating & Vendor Risk Report ...",
+              "snippet": "Republic Bancorp, Inc. is a financial holding company of Republic Bank & Trust Company (the Bank) and Republic Insurance Services, Inc. (the Captive). Republic Bank provides traditional commercial banking products and services to small- and medium-sized businesses.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.942971+00:00",
+              "published_date": null,
+              "source_hash": "e4fd618c48636070e596bb4532b9e175"
+            },
+            {
+              "url": "",
+              "title": "REPUBLIC BANCORP INC /KY/ 10-K Cybersecurity GRC - 2024-03-14",
+              "snippet": "REPUBLIC BANCORP INC /KY/ reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-03-14 08:46:49 EDT. Filings 10-K filed on 2024-03-14 Company Information Filings 10-K filed on 2024-03-14 REPUBLIC BANCORP INC /KY/ filed a 10-K at 2024-03-14 08:46:49 EDT Accession Number: 0001558370-24-003170 Note: filing items unformatted. Drop us a note with the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943023+00:00",
+              "published_date": null,
+              "source_hash": "d9c8a55fa518d9c153f62f6a9dbdeb84"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank of Chicago Data Breach Class Action Investigation",
+              "snippet": "Markovits, Stock & DeMarco, a law firm experienced in data breach cases, is investigating claims on behalf of victims of a data breach involving data entrusted to Republic Bank of Chicago.. Republic Bank of Chicago, a financial services company based in Illinois, announced that it has experienced a data breach.If you received a notice of data breach letter from Republic Bank of Chicago, please ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943043+00:00",
+              "published_date": null,
+              "source_hash": "2aa061e2c7f99e37f7fc0153ad63668b"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank Data Breach in 2023 - Breachsense",
+              "snippet": "Learn everything about the Republic Bank data breach in 2023 Data Breach Report Victim republicbank.com Threat Actor ALPHV Date Discovered Oct 18, 2023 Description Republic Bank deals with banking services such as loans, treasury management, mortgages, credit cards, payments and business cards.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943050+00:00",
+              "published_date": null,
+              "source_hash": "91687e78d0e87372ef4d62722c550e7e"
+            },
+            {
+              "url": "",
+              "title": "Republic First Bancorp Security Rating, Vendor Risk Report ... - UpGuard",
+              "snippet": "Republic First Bancorp is a Philadelphia-based bank founded in 1988. In 2008, the bank shifted from commercial banking to retail banking. UpGuard continuously monitors the security posture of Republic First Bancorp using open-source, commercial, and proprietary threat intelligence feeds.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943055+00:00",
+              "published_date": null,
+              "source_hash": "6faf1489f05a03f2d6acf71e9196a670"
+            },
+            {
+              "url": "",
+              "title": "INTERARCH, INC. v. REPUBLIC FIRST BANCORP, INC. et al, No. 2 ...",
+              "snippet": "REPUBLIC FIRST BANCORP, INC. et al., Defendants. CIVIL ACTION No. 22-cv-04735 MEMORANDUM KENNEY, J. I. JANUARY 18, 2024 INTRODUCTION Defendants Republic First Bancorp, Inc., Rodney Dean, and John Chessa (together, \"Defendants\" or \"Republic\"), move to dismiss Counts I (copyright infringement), V (trade dress infringement), and VI of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943060+00:00",
+              "published_date": null,
+              "source_hash": "b624085f07362069ffcba54cb00a2afc"
+            },
+            {
+              "url": "",
+              "title": "Republic Bancorp, Inc. - Robbins LLP",
+              "snippet": "Robbins Umeda LLP Announces an Investigation of Republic Bancorp, Inc. for Shareholders Robbins Umeda LLP, a shareholder rights litigation firm, has commenced an investigation into possible breaches of fiduciary duty and other violations of the law by certain officers and directors at Republic Bancorp, Inc. (NASDAQGS: RBCAA). Republic Bancorp operates as the holding company for [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943066+00:00",
+              "published_date": null,
+              "source_hash": "d11c63f0112f89432e405e6223226e9e"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank of Chicago Data Breach Alert: Issued by Wolf Haldenstein ...",
+              "snippet": "If you wish to discuss this data breach incident, or if you have any questions regarding your rights and interests in this matter, please immediately contact Wolf Haldenstein by telephone at (800 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943073+00:00",
+              "published_date": null,
+              "source_hash": "39af2baa6376f0832887b392345d4240"
+            },
+            {
+              "url": "",
+              "title": "Republic Bank of Chicago Cyber Security Rating & Vendor Risk Report ...",
+              "snippet": "View Republic Bank of Chicago's cyber security risk rating against other vendors' scores. Explore cyber risks, data breaches, and cybersecurity incidents involving Republic Bank of Chicago",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943078+00:00",
+              "published_date": null,
+              "source_hash": "07373a72af319437dae1a83c39e57afc"
+            },
+            {
+              "url": "",
+              "title": "Republic Bancorp Inc. - AnnualReports.com",
+              "snippet": "Republic Bancorp, Inc. operates as the holding company for Republic Bank & Trust Company and Republic Bank, which provides banking, tax refund solutions, and mortgage banking services to individuals and businesses in the United States.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:31.943083+00:00",
+              "published_date": null,
+              "source_hash": "698cb590322cdd3a66d8206831d9b091"
+            },
+            {
+              "url": "",
+              "title": "Republic Bancorp, Inc. Declares Common Stock Dividends",
+              "snippet": "LOUISVILLE, Ky.--(BUSINESS WIRE)--Republic Bancorp, Inc. (NASDAQ: RBCAA), parent company of Republic Bank & Trust Company, declared a cash dividend of $0.407 per share on Class A Common Stock and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:35.523638+00:00",
+              "published_date": "2024-11-20T16:01:00+00:00",
+              "source_hash": "4a24b51062a662d09e8cea5e0fe7922a"
+            },
+            {
+              "url": "",
+              "title": "Biden Administration Confirms China Cyber Breach of U.S. Treasury Department",
+              "snippet": "A Chinese state-sponsored cyberattack on the U.S. Treasury Department, compromising workstations and unclassified documents. Newsweek's live blog is closed.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:35.523661+00:00",
+              "published_date": "2024-12-31T11:34:00+00:00",
+              "source_hash": "5e0783f11bff818b79216caa43f27bbf"
+            },
+            {
+              "url": "",
+              "title": "Republic Bancorp, Inc. Declares Common Stock Dividends",
+              "snippet": "Republic Bancorp, Inc. (NASDAQ: RBCAA), parent company of Republic Bank & Trust Company, declared a cash dividend of $0.407 per share on Class A Common Stock and $0.37 per share on Class B Common ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Republic Bancorp Inc Republic Bancorp Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:14:35.523667+00:00",
+              "published_date": "2024-11-20T21:00:00+00:00",
+              "source_hash": "0b1242605fd249825ebbb5b0efcd1855"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Republic Bancorp Inc regulatory fines or penalties",
+              "rationale": "Investigate any recent legal or regulatory actions against the company",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Republic Bancorp Inc customer complaints or lawsuits",
+              "rationale": "Identify any patterns of customer dissatisfaction or legal disputes",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Republic Bancorp Inc cybersecurity breaches",
+              "rationale": "Assess the company's vulnerability to and history of cyberattacks",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:14:52.921553",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

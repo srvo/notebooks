@@ -1,0 +1,537 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:52:33.797406",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Radware Ltd",
+      "symbol": "RDWR",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Intense competition from major players like F5 Networks, Cloudflare, Akamai, and Palo Alto Networks leading to pricing pressures and margin erosion",
+            "Potential cybersecurity risks as Radware itself could be a target for cyberattacks, damaging its reputation and customer trust",
+            "Economic uncertainty, including inflation and potential reductions in IT spending, negatively impacting demand for Radware\u2019s solutions",
+            "Regulatory challenges due to evolving data protection and cybersecurity regulations increasing operational costs and complexity",
+            "Dependence on partnerships with major cloud providers (e.g., AWS, Azure, Google Cloud) posing risks if relationships are disrupted or if cloud providers develop competing solutions"
+          ],
+          "controversies": [
+            "Involvement in patent litigation with competitors like F5 Networks and A10 Networks, raising concerns about intellectual property disputes and potential legal costs",
+            "Disputes in *Radware, Ltd. v. F5 Networks, Inc.* centered on patent infringement claims and the timing of patent notifications, highlighting potential vulnerabilities in Radware\u2019s IP strategy"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Radware, Ltd. v. F5 Networks, Inc. - Casetext",
+              "snippet": "However, the parties' dispute whether the BIG-IP and 3DNS existed in a \"single device\" before Radware's priority date. F5 presented documentation as well as testimony from three witnesses in support of its argument that the BIG-IP and 3DNS were sold together before Radware's effective filing date.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663761+00:00",
+              "published_date": null,
+              "source_hash": "9335735f9b9e62e94f45f4675eef0c0e"
+            },
+            {
+              "url": "",
+              "title": "Radware, Ltd. v. F5 Networks, Inc. - Casetext",
+              "snippet": "Read Radware, Ltd. v. F5 Networks, Inc ... Trial Tr. vol. 3, 346:1-3. Radware does not dispute that Radware itself did not provide notice of the '319 Patent to F5 until Radware commenced this lawsuit on May 1, 2013. ... It is undisputed that Radware never actively informed F5 of any of its patents or patent applications before Radware filed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663868+00:00",
+              "published_date": null,
+              "source_hash": "6c680cf7406aa30cccab583b6581e2a8"
+            },
+            {
+              "url": "",
+              "title": "Radware, Ltd. v. F5 Networks, Inc. - Casetext",
+              "snippet": "Radware and F5 agree that this Court has subject matter jurisdiction over Radware's claims under 28 U.S.C. \u00a7\u00a7 1331, 1367, and 1338. Radware and F5 further agree that this Court has personal jurisdiction over Radware and F5, and that venue is proper in this Court, for the purposes of this action. All Parties have been served. 2. STATEMENT OF FACTS",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475279+00:00",
+              "published_date": null,
+              "source_hash": "8cc713e904da7fc23e31b3eeebdc2e57"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "F5 Networks, Inc. v. Radware, Ltd. and Radware, Inc., No. 03-cv-00688-MJP (W.D. Wash.). Id. at \u00b6 13. In 2004, Radware and F5 settled the lawsuit, resulting in part in a Nonexclusive Patent License Agreement, dated September 10, 2004 (the \"License Agreement\"). Id. Under the License Agreement, F5 granted Radware the right to practice",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663900+00:00",
+              "published_date": null,
+              "source_hash": "f49e2debeab2b9ded065fd9455ae9740"
+            },
+            {
+              "url": "",
+              "title": "Radware, LTD. et al v. A10 Networks, Inc., No. 5:2013cv02021 - Document ...",
+              "snippet": "Radware, LTD. et al v. A10 Networks, Inc., No. 5:2013cv02021 - Document 170 (N.D. Cal. 2014) case opinion from the Northern District of California US Federal District Court",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663912+00:00",
+              "published_date": null,
+              "source_hash": "27f947d5fc108d4f19b8741bda6e9a40"
+            },
+            {
+              "url": "",
+              "title": "Radware, LTD. | NPE Litigation Database",
+              "snippet": "Only \"example\" cases are shown here, for full list contact Shawn Miller",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663924+00:00",
+              "published_date": null,
+              "source_hash": "26eb7f4f468b899c950ee2c996fc067e"
+            },
+            {
+              "url": "",
+              "title": "Kramer Levin Wins Dismissal of Delaware Bankruptcy Court Adversary ...",
+              "snippet": "The claims were based on an alleged transfer of SNMP-copyrighted software to Radware through Radware's acquisition of Nortel Networks'Layer 4-7 application delivery business in 2009 with approval of the Nortel bankruptcy court. Kramer Levin Corporate attorneys Ernest S. Wechsler and Seth R. Merl led the lengthy transaction.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663934+00:00",
+              "published_date": null,
+              "source_hash": "561f5c7ffd8fdcb51899963d13a461fc"
+            },
+            {
+              "url": "",
+              "title": "RADWARE, LTD. v. F5 NETWORKS, INC. , No. 17-1212 (Fed. Cir. 2017)",
+              "snippet": "RADWARE, LTD. v. F5 NETWORKS, INC. , No. 17-1212 (Fed. Cir. 2017) case opinion from the US Court of Appeals for the Federal Circuit",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663944+00:00",
+              "published_date": null,
+              "source_hash": "74b2ed7e49e8a6c4d0bd86f825f6267a"
+            },
+            {
+              "url": "",
+              "title": "Radware, Ltd. v. F5 Networks, Inc. - Casetext",
+              "snippet": "Read Radware, Ltd. v. F5 Networks, Inc., Case No. 5:13-cv-02024-RMW, ... B. Legal Standard. Summary judgment on patent infringement is a two-step analysis. \"First, the claims of the patent must be construed to determine their scope. ... if cited, would raise a genuine dispute of fact on whether Radware has met its burden of proving infringement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663954+00:00",
+              "published_date": null,
+              "source_hash": "194e540399173791ffe038303a256658"
+            },
+            {
+              "url": "",
+              "title": "Radware Wins Patent Infringement Against F5 Networks in - GlobeNewswire",
+              "snippet": "Radware's public filings are available from the SEC's website at www.sec.gov or may be obtained on Radware's website at www.radware.com. Tags Radware F5 Networks Patent Lawsuit",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:03.663964+00:00",
+              "published_date": null,
+              "source_hash": "12c52bc8bbc5bd3dbfc507e79368274b"
+            },
+            {
+              "url": "",
+              "title": "Why Radware Ltd. (RDWR) Is Among the Best Cybersecurity Stocks to Buy According to Wall Street Analysts?",
+              "snippet": "In this article, we are going to take a look at where Radware Ltd. (NASDAQ:RDWR) stands against the other best cybersecurity stocks to buy. The widespread growth of internet usage has seamlessly ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:07.125173+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "ac2f8965ad68fe5246e9b388ec813a0e"
+            },
+            {
+              "url": "",
+              "title": "Radware Expands Cybersecurity Agreement with Leading Italian Bank to Enhance Protection Against DDoS Attacks",
+              "snippet": "could differ materially from Radware's current forecasts and estimates. Factors that could cause or contribute to such differences include, but are not limited to: the impact of global economic ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:07.125285+00:00",
+              "published_date": "2024-12-19T11:10:00+00:00",
+              "source_hash": "f444cd3658c5703266b95ab64cfd57c1"
+            },
+            {
+              "url": "",
+              "title": "Radware Provides Cloud DDoS Protection for a Midwestern U.S. Top 10 Higher Education Institution",
+              "snippet": "MAHWAH, N.J., Nov. 20, 2024 (GLOBE NEWSWIRE) -- Radware&circledR; (NASDAQ: RDWR), a global leader in application security and delivery solutions for multi-cloud environments, announced it will be providing Hybrid Cloud DDoS Protection Services for one of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:07.125319+00:00",
+              "published_date": "2024-11-20T11:01:00+00:00",
+              "source_hash": "05b8ed61744d9261aeb876d5eb8e2ac0"
+            },
+            {
+              "url": "",
+              "title": "Radware Ltd. (RDWR) Launches AI SOC Xpert: Revolutionizing Cybersecurity with AI-Driven Incident Resolution for DDoS and Application Security",
+              "snippet": "In this article, we are going to take a look at where Radware Ltd. (NASDAQ:RDWR) stands against the other AI stocks you should keep on your radar. As reported by CNBC on November 13, OpenAI's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T19:52:07.125345+00:00",
+              "published_date": "2024-12-16T08:17:00+00:00",
+              "source_hash": "5ac6849f8a1ba6894c80f0b8332f7a4e"
+            },
+            {
+              "url": "",
+              "title": "Radware: Code of Ethics | Investor Relations",
+              "snippet": "Review our corporate Code of Ethics. This CODE OF CONDUCT AND ETHICS (the \"Code\") is applicable to all full time, part-time and temporary employees (collectively \"Employees\") and agents, representatives, consultants, advisors, and other similarly titled independent contractors (collectively \"Consultants\") of Radware Ltd. (the \"Parent\"), its branches and its wholly owned ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475056+00:00",
+              "published_date": null,
+              "source_hash": "98be0f921052d1d6ac4888b83ecec711"
+            },
+            {
+              "url": "",
+              "title": "Governance | Corporate Responsibility - Radware",
+              "snippet": "Radware is committed to the highest standards of business ethics and corporate governance, which are critical to our business integrity and investors' trust in us. We adopted Code Of Conduct And Ethics that encourages honest and ethical conduct. ... Learn how Radware EPIC-AI\u2122 rapidly resolves issues CUSTOMERS Read case studies, reviews and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475188+00:00",
+              "published_date": null,
+              "source_hash": "9286190ab6322624032d3fe1906cbeca"
+            },
+            {
+              "url": "",
+              "title": "Radware, Ltd., and Radware, Inc. v. A10 Networks, Inc. - Casetext",
+              "snippet": "Radware, Ltd. and Radware, Inc. (collectively \"Radware\") move for in camera review of materials supporting its motion to disqualify Irell & Manella LLP (\"Irell\"). Dkt. No. 79. For the reasons stated below, Radware's motion is GRANTED, subject to Radware's agreement to supply the confidential materials to the Irell attorneys involved in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475228+00:00",
+              "published_date": null,
+              "source_hash": "7074467ab2868f04d4c4de2557081f4e"
+            },
+            {
+              "url": "",
+              "title": "Radware, Ltd. v. A10 Networks, Inc. - Casetext",
+              "snippet": "Read Radware, Ltd. v. A10 Networks, Inc., Case Nos. C-13-02021, C-13-02024 RMW (related), ... there is no longer a controversy between the parties. Radware also notes that it would be estopped from asserting the silently withdrawn claims in future patent litigation. Nonetheless, in light of the Federal Circuit's case law that even some ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475255+00:00",
+              "published_date": null,
+              "source_hash": "4f1ea4d9105037395c82effb37adf94c"
+            },
+            {
+              "url": "",
+              "title": "Corporate Governance - Radware",
+              "snippet": "Radware believes that investing in our people, preserving our environment, giving back to our communities and maintaining a sound business ethics, are the keys to our success. At Radware, we help customers protect their critical applications and secure their digital experiences at all times, anywhere in the world, enabling businesses to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475304+00:00",
+              "published_date": null,
+              "source_hash": "239e72189e76fd15f15f8ddd43ca4a21"
+            },
+            {
+              "url": "",
+              "title": "Working at Radware: 13 Reviews - Indeed",
+              "snippet": "Radware is in providing data center solutions to hosting companies/managed services companies or enterpris data centers. Their main focus is load balancing, network security (DDoS, Application Firewall, etc) for virtualization and cloud.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475327+00:00",
+              "published_date": null,
+              "source_hash": "3b112de8dd31a7e8ca335e62f84a5629"
+            },
+            {
+              "url": "",
+              "title": "Radware, LTD. | NPE Litigation Database",
+              "snippet": "Radware, LTD. Cases where party is a Patent Asserter. Case. DJ. Civil Action . Venue. Items per page. Only \"example\" cases are shown here, for full list contact Shawn Miller . Cases where party is an Alleged Infringer. Displaying 1 - 1 of 1 Case. DJ. Civil Action . Venue. Items per page # Title Civil Action ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475349+00:00",
+              "published_date": null,
+              "source_hash": "03b391eff97ad9bb112a2fe27e98fc9d"
+            },
+            {
+              "url": "",
+              "title": "Radware Reviews by 20+ Employees | Rated 3.3/5 - AmbitionBox",
+              "snippet": "According to AmbitionBox reviews, Radware employees rate their salary and benefits at 3.4 out of 5, based on 22 reviews. The rating reflects an average level of satisfaction among employees regarding compensation and benefits, indicating that while employees find the compensation and benefits acceptable, there is room for improvement in these areas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475372+00:00",
+              "published_date": null,
+              "source_hash": "55ba5e6657aef8335ad69ae7b7bc648d"
+            },
+            {
+              "url": "",
+              "title": "RADWARE LTD Company Research Report - askcyborg.com",
+              "snippet": "RADWARE LTD, a global leader in cybersecurity and application delivery solutions, has been at the forefront of technological innovation since its inception. Skip to content. Login. Price. Schedule Demo. Get started.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:08.475393+00:00",
+              "published_date": null,
+              "source_hash": "23763d192c74dacc6671832bfebacffd"
+            },
+            {
+              "url": "",
+              "title": "Why Radware Ltd. (RDWR) Is Among the Best Cybersecurity Stocks to Buy According to Wall Street Analysts?",
+              "snippet": "In this article, we are going to take a look at where Radware Ltd. (NASDAQ:RDWR ... On the other hand, as AI technology advances, concerns around data privacy and risk management are escalating ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Radware Ltd Radware Ltd controversies or ethical concerns",
+              "retrieved_at": "2025-01-06T19:52:12.063582+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "fe1223c5b461e96a6690b42417239a37"
+            },
+            {
+              "url": "",
+              "title": "Cybersecurity Compliance Guidance | Radware",
+              "snippet": "Ensure compliance by implementing Radware application protection solution for PCI DSS 4.0 compliance, including WAF, API and client-side security. Understand PCI DSS 4.0 standards and the ways Radware can help you comply. ... Learn how Radware EPIC-AI\u2122 rapidly resolves issues CUSTOMERS Read case studies, ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586094+00:00",
+              "published_date": null,
+              "source_hash": "0de22fdf43ebafd8eb60058c65b8767d"
+            },
+            {
+              "url": "",
+              "title": "Company Compliance & Certifications - Radware",
+              "snippet": "Specifies requirements for a quality management system when an organization meets certain customer and applicable statutory and regulatory criteria. View Details Provides guidance for organizations in the application of ISO 9001:2015 to the acquisition, supply, development, operation and maintenance of computer software and related support ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586179+00:00",
+              "published_date": null,
+              "source_hash": "5b63f860ef9eea610ca85574aae16982"
+            },
+            {
+              "url": "",
+              "title": "New Radware Report: Organizations Admit They are Unprepared to Achieve ...",
+              "snippet": "Radware Ltd. Wed, Sep 21, 2022, 6:00 AM 5 min read. In This Article: RDWR . 69% of companies admit they knew about breaches or exposures due to variations in multi-cloud security configurations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586197+00:00",
+              "published_date": null,
+              "source_hash": "917c1b35ef0b78ec09a0f3c20fa6ad33"
+            },
+            {
+              "url": "",
+              "title": "Radware Introduces New Compliance Solution to Meet PCI DSS 4.0 ...",
+              "snippet": "MAHWAH, N.J., July 25, 2024 (GLOBE NEWSWIRE) -- Radware \u00ae (NASDAQ: RDWR), a leading provider of cyber security and application delivery solutions, introduced a new one-stop PCI DSS 4.0 Compliance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586210+00:00",
+              "published_date": null,
+              "source_hash": "6aae672dd30c0a5c3eb0188b0aef741b"
+            },
+            {
+              "url": "",
+              "title": "RADWARE LTD - SEC.gov",
+              "snippet": "RADWARE LTD. (Exact name of registrant as specified in its charter) ... the possibility of unfavorable circumstances and additional compliance costs arising from host country laws or regulations, including unexpected changes in the interpretations thereof and reduced protection for intellectual property rights in some countries; partial or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586223+00:00",
+              "published_date": null,
+              "source_hash": "449e52ad3530786724e6f6f0bcbf0a47"
+            },
+            {
+              "url": "",
+              "title": "RADWARE LTD - 1094366 - 2024 - SEC.gov",
+              "snippet": "For example, regulatory risks include changes in laws and regulations on climate change, which may increase our compliance costs and limit our ability to operate. Similarly, evolving customer and other stakeholder expectations and regulatory requirements to reduce carbon emissions could present a risk of loss of business if we are not able to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586235+00:00",
+              "published_date": null,
+              "source_hash": "65dbc57dd288d5bbbae0330bdcaa2140"
+            },
+            {
+              "url": "",
+              "title": "A Global Change Is On Its Way - Radware",
+              "snippet": "and DDoS Cloud service provides a fast route to check off one of the regulatory compliance boxes and a worry-free GDPR compliance strategy. Curious what C-level executives think about these changing regulations, in addition to global attack trends, security automation, how to effectively manage security?",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586246+00:00",
+              "published_date": null,
+              "source_hash": "13ceb3b9ab3303af9aa9e6d295051a4f"
+            },
+            {
+              "url": "",
+              "title": "Radware Strengthens Cybersecurity for a Top Italian Bank Amid Rising ...",
+              "snippet": "Radware Strengthens Cybersecurity for a Top Italian Bank Amid Rising DDoS Threats and Regulatory Pressures. December 21, 2024 Tackling the surge in Web DDoS attacks and preparing for DORA compliance. Radware\u00ae (NASDAQ: RDWR), a global leader in application security and multi-cloud delivery solutions, has expanded its partnership with one of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586259+00:00",
+              "published_date": null,
+              "source_hash": "e1cb3a27371338826b66b84d79727df1"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "About Radware Radware\u00ae (NASDAQ: RDWR), a leading provider of cyber security and application delivery solutions, acquired ShieldSquare in March 2019. ShieldSquare is now Radware Bot Manager. Radware\u00ae (NASDAQ: RDWR) is a global leader of cybersecurity and application deliverysolutions for physical, cloud and software-defined data centers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586273+00:00",
+              "published_date": null,
+              "source_hash": "96a25c4093920dee4d9a051687bd1742"
+            },
+            {
+              "url": "",
+              "title": "Radware Expands Cybersecurity Agreement with Leading Italian ... - Nasdaq",
+              "snippet": "Radware's comprehensive security solutions are designed to meet new regulatory requirements, which could drive more financial institutions to consider their offerings as compliance deadlines approach.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:13.586285+00:00",
+              "published_date": null,
+              "source_hash": "214e5b4d089609f450d761c11e06deb5"
+            },
+            {
+              "url": "",
+              "title": "Why Radware Ltd. (RDWR) Is Among the Best Cybersecurity Stocks to Buy According to Wall Street Analysts?",
+              "snippet": "In this article, we are going to take a look at where Radware Ltd. (NASDAQ ... However, the overall regulatory landscape will likely shift toward less emphasis on compliance and greater focus ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:16.255373+00:00",
+              "published_date": "2024-12-16T21:19:00+00:00",
+              "source_hash": "f6053bc82f5704fa036ac8d2fe160b2e"
+            },
+            {
+              "url": "",
+              "title": "Radware Expands Cybersecurity Agreement with Leading Italian Bank to Enhance Protection Against DDoS Attacks",
+              "snippet": "Radware's comprehensive security solutions are designed to meet new regulatory requirements, which could drive more financial institutions to consider their offerings as compliance deadlines approach.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:16.255476+00:00",
+              "published_date": "2024-12-19T11:10:00+00:00",
+              "source_hash": "fbb0311060b6875d9d856dba708332e3"
+            },
+            {
+              "url": "",
+              "title": "Radware Ltd. (RDWR)",
+              "snippet": "Addresses rising Web DDoS attacks and DORA compliance deadlineMAHWAH, N.J., Dec. 19, 2024 (GLOBE NEWSWIRE) -- Radware\u00ae (NASDAQ: RDWR), a global leader in application security and delivery ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:16.255506+00:00",
+              "published_date": "2024-12-02T00:00:00+00:00",
+              "source_hash": "ff542583d414322829dc3573b0042690"
+            },
+            {
+              "url": "",
+              "title": "Radware Launches New AI SOC Xpert: A Game Changer for Application Security Incident Management",
+              "snippet": "MAHWAH, N.J., Nov. 19, 2024 (GLOBE NEWSWIRE) -- Radware&circledR; (NASDAQ: RDWR), a global leader in application security and delivery solutions for multi-cloud environments, today launched its AI SOC Xpert. The new cloud security service redefines how ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:16.255531+00:00",
+              "published_date": "2024-11-19T00:01:00+00:00",
+              "source_hash": "9de79d0976088ee16c7917aaa837d2de"
+            },
+            {
+              "url": "",
+              "title": "Radware Expands AI-Driven Application and Network Protection for a Top 5 Bank in Italy",
+              "snippet": "MAHWAH, N.J., Dec. 19, 2024 (GLOBE NEWSWIRE) -- Radware\u00ae (NASDAQ: RDWR), a global leader in application security and delivery solutions for multi-cloud environments, announced it expanded its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radware Ltd Radware Ltd regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:52:16.255555+00:00",
+              "published_date": "2024-12-19T06:00:00+00:00",
+              "source_hash": "83fc2d2fe66aa8b6c4b7b4d34dd619b1"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Radware Ltd legal disputes or lawsuits",
+              "rationale": "Identify any ongoing or past legal issues that could impact the company's financial stability or reputation",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Radware Ltd controversies or ethical concerns",
+              "rationale": "Explore any public controversies or ethical issues related to Radware's business practices or corporate behavior",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Radware Ltd regulatory compliance issues",
+              "rationale": "Investigate any challenges or violations related to compliance with data protection and cybersecurity regulations across different regions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:52:33.797411",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

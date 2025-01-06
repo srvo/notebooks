@@ -1,0 +1,374 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:39:47.958442",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "AppFolio Inc",
+      "symbol": "APPF",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory and legal challenges, including FTC settlement",
+            "Cybersecurity and data privacy vulnerabilities",
+            "Economic sensitivity tied to the real estate market",
+            "Customer retention and satisfaction issues",
+            "Intense competition in the PropTech market"
+          ],
+          "controversies": [
+            "FTC settlement for $4.25 million over tenant background screening issues",
+            "Insider stock sales raising concerns about insider confidence"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer service and software functionality complaints"
+          ],
+          "governance_issues": [
+            "Regulatory compliance risks highlighted by FTC settlement",
+            "Insider transactions potentially indicating lack of confidence"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "AppFolio Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Compare AppFolio's security performance with other companies. Learn about data breaches, cyber attacks, and security incidents involving AppFolio. Shape your 2025 cyber GRC strategy with a complimentary Gartner report",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T14:39:18.329104+00:00",
+              "published_date": null,
+              "source_hash": "d9da9537a6399c99a4ce2c4a9ffc1fab"
+            },
+            {
+              "url": "",
+              "title": "AppFolio FTC Settlement Statement - AppFolio Property Management",
+              "snippet": "AppFolio has reached a settlement with the Federal Trade Commission that resolves all purported claims and allegations stemming from the previously disclosed investigation of AppFolio's tenant background screening services business. AppFolio did not admit any wrongdoing in the settlement but nevertheless agreed to pay $4.25 million to avoid protracted litigation and potential distraction ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012003+00:00",
+              "published_date": null,
+              "source_hash": "0497e44ab13126c00ec15d1d495631aa"
+            },
+            {
+              "url": "",
+              "title": "AppFolio, Inc. - Federal Trade Commission",
+              "snippet": "AppFolio will pay $4.25 million as part of a settlement with the FTC over allegations the firm failed to follow reasonable procedures to ensure the accuracy of its reports about potential tenants.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012036+00:00",
+              "published_date": null,
+              "source_hash": "25542312713fafb5a7c01ace897dc2b2"
+            },
+            {
+              "url": "",
+              "title": "APPFOLIO INC 10-K Cybersecurity GRC - 2024-02-01",
+              "snippet": "APPFOLIO INC reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-01 16:18:12 EST. Filings 10-K filed on 2024-02-01 Company Information Filings 10-K filed on 2024-02-01 APPFOLIO INC filed a 10-K at 2024-02-01 16:18:12 EST Accession Number: 0001433195-24-000023 Note: filing items unformatted. Drop us a note with the above URL to help us ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T14:39:18.329256+00:00",
+              "published_date": null,
+              "source_hash": "00753184dc96b44aea1d267b6faf1c39"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "agreed to in AppFolio's Offer. Accordingly, it is hereby ORDERED that: A. Pursuant to Section 21C of the Exchange Act, AppFolio cease and desist from committing or causing any violations and any future violations of Exchange Act Rule 21F-17(a). B. AppFolio shall, within ten days of the entry of this Order, pay a civil money penalty",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012045+00:00",
+              "published_date": null,
+              "source_hash": "760e327deaf0ed50fc507e1b3c2ab392"
+            },
+            {
+              "url": "",
+              "title": "AppFolio, Inc | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of AppFolio, Inc filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T14:39:18.329277+00:00",
+              "published_date": null,
+              "source_hash": "915800ac75f6b58fb38adec483bff953"
+            },
+            {
+              "url": "",
+              "title": "FTC's AppFolio case: The Fair Credit Reporting Act does more than just ...",
+              "snippet": "The complaint also alleges that in violation of the FCRA, AppFolio included evictions and non-conviction criminal records that were more than seven years old. In addition to the $4.25 million penalty, the proposed settlement requires AppFolio to maintain reasonable procedures to ensure the maximum possible accuracy of information in its reports ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012057+00:00",
+              "published_date": null,
+              "source_hash": "6707e5ef0b922c9bf477d1a785e5d0a3"
+            },
+            {
+              "url": "",
+              "title": "AppFolio FTC Settlement for FCRA Violation - National Law Review",
+              "snippet": "On December 8, 2020, AppFolio, Inc. reached a settlement with the FTC for alleged violations of the FCRA to the tune of $4.25 million. AppFolio provides tenant background screening reports about ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012028+00:00",
+              "published_date": null,
+              "source_hash": "a268168cfb2d1b391ddee45626336baf"
+            },
+            {
+              "url": "",
+              "title": "FTC settles claims alleging tenant background screening company failed ...",
+              "snippet": "The Federal Trade Commission recently announced that it settled an action it filed against AppFolio, Inc. (\"AppFolio\"), regarding alleged unfair or deceptive acts or practices, in violation of Section 5 of the FTC Act, 15 U.S.C. \u00a7 45, and violations of multiple provisions of the Fair Credit Reporting Act (\"FCRA\"), 15 U.S.C. \u00a7\u00a7 1681- 1681x, in connection with AppFolio's sale of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.011931+00:00",
+              "published_date": null,
+              "source_hash": "f0274eb21fa2e51394ea463edf0d540d"
+            },
+            {
+              "url": "",
+              "title": "Appfolio Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Discover how Appfolio Inc. stands out in the property management software market through an in-depth analysis of its business model, ... Appfolio's offerings. Cybersecurity Risks: As a cloud-based service provider, Appfolio must continually invest in cybersecurity measures to protect sensitive customer data from breaches and cyberattacks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc data breaches cybersecurity incidents",
+              "retrieved_at": "2025-01-06T14:39:18.329320+00:00",
+              "published_date": null,
+              "source_hash": "d93f212bf426127172a203d9e3dd7c4f"
+            },
+            {
+              "url": "",
+              "title": "FTC settles claims alleging tenant background screening company failed ...",
+              "snippet": "The Federal Trade Commission recently announced that it settled an action it filed against AppFolio, Inc. (\"AppFolio\"), regarding alleged unfair or deceptive acts or practices, in violation of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012019+00:00",
+              "published_date": null,
+              "source_hash": "b6659ace9a49b71a28ea7139e8439822"
+            },
+            {
+              "url": "",
+              "title": "Complying with applicable laws & regulations - AppFolio, Inc",
+              "snippet": "AppFolio takes its responsibility to comply with all local, state, federal, and international laws very seriously, including but not limited to: Anti-corruption, anti-money laundering, sanctions and anti-boycott laws. Import and export control laws. Human rights laws relating to child labor, modern slavery, and human trafficking",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012066+00:00",
+              "published_date": null,
+              "source_hash": "37024295686037fdfdd68f380ee32598"
+            },
+            {
+              "url": "",
+              "title": "Tenant Background Screening Company Settles With FTC for $4.25 Million",
+              "snippet": "On December 8, 2020, AppFolio, Inc. reached a settlement with the FTC for alleged violations of the FCRA to the tune of $4.25 million. AppFolio provides tenant background screening reports about consumers to property management companies to help the companies, among other things, select",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012075+00:00",
+              "published_date": null,
+              "source_hash": "ef6f8c7011efb2ee171c97d80eb87f42"
+            },
+            {
+              "url": "",
+              "title": "Tenant Background Screening Company Settles With FTC for $4. ... - Lexology",
+              "snippet": "On December 8, 2020, AppFolio, Inc. reached a settlement with the FTC for alleged violations of the FCRA to the tune of $4.25 million. AppFolio provides tenant background screening reports about ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:22.012083+00:00",
+              "published_date": null,
+              "source_hash": "bf4592e240bb2acfe0182379c1414342"
+            },
+            {
+              "url": "",
+              "title": "Insider Decision: William Shane Trigg Offloads $1.09M Worth Of AppFolio Stock",
+              "snippet": "Discovering AppFolio: A Closer Look AppFolio Inc is a provider of cloud-based software solutions for real estate industry. Its property management software provides property managers with an end ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "AppFolio Inc AppFolio Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:39:25.282679+00:00",
+              "published_date": "2024-12-11T15:02:00+00:00",
+              "source_hash": "44022122ad6d3d41f856f6f53f2a344c"
+            },
+            {
+              "url": "",
+              "title": "AppFolio, Inc | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of AppFolio, Inc filed with BBB. BBB helps resolve disputes with the services or products a business provides. ... Customer Service Issues (2) Apply. Initial Complaint. 11/07/2024 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.827950+00:00",
+              "published_date": null,
+              "source_hash": "347062cd711fd751e4813eebc3630bb1"
+            },
+            {
+              "url": "",
+              "title": "AppFolio Reviews, Complaints, Customer Service - Revdex.com",
+              "snippet": "font-family: arial, sans-serif; font-size: 12.8px; background-color: rgb(255, 255, 255);\">Systematic Investment Partners signed agreement with AppFolio, Inc. on June 19, 2015 following an extensive demonstration of the AppFolio Property Management software and the automatic tenant payment feature.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828068+00:00",
+              "published_date": null,
+              "source_hash": "05dc7e6a43c8f36f1be41dd2ba9bbdc3"
+            },
+            {
+              "url": "",
+              "title": "Appfolio Issues : r/PropertyManagement - Reddit",
+              "snippet": "Property management: leasing, marketing, retention, renovation, accounting, tenant issues, legal issues, building issues, etc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828120+00:00",
+              "published_date": null,
+              "source_hash": "3d03775196a8bdb0f28faab80bdc74c5"
+            },
+            {
+              "url": "",
+              "title": "Online Portal by AppFolio Reviews and Complaints",
+              "snippet": "Online Portal by AppFolio reviews first appeared on Complaints Board on May 10, 2023. The latest review Horrible Company!!!! was posted on Dec 26, 2024. The latest complaint Separate Property Managements was resolved on Jun 14, 2023. Online Portal by AppFolio has an average consumer rating of 5 stars from 36 reviews.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828146+00:00",
+              "published_date": null,
+              "source_hash": "496e539af35cca1fe597073b3c5defbb"
+            },
+            {
+              "url": "",
+              "title": "Appfolio Support/Sales is terrible! : r/PropertyManagement - Reddit",
+              "snippet": "They're the AppFolio customer. If you need information about your properties, the law and/or your contract specifies the information/data that the manager is required to give you, and how. You can request that per what ever process your state real estate agency or contract has.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828158+00:00",
+              "published_date": null,
+              "source_hash": "216bdbaad05d0e23ead818ee8ae52514"
+            },
+            {
+              "url": "",
+              "title": "AppFolio Property Manager Reviews | Read Customer Service Reviews of ...",
+              "snippet": "I could not set up my account due to a death in the business and the legal issues that followed. That didn't stop Appfolio from billing me nearly $500 per month, refusing to refund me or stop charging me, and asking me to pay them over $1000 to buyout my contract. I paid thousands of dollars with nothing to show for it. Horrible customer service.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828169+00:00",
+              "published_date": null,
+              "source_hash": "07dce9c748a0e8dacd9ffd50282374de"
+            },
+            {
+              "url": "",
+              "title": "AppFolio Reviews, Complaints, Customer Service, page 2 - Revdex.com",
+              "snippet": "AppFolio consumer reviews, complaints, customer service. Customer service contacts and company information. page 2. Write a review Sign in. AppFolio, Inc ... Use RevDex to write a review. Reviews \u2192 AppFolio, Inc AppFolio, Inc Reviews (51) Add a review. Reporter1753299 Sign in to contact user. Share. Report. Revdex.com: I have reviewed the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828183+00:00",
+              "published_date": null,
+              "source_hash": "a6debf66fa8e18ac419a7728c158d16c"
+            },
+            {
+              "url": "",
+              "title": "AppFolio Reviews, Complaints, Customer Service, page 3 - Revdex.com",
+              "snippet": "AppFolio consumer reviews, complaints, customer service. Customer service contacts and company information. page 3 ... Have something to share about AppFolio, Inc? Use RevDex to write a review. Reviews \u2192 AppFolio, Inc AppFolio, Inc Reviews (51) Add a review ... Making our team work harder and spend more time on phones trying to fix issues or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828199+00:00",
+              "published_date": null,
+              "source_hash": "403ec7d4dbcbb547fad0138f3ac23c64"
+            },
+            {
+              "url": "",
+              "title": "Tenant Screening Company to Pay $4.2 Million Settlement Over Inaccurate ...",
+              "snippet": "In the complaint, filed by the Department of Justice on behalf of the Commission, the FTC alleges that AppFolio, Inc. violated the Fair Credit Reporting Act (FCRA) by failing until at least April 2019 to implement reasonable procedures to ensure that criminal and eviction records it received from a third-party vendor were accurate before ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828224+00:00",
+              "published_date": null,
+              "source_hash": "4a3c30817f0c19541746efad00eee575"
+            },
+            {
+              "url": "",
+              "title": "Do you use Appfolio? : r/PropertyManagement - Reddit",
+              "snippet": "New users of Appfolio are not given the option to do NACHA files, so they can charge the echeck price for all online payments to owners. Or so we were told. Appfolio has so many \"value add\" revenue streams coming in, they had a lot of other options to increase revenue without upsetting the apple cart and still covering inflation costs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "AppFolio Inc AppFolio Inc customer complaints retention issues",
+              "retrieved_at": "2025-01-06T14:39:26.828234+00:00",
+              "published_date": null,
+              "source_hash": "bec025008726807bc3899bd4488ae035"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "AppFolio Inc data breaches cybersecurity incidents",
+              "rationale": "Investigate potential data security risks and breaches that could impact customer trust and compliance with data privacy regulations.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "AppFolio Inc regulatory compliance issues",
+              "rationale": "Examine any legal or regulatory challenges, including compliance with GDPR, CCPA, and other data privacy laws, which could affect operations.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "AppFolio Inc customer complaints retention issues",
+              "rationale": "Assess customer satisfaction and retention rates, as well as any public complaints or controversies related to service quality or ethical concerns.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:39:47.958470",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:55:13.221165",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Stifel Financial Corp",
+      "symbol": "SF",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal challenges, including SEC fines and arbitration losses",
+            "Market and economic sensitivity, particularly in investment banking and trading",
+            "Competitive pressures from traditional firms and fintech disruptors"
+          ],
+          "controversies": [
+            "$35 million SEC fine for recordkeeping failures",
+            "$14.2 million arbitration loss linked to a star broker"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Client disputes and reputational risks from complex financial products"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and potential fines impacting profitability",
+            "Leadership changes, including the appointment of a new CFO"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Shocking: Stifel Fined $35M For Recordkeeping Failures",
+              "snippet": "Stifel Financial Corp faced a hefty $35 million fine from the SEC. This penalty came because Stifel, Nicolaus & Co., its broker-dealer subsidiary, didn't keep records of off-channel talks as required. On September 24, 2024, this news broke out. The fine is part of a larger look by the SEC into how firms manage electronic messages.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455674+00:00",
+              "published_date": null,
+              "source_hash": "8da2c4e424d33d98b2fb65029f59bb8a"
+            },
+            {
+              "url": "",
+              "title": "Stifel, Invesco to Pay $35-Mln Each in Latest Wave of SEC Fines Over ...",
+              "snippet": "Stifel Financial's broker-dealer subsidiary is one of 11 firms paying more than $88.2 million combined as the Securities and Exchange Commission persists in its pursuit of texting and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455783+00:00",
+              "published_date": null,
+              "source_hash": "7a5310573d39839978fccabd0e794436"
+            },
+            {
+              "url": "",
+              "title": "Stifel to Pay Nearly $2.3 Million Over Unsuitable Sales of Complex ...",
+              "snippet": "Stifel's core private client group, which has around 2,200 brokers, agreed to pay the bulk of the penalty, a $920,000 fine and $1.19 million in restitution. Stifel Independent Advisors, which ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455799+00:00",
+              "published_date": null,
+              "source_hash": "f2a4a13e9abab406763e8e326ed8aa01"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial, Invesco fined $35M each by SEC for misuse of texting ...",
+              "snippet": "Stifel Financial, Invesco Advisers and other big names in wealth management have agreed to pay hefty fines, after another Securities and Exchange Commission sweep totaling $88,225,000 of 11 firms ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455810+00:00",
+              "published_date": null,
+              "source_hash": "b89aa9122dcc07bf444914d8a8265d8b"
+            },
+            {
+              "url": "",
+              "title": "FINRA Penalizes Stifel for Recurring Compliance Lapses",
+              "snippet": "Apr 05, 2024 - Compliance & Ethics - Stifel Independent Advisors, LLC (SIA) has agreed to a settlement proposed by the Financial Industry Regulatory Authority (FINRA) regarding alleged repeated compliance failures. The settlement, outlined in a Letter of Acceptance, Waiver, and Consent (AWC), aims to address violations related to the firms' supervision of transactions involving non-traditional ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455823+00:00",
+              "published_date": null,
+              "source_hash": "a9a2365f1e87cd78cf060bac8c0ec2d7"
+            },
+            {
+              "url": "",
+              "title": "Stifel (SF) Subsidiaries to Pay $2.3M to Settle FINRA Claims",
+              "snippet": "Stifel Financial Corp.'s SF subsidiaries, Stifel Nicolaus & Co. and Stifel Independent Advisors, have agreed to pay $2.3 million in fines and restitution over alleged violations of the Financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455835+00:00",
+              "published_date": null,
+              "source_hash": "526cd59e7e977da74864aa88fc03d12a"
+            },
+            {
+              "url": "",
+              "title": "Stifel Fined Nearly $3 Million for Supervisory Failures",
+              "snippet": "From the desk of Jim Eccleston at Eccleston Law. Stifel Financial Corp. has agreed to pay fines and restitution totaling nearly $3 million due to deficiencies in supervision and compliance regarding the sale of non-traditional exchange-traded funds (NT-ETFs) and products per a filed AWC (Acceptance, Waiver, and Consent).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455846+00:00",
+              "published_date": null,
+              "source_hash": "76d9ce2e6d3951c8f0c030944d63b2a3"
+            },
+            {
+              "url": "",
+              "title": "Repeat flubs at Stifel over complex products: Finra",
+              "snippet": "Almost a decade after paying $1 million in penalties for similar violations, Stifel Financial Corp. broker-dealers agreed yesterday to fines and restitution of almost $3 million as a result of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455856+00:00",
+              "published_date": null,
+              "source_hash": "60521de3389a1622d0ed28299c2f73f5"
+            },
+            {
+              "url": "",
+              "title": "FINRA orders Stifel units to pay $2.3M for repeat compliance failures",
+              "snippet": "Two subsidiaries of Stifel Financial Corp. agreed to pay a collective total of about $2.3 million over alleged violations of Financial Industry Regulatory Authority rules regarding nontraditional exchange-traded products. ... SoFi's brokerage unit will pay a $1.1 million fine to the Financial Industry Regulatory Authority for fraud detection ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455868+00:00",
+              "published_date": null,
+              "source_hash": "1f63bc7c218dc6cb196d6ba023a5b0e0"
+            },
+            {
+              "url": "",
+              "title": "Finra Raps Stifel For Failing to Supervise Two Rogue Brokers",
+              "snippet": "The penalty included a $400,000 fine and almost $60,000 in restitution to customers who had lost money as a result of a second broker's high-risk trading, according to the settlement.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:46.455879+00:00",
+              "published_date": null,
+              "source_hash": "d7a3e9b3eb1c58d3221539221d84abaa"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Cuts Stake in Retail Opportunity Investments Corp. (NASDAQ:ROIC)",
+              "snippet": "Stifel Financial Corp lessened its stake in shares of Retail Opportunity Investments Corp. (NASDAQ:ROIC - Free Report) by 0.5% during the 3rd quarter, Holdings Channel reports. The firm owned ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:50.035130+00:00",
+              "published_date": "2024-12-21T00:00:00+00:00",
+              "source_hash": "9c5c8b67f1d8bdc2597352869dd3e376"
+            },
+            {
+              "url": "",
+              "title": "Stifel Reports November 2024 Operating Data",
+              "snippet": "Company Information Stifel Financial Corp. (NYSE: SF) is a financial services holding company headquartered in St. Louis, Missouri, that conducts its banking, securities, and financial services ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:57.983531+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "d4b3310c6eb44cf74e4d35f394232d8c"
+            },
+            {
+              "url": "",
+              "title": "Star Stifel broker in Miami at center of two more client complaints totaling $6M",
+              "snippet": "Stifel Financial Corp. is facing two more investor complaints claiming damages of at least $6 million linked to complex products and Chuck Roberts, a star broker in south Florida, according to Roberts' BrokerCheck profile.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:54.025301+00:00",
+              "published_date": "2024-12-23T16:18:00+00:00",
+              "source_hash": "df75ecb8e7adfdf1e51ba4ac7a89181f"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp. (SF)",
+              "snippet": "ST. LOUIS, Dec. 19, 2024 (GLOBE NEWSWIRE) -- Stifel Financial Corp. (NYSE: SF) today reported selected operating results for November 30, 2024 in an effort to provide timely information to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:50.035290+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "cf7ba8de98c56733b7b8b4cc5481641d"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Makes New Investment in NETSTREIT Corp. (NYSE:NTST)",
+              "snippet": "Stifel Financial Corp bought a new stake in NETSTREIT Corp. (NYSE:NTST - Free Report) during the 3rd quarter, according to the company in its most recent Form 13F filing with the Securities ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T18:54:50.035312+00:00",
+              "published_date": "2024-12-28T00:00:00+00:00",
+              "source_hash": "48a5125619af498a4a1e2c60532a9403"
+            },
+            {
+              "url": "",
+              "title": "Star Stifel broker in Miami at center of two more client complaints ...",
+              "snippet": "Stifel Financial Corp. is facing two more investor complaints claiming damages of at least $6 million linked to complex products and Chuck Roberts, a star broker in south Florida, according to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.676871+00:00",
+              "published_date": null,
+              "source_hash": "397003292b1e4c711496cb77d6ab5cae"
+            },
+            {
+              "url": "",
+              "title": "Stifel loses huge $14.2 million arbitration claim linked to star Miami ...",
+              "snippet": "Stifel Financial Corp. saw its retail broker-dealer suffer a stunning loss of an lawsuit involving complex products and a star broker in south Florida, with a Finra arbitration on Thursday ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.676979+00:00",
+              "published_date": null,
+              "source_hash": "c3061a0e1024732757a3959bd2affd06"
+            },
+            {
+              "url": "",
+              "title": "Stifel loses another big arbitration lawsuit involving star Miami ...",
+              "snippet": "Stifel Financial Corp. saw its retail broker-dealer lose another multi-million-dollar lawsuit involving complex products and a star broker in south Florida, with a Finra arbitration panel last ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.676996+00:00",
+              "published_date": null,
+              "source_hash": "48c3543a218cac3b7ccad3342fab9fb0"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Agrees to Pay for Failing to Supervise Brokers Who ...",
+              "snippet": "A 2022 customer dispute against Stifel accuses the firm of negligent supervision and Rodemer of civil fraud, theft, and breach of fiduciary duty. As for former Stifel broker Matthew Alexander Perry (CRD #5985300), a number of settled customer disputes alleged Perry engaged in unauthorized and unsuitable trades, resulting in losses. Allegations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677010+00:00",
+              "published_date": null,
+              "source_hash": "baa02120c908c59f9e5577290d70e6f5"
+            },
+            {
+              "url": "",
+              "title": "Stifel, Nicolaus & Company: Customer Complaints & Regulatory Actions",
+              "snippet": "Stifel, Nicolaus & Company, Inc. (\"Stifel Financial Co.\") (CRD# 793) has many different complaints filed by FINRA (Financial Industry Regulatory Authority), state regulatory organizations, and investors such as yourself. At the Law Offices of Robert Wayne Pearce, we have investigated Stifel, Nicolaus & Company, its regulatory and customer complaints, and have also represented investors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677024+00:00",
+              "published_date": null,
+              "source_hash": "720720ea9110690e427264819ca4a3e4"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial ordered to pay $14.3 million in damages to investors ...",
+              "snippet": "A panel of arbitrators has issued a $14.3 million award in favor of two investors in their claim against Stifel Financial Corp., AdvisorHub reports. The plaintiffs, Louis and Elizabeth Deluca and their business, UBS Inc., filed suit last year, claiming up to $5 million in damages. The Delucas alleged fraud, negligence, negligent supervision and other",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677037+00:00",
+              "published_date": null,
+              "source_hash": "7d3a28589d20aa1e40b0032fdb43195e"
+            },
+            {
+              "url": "",
+              "title": "Stifel Bank | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Stifel Bank filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677049+00:00",
+              "published_date": null,
+              "source_hash": "61c891e1ac54aae55c1b6c08b4fa22d4"
+            },
+            {
+              "url": "",
+              "title": "Stifel Nicolaus & Company, Incorporated Fraud and/or Investment Loss ...",
+              "snippet": "Stifel is the 7th largest full-service investment firm according to the number of its advisors and parent company, Stifel Financial Corp., has had record net revenues of 22 consecutive years. Stifel Nicolaus Broker, Joel Davidman, Has Disclosed Regulatory Suspensions And Customer Complaints",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677061+00:00",
+              "published_date": null,
+              "source_hash": "14588c7b4de092f2b10653f6bf700d26"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Reviews | Read Customer Service Reviews of stifel.com",
+              "snippet": "They can't be trusted to work their best for your money. And, complaining to the ceo is a waste of time; he couldn't care less about customer service. I'm thankful I didn't consolidate other portfolios with Stifel. BE CAREFUL if you are thinking of investing with Stifel! Do your homework! Date of experience: September 01, 2023",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677073+00:00",
+              "published_date": null,
+              "source_hash": "5b7ea561d46769d8a00610d30a62234a"
+            },
+            {
+              "url": "",
+              "title": "Stifel Nicolaus & Co. Complaints - MDF Law",
+              "snippet": "That fine was one of 135 regulatory actions listed in the firm's records, on top of dozens of arbitration awards over customer complaints. In 2014, Stifel was ordered to pay $790,000 over unsuitable exchange-traded funds. In 2019 it was fined $300,000 over failures to disclose certain fees.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:51.677087+00:00",
+              "published_date": null,
+              "source_hash": "1d41c4efc21f47812797f98c5063bb72"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp. (NYSE:SF) Given Average Rating of \"Hold\" by Analysts",
+              "snippet": "Stifel Financial Corp. (NYSE:SF - Get Free Report) has been assigned an average rating of \"Hold\" from the eight analysts that are covering the stock, Marketbeat Ratings reports. Six analysts have rated the stock with a hold recommendation and two have assigned a buy recommendation to the company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:57.983480+00:00",
+              "published_date": "2024-12-24T06:07:00+00:00",
+              "source_hash": "501e4fee75d91406c07ece9fd02c18a0"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Reduces Stake in First Western Financial, Inc. (NASDAQ:MYFW)",
+              "snippet": "Stifel Financial Corp lowered its stake in shares of First Western Financial, Inc. (NASDAQ:MYFW - Free Report) by 49.6% in the 3rd quarter, according to the company in its most recent 13F filing with the Securities & Exchange Commission. The fund owned ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:54.025435+00:00",
+              "published_date": "2024-12-28T00:00:00+00:00",
+              "source_hash": "042830f97aa4bfd7ceda1b6d656f7bdc"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Reports Record Client Assets Growth",
+              "snippet": "Stifel Financial Corp. reported a record increase in client assets under management, reaching $514 billion in November 2024, driven by strong equity markets and financial advisor recruiting.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp client disputes or complaints",
+              "retrieved_at": "2025-01-06T18:54:54.025483+00:00",
+              "published_date": "2024-12-19T21:50:00+00:00",
+              "source_hash": "04c071b3f3ecd3747e61151c47815eb8"
+            },
+            {
+              "url": "",
+              "title": "Stifel",
+              "snippet": "Stifel Financial Corp. was formed as a holding company in July 1983 and is publicly traded on the New York Stock Exchange under the symbol \"SF.\" ... both the timing of deal closings and market volatility continue to impact revenue.\" - Ron Kruszewski Chairman and CEO Press Release. September 05, 2024. Stifel to Meet With Institutional Investors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.638605+00:00",
+              "published_date": null,
+              "source_hash": "f4ba223a82859c42241e9ed8580bd31b"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corporation: Business Model, SWOT Analysis, and ...",
+              "snippet": "An overview of the major competitors of Stifel Financial Corporation and their impact on the company's market position. ... Other Sources of Revenue. Stifel Financial Corporation diversifies its revenue streams through other ancillary services. ... as market volatility and reduced investor confidence can lead to lower trading volumes and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639012+00:00",
+              "published_date": null,
+              "source_hash": "d1962a625d68735c5a7a61760c6c2d8a"
+            },
+            {
+              "url": "",
+              "title": "Decoding Stifel Financial Corp (SF): A Strategic SWOT Insight",
+              "snippet": "Stifel Financial Corp , a middle-market-focused investment bank, recently filed its 10-Q report on November 6, 2024. This SWOT analysis delves into the company's financials, revealing a solid ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639031+00:00",
+              "published_date": null,
+              "source_hash": "b782bbbf80dc011a37839515fc7e2dde"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp. (SF) Statistics & Valuation Metrics - Stock Analysis",
+              "snippet": "Detailed statistics for Stifel Financial Corp. (SF) stock, including valuation metrics, financial numbers, share information and more. ... Market Cap; Revenue; Stifel Financial Statistics. ... so SF's price volatility has been similar to the market average. Beta (5Y) 1.09: 52-Week Price Change +53.41%: 50-Day Moving Average : 109.83: 200-Day ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639043+00:00",
+              "published_date": null,
+              "source_hash": "35130e521d8eb6c5759c0d35062d7705"
+            },
+            {
+              "url": "",
+              "title": "Decoding Stifel Financial Corp (SF): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Stifel Financial Corp's robust wealth management division drives over 60% of net revenue.Active acquisition strategy bolsters Stifel's market presence and serv Insightful Analysis of Stifel Financial Corp's Strengths, Weaknesses, Opportunities, and Threats",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639052+00:00",
+              "published_date": null,
+              "source_hash": "8f160fcbe28c83b8b37de877e7ec9ebd"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Reports Mixed Results Amid Challenging Market ...",
+              "snippet": "Warning! GuruFocus has detected 5 Warning Sign with SF. On January 24, 2024, Stifel Financial Corp released its 8-K filing, announcing its financial results for the fourth quarter and full year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639063+00:00",
+              "published_date": null,
+              "source_hash": "2eb95c23528f0576e0cd59fa27f267ce"
+            },
+            {
+              "url": "",
+              "title": "Increasing Our Moat Rating for Stifel Financial to Narrow and Lowering ...",
+              "snippet": "Stifel's financial health is fairly good. At the end of 2023, the company had approximately $1.1 billion of corporate debt and $3.4 billion of cash on its balance sheet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639071+00:00",
+              "published_date": null,
+              "source_hash": "49398a20975b046f42b9e4d205b17c37"
+            },
+            {
+              "url": "",
+              "title": "A Recovery in Capital Markets Revenue Should Offset ... - Morningstar",
+              "snippet": "Stifel's financial health is fairly good. At the end of 2023, the company had approximately $1.1 billion of corporate debt and $3.4 billion of cash on its balance sheet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639081+00:00",
+              "published_date": null,
+              "source_hash": "8368a8ab1f04c0ffbe1a61c7ac9ec46f"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Revenue 2014-2024 - Stock Analysis",
+              "snippet": "Stifel Financial Corp. (SF) NYSE: SF \u00b7 Real-Time Price \u00b7 USD. Watchlist Compare. 107.12 ... Forecast; Dividends; History; Profile; Chart; Statistics; Market Cap; Revenue; Stifel Financial Revenue. Stifel Financial had revenue of $1.22B in the quarter ending September 30, 2024, with 17.70% growth. This brings the company's revenue in the last ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639092+00:00",
+              "published_date": null,
+              "source_hash": "3813c017161faa61e7fafe39bfb45a13"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Sees Client Assets and Revenue Growth - Yahoo Finance",
+              "snippet": "Stifel Financial Corp. reported an increase in total client assets by 15% and fee-based assets by 20% from the previous year, attributing the growth to effective recruiting and market appreciation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:55.639104+00:00",
+              "published_date": null,
+              "source_hash": "66ce0099b9afee91a34a9d3e8f495c8d"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial",
+              "snippet": "Stifel Financial Corp. provides securities brokerage, investment banking, trading, investment advisory and related financial services. It operates through the following segments: Global Wealth ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:57.983340+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "44b50d61abd2ee1a48f4f5f5f24eb7b5"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Has $4.11 Million Stock Holdings in Invesco S&P MidCap Low Volatility ETF (NYSEARCA:XMLV)",
+              "snippet": "Stifel Financial Corp increased ... firm has a market capitalization of $914.28 million, a P/E ratio of 17.33 and a beta of 0.72. Receive News & Ratings for Invesco S&P MidCap Low Volatility ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:57.983440+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "f45a89815ac97355e72941a05e13402e"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial: Increasing Fair Value by 13% to $97 Due to a More Positive Capital Markets Outlook",
+              "snippet": "We are increasing our fair value estimate to $97 per share from $86 for narrow-moat-rated Stifel Financial ... $2 is from client asset-related revenue, $5 is from higher projected institutional ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Stifel Financial Corp Stifel Financial Corp market volatility impact on revenue",
+              "retrieved_at": "2025-01-06T18:54:57.983508+00:00",
+              "published_date": "2024-11-18T00:00:00+00:00",
+              "source_hash": "f7fd8ce98e2f2ab83e4205bd70337d64"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Stifel Financial Corp regulatory fines or penalties",
+              "rationale": "Investigate recent regulatory actions or legal disputes that could impact the company's financial stability or reputation.",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Stifel Financial Corp client disputes or complaints",
+              "rationale": "Explore any known client disputes, complaints, or ethical concerns related to sales practices or advisory services.",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Stifel Financial Corp market volatility impact on revenue",
+              "rationale": "Assess how market fluctuations and economic downturns have affected Stifel's investment banking and trading revenue streams.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:55:13.221174",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

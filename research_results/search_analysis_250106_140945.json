@@ -1,0 +1,550 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:09:45.501834",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "ARS Pharmaceuticals Inc.",
+      "symbol": "SPRY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory uncertainty due to delays in FDA approval and potential hurdles in international markets",
+            "Market competition from established products like EpiPen and Auvi-Q",
+            "Manufacturing and supply chain risks due to dependence on third-party manufacturers",
+            "Adoption challenges in convincing healthcare providers and patients to switch from traditional auto-injectors"
+          ],
+          "controversies": [
+            "Delays in FDA approval process raised concerns about commercialization timelines",
+            "Potential skepticism about the efficacy of a nasal spray compared to traditional auto-injectors"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Patient access and safety concerns addressed by needle-free design and inclusion in Express Scripts formularies"
+          ],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the ...",
+              "snippet": "ARS Pharmaceuticals, Inc. Canada and United Kingdom represent two of the largest markets within the ALK portfolio with plans to expand filings of neffy (epinephrine nasal spray) 2 mg in other key ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873431+00:00",
+              "published_date": null,
+              "source_hash": "265a0cf4ac6ca495ae0919b197f4abbc"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada - GlobeNewswire",
+              "snippet": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the United Kingdom on Behalf of Licensing Partner ALK-Abell\u00f3 A/S ... Inc. at 1-877-MY-NEFFY (877-696-3339) or FDA ... progress and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895680+00:00",
+              "published_date": null,
+              "source_hash": "17c07759b5829ec6d33c5f985a559dbf"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Receives FDA Approval of neffy\u00ae - GlobeNewswire",
+              "snippet": "\"FDA approval of neffy means that patients with severe allergies finally gain a long-awaited, needle-free, easy-to-carry epinephrine delivery method that has the potential to reduce time to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895695+00:00",
+              "published_date": null,
+              "source_hash": "b2e7a010a481dbe0fcbd5a7dd3525782"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the ...",
+              "snippet": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the United Kingdom on Behalf of Licensing Partner ALK-Abell\u00f3 A/S ... Inc. at 1-877-MY-NEFFY (877-696-3339) or FDA at 1-800-FDA-1088 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895706+00:00",
+              "published_date": null,
+              "source_hash": "e876abd0be615f81e721d585a8fafec9"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals announces FDA acceptance of NDA for neffy ...",
+              "snippet": "neffy has potential to be the first non-injectable medicine indicated to treat allergic reactions (type I) including anaphylaxis in the U.S., if approved; SAN DIEGO - October 21, 2022 - ARS Pharmaceuticals, Inc. announced today that the U.S. Food and Drug Administration (FDA) has accepted for review ARS' New Drug Application (NDA) for neffy for the emergency treatment of allergic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895716+00:00",
+              "published_date": null,
+              "source_hash": "002665991a31dfa46674d757c4b91f2f"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Submits Response to FDA Complete Response Letter ...",
+              "snippet": "ARS Pharmaceuticals Submits Response to FDA Complete Response Letter for neffy\u00ae (Epinephrine Nasal Spray) ARS Pharmaceuticals, Inc. Wed, Apr 3, 2024, 9:01 AM 5 min read",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895748+00:00",
+              "published_date": null,
+              "source_hash": "9f0e65e5dd502fec4de7b6e813354e19"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Submits sNDA to FDA for neffy\u00ae 1 mg Dose for ...",
+              "snippet": "If approved, neffy 1 mg will be the first and only needle-free epinephrine treatment available for younger school-aged children The submission of neffy 1 mg sNDA follows FDA approval on August 9, 2024, of neffy (2 mg) for the treatment of Type I Allergic Reactions, including anaphylaxis, in adults and children who weigh 30 kg (66 lbs.) or greater. SAN DIEGO, Sept. 09, 2024 (GLOBE NEWSWIRE ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895760+00:00",
+              "published_date": null,
+              "source_hash": "5640a2a654226e70c3a7f49b7096e501"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals' anaphylaxis nasal spray gains FDA approval",
+              "snippet": "The US Food and Drug Administration (FDA) has approved ARS Pharmaceuticals' neffy (epinephrine nasal spray) 2mg for the emergency treatment of allergic reactions (type I). The indications include life-threatening anaphylaxis in adults and children weighing a minimum of 30kg.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873615+00:00",
+              "published_date": null,
+              "source_hash": "1e85aa8ea7a18afae993bef1ecc54715"
+            },
+            {
+              "url": "",
+              "title": "FDA Delays Approval of neffy\u2122 Intranasal ... - SnackSafely.com",
+              "snippet": "ARS Pharmaceuticals announced this morning they had been informed the FDA will require an additional three months to complete their review of neffy, the needle-free emergency epinephrine candidate administered via nasal spray, unlike traditional auto-injectors administered via a jab to the thigh.The expected approval date has been delayed from \"mid-year\" to September 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895781+00:00",
+              "published_date": null,
+              "source_hash": "baeb8e6ebaeba220d26cd32f1883de7c"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Receives FDA Approval of neffy\u00ae - Healthcare Packaging",
+              "snippet": "ARS Pharmaceuticals, Inc., a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect patients from severe allergic reactions that could lead to anaphylaxis, announces that the U.S. Food and Drug Administration (FDA) approved neffy \u00ae (epinephrine nasal spray) 2 mg for the treatment of Type I Allergic Reactions, including anaphylaxis, in adults and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:15.895794+00:00",
+              "published_date": null,
+              "source_hash": "69ca61be38bf0f46a00dd8eaa7988d24"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the United Kingdom on Behalf of Licensing Partner ALK-Abell\u00f3 A/S",
+              "snippet": "Canada and United Kingdom represent two of the largest markets within the ALK portfolio with plans to expand filings of neffy (epinephrine nasal",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:24.493631+00:00",
+              "published_date": "2025-01-06T13:25:00+00:00",
+              "source_hash": "8909b26cf950f9e8ed32dd6e8484012b"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces neffy\u00ae (Epinephrine Nasal Spray) is available on Express Scripts Commercial National Formularies",
+              "snippet": "Inclusion of neffy on Express Scripts commercial formularies was effective November 22, 2024 and expands access to patients and caregivers",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:30.383079+00:00",
+              "published_date": "2024-12-19T23:25:00+00:00",
+              "source_hash": "8b9a42fb6edf36eff94c90160f28adf3"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals' Licensing Partners File for Approval of neffy\u00ae 2 mg in China, Japan, and Australia",
+              "snippet": "ARS Pharmaceuticals, Inc. announced that its licensing partners in China, Japan, and Australia have applied for approval of neffy\u00ae (epinephrine ... the only FDA-approved medication for these ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:18.750967+00:00",
+              "published_date": "2024-12-12T21:14:00+00:00",
+              "source_hash": "a8bf7433d361c9f0c44087ada39c78f6"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces Filings for Approval of neffy\u00ae in China, Japan and Australia",
+              "snippet": "SAN DIEGO, Dec. 12, 2024 (GLOBE NEWSWIRE) -- ARS Pharmaceuticals, Inc. (Nasdaq: SPRY), a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:18.750979+00:00",
+              "published_date": "2024-12-12T19:33:00+00:00",
+              "source_hash": "b6c71a365d4e3a71f46eee44965f4589"
+            },
+            {
+              "url": "",
+              "title": "FDA declines to approve needle-free epinephrine from ARS",
+              "snippet": "Shares in ARS Pharmaceuticals were in freefall in pre-market trading this morning as it emerged that the FDA had declined ... allergic reactions. \"If approved, neffy would represent the first ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "retrieved_at": "2025-01-06T21:09:18.750988+00:00",
+              "published_date": "2024-12-28T23:59:00+00:00",
+              "source_hash": "e21bd46cb891e2ad84f2bbf5ba13eb01"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada - GlobeNewswire",
+              "snippet": "The Company is commercializing neffy \u00ae 2 mg (trade name EURneffy \u00ae in the EU) (previously referred to as ARS-1), an epinephrine nasal spray indicated in the U.S. for emergency treatment of Type ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873533+00:00",
+              "published_date": null,
+              "source_hash": "99e30954667df138e57cb91eb6d2fab6"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces Presentation of Clinical Data Supporting ...",
+              "snippet": "SAN DIEGO - November 10, 2022 - ARS Pharmaceuticals, Inc. (NASDAQ: SPRY) (ARS or the Company), a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect themselves from severe allergic reactions that could lead to anaphylaxis, today announced that positive clinical data supporting neffy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873546+00:00",
+              "published_date": null,
+              "source_hash": "db43a9e733f4993b594b581cf7fb78d4"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharma - Developing Biotechnology",
+              "snippet": "At ARS Pharma, we are committed to developing patient-friendly treatments to address serious issues related to needle-related risks, device portability and ease of use. Our innovative needle-free product empowers patients and caregivers to administer safe, effective therapies without hesitation or fear.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873557+00:00",
+              "published_date": null,
+              "source_hash": "133694456f0ad051646f7bb01e0f82ba"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces U.S. Availability of neffy\u00ae - GlobeNewswire",
+              "snippet": "Visit neffy.com to \"Get neffy Now\" and access the comprehensive patient assistance programs available through neffyConnect. September 23, 2024 08:00 ET | Source: ARS Pharmaceuticals, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873567+00:00",
+              "published_date": null,
+              "source_hash": "3ea9d9e78b2d9925e527633e57145694"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the ...",
+              "snippet": "The Company is commercializing neffy \u00ae 2 mg (trade name EURneffy \u00ae in the EU) (previously referred to as ARS-1), an epinephrine nasal spray indicated in the U.S. for emergency treatment of Type ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873577+00:00",
+              "published_date": null,
+              "source_hash": "d5e63b6a389dc55f371d6874024435e2"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces neffy\u00ae (Epinephrine Nasal Spray) is ...",
+              "snippet": "About ARS Pharmaceuticals, Inc. ARS Pharmaceuticals is a biopharmaceutical company dedicated to empowering at-risk patients and their caregivers to better protect patients from allergic reactions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873587+00:00",
+              "published_date": null,
+              "source_hash": "dd1bf91f4d7a136eb607d09964b0d84b"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Raises $55 Million in Series D Funding for Launch ...",
+              "snippet": "San Diego, Calif. - August 31, 2021 - ARS Pharmaceuticals, Inc., a pharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect themselves from severe allergic reactions potentially leading to anaphylaxis, has closed on a Series D financing of $55 million led by SR One with participation from RA Capital Management, and one other U.S.-based, healthcare ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873595+00:00",
+              "published_date": null,
+              "source_hash": "eeb3edb930aa254b88e11739f855e9b4"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals' neffy\u00ae Added to Express Scripts ... - Nasdaq",
+              "snippet": "ARS Pharmaceuticals, Inc. announced that neffy\u00ae (epinephrine nasal spray) has been added to the Express Scripts commercial formularies effective November 22, 2024, significantly increasing access ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:21.873606+00:00",
+              "published_date": null,
+              "source_hash": "059b06e02c619f3512646dc368e6b6d2"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals' neffy\u00ae Added to Express Scripts Commercial National Formularies, Enhancing Access for Allergy Patients",
+              "snippet": "neffy is the first FDA-approved epinephrine nasal spray, offering a needle-free alternative and enhancing patient safety ... 2024 (GLOBE NEWSWIRE) -- ARS Pharmaceuticals, Inc. (Nasdaq: SPRY ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:24.493723+00:00",
+              "published_date": "2024-12-19T22:30:00+00:00",
+              "source_hash": "90323b9c1d23eb7cdfc3bc82946c75e6"
+            },
+            {
+              "url": "",
+              "title": "Brokerages Set ARS Pharmaceuticals, Inc. (NASDAQ:SPRY) Price Target at $24.00",
+              "snippet": "ARS Pharmaceuticals, Inc, a biopharmaceutical company, develops treatments for severe allergic reactions. The company is developing neffy, a needle-free and low-dose intranasal epinephrine nasal ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:24.493734+00:00",
+              "published_date": "2024-12-25T23:59:00+00:00",
+              "source_hash": "142f41bf0142cccc97963f44c11a8934"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals, Inc. (NASDAQ:SPRY) Shares Bought by Charles Schwab Investment Management Inc.",
+              "snippet": "ARS Pharmaceuticals, Inc, a biopharmaceutical company, develops treatments for severe allergic reactions. The company is developing neffy, a needle-free and low-dose intranasal epinephrine nasal ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "retrieved_at": "2025-01-06T21:09:24.493744+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "959a6282e1b9d9db175eb8c2e776c559"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Reports Third Quarter 2024 Financial Results and ...",
+              "snippet": "ARS Pharmaceuticals Reports Third Quarter 2024 Financial Results and Provides Business Updates ... SAN DIEGO, Nov. 13, 2024 (GLOBE NEWSWIRE) -- ARS Pharmaceuticals, Inc. (Nasdaq: SPRY), a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect themselves from allergic reactions that could lead to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877404+00:00",
+              "published_date": null,
+              "source_hash": "342c2b2f9eeba67abb4e0b0999fbf4f8"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Reports Third Quarter 2024 Financial ... - Nasdaq",
+              "snippet": "ARS Pharmaceuticals, Inc. Condensed Consolidated Balance Sheets(in thousands, except share and par value data) September 30,2024: December 31,2023 (unaudited) Assets Current assets:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877506+00:00",
+              "published_date": null,
+              "source_hash": "eefadb7a4deaa114a3d17d5bb6629231"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the ...",
+              "snippet": "SAN DIEGO, Jan. 06, 2025 (GLOBE NEWSWIRE) -- ARS Pharmaceuticals, Inc. (Nasdaq: SPRY), a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877520+00:00",
+              "published_date": null,
+              "source_hash": "4346d69dcfe31ed0938f422c44393b80"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces Conference Call and Webcasts for its ...",
+              "snippet": "Third Quarter Earnings Conference Call to be Held on November 13 at 8:00 a.m. ETSAN DIEGO, Nov. 06, 2024 (GLOBE NEWSWIRE) -- ARS Pharmaceuticals, Inc. (Nasdaq: SPRY), a biopharmaceutical company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877533+00:00",
+              "published_date": null,
+              "source_hash": "811e1a1c798964e2db6fb6ea71c922d2"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals, Inc. - AnnualReports.com",
+              "snippet": "ARS is a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect themselves from severe allergic reactions that could lead to anaphylaxis. The Company is developing neffy\u00ae (also referred to as ARS-1), an intranasal epinephrine product in clinical development for patients and their caregivers with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877543+00:00",
+              "published_date": null,
+              "source_hash": "dcc8013781f4b1a3238ca8e2df517d98"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces Conference Call and Webcasts - GlobeNewswire",
+              "snippet": "ARS Pharmaceuticals is a biopharmaceutical company dedicated to empowering at-risk patients and their caregivers to better protect patients from severe allergic reactions that could lead to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877553+00:00",
+              "published_date": null,
+              "source_hash": "e648ded847ddbf1bb95c31bef224d087"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces Conference Call and Webcasts for its ...",
+              "snippet": "SAN DIEGO, Nov. 06, 2024 -- ARS Pharmaceuticals, Inc. , a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect themselves from severe allergic...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877562+00:00",
+              "published_date": null,
+              "source_hash": "64559b73d8fe90d6e34166b642e8c910"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the ...",
+              "snippet": "ARS Pharmaceuticals, Inc. is a biopharmaceutical company. The Company is focused on developing neffy, for the emergency treatment of Type I allergic reactions, including anaphylaxis. neffy is a proprietary composition of epinephrine with an absorption enhancer called Intravail, which allows neffy to provide injection-like absorption of epinephrine at a low dose, in a small, administered and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877571+00:00",
+              "published_date": null,
+              "source_hash": "229e42beb38dd4489feedbd67433a2c1"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the ...",
+              "snippet": "ARS Pharmaceuticals is a biopharmaceutical company dedicated to empowering at-risk patients and their caregivers to better protect patients from allergic reactions that could lead to anaphylaxis.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877581+00:00",
+              "published_date": null,
+              "source_hash": "0ee2d081f66dbbc147309e30d0ca2574"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Announces Exclusive Agreement with Global Allergy ...",
+              "snippet": "About ARS Pharmaceuticals, Inc. ARS Pharma is a biopharmaceutical company dedicated to empowering at-risk patients and their caregivers to better protect patients from allergic reactions that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:27.877591+00:00",
+              "published_date": null,
+              "source_hash": "e357c86bdb77d2b474f9b516ca6cc65f"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Files for Approval of neffy\u00ae in Canada and the United Kingdom on Behalf of Licensing Partner ALK-Abell\u00f3 A/S",
+              "snippet": "ARS Pharma retains all U.S. rights for neffy and has existing licensing partnerships in China, Japan, Australia and New Zealand with Pediatrix Therapeutics, Alfresa Pharma, and CSL Seqirus, respectively.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:30.382962+00:00",
+              "published_date": "2025-01-06T13:20:00+00:00",
+              "source_hash": "09f3b8ff58d8c1eb5a86b9e5de376fc9"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals Reports Third Quarter 2024 Financial Results and Provides Business Updates",
+              "snippet": "ARS Pharmaceuticals, Inc. (Nasdaq: SPRY), a biopharmaceutical company dedicated to empowering at-risk patients and caregivers to better protect themselves from allergic reactions that could lead ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:30.383046+00:00",
+              "published_date": "2024-11-13T11:30:00+00:00",
+              "source_hash": "cb74ad973459fe1f32a278f5f0d3c3fa"
+            },
+            {
+              "url": "",
+              "title": "Wall Street Analysts Think ARS Pharmaceuticals, Inc. (SPRY) Could Surge 67.56%: Read This Before Placing a Bet",
+              "snippet": "Shares of ARS Pharmaceuticals, Inc. (SPRY) have gained 10.4% over the past four weeks to close the last trading session at $15.32, but there could still be a solid upside left in the stock if ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:30.383060+00:00",
+              "published_date": "2024-11-06T16:04:00+00:00",
+              "source_hash": "14d0a0b7a0ceec7841ec71dd52b71a96"
+            },
+            {
+              "url": "",
+              "title": "ARS Pharmaceuticals, Inc. (NASDAQ:SPRY) Shares Bought by Charles Schwab Investment Management Inc.",
+              "snippet": "Charles Schwab Investment Management Inc. lifted its stake in shares ... First Turn Management LLC acquired a new position in ARS Pharmaceuticals in the third quarter valued at approximately ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ARS Pharmaceuticals Inc. ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "retrieved_at": "2025-01-06T21:09:30.383070+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "0744a10f3f2c06d947b61193c522c9b8"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "ARS Pharmaceuticals Inc. FDA delays neffy approval",
+              "rationale": "Investigate potential financial and legal impacts of FDA delays on ARS Pharmaceuticals",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "ARS Pharmaceuticals Inc. patient adoption challenges neffy",
+              "rationale": "Explore social and ethical concerns related to patient resistance to adopting neffy",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "ARS Pharmaceuticals Inc. third-party manufacturing risks",
+              "rationale": "Assess financial and legal risks associated with reliance on third-party manufacturers",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:09:45.501844",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

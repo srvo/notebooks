@@ -1,0 +1,408 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:37:37.790293",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "CCC Intelligent Solutions Holdings Inc",
+      "symbol": "CCCS",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Market Concentration Risk: Heavy reliance on the U.S. market makes CCCS vulnerable to regional economic downturns and regulatory changes.",
+            "Competitive Pressures: High competition in the technology sector for insurance and automotive industries could erode market share.",
+            "Data Privacy and Security Concerns: Increasing scrutiny around data privacy and cybersecurity, especially with telematics and connected car data.",
+            "SPAC Backlash: Potential investor skepticism due to the SPAC merger in 2021."
+          ],
+          "controversies": [
+            "High PE ratio of 630.32 indicating potential overvaluation.",
+            "SPAC merger in 2021 has faced regulatory and investor skepticism."
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data Privacy: Handling sensitive data in telematics and connected car technologies raises privacy concerns."
+          ],
+          "governance_issues": [
+            "Valuation Concerns: High PE ratio may indicate governance issues related to financial transparency and investor communication."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS)",
+              "snippet": "The acquisition expands CCC's market reach into strategic adjacencies and strengthen CHICAGO, December 20, 2024--CCC Intelligent Solutions Holdings Inc ... pressing challenges such as the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:37:08.277051+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "fff6724fadb7795a7352562ae0fc36af"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (NYSE:CCCS) Receives $13.89 Consensus Target Price from Analysts",
+              "snippet": "Shares of CCC Intelligent Solutions Holdings Inc. (NYSE:CCCS - Get Free Report) have been assigned a consensus recommendation of \"Moderate Buy\" from the nine ratings firms that are covering the firm,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:19.978068+00:00",
+              "published_date": "2024-12-31T06:26:00+00:00",
+              "source_hash": "2487697fedec042b15e0b9108fbdb891"
+            },
+            {
+              "url": "",
+              "title": "Charles Schwab Investment Management Inc. Raises Stock Holdings in CCC Intelligent Solutions Holdings Inc. (NYSE:CCCS)",
+              "snippet": "CCC Intelligent Solutions Holdings Inc. has a 12 month low of $9.79 and a 12 month high of $12.83. The stock has a market cap of $7.88 billion, a PE ratio of 630.32, a price-to-earnings-growth ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:19.978186+00:00",
+              "published_date": "2024-12-02T00:00:00+00:00",
+              "source_hash": "34ac783f6ab5443f2075d3c439aa641a"
+            },
+            {
+              "url": "",
+              "title": "CCC Board Approves New $300 Million Share Repurchase Authorization",
+              "snippet": "CHICAGO--(BUSINESS WIRE)--CCC Intelligent Solutions Holdings Inc. (the \"Company\") (NASDAQ: CCCS), a leading cloud platform provider for the P&C insurance economy, today announced that its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:19.978200+00:00",
+              "published_date": "2024-12-20T07:00:00+00:00",
+              "source_hash": "d3b059cdb9b3179267af5cb000254c20"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Announces the Acquisition of EvolutionIQ, the Leading AI Guidance Platform for Disability and Injury Claims Management",
+              "snippet": "CCC Intelligent Solutions Inc. (\"CCC&CloseCurlyDoubleQuote;), a leading cloud platform provider powering the P&C insurance economy and a subsidiary of CCC Intelligent Solutions Holdings Inc ... as CCC&CloseCurlyQuote;s legal advisor.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc SPAC merger legal challenges",
+              "retrieved_at": "2025-01-06T14:37:08.277102+00:00",
+              "published_date": "2024-12-20T12:02:00+00:00",
+              "source_hash": "ddff27b617ff67a11625b1538b9352a5"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. - AnnualReports.com",
+              "snippet": "CCC Intelligent Solutions Inc., a subsidiary of CCC Intelligent Solutions Holdings Inc. (NASDAQ: CCCS), is a leading SaaS platform for the multi-trillion-dollar P&C insurance economy powering operations for insurers, repairers, automakers, part suppliers, lenders, and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521423+00:00",
+              "published_date": null,
+              "source_hash": "c2e60c65346f392278ea0b6ce3adc471"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. Announces Third Quarter 2024 ...",
+              "snippet": "CHICAGO, October 28, 2024--CCC Intelligent Solutions Holdings Inc. (\"CCC\" or the \"Company\") (NASDAQ: CCCS), a leading cloud platform provider for the P&C insurance economy, today announced its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521469+00:00",
+              "published_date": null,
+              "source_hash": "ecd79fb19328f07e14f0fb0bd56fe2f2"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS) - Yahoo Finance",
+              "snippet": "See the company profile for CCC Intelligent Solutions Holdings Inc. (CCCS) including business summary, industry/sector information, number of employees, business summary, corporate governance, key ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427686+00:00",
+              "published_date": null,
+              "source_hash": "f9afcfb799b023f740221b3dd5df7a42"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc - Company Profile - GlobalData",
+              "snippet": "CCC Intelligent Solutions Holdings Inc (CCC), formerly Dragoneer Growth Opportunities Corp, offers innovative cloud, telematics, mobile, hyperscale technologies, and apps for the insurance, automotive, financial institution, and collision repair industries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521487+00:00",
+              "published_date": null,
+              "source_hash": "4624d4102bd6dfb6f6dd88bf20124b2e"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS) Company Profile ...",
+              "snippet": "Company profile for CCC Intelligent Solutions Holdings Inc. (CCCS) with a description, list of executives, contact details and other key facts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521495+00:00",
+              "published_date": null,
+              "source_hash": "67a1ec7961275131dabf12ffcf02be03"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. Profile - MarketWatch",
+              "snippet": "CCC Intelligent Solutions Holdings, Inc. is a provider of innovative cloud, mobile, telematics, hyperscale technologies, and applications for the property and casualty (\"P&C\") insurance economy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427717+00:00",
+              "published_date": null,
+              "source_hash": "9db0dfb672dd2fc5403e48ccee5de601"
+            },
+            {
+              "url": "",
+              "title": "Company CCC Intelligent Solutions Holdings Inc. - MarketScreener.com",
+              "snippet": "CCC Intelligent Solutions Holdings Inc. provides software as a service (SaaS) platform for the property and casualty (P&C) insurance economy. The Company's cloud-based SaaS platform connects trading partners, facilitates commerce, and supports artificial intelligence (AI) enabled digital workflows.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521510+00:00",
+              "published_date": null,
+              "source_hash": "84fcfd1d1bbf2b13f6f478adec1735d9"
+            },
+            {
+              "url": "",
+              "title": "Ccc Intelligent Solutions Holdings Inc. (CCCS) 10K Annual Reports & 10Q ...",
+              "snippet": "CCC Intelligent Solutions Holdings Inc. Announces Fourth Quarter and Fiscal Year 2023 Financial Results. February 28, 2024 - CCC Intelligent Solutions Holdings Inc. (\"CCC\" or the \"Company\") (NASDAQ: CCCS), a leading SaaS platform for the P&C insurance economy, today announced its financial results for the three months and year ended December 31, 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521517+00:00",
+              "published_date": null,
+              "source_hash": "92f6734024ac3dd5f7188ab09022c041"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. - Barron's",
+              "snippet": "Complete CCC Intelligent Solutions Holdings Inc. stock information by Barron's. View real-time CCCS stock price and news, along with industry-best analysis.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521526+00:00",
+              "published_date": null,
+              "source_hash": "f6b0ed971a2bd367e6b14817e77eb01e"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc - FT.com",
+              "snippet": "CCC Intelligent Solutions Holdings Inc. provides software as a service (SaaS) platform for the property and casualty (P&C) insurance economy. The Company's cloud-based SaaS platform connects trading partners, facilitates commerce, and supports artificial intelligence (AI) enabled digital workflows.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:11.521533+00:00",
+              "published_date": null,
+              "source_hash": "340a583b1ca61a941e8f6505d4b9ad47"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS)",
+              "snippet": "CHICAGO, December 20, 2024--CCC Intelligent Solutions Inc. (\"CCC\"), a leading cloud platform provider powering the P&C insurance economy and a subsidiary of CCC Intelligent Solutions Holdings Inc ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:14.012748+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "6e434df0bad76a4b3eb616254b2da935"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (NYSE:CCCS) Shares Acquired by Townsquare Capital LLC",
+              "snippet": "According to data from MarketBeat, CCC Intelligent Solutions presently has an average rating of \"Moderate Buy\" and an average price target of $13.78. CCC Intelligent Solutions Holdings Inc ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:14.012778+00:00",
+              "published_date": "2024-12-07T00:00:00+00:00",
+              "source_hash": "848b3e7776907af5dd795ac25097d7bf"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Announces the Acquisition of EvolutionIQ, the Leading AI Guidance Platform for Disability and Injury Claims Management",
+              "snippet": "CCC Intelligent Solutions Inc. (\"CCC&CloseCurlyDoubleQuote;), a leading cloud platform provider powering the P&C insurance economy and a subsidiary of CCC Intelligent Solutions Holdings Inc ... class insurance experts, data scientists, engineers ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T14:37:14.012829+00:00",
+              "published_date": "2024-12-20T12:02:00+00:00",
+              "source_hash": "89d52b9f1793fbf5fee19bbe5ecb1b6b"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS) - Yahoo Finance",
+              "snippet": "Find the latest CCC Intelligent Solutions Holdings Inc. (CCCS) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427570+00:00",
+              "published_date": null,
+              "source_hash": "00684a07eeac719418eef8893a842c84"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions and Dragoneer Investment Group, LLC Announce ...",
+              "snippet": "Starting August 2, 2021, the common stock and warrants of the combined company, CCC Intelligent Solutions Holdings Inc., will be listed on the New York Stock Exchange under the ticker symbols \"CCCS\" and \"CCCS WS,\" respectively.Since the announcement of the Business Combination on February 3, 2021, CCC has announced plans for important ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427642+00:00",
+              "published_date": null,
+              "source_hash": "e0e19535dc328658439a764e9fe29539"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Announces the Acquisition of EvolutionIQ, the ...",
+              "snippet": "CHICAGO - December 20, 2024 - CCC Intelligent Solutions Inc. (\"CCC\"), a leading cloud platform provider powering the P&C insurance economy and a subsidiary of CCC Intelligent Solutions Holdings Inc. (NASDAQ: CCCS) (\"CCCS\"), announced today that it has signed a definitive agreement to acquire EvolutionIQ, Inc. (\"EvolutionIQ\"), the leading platform for AI-powered guidance for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427662+00:00",
+              "published_date": null,
+              "source_hash": "bd0fe127914c945a6f461df3d4dd510e"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. Announces Third Quarter 2024 ...",
+              "snippet": "CCC Intelligent Solutions Inc. (\"CCC\"), a subsidiary of CCC Intelligent Solutions Holdings Inc. (NASDAQ: CCCS), is a leading cloud platform provider for the multi-trillion-dollar P&C insurance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427676+00:00",
+              "published_date": null,
+              "source_hash": "7c3d8c2ee80267f6946155ba383f75ab"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS)",
+              "snippet": "CCC Intelligent Solutions Holdings Inc., operates as a software as a service company for the property and casualty insurance economy in the United States and China. The company's cloud-based software as a service platform connects trading partners, facilitates commerce, and supports mission-critical, artificial intelligence enabled digital ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427696+00:00",
+              "published_date": null,
+              "source_hash": "e577d690ab18802fcb0c33aead1a801b"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. (CCCS) Company Profile ...",
+              "snippet": "CCC Intelligent Solutions Holdings Inc., operates as a software as a service company for the property and casualty insurance economy in the United States and China. The company's cloud-based software as a service platform connects trading partners, facilitates commerce, and supports mission-critical, artificial intelligence enabled digital ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427707+00:00",
+              "published_date": null,
+              "source_hash": "319a7368f68aa55227183173f8a8056b"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc. - MarketWatch",
+              "snippet": "CCC Intelligent Solutions Holdings, Inc. is a provider of innovative cloud, mobile, telematics, hyperscale technologies, and applications for the property and casualty (\"P&C\") insurance economy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427726+00:00",
+              "published_date": null,
+              "source_hash": "078072fe47c22cbb2b2046519aea3817"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc - Financial Times",
+              "snippet": "CCC Intelligent Solutions Holdings Inc. provides software as a service (SaaS) platform for the property and casualty (P&C) insurance economy. The Company's cloud-based SaaS platform connects trading partners, facilitates comm erce, and supports artificial intelligence (AI) enabled digital workflows. The Company's solutions include CCC Insurance Solutions, CCC Repair Solutions, CCC Ecosystem ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:17.427735+00:00",
+              "published_date": null,
+              "source_hash": "6bb1adfb156eda2078dfd3120a3036aa"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Holdings Inc.",
+              "snippet": "Stocks: Real-time U.S. stock quotes reflect trades reported through Nasdaq only; comprehensive quotes and volume reflect trading in all markets and are delayed at least 15 minutes. International ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:19.978159+00:00",
+              "published_date": "2025-01-04T01:28:00+00:00",
+              "source_hash": "19ed28dc1f750b945823a0056e2acaf7"
+            },
+            {
+              "url": "",
+              "title": "CCC Intelligent Solutions Announces the Acquisition of EvolutionIQ, the Leading AI Guidance Platform for Disability and Injury Claims Management",
+              "snippet": "CCC Intelligent Solutions Inc. (\"CCC&CloseCurlyDoubleQuote;), a leading cloud platform provider powering the P&C insurance economy and a subsidiary of CCC Intelligent Solutions Holdings Inc ... among others, competition, including technological advances ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CCC Intelligent Solutions Holdings Inc CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T14:37:19.978213+00:00",
+              "published_date": "2024-12-20T12:02:00+00:00",
+              "source_hash": "09377cc70da061453668c9fe842f48a3"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "CCC Intelligent Solutions Holdings Inc SPAC merger legal challenges",
+              "rationale": "Investigate potential legal or regulatory issues related to the SPAC merger",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "CCC Intelligent Solutions Holdings Inc data privacy controversies",
+              "rationale": "Explore concerns or incidents related to data privacy and cybersecurity",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "CCC Intelligent Solutions Holdings Inc competition lawsuits",
+              "rationale": "Identify any legal disputes or antitrust issues with competitors",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:37:37.790303",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

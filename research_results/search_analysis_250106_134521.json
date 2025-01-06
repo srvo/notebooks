@@ -1,0 +1,615 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:45:21.692481",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "HubSpot Inc",
+      "symbol": "HUBS",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Intense competition from established players and emerging startups",
+            "Data privacy concerns and compliance with global regulations",
+            "Customer retention challenges due to reliance on SMBs",
+            "Pricing model complexity and potential for escalating costs",
+            "Ongoing intellectual property lawsuit with Zoho Corporation"
+          ],
+          "controversies": [
+            "Data privacy concerns heightened by AI integration",
+            "Ongoing legal dispute with Zoho Corporation"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving net-zero carbon emissions by 2030"
+          ],
+          "social_issues": [
+            "Customer retention challenges for SMBs during economic downturns"
+          ],
+          "governance_issues": [
+            "Regulatory and compliance risks related to data privacy"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "How AI Has Exacerbated Data Privacy Concerns - HubSpot Blog",
+              "snippet": "With conversations surrounding data privacy getting louder in recent months, consumer concerns are growing even bigger. ... We're committed to your privacy. HubSpot uses the information you provide to us to contact you about our relevant content, products, and services. You may unsubscribe from these communications at any time.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.158905+00:00",
+              "published_date": null,
+              "source_hash": "2d4f9a2ce2d199d83558240b7f55190b"
+            },
+            {
+              "url": "",
+              "title": "Zoho Corporation Pvt., Ltd. v. Hubspot, Inc. - UniCourt",
+              "snippet": "On 04/24/2020 Zoho Corporation Pvt , Ltd filed an Intellectual Property - Trademark lawsuit against Hubspot, Inc. This case was filed in U.S. District Courts, Massachusetts District Court. The Judge overseeing this case is Patti B. Saris. The case status is Pending - Other Pending.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.158981+00:00",
+              "published_date": null,
+              "source_hash": "7590c192f32f2ce6f9ee187f1d2b1d47"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Data Disclosure Policy and Transparency Report",
+              "snippet": "HubSpot analyzes every legal request to determine whether it is valid and challenges legally questionable requests. HubSpot interprets legal requests narrowly in order to minimize disclosure of sensitive information. HubSpot Transparency Report. Updated February 16, 2024. HubSpot shares data about requests for customer information so that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.158996+00:00",
+              "published_date": null,
+              "source_hash": "a0f90987295ba4c423b5b18362fcf380"
+            },
+            {
+              "url": "",
+              "title": "Trident Holdings, Inc. v. Hubspot, Inc., No. 1:2021cv00401 - Document ...",
+              "snippet": "On March 19, 2021, Trident Holdings, Inc., filed a Complaint against HubSpot, Inc. alleging infringement of the '977 patent. 2 The Complaint alleges that \"Trident owns all rights to the '977 patent via an Assignment to Real Living, Inc.,\" which later \"changed its name to Trident Holdings, Inc.\" 3 The Complaint alleges that HubSpot ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159007+00:00",
+              "published_date": null,
+              "source_hash": "a26214bb3520597a09728bd2875ea445"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Is Investigating a Hack of Some Customer Accounts - Inc.com",
+              "snippet": "The popular customer relationship management platform says hackers recently attempted to gain access to a 'limited number' of HubSpot user accounts. Be Honored as an Inc. Best Workplace. Early ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159017+00:00",
+              "published_date": null,
+              "source_hash": "bde8dcc071251d9b781cd25c32dc5a0c"
+            },
+            {
+              "url": "",
+              "title": "HubSpot data breach on March 18th?",
+              "snippet": "Anyone got any message from HubSpot that this has happened? Received this today - but not from HubSpot. \"On Friday, March 18, 2022, one of our third-party vendors, Hubspot, confirmed that an unauthorized third-party gained access to a portion of their client data.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159026+00:00",
+              "published_date": null,
+              "source_hash": "f2757f3b8c48fd3a8ad98da39c3ad4c4"
+            },
+            {
+              "url": "",
+              "title": "Securing Your HubSpot Data",
+              "snippet": "Data breaches can also result in significant financial losses through legal fees, forensic investigations, and potential lawsuits. In an era where cyber threats are ever-evolving, securing your business data is vital to avoid disruptions, prevent cyber-attacks, and enable quick recovery in the event of a breach.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159035+00:00",
+              "published_date": null,
+              "source_hash": "6fff613cfa579ef71e1f89c910f6da34"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Privacy Policy",
+              "snippet": "HubSpot's and our customers' legitimate interests are not more important than your privacy rights, and we process your data on the basis that people would expect their work-related data to be shared in this way.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159043+00:00",
+              "published_date": null,
+              "source_hash": "d1805502cfbcd1deccce30d255f18d73"
+            },
+            {
+              "url": "",
+              "title": "HubSpot's Commitment to Protecting EU Data Transfers",
+              "snippet": "In our Customer Code, we commit to doing the right thing when it comes to protecting our customers' data, which includes providing safe, secure, and legal ways for our customers to transfer their data as needed.This isn't a responsibility we take lightly. The world of security and data privacy is constantly evolving, as it did on July 16, 2020, when the Court of Justice for the European ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159052+00:00",
+              "published_date": null,
+              "source_hash": "7146ac43dac632ff8f4c982277e2ae2f"
+            },
+            {
+              "url": "",
+              "title": "How AI Has Exacerbated Data Privacy Concerns - HubSpot Blog",
+              "snippet": "U.S. lawmakers like Rep. Jan Schakowsky blame the AI boom for increased data privacy violations\"as companies vacuum up any data they can to monetize using AI models.\" To make matters worse, the U.S. doesn't have universal, overarching data privacy laws.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:55.159061+00:00",
+              "published_date": null,
+              "source_hash": "608dfc1a8b24004ce48924bd3b5a70da"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Chief Legal Officer Departs 'Upon Mutual Agreement' After Just 2 Years",
+              "snippet": "Alyssa Harvey Dawson is leaving HubSpot after just two years as chief legal officer \"upon mutual agreement with the Board of Directors,\" the company disclosed in a U.S. Securities and Exchange ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:58.658397+00:00",
+              "published_date": "2024-12-09T17:51:00+00:00",
+              "source_hash": "dca03448564a1bfde79a8f303056cdbb"
+            },
+            {
+              "url": "",
+              "title": "HubSpot, Inc. (HUBS) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "Have you been paying attention to shares of HubSpot (HUBS)? Shares have been on ... One industry peer that looks good is Upland Software, Inc. (UPLD). UPLD has a Zacks Rank of # 1 (Strong Buy ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:58.658466+00:00",
+              "published_date": "2024-12-05T14:15:00+00:00",
+              "source_hash": "4bf46d2c2e7c28b5165a3d86b673362c"
+            },
+            {
+              "url": "",
+              "title": "HubSpot to Acquire Frame AI, Unlocking the Power of Conversational Data with AI",
+              "snippet": "\"This acquisition is an important step in our mission to help businesses grow better with AI,\" said Yamini Rangan, CEO of HubSpot. \"AI is only as powerful as the data behind it. While ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:58.658495+00:00",
+              "published_date": "2024-12-06T09:00:00+00:00",
+              "source_hash": "9f2a1da1dc575c9feb423616c7a19422"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Has Earned a Narrow Moat and Leads in Software for Scaling Businesses",
+              "snippet": "We believe HubSpot is a leader in marketing and ... To learn more about how we handle and protect your data, visit our privacy center. Maintaining independence and editorial freedom is essential ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:58.658525+00:00",
+              "published_date": "2023-08-03T00:00:00+00:00",
+              "source_hash": "77af3f69c31a39c2c3f0f259914e69a7"
+            },
+            {
+              "url": "",
+              "title": "HubSpot, Inc. (HUBS)",
+              "snippet": "In this article, we are going to take a look at where HubSpot, Inc. (NYSE:HUBS ... which enable them to manage functions like data analysis, sales, marketing, [\u2026] Wrapping up Q3 earnings ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T20:44:58.658548+00:00",
+              "published_date": "2025-01-04T00:00:00+00:00",
+              "source_hash": "24f499bd79ab65f341872cea8792f3ec"
+            },
+            {
+              "url": "",
+              "title": "Improve Customer Retention and Satisfaction with Service Hub.",
+              "snippet": "Learn how HubSpot's Service Hub can boost customer satisfaction and retention with tools like customer health scores, feedback surveys, and AI-powered chatbots. Discover actionable strategies to build lasting relationships and drive loyalty. Learn how HubSpot's Service Hub can boost customer satisfaction and retention with tools like customer health scores, feedback surveys, and AI-powered ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176815+00:00",
+              "published_date": null,
+              "source_hash": "423a8ee11f1ec6877c2f1d46294c2458"
+            },
+            {
+              "url": "",
+              "title": "How to Improve Customer Retention and Satisfaction | HubSpot",
+              "snippet": "1. Access unified data that provides full visibility into customer issues. You want your customers to succeed \u2014 so do we. Manage your book of business in one unified view and determine churn risk with customer health scores so your CSMs can prioritize outreach and address customer needs before they raise concerns.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176924+00:00",
+              "published_date": null,
+              "source_hash": "65bf5035bc97fce1971f1c69db555359"
+            },
+            {
+              "url": "",
+              "title": "8 Customer Retention Challenges According to Service Experts and How to ...",
+              "snippet": "That can increase customer satisfaction and boost customer retention. Pro tip: Keep the team well-informed and adaptable to emerging trends. According to HubSpot's 2022 State of Customer Service Report , \"Customer expectations and experiences continue to be key determinants of brand and company loyalty, with consistent preferences for self ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176943+00:00",
+              "published_date": null,
+              "source_hash": "35d377e496418507bcb8d6ecda1ddc1e"
+            },
+            {
+              "url": "",
+              "title": "How to Improve Customer Retention With HubSpot",
+              "snippet": "In order to improve the customer experience, and therefore, improve customer retention, create a customer journey map to capitalize on points of force and mitigate points of friction. If you're new to customer journey mapping, gather colleagues from different departments, such as marketing, sales, customer service, and customer success, into ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176955+00:00",
+              "published_date": null,
+              "source_hash": "8ec20d383f9749b4cad2c15557eb6d33"
+            },
+            {
+              "url": "",
+              "title": "All You Need to Know About Customer Retention - HubSpot Blog",
+              "snippet": "The HubSpot Customer Platform. All of HubSpot's marketing, sales, and customer service software on one AI-powered platform. Free HubSpot CRM Overview of all products ... Customer retention experts: dive into these posts. How to Build a Strong Voice of the Customer Program [Infographic]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176966+00:00",
+              "published_date": null,
+              "source_hash": "6adcf5ea7c916076ddd42e6c335b9660"
+            },
+            {
+              "url": "",
+              "title": "Free Customer Retention Guides - HubSpot",
+              "snippet": "All of HubSpot's Customer Retention guides, in one place. Filters . Home Guides Customer Retention. Showing 1 - 2 of 2 . Filter resources. Search. Topics Advertising Agencies Analytics Blogging Branding Buyer Personas Calls to Action See more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176977+00:00",
+              "published_date": null,
+              "source_hash": "8f76c6e654258b6c0e9a451e746450f2"
+            },
+            {
+              "url": "",
+              "title": "Crushing It: HubSpot Has Repositioned For The Long Term - Seeking Alpha",
+              "snippet": "HubSpot, Inc. (NYSE:HUBS) offers what it calls a \"leading growth platform\" which includes a free Customer Relationship Management (CRM) application as well as four other \"hubs\", including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176987+00:00",
+              "published_date": null,
+              "source_hash": "a751221a0c53193d2b3c55c9036af0d3"
+            },
+            {
+              "url": "",
+              "title": "4 Customer Retention Strategies for CCOs in HubSpot - SmartBug Media",
+              "snippet": "HubSpot's customer analytics tools enable you to take your customer retention strategies and identify trends, patterns, and opportunities for improvement. Effective use of these tools leads to data-driven decisions that enhance your customer retention strategies, increase renewals, and, ultimately, propel business growth.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.176996+00:00",
+              "published_date": null,
+              "source_hash": "b63fd7e0c3a743bac48f816e761e7823"
+            },
+            {
+              "url": "",
+              "title": "Maximizing Customer Retention: Automate Your Renewal Process",
+              "snippet": "In HubSpot, workflows can be set up to automate emails, tasks, and data updates. For the renewal process, you can create workflows to automatically send reminder emails, create deals, and update records based on customer actions. Automating your renewal process with HubSpot can save you time and ensure a smoother customer experience.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.177006+00:00",
+              "published_date": null,
+              "source_hash": "6129ba292519112eccc03f1a181a290b"
+            },
+            {
+              "url": "",
+              "title": "Driving Retention with Customer Success - HubSpot",
+              "snippet": "In the world of customer service and retention, focusing on customer satisfaction and loyalty can drive substantial business results. Research shows that even a small improvement in customer retention can have a significant impact on profitability, with companies experiencing a 25% increase in profit from just a 5% improvement in retention .",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:00.177015+00:00",
+              "published_date": null,
+              "source_hash": "4a4c84c8b5d942e8ad0023d2c1d1adad"
+            },
+            {
+              "url": "",
+              "title": "HubSpot stock supported by Outperform rating amid improving retention",
+              "snippet": "On Friday, RBC Capital Markets updated its outlook on HubSpot Inc (NYSE:HUBS), increasing the ... HubSpot's raised full-year guidance and consistent retention metrics as key drivers of their ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:02.629610+00:00",
+              "published_date": "2025-01-03T12:10:00+00:00",
+              "source_hash": "fb76cca1cea9f1265e15bf354cf27029"
+            },
+            {
+              "url": "",
+              "title": "HubSpot, Inc. (HUBS) Enhances AI Capabilities with Frame AI Acquisition; BofA Boosts Price Target to $850 on Strong Growth Outlook",
+              "snippet": "We recently compiled a list of the 9 Important AI News and Ratings on Investors' Radar. In this article, we are going to take a look at where HubSpot, Inc. (NYSE:HUBS) stands against the other AI stocks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:02.629654+00:00",
+              "published_date": "2024-12-30T12:18:16+00:00",
+              "source_hash": "8935cd09729242b6bd0f2482dd72e10c"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Has Earned a Narrow Moat and Leads in Software for Scaling Businesses",
+              "snippet": "We believe HubSpot is ... to 2,000 employees. As customer size increases, we think switching costs strengthen. Enterprise customers generate higher revenue and higher retention than SMB customers.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:02.629666+00:00",
+              "published_date": "2023-08-03T00:00:00+00:00",
+              "source_hash": "1283e794ba2a470cd57ed49f03d18ff1"
+            },
+            {
+              "url": "",
+              "title": "HubSpot To Dominate SMB CRM Space With AI-Driven Platform, Says BofA Analyst",
+              "snippet": "BofA Securities analyst Brad Sills maintained HubSpot Inc (NYSE:HUBS ... Claude and Gemini are also gaining traction. If a customer prefers another, HubSpot can accommodate.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:02.629676+00:00",
+              "published_date": "2024-12-16T12:23:00+00:00",
+              "source_hash": "bc6f49a76cb14ef6d35e41f5f41a9e36"
+            },
+            {
+              "url": "",
+              "title": "HubSpot, Inc. (HUBS)",
+              "snippet": "In this article, we are going to take a look at where HubSpot, Inc. (NYSE:HUBS ... December 06, 2024--HubSpot, the leading customer platform for scaling businesses, today announced it has signed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HubSpot Inc HubSpot Inc customer retention issues",
+              "retrieved_at": "2025-01-06T20:45:02.629685+00:00",
+              "published_date": "2025-01-04T00:00:00+00:00",
+              "source_hash": "c6709a11e27dbf5f57a2076ae62144a9"
+            },
+            {
+              "url": "",
+              "title": "HubSpot | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of HubSpot filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.373887+00:00",
+              "published_date": null,
+              "source_hash": "aee0acb135d242ff1b699825dd52af9b"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Reviews | Read Customer Service Reviews of hubspot.com - Trustpilot",
+              "snippet": "Pricing is pretty fair overall with the industry/market. It's been a good solution for us as we've grown, our contacts add about 20-50K more every year. Salesforce is the other beast in the industry but I find the Hubspot user dashboard is easier to use and more conveniently laid out. Date of experience: June 14, 2024",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.373939+00:00",
+              "published_date": null,
+              "source_hash": "5f0d0748d17145e5aadb019fb370742f"
+            },
+            {
+              "url": "",
+              "title": "HubSpot CRM Review 2025: Features, Pros & Cons - Forbes",
+              "snippet": "In our 2025 HubSpot CRM review, we'll highlight this leading platform's features, pricing, benefits and drawbacks. Is HubSpot right for your business?",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.373956+00:00",
+              "published_date": null,
+              "source_hash": "29d480a01e9b3c4971e586dbf03eefa5"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Pros And Cons: A Candid Assessment for 2025 - EngageBay",
+              "snippet": "HubSpot's new 2024 pricing model can cause a significant increase in costs. There are more affordable HubSpot alternatives with similar features. When it comes to finding the right automation tools to manage your marketing, sales, and customer service, you have too many options \u2014 and they all come with their pros and cons.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.373969+00:00",
+              "published_date": null,
+              "source_hash": "0bf287b458616bb9f1b987d023f52cca"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Review 2024 Pricing, Features, Shortcomings",
+              "snippet": "Read this HubSpot Review detailing key features, pricing, pros & cons. Compare with top alternatives and see screenshots. ... Deployment Model: Free Trial: Public 100,000+ Cloud Yes. Download Comparison Guide. HubSpot At A Glance. ... HubSpot has a new pricing strategy where users only pay for marketing contacts. Non-marketing contacts (limit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.373986+00:00",
+              "published_date": null,
+              "source_hash": "4f71bf996f1976613b556f0df7926774"
+            },
+            {
+              "url": "",
+              "title": "HubSpot CRM Review: Features, Pricing, Pros & Cons - TechRepublic",
+              "snippet": "Pricing. Free CRM: Free for up to 5 users with contact management, quotes, live chat and more. Sales Hub Starter: $15 per seat per month, billed annually, or $20 when billed monthly. Sales Hub ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.373999+00:00",
+              "published_date": null,
+              "source_hash": "6d16f0fab3eb910814091dde56d6ace8"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Review 2025 - Pricing, Features, Pros, and Cons - Techopedia",
+              "snippet": "In this HubSpot review, I'll cover what's easily one of the most popular CRMs on the market today and one of my top choices of best free CRM. ... HubSpot's price increases from $15/month to $90/month; The jump with HubSpot equates to 500%. That said, unlike Salesforce, HubSpot offers ample free tools for startups, ... China's AI Models ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.374011+00:00",
+              "published_date": null,
+              "source_hash": "856996a899f364356d39cfe6ca7f0f95"
+            },
+            {
+              "url": "",
+              "title": "HubSpot CRM Review 2024 Pricing, Features, Shortcomings",
+              "snippet": "Pricing. HubSpot CRM is free for all users. If a company wants additional features, they can upgrade to the Sales, Marketing or Service Hub. In this section, we'll discuss the pricing for the Sales Hub, which has three paid plans. Note that each plan is billed annually. Starter - The Starter plan costs $50 per month and is best for single ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.374023+00:00",
+              "published_date": null,
+              "source_hash": "bc5e2d5ae8866e64128d5f8f58015969"
+            },
+            {
+              "url": "",
+              "title": "HubSpot CRM Review 2025: Features, Pricing, Pros & Cons",
+              "snippet": "HubSpot CRM is a comprehensive customer relationship management platform designed for businesses of all sizes, with a particular focus on streamlining sales, marketing, and customer service processes. It features an intuitive, user-friendly interface that simplifies tracking contacts, managing deals, and automating key tasks. HubSpot CRM offers built-in email marketing, live chat, and lead ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.374034+00:00",
+              "published_date": null,
+              "source_hash": "7d0812e66e10a944e752918dfdc78b50"
+            },
+            {
+              "url": "",
+              "title": "Question - Hubspot pricing : r/hubspot - Reddit",
+              "snippet": "Question - Hubspot pricing . I have just cancelled my Hubspot account on the first year low, low price. The model about giving you all tools and im not 100% sure what i use need contacts, and send emails that about it. We a very small company, and the horror story about the company paying 1500$ made me turn all subscriptions off. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:04.374048+00:00",
+              "published_date": null,
+              "source_hash": "abe48db7113055262eff36f8f4e535d2"
+            },
+            {
+              "url": "",
+              "title": "HubSpot's Strategic Growth: AI Innovations, New Pricing Model, and CacheFlow Acquisition Foster Strong Buy Rating",
+              "snippet": "The company has demonstrated a strong execution across its platform and upmarket strategies, particularly with its AI innovations and the introduction of a new pricing model. These steps are seen ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:06.935026+00:00",
+              "published_date": "2024-12-05T10:08:00+00:00",
+              "source_hash": "538c239c85b7be432e269fe204732f7b"
+            },
+            {
+              "url": "",
+              "title": "HubSpot sees price target raised at Stifel amid bullish views after partner survey",
+              "snippet": "Analysts led by J. Parker Lane said that 2024 has been a year of significant updates for HubSpot, including a redefined pricing model in March, the relaunch of CMS Hub as Content Hub in April ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:06.935054+00:00",
+              "published_date": "2024-12-09T14:05:00+00:00",
+              "source_hash": "efe864453f9aef45c4bd1d2e8d5fe481"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Pricing - How Much Does HubSpot CRM Cost?",
+              "snippet": "HubSpot pricing starts at $15 per user, per month for access to its individual sales, marketing, and customer service hubs. It also offers a robust free forever plan that allows for two users ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:06.935066+00:00",
+              "published_date": "2023-09-27T01:29:00+00:00",
+              "source_hash": "c3a062ab3272ef8f95f9702aea1771e0"
+            },
+            {
+              "url": "",
+              "title": "HubSpot, Inc. (HUBS)",
+              "snippet": "BofA Securities analyst Brad Sills maintained HubSpot Inc (NYSE:HUBS) with a Buy and raised the price target from $780 to $850. Sills hosted CEO Yamini Rangan in investor meetings in Boston on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:06.935073+00:00",
+              "published_date": "2025-01-04T00:00:00+00:00",
+              "source_hash": "fe56007873671fdd10acf3490533ed5b"
+            },
+            {
+              "url": "",
+              "title": "HubSpot Has Earned a Narrow Moat and Leads in Software for Scaling Businesses",
+              "snippet": "We believe HubSpot ... pricing is stated on a monthly basis, including starter for $50 for the Marketing Hub, professional for $800, and enterprise for $3,200. Like other freemium models, they ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HubSpot Inc HubSpot Inc pricing model complaints",
+              "retrieved_at": "2025-01-06T20:45:06.935079+00:00",
+              "published_date": "2023-08-03T00:00:00+00:00",
+              "source_hash": "500245c3d112feffe1dc566a2797ee90"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "HubSpot Inc data privacy lawsuits",
+              "rationale": "Investigate legal challenges related to data privacy regulations like GDPR and CCPA",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "HubSpot Inc customer retention issues",
+              "rationale": "Explore customer complaints and retention challenges, especially among SMBs",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "HubSpot Inc pricing model complaints",
+              "rationale": "Examine user feedback and controversies regarding pricing complexity and cost escalation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:45:21.692492",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

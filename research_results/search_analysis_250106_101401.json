@@ -1,0 +1,475 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:14:01.951608",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Solvay SA",
+      "symbol": "SOLB",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Environmental and safety concerns related to PFAS pollution",
+            "Regulatory and legal risks from anti-competitive practices",
+            "Supply chain vulnerabilities due to price volatility and geopolitical tensions",
+            "Market competition in the specialty chemicals industry"
+          ],
+          "controversies": [
+            "PFAS pollution at West Deptford facility leading to lawsuits",
+            "Environmental scrutiny at Rosignano plant in Italy",
+            "Anti-competitive practices in the soda ash market"
+          ],
+          "environmental_issues": [
+            "PFAS pollution and associated clean-up costs",
+            "Ongoing environmental scrutiny at key facilities",
+            "Commitment to carbon neutrality by 2050"
+          ],
+          "social_issues": [
+            "Adherence to global labor standards",
+            "Promotion of workers' rights through initiatives like the Solvay Global Forum"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and potential fines for non-compliance",
+            "Leadership changes and strategic restructuring under CEO Ilham Kadri"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "3M, DuPont, DowDuPont, Chemours, and Solvay were held accountable for pollution with PFAS chemicals under the state's Spill Act and other environmental laws. Solvay's West Deptford facility was among the contaminated sites where the state spent 3 million USD on investigations and clean-up that it sought repayment for from Solvay. The companies",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276021+00:00",
+              "published_date": null,
+              "source_hash": "0b83ef5e33603b90ef5257f6e1f03d72"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Controversies: Solvay \u2022 In August 2021, private residents from West Deptford, New Jersey, filed an environmental lawsuit in a district court against Solvay and other manufacturers alleging that the defendants had contaminated their private wells. \u2022 In May 2021, Sierra Club entered in lawsuit with the state of New Jersey aimed at forcing",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276039+00:00",
+              "published_date": null,
+              "source_hash": "79cc418ea6ebae94de66739481f3b3d7"
+            },
+            {
+              "url": "",
+              "title": "European chemicals group Solvay declares truce with activist Bluebell",
+              "snippet": "Solvay and Bluebell have been engaged in a public battle for almost two years over the environmental impact of the group's plant at Rosignano, a Tuscan tourist destination famous for its white ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276046+00:00",
+              "published_date": null,
+              "source_hash": "422ca66ed5b7630f7f039caa84b42599"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "successor company. When \"Solvay\" is named, it reflects the former company name but is now owned by Syensqo. \u2022 In November 2022, a Solvay company town in Tuscany, Italy, was divided over conducting a health study to inquire into the health impacts caused by decades of dumping mercury-tainted waste by Solvay onto a local beach. Responding to a",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276061+00:00",
+              "published_date": null,
+              "source_hash": "ccd38a93b1b986e96fd05ba7c6d14885"
+            },
+            {
+              "url": "",
+              "title": "Italy Beaches: Tuscany Coast Transformed by Solvay Chemical Plant Dumping",
+              "snippet": "In March 2021, MSCI lowered its rating one notch, to AA, citing media attention about the Tuscan plant and other environmental controversies that Solvay faces elsewhere.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276065+00:00",
+              "published_date": null,
+              "source_hash": "4d1a49a881ea48812042d6899db7c036"
+            },
+            {
+              "url": "",
+              "title": "Solvay to cut waste discharged off Italy, ending tussle with activist",
+              "snippet": "Solvay, which had previously pushed back on concerns the waste may be harmful, now plans to invest around 15 million euros ($14.96 million) to reduce the release of limestone residue into the sea ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276069+00:00",
+              "published_date": null,
+              "source_hash": "396f18c06f3857b3412be9c9543564c2"
+            },
+            {
+              "url": "",
+              "title": "Solvay ends dispute with activist Bluebell over Italy sea waste",
+              "snippet": "Solvay said it would invest around 15 million euros ($14.96 million) to significantly reduce the release of limestone residue into the sea at its Chimica Italia's soda ash production facility in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276072+00:00",
+              "published_date": null,
+              "source_hash": "d5e803fa3569d97b7d66130716ec3a1b"
+            },
+            {
+              "url": "",
+              "title": "EXCLUSIVE Activist Bluebell urges Solvay's board to oust CEO over sea ...",
+              "snippet": "In its letter to Solvay's board seen by Reuters, Bluebell said Kadri was in \"total denial\" over the environmental and social impact of the discharge at the centre of the dispute.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276075+00:00",
+              "published_date": null,
+              "source_hash": "f66b428d93b3c1e1bc4770e0bf3e570d"
+            },
+            {
+              "url": "",
+              "title": "Solvay to Cut Beach Waste as It Settles With Activist Bluebell",
+              "snippet": "Solvay SA will cut its release of waste into the sea off Italy and improve production processes in a settlement with activist hedge fund Bluebell Capital Partners, which had put pressure on the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276078+00:00",
+              "published_date": null,
+              "source_hash": "906cb17e88c4edb22b32b41994328b06"
+            },
+            {
+              "url": "",
+              "title": "As a poisoned town sought justice, top chemical giant executive ... - ICIJ",
+              "snippet": "In 2001, a new owner, the Belgian chemical giant Solvay SA, promised that it would clean the site and prevent leaks. Company managers working under the architect of the acquisition, a senior Solvay executive named Bernard de Laguiche, were supposed to oversee the operation and report on its progress to Italian authorities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:31.276081+00:00",
+              "published_date": null,
+              "source_hash": "ce38ab77d7a67d38485a2c82afb2579f"
+            },
+            {
+              "url": "",
+              "title": "Solvay SA (SOL.F)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:34.553380+00:00",
+              "published_date": "2024-12-20T16:46:00+00:00",
+              "source_hash": "f297fe1b5371fed20ff305c15c882290"
+            },
+            {
+              "url": "",
+              "title": "Solvay SA (SOLB.BR)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:34.553519+00:00",
+              "published_date": "2024-12-27T17:35:00+00:00",
+              "source_hash": "2a6764defd5bb6ffd55bdcec7ada6814"
+            },
+            {
+              "url": "",
+              "title": "Solvay SA (SOLB.VI)",
+              "snippet": "the environment or the company's operations. Controversies are rated on a scale from one to five, with five denoting the most serious controversies with the largest potential impact.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Solvay SA Solvay SA environmental impact controversies",
+              "retrieved_at": "2025-01-06T17:13:34.553553+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "0421e02c051f34c1854ccb84df2c9b43"
+            },
+            {
+              "url": "",
+              "title": "European Court Of Justice Overturns Decisions In Soda Ash Case And ...",
+              "snippet": "On 25 October 2011, the European Court of Justice (\"ECJ\") delivered its ruling in the Soda Ash case (C-110/10P), upholding the appeal brought by Solvay SA against the European Commission's decisions and the judgments of the General Court (\"GC\") regarding alleged anti-competitive practices and abuse of a dominant position in the soda ash market. . Solvay has successfully appealed against both ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090614+00:00",
+              "published_date": null,
+              "source_hash": "d22ecef2ce77ec9910f135f0be650c9c"
+            },
+            {
+              "url": "",
+              "title": "JUDGMENT OF THE GENERAL COURT (Sixth Chamber, Extended Composition)",
+              "snippet": "Background to the dispute. 1. The applicant, Solvay SA, is a company incorporated under Belgian law which at the . material time manufactured, inter alia, hydrogen peroxide ('HP') and sodium per- ... of claim, in so far as that head of claim sought the annulment or reduction of the fine imposed on Solvay Solexis. That withdrawal was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090737+00:00",
+              "published_date": null,
+              "source_hash": "696ad8a19977109b7297fb2857a12bd7"
+            },
+            {
+              "url": "",
+              "title": "EUR-Lex - 62001TJ0058 - EN - EUR-Lex",
+              "snippet": "Judgment of the General Court (Sixth Chamber) of 17 December 2009. # Solvay SA v European Commission. # Competition - Restrictive practices - Market in soda ash in the Community - Decision finding an infringement of Article 81 EC - Agreement guaranteeing to an undertaking a minimum tonnage of sales in a Member State and the purchase of sufficient quantities to achieve that minimum tonnage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090769+00:00",
+              "published_date": null,
+              "source_hash": "f72dcde1703c43e526534102dd2a1bcf"
+            },
+            {
+              "url": "",
+              "title": "SOLVAY v COMMISSION - EUR-Lex",
+              "snippet": "graph 17 above, Solvay II, paragraph 16 above, and Solvay III, paragraph 17 above. 20 On Tuesday 12 December 2000, a press agency issued a press release worded as follows: 'The European Commission will fine the chemical industry companies Solvay SA and Imperial Chemical Industries plc \u2026 on Wednesday for infringement of European",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090785+00:00",
+              "published_date": null,
+              "source_hash": "d7bf48277a66d5abc15f9c093f393f50"
+            },
+            {
+              "url": "",
+              "title": " Controversies: Solvay - ChemSec",
+              "snippet": "Italy, accused Solvay of lapses in erecting anti-pollution barriers leading to contamination outside the facility. Solvay claims that the International Chamber of Commerce arbitration tribunal determined that Edison is liable for breach of environmental representations and warranties when it was sold to Solvay in 2001, recognising that",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090801+00:00",
+              "published_date": null,
+              "source_hash": "ca49ae659264ffbf0bbdf4f781655697"
+            },
+            {
+              "url": "",
+              "title": " ADMINISTRATIVE PANEL DECISION Solvay S.A. v. sebastien lefort, Solvay ...",
+              "snippet": "Solvay S.A. v. sebastien lefort, Solvay Case No. D2024-3932 . 1. The Parties. The Complainant is Solvay S.A., Belgium, represented by Novagraaf Belgium NV/SA, Belgium. The Respondent is sebastien lefort, Solvay, France. 2. The Domain Name and Registrar . The disputed domain name  is registered with Squarespace Domains II LLC (the",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090814+00:00",
+              "published_date": null,
+              "source_hash": "a44b7ecb3f9ca24db661b5bbd3982079"
+            },
+            {
+              "url": "",
+              "title": "CURIA - List of results",
+              "snippet": "Solvay SA v European Commission. Appeal - Competition - Market in soda ash in the Community - Abuse of dominant position - Infringement of the rights of the defence - Access to the file - Hearing of the undertaking. Case C-109/10 P. Reports of Cases. 2011 I-10329 (Appeal Case before the General Court T-57/01)",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090824+00:00",
+              "published_date": null,
+              "source_hash": "71baf027eb0fd47e69f36b3824b960d2"
+            },
+            {
+              "url": "",
+              "title": "CURIA - Documents - European Court of Justice",
+              "snippet": "OPINION OF ADVOCATE GENERAL. KOKOTT. delivered on 14 April 2011 ()Case C\u2011109/10 P. Solvay SA. v. European Commission (Appeals - Competition - Abuse of a dominant position (Article 82 EC) - Fidelity rebate - Discrimination against business partners - Rights of the defence - Access to the file - Loss of documents in the administrative procedure - Right to a hearing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090834+00:00",
+              "published_date": null,
+              "source_hash": "e9a6b00150c48b9d462b464dd80d3ce0"
+            },
+            {
+              "url": "",
+              "title": "Solvay v European Commission - St John's Chambers",
+              "snippet": "Before the General Court, Matthew successfully obtained a reduction of \u20ac 28 million in the fine: the Commission had wrongly determined the duration of Solvay's participation in the cartel and had not taken sufficient account of Solvay's cooperation when applying its Leniency Notice.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090846+00:00",
+              "published_date": null,
+              "source_hash": "fdaef3b22a3f5057adab1222a18f52c3"
+            },
+            {
+              "url": "",
+              "title": "Solvay S.A - Federal Trade Commission",
+              "snippet": "Solvay settled antitrust concerns stemming from its proposed acquisition of Ausimont S.p.A. from Italenergia S.p.A., and agreed to divest its U.S. polyvinylidene fluoride (PVDF) operations and its interest in Alventia LLC, a joint venture which manufactures the main raw material for PVDF. According to the complaint, the proposed acquisition would lessen competition in two markets: the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Solvay SA Solvay SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T17:13:36.090857+00:00",
+              "published_date": null,
+              "source_hash": "c299e54af4a90b014f2f9a3ad89ddb8f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "labor practices wherever in the world the Group operates. Solvay makes this commitment voluntarily, over and above its compliance with the statutory and legal obligations in every country where the Group operates. The global standards listed below will be complied with by all Solvay entities worldwide.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130080+00:00",
+              "published_date": null,
+              "source_hash": "66a6e1be1200b00e1046b5f6d1346829"
+            },
+            {
+              "url": "",
+              "title": "Standing Strong at Solvay: Mar. 20, 2017 | United Steelworkers",
+              "snippet": "Solvay Global Forum . Hill says that Jean-Christophe Sciberras, Solvay head of the Industrial Relations group in Brussels, invited him to attend the Solvay Industrial Relations meeting in California last October, along with human resources site managers and industrial managers from 14 nations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130103+00:00",
+              "published_date": null,
+              "source_hash": "f3b0886a560d94c56fe00993e2236334"
+            },
+            {
+              "url": "",
+              "title": "Solvay Global Forum & European Works Council",
+              "snippet": "The Solvay Global Forum and European Works Council serve as the collective voice for 22,000 Solvay employees. Find out how we ensure dialogue, promote transparency, and protect workers' rights across the globe. ... We ensure the Group adheres to global labor standards and workers' rights and follows through on its social responsibility ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130108+00:00",
+              "published_date": null,
+              "source_hash": "92d07da5e7cf2c0a75503b8b8b44a271"
+            },
+            {
+              "url": "",
+              "title": "Achievements: Empowering Employees Globally - solvay-representation.org",
+              "snippet": "The Solvay Shares agreement enables all employees of Solvay to become a full shareholder with real shares, voting rights, compliant information and dividends. By making Solvay shares available to all employees worldwide, regardless of their position or grading, Solvay wants to involve employees in the success of the Group and bridge the gap ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130112+00:00",
+              "published_date": null,
+              "source_hash": "84648c2ea8424e4fcb7ea37298a65919"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "2 Solvay Code of Conduct Solvay Code of Conduct 3 1. Solvay seeks to ensure sustained growth and profitability as a world leader in sus-tainable chemistry. While doing so, it is essential that we are committed to high standards of legal compliance and busi-ness ethics. The Solvay Code of Conduct is based on a strong tradition of values that are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130118+00:00",
+              "published_date": null,
+              "source_hash": "7fe4a972e9c2d406c5aa62518e973369"
+            },
+            {
+              "url": "",
+              "title": "Solvay Council Members Optimistic About Future Labor Relations",
+              "snippet": "The USW represents 10 Solvay sites in the U.S., nearly all of which were represented at the meeting. New U.S. labor relations manager. Solvay's new industrial relations officer/labor relations head for North America, Steve Cozzetto, introduced himself at the meeting and expressed his willingness to work with the council and the locals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130122+00:00",
+              "published_date": null,
+              "source_hash": "a095242877a34d4feca0571930869592"
+            },
+            {
+              "url": "",
+              "title": "Solvay GFA: This is what global level labour relations look like",
+              "snippet": "30 July, 2015 The Belgian-based chemicals company Solvay is the market leader in terms of labour relations. This week the Solvay Global Framework Agreement was at work in Geneva with a range of meetings including with the ILO. Together with IndustriALL and Solvay, the Bureau for Workers' Activities, ACTRAV, presented the industrial relations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130126+00:00",
+              "published_date": null,
+              "source_hash": "6812ef6b5de67153b9ecc1f7aed586dd"
+            },
+            {
+              "url": "",
+              "title": "Code of Business Integrity | Solvay",
+              "snippet": "It applies to every Solvay employee, regardless of location or role, and to all third parties acting on Solvay's behalf. ... Investor Relations Homepage Separation project ... We encourage our suppliers to implement its requirements and to actively promote best practices and continuous improvement. Access the Code on the drop down menu.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130129+00:00",
+              "published_date": null,
+              "source_hash": "a952d5d120501b099e740b1dd8aaf59a"
+            },
+            {
+              "url": "",
+              "title": "Diversity, Equity and Inclusion: One Dignity Program | Solvay",
+              "snippet": "Among the DEI achievements we take pride in is the fact that over 25% of those in leadership positions at Solvay are women - and that Solvay employees stay with the company for an average of 14 years. But our work in this area is far from complete and we continue to aim for ever-greater DEI results.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130134+00:00",
+              "published_date": null,
+              "source_hash": "2c672a9579984f67fdd1f318b8597958"
+            },
+            {
+              "url": "",
+              "title": "Solvay Locals Settle Contracts, Begin Resolving Health and Safety ...",
+              "snippet": "After Solvay's chief labor relations negotiator left the company in January, the new local was able to negotiate a three-year contract that contained a non-pensionable $1,600 ratification bonus and wage increases of 3 percent the first year and 2.6 percent the second and third years.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Solvay SA Solvay SA labor practices and community relations",
+              "retrieved_at": "2025-01-06T17:13:40.130137+00:00",
+              "published_date": null,
+              "source_hash": "0f870e0169552cae35da94507c38de0f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Solvay SA environmental impact controversies",
+              "rationale": "Investigate public and regulatory concerns regarding emissions, waste management, and hazardous material usage",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Solvay SA regulatory fines and legal disputes",
+              "rationale": "Identify any recent fines, lawsuits, or regulatory actions related to non-compliance with environmental or safety standards",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Solvay SA labor practices and community relations",
+              "rationale": "Assess controversies or criticisms related to employee treatment, community impact, or social responsibility initiatives",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:14:01.951614",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

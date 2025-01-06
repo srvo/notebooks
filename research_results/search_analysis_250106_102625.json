@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:26:25.650103",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "TELEPERFORMANCE",
+      "symbol": "TLPFY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Labor practices and ethical concerns, including unsafe working conditions and restrictions on freedom of association",
+            "Data privacy and security risks, particularly in handling sensitive customer data and reliance on third-party processors",
+            "Regulatory and compliance challenges due to global operations in 88 countries with varying laws and regulations"
+          ],
+          "controversies": [
+            "OECD complaint filed by unions alleging violations of workers' rights",
+            "Class action lawsuit over poor working conditions and inadequate training",
+            "$10 million settlement for deceptive advertising claims"
+          ],
+          "environmental_issues": [
+            "No significant environmental issues reported, but the company has a CSR program ('Citizens of the Planet') aimed at reducing carbon emissions"
+          ],
+          "social_issues": [
+            "Poor working conditions, including employees sleeping on floors or makeshift beds in company-provided quarters",
+            "Restrictions on freedom of association and unsafe working conditions during the pandemic"
+          ],
+          "governance_issues": [
+            "Regulatory compliance challenges due to global operations and varying labor laws",
+            "Deceptive advertising settlement requiring enhanced training and compliance monitoring"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "OECD Complaint: Teleperformance has violated workers' right to a safe ...",
+              "snippet": "Unions lodged a complaint with the OECD against Teleperformance, relating to alleged violations of the right of workers to a safe workspace and to freedom of association during the pandemic. Philippines: Employees of Teleperformance sleep on the floor or make-shift beds in company-provided quarters Date: 13 Apr 2020 Content Type: Article",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275854+00:00",
+              "published_date": null,
+              "source_hash": "693c18bb4b8460dc207abc7b7bc8cafe"
+            },
+            {
+              "url": "",
+              "title": "Who's to blame for Teleperformance's woes? Les Anglo-Saxons, bien s\u00fbr",
+              "snippet": "The Teleperformance presentation cited as evidence of a happy workforce an employee internal survey and two consecutive mentions in the \"Great Place to Work\" list. The deck also includes ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275926+00:00",
+              "published_date": null,
+              "source_hash": "791a30c17b7cdcd017f099b6507891b6"
+            },
+            {
+              "url": "",
+              "title": "Class action suit launched over Teleperformance working conditions - TBIJ",
+              "snippet": "A Teleperformance spokesperson said an internal audit \"found no evidence of the use of or access to CSAM images in training\". After TBIJ's investigation was published, Edwin Palma Egea, the Colombian labour vice-minister, opened a government inquiry into Teleperformance. In the aftermath of that announcement, the company's share price ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275942+00:00",
+              "published_date": null,
+              "source_hash": "2472f8805b40ceff8176faa0ede5f537"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit Claims Teleperformance USA Failed to Pay Employees for 'Pre ...",
+              "snippet": "TPUSA, Inc. (which does business as Teleperformance USA) has been accused in a proposed class and collective action of denying employees their due wages for all hours worked. The three named plaintiffs say they were employed as customer service representatives and were required to arrive at work and training meetings 15 minutes earlier than ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275952+00:00",
+              "published_date": null,
+              "source_hash": "55a9a9d374cc77d7ac6afe3bf2658195"
+            },
+            {
+              "url": "",
+              "title": "Union makes Teleperformance head of operation lose his shit ... - Reddit",
+              "snippet": "The head of operations spoke for a good 30 minutes, but because evidence presented proved all his denials to be lies, the response was an immediate decision being issued against Teleperformance. Now they are forced to stop intimidation practices with immediate effect and embrace unionization efforts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275962+00:00",
+              "published_date": null,
+              "source_hash": "9105ad2a8c9aeb2a264dc73b36e28144"
+            },
+            {
+              "url": "",
+              "title": "City of Warren Gen. Employees' Ret. Sys. v. Teleperformance SE - Casetext",
+              "snippet": "Next, Plaintiffs allege the Time article announcing the Colombian government's investigation into Teleperformance's labor practices revealed the truth about the company. (See SAC \u00b6 111). The Court previously agreed with Defendants that \"the mere announcement of an investigation is insufficient to constitute a corrective disclosure for the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275971+00:00",
+              "published_date": null,
+              "source_hash": "7f5acffba29b26348f86c8da47c01cd6"
+            },
+            {
+              "url": "",
+              "title": "Breakdown: Teleperformance's Global Union Agreement, a Year Later",
+              "snippet": "It's been over a year since Teleperformance signed a major agreement with union federation UNI Global Union. The document has yet to show its impact, but it promises to define the path of how global service providers handle worker's rights and interact with organized workforces.. Labor rights issues have gathered momentum in the public eye over the past couple years.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275981+00:00",
+              "published_date": null,
+              "source_hash": "0fb4fd3f5936e90e98913731011aded3"
+            },
+            {
+              "url": "",
+              "title": "City of Warren Gen. Employees' Sys. v. Teleperformance Se",
+              "snippet": "First, Teleperformance has a presence in both Idaho and Florida, so both states unquestionably have an interest in deciding the controversy. However, as discussed above, the alleged wrongdoing by Teleperformance involved statements about a company-wide employee training policy that affected each office performing content moderation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275990+00:00",
+              "published_date": null,
+              "source_hash": "8116224c88f5352baa83ef54cedc35a3"
+            },
+            {
+              "url": "",
+              "title": "Settlement with Teleperformance Regarding Alternative Retail Electric ...",
+              "snippet": "The settlement requires Teleperformance to pay $10 million and cease marketing activities on behalf of ARES in Illinois until 2026. Should Teleperformance resume marketing, it also agreed to monitoring by an independent monitor, additional reporting requirements, and employee training to prevent future violations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.275998+00:00",
+              "published_date": null,
+              "source_hash": "7c288a1a0b7238f71b56729225f99ed5"
+            },
+            {
+              "url": "",
+              "title": "Class action suit launched over Teleperformance working ... - Reddit",
+              "snippet": "A class action filing by Teleperformance shareholders alleges that the company misled investors about conditions for its content moderators, who experience \"widespread occupational trauma without psychological support\u2026 extensive surveillance, and aggressive union-busting tactics\". 1 The filing cites examples of allegedly misleading statements, including comments by Teleperformance CEO ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE labor practices controversies",
+              "retrieved_at": "2025-01-06T17:25:55.276007+00:00",
+              "published_date": null,
+              "source_hash": "7806ed00a71ada05e43899f18e6bf0f5"
+            },
+            {
+              "url": "",
+              "title": "TP Group Data Privacy Policy (External Policy) - Teleperformance",
+              "snippet": "In particular, such Third-Party Data Processors shall commit by way of a contract or other legal act under laws and regulations applicable in EEA/UK countries to Process your Personal Data in accordance with the Client's instructions and Teleperformance's privacy and data protection obligations set forth in the contract signed between ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408475+00:00",
+              "published_date": null,
+              "source_hash": "65a5533ef95c2f224817a417804e0f26"
+            },
+            {
+              "url": "",
+              "title": "Codes and Policies | TP Global - Teleperformance",
+              "snippet": "To protect our clients' security, Teleperformance constantly adapts to new technologies, monitors risks and threats, and complies with international regulations on data privacy. Teleperformance is committed to ensuring information security, compliance, and protecting the privacy and personal data of every individual, including its employees ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408584+00:00",
+              "published_date": null,
+              "source_hash": "fac1b198eeff293c4c5765168a61f91a"
+            },
+            {
+              "url": "",
+              "title": "Website Privacy Notice | Privacy and Personal Data | TP - Teleperformance",
+              "snippet": "I consent to receive relevant industry news, analyst reports, white papers, case studies, and product information from Teleperformance (TP). TP will never share or sell your information to third parties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408600+00:00",
+              "published_date": null,
+              "source_hash": "0c72ecef29f5d26488f2b34b1dd7ea9b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Processes Personal Data. In line with privacy and data protection laws and regulations applicable in EEA countries and the UK, the Policy also constitutes a legal mechanism (i.e., \"inding orporate Rules\") enabling international data transfers within the Group, whenever Teleperformance acts either as a Data",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408611+00:00",
+              "published_date": null,
+              "source_hash": "850cf2a7a5c51ccbbef414fc29939e7b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "\u2022 Inappropriate access to or misuse of company data or systems, including confidential information, intellectual property, credential sharing, and/or other violations of the Teleperformance Global Information Security Policy or standards \u2022 Billing for services not performed or other fraudulent financial reporting",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408622+00:00",
+              "published_date": null,
+              "source_hash": "c457a274ece0928b5fb842405431ea2b"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Group Data Privacy Policy",
+              "snippet": "\"Data Processor\" means the natural or legal person, public authority, agency or other body which Processes your Personal Data on behalf of the Data Controller. \"DPA\" means a privacy or data protection authority. \"DPO\" means the designated Data Protection Officer, when required by applicable laws and regulations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408637+00:00",
+              "published_date": null,
+              "source_hash": "5d9d63110d26bddf9c6a9388a8bf9cea"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Data Subject Rights",
+              "snippet": "Teleperformance is committed to respect and protect the privacy and Personal Data of every individual, including its employees, suppliers, customers, business partners, Clients and their respective end customers. SUBMIT A SUBJECT RIGHTS REQUEST The subject rights that may apply to you vary based upon the applicable law in the country we operate ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408647+00:00",
+              "published_date": null,
+              "source_hash": "8caed03d52762c87fb8d0c1658c10e7d"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance employees forced to accept home surveillance - ProPrivacy",
+              "snippet": "It's a violation of my privacy rights and the rights of my husband and mother-in-law who live with me. Teleperformance employees in Albania, on the other hand, actually complained to their government when the plans were proposed for staff in the country towards the tail end of 2020. The government ruled that webcams weren't allowed to be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408657+00:00",
+              "published_date": null,
+              "source_hash": "73a27017cc59f22f64a924b5822678c1"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Data Breach Investigation - Strauss Borrelli PLLC",
+              "snippet": "On November 4, 2022, Teleperformance discovered that it had experienced a data breach in which the sensitive personal identifiable information in its systems may have been accessed and obtained.Through its investigation, Teleperformance determined that an unauthorized actor accessed and obtained this sensitive information.On December 7, 2022, Teleperformance began contacting individuals whose ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408667+00:00",
+              "published_date": null,
+              "source_hash": "c6f4974ed098240f5fa9541f76eca1d2"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Data Breach Investigation - Turke & Strauss LLP",
+              "snippet": "We would like to speak with you about your rights and potential legal remedies in response to this data breach. Please fill out the form, below, or contact us at (608) 237-1775 or sam@turkestrauss.com.. If you were impacted by the Teleperformance data breach, you may consider taking the following steps to protect your personal information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE data privacy violations",
+              "retrieved_at": "2025-01-06T17:26:01.408677+00:00",
+              "published_date": null,
+              "source_hash": "be47c16d81bdca1732cbfb966157ade0"
+            },
+            {
+              "url": "",
+              "title": "Code of Conduct and Anti-Corruption Policy | TP - Teleperformance",
+              "snippet": "2. Overview of TP Global Compliance Program. Presentation of the Organization. TP's Global Compliance Organization is a dedicated structure that stretches from senior management of the Group and the Audit and Compliance Committee of the TP SE Board of Directors to every level of the Group.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324505+00:00",
+              "published_date": null,
+              "source_hash": "45830ab1a1db3695f02c11e73a24aaf5"
+            },
+            {
+              "url": "",
+              "title": " Global Ethics Hotline Policy - TP Infinity",
+              "snippet": "\u2022 The Chief Compliance Officer and/or the Deputy Chief Compliance Officer may periodically provide a summary report to the Audit and Compliance Committee of the Teleperformance Board of Directors (the \"Audit and Compliance Committee\") on how the Global Ethics Hotline Policy and related procedures are functioning.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324631+00:00",
+              "published_date": null,
+              "source_hash": "427eba56a23667e473d45d5fe3264299"
+            },
+            {
+              "url": "",
+              "title": "Company Enters $10M Settlement to Resolve Deceptive Advertising Claims",
+              "snippet": "Should Teleperformance resume marketing practices, it must implement comprehensive training and compliance monitoring procedures, including an independent third-party monitor. Finally, Teleperformance has agreed to pay $10 million to resolve the matter.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324660+00:00",
+              "published_date": null,
+              "source_hash": "3b2911dd8706cd1d9b38ea44ca1df9d5"
+            },
+            {
+              "url": "",
+              "title": "Codes and Policies | TP Global - Teleperformance",
+              "snippet": "Read more about Teleperformance's codes, policies and references, and get the latest updates and important information about Telepeformance regulations. ... The Global Ethics Hotline Policy is intended to identify where reporters can report issues where they reasonably believe wrongful business conduct has occurred, is occurring, or is about to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324677+00:00",
+              "published_date": null,
+              "source_hash": "9d2f14c2e603d9c8c47a53fa33ebe21d"
+            },
+            {
+              "url": "",
+              "title": " Teleperformance Supplier Code of Conduct - tpinfinity.com",
+              "snippet": "business ethics and integrity, and legal and regulatory compliance. By signing it, Teleperformance's Supplier agrees to live up to Teleperformance's expectations in the field of ethical and responsible business conduct. 1.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324692+00:00",
+              "published_date": null,
+              "source_hash": "7ade1a11ac1b9e49b0fd9246a3b31635"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Helps Organizations Mitigate Security Breaches",
+              "snippet": "Teleperformance continues to set the industry standard for global regulatory compliance, security, and privacy by way of its proprietary protocols and processes. The company has built an extremely strong internal framework to proactively identify and mitigate data breaches and combat fraud.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324705+00:00",
+              "published_date": null,
+              "source_hash": "e51834ec2af9594912f1df56c2f75765"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Content Moderation | Teleperformance",
+              "snippet": "We continuously protect customer data, ensure regulatory compliance, and safeguard brand reputation. Our highly-skilled Teleperformance content moderation teams use technical know-how, problem-solving skills, user insights, and Machine Learning algorithms to keep your environment safe for genuine users.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324719+00:00",
+              "published_date": null,
+              "source_hash": "e5e714a39f0c1223230e3717ff252a76"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Applauded by Frost & Sullivan for Helping Organizations ...",
+              "snippet": "Teleperformance continues to set the industry standard for global regulatory compliance, security, and privacy by way of its proprietary protocols and processes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324731+00:00",
+              "published_date": null,
+              "source_hash": "1bf38dfa97fd0bed56e8dbc49c0d9793"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance Exits the Highly Egregious Part of the Trust and Safety ...",
+              "snippet": "Teleperformance (TEP - ISIN: FR0000051807 - Reuters: TEPRF.PA - Bloomberg: TEP FP), the global leader in outsourced customer and citizen experience management and related digital services ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324744+00:00",
+              "published_date": null,
+              "source_hash": "38f5fc0dff15872c4fb5824b5058a21f"
+            },
+            {
+              "url": "",
+              "title": "Teleperformance wins Global Competitive Strategy Leadership Award",
+              "snippet": "Teleperformance continues to set the industry standard for global regulatory compliance, security, and privacy by way of its proprietary protocols and processes. The company has built an extremely strong internal framework to proactively identify and mitigate data breaches and combat fraud.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "TELEPERFORMANCE TELEPERFORMANCE regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T17:26:05.324756+00:00",
+              "published_date": null,
+              "source_hash": "c58b454d68a4dcde3472ef230ce4b81d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "TELEPERFORMANCE labor practices controversies",
+              "rationale": "Investigate concerns over working conditions, employee burnout, and high turnover rates",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "TELEPERFORMANCE data privacy violations",
+              "rationale": "Examine issues related to handling sensitive customer data, especially in regulated industries",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "TELEPERFORMANCE regulatory compliance challenges",
+              "rationale": "Assess difficulties in adhering to varying labor laws and data protection regulations across jurisdictions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:26:25.650109",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

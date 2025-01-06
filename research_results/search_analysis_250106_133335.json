@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:33:35.593557",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Godaddy Inc",
+      "symbol": "GDDY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal and regulatory risks, including class action lawsuits and antitrust litigation",
+            "Intense market competition from rivals like Squarespace, Wix, and Bluehost",
+            "Slowing growth and potential overvaluation concerns",
+            "Dependence on third-party partnerships for critical operations"
+          ],
+          "controversies": [
+            "$35 million settlement over unwanted text messages, now under reconsideration",
+            "Antitrust lawsuit alleging anti-competitive practices in domain services",
+            "Customer backlash over support for the Stop Online Piracy Act (SOPA)",
+            "Criticism over unclear pricing practices and aggressive upselling"
+          ],
+          "environmental_issues": [
+            "Commitment to using 100% renewable energy for data centers by 2025"
+          ],
+          "social_issues": [
+            "Customer dissatisfaction due to poor support quality and pricing transparency",
+            "Concerns about data privacy and handling of customer information"
+          ],
+          "governance_issues": [
+            "Regulatory compliance challenges across multiple jurisdictions",
+            "Potential financial liabilities from ongoing legal disputes"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "GoDaddy Settlement Denied in 11th Circuit Due To Class Definition",
+              "snippet": "In a unanimous decision late last month, a three-judge panel of the Eleventh Circuit vacated approval of a $35 million settlement between GoDaddy and a nationwide class of consumers who received ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041390+00:00",
+              "published_date": null,
+              "source_hash": "22378bc4c10cdf8b3af970a8f00a6560"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy's Thwarted $35 Million Unwanted Texts Deal Gets New Look",
+              "snippet": "The full Eleventh Circuit will reevaluate an appellate panel's decision to void a $35 million settlement between GoDaddy Inc. and consumers who said they received unwanted texts from the web hosting company.. The US Court of Appeals for the Eleventh Circuit granted a motion to reconsider by plaintiffs who say GoDaddy's $35 million settlement to resolve nationwide Telephone Consumer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173074+00:00",
+              "published_date": null,
+              "source_hash": "e0e1a4fdf3bb58f68705c242c854513b"
+            },
+            {
+              "url": "",
+              "title": "Does anyone know of any recent class action lawsuits against GoDaddy ...",
+              "snippet": "File a Lawsuit: If your attorney believes you have a viable case, they will file a lawsuit against GoDaddy on behalf of the proposed class members. Discovery Phase: During the legal process, both parties will engage in discovery to gather additional evidence and information related to the case.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041471+00:00",
+              "published_date": null,
+              "source_hash": "0eeb36ce91d4e28553595ca77870f267"
+            },
+            {
+              "url": "",
+              "title": "In the Court of Chancery of The State of Delaware",
+              "snippet": "GODADDY, INC., Nominal Defendant. ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) ) C.A. No. 2022-0497-JTL OPINION DENYING MOTION TO DISMISS Date Submitted: May 24, 2023 ... more than the IPO price. That sale would result in a proportionate step up in the tax basis of GoDaddy's assets, and GoDaddy could claim depreciation on the increased value to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041485+00:00",
+              "published_date": null,
+              "source_hash": "ebb3e8cd1173118a570c4f7e2536cf06"
+            },
+            {
+              "url": "",
+              "title": "Class action law suit against GoDaddy. Please join! : r/godaddy - Reddit",
+              "snippet": "Hello Reddit Community, I'm reaching out to this powerful platform to uncover and gather stories from individuals or businesses that have experienced predatory billing practices at the hands of GoDaddy.We are in the process of building a class-action lawsuit to address these unfair practices and seek compensation for those affected.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041498+00:00",
+              "published_date": null,
+              "source_hash": "11bd6a55a4beb7362090c1b0b3066fa9"
+            },
+            {
+              "url": "",
+              "title": "Please Remain Standing: 11th Circuit Rejects $35 Million GoDaddy ...",
+              "snippet": "In a unanimous decision late last month, a three-judge panel of the Eleventh Circuit vacated approval of a $35 million settlement between GoDaddy and a nationwide class of consumers who received automated GoDaddy marketing calls between 2014 through 2016.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041511+00:00",
+              "published_date": null,
+              "source_hash": "ddfde5432510febba4f4760e6e0235ed"
+            },
+            {
+              "url": "",
+              "title": "Eleventh Circuit Clarifies Ruling on $35 Million Godaddy Deal",
+              "snippet": "The US Court of Appeals for the Eleventh Circuit reissued an opinion Tuesday tossing out Godaddy.com LLC 's $35 million junk-text deal, but added a clarification that only 20 pages of the 112-page opinion will count as the \"opinion of the court.\". A three-judge panel held May 13 in that section of the lead opinion\u2014Section III.C.iii\u2014 that the Class Action Fairness Act applied to the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041522+00:00",
+              "published_date": null,
+              "source_hash": "7c07aab61488affeab1ad409e6029c06"
+            },
+            {
+              "url": "",
+              "title": "Drazen v. GoDaddy.com, LLC TCPA Settlement - Frequently Asked Questions",
+              "snippet": "You are a member of the Settlement Class if, between November 4, 2014 and December 31, 2016, GoDaddy placed a voice or text message call to your cellular telephone pursuant to an outbound campaign facilitated by the web-based software application used by 3Seventy, Inc., or the software programs and platforms that comprise the Cisco Unified ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041538+00:00",
+              "published_date": null,
+              "source_hash": "4dc1a343c7dcaeb7301a8811c08e09e3"
+            },
+            {
+              "url": "",
+              "title": "Eleventh Circuit Court Of Appeals Shreds TCPA Settlement Against GoDaddy",
+              "snippet": "GoDaddy LLC, involved three consolidated cases alleging that GoDaddy violated the TCPA by placing calls and texts using an Automatic Telephone Dialing System (ATDS). ... In doing so, they sent a message to attorneys who file TCPA lawsuits against businesses. A former chairman of the FCC once said, \"the TCPA has strayed far from its original ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041551+00:00",
+              "published_date": null,
+              "source_hash": "31bff95ebc2894c21a5b4a8a3ec920ea"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Plaintiff Susan Drazen brought this class-action lawsuit in 2019 against Defendant GoDaddy.com, LLC, alleging that GoDaddy violated the TCPA by using an automatic telephone dialing system to send promotional calls and text messages to her cell phone number. After years of litigation, the parties submitted a proposed class settlement, and",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc pricing transparency lawsuits",
+              "retrieved_at": "2025-01-06T20:33:05.041563+00:00",
+              "published_date": null,
+              "source_hash": "094ef3634ca7cf7e9f7be745cf86ddd4"
+            },
+            {
+              "url": "",
+              "title": "Controversies surrounding GoDaddy - Wikipedia",
+              "snippet": "In 2002, GoDaddy sued VeriSign for domain slamming [1] and again in 2003 over its Site Finder service. [2] This latter suit caused controversy over VeriSign's role as the sole maintainer of the .com and .net top-level domains.VeriSign shut down Site Finder after receiving a letter from ICANN ordering it to comply with a request to disable the service. [3] ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.172945+00:00",
+              "published_date": null,
+              "source_hash": "5ecf4febd512a6a229efc9ca5cb77274"
+            },
+            {
+              "url": "",
+              "title": "Lessons from the GoDaddy Customer Revolt - Harvard Business Review",
+              "snippet": "GoDaddy (a web hosting company) announced its support of the controversial Stop Online Piracy Act (SOPA) in late October 2011. The news of GoDaddy's pro-SOPA stance appeared on Reddit on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173030+00:00",
+              "published_date": null,
+              "source_hash": "a05d6a92fd93865421067840feded63f"
+            },
+            {
+              "url": "",
+              "title": "DNS company files antitrust lawsuit against GoDaddy",
+              "snippet": "A company that helps domain owners update DNS records has filed an antitrust lawsuit against GoDaddy (NYSE: GDDY). Entri acts as a conduit between SaaS companies and domain registrars. If a customer needs to update their domain's DNS records to work with an email provider, site builder, or other SaaS business, they can use a wizard directly on the SaaS company's website to make these changes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173048+00:00",
+              "published_date": null,
+              "source_hash": "ccb04b3814c82c520aa66a03abd5011c"
+            },
+            {
+              "url": "",
+              "title": "Controversies surrounding GoDaddy - Wikiwand",
+              "snippet": "In 2002, GoDaddy sued VeriSign for domain slamming [1] and again in 2003 over its Site Finder service. [2] This latter suit caused controversy over VeriSign's role as the sole maintainer of the .com and the .net top-level domains.VeriSign shut down Site Finder after receiving a letter from ICANN ordering it to comply with a request to disable the service. [3]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173063+00:00",
+              "published_date": null,
+              "source_hash": "d1cc6a43a0e60b671ea9de8336a33f17"
+            },
+            {
+              "url": "",
+              "title": "How the World's Most Controversial Internet Company Grew Up - Inc.com",
+              "snippet": "It's been nearly two decades since GoDaddy launched its affordable web-hosting services--along with its controversial, often sexist TV commercials.While founder Bob Parsons remains nostalgic for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173086+00:00",
+              "published_date": null,
+              "source_hash": "9e137cc49bdeccb1e96f681750ade794"
+            },
+            {
+              "url": "",
+              "title": "INC v. GODADDY GROUP INC (2010) | FindLaw - FindLaw Caselaw",
+              "snippet": "The district court dismissed the case for lack of personal jurisdiction, holding that GoDaddy, which is headquartered in Arizona, lacked sufficient contacts with Illinois to be sued there. See uBID, Inc. v. GoDaddy Group, Inc., 673 F.Supp.2d 621 (N.D.Ill.2009).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173096+00:00",
+              "published_date": null,
+              "source_hash": "676eeda304efa462d34db7d65a0b2836"
+            },
+            {
+              "url": "",
+              "title": "Godaddy customer service has gone downhill : r/godaddy - Reddit",
+              "snippet": "Customer service was the reason I chose GoDaddy years ago. I'm currently on hold with them; estimated wait time is 24 minutes. Like other commenters, I used to be able to dial the number and speak to a person instantly. What a dismal transformation. Six domains and websites are about to be moved.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173108+00:00",
+              "published_date": null,
+              "source_hash": "60f4cf86aae9f7c87852f065cd0077ba"
+            },
+            {
+              "url": "",
+              "title": "Why is godaddy viewed so negatively? Who's better and why?",
+              "snippet": "There's this: List of Controversies involving Godaddy. That $25 .com price is a ripoff. Namecheap, for example, charges about $14 USD, and Cloudflare will charge you the at-cost fee which will be even lower. ... Historically, their customer service, user interface, and features list have been quite terrible. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173120+00:00",
+              "published_date": null,
+              "source_hash": "e4479ee42d8db7078de6e1125bd61d5f"
+            },
+            {
+              "url": "",
+              "title": "The WORST customer service ever : r/godaddy - Reddit",
+              "snippet": "Godaddy customer service is horrendous. My email account for my small business was hacked and they wouldn't provide me access to my account to get control of my website back. It took me three weeks before I got in touch with someone who actually helped, and she wasn't even in customer service. She was just a connection of a former colleague ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Godaddy Inc Godaddy Inc customer support controversies",
+              "retrieved_at": "2025-01-06T20:33:09.173132+00:00",
+              "published_date": null,
+              "source_hash": "ce02aea340ad4187ebfdb3f676192bf5"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy: A Poor Investment, Overvalued And Outclassed By Its Competitors",
+              "snippet": "Financial writer warns investors of GoDaddy Inc.'s unsustainable valuation, slowing growth, and competition in the web hosting market. Click for this GDDY update.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:18.606780+00:00",
+              "published_date": "2024-12-30T21:02:00+00:00",
+              "source_hash": "d997279d2c22c39d2aa34810ef3fe53e"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy Data Protection Security Standards - GoDaddy",
+              "snippet": "GoDaddy will regularly review and update its information security program in accordance with industry standard practices and frameworks appropriate to the type, volume, and sensitivity of Customer Personal Data processed by GoDaddy. 2.4 Risk Assessments and Testing. GoDaddy will regularly conduct risk assessments for all systems processing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180407+00:00",
+              "published_date": null,
+              "source_hash": "835215c02125a83b693aab8700773c1c"
+            },
+            {
+              "url": "",
+              "title": "What are privacy laws? | Account Management - GoDaddy Help US",
+              "snippet": "GoDaddy protects the security of our customers' personal data and provides features that enable our customers to exercise their privacy rights. If you have a business and use our products to collect, use, store or share personal data, privacy regulations may also apply to you.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180494+00:00",
+              "published_date": null,
+              "source_hash": "3cdfb80ff110fced24c3b403ba666a51"
+            },
+            {
+              "url": "",
+              "title": "Privacy Policy - GoDaddy Respects Your Privacy",
+              "snippet": "We use risk-based measures to protect personal data, including appropriate security controls and employee training. We also require that our service providers, business partners, and advertisers use appropriate risk-based controls to protect personal data. ... If you have questions about our basis for processing your personal data, please ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180524+00:00",
+              "published_date": null,
+              "source_hash": "dd7863492dcd93f369b04b566514d1d7"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy 2023 Sustainability Report: Cybersecurity - CSRWire",
+              "snippet": "We maintain enterprise-wide cybersecurity and data privacy programs designed to manage the risks to GoDaddy's information systems, customer data, and personal information of our customers and employees from cyber threats, and to comply with our regulatory obligations. Our approach to management of cybersecurity risk and data privacy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180549+00:00",
+              "published_date": null,
+              "source_hash": "dff7778276e92e33b5862157e2b49741"
+            },
+            {
+              "url": "",
+              "title": "Data Privacy Framework Notice - GoDaddy",
+              "snippet": "Read GoDaddy's Data Privacy Framework Notice, all references to PII and personal information in our Global Privacy Notice and its supplements are deemed to be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180572+00:00",
+              "published_date": null,
+              "source_hash": "fc34a0e229f510b44d8e501bc4bfbb50"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "At GoDaddy, respecting human rights is fundamental to our operations and integral to our commitment to ethical business practices. This Human Rights Policy (this \"Human Rights Policy\"), made on behalf of GoDaddy Inc. (\"GoDaddy,\" \"we,\" and \"our\"), outlines our dedication",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180593+00:00",
+              "published_date": null,
+              "source_hash": "f19960d27cfc40ff321067ce58379018"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy's 2022 Sustainability Report: Our Operations - Data",
+              "snippet": "At GoDaddy, we take a cross-functional, risk- based approach to both user privacy and web security. There are several key roles involved in this approach: The Audit and Finance Committee has primary oversight responsibilities of cybersecurity risks and data privacy and security matters. The Audit and Finance Committee provides quarterly updates ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180615+00:00",
+              "published_date": null,
+              "source_hash": "f9132214b2334d6fa35c0d777c5a51ea"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy 2021 Sustainability Report: Data Privacy and Security - 3BL Media",
+              "snippet": "Our Trust Center: We know our customers need a trusted partner to help navigate the complicated world of privacy and security. GoDaddy's Trust Center site houses all data protection, security and privacy resources in one easy location for our customers, giving them the resources needed to ensure their information \u2014 and their customers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180637+00:00",
+              "published_date": null,
+              "source_hash": "1730f5e7f6cbcf683df4db2b1f799bf1"
+            },
+            {
+              "url": "",
+              "title": "GoDaddy's 2022 Sustainability Report: Our Operations - Data Security ...",
+              "snippet": "GoDaddy's Trust Center Site houses all data protection, security and privacy resources in one easy location for our customers, offering them the resources necessary to help ensure that their ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180665+00:00",
+              "published_date": null,
+              "source_hash": "9683df36e2ebc19007c74484246011fc"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "This blog post contains forward-looking statements regarding GoDaddy Inc. (\"we,\" \"GoDaddy,\" or the \"Company\") which are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 1995, including our efforts to investigate and remediate the security incident and our attempts to identify and notify affected customers and implement additional security ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Godaddy Inc Godaddy Inc data privacy regulatory risks",
+              "retrieved_at": "2025-01-06T20:33:15.180687+00:00",
+              "published_date": null,
+              "source_hash": "75d102fa6469bcf122cc314d37f9cbb5"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Godaddy Inc pricing transparency lawsuits",
+              "rationale": "Investigate legal challenges related to pricing practices and customer complaints",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Godaddy Inc customer support controversies",
+              "rationale": "Explore customer dissatisfaction and ethical concerns regarding support quality",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Godaddy Inc data privacy regulatory risks",
+              "rationale": "Examine regulatory scrutiny and legal risks related to data handling and privacy practices",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:33:35.593569",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

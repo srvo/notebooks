@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:58:55.034179",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Sodexho",
+      "symbol": "SDXAY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Labor disputes and workplace grievances",
+            "Food quality and safety concerns",
+            "Dependence on contract renewals"
+          ],
+          "controversies": [
+            "Allegations of poor labor practices, including unpaid labor and discriminatory practices",
+            "Legal disputes over wage and hour violations",
+            "Foodborne illness outbreaks and food safety issues"
+          ],
+          "environmental_issues": [
+            "Significant resource consumption and waste generation",
+            "Challenges in achieving sustainability goals"
+          ],
+          "social_issues": [
+            "Employee dissatisfaction and turnover due to poor labor practices",
+            "Impact of food safety incidents on public health"
+          ],
+          "governance_issues": [
+            "Legal settlements and fines related to labor and food safety issues",
+            "Management of complex supply chain risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "EXCLUSIVE: Sodexo workers allege poor treatment and weeks of unpaid labor",
+              "snippet": "In a series of exclusive interviews with the Loyolan, multiple Sodexo employees voiced a list of workplace grievances including weeks of unpaid labor, lack of formal training and unprompted schedule changes. These reported issues with Sodexo have allegedly led to several workers departing from the company over the past month.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067093+00:00",
+              "published_date": null,
+              "source_hash": "595cd18325008ec48e10a1561dae6243"
+            },
+            {
+              "url": "",
+              "title": "sodexo | Violation Tracker - Good Jobs First",
+              "snippet": "discriminatory practices (non-employment) 2013: DOJ_RIGHTS $250,000: Sodexo America LLC and SDH Education West LLC: wage and hour violation: 2023: WA-SOLS ... Sodexho, Inc. labor relations violation: 2004: NLRB $14,239: Universal Sodexho (USA) wage and hour violation: 2005: WHD $14,136: SODEXHO FACILITIES MANAGEMENT:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067148+00:00",
+              "published_date": null,
+              "source_hash": "4e8d1bab4d833381dfb0eb7d903dd888"
+            },
+            {
+              "url": "",
+              "title": "Sodexo: Corporate Rap Sheet | Corporate Research Project",
+              "snippet": "Sodexo by Philip Mattera Sodexo, based in France, is one of the global giants of the foodservice industry, with operations in about 80 nations. In various countries, but especially in the United States, it has been at the center of controversies over working conditions, wages, labor relations and discriminatory practices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067157+00:00",
+              "published_date": null,
+              "source_hash": "41ce9bbc51b0c420698c3c2baddb044c"
+            },
+            {
+              "url": "",
+              "title": "Sodexo, Inc. - National Labor Relations Board",
+              "snippet": "Unfair Labor Practice Cases by Filing Party per Fiscal Year; ... Aaron Sodexo, Inc. & Affiliated Companies: 915 Meeting Street, Suite 1500 North Bethesda, MD 20852-2380 (301)987-4578 : Charging Party Individual : Charged Party / Respondent Employer Sodexo, Inc. North Bethesda, MD 20852 :",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067164+00:00",
+              "published_date": null,
+              "source_hash": "ca58aa1310afa6576d674a6b54989495"
+            },
+            {
+              "url": "",
+              "title": "Magistrate Balks at Sodexo Worker Deal in Post-Hack Wage Case",
+              "snippet": "Sodexo Inc. and workers who say the food service company underpaid them after a cyberattack knocked third-party timekeeping system Kronos offline should rework the terms of their $3 million settlement, a federal magistrate judge recommended. ... suing their employer under the Fair Labor Standards Act in the US District Court for the District of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067170+00:00",
+              "published_date": null,
+              "source_hash": "1660b06b731f98dae98ebfc6181cee3e"
+            },
+            {
+              "url": "",
+              "title": "Sodexo faces allegations of union-busting at a private college near ...",
+              "snippet": "The union's labor complaint, filed May 31, also claims that Sodexo has threatened to call the cops on union organizers, and has unlawfully intimidated workers for discussing the union on work time ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067177+00:00",
+              "published_date": null,
+              "source_hash": "37793e907463c8aeef68f867fa5bd230"
+            },
+            {
+              "url": "",
+              "title": "Introspection After Allegations Of Discrimination : NPR",
+              "snippet": "In 2006, the food services and facility management giant Sodexo Inc. settled an $80 million class action discrimination lawsuit, brought by African-American employees who claimed they were not ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124741+00:00",
+              "published_date": null,
+              "source_hash": "8fe683dfdbe463caea239710ce554490"
+            },
+            {
+              "url": "",
+              "title": " SODEXO, S.A.; SODEXO, INC., - U.S. Department of Labor",
+              "snippet": "Plaintiff Robert Platt is an employee of Sodexo and a participant in the Sodexo, Inc., Medical Plan (\"Plan\"). See 1-ER-2-3. The Plan requires participants who use nicotine products to pay a surcharge of $1,200 per year to maintain health insurance coverage. 1-ER-3. The Plan was amended in 2021 to include an",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067190+00:00",
+              "published_date": null,
+              "source_hash": "16a0336787bf9ac81c697b925a77b2ca"
+            },
+            {
+              "url": "",
+              "title": " VOICES FOR CHANGE - Emory University",
+              "snippet": "Meanwhile, Sodexo continues to report impressive profits and publicly claims to uphold high standards when it comes to human rights and labor practices. Within its own corporate mission statement, Sodexo distinguishes itself from other transnational corporations by emphasizing a commitment to provide secure and stable work",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067196+00:00",
+              "published_date": null,
+              "source_hash": "7304af4ad6e99ebeb816e931918e8154"
+            },
+            {
+              "url": "",
+              "title": "On Workers' Rights, Poor Reviews for Food Service Giant Sodexo",
+              "snippet": "As one of the world's leading food service providers, known in some circles as one of the \" most ethical\" multinational firms, Sodexo has set a pretty high bar for itself, with operations in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sodexho Sodexo labor practices controversies",
+              "retrieved_at": "2025-01-06T14:58:24.067201+00:00",
+              "published_date": null,
+              "source_hash": "f778ea61943d04780179b585ab01ad61"
+            },
+            {
+              "url": "",
+              "title": "sodexo | Violation Tracker - Good Jobs First",
+              "snippet": "private lawsuit-federal $589,500: Sodexho Health Care Services: labor relations violation: 2008: NLRB $285,354: Centerplate Inc. discriminatory practices (non-employment) 2013: DOJ_RIGHTS ... SODEXO: workplace safety or health violation: 2024: OSHA $6,300: Sodexo (Tech Medical Center of USC Hospital) Family and Medical Leave Act: 2013: WHD $6,153:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124635+00:00",
+              "published_date": null,
+              "source_hash": "d28378b76744c06d2cfab544c6e80b52"
+            },
+            {
+              "url": "",
+              "title": "Grano v. Sodexo, Inc., 3:18-cv-1818-RSH-BLM - Casetext",
+              "snippet": "Plaintiff Vincent Grano filed his lawsuit first on August 3, 2018. ... Cargill and Sodexo's Motion to Exclude the opinions and testimony of Plaintiffs' microbiology and food safety systems expert, Scott Stillwell, Ph.D., ECF Nos. 339, 362; ... 2017, email from Sodexo QC Health & Safety Coordinator Wendy Bueker notes \"Sodexo is making sure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124698+00:00",
+              "published_date": null,
+              "source_hash": "9cb9a7a19494523bdb1328c64f356258"
+            },
+            {
+              "url": "",
+              "title": "Grano v. Sodexo Mgmt., Case Nos.: 18cv1818-GPC(BLM) - Casetext",
+              "snippet": "Lawsuits against Sodexo relating specifically to E. coli O157:H7 infections would \"further deepen the institutional knowledge that Sodexo has regarding the risks and consequences of undercooking ground beef at the time of the E. coli O157:H7 outbreak in this case.\" ... especially since the applicable regulations and food safety rules have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124715+00:00",
+              "published_date": null,
+              "source_hash": "1b4cf5e30c270adbdb37a3b6dfc26baa"
+            },
+            {
+              "url": "",
+              "title": "Grano v. Sodexo, Inc., No. 3:2018cv01818 - Justia Law",
+              "snippet": "Prior lawsuits against Sodexo will 17 show that Sodexo was aware of the dangers facing consumers when food is improperly 18 prepared, cooked, stored, or served. Id. Lawsuits against Sodexo relating specifically to E. coli 19 O157:H7 infections would \"further deepen the institutional knowledge that Sodexo has regarding 20 the risks and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124729+00:00",
+              "published_date": null,
+              "source_hash": "a299c69f01c45f752960593a60e85a09"
+            },
+            {
+              "url": "",
+              "title": "Food services firm settles discrimination case - NBC News",
+              "snippet": "Food services company Sodexho Inc. agreed Wednesday to pay $80 million to settle a lawsuit brought by thousands of black employees who charged that they were routinely barred from promotions and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124755+00:00",
+              "published_date": null,
+              "source_hash": "96a6b2f17da4db90f4dc2a1041adcb12"
+            },
+            {
+              "url": "",
+              "title": "Sodexo, we have a problem - Marler Blog",
+              "snippet": "Rafael Bernal had a interesting story this morning on Sodexo's apparent mismanagement of the cafeterias in the House of Representatives complex - see, cafeteria workers denounce working conditions. Perhaps not the risk to our democracy as January 6th, it might well give our representatives a \"taste\" of how important food safety really is.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124766+00:00",
+              "published_date": null,
+              "source_hash": "60fa14528c57527540dd326c7624662f"
+            },
+            {
+              "url": "",
+              "title": "Smith v. Sodexo, Inc., Civil Action PX-22-00984 - Casetext",
+              "snippet": "Sodexo, Inc., Civil Action PX-22-00984, see flags on bad law, and search Casetext's comprehensive legal database ... or could have raised as an opt-in plaintiff in the lawsuit: [name if instant action]. The Releasees include: [list of Sodexo entities named in the lawsuit]. . .and their respective current or former parent companies, subsidiary ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124778+00:00",
+              "published_date": null,
+              "source_hash": "fff784157fb35f1a2d8660749bc7ed1f"
+            },
+            {
+              "url": "",
+              "title": "WHISTLEBLOWER LAWSUIT AGAINST SODEXO SETTLES FOR $20 MILLION - Lawyers",
+              "snippet": "Sodexo is among the world's largest food services companies and the world's largest private food purchaser, with more than 313,000 employees serving 6,000 clients. If you have any questions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124788+00:00",
+              "published_date": null,
+              "source_hash": "0af0b3d1d7e2d0d0d8a58cbdf6ee671d"
+            },
+            {
+              "url": "",
+              "title": "Sodexho Settles Discrimination Suit for $80M | Fox News",
+              "snippet": "Food services company Sodexho Inc. (SDX) agreed Wednesday to pay $80 million to settle a lawsuit brought by thousands of black employees who charged that they were routinely barred from promotions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:28.124799+00:00",
+              "published_date": null,
+              "source_hash": "a48778ec0304986d3b82e91efda24b09"
+            },
+            {
+              "url": "",
+              "title": "Supply Chain Complexity and Other Costs for Small Operators Continue to Be Tailwinds for Sodexo",
+              "snippet": "As one of the world's largest food service providers feeding millions of consumers every day, Sodexo is exposed to risks regarding the quality and safety of its food offerings. Health and safety ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:31.576364+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "d5274a4afb4652752624c421181d5ff3"
+            },
+            {
+              "url": "",
+              "title": "Tech manufacturer drops food service provider, eliminating 86 jobs",
+              "snippet": "Tech manufacturing company Applied Materials dropped its food services provider at its Santa Clara and Sunnyvale offices, resulting in 86 layoffs, according to a recent filing with the state.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sodexho Sodexo food safety lawsuits",
+              "retrieved_at": "2025-01-06T14:58:31.576411+00:00",
+              "published_date": "2024-12-27T00:47:00+00:00",
+              "source_hash": "02cb7245bea6b91ae10dc4dfd6692761"
+            },
+            {
+              "url": "",
+              "title": "Corporate Sustainability - Sodexo's Impact on the Environment",
+              "snippet": "From preventing waste to eliminating nonessential packaging and sourcing responsibly, we aim to integrate environmental and corporate responsibility across the culture of the company. We use various methods to reach our workforce with the appropriate resources and tools, including universal and customized trainings, an employee best-practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253205+00:00",
+              "published_date": null,
+              "source_hash": "b520b5074846ff6a7d1fc21aaf3854df"
+            },
+            {
+              "url": "",
+              "title": "Commitment to Reducing Food Waste - Sodexo US",
+              "snippet": "impact on environment; ... Sodexo aims to slash food waste 50% by 2025, a testament to our commitment to sustainability. Our efforts extend beyond kitchens, influencing consumers and supply partners towards a less-waste culture. ... We create diverse and inclusive workplaces, achieving gender balance in management, promoting fair and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253271+00:00",
+              "published_date": null,
+              "source_hash": "4874b13f5b02a17023e3e349cdc4cd85"
+            },
+            {
+              "url": "",
+              "title": "At the Forefront of Reducing Carbon Emissions - Sodexo US",
+              "snippet": "Food waste poses a significant environmental challenge. Sodexo commits to eliminating food waste by half by 2025, employing strategies like WasteWatch powered by Leanpath and fostering employee engagement to minimize waste and its environmental impact, all while contributing to community well-being. ... achieving gender balance in management ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253286+00:00",
+              "published_date": null,
+              "source_hash": "b54278d6388176ee6cf8f7b819653339"
+            },
+            {
+              "url": "",
+              "title": "Our Contribution for Climate - Sodexo Global",
+              "snippet": "Read about the steps Sodexo is taking as a company to be more sustainable and reduce our carbon emissions, GHG emmisions, carbon footprint and overall impact on climate change. These steps include reducing food waste, introducing plant based menus, committing to using renewable energy and building a low carbon supply chain.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253298+00:00",
+              "published_date": null,
+              "source_hash": "ea938708572c73b9cdcdd40be94bd291"
+            },
+            {
+              "url": "",
+              "title": "Saving resources and reducing waste - Sodexo Global",
+              "snippet": "Food waste accounts for 10% of the world's greenhouse gas emissions. Whether it's during the ordering, storage, preparation, or serving process, we work with our teams, clients, and suppliers to reduce waste at all our sites. How are we reducing our food waste? WasteWatch: WasteWatch is our effective food waste prevention solution.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253315+00:00",
+              "published_date": null,
+              "source_hash": "cdf98a465dc4316939e667de39d9e581"
+            },
+            {
+              "url": "",
+              "title": " Sustainability at Sodexo",
+              "snippet": "Sodexo Stop Hunger Foundation was a founding funder of Food Recovery Network, the largest student movement against food waste and hunger in America. Our initial investment helped them grow from 12 chapters in 2012 to 187 in 2019. Sodexo has joined Global Environmental Management Initiative's Post-Industrial Contaminated Plastic Work Group",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253327+00:00",
+              "published_date": null,
+              "source_hash": "486879c8f93d2892b531f1440311ab1d"
+            },
+            {
+              "url": "",
+              "title": "Reducing Food Waste with Sodexo's WasteWatch Program",
+              "snippet": "Impact on Environment; ... Sodexo aims to slash food waste by 50% by 2025, a testament to our commitment to sustainability. Our efforts extend beyond kitchens, influencing consumers and supply partners towards a less-waste culture. Food waste management with WasteWatch ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253338+00:00",
+              "published_date": null,
+              "source_hash": "6b8a00c3f9ae31c67eec03c9f201510d"
+            },
+            {
+              "url": "",
+              "title": "Driving Environmental Sustainability with Sodexo",
+              "snippet": "A s an employer, we embed environmental responsibility into our operations and ensure every team member is educated and trained on sustainability as part of our dedication to nurture our planet. Our journey as a service provider targets a 34% reduction in carbon emissions by 2025 on our way to Net Zero emissions by 2040, underlining our efforts to source responsibly and manage resources ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253349+00:00",
+              "published_date": null,
+              "source_hash": "a027e2d6bf788b7d03dd81709a1c8ce6"
+            },
+            {
+              "url": "",
+              "title": "Towards Net Zero: Sustainable Solutions & Strategies - Sodexo India",
+              "snippet": "Sodexo is dedicated to reducing the impact of food waste on the environment by implementing waste management solutions at various stages of the value chain and engaging both consumers and clients. Intending to significantly reduce greenhouse emissions by 2025, we remain committed to minimizing our carbon footprint and moving closer to our Net ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253368+00:00",
+              "published_date": null,
+              "source_hash": "f6a478d1a9caaa1886ef765320f29730"
+            },
+            {
+              "url": "",
+              "title": "Commitment to Waste Reduction | Sodexo Canada",
+              "snippet": "For us, fighting food waste is a daily commitment. We are proud to be the first global food services company to tie our funding to efforts to prevent food waste. Sodexo's global WasteWatch program, powered by LeanPath, and its advanced waste-measurement technology, make it simple for our teams to gather data on food waste in our restaurants.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:34.253380+00:00",
+              "published_date": null,
+              "source_hash": "72d45c1cb9fcec9000bd46d174149ca6"
+            },
+            {
+              "url": "",
+              "title": "Sodexo to Launch 100 'Food Hive' Community-Oriented Campus Convenience Stores by 2026",
+              "snippet": "Sodexo, a leader in foodservice for campuses across the U.S., announces the company's goal of opening nearly 100 \"Food Hive\" markets at colleges natio",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Sodexho Sodexo environmental impact and waste management",
+              "retrieved_at": "2025-01-06T14:58:37.548285+00:00",
+              "published_date": "2025-01-02T16:48:00+00:00",
+              "source_hash": "1e6ec05ae8d1da0976aca9f99cff799c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "Sodexo labor practices controversies",
+              "rationale": "Investigate allegations of low wages and poor working conditions",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Sodexo food safety lawsuits",
+              "rationale": "Examine legal challenges related to foodborne illnesses at client sites",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Sodexo environmental impact and waste management",
+              "rationale": "Assess the company's resource consumption and waste generation practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:58:55.034187",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:30:27.204210",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Xometry",
+      "symbol": "XMTR",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and regulatory risks including employment discrimination lawsuit and shareholder litigation",
+            "Operational risks due to dependence on third-party manufacturers and economic sensitivity",
+            "Market and competitive risks from intense competition and criticism of business practices"
+          ],
+          "controversies": [
+            "Pending employment discrimination lawsuit (Lieberman v. Xometry, Inc.)",
+            "Investigation by multiple law firms for potential securities fraud"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Employment practices under scrutiny due to discrimination lawsuit",
+            "Partner relations strained by high commission rates and operational practices"
+          ],
+          "governance_issues": [
+            "Potential securities fraud investigation impacting governance credibility",
+            "Cybersecurity risks despite ongoing CMMC Level 2 certification efforts"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Lieberman v. Xometry, Inc. - UniCourt",
+              "snippet": "On 06/29/2022 Lieberman filed a Civil Right - Employment Discrimination lawsuit against Xometry, Inc. This case was filed in U.S. District Courts, New York Southern District Court. The Judge overseeing this case is Andrew L. Carter, Jr. The case status is Pending - Other Pending.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127681+00:00",
+              "published_date": null,
+              "source_hash": "27820835dc0cec16db132eae7b50eb3d"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Gross Law Firm Notifies Shareholders of ...",
+              "snippet": "NEW YORK, June 28, 2023 /PRNewswire/ -- The Gross Law Firm issues the following notice to shareholders of Xometry, Inc.:. Before the market opened on March 1, 2023, Xometry issued a press release ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.941980+00:00",
+              "published_date": null,
+              "source_hash": "16f7ac7682d00820f985b2b7d6216f53"
+            },
+            {
+              "url": "",
+              "title": "Shareholders In Xometry Inc Are Invited By The Schall Law Firm To Join ...",
+              "snippet": "We also encourage you to contact Brian Schall of the Schall Law Firm, 2049 Century Park East, Suite 2460, Los Angeles, CA 90067, at 310-301-3335, to discuss your rights free of charge. You can also reach us through the firm's website at www.schallfirm.com , or by email at [email protected] .",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127801+00:00",
+              "published_date": null,
+              "source_hash": "4f6d923224d922effec90f264c26b0fd"
+            },
+            {
+              "url": "",
+              "title": "Xometry, Inc. Is Being Investigated For Possible Securities Fraud And ...",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / October 3, 2024 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Xometry ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127813+00:00",
+              "published_date": null,
+              "source_hash": "f35bd61817d42fc1068b6d73e5aa170b"
+            },
+            {
+              "url": "",
+              "title": "2024-10-27 | Xometry, Inc. Is Being Investigated For ... - Stockhouse",
+              "snippet": "The Schall Law Firm represents investors around the world and specializes in securities class action lawsuits and shareholder rights litigation. This press release may be considered Attorney Advertising in some jurisdictions under the applicable law and rules of ethics. CONTACT: The Schall Law Firm Brian Schall, Esq. 310-301-3335",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127822+00:00",
+              "published_date": null,
+              "source_hash": "e3ed6918f2fa4200dd529416bd91cf78"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Schall Law Firm Announces it is Investigating ...",
+              "snippet": "We also encourage you to contact Brian Schall of the Schall Law Firm, 2049 Century Park East, Suite 2460, Los Angeles, CA 90067, at 310-301-3335, to discuss your rights free of charge.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127832+00:00",
+              "published_date": null,
+              "source_hash": "2fd50c8a95ec0b23b3e552b348bbe9b9"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Gross Law Firm Notifies ... - GuruFocus",
+              "snippet": "NEW YORK, June 28, 2023 /PRNewswire/ -- The Gross Law Firm issues the following notice to shareholders of Xometry, Inc.:. Before the market opened on March 1, 2023, Xometry issued a press release and held an earnings call reporting on financial and operating results for the fourth quarter and full year ended December 31, 2022.The Company disclosed that Xometry suffered an adjusted EBITDA loss ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127843+00:00",
+              "published_date": null,
+              "source_hash": "836d4fbb5e299cc7d536f4dc413b3f28"
+            },
+            {
+              "url": "",
+              "title": "XMTR NEWS: The Klein Law Firm Initiates an Investigation Involving ...",
+              "snippet": "NEW YORK, May 16, 2023 /PRNewswire/ -- The Klein Law Firm announces that it is investigating allegations that Xometry, Inc. (\"Xometry\") (NASDAQ: XMTR) violated federal securities laws.. CURRENT INVESTIGATION DETAILS: Before the market opened on March 1, 2023, Xometry issued a press release and held an earnings call reporting on financial and operating results for the fourth quarter and fully ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880822+00:00",
+              "published_date": null,
+              "source_hash": "5a2740f65a3fb195da9d6f1cb7230d95"
+            },
+            {
+              "url": "",
+              "title": "XMTR FRAUD ALERT: Jakubowitz Law is Investigating Xometry, Inc. in ...",
+              "snippet": "NEW YORK, June 9, 2023 /PRNewswire/ -- Jakubowitz Law announces that an investigation into potential securities fraud allegations has commenced on behalf of shareholders of Xometry, Inc. (\"Xometry ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127864+00:00",
+              "published_date": null,
+              "source_hash": "8f6d7f14dd4697e87d909bc3ea81d27f"
+            },
+            {
+              "url": "",
+              "title": "Investigation announced for Investors in shares of Xometry, - openPR.com",
+              "snippet": "The investigation by a law firm focuses on whether a series of statements by Xometry, Inc. (NASDAQ: XMTR regarding its business, its prospects and its operations were materially false and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:55.127874+00:00",
+              "published_date": null,
+              "source_hash": "b7d7c84faa4329fc7857fa90d19c0e34"
+            },
+            {
+              "url": "",
+              "title": "NASCAR Shocks FRM and 23XI by Withdrawing Charter Offer Amid Legal Dispute",
+              "snippet": "Amid a legal dispute over antitrust practices, NASCAR has reportedly withdrawn its charter offers to Front Row Motorsports and 23XI Racing.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:58.492056+00:00",
+              "published_date": "2024-12-12T23:15:00+00:00",
+              "source_hash": "f2af67d5cf069ecc8d073d8d0b1fe95a"
+            },
+            {
+              "url": "",
+              "title": "Lieberman v. Xometry, Inc. - UniCourt",
+              "snippet": "On 06/29/2022 Lieberman filed a Civil Right - Employment Discrimination court case against Xometry, Inc in U.S. District Courts. Court records for this case are available from New York Southern District Court.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.941863+00:00",
+              "published_date": null,
+              "source_hash": "80397ed2caeaeb3e58980b1918a69d42"
+            },
+            {
+              "url": "",
+              "title": "Xometry's \"take\" grows to 39% last quarter - Practical Machinist",
+              "snippet": "I am posting to raise awareness of xometry's business practices, specifically operating at a loss and also taking a huge share from each job. I implore any shop working with them to explore other avenues for business development. Doing business with these people is just cutting off your own legs. There is also a huge risk for their \"partner ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.941948+00:00",
+              "published_date": null,
+              "source_hash": "4b0e857b0e354cfacdc1d73a52b32ec8"
+            },
+            {
+              "url": "",
+              "title": "Does Anyone Have Opinions on Xometry : r/MechanicalEngineering - Reddit",
+              "snippet": "Xometry offers more materials, manufacturing processes, and larger part dimensions. This is because they outsource ALL work. They are ok. Don't expect the best work every time, but they can get things done eventually. Expect to \"work with them\" to get things done, but perhaps less so than a local job-shop.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.941965+00:00",
+              "published_date": null,
+              "source_hash": "45edcbf8270e0a84e9d083f6a2b0ebbf"
+            },
+            {
+              "url": "",
+              "title": "Xometry : r/Machinists - Reddit",
+              "snippet": "The way xometry works is that the job starts off with like a 70+% cut going to xometry, and the price you see is their 'first offer'. You can tell them the price that you will do it for, and they may increase it. I did a job on there that was initially listed for 677, but I got paid 1800 for it, and xometry still got 20% I believe.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.941991+00:00",
+              "published_date": null,
+              "source_hash": "f2ec6a16c53b516429e96f14966974b9"
+            },
+            {
+              "url": "",
+              "title": "Feedback on Xometry for small machine shop? : r/Machinists - Reddit",
+              "snippet": "Joined Xometry's partner program as it seems like a good way to start getting some work. A few days in, I'm still only able to do 1 job at a time due to partner restrictions. It looks like the jobs are a bit hit or miss in terms of profitability. Some are ok, others pay less than material and finishing cost.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.942002+00:00",
+              "published_date": null,
+              "source_hash": "86c4116272219c597d583f0cf8eb655b"
+            },
+            {
+              "url": "",
+              "title": "Xometry Securities Fraud: The Hidden Dangers and Legal Insights",
+              "snippet": "Xometry is a leading online marketplace that connects manufacturers with potential clients, offering a wide range of services in the manufacturing industry. ... in simple terms, involves deceptive practices in the trading of securities. Accusations of securities fraud against Xometry point towards potential irregularities that could have severe ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.942014+00:00",
+              "published_date": null,
+              "source_hash": "038e52e1d252038e9bd7c3209d26ddbb"
+            },
+            {
+              "url": "",
+              "title": "experience with Xometry? : r/Machinists - Reddit",
+              "snippet": "Xometry or another will be my next choice to get a more reasonable price with an expectation of a hit on quality. I expect $30-40 through them. Once In a while a part hits production or a test needs larger order runs. I have had wild success with Xometry on some slightly larger parts orders (qty 10ish) I needed basically next day.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.942024+00:00",
+              "published_date": null,
+              "source_hash": "2af0a321dc78b0b285da055c41f66b2b"
+            },
+            {
+              "url": "",
+              "title": "Xometry Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Regulatory Challenges: Changes in regulations related to manufacturing processes, labor, and environmental standards could pose challenges to Xometry's operations. Xometry's Competitors. As Xometry continues to carve out its niche, it faces competition from several key players in the custom manufacturing landscape.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.942036+00:00",
+              "published_date": null,
+              "source_hash": "7d72558e0c69e72638251f75d607be44"
+            },
+            {
+              "url": "",
+              "title": "Employment and Labor Law and Litigation - Ray ... - Ray Quinney & Nebeker",
+              "snippet": "Ray Quinney & Nebeker has one of the largest employment and labor law practice groups in Utah. Our employment group is consistently ranked as one of the top employment and labor practice groups in the Chambers and Partners USA Guide.. We represent employers in all areas of the workplace, including wage and hour issues, discrimination, labor relations, ERISA (employee benefits), unemployment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Xometry Xometry labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:59.942046+00:00",
+              "published_date": null,
+              "source_hash": "016e02a709cd2d52058f5d61a3231ac6"
+            },
+            {
+              "url": "",
+              "title": "10 Analysts Have This To Say About Xometry",
+              "snippet": "Ratings for Xometry XMTR were provided by 10 analysts in the past three months, showcasing a mix of bullish and bearish perspectives. The following table summarizes their recent ratings ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:08.435547+00:00",
+              "published_date": "2024-12-16T14:00:00+00:00",
+              "source_hash": "a6f19ac75fced1ac16ba9c68a1331c86"
+            },
+            {
+              "url": "",
+              "title": "Xometry, Inc. 10-K Cybersecurity GRC - 2024-02-29",
+              "snippet": "Xometry, Inc. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-29 16:51:33 EST. Filings 10-K filed on 2024-02-29 Company Information Filings 10-K filed on 2024-02-29 Xometry, Inc. filed a 10-K at 2024-02-29 16:51:33 EST Accession Number: 0000950170-24-023214 Note: filing items unformatted. Drop us a note with the above URL to help us ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880697+00:00",
+              "published_date": null,
+              "source_hash": "9832bfdbf52ab80a4a3fbdb4b299b348"
+            },
+            {
+              "url": "",
+              "title": "Is Xometry CMMC Certified? - Xometry's Manufacturing Community",
+              "snippet": "Xometry is on track for Cybersecurity Maturity Model Certification (CMMC) in January 2025. We have completed a third-party (C3PAO) NIST 800-171 audit with an SPRS score of 110 out of a possible 110. Xometry aims for CMMC Level 2 to meet our defense and aerospace customers' requirements. The pursuit of CMMC affirms\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880773+00:00",
+              "published_date": null,
+              "source_hash": "41afe729c6aafab0dfe255723aff84ce"
+            },
+            {
+              "url": "",
+              "title": "XMTR FRAUD ALERT: Jakubowitz Law is Investigating Xometry, Inc. in ...",
+              "snippet": "The Company disclosed that Xometry suffered an adjusted EBITDA loss of $14.2 million in the fourth quarter of 2022 reflecting a \"revenue shortfall\" and \"lower gross margins quarter-over-quarter ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880792+00:00",
+              "published_date": null,
+              "source_hash": "0ea2d0ce4d8a7254ff3b6adec3d52c6d"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Levi & Korsinsky, LLP Notifies Investors - GlobeNewswire",
+              "snippet": "On March 1, 2023, Xometry announced an adjusted EBITDA loss of $14.2 million for the fourth quarter of 2022 due to a \"revenue shortfall\" and \"lower gross margins quarter-over-quarter.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880803+00:00",
+              "published_date": null,
+              "source_hash": "2bf7ab197c574df063076fb6d5b4f8ba"
+            },
+            {
+              "url": "",
+              "title": "XMTR INVESTOR ALERT: Levi & Korsinsky, LLP Notifies - GlobeNewswire",
+              "snippet": "The Company disclosed that Xometry suffered an adjusted EBITDA loss of $14.2 million in the fourth quarter of 2022 reflecting a \"revenue shortfall\" and \"lower gross margins quarter-over ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880813+00:00",
+              "published_date": null,
+              "source_hash": "29040c92098f22219dcf8df0f69d63e5"
+            },
+            {
+              "url": "",
+              "title": "Shareholders In Xometry Inc Are Invited By The Schall Law Firm To Join ...",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / August 27, 2024 / The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Xometry, Inc. (\"Xometry\" or \"the Company\") (NASDAQ:XMTR) for violations of the securities laws.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880833+00:00",
+              "published_date": null,
+              "source_hash": "bc359e8cfde13f4bbe7d34ed1a8f89f0"
+            },
+            {
+              "url": "",
+              "title": "Investigation announced for Investors in NASDAQ: XMTR shares - openPR.com",
+              "snippet": "An investigation was announced concerning possible breaches of fiduciary duties by certain directors at Xometry, Inc. . Investors who purchased shares of Xometry, Inc. (NASDAQ: XMTR) have certain ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880843+00:00",
+              "published_date": null,
+              "source_hash": "f74cd598942ec8e079282fbab733e057"
+            },
+            {
+              "url": "",
+              "title": "Are my uploaded files and Xometry projects secure?",
+              "snippet": "Xometry values your privacy and security. You always own your data, and Xometry only uses it to estimate, fabricate, and review customer-specific projects. Customer data is not shared outside of Xometry's services. The servers and network where data is stored are isolated by a firewall, and only authorized staff can access\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880854+00:00",
+              "published_date": null,
+              "source_hash": "24c6b5fc68ccfbac5c7ac31e98fd3f95"
+            },
+            {
+              "url": "",
+              "title": "Xometry Privacy Policy | Read It Here",
+              "snippet": "Xometry offers a range of services to customers and prospective customers to assist them in the manufacture of their parts and assemblies by providing them with the ability to purchase those parts and assemblies from Xometry (\"Customer\"). ... We have put in place procedures to deal with any actual or suspected personal data breach. In the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:04.880864+00:00",
+              "published_date": null,
+              "source_hash": "1266cbc4488a20b839c35fc816f99e2f"
+            },
+            {
+              "url": "",
+              "title": "Xometry initiated with an Outperform at Wedbush",
+              "snippet": "Wedbush initiated coverage of Xometry (XMTR) with an Outperform rating and $48 price target Xometry is the leading digital marketplace for custom manufacturing and operates in a \"large and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:08.435685+00:00",
+              "published_date": "2024-12-20T14:11:00+00:00",
+              "source_hash": "c6a3dcbd6565ff122155517777e85e2d"
+            },
+            {
+              "url": "",
+              "title": "Michael Bruemmer, Vice President of Experian, talks about the rise of cybersecurity breaches",
+              "snippet": "IS NO LONGER AVAILABLE IN THE U.S. NEW. THIS MORNING, A CONSUMER ALERT ABOUT THE RISE IN CYBERSECURITY BREACHES AND THE SURPRISING WAY SOME HACKERS ARE BEING RECRUITED. MICHAEL BREMER, VICE ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Xometry Xometry cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:30:08.435717+00:00",
+              "published_date": "2024-12-08T23:05:00+00:00",
+              "source_hash": "e38fda14346fa803f762072ef48729e9"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Xometry lawsuits legal disputes",
+              "rationale": "Investigate potential legal challenges or disputes that could impact the company's operations or reputation",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Xometry labor practices controversies",
+              "rationale": "Examine any controversies or issues related to labor practices within Xometry or its manufacturing partners",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Xometry cybersecurity breaches",
+              "rationale": "Assess the risk of cybersecurity breaches given the company's reliance on advanced technologies and data handling",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:30:27.204217",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

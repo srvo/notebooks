@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:34:33.492884",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "SS&C",
+      "symbol": "SSNC",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Cybersecurity vulnerabilities and potential for data breaches",
+            "Client concentration risk with reliance on a small number of large clients",
+            "Integration and operational risks from aggressive acquisition strategy",
+            "Regulatory and compliance pressures in a complex global environment"
+          ],
+          "controversies": [
+            "2016 cybersecurity breach resulting in a $5.9 million loss",
+            "Legal disputes with Bank of New York Mellon and AIG over contractual breaches"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Layoffs and potential employee morale issues post-acquisition",
+            "Ethical considerations in managing client data and trust"
+          ],
+          "governance_issues": [
+            "Challenges in enforcing contractual agreements and securing insurance coverage for cyber risks",
+            "Potential strain on resources due to rapid growth and acquisitions"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SS&C Technologies Security Rating, Vendor Risk Report, and Data Breaches",
+              "snippet": "SS&C Technologies is a software company that provides a wide range of products and services for financial services industry. The company's products include portfolio management, trading and modeling, accounting and financial reporting, risk management, and compliance software, as well as related services such as software implementation, data management, and business process outsourcing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608268+00:00",
+              "published_date": null,
+              "source_hash": "b86197b10ec4e0220b8b4204e35b3428"
+            },
+            {
+              "url": "",
+              "title": "OCA finds bank breached data contracts, tried to 'suppress the truth ...",
+              "snippet": "Bank of New York Mellon Corp. breached a longstanding contract with SS&C Technologies Canada Corp., an affiliate of the world's biggest hedge fund and private equity administrator, when it shared SS&C data with dozens of its own affiliates, the Ontario Court of Appeal ruled Thursday. Justice Michael Tulloch authored the opinion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608405+00:00",
+              "published_date": null,
+              "source_hash": "058d820846a75bc84ce3ca32f2c2a3d3"
+            },
+            {
+              "url": "",
+              "title": "AIG must cover client's $5.9 million in cyber-related losses, judge ...",
+              "snippet": "A judge in the Southern District of New York ruled Wednesday that AIG was in breach of contract when it previously denied a claim from SS&C Technologies, a $6 billion financial technology firm. In 2016, hackers defrauded SS&C out of $5.9 million by sending spoofed emails that appeared to be from an SS&C client, Tillage Commodities, asking SS&C ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608438+00:00",
+              "published_date": null,
+              "source_hash": "99bbe35fd71fd81f2cef9726137ff9ca"
+            },
+            {
+              "url": "",
+              "title": "China hackers swipe millions in data breach - CNBC",
+              "snippet": "SS&C Technologies is sued by a former client alleging its staff was duped by a routine phishing scam.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608465+00:00",
+              "published_date": null,
+              "source_hash": "0eee9a2d737e80c70839c5a01bef8427"
+            },
+            {
+              "url": "",
+              "title": "Who's to Blame for This Hacker Heist Over Email? - MSSP Alert",
+              "snippet": "On appeal, the court largely sided with Tillage and permitted several claims to proceed. See Tillage Commodities Fund, L.P., v.SS&C Technologies, Inc., 2017 N.Y. App. Div. LEXIS 5051 (1st Dept. 2017).The three-judge panel of the New York Supreme Court, First Department, held that the breach of contract claim - based on \"defendant's disbursement of funds without plaintiff's instruction ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608488+00:00",
+              "published_date": null,
+              "source_hash": "3fa0a07fc2a05c0777777fc19e4835f9"
+            },
+            {
+              "url": "",
+              "title": "SS&C Sued by Hedge Fund for Cyber Heist - FinOps",
+              "snippet": "SS&C is the parent of SS&C GlobeOp, which performs -fund administration services. The commodities fund manager is suing the fund administrator in a New York court for more than US$10 million on the grounds it repeatedly ignored its own protocols and deceived clients into thinking it had sound technology to prevent a cybersecurity breach.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608512+00:00",
+              "published_date": null,
+              "source_hash": "9a308bd0d5ea34ad201a877a7f482774"
+            },
+            {
+              "url": "",
+              "title": "BNY Hit With Final US$11M Fine For SS&C Contract Breach",
+              "snippet": "SS&C Technologies Canada Corp. has won only US$11 million instead of the US$890 million it wanted, but it still scored a final moral victory against Bank of New York Mellon for violating the terms of its market data contract with the financial technology giant. The Ontario Court of Appeal let\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608537+00:00",
+              "published_date": null,
+              "source_hash": "c10a801bef222aa57399fcb639cb9b74"
+            },
+            {
+              "url": "",
+              "title": "AIG says its cyber insurance plans don't cover criminal acts; wants ...",
+              "snippet": "\"SS&C admits that it has filed suit seeking indemnity coverage for its settlement of a breach of contract claim concerning criminals using 'spoof emails' to trick SS&C into improperly using its authority over its client's bank account to send $5.9 million of its client's funds to bank accounts controlled by criminals in Hong Kong ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608568+00:00",
+              "published_date": null,
+              "source_hash": "5fd1472028007b1384e5b1e94064e12f"
+            },
+            {
+              "url": "",
+              "title": "SS&C Asks $889 Million From BNY Mellon Over Data Misuse - PYMNTS.com",
+              "snippet": "SS&C sued, accusing BNY Mellon and its Canadian joint venture, CIBC Mellon Global Securities Services, of breaching the terms of their contracts. In 2021, SS&C won a finding of liability from the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608590+00:00",
+              "published_date": null,
+              "source_hash": "666e4ff241e5a5228699b9ab891c12e2"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies Holdings Inc 10-K Cybersecurity GRC - 2024-02-28",
+              "snippet": "SS&C Technologies Holdings Inc reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-28 16:12:34 EST. Filings 10-K filed on 2024-02-28 Company Information Filings 10-K filed on 2024-02-28 SS&C Technologies Holdings Inc filed a 10-K at 2024-02-28 16:12:34 EST Accession Number: 0000950170-24-022080 Note: filing items unformatted. Drop us a note ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:33:58.608612+00:00",
+              "published_date": null,
+              "source_hash": "785669581b80b295f0ab08310a852e24"
+            },
+            {
+              "url": "",
+              "title": "Top Risk & Compliance Solutions for Firms | SS&C - SS&C Tech",
+              "snippet": "Regulatory Compliance The Risk & Compliance Intelligence Platform (RCI) provides accurate, detailed surveillance and analysis of all transactions, orders, activity and investor account holdings and is depended upon by Investment Advisors, Hybrids and Broker-Dealers to provide consistency in oversight and evidence supervision. RCI's surveillance capability is powered by an extensive library ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260037+00:00",
+              "published_date": null,
+              "source_hash": "f6b74ff48e6f3cc6c36e19574e1bb2d3"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Reporting for Compliance Requirements | SS&C - SS&C Tech",
+              "snippet": "Meet today's compliance needs effortlessly with SS&C's Regulatory Reporting Solutions. Navigate Form PF, Basel III, EMIR, CPO-PQR, AIFMD and Form 13F with ease.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279500+00:00",
+              "published_date": null,
+              "source_hash": "a334eeef556b17314cd01cdd1bf9721d"
+            },
+            {
+              "url": "",
+              "title": "Insurance Regulatory Consulting Services - SS&C Tech",
+              "snippet": "Outsource statutory reporting to SS&C for compliance and efficiency. We offer statement preparation, quality control reviews, RBC analysis, and more. ... Our dedicated team of consultants center their efforts on insurance regulatory issues. As a result, clients receive reporting and filing guidance and services delivered with the benefits of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279512+00:00",
+              "published_date": null,
+              "source_hash": "af0cccf60fd1f2df14da3b2146e3b56e"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies, Inc. | SS&C Announces Financial Risk and Regulatory ...",
+              "snippet": "\"SS&C Algorithmics' expertise in risk analytics complements Regnology's integrated and regulatory reporting experience to create a powerful offering to address the evolving needs of financial institutions.\" About SS&C Technologies. SS&C is a global provider of services and software for the financial services and healthcare industries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279525+00:00",
+              "published_date": null,
+              "source_hash": "d5deae49a99280022e3b6cb332218fe0"
+            },
+            {
+              "url": "",
+              "title": "SS&C Survey Reveals Insurers' Struggle with Regulatory and Accounting ...",
+              "snippet": "WINDSOR, Conn., Sept. 11, 2017 /PRNewswire/ -- SS&C Technologies Holdings, Inc. (Nasdaq: SSNC), a global provider of financial services software and software-enabled services, today reported the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279536+00:00",
+              "published_date": null,
+              "source_hash": "a96901d5ed68c8bab8d9805cc60b3206"
+            },
+            {
+              "url": "",
+              "title": " Ss&C Technologies Holdings, Inc. Audit Committee Charter",
+              "snippet": "the Company's compliance with legal and regulatory requirements; (iii) the independent auditor's qualifications and independence; and (iv) the performance of the Company's independent auditor; and (v) the performance of the internal audit function. . B. Structure and Membership 1. Number.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279547+00:00",
+              "published_date": null,
+              "source_hash": "82840018ed787b14215dd1c4d11c297e"
+            },
+            {
+              "url": "",
+              "title": "#31: Understanding SEC Compliance with SS&C - SS&C Advent",
+              "snippet": "As the regulatory landscape continues to evolve in ways not seen since the 2008 financial crisis, understanding how to balance strategic investment activities with compliance demands is key. Tune in to hear Joanne Kane, Chief Compliance Officer at SS&C, as she unravels the complexities of the current regulatory environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279556+00:00",
+              "published_date": null,
+              "source_hash": "464c47679e1dd7d3221a20d1f7b1285f"
+            },
+            {
+              "url": "",
+              "title": "SS&C Announces Financial Risk and Regulatory Reporting Partnership with ...",
+              "snippet": "SS&C Technologies Holdings, Inc. (Nasdaq: SSNC) today announced a strategic partnership with Regnology, a leading regulatory reporting technology company, to help clients tackle upcoming ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279565+00:00",
+              "published_date": null,
+              "source_hash": "4f9769b69d663793632301b31b4f8c28"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies : Five mistakes to avoid when implementing an SFTR ...",
+              "snippet": "Achieving regulatory compliance cannot be approached as a purely tactical exercise. Firms need to make bold strategic decisions if they are to successfully implement a solution that fully handles SFTR compliance. ... SS&C Technologies Holdings, Inc. is a global provider of services and software for the financial services and healthcare ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279574+00:00",
+              "published_date": null,
+              "source_hash": "c75a6b6765239b5e25d9a541a6139203"
+            },
+            {
+              "url": "",
+              "title": "Industry Resources and Insights | SS&C - SS&C Tech",
+              "snippet": "Access SS&C's curated resources, including white papers, webinars, and case studies, to stay ahead in your industry with valuable insights and data. ... Regulatory Risk & Compliance Health Core Administration Technology & Services ... Regulatory; Risk & Compliance; Health. Core Administration Technology & Services;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:03.279583+00:00",
+              "published_date": null,
+              "source_hash": "6fd6b2f61e41ef164b51c434dd6bd01c"
+            },
+            {
+              "url": "",
+              "title": "SS&C Cuts Hundreds Of Jobs Following DST Systems Takeover",
+              "snippet": "SS&C Technologies Holdings Inc. has begun to lay off 900 employees after completing its $5.4 billion takeover of DST Systems Inc. two months ago, according to regulatory filings. The job cuts are ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:06.566178+00:00",
+              "published_date": "2018-07-02T21:49:00+00:00",
+              "source_hash": "8836d9650d012cc392b7f9fe730b3f47"
+            },
+            {
+              "url": "",
+              "title": "IBM To Sell Algorithmics Portfolio To SS&C",
+              "snippet": "IBM is offloading a slate of risk management analytics products it sells to hundreds of financial services customers in a deal revealed Wednesday with SS&C Technologies Holdings. SS&C, which ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:06.566211+00:00",
+              "published_date": "2019-09-25T23:42:00+00:00",
+              "source_hash": "343be5df8d3e05266fd1e2bdf8ec608e"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies",
+              "snippet": "SS&C offers a complete OMS/EMS solution on ASP basis ... The system includes pre- and post-trade compliance, integrated customisable portfolio modeling with \"what-if\" analysis, P&L reporting, and integrated allocation capability.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:06.566221+00:00",
+              "published_date": "2018-03-03T11:34:00+00:00",
+              "source_hash": "3d2aceaa98307dfc0e6e5b1d8a3e8215"
+            },
+            {
+              "url": "",
+              "title": "SS&C Buying Spree Continues With $1.5 Billion Deal For Intralinks",
+              "snippet": "SS&C Technologies Holdings unveiled a deal to ... The deal is expected to close in the fourth quarter, subject to regulatory approval. \"My colleagues at Siris and I recognize the tremendous ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SS&C SS&C Technologies regulatory compliance issues",
+              "retrieved_at": "2025-01-06T15:34:06.566228+00:00",
+              "published_date": "2018-09-06T15:46:00+00:00",
+              "source_hash": "87a148284f43260409eb4bd008039033"
+            },
+            {
+              "url": "",
+              "title": "Beware Concentration Risk: Lessons in Avoiding Financial ... - SS&C Tech",
+              "snippet": "These events and subsequent market impacts are cautionary tales (as outlined in our \"Sobering Lessons from SVB: Manage Financial Risk Beyond Compliance\" post) on the dangers of concentration risk and the impact of poor risk management in general. For institutions on both the Sell-Side and the Buy-Side, having a robust risk framework to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.259888+00:00",
+              "published_date": null,
+              "source_hash": "3cb342f0b9e6591b28e7623b3230494c"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies Holdings, Inc. (SSNC): Porter's Five Forces ... - dcf-fm",
+              "snippet": "Learn about SS&C Technologies Holdings, Inc. and how Porter's Five Forces can help you understand its market competitiveness and business strategy. ... a figure that illustrates the concentration risk while also empowering these clients to negotiate more favorable terms due to their volume purchases. ... SS&C reported an increase in client ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260007+00:00",
+              "published_date": null,
+              "source_hash": "a1ea03a4780fe2f7d02d9ae5b134429c"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies on LinkedIn: Beware Concentration Risk: Lessons in ...",
+              "snippet": "From having a robust risk framework to effectively measuring and managing concentration risk, ... SS&C Technologies' Post SS&C Technologies 262,384 followers 10mo Report this post ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260023+00:00",
+              "published_date": null,
+              "source_hash": "934e70047eb4c4012682a911201b1cce"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "SS&C TECHNOLOGIES HOLDINGS, INC. ANNUAL REPORT ON FORM 10-K FOR THE FISCAL YEAR ENDED December 31, 2022 TABLE OF CONTENTS Page PART I Item 1. Business 4 Item 1A. Risk Factors 19 Item 1B. Unresolved Staff Comments 36 Item 2. Properties 36 Item 3. Legal Proceedings 36 Item 4. Mine Safety Disclosures 36 PART II Item 5.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260049+00:00",
+              "published_date": null,
+              "source_hash": "35721737202691ab66d98b882a7a22bb"
+            },
+            {
+              "url": "",
+              "title": "Decoding SS&C Technologies Holdings Inc (SSNC): A Strategic SWOT Insight",
+              "snippet": "SS&C Technologies Holdings Inc (NASDAQ:SSNC), a leading provider of software products and software-enabled services, has released its 10-Q filing on August 1, 2024. The financial overview reveals ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260059+00:00",
+              "published_date": null,
+              "source_hash": "0cade4f03a689775f212fbb7fd21541d"
+            },
+            {
+              "url": "",
+              "title": "Capital Market Risk Management Solutions | SS&C - SS&C Tech",
+              "snippet": "Algo Market Risk for Banks Award-winning best-in-class market risk solution. Giving full visibility of trading book's market risks across all asset classes as well as regulatory compliance. Algo Market Risk is a fully integrated, modern, component-based solution that supports easy integration with 3rd party systems that reduces operational risks and lowering costs",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260068+00:00",
+              "published_date": null,
+              "source_hash": "55130c441f53f7a998d066555385a652"
+            },
+            {
+              "url": "",
+              "title": "SS&C's Robust Business Model Allows It to Weather ... - Morningstar",
+              "snippet": "That said, SS&C's fund administration business (approximately $1 billion in annual revenue) only has modest exposure to equity markets, as its hedge fund client basis includes a diverse set of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260079+00:00",
+              "published_date": null,
+              "source_hash": "bc3822cf95b2ca00ca0d7e04d93640d2"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies - InsuranceAUM.com",
+              "snippet": "SS&C Technologies || Oct 19, 2023 14:30:57 5 Things to look for in an Investment Accounting Provider. For insurance companies, the right investment accounting provider can be a strategic partner in one of the most critical areas of business operations. A great partner helps manage risk and has the ability to scale with your business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260088+00:00",
+              "published_date": null,
+              "source_hash": "2f08585306740c482c52c58e20144608"
+            },
+            {
+              "url": "",
+              "title": "Decoding SS&C Technologies Holdings Inc (SSNC): A Strategic SWOT Insight",
+              "snippet": "On February 28, 2024, SS&C Technologies Holdings Inc (NASDAQ:SSNC) filed its annual 10-K report, revealing a company at the forefront of financial and healthcare software solutions. As the world's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:09.260099+00:00",
+              "published_date": null,
+              "source_hash": "2e1a3d3f68ad5783ab7ceb1c1613f2b7"
+            },
+            {
+              "url": "",
+              "title": "SS&C Technologies' SWOT analysis: financial software firm's stock poised for growth",
+              "snippet": "SS&C Technologies Holdings ... the company could potentially lose market share. This risk is particularly relevant in a sector where client switching costs can be high, making it crucial for ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:12.938020+00:00",
+              "published_date": "2024-12-05T09:38:00+00:00",
+              "source_hash": "112b57595f3f4d3421013e3bcb37f6c4"
+            },
+            {
+              "url": "",
+              "title": "SS&C Aloha shows strong client growth",
+              "snippet": "SS&C Aloha, SS&C Technologies' (SS&C's) front-to-back-office operations platform, has been adopted by more than 25 global clients over the past year. The cloud-native platform uses a single system and data model to improve and simplify investment ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:12.938121+00:00",
+              "published_date": "2022-11-02T23:59:00+00:00",
+              "source_hash": "bb7cabaa02f7138e10fcebc1786f3643"
+            },
+            {
+              "url": "",
+              "title": "Why SS&C Technologies Holdings (SSNC) Is One of the Best Affordable Tech Stocks to Invest in Now",
+              "snippet": "In this article, we are going to take a look at where SS&C Technologies Holdings ... A financial advisor providing consultation to a client to help manage their portfolio. To compile the list ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:12.938153+00:00",
+              "published_date": "2024-12-02T03:45:00+00:00",
+              "source_hash": "6bf6135197f8fdce048dbc41b68449be"
+            },
+            {
+              "url": "",
+              "title": "Omnis Investments Limited Extends Relationship with SS&C",
+              "snippet": "WINDSOR, Conn., Dec. 23, 2024 /PRNewswire/ -- SS&C Technologies Holdings, Inc. (Nasdaq: SSNC) today announced that Omnis Investments Limited has extended its transfer agency relationship with SS&C. The contract services Omnis's range of mutual funds, which invest across several asset classes and regions.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SS&C SS&C Technologies client concentration risks",
+              "retrieved_at": "2025-01-06T15:34:12.938177+00:00",
+              "published_date": "2024-12-23T13:13:00+00:00",
+              "source_hash": "f6bb372eb027b0fd99d6add8e7f29413"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "SS&C Technologies cybersecurity breaches",
+              "rationale": "Investigate potential data breaches or cybersecurity incidents affecting client data",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "SS&C Technologies regulatory compliance issues",
+              "rationale": "Examine any legal or regulatory challenges faced by SS&C in global markets",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "SS&C Technologies client concentration risks",
+              "rationale": "Assess the impact of revenue dependency on a small number of large clients",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:34:33.492895",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

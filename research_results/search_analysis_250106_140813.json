@@ -1,0 +1,567 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:08:13.682787",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "SolarWinds Corp",
+      "symbol": "SWI",
+      "analysis": {
+        "historical": {
+          "risk_score": 75,
+          "key_risks": [
+            "Cybersecurity vulnerabilities leading to significant breaches",
+            "Regulatory scrutiny and legal challenges from the SEC",
+            "Financial and reputational damage from the SUNBURST attack",
+            "Competitive pressure in the IT management software market"
+          ],
+          "controversies": [
+            "2020 SUNBURST cyberattack affecting over 18,000 customers",
+            "SEC charges for fraud and inadequate cybersecurity disclosures",
+            "Executive compensation controversies during the breach fallout"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Significant workforce reduction impacting employee morale",
+            "Challenges in rebuilding customer trust post-breach"
+          ],
+          "governance_issues": [
+            "Allegations of overstated cybersecurity practices and understated risks",
+            "Leadership changes and operational restructuring post-breach"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 85
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SEC Charges SolarWinds and Chief Information Security Officer with ...",
+              "snippet": "The complaint alleges that, from at least its October 2018 initial public offering through at least its December 2020 announcement that it was the target of a massive, nearly two-year long cyberattack, dubbed \"SUNBURST,\" SolarWinds and Brown defrauded investors by overstating SolarWinds' cybersecurity practices and understating or failing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854623+00:00",
+              "published_date": null,
+              "source_hash": "41c084139f73ef6cc25f93d166c5094a"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines 4 Companies $7M for Downplaying Breaches Tied to Massive ...",
+              "snippet": "The order follows the regulator's yearslong investigation into public companies affected by the SolarWinds breach in 2020, which ranks among the most devastating cyberattacks ever, compromising ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734922+00:00",
+              "published_date": null,
+              "source_hash": "343f897478c0e6c71a81d88639e46684"
+            },
+            {
+              "url": "",
+              "title": "SEC charges public companies with inadequate disclosures in aftermath ...",
+              "snippet": "The SEC found that Avaya's post-breach disclosures downplayed the severity of the SolarWinds attack, omitting key details about compromised proprietary information. In particular, the company had disclosed that a threat actor had accessed a \"limited number of [the] company's email messages\" when the threat actor had also accessed at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734864+00:00",
+              "published_date": null,
+              "source_hash": "65a481466268c50c2de88c42add8dcaf"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines 4 Tech Firms Over SolarWinds Breach Disclosures",
+              "snippet": "The SEC's orders allege that the companies learned in 2020 or 2021 that the threat actor responsible for perpetrating the SolarWinds breach had also accessed their systems, but - according to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854753+00:00",
+              "published_date": null,
+              "source_hash": "321d435841e1d83e26ebac3ec654e03b"
+            },
+            {
+              "url": "",
+              "title": "Four Years Later: The SEC's Latest Round Of Enforcement Actions ...",
+              "snippet": "Just last week, the SEC issued a new round of enforcement actions against companies whose systems were compromised during the SolarWinds breach. As a result of the breaches, the SEC's recent enforcement action highlight a heightened regulatory focus on accurate, specific, and investor-informed cyber disclosures.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854763+00:00",
+              "published_date": null,
+              "source_hash": "320cad2881d2b9a5fb15de667428d3ed"
+            },
+            {
+              "url": "",
+              "title": "Four Years Later: The SEC's Latest Round of Enforcement Actions ...",
+              "snippet": "The 2020 SolarWinds breach involved a sophisticated supply chain attack where hackers, reportedly linked to a nation-state, injected malicious code into SolarWinds' Orion network management ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854773+00:00",
+              "published_date": null,
+              "source_hash": "bd29e181b7d78680f40145643ae331e5"
+            },
+            {
+              "url": "",
+              "title": "Court Dismisses Most of SEC's Claims Against SolarWinds",
+              "snippet": "The court dismissed the SEC's claim that SolarWinds' filings on Form 8-K in December 2020, in which it detailed its understanding of the attack, were materially misleading in stating the company was investigating \"whether, and to what extent, \" the vulnerability was exploited when, according to the SEC, the company knew the software had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854781+00:00",
+              "published_date": null,
+              "source_hash": "5f41b7e4cdf7c04278357bd973a7ce0d"
+            },
+            {
+              "url": "",
+              "title": "Client Alert: The SEC Charges SolarWinds and Its CISO ... - Jenner & Block",
+              "snippet": "This week, the SEC filed a high-profile litigation asserting fraud and internal controls charges against software company SolarWinds Corporation and its Chief Information Security Officer, Timothy G. Brown, in connection with a massive 2020 breach of SolarWinds' network monitoring software system, Orion. [1] The charges against SolarWinds and Brown were long-anticipated following SolarWinds ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854790+00:00",
+              "published_date": null,
+              "source_hash": "4dbff1f41fdcd05a8e12d65d0aad2f3b"
+            },
+            {
+              "url": "",
+              "title": "After a major hack in 2020, SolarWinds is now charged with fraud",
+              "snippet": "Back in December 2020, the SolarWinds supply chain attack made the headlines when a Russian cyber espionage group tampered with updates for SolarWinds' Orion Network Management products that were used by more than 300,000 customers worldwide, including government agencies, military offices, major US telecommunications companies, education ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854800+00:00",
+              "published_date": null,
+              "source_hash": "2baf5511764d9ee66679e048a0b3e667"
+            },
+            {
+              "url": "",
+              "title": "SEC Announces Penalties Against Four Companies For Downplaying ... - Mondaq",
+              "snippet": "SolarWinds provides an IT performance and monitoring product called Orion, which issued a routine software update in March 2020. Multiple news outlets reported in early 2021 that hackers, likely backed by Russia's intelligence service, slipped malicious code into the Orion software update and used it to access the networks, systems and data of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:45.854810+00:00",
+              "published_date": null,
+              "source_hash": "89786380c7d8853791312e9f82585efa"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds 'Confident' It 'Acted Appropriately' After 2020 Hack: CEO",
+              "snippet": "Sudhakar Ramakrishna told employees that SolarWinds will seek to prevent legal action from U.S. regulators ... communication\" after the widely felt 2020 cyberattack against the company and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:49.525773+00:00",
+              "published_date": "2023-06-26T17:59:00+00:00",
+              "source_hash": "9fc5ab2abaccad57b013f00b537ea998"
+            },
+            {
+              "url": "",
+              "title": "SEC sues SolarWinds, CISO for fraud and security failures",
+              "snippet": "SolarWinds Corporation, the IT firm at the centre of one of the most significant cyber espionage incidents in history, is now facing legal action from the US Securities and Exchange Commission (SEC).",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:49.525854+00:00",
+              "published_date": "2023-11-01T09:48:00+00:00",
+              "source_hash": "1b79a352c44aebdb54965b61f2df9af2"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Execs Earned $65M In 2020 Despite Huge Hack",
+              "snippet": "SolarWinds said Friday that it didn't make any adjustments to its 2020 performance-based executive ... in total last year despite a colossal breach that exposed 18,000 customers to Russian ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:49.525869+00:00",
+              "published_date": "2021-04-16T18:50:00+00:00",
+              "source_hash": "baae4d7ecf437a16b7963ac58ac135b1"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds' New CEO Will Make These 5 Changes Post-Hack",
+              "snippet": "\"Although I accepted the position to become CEO before the Company [SolarWinds] was notified of the cyberattack, I feel an even greater commitment now to taking action, ensuring we learn from ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:49.525879+00:00",
+              "published_date": "2021-01-08T16:54:00+00:00",
+              "source_hash": "a6cf799bfe79fbfd36ed17b9945e354a"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Hackers Used Constant Contact Email Service In Phishing Attack",
+              "snippet": "Microsoft's corporate vice president of customer security and trust. The Russia-based hacker group known as Nobelium\u2014the group behind last year's massive SolarWinds hack\u2014are at it again ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp legal actions post-2020 breach",
+              "retrieved_at": "2025-01-06T21:07:49.525888+00:00",
+              "published_date": "2021-05-28T17:49:00+00:00",
+              "source_hash": "d22b64b5d76cd7ad21b8fa0f8d7899db"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds CEO on Building Trust After Breach, Unifying IT and C-Suite ...",
+              "snippet": "The company in 2021 shed a large portion of its workforce in a spin-out of the N-able business, going from a headcount of 3,340 to 2,147. An observability and IT management software firm falling victim to one of the biggest cyberattacks in history took a toll on reputation and customer trust as well. Rebuilding Trust After Catastrophe",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931446+00:00",
+              "published_date": null,
+              "source_hash": "24200f2d72df9fd8b34114bccbb93424"
+            },
+            {
+              "url": "",
+              "title": "4 companies charged by SEC for misleading investors after SolarWinds breach",
+              "snippet": "The SolarWinds Orion hack (SolarWinds hack) was a supply chain attack that affected public and private organisations that used SolarWinds Orion network management system. Over 30,000 organisations, including government agencies at local, state and federal levels, use the Orion software to manage their IT systems.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931553+00:00",
+              "published_date": null,
+              "source_hash": "cbb7eaaf30d2350a99373b05c434b187"
+            },
+            {
+              "url": "",
+              "title": "SEC charges public companies with inadequate disclosures in aftermath ...",
+              "snippet": "Avaya Holdings Corp. Avaya, through its subsidiaries, provides digital communications software solutions and services for global businesses. The SEC found that Avaya's post-breach disclosures downplayed the severity of the SolarWinds attack, omitting key details about compromised proprietary information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931568+00:00",
+              "published_date": null,
+              "source_hash": "cf4b2757071a122cf9212ca50967f201"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Breach Victims Fined for Vague Reporting",
+              "snippet": "\"The SEC's order against Unisys finds that the company described its risks from cybersecurity events as hypothetical despite knowing that it had experienced two SolarWinds-related intrusions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931590+00:00",
+              "published_date": null,
+              "source_hash": "a3a74c6bc9040e10bfefabd0ac96b603"
+            },
+            {
+              "url": "",
+              "title": "Lessons Learned from the SolarWinds Cybersecurity Breach",
+              "snippet": "Main Takeaways from the SolarWinds Breach. Demonstrate a sincere commitment to security: Admitting your faults and demonstrating a genuine commitment to security is key to rebuilding trust in the aftermath of a cybersecurity breach. SolarWinds' failure to do these highlights the importance of honesty and transparency in the recovery process.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931599+00:00",
+              "published_date": null,
+              "source_hash": "2c8b2ab07049536a39d1d804a1f4bce7"
+            },
+            {
+              "url": "",
+              "title": "SEC charges tech companies for downplaying SolarWinds breaches",
+              "snippet": "The SEC has charged four companies\u2014Unisys Corp, Avaya Holdings, Check Point Software, and Mimecast\u2014for allegedly misleading investors about the impact of their breaches during the massive 2020 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931609+00:00",
+              "published_date": null,
+              "source_hash": "502b89a1790abae73d38290646467a50"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines 4 Tech Firms Over SolarWinds Breach Disclosures",
+              "snippet": "The SEC filed its first cybersecurity disclosure action against a public company in 2018 for allegedly negligently failing to disclose in its public filings a massive breach for more than two ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931624+00:00",
+              "published_date": null,
+              "source_hash": "e3275401491dc858c35631c12b7ad7fa"
+            },
+            {
+              "url": "",
+              "title": "After a major hack in 2020, SolarWinds is now charged with fraud",
+              "snippet": "The Austin, Texas-based company is charged with fraud and internal control failures relating to allegedly known cybersecurity risks and vulnerabilities. SolarWinds found itself at the epicenter of a major cybersecurity breach in 2020. The incident, famously dubbed SUNBURST, sent shockwaves through the tech industry and beyond.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931634+00:00",
+              "published_date": null,
+              "source_hash": "e82cb15d39df3b79c48354a56e578085"
+            },
+            {
+              "url": "",
+              "title": "SEC charges SolarWinds and company executive with fraud after massive ...",
+              "snippet": "SolarWinds SWI, in a statement, called the allegations \"unfounded\" and accused the SEC of \"overreach.\" Shares of the company were down 0.2% in after-hours trade on Monday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:51.931642+00:00",
+              "published_date": null,
+              "source_hash": "546acc7091711ff313dfc54fdc477308"
+            },
+            {
+              "url": "",
+              "title": "12 Lessons Learned From The SolarWinds Breach: RSA Conference",
+              "snippet": "The SolarWinds breach rocked the ... specific accounts within the company have the most expansive access to that data. Companies should ensure they have a zero trust strategy in place around ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:55.362453+00:00",
+              "published_date": "2021-05-20T20:34:00+00:00",
+              "source_hash": "4be2f15731dfb3bea102ff1dcc9ee858"
+            },
+            {
+              "url": "",
+              "title": "Mimecast Breach Linked To SolarWinds Hack, Allowed Cloud Services Access",
+              "snippet": "based email security vendor said the SolarWinds hackers accessed and potentially exfiltrated encrypted customer service account ... in the U.S. and U.K., the company said, and gave hackers access ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:55.362537+00:00",
+              "published_date": "2021-01-26T15:24:00+00:00",
+              "source_hash": "868ef23ae2f4dba7d61619cc0c0ee8b1"
+            },
+            {
+              "url": "",
+              "title": "Glancy Prongay & Murray LLP Announces Investigation of SolarWinds Corporation (SWI)",
+              "snippet": "Glancy Prongay & Murray LLP (\"GPM\") announces its investigation of SolarWinds Corporation (NYSE: SWI) concerning the Company and its directors' and officers' possible violations of state laws.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:55.362552+00:00",
+              "published_date": "2024-11-26T09:12:00+00:00",
+              "source_hash": "57b1c6fb6e1acab5d418aebe00ac35ab"
+            },
+            {
+              "url": "",
+              "title": "Fed Breach Disclosure Rule Planned After SolarWinds Hack: Report",
+              "snippet": "SolarWinds told CRN it notified its government and private-sector customers of the attack Dec. 14, a day after The Washington Post broke the news and the company posted a security advisory to its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "SolarWinds Corp SolarWinds Corp customer trust issues after breach",
+              "retrieved_at": "2025-01-06T21:07:55.362564+00:00",
+              "published_date": "2021-03-25T22:47:00+00:00",
+              "source_hash": "848ede7e949cf9d9428f432b59866390"
+            },
+            {
+              "url": "",
+              "title": "Four Years Later: The SEC's Latest Round Of Enforcement ... - Mondaq",
+              "snippet": "Four years after the SolarWinds breach first became a major news item, the resulting aftermath of this incident is still being felt industry wide. ... Mimecast Limited and Unisys Corporation also faced SEC scrutiny for incomplete and misleading disclosures. Mimecast initially reported a 2021 breach but omitted critical details, such as the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734757+00:00",
+              "published_date": null,
+              "source_hash": "fef90503c3eaea21f5b260d03af2af0d"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Attack Cost Impacted Companies an Average of $12 Million",
+              "snippet": "Cyberattacks are quickly becoming the pandemic of 2021, marked by major incidents on an unprecedented scale. In December 2020, the SolarWinds supply chain attack provided hackers with access into as many as 18,000 government entities and Fortune 500 companies, as to at least nine federal agencies and more than 100 companies were exposed to the breach.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734877+00:00",
+              "published_date": null,
+              "source_hash": "fe7677abbfd4805e284705f99a14e9ce"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Corp (SWI) Reports Growth in Revenue and Adjusted EBITDA for ...",
+              "snippet": "On February 8, 2024, SolarWinds Corp , a leading provider of IT management software, released its 8-K filing, detailing its financial results for the fourth quarter and full year ended December 31 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734889+00:00",
+              "published_date": null,
+              "source_hash": "80f4a3fb70024a4e1fc982750f781b73"
+            },
+            {
+              "url": "",
+              "title": "Four Years Later: The SEC's Latest Round Of Enforcement Actions ...",
+              "snippet": "Four years after the SolarWinds breach first became a major news item, the resulting aftermath of this incident is still being felt industry wide. This breach, which affected both government and...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734898+00:00",
+              "published_date": null,
+              "source_hash": "d63c8d98fb3ad2a270cfcd74a1c3d222"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Agrees to $26 Million Payout Over Massive Data Breach",
+              "snippet": "When it was revealed in December 2020 that SolarWinds Corporation was subject to a massive data breach by suspected Russian-backed hackers who injected malicious code into the company's \"Orion\" software update for nearly two years, the company's stock price plummeted by more than a third. Customers abandoned the company's software, and then homeland security adviser [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734907+00:00",
+              "published_date": null,
+              "source_hash": "c44a01b5fbdf1d73a349735ec18b6229"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Corporation (SWI) Stock Price, Quote & News - Stock Analysis",
+              "snippet": "Get a real-time SolarWinds Corporation (SWI) stock price quote with breaking news, financials, statistics, charts and more. ... Financial Performance. In 2023, SolarWinds's revenue was $758.74 million, an increase of 5.47% compared to the previous year's $719.37 million. Losses were -$9.11 million, -99.02% less than in 2022.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734931+00:00",
+              "published_date": null,
+              "source_hash": "9178f668060e178b76600bfeffa6a1a4"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds says dealing with hack fallout cost at ... - Financial Post",
+              "snippet": "WASHINGTON \u2014 Texas-based SolarWinds Corp said the sprawling breach stemming from the compromise of its flagship software product has cost the company at least $18 m\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734940+00:00",
+              "published_date": null,
+              "source_hash": "0ca6d66bdca464c1e1cc6b45ddcb7ba1"
+            },
+            {
+              "url": "",
+              "title": "SEC Announces Penalties Against Four Companies for Downplaying Severity ...",
+              "snippet": "To settle the claims, the companies, Unisys Corp., Avaya Holdings Corp., Check Point Software Technologies Ltd. and Mimecast Ltd., agreed to pay a total of nearly $7 million in civil penalties. The SEC's charges arose from an investigation of public companies that were potentially impacted by the massive SolarWinds cyberattack.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:56.734951+00:00",
+              "published_date": null,
+              "source_hash": "eeb56dde45852fe90f1e19c16b99b54d"
+            },
+            {
+              "url": "",
+              "title": "SEC sues SolarWinds, CISO for fraud and security failures",
+              "snippet": "SolarWinds Corporation, the IT firm at the centre of ... through a malicious code implanted within an Orion software update. This breach was first detected by cybersecurity firm FireEye, which ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:59.302439+00:00",
+              "published_date": "2023-11-01T09:48:00+00:00",
+              "source_hash": "925771c96be302acd1689bd7ac88e1da"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds: Top US prosecutors hit by suspected Russian hack",
+              "snippet": "Nearly 30 top US prosecutors had their office's email accounts hacked during a major breach last year, the Justice Department says. The attack on users of the software SolarWinds - which the US ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:59.302519+00:00",
+              "published_date": "2021-07-31T00:00:00+00:00",
+              "source_hash": "50c8a72eef7597712af0935d409e4e05"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds: Hacked firm issues urgent security fix",
+              "snippet": "Network tools specialist SolarWinds has updated its flagship Orion software, 11 days after revealing a major breach. On 13 December, it disclosed that Orion had been compromised. It was used as a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:59.302532+00:00",
+              "published_date": "2020-12-23T23:59:00+00:00",
+              "source_hash": "1f6f5b340cd18d9d3d99790c6fb6ada5"
+            },
+            {
+              "url": "",
+              "title": "Mimecast Breach Linked To SolarWinds Hack, Allowed Cloud Services Access",
+              "snippet": "Mimecast said Tuesday that its certificate compromise was carried out by the same threat actor behind the SolarWinds attack ... wish to be identified said the breach will most significantly ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:59.302542+00:00",
+              "published_date": "2021-01-26T15:24:00+00:00",
+              "source_hash": "74a8eef13024ee79467abb9cf643cf49"
+            },
+            {
+              "url": "",
+              "title": "SolarWinds Names New CEO As Potential Spin-off Inches Forward",
+              "snippet": "Pulse Secure CEO Sudhakar Ramakrishna was named the incoming chief executive of SolarWinds, as well as a board member. He is expected to step into the roles next month. SolarWinds Corp. has ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "SolarWinds Corp SolarWinds Corp financial performance post-breach",
+              "retrieved_at": "2025-01-06T21:07:59.302552+00:00",
+              "published_date": "2020-12-09T23:44:00+00:00",
+              "source_hash": "52901049bcb5e1f9b714a36e7b7c2b36"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "SolarWinds Corp legal actions post-2020 breach",
+              "rationale": "Investigate ongoing legal challenges and regulatory scrutiny following the cybersecurity incident",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "SolarWinds Corp customer trust issues after breach",
+              "rationale": "Explore how the 2020 breach has impacted customer relationships and trust in the company",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "SolarWinds Corp financial performance post-breach",
+              "rationale": "Assess the financial stability and recovery efforts of SolarWinds following the cybersecurity incident",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:08:13.682796",
+        "data_confidence": 85,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

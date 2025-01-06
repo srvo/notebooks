@@ -1,0 +1,471 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:13:55.772098",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "FedEx Corp",
+      "symbol": "FDX",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Labor disputes and legal challenges, including wage and hour violations",
+            "Regulatory and geopolitical risks, particularly in international trade",
+            "Competitive pressures from UPS, DHL, and Amazon Logistics",
+            "Pandemic-related disruptions and lingering supply chain challenges"
+          ],
+          "controversies": [
+            "$204 million settlement in a class-action lawsuit over wage and hour violations",
+            "Legal scrutiny over the independent contractor model at FedEx Ground"
+          ],
+          "environmental_issues": [
+            "Reliance on air freight and fossil fuels despite sustainability goals",
+            "Criticism from environmental groups regarding carbon footprint"
+          ],
+          "social_issues": [
+            "Ongoing labor disputes and allegations of unpaid overtime for drivers"
+          ],
+          "governance_issues": [
+            "Execution risks associated with the spin-off of FedEx Freight"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": " FedEx 2023 ESG Report Executive Summary",
+              "snippet": "the FedEx\u00ae Sustainability Insights tool to increase accessibility for our customers and suppliers to calculate estimated carbon dioxide-equivalent shipping emissions at package and account levels. For more information, please see: FedEx sustainability website 2022 CDP climate change questionnaire Governance, safety, and public policy",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311118+00:00",
+              "published_date": null,
+              "source_hash": "7c63384c17c79657cd0aea7b9ffa08f0"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - FedEx",
+              "snippet": "FedEx Corp. has received its first five of an order of 500 electric Light Commercial Vehicles (eLCVs) from BrightDrop, the new electric delivery and logistics business from General Motors (GM). ... zero-tailpipe emissions vehicles into the FedEx fleet is an important step in the company's goal to take its global operations carbon neutral by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311236+00:00",
+              "published_date": null,
+              "source_hash": "734574db4da5dbc93c15b05eeaca4759"
+            },
+            {
+              "url": "",
+              "title": "Sustainability and Carbon Neutral Operations | FedEx",
+              "snippet": "We are on a journey to deliver a more sustainable future with a data-first approach with FedEx \u00ae Sustainability Insights, our modernized emissions reporting tool for the U.S. View your emissions footprint at a package and accounts levels for your FedEx Ground \u00ae, FedEx Express \u00ae, and FedEx Freight \u00ae shipments. Some exclusions apply.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311253+00:00",
+              "published_date": null,
+              "source_hash": "b44e220e53dc1d89a544f371d882580d"
+            },
+            {
+              "url": "",
+              "title": "FedEx Corp. ESG Risk Rating - Sustainalytics",
+              "snippet": "FedEx pioneered overnight delivery in 1973 and remains the world's largest express package provider. In its fiscal 2024, which ended in May, FedEx derived 47% of revenue from its express division, 37% from ground, and 10% from freight, its asset-based less-than-truckload shipping segment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311268+00:00",
+              "published_date": null,
+              "source_hash": "8c030eb3f349387825ac73afe5f15572"
+            },
+            {
+              "url": "",
+              "title": "FedEx Publishes 2023 ESG Report - FedEx Newsroom",
+              "snippet": "\u2022 Decreasing carbon dioxide emissions intensity on a revenue basis by 48.9% from Fiscal Year 2009 through Fiscal Year 2022, a period during which average daily package volumes grew by 142%. \u2022 Avoiding 150 million gallons of jet fuel through aircraft modernization efforts, reducing our total FY22 jet fuel consumption by more than 10%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311279+00:00",
+              "published_date": null,
+              "source_hash": "6fb26b79342f0c6f56528dbabd12fd95"
+            },
+            {
+              "url": "",
+              "title": "FedEx Commits to Carbon-Neutral Operations by 2040",
+              "snippet": "MEMPHIS, Tenn., March 3, 2021 \u2014 FedEx Corp., home of the world's largest cargo airline, announced today an ambitious goal to achieve carbon-neutral operations globally by 2040. To help reach this goal, FedEx is designating more than $2 billion of initial investment in three key areas: vehicle electrification, sustainable energy, and carbon ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311292+00:00",
+              "published_date": null,
+              "source_hash": "e21e7675b0e6ce0143702c1408131cfa"
+            },
+            {
+              "url": "",
+              "title": " United States House Committee on Transportation and Infrastructure ...",
+              "snippet": "ambitious new goal to achieve carbon-neutral operations globally by 2040, which I look forward to discussing in detail today. FedEx Corporation FedEx has grown tremendously since its first night of operations in April of 1973. FedEx Corporation now consists of six independent operating companies that work collaboratively to",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311304+00:00",
+              "published_date": null,
+              "source_hash": "b327bc520af0be7ec5d45768a3976093"
+            },
+            {
+              "url": "",
+              "title": "FedEx, Stakeholders: Investments, Partnerships Key ... - Transport Topics",
+              "snippet": "Investing in infrastructure and adopting policies that enhance the movement of freight would help address the country's climate change concerns, the head of FedEx Corp. told federal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311314+00:00",
+              "published_date": null,
+              "source_hash": "8f0694a9a50c926d29fcdb18f5600eee"
+            },
+            {
+              "url": "",
+              "title": "FedEx Sustainability Bond Framework Second-Party Opinion",
+              "snippet": "FedEx Corporation's Sustainability Finance Committee will establish the Eligible Project Portfolio to include Eligible Projects and ensure proceeds are allocated accordingly. FedEx Corporation may temporarily use the balance of unallocated proceeds for the settlement of outstanding debts or invest them in other capital management activities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311326+00:00",
+              "published_date": null,
+              "source_hash": "f87885c47616563d958132af0616457f"
+            },
+            {
+              "url": "",
+              "title": "ESG - Governance - Political Activity and Contributions - FedEx",
+              "snippet": "This organization is led by the Corporate Vice President for Government and Regulatory Affairs, who reports directly to the FedEx Executive Vice President, General Counsel and Secretary. ... to working across the aviation industry and with government leaders in a positive partnership to achieve net-zero carbon emissions by 2050. FedEx actively ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:21.311336+00:00",
+              "published_date": null,
+              "source_hash": "8d6e45063c0c7494242157d08df36ebd"
+            },
+            {
+              "url": "",
+              "title": "New solar installations to reduce emissions at 2 Connecticut FedEx facilities",
+              "snippet": "zero-emission energy. \"By embracing renewable energy, FedEx is not only making strides in reducing its carbon footprint but also setting a powerful example for other businesses on how to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:24.818272+00:00",
+              "published_date": "2024-12-11T18:38:00+00:00",
+              "source_hash": "652c1ee2016bba6171baa41c380967d6"
+            },
+            {
+              "url": "",
+              "title": "FedEx is going all-electric. It will invest $2 billion in a zero-emissions delivery fleet and other carbon-cutting measures by 2040, it said.",
+              "snippet": "FedEx's entire parcel pickup and delivery fleet will be zero-emission electric vehicles by 2040, the delivery giant said Wednesday, as it announced plans to make its global operations carbon-neutral.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "FedEx Corp FedEx Corp carbon emissions and sustainability controversies",
+              "retrieved_at": "2025-01-06T18:13:24.818416+00:00",
+              "published_date": "2021-03-03T12:35:00+00:00",
+              "source_hash": "1dbf33c8e7a1f063f167a8881f42b393"
+            },
+            {
+              "url": "",
+              "title": "The 10 Biggest FedEx Lawsuits in Company History - Lawyer Inc",
+              "snippet": "FedEx didn't receive the response they hoped to hear. The judge reaffirmed the judgment. The judge ordered the FedEx Corporation to pay after losing its bid for appeal. 3. FedEx sued for wage and hour violations Settlement amount: $204 million. FedEx became the defendant in a class-action lawsuit for wage and hour violations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398519+00:00",
+              "published_date": null,
+              "source_hash": "490a06171e8d1a1bbf90bd557f344a3e"
+            },
+            {
+              "url": "",
+              "title": "FedEx Evades Supreme Court Look at Wage, Hour Jurisdiction Fight",
+              "snippet": "The US Supreme Court declined to consider whether former FedEx Corp. employees who live and worked outside of Pennsylvania can opt into a federal collective action accusing the multinational shipping company of robbing them of overtime pay.. The justices' decision Monday to pass on the case leaves in place the issue of whether a federal judge can allow out-of-state plaintiffs to join a Fair ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398640+00:00",
+              "published_date": null,
+              "source_hash": "8b251bab7423ee8bfd8e3e455c7736c9"
+            },
+            {
+              "url": "",
+              "title": "15K FedEx drivers file class action over OT wages",
+              "snippet": "Five recent FedEx class action lawsuits accuse the logistics company of failing to pay drivers all of the overtime pay they earned, Law360 reports. About 15,000 drivers took legal action against FedEx Ground Package System Inc. and FedEx Corp. in five FedEx class action lawsuits filed on August 6.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398660+00:00",
+              "published_date": null,
+              "source_hash": "19887d222ea7208d6e6c6d912d078c73"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit could launch different type of legal battle between FedEx ...",
+              "snippet": "In 2015 and 2016, FedEx Ground paid more than $450 million to settle multiple lawsuits alleging that the FedEx Corp. ground delivery unit classified its delivery driver workforce as independent contractors when in reality they functioned as employees entitled to the benefits that come with that status.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398673+00:00",
+              "published_date": null,
+              "source_hash": "edce619faf71b9dcef9882e2fa59518b"
+            },
+            {
+              "url": "",
+              "title": "FedEx Drivers, FedEx Corp. pays $253,000 settlement to five employees ...",
+              "snippet": "Chicago, IL: (Nov-06-07) The National Labor Relations Board brought charges against FedEx Corp., alleging that the company had unfair labor practices. The suit was filed on behalf of the Teamsters ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398687+00:00",
+              "published_date": null,
+              "source_hash": "202d2eed375553213c5fbcf4daf118f6"
+            },
+            {
+              "url": "",
+              "title": "FedEx Fights Off Worker Bid for Class Status in Overtime Case",
+              "snippet": "FedEx Ground Package System Inc. defeated delivery drivers' attempt to pursue New Mexico wage-and-hour allegations as a group after a federal judge declined to certify a class. A \"central issue\" in the case is whether the shipping firm counts as the drivers' employer. The workers failed to show that common issues predominate over individual ones and that there's an administratively ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398699+00:00",
+              "published_date": null,
+              "source_hash": "dfd2d23bf24b31d3e19d53619df6347e"
+            },
+            {
+              "url": "",
+              "title": "What Happened to FedEx: A Look at the Company's Recent Struggles",
+              "snippet": "The company expanded rapidly, and by the 1980s, it had become a global corporation with a diverse range of services. However, in recent years, FedEx has faced a number of challenges that have put its growth and profitability in jeopardy. ... Understanding How Labor Disputes Have Affected FedEx's Operations and Brand Image ... In the wake of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398711+00:00",
+              "published_date": null,
+              "source_hash": "d73cf465afcf020e78bf23f047f944a7"
+            },
+            {
+              "url": "",
+              "title": "Wallace v. FedEx Corp.: A Study in an Employer's Notice Requirement ...",
+              "snippet": "Fedex Corp. from the Sixth Circuit Court of Appeals deals with the rocky intersection between the statute's employee and employer notice requirements. This case specifically focused on the notice and health certification requirements as set out in the FMLA's regulations, 29 C.F.R. \u00a7 825.305 .",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398724+00:00",
+              "published_date": null,
+              "source_hash": "13c88786d3245a9ff33d918c176494ed"
+            },
+            {
+              "url": "",
+              "title": "Circuit Courts remind employers that notice is ... - Employer Law Report",
+              "snippet": "FedEx Corp. the Sixth Circuit affirmed the trial court's ruling, finding that FedEx failed to comply with the FMLA notice requirements and that the Wallace's termination interfered with her ongoing FMLA leave. The Court reminds employers that 29 C.F.R. \u00a7825.305(d) states, \"at the time the employer requests certification, the employer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398741+00:00",
+              "published_date": null,
+              "source_hash": "b1eddda03f98c229b13447096b580a42"
+            },
+            {
+              "url": "",
+              "title": "FedEx employees seek to preserve collective-action ... - SCOTUSblog",
+              "snippet": "Fischer v. Federal Express Corp. 22-396 Issue: Whether a federal court has the authority, absent general personal jurisdiction over the defendant or the defendant's consent, to maintain a Fair Labor Standards Act collective action that includes opt-in plaintiffs who worked for the defendant outside the state where the court is located ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "FedEx Corp FedEx Corp labor disputes and legal challenges",
+              "retrieved_at": "2025-01-06T18:13:27.398755+00:00",
+              "published_date": null,
+              "source_hash": "3d79df84a73901b40f4b08803a52a098"
+            },
+            {
+              "url": "",
+              "title": "Corporate Integrity & Compliance - FedEx",
+              "snippet": "Explore FedEx Corporate Integrity & Compliance policies. Get to know the FedEx Code of Conduct. ... Now in its 18th year, the annual World's Most Ethical Companies designation honors organizations that display exceptional ethics, compliance, and governance practices. FedEx is being recognized for the second consecutive year and is the only ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380223+00:00",
+              "published_date": null,
+              "source_hash": "2d4611af959ca3cb65cbac514cc738cf"
+            },
+            {
+              "url": "",
+              "title": " CONTENT INDEX - images.fedex.com",
+              "snippet": "2022 ESG Report: Introduction > About FedEx (pg. 4) 2022 ESG Report: Our people > Our culture (pg. 25-26) 2022 ESG Report: Our principles > Corporate integrity and compliance (pg. 8-9) Code of Conduct 102-17 Mechanisms for advice and concerns about ethics 2022 ESG Report: Our principles > Corporate integrity and compliance (pg. 8-9) Code ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380336+00:00",
+              "published_date": null,
+              "source_hash": "eb55ceb27b91b812f4058d9c147ef02c"
+            },
+            {
+              "url": "",
+              "title": " GRI content index SASB content index TCFD content index 2021 ESG Report ...",
+              "snippet": "Content index FedEx 4 Disclosure number Disclosure title Location/explanation 102-17 Mechanisms for advice and concerns about ethics 2021 ESG Report: Governance > Corporate integrity and compliance (pg. 27-28) Code of Conduct 102-18 Governance structure 2021 ESG Report: Introduction > Global ESG governance (pg. 5-6) 2020 Proxy Statement",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380364+00:00",
+              "published_date": null,
+              "source_hash": "09b6d2d6782d1a8395fef6d9b566644c"
+            },
+            {
+              "url": "",
+              "title": "FedEx's Ethical Practices | FedEx",
+              "snippet": "We rely on managers to support team members in doing the right thing, the right way. Our managers have a heightened responsibility to promote ethical behavior, build trust, and lead by example. FedEx expects all managers to: Know and follow the Code; Talk about the key messages in the Code with team members",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380375+00:00",
+              "published_date": null,
+              "source_hash": "e76f62812e36c9bdfa9a2c3788c0239a"
+            },
+            {
+              "url": "",
+              "title": "World's Most Ethical Companies Deep Dive: FedEx",
+              "snippet": "In the time it takes to read this interview, a FedEx delivery vehicle will probably drive past your home or office at least once. Such is the omnipresence of one of the world's foremost transportation, e-commerce, and business services. For Chief Compliance Officer Justin Ross, overseeing a compliance and ethics program that brings it all\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380386+00:00",
+              "published_date": null,
+              "source_hash": "3101059300e39e735ebf0fdcbb8e75e8"
+            },
+            {
+              "url": "",
+              "title": " An inside look at FedEx's corporate transparency - Compliance Week",
+              "snippet": "With the help of a consulting firm, FedEx held \"a series of discussions with key exter-nal stakeholders representing nongovernmental organizations, academics, and media, as well as our customers and business partners, who were asked both prompted and un - prompted questions about their views of environmental, social, and ethical issues that",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380401+00:00",
+              "published_date": null,
+              "source_hash": "9c3b6cf80640c101db18307301620cbb"
+            },
+            {
+              "url": "",
+              "title": "Ways To Speak Up | Policies - FedEx",
+              "snippet": "FedEx Corporation Attn: Executive Vice President, General Counsel and Secretary 942 South Shady Grove Road Memphis, Tennessee 38120. Additional information on making a Report and raising other concerns is provided in FedEx's Global Policy on Reporting Concerns. Amended March 3, 2023",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380412+00:00",
+              "published_date": null,
+              "source_hash": "28e99f509608065c490f057e462a2316"
+            },
+            {
+              "url": "",
+              "title": " ESG topics in our 2020 \ufb01scal - FedEx",
+              "snippet": "Corporate Governance FedEx is committed to the highest levels of ethics, integrity, and reliability. A strong governance framework, starting with the FedEx Board of Directors and its committees, supports all priorities across the enterprise. The oversight provided by the board and its committees, which includes our corporate",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380421+00:00",
+              "published_date": null,
+              "source_hash": "23a6dea4a47299f53ad32906a52a091d"
+            },
+            {
+              "url": "",
+              "title": "Ethisphere Names FedEx as One of the 2024 World's Most Ethical ...",
+              "snippet": "Annual recognition highlights organizations that have demonstrated a commitment to business integrity through robust ethics, compliance, and governance programs March 04, 2024 04:20 PM MEMPHIS, Tenn. March 4, 2024 - FedEx Corp. (NYSE: FDX), one of the world's largest express transportation companies, has received the 2024 World's Most Ethical Companies \u00ae recognition by Ethisphere, a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380432+00:00",
+              "published_date": null,
+              "source_hash": "54e5b5165942ce74389d3d760ddaf8d8"
+            },
+            {
+              "url": "",
+              "title": "Ethisphere Names FedEx as One of the 2023 World's Most Ethical Companies\u00ae",
+              "snippet": "MEMPHIS, TN - March 13, 2023. FedEx Corp. (NYSE: FDX), one of the world's largest express transportation companies, has been recognized by Ethisphere, a global leader in defining and advancing the standards of ethical business practices, as one of the 2023 World's Most Ethical Companies.. FedEx is being recognized for the first time and is the only honoree in the Transportation/Trucking ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:33.380442+00:00",
+              "published_date": null,
+              "source_hash": "e5a1c8541f553eb6c1f2f2c7eeabf083"
+            },
+            {
+              "url": "",
+              "title": "FedEx Corporation To Spin Off FedEx Freight Business In 1H26",
+              "snippet": "The Company intends to execute the planned separation through a capital markets transaction, creating two independent, publicly listed, industry-leading companies.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "FedEx Corp FedEx Corp public controversies and ethical concerns",
+              "retrieved_at": "2025-01-06T18:13:36.847125+00:00",
+              "published_date": "2025-01-03T16:24:00+00:00",
+              "source_hash": "015371ca559bd89cf62b013fe4cf1aa2"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "FedEx Corp carbon emissions and sustainability controversies",
+              "rationale": "Assess environmental impact and public perception of sustainability efforts",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "FedEx Corp labor disputes and legal challenges",
+              "rationale": "Investigate ongoing labor issues and legal risks related to worker classification",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "FedEx Corp public controversies and ethical concerns",
+              "rationale": "Explore public controversies, including customer complaints and ethical practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:13:55.772107",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

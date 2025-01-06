@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:59:04.460331",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Lucid Group Inc",
+      "symbol": "LCID",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Production and supply chain challenges, including semiconductor shortages and below-expectation production figures",
+            "Financial instability and reliance on external funding, particularly from the Saudi Arabian Public Investment Fund (PIF)",
+            "Intense competition in the luxury EV market from established players like Tesla and emerging rivals",
+            "Regulatory and environmental risks, including compliance with evolving regulations and battery recycling requirements"
+          ],
+          "controversies": [
+            "Allegations of unfair labor practices, including illegally firing employees for union support",
+            "Settlement with the National Labor Relations Board requiring Lucid to rescind layoffs and reinstate affected workers"
+          ],
+          "environmental_issues": [
+            "Compliance with evolving environmental regulations and battery recycling requirements could increase operational costs"
+          ],
+          "social_issues": [
+            "Allegations of unfair labor practices and damage to reputation due to labor controversies"
+          ],
+          "governance_issues": [
+            "Reliance on external funding from the Saudi Arabian Public Investment Fund (PIF) may not be sustainable in the long term"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Lucid Announces Third Quarter 2024 Financial Results - Lucid Motors",
+              "snippet": "Lucid uses its ir.lucidmotors.com website as a means of disclosing material non-public information and for complying with its disclosure obligations under Regulation FD. About Lucid Group Lucid (NASDAQ: LCID) is a Silicon Valley-based technology company focused on creating the most advanced EVs in the world. The flagship vehicle, Lucid Air ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383780+00:00",
+              "published_date": null,
+              "source_hash": "3c8bffd7aa12442c70d1f6b003cf8a06"
+            },
+            {
+              "url": "",
+              "title": "Lucid Announces Q4 Production & Deliveries, Sets Date for Fourth ...",
+              "snippet": "NEWARK, Calif., Jan. 6, 2025 /PRNewswire/ -- Lucid Group, Inc. (NASDAQ: LCID), maker of the world's most advanced electric vehicles, today announced production and delivery totals for the quarter ended December 31, 2024.During this period, Lucid produced 3,386 vehicles and delivered 3,099 vehicles, of which approximately 7% were subject to operating lease accounting. 1",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383903+00:00",
+              "published_date": null,
+              "source_hash": "2efae8e0aebb34d1f46b6c8f299985ad"
+            },
+            {
+              "url": "",
+              "title": "Lucid Announces Q4 Production & Deliveries, Sets Date for Fourth ...",
+              "snippet": "Lucid Group, Inc. (NASDAQ: LCID), maker of the world's most advanced electric vehicles, today announced production and delivery totals for the quarter ended December 31, 2024. During this period ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383921+00:00",
+              "published_date": null,
+              "source_hash": "07121ac1b4d6cfa042869350b1a98c50"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group, Inc. (LCID): SWOT Analysis [11-2024 Updated] - dcf-fm",
+              "snippet": "This vulnerability can lead to production delays and increased costs. Lucid Group, Inc. (LCID) - SWOT Analysis: Opportunities ... Any negative media coverage or product recalls can significantly impact consumer trust. Lucid Group has faced scrutiny in the past regarding production delays and quality control issues. ... Financial Statements ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383933+00:00",
+              "published_date": null,
+              "source_hash": "370b6db177339c9330746029d2bb055d"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group's SWOT analysis: luxury EV maker's stock faces production ...",
+              "snippet": "Lucid Group, Inc. (NASDAQ:LCID), a luxury electric vehicle (EV) manufacturer with a market capitalization of $7.8 billion, has been making waves in the automotive industry with its advanced ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383943+00:00",
+              "published_date": null,
+              "source_hash": "18d935a6d268a1cd34432beb3eb6489e"
+            },
+            {
+              "url": "",
+              "title": "Lucid Announces Third Quarter 2024 Financial Results",
+              "snippet": "NEWARK, Calif., Nov. 7, 2024 /PRNewswire/ -- Lucid Group, Inc. (NASDAQ: LCID), maker of the world's most advanced electric vehicles, today announced financial results for its third quarter ended ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383952+00:00",
+              "published_date": null,
+              "source_hash": "4bf358da9d666b5c7a37f5a94defb0f7"
+            },
+            {
+              "url": "",
+              "title": "Lucid Shares Fall to All-Time Low on Tumbling Production, Deliveries",
+              "snippet": "Lucid Group Inc. \"Lucid Announces Fourth-Quarter and Full Year 2022 Financial Results, Exceeds Annual Production Guidance With 3,493 Vehicles in Q4 and 7,180 in the Full Year 2022.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383962+00:00",
+              "published_date": null,
+              "source_hash": "c6a331f23357aba17e3a06d291b5c630"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group, Inc. Reports Production Results for the Fourth Quarter and ...",
+              "snippet": "Lucid Group, Inc. reported production results for the fourth quarter and full year ended December 31, 2024. During this quarter, Lucid produced 3,386 vehicles and delivered 3,099 vehicles, of which approximately 7% were subject to operating lease accounting.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383971+00:00",
+              "published_date": null,
+              "source_hash": "3ab1a3209db3b5db0d7a05460d2fc12c"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group Faces Financial Challenges: Sell Rating Issued Amid Stock ...",
+              "snippet": "In a report released yesterday, Adam Jonas from Morgan Stanley maintained a Sell rating on Lucid Group (LCID - Research Report), with a price target of $3.00. Adam Jonas has given his Sell ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383982+00:00",
+              "published_date": null,
+              "source_hash": "19880875bcf4270cda755c64ca10d404"
+            },
+            {
+              "url": "",
+              "title": "Lucid's Production And Deliveries Surge In Q4: Details",
+              "snippet": "Lucid produced 3,386 vehicles and delivered 3,099 vehicles in Q4. Lucid delivered 10,241 vehicles in 2024. Lucid Group, Inc. LCID shares are trading higher Monday after the company announced its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:34.383991+00:00",
+              "published_date": null,
+              "source_hash": "58042020ca5e19c71f19db559c81c0a0"
+            },
+            {
+              "url": "",
+              "title": "Lucid's Production And Deliveries Surge In Q4: Details",
+              "snippet": "Lucid said it produced 3,386 vehicles and delivered 3,099 vehicles for the quarter ended December, a 42% and 78.7% jump, respectively, from a year ago.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:36.313482+00:00",
+              "published_date": "2025-01-06T14:54:00+00:00",
+              "source_hash": "8eb607caa734f1e58af4ab6cd3ad4ecd"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group produced 3,386 vehicles, delivered 3,099 vehicles during Q4",
+              "snippet": "Lucid Group (LCID) announced production and delivery totals for the quarter ended December 31, 2024. During this period, Lucid produced 3,386",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:36.313515+00:00",
+              "published_date": "2025-01-06T14:05:00+00:00",
+              "source_hash": "04824305aa82dde13abf49de8bf2881a"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group (NASDAQ:LCID) Shares Up 7.6% - Here's What Happened",
+              "snippet": "Lucid Group, Inc. (NASDAQ:LCID - Get Free Report)'s stock price was up 7.6% during mid-day trading on Friday . The stock traded as high as $3.27 and last traded at $3.26. Approximately 36,378,723 shares traded hands during mid-day trading,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:36.313524+00:00",
+              "published_date": "2025-01-05T12:01:00+00:00",
+              "source_hash": "d3ffa3fba95f8895253461c53b460ac0"
+            },
+            {
+              "url": "",
+              "title": "LCID Unveiled: The Shocking Truth Behind Lucid Group Inc's Latest Stock Movements",
+              "snippet": "Lucid Group Inc (LCID) stock saw a modest uptick, ending the day at $3.2 which represents a slight increase of $0.10 or 3.23% from the prior close of $3.1. The stock opened at $3.1 and touched a low of $3.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:36.313531+00:00",
+              "published_date": "2024-12-26T15:00:00+00:00",
+              "source_hash": "faf2d899b10ec8baea7b78bf9ee22910"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group Shares Are On The Rise Today: What You Need To Know",
+              "snippet": "Discover Fast-Growing Stocks Every Month Lucid Group, Inc. LCID shares are trading higher Friday after the company announced that commenced production of its second vehicle, the Gravity SUV.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lucid Group Inc Lucid Group Inc production delays and financial impact",
+              "retrieved_at": "2025-01-06T20:58:36.313538+00:00",
+              "published_date": "2024-12-06T14:58:00+00:00",
+              "source_hash": "954bfb4331471ba070393ab1de72714b"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group Inc - National Labor Relations Board",
+              "snippet": "Employee Rights; Interference with Employee Rights; Employer/Union Rights and Obligations; Your Right to Discuss Wages; Weingarten Rights; NLRA and the Right to Strike; Retaliation Based on Exercise of Workplace Rights Is Unlawful; The Law. National Labor Relations Act; What is the Law; Jurisdictional Standards; Our Enforcement Activity. 10(j ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882527+00:00",
+              "published_date": null,
+              "source_hash": "7efc4111d92cef2fd364c6f867522eb0"
+            },
+            {
+              "url": "",
+              "title": "Region 32-Oakland Secures Settlement Requiring Lucid to Rescind ...",
+              "snippet": "On March 5, 2024, Region 32-Oakland Regional Director Valerie Hardy-Mahoney approved an agreement settling a case against Lucid Group, Inc. (Employer), an electric vehicle manufacturer, based on an unfair labor practice charge filed by its former employees who had been laid off under a May 2023 reduction in force.. The unfair labor practice charge filed in August 2023 alleged that the Employer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882586+00:00",
+              "published_date": null,
+              "source_hash": "85b6bcc0021deb0745d8958d9bdc0332"
+            },
+            {
+              "url": "",
+              "title": "EV maker Lucid illegally fired workers for union support, U.S. labor ...",
+              "snippet": "Electric-vehicle startup Lucid Group Inc. illegally fired two employees because they joined and supported the United Auto Workers, U.S. labor board prosecutors alleged in a complaint.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882599+00:00",
+              "published_date": null,
+              "source_hash": "89cb4a5717ddecccd0dfd3c51399cfbf"
+            },
+            {
+              "url": "",
+              "title": "Federal Judge Orders Lucid to Rehire Workers Fired During Unionization ...",
+              "snippet": "Now, Federal judge in Arizona Diane J. Humetewa has granted an NLRB official's petition for an injunction against Lucid Motors, Law360 reported on Wednesday. The court has ordered the company to reinstate the two employees fired during the UAW organizing campaign and to implement additional measures to address the unfair labor practices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882609+00:00",
+              "published_date": null,
+              "source_hash": "2f530a34ca5af0c3968bdd52026be0c0"
+            },
+            {
+              "url": "",
+              "title": "Lucid Faces NLRB Petition for Court Order to Reinstate Workers",
+              "snippet": "Lucid USA Inc. faces a National Labor Relations Board bid for an immediate court order requiring the electric carmaker to bring back two union organizers who were fired in an alleged effort to squash a United Auto Workers campaign at an Arizona manufacturing facility. The NLRB's Phoenix regional director also wants a federal court to bar Lucid from committing unfair labor practices, and to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882618+00:00",
+              "published_date": null,
+              "source_hash": "de9cfa542abc48dbcea3aa5b34738792"
+            },
+            {
+              "url": "",
+              "title": "NLRB Alleges Lucid Fired Employees For Attempting to Unionize",
+              "snippet": "The National Labor Relations Board now has its sights set on Lucid, filing a complaint accusing the automaker of terminating two employees who actively supported a United Auto Workers (UAW) union organizing effort.On Tuesday, a complaint was submitted by the NLRB's regional director in Arizona, home to Lucid's factory AMP-1, after launching an inquiry into the dismissals in the early part ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882628+00:00",
+              "published_date": null,
+              "source_hash": "dea58136ff10a80041e37d5270733787"
+            },
+            {
+              "url": "",
+              "title": "NLRB complaint alleges Lucid fired employees for union effort",
+              "snippet": "A federal labor regulator has filed a complaint against electric vehicle maker Lucid, accusing the company of firing two employees who supported a United Auto Workers union organizing effort at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882636+00:00",
+              "published_date": null,
+              "source_hash": "136cc7a7629963b2ff75c99445c9a873"
+            },
+            {
+              "url": "",
+              "title": "Region 28-Phoenix Wins Injunction Requiring Lucid USA Inc. to Reinstate ...",
+              "snippet": "On September 13, 2024, United States District Judge Diane J. Humetewa of the District Court of Arizona issued an injunction order requiring Casa Grande, Arizona-based electric vehicle manufacturer Lucid USA Incorporated to offer interim reinstatement to two employees, cease and desist from violating labor law, physically post copies of the Court's Order, and convene one or more mandatory ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882644+00:00",
+              "published_date": null,
+              "source_hash": "2b388ab940b9e39ef25226378fa95c3c"
+            },
+            {
+              "url": "",
+              "title": "Ensuring Your Severance Agreements Are Lawful | CDF Labor Law LLP",
+              "snippet": "In August 2023, former employees of Lucid Group, Inc. (Lucid), an electric car manufacturer, who were laid off due to a May 2023 company reduction in force, filed an unfair labor practice charge against Lucid, alleging that the severance agreement offered to all of them was unlawful as its confidentiality provisions discouraged and prevented ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882653+00:00",
+              "published_date": null,
+              "source_hash": "0893b7e1aec2e3d8d7f26e4d9f8b3296"
+            },
+            {
+              "url": "",
+              "title": "Luxury Electric Carmaker Reaches Deal Over Severance Pact",
+              "snippet": "The unfair labor practice charge alleged that Lucid's severance agreement had a nondisparagement clause that could dissuade workers from taking part in protected concerted activities in violation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lucid Group Inc Lucid Group Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T20:58:37.882662+00:00",
+              "published_date": null,
+              "source_hash": "612399acc0de5e138d4216d344b5a8c9"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Lucid Motors",
+              "snippet": "Lucid creates sustainable and efficient zero-emission luxury electric vehicles that make the most responsible use of the earth's resources. ... Check out our social/environmental impact. Our 2023 Sustainability Report provides a qualitative description of the sustainable impact of our products and processes. It outlines our first steps in our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983075+00:00",
+              "published_date": null,
+              "source_hash": "7ba7ded8e828caab60e9e1c332de9513"
+            },
+            {
+              "url": "",
+              "title": "PESTEL Analysis of Lucid Group, Inc. (LCID) - dcf-fm",
+              "snippet": "A survey indicated that 70% of potential car buyers consider the environmental impact of their vehicle choices, a significant increase from 50% in 2020. ... In compliance with the Battery Recycling Act, Lucid Group has established a program for end-of-life battery disposal and recycling. The company collaborates with certified battery recyclers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983131+00:00",
+              "published_date": null,
+              "source_hash": "ce96bca93c8ff10fe69d1bc730d61115"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group Inc 2023 Sustainability Report",
+              "snippet": "Lucid Group Inc 2023 Sustainability Report. The report highlights Lucid's commitment to sustainability, focusing on the efficiency of its electric vehicles and the environmental and social impacts of its operations. The company has achieved several milestones in its first year of production, including achieving ISO 9001:2015 certification for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983143+00:00",
+              "published_date": null,
+              "source_hash": "edd2ac1f4c31a5573d3551ce8355b2a3"
+            },
+            {
+              "url": "",
+              "title": "Lucid Plans Second Life For Recycled EV Batteries In Energy Storage",
+              "snippet": "Lucid believes that it can recycle every battery from its vehicles and make a handsome profit at the same time. The Problem The lifespan of a battery used to power an EV averages out to roughly ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983153+00:00",
+              "published_date": null,
+              "source_hash": "fc2f6b82faa25b035c97f878f9320f38"
+            },
+            {
+              "url": "",
+              "title": "Our Journey to Sustainability - Lucid Motors",
+              "snippet": "Lucid Group has the technical leadership, groundbreaking design, and pioneering spirit to create inspiring products with lower environmental impact. We believe that being truly sustainable means never settling when it comes to our environmental and social impact and we are in the early stages of building a holistic approach in this area.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983162+00:00",
+              "published_date": null,
+              "source_hash": "39a68079dcc22148144201aefa9c8cb9"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Lucid Motors",
+              "snippet": "We strive to reduce the environmental impact of manufacturing while maintaining our relentless drive to produce high-quality vehicles for our customers. We currently have a 1 mega-watt (MW) capacity solar power system in Arizona (with a total capacity of 2 MW across all sites) and we are actively working to increase usage of renewable energy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983170+00:00",
+              "published_date": null,
+              "source_hash": "0d5cbd222dba4268bff684bf449a1bba"
+            },
+            {
+              "url": "",
+              "title": "Lucid Commits To Sustainability With UN Global Compact Membership",
+              "snippet": "This same technology and innovative approach can similarly enable smaller, lower-cost battery packs that retain competitive range \u2014 which in turn will benefit the environment by requiring fewer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983179+00:00",
+              "published_date": null,
+              "source_hash": "f43309300535431b167adb40aefedbe5"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Lucid Group, Inc. Newark, CA May 31, 2022 Ms. Liane Randolph Chair, California Air Resources Board ... environmental impact of ZEVs and advancing ZEV efficiency is the best way to align ACC II with ... even for model year 2026 technology and conservative assumptions around battery pack costs ($95.30/kWh), BEV efficiency (3.7 mi/kWh), and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983190+00:00",
+              "published_date": null,
+              "source_hash": "c79bc84e1b659d27f2615fb2bd47a8c3"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "Lucid Group Inc is a technology and automotive company. It develops the next generation of electric vehicle (EV) technologies. It is a vertically integrated company that designs, engineers, and builds electric vehicles, EV powertrains, and battery systems in-house using our own equipment and factory.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983199+00:00",
+              "published_date": null,
+              "source_hash": "7655689705f11320d4a3384d636aa12e"
+            },
+            {
+              "url": "",
+              "title": "Lucid Group's Business Profile Arguably Makes the Most Sense",
+              "snippet": "Lucid Group makes the most sense (arguably) because its business model addresses environmental and economic concerns. The current volatility in LCID stock looks like a discount as opposed to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:41.983207+00:00",
+              "published_date": null,
+              "source_hash": "25440182a8ae253702cf2028d8bf62de"
+            },
+            {
+              "url": "",
+              "title": "Why Is Lucid Group (LCID) the Best Small Cap EV Stock to Invest In?",
+              "snippet": "We recently compiled a list of the 11 Small Cap EV Stocks to Invest In. In this article, we are going to take a look at where Lucid Group Inc. (NASDAQ:LCID) stands against the other small-cap EV stocks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:45.390918+00:00",
+              "published_date": "2024-12-22T14:50:32+00:00",
+              "source_hash": "d653a52778cc64c32ea75f385b1a8fe6"
+            },
+            {
+              "url": "",
+              "title": "Lucid, Graphite One enter supply deal for EV battery-ready anode material",
+              "snippet": "Lucid Group (NASDAQ:LCID) has signed a non-binding ... the firm's Phase 1 production target of 25,000 tonnes per year of battery-ready anode material. In addition, land is available for follow ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Lucid Group Inc Lucid Group Inc battery disposal and environmental impact",
+              "retrieved_at": "2025-01-06T20:58:45.390964+00:00",
+              "published_date": "2024-07-25T11:50:00+00:00",
+              "source_hash": "c104686292860696b88df61700fa74ee"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Lucid Group Inc production delays and financial impact",
+              "rationale": "Investigate the extent of production delays and their financial implications on the company's performance",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Lucid Group Inc labor practices and employee relations",
+              "rationale": "Examine labor practices and employee relations to identify any ethical or social concerns",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Lucid Group Inc battery disposal and environmental impact",
+              "rationale": "Assess the environmental impact of battery disposal and recycling practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:59:04.460341",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:15:05.070953",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "BOK Financial Corp",
+      "symbol": "BOKF",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Significant exposure to the energy sector, particularly oil and gas lending, leading to vulnerability to economic downturns, regulatory changes, and commodity price volatility",
+            "Regulatory and legal challenges, including fines for investor protection violations and reporting deficiencies",
+            "Cybersecurity risks due to being a prime target for cyberattacks",
+            "Intense competition from larger national banks and fintech companies, particularly in digital banking and wealth management"
+          ],
+          "controversies": [
+            "$1.6 million SEC fine in 2016 for investor protection violations",
+            "$110,000 FINRA fine in 2023 for reporting deficiencies in TRACE-eligible securities transactions",
+            "Ongoing regulatory oversight in areas like anti-money laundering (AML), data privacy, and municipal bond oversight"
+          ],
+          "environmental_issues": [
+            "Continued focus on energy lending despite ESG concerns, potentially conflicting with broader ESG trends"
+          ],
+          "social_issues": [
+            "Potential reputational risks due to significant exposure to the energy sector amid growing ESG pressures"
+          ],
+          "governance_issues": [
+            "Regulatory penalties and ongoing oversight indicating potential governance weaknesses",
+            "SEC action against a former executive for fraudulent bond offerings"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "bok-financial | Violation Tracker - Good Jobs First",
+              "snippet": "Current Parent Company Name: BOK Financial Ownership Structure: publicly traded (ticker symbol BOKF) Headquartered in: Oklahoma Major Industry: financial services ... Penalty Amount ; BOK Financial Corporation: investor protection violation: 2016: SEC $1,667,720: BOK Financial Corporation dba the Bank of Albuquerque: employment discrimination ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270218+00:00",
+              "published_date": null,
+              "source_hash": "4525e92efecc807456f255e2cb553c40"
+            },
+            {
+              "url": "",
+              "title": "FINRA fines BOK Financial Securities for reporting deficiencies",
+              "snippet": "BOK Financial Securities, Inc. has agreed to pay a fine of $110,000 as a part of a settlement with FINRA. From December 2016 to August 2023, due to its traders' failures to manually enter the correct field in the firm's TRACE reporting system, BOK Financial failed to include the NR Indicator in TRACE reports for approximately 24,200 transactions in TRACE-eligible securities that did not ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270318+00:00",
+              "published_date": null,
+              "source_hash": "6ad4b1fe87e791bcf95b7398509cbdb7"
+            },
+            {
+              "url": "",
+              "title": "SEC fines BOK Financial over municipal bond scheme - The Oklahoman",
+              "snippet": "BOK Financial Corp. has agreed to pay $1.6 million to the Securities and Exchange Commission to settle charges it failed to exercise proper oversight over a series of fraudulent bond offerings by a Georgia businessman. The SEC also filed a complaint against a former senior vice president at the bank, Marrien Neilson.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270337+00:00",
+              "published_date": null,
+              "source_hash": "d14f43de60900ebc42a39e5e780dd3fb"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial, Senior Executive Charged With Turning Blind Eye to ...",
+              "snippet": "The Securities and Exchange Commission today announced that a subsidiary of Oklahoma-based BOK Financial Corporation has agreed to pay more than $1.6 million to settle charges that it concealed numerous problems and red flags from investors in municipal bond offerings to purchase and renovate senior living facilities. ... and cause regulatory ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270352+00:00",
+              "published_date": null,
+              "source_hash": "c4e56c5ae163a782f37dd62a1798b5fe"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial to pay $1.6 million for gatekeeping failures",
+              "snippet": "A BOK Financial Corporation unit has agreed to pay more than $1.6 million to settle civil charges for failing to alert investors to problems in municipal bond offerings that turned out to be part ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270366+00:00",
+              "published_date": null,
+              "source_hash": "4ad75d01721380c88d847878f92d15cc"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Settles SEC Fraud Claims for $1.6M - Bloomberg Law News",
+              "snippet": "Oklahoma-based BOK Financial Corp. agreed to pay more than $1.6 million to settle Securities and Exchange Commission allegations that it hid numerous problems from investors in municipal bond offerings to purchase and renovate senior living facilities (BOKF, NA, SEC, Admin. ... $83,520.63 in interest and a $600,000 civil penalty. The agency ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270378+00:00",
+              "published_date": null,
+              "source_hash": "66f91f679572cb47dc9c0172a4ebd4b6"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial - Regulation F Reporting - Comply with Confidence",
+              "snippet": "BOK Financial For the 9 Months Ended 9/30/2024 : Sept. 30, 2024 BOKF, NA. Sept. 30, 2024 BOK Financial Corporation: Financial Data (Dollars in Thousands)",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270391+00:00",
+              "published_date": null,
+              "source_hash": "e27aca75717e8ea81435e605b803fcfc"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "BOK FINANCIAL SECURITIES, INC. SEC# 17530 8-35381 Main Office Location Mailing Address Business Telephone Number Doing business as BOK FINANCIAL SECURITIES, INC. 918-588-6000 Regulated by FINRA New Orleans Office ONE WILLIAMS CENTER PLAZA SOUTHEAST TULSA, OK 74172 P.O. BOX 2300 TULSA, OK 74192 Other Names of this Firm Name Where is it used",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270402+00:00",
+              "published_date": null,
+              "source_hash": "30ce7e861ffb8016e5ec65bc17b3dab4"
+            },
+            {
+              "url": "",
+              "title": "Municipal Bondholders Sue Bank of Oklahoma Financial",
+              "snippet": "The Commission also filed a case against ex-BOK Financial Corp. Sr. VP Marrien Neilson for not properly overseeing the bond offerings. In another SEC muni bond fraud case also tied to Brogdon, Lawson Financial Corp. has now settled charges brought against it for offerings it underwrote that proved to fraudulent.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270414+00:00",
+              "published_date": null,
+              "source_hash": "4bc8fb7bb4718208012f0b897c5a82ec"
+            },
+            {
+              "url": "",
+              "title": "SEC Filings - BOK Financial Corporation",
+              "snippet": "View Insider related Regulatory Filings: Forms 3, 4 & 5. View Document Grouping descriptions. ... BOK Financial Corporation, including investor and press information: investor.bokf.com. Careers. A great career starts here! Explore our, many opportunities to develop and advance",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp regulatory fines or penalties",
+              "retrieved_at": "2025-01-06T16:14:36.270426+00:00",
+              "published_date": null,
+              "source_hash": "3db5c69b649091bff37128c724b55366"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial still committed to energy lending as some banks pull away",
+              "snippet": "Tulsa, Okla.-based BOK Financial Corp. reported 5.8% loan growth in its energy portfolio during the second quarter. The bank also reported that nonperforming loans increased by $31 million during the quarter, primarily due to three energy loans in the late stages of resolution, management said during their second-quarter earnings call.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.449897+00:00",
+              "published_date": null,
+              "source_hash": "93ed4fd4e00b42fe3d8a1e9b9e629fa8"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Corp. becomes major player in lending ... - OK Energy Today",
+              "snippet": "The list of the regionals included BOK Financial Corp in Oklahoma where there is a 2-year old law in which financial institutions are reviewed for their anti-oil and gas ESG policies. But the Bloomberg report indicated BOK Financial has become one of the world's 30 busiest dealmakers in fossil fuels.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450000+00:00",
+              "published_date": null,
+              "source_hash": "7cf24cab2b55a5a2ec2028dc7903751f"
+            },
+            {
+              "url": "",
+              "title": "Energy lending once again attractive, but this time it's different",
+              "snippet": "and busts of making loans to oil drillers. The $4.2 billion-asset Green Bancorp in Houston decided to exit the sector entirely. Other banks sig-nificantly cut their exposure, includ-ing BBVA Compass, Cullen/Frost Bankers and Comerica. But a few hardy banks kept making a steady stream of loans for oil explo-ration, including BOK Financial in",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450016+00:00",
+              "published_date": null,
+              "source_hash": "2687b44c080a8c02f6b640bf5444b786"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial - Energy Financial Services: Lending & Syndications",
+              "snippet": "We created reserve-based lending in 1910, when Harry Sinclair and other Oklahoma oil industry professionals founded the bank to grant loans to the emerging industry. Today our services include: Loans as high as $100 million. Syndications up to $750 million. Reserves-based loans and term facilities. Acquisition financing. Minerals financing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450028+00:00",
+              "published_date": null,
+              "source_hash": "73f3b7ba113345fb5843388c225b8af9"
+            },
+            {
+              "url": "",
+              "title": "Small Banks Significantly Boost Loans to Oil And Gas Firms",
+              "snippet": "Regional banks BOK Financial, Citizens Financial, Truist Securities, Fifth Third Securities, and US Bancorp have seen their combined loans to the fossil fuel industry jump by over 70% on an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450038+00:00",
+              "published_date": null,
+              "source_hash": "823294b1dccbe42229bd17378bf5d5e9"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "MOODY'S INVESTORS SERVICE FINANCIAL INSTITUTIONS Profile BOK Financial Corporation is headquartered in Tulsa, Oklahoma with $47 billion of total assets, $20 billion of loans, $39 billion of deposits and $5.4 billion of shareholders' equity as of 30 September 2021. Its lead bank, BOKF, NA, primarily operates in seven states throughout the southwest.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450051+00:00",
+              "published_date": null,
+              "source_hash": "98d6966f6ded4445e3a2fa39a3e3de09"
+            },
+            {
+              "url": "",
+              "title": "Some US banks grow lending to energy in Q4'22; BofA carries largest ...",
+              "snippet": "BOK Financial Corp. was the most exposed to the energy sector as of Dec. 31, 2022, with outstanding energy loans accounting for 15.1% of its gross loans. Bank of America Corp., which raised its energy exposure by 6.4% from a year ago, still had the most outstanding loans in the energy sector in the fourth quarter of 2022 at $15.13 billion ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450078+00:00",
+              "published_date": null,
+              "source_hash": "246e909d19ddeb108c9a307e93c1075a"
+            },
+            {
+              "url": "",
+              "title": "Energy driving BOK Financial's growth, but health care is a potential ...",
+              "snippet": "BOK Financial said its energy portfolio in the fourth quarter grew about 14% from a year earlier, to $3.4 billion. Total loans in the fourth quarter were up 8.5% from a year earlier, to about $22 billion. Energy activity bolsters much of BOK Financial's footprint, which spans Texas, Oklahoma, Colorado and neighboring states.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450089+00:00",
+              "published_date": null,
+              "source_hash": "8a96a76efcb53c86376a8eb838e8bc3c"
+            },
+            {
+              "url": "",
+              "title": "BOK stays course on fossil fuel lending while others scale back",
+              "snippet": "The $47 billion-asset BOK Financial expects the oil and gas sector to help it drive loan growth next year after a sluggish 2021. Kymes, who will succeed the retiring Steven Bradshaw, said with energy prices rebounding in 2021 alongside increased demand, oil and gas companies are poised to ramp up investments in drilling and production. He ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450099+00:00",
+              "published_date": null,
+              "source_hash": "3f32a5f5b31b2b0c42de8a5f9cb26f6c"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Joins List of Banks with Deepening Energy Loan Issues",
+              "snippet": "BOK Financial in Tulsa, Okla., is the latest banking company to warn about deepening credit issues in the energy sector.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:40.450110+00:00",
+              "published_date": null,
+              "source_hash": "c12fe3ddacc42677ec31eb2f665471f3"
+            },
+            {
+              "url": "",
+              "title": "Which Is a Better Investment, BOK Financial Corporation or TowneBank Stock?",
+              "snippet": "Learn more about whether BOK Financial Corporation or TowneBank is a better investment based on AAII's A+ Investor grades, which compare both companies' key financial metrics.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:42.955083+00:00",
+              "published_date": "2025-01-01T13:47:00+00:00",
+              "source_hash": "bab4c7576c92202799f47a8dfde752b7"
+            },
+            {
+              "url": "",
+              "title": "9 Analysts Assess BOK Financial: What You Need To Know",
+              "snippet": "The company has various products and services including cash management services, loans and deposits ... among peers in Financials sector. Net Margin: BOK Financial's net margin lags behind ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:42.955184+00:00",
+              "published_date": "2024-12-03T10:00:00+00:00",
+              "source_hash": "8f8a14a112ea56872595733751f2f917"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Corporation (BOKF)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:42.955212+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "b65ed487b3dc71677a76065d5246bf91"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Corporation (BOKF) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "BOK Financial has gained 38.8% since the start of the year compared to the 24.1% move for the Zacks Finance sector and the ... For the next fiscal year, the company is expected to earn $8.51 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:42.955237+00:00",
+              "published_date": "2024-11-07T09:15:00+00:00",
+              "source_hash": "8ecd877a4f793ad495458f427b176eb4"
+            },
+            {
+              "url": "",
+              "title": "Bok Financial (BOKF) Gets a Hold from Wells Fargo",
+              "snippet": "In a report released yesterday, Mike Mayo from Wells Fargo maintained a Hold rating on Bok Financial (BOKF - Research Report), with a price target of $112.00. The company's shares closed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BOK Financial Corp BOK Financial Corp controversies energy sector lending",
+              "retrieved_at": "2025-01-06T16:14:42.955261+00:00",
+              "published_date": "2024-12-03T00:16:00+00:00",
+              "source_hash": "4b9669d79e005aa3e3a71bd3ffeccc50"
+            },
+            {
+              "url": "",
+              "title": "BOK FINANCIAL CORP - (BOKF) - material-incidents.com",
+              "snippet": "BOK FINANCIAL CORP - (BOKF) 10-K Filing Date: February 21, 2024. ... BOK Financial regularly conducts risk assessments to evaluate internal controls implemented to prevent and detect data breaches. These controls are aligned with ISO 27001:2013 and the NIST Cybersecurity Framework and are frequently monitored to ensure their effectiveness ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.545984+00:00",
+              "published_date": null,
+              "source_hash": "44079b68b72c610f3d9c12598992591b"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Security Rating, Vendor Risk Report, and Data Breaches",
+              "snippet": "BOK Financial Corporation is a bank holding company headquartered in the BOK Tower in Tulsa, Oklahoma. The company is 60% owned by George Kaiser, who acquired the bank in 1991 from the FDIC. ... BOK Financial Data Breaches, Cybersecurity Incidents and News. Security incidents, news, and data leaks relating to BOK Financial. Coming soon. No ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546091+00:00",
+              "published_date": null,
+              "source_hash": "def5ad4e3d796e16cb268d2e3db10dcb"
+            },
+            {
+              "url": "",
+              "title": "Cybersecurity Essentials - BOK Financial",
+              "snippet": "The threat of a cyberattack on your business is imminent. Losses from cybercrime totaled more than $10 billion in 2022, according to the FBI. Teams across our organization are on constant alert to combat cyber threats and have prepared a series of videos discussing the threat landscape, how to assess current risks, the importance of employee training and how to respond if an incident occurs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546105+00:00",
+              "published_date": null,
+              "source_hash": "2b19c4b9f433229b95d5068660ae9da4"
+            },
+            {
+              "url": "",
+              "title": "Cyber Liability - scsvc.bokf.com",
+              "snippet": "He joined BOK Financial in 2015. Tucker has a bachelor's degree from Northeastern State University and participated in the CISO Institute at the University of Chicago Booth School of Business, and has contributed to many DHS, TSA, FBI and energy/financial sector special committees on cybersecurity initiatives.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546117+00:00",
+              "published_date": null,
+              "source_hash": "7f30c0a7211996f91c3de97e346b4595"
+            },
+            {
+              "url": "",
+              "title": "Take a byte out of fraud - BOK Financial Corporation",
+              "snippet": "Consider these three stunning incidents that occurred within about a week's time this summer: ... Learn more about BOK Financial's online security or call 844-517-3308 to report suspicious activity on BOK Financial-related accounts. The Cybersecurity and Infrastructure Security Agency also ... BOK Financial Corporation is a more than $50 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546128+00:00",
+              "published_date": null,
+              "source_hash": "d6e4ffe4a9dabbc6f3d488805046019f"
+            },
+            {
+              "url": "",
+              "title": "Cybersecurity governance: Our commitment to safety - BOK Financial",
+              "snippet": "BOK Financial regularly conducts risk assessments to evaluate internal controls implemented to prevent and detect data breaches. These controls are aligned with ISO (International Organization for Standardization) 27001:2013 and the NIST (National Institute of Standards and Technology) Cybersecurity Framework and are frequently monitored to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546137+00:00",
+              "published_date": null,
+              "source_hash": "68def990140fb3bad2ec3545ec482ea6"
+            },
+            {
+              "url": "",
+              "title": "Multibillion-dollar cyberattack affects medical practices across the ...",
+              "snippet": "Cybersecurity insurance is one way to help your business mitigate losses from a variety of cyber-related incidents, including data breaches, business interruption and network damage. ... BOK Financial Corporation is a more than $50 billion regional financial services company headquartered in Tulsa, Oklahoma with more than $105 billion in assets ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546146+00:00",
+              "published_date": null,
+              "source_hash": "e693b08f844399fa56be0a4b736984a8"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Data Breach Investigation - Strauss Borrelli PLLC",
+              "snippet": "Strauss Borrelli PLLC, a leading data breach law firm, is investigating BOKF, NA, which does business as BOK Financial, Bank of Oklahoma, Bank of Texas, and Bank of Albuquerque, regarding its recent data breach. 872.263.1100. Firm; Our Team. Samuel J. Strauss; Raina Borrelli; Carolyn Chen;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546155+00:00",
+              "published_date": null,
+              "source_hash": "9403ccb1960ca35f991bb44760c5a0f8"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Data Breach Investigation - Turke & Strauss LLP",
+              "snippet": "We would like to speak with you about your rights and potential legal remedies in response to this data breach. Please fill out the form, below, or contact us at (608) 237-1775 or sam@turkestrauss.com.. If you were impacted by the BOK Financial data breach, you may consider taking the following steps to protect your personal information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546164+00:00",
+              "published_date": null,
+              "source_hash": "82904a44219dd02e54a1d15b0fcac6d6"
+            },
+            {
+              "url": "",
+              "title": "BOK Financial Cyber Security Rating & Vendor Risk Report ...",
+              "snippet": "View BOK Financial's cyber security risk rating against other vendors' scores. Explore cyber risks, data breaches, and cybersecurity incidents involving BOK Financial",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BOK Financial Corp BOK Financial Corp cybersecurity breaches or incidents",
+              "retrieved_at": "2025-01-06T16:14:44.546172+00:00",
+              "published_date": null,
+              "source_hash": "d8d3c875c930b7170c394a70d21afea9"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "BOK Financial Corp regulatory fines or penalties",
+              "rationale": "Investigate potential legal or regulatory issues related to compliance with financial regulations",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "BOK Financial Corp controversies energy sector lending",
+              "rationale": "Explore ethical concerns or public backlash related to BOKF's exposure to the energy sector",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "BOK Financial Corp cybersecurity breaches or incidents",
+              "rationale": "Assess risks related to cybersecurity and potential impacts on customer data and trust",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:15:05.070961",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

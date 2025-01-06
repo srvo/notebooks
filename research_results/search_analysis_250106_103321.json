@@ -1,0 +1,483 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:33:21.896161",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Remitly Global Inc",
+      "symbol": "RELY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal risks, including ongoing investigations and potential legal liabilities",
+            "Cybersecurity and fraud risks, with vulnerabilities to data breaches and unauthorized transactions",
+            "Competitive pressures in the digital remittance space, with major players like Wise and Western Union",
+            "Operational risks due to reliance on partnerships with banks and payment processors",
+            "Foreign exchange volatility impacting customer satisfaction and margins"
+          ],
+          "controversies": [
+            "Investigation by law firms (Pomerantz LLP and The Schall Law Firm) following a significant stock price decline",
+            "Consumer complaints related to unauthorized transactions and fraud, with over 84 complaints documented between 2015 and 2019"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer complaints regarding transfer delays, fees, and service quality",
+            "Ongoing fraud-related issues and weaknesses in customer protection mechanisms"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny regarding anti-money laundering (AML) and know-your-customer (KYC) compliance",
+            "Potential legal liabilities from ongoing investigations"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, May 6, 2024 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Remitly Global, Inc. (\"Remitly\" or the \"Company\") (NASDAQ: RELY).Such investors are advised to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865586+00:00",
+              "published_date": null,
+              "source_hash": "02f9c4c22a6efe2e2028365d9726f257"
+            },
+            {
+              "url": "",
+              "title": "Claims Against Remitly Global Inc Are Being Investigated By The Schall ...",
+              "snippet": "Based on this news, shares of Remitly fell by more than 13.7% in intraday trading on May 2, 2024. If you are a shareholder who suffered a loss, click here to participate.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865732+00:00",
+              "published_date": null,
+              "source_hash": "d0036dc12778d53cf6ad6926935c014d"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global, Inc.",
+              "snippet": "while maintaining strong regulatory compliance and effective loss mitigation. By optimizing fraud and unwanted activity in a way that serves our customers, we ensure business continuity and earn trust that drives growth & improves retention. Now, as more customers trust and choose Remitly, the increase in volume adds fuel to our tank",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865765+00:00",
+              "published_date": null,
+              "source_hash": "64d308f2f0b05b6c2cfdf24dfc082e08"
+            },
+            {
+              "url": "",
+              "title": "SEC Filing - Remitly Global, Inc",
+              "snippet": "Proceeds to Remitly Global, Inc. ... our remittance-as-a-service offering that strategically leverages our custom-built global network and compliance and regulatory infrastructure. ... The regulatory framework for privacy and security issues worldwide is currently in flux and is likely to remain so for the foreseeable future. Practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865792+00:00",
+              "published_date": null,
+              "source_hash": "49a67d61499f0e19793c85b2e27a3a90"
+            },
+            {
+              "url": "",
+              "title": " FinCEN: Docket Number FINCEN-2020-0002; RIN 1506-AB41 Board: Docket ...",
+              "snippet": "Remitly shares FinCEN's mission to fight money laundering within financial networks, yet Remitly is ... domestic and global crisis. ... Secrecy Act compliance features incorporated by design into the functionality of our product. This eliminates the vagaries and variance in compliance inherent in a distributed agent network, while also ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865818+00:00",
+              "published_date": null,
+              "source_hash": "957499016a908606efc7ed8beb9b1217"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Schall Law Firm Announces it is - GlobeNewswire",
+              "snippet": "LOS ANGELES, May 02, 2024 (GLOBE NEWSWIRE) -- The Schall Law Firm, a national shareholder rights litigation firm, announces that it is investigating claims on behalf of investors of Remitly Global ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759486+00:00",
+              "published_date": null,
+              "source_hash": "d61d9c49253ff7966ee6f3a9d138afa8"
+            },
+            {
+              "url": "",
+              "title": "SEC Filing | Remitly Global, Inc",
+              "snippet": "Beamit, Inc. was initially formed in May 2011 as an Idaho corporation, reincorporated in Delaware in October 2011 and subsequently changed its name to Remitly, Inc. in December 2012. In October 2018, we completed a corporate reorganization whereby Remitly, Inc. became a subsidiary of Remitly Global, Inc., which became effective January 1, 2019.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759302+00:00",
+              "published_date": null,
+              "source_hash": "311b4367f87a0bdae235099a00a08b85"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global Inc (RELY) Q3 2024 Earnings Call Highlights: Record ...",
+              "snippet": "Remitly Global Inc (NASDAQ:RELY) anticipates a sequential decline in gross take rate due to mix changes. The company acknowledges the complexity of cross-border payments, which involves regulatory ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865885+00:00",
+              "published_date": null,
+              "source_hash": "dd0ff5664b535901e4d3ed440344f51b"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Remitly Global Inc., a significant player in the financial technology (fintech) sector, specializes in providing online remittance services that allow individuals to send money across borders with ease. ... Regulatory Compliance: As remittance services face increasing scrutiny from regulators, Remitly must navigate these challenges to maintain ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865906+00:00",
+              "published_date": null,
+              "source_hash": "40d5b4669a4d9c2797dd5989280347c6"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global, Inc. - AnnualReports.com",
+              "snippet": "Remitly is a leading digital financial services provider for immigrants and their families in over 170 countries around the world. Remitly helps immigrants send money home in a safe, reliable and transparent manner. ... Remitly Global, Inc. reports have an aggregate usefulness score of 5.0 based on 1 reviews. Remitly Global, Inc. Most Recent ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:50.865930+00:00",
+              "published_date": null,
+              "source_hash": "a8b45ec31c6c9912bc57b04a931ae9a2"
+            },
+            {
+              "url": "",
+              "title": "Why Did Wells Fargo Give Remitly Global Inc (RELY) Stock Equal Weight Rating?",
+              "snippet": "Remitly Global Inc (RELY) stock saw a decline, ending the day at $22.4 which represents a decrease of $-0.17 or -0.75% from the prior close of $22.57. The stock opened at $22.65 and touched a low of $21.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:53.209754+00:00",
+              "published_date": "2025-01-03T20:13:00+00:00",
+              "source_hash": "c16d135506d8f06604cda4c6e59dc027"
+            },
+            {
+              "url": "",
+              "title": "With 56% ownership of the shares, Remitly Global, Inc. (NASDAQ:RELY) is heavily dominated by institutional owners",
+              "snippet": "A look at the shareholders of Remitly Global, Inc. (NASDAQ:RELY) can tell us which group is most powerful. With 56% stake, institutions possess the maximum shares in the company. Put another way ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:53.209858+00:00",
+              "published_date": "2024-12-13T00:00:00+00:00",
+              "source_hash": "cc20bcfe3cc4a4e3449538616eb85507"
+            },
+            {
+              "url": "",
+              "title": "RELY Remitly Global, Inc.",
+              "snippet": "View Remitly Global, Inc. (RELY) current and estimated P/E ratio data provided by Seeking Alpha.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:33:03.130439+00:00",
+              "published_date": "2024-11-22T16:00:00+00:00",
+              "source_hash": "b463a56a7861821734b77aced3a2654a"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global enters consulting agreement with outgoing EVP",
+              "snippet": "In a recent 8-K filing with the Securities and Exchange Commission, Remitly Global, Inc., a business services company with a market capitalization of $4.28 billion, disclosed a new consulting agreement with its outgoing Executive Vice President (EVP ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T17:32:53.209913+00:00",
+              "published_date": "2024-12-20T21:30:00+00:00",
+              "source_hash": "9af62af9701644002ed1829689d08468"
+            },
+            {
+              "url": "",
+              "title": "Remitly to Present at the 2024 Wells Fargo TMT Summit",
+              "snippet": "SEATTLE, Nov. 25, 2024 (GLOBE NEWSWIRE) -- Remitly Global, Inc. (NASDAQ: RELY) (\"Remitly\"), a trusted provider of digital financial services that transcend borders, today announced that its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:33:03.130577+00:00",
+              "published_date": "2024-11-25T00:00:00+00:00",
+              "source_hash": "b4e96ac80fe398f820125f6b464a9d46"
+            },
+            {
+              "url": "",
+              "title": "Remitly | BBB Complaints | Better Business Bureau",
+              "snippet": "Complaint Name: Remitly Case ID Provided by *****: ***** Complaint Summary:I am filing a complaint regarding an unauthorized transaction on my bank account that occurred through Remitly.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848533+00:00",
+              "published_date": null,
+              "source_hash": "65aea99c746c5e3653cb20544abc729b"
+            },
+            {
+              "url": "",
+              "title": "Remitly Scams Information | Trust & Safety Center",
+              "snippet": "In partnership with Get Safe Online (a global online safety organization), Remitly hosted a webinar exploring practical tips to help you stay scam-savvy and keep your information secure. From spotting the early warning signs of fraud to learning how to protect yourself in real time, this webinar is packed with actionable advice.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848635+00:00",
+              "published_date": null,
+              "source_hash": "eb915971d706bbcf02183d20d9794506"
+            },
+            {
+              "url": "",
+              "title": "Remitly, Inc. - Consumer Complaints - intlbanking.org",
+              "snippet": "Remitly, Inc. Consumer Complaints. There are over 84 complaints on file for Remitly, Inc.. Dated between 2019-12-01 and 2015-04-20. ... Fraud or scam Money transfer, virtual currency, or money service: International money transfer. ... Remitly Global, Inc. of DELAWARE: 0001782170: REMITLY, INC. of DELAWARE:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848650+00:00",
+              "published_date": null,
+              "source_hash": "ee0da8000e7e1ad95598eae380a2f7e8"
+            },
+            {
+              "url": "",
+              "title": "Empowering Our Customers to Stay Safe Online - Remitly Newsroom",
+              "snippet": "Addressing the Surge in Consumer Scams. Remitly is taking significant steps to educate customers on online scams and enhance their safety. This month, Remitly launched a new Trust & Safety Center, developed in collaboration with Get Safe Online.Additionally, Remitly is proud to join the Aspen Institute's National Task Force on Fraud and Scam Prevention, collaborating with industry leaders ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848660+00:00",
+              "published_date": null,
+              "source_hash": "b336c042d58f42c0c98ee7e1fe30bed0"
+            },
+            {
+              "url": "",
+              "title": "11 Common Money Transfer Scams and How to Avoid Them - Remitly Blog",
+              "snippet": "About Remitly. Remitly is on a mission to make international money transfers faster, easier, more transparent, and more affordable. Since 2011, millions of people have used Remitly to send money with peace of mind. Visit the homepage, download our app, or check out our Help Center to get started.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848671+00:00",
+              "published_date": null,
+              "source_hash": "1ee6ddcf1a66ec86b482820fb84a505a"
+            },
+            {
+              "url": "",
+              "title": "Pomerantz Law Firm Investigates Claims On Behalf of Investors of ...",
+              "snippet": "Pomerantz LLP is investigating claims on behalf of investors of Remitly Global, Inc. (\"Remitly\" or the \"Company\") (NASDAQ: RELY). Such investors are advised to contact Danielle Peyton at newaction@pomlaw.com or 646-581-9980, ext. 7980.. The investigation concerns whether Remitly and certain of its officers and/or directors have engaged in securities fraud or other unlawful business ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848680+00:00",
+              "published_date": null,
+              "source_hash": "7bb1725c4e9d7df9bfa0345dc79347b6"
+            },
+            {
+              "url": "",
+              "title": "Remitly Reviews and Complaints",
+              "snippet": "Remitly reviews first appeared on Complaints Board on Jan 2, 2020. The latest review I haven't done anything wrong I cot being disconnected was posted on Jul 26, 2024. The latest complaint They are fraud was resolved on Jun 03, 2023. Remitly has an average consumer rating of 2 stars from 57 reviews. Remitly has resolved 15 complaints.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848689+00:00",
+              "published_date": null,
+              "source_hash": "8aa361700e8a160a507eb1106d548688"
+            },
+            {
+              "url": "",
+              "title": "Is Remitly Safe? A Guide for UK Readers | Remitly",
+              "snippet": "3. We Verify Your Account. Just like opening a bank account, verifying your details is essential to secure your Remitly account and prevent fraud. Depending on your location, we may request: A valid ID; Proof of address; This process ensures your money is safe and complies with legal requirements for money transfer services.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848697+00:00",
+              "published_date": null,
+              "source_hash": "aab3085736d335c16bbaf1bd4a78790e"
+            },
+            {
+              "url": "",
+              "title": "Complaints for Remitly, Inc. in Seattle, WA - 100133306",
+              "snippet": "Company resolves 25% of complaints brought to its attention from Business Consumer Alliance. View complaints, reviews and check out how BCA rates Remitly, Inc.. File Complaint ... Although in some cases the company failed to respond to complaints. ... 4 complaints against Remitly, Inc. closed in last 3 years. Complaints Type of response; 0 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848706+00:00",
+              "published_date": null,
+              "source_hash": "426127ad367dcc8fad51214c908048c2"
+            },
+            {
+              "url": "",
+              "title": "Remitly Remitters Reviews 2024 - All You Need to Know, Page 2 ...",
+              "snippet": "Remitly reviews first appeared on Complaints Board on Jan 2, 2020. The latest review I haven't done anything wrong I cot being disconnected was posted on Jul 26, 2024. The latest complaint They are fraud was resolved on Jun 03, 2023. Remitly has an average consumer rating of 2 stars from 57 reviews. Remitly has resolved 15 complaints.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:54.848717+00:00",
+              "published_date": null,
+              "source_hash": "fee21cfc2a90d159d0102b8bbebb509f"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global Inc. (RELY): Jeff Bezos Is Buying This Stock Now",
+              "snippet": "In this article, we are going to take a look at where Remitly Global Inc. (NASDAQ ... outpacing competitors and leading many consumer markets. It went public in 1997, prompting market analysts ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Remitly Global Inc Remitly Global Inc customer complaints and fraud cases",
+              "retrieved_at": "2025-01-06T17:32:58.233010+00:00",
+              "published_date": "2024-10-13T21:09:00+00:00",
+              "source_hash": "e4a3423bf85842308a22a6b43dfb0ec2"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global, Inc. 10-K Cybersecurity GRC - 2024-02-23",
+              "snippet": "Remitly Global, Inc. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-23 16:12:18 EST. Filings 10-K filed on 2024-02-23 Company Information Filings 10-K filed on 2024-02-23 Remitly Global, Inc. filed a 10-K at 2024-02-23 16:12:18 EST Accession Number: 0001782170-24-000037 Note: filing items unformatted. Drop us a note with the above URL to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759406+00:00",
+              "published_date": null,
+              "source_hash": "a6701b4c65b66796e58a3a62ebebe6d7"
+            },
+            {
+              "url": "",
+              "title": "Remitly Global, Inc.",
+              "snippet": "scandals and data breaches in media headlines, or the speed of technological advancement leaving many feeling overwhelmed and anxious. When it comes to international payments, the deep complexities pose even more challenges to building and maintaining trust with customers, because every layer of complexity is an inevitable",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759421+00:00",
+              "published_date": null,
+              "source_hash": "c8f8c39749b6aa291dee21a4535ebd86"
+            },
+            {
+              "url": "",
+              "title": "Remitly Launches Public Bug Bounty Program in ... - Remitly Newsroom",
+              "snippet": "Security researchers participating in Remitly's bug bounty program will be able to report potential bugs through HackerOne's advanced reporting software, enabling Remitly's security teams to promptly assess and address issues. Remitly will offer monetary rewards for qualified security bugs, which increase based on the severity of the finding.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759433+00:00",
+              "published_date": null,
+              "source_hash": "860bd2027f1b9624e39c92cdd0770ff9"
+            },
+            {
+              "url": "",
+              "title": "Remitly Data Protection Addendum",
+              "snippet": "Remitly Data Protection Addendum. This data protection addendum (\"DPA\") is effective as of November 15, 2022 and applies to any agreement between Remitly (the specific Remitly entity may be Remitly Europe Ltd, Remitly UK Ltd, Remitly Inc., Remitly DIFC Ltd, Remitly NZ Ltd, Remitly Brasil Institui\u00e7\u00e3o De Pagamento Ltda) where Remitly is a data controller and you or your company is a data ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759443+00:00",
+              "published_date": null,
+              "source_hash": "4387dde1beb317ca9197f53262d3a7b3"
+            },
+            {
+              "url": "",
+              "title": "Is Remitly Safe? | Remitly",
+              "snippet": "Here's how Remitly protects your money and personal information. How Remitly Keeps Your Money Safe in Australia Advanced Data Security Measures. Protecting your account is Remitly's highest priority. Automated and manual risk management systems detect suspicious activity to safeguard you from fraud. Password protection",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759456+00:00",
+              "published_date": null,
+              "source_hash": "81c6baae0319b0d30d4d3bc3a969d528"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Learn more www.crowdstrike.com we stop breaches ABOUT CROWDSTRIKE CrowdStrike Holdings, Inc. (Nasdaq: CRWD), a global cybersecurity leader, has redefined modern security with the world's most advanced cloud-native platform for protecting critical areas of enterprise risk - endpoints and cloud workloads, identity and data. Powered",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759466+00:00",
+              "published_date": null,
+              "source_hash": "9f3f792da72a22646b73285769a9aea2"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, May 16, 2024 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Remitly Global, Inc. (\"Remitly\" or the \"Company\") (NASDAQ: RELY).Such investors are advised ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759476+00:00",
+              "published_date": null,
+              "source_hash": "3aef8e042d72d72e930648c999899112"
+            },
+            {
+              "url": "",
+              "title": "ONGOING INVESTIGATION UPDATE: The Schall Law Firm Announces it is ...",
+              "snippet": "Based on this news, shares of Remitly fell by more than 13.7% in intraday trading on May 2, 2024. If you are a shareholder who suffered a loss, click here to participate. We also encourage you to contact Brian Schall of the Schall Law Firm, 2049 Century Park East, Suite 2460, Los Angeles, CA 90067, at 310-301-3335, to discuss your rights free ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Remitly Global Inc Remitly Global Inc cybersecurity breaches and data protection",
+              "retrieved_at": "2025-01-06T17:32:59.759495+00:00",
+              "published_date": null,
+              "source_hash": "0d81de8c4c22a0e09dff2d275ab56556"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Remitly Global Inc regulatory compliance issues",
+              "rationale": "Investigate potential legal and regulatory challenges in multiple jurisdictions",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Remitly Global Inc customer complaints and fraud cases",
+              "rationale": "Assess customer satisfaction and potential ethical concerns related to service quality",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Remitly Global Inc cybersecurity breaches and data protection",
+              "rationale": "Evaluate risks related to cybersecurity and data privacy vulnerabilities",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:33:21.896167",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

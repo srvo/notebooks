@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:15:18.627723",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Teradyne Inc",
+      "symbol": "TER",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Geopolitical and supply chain risks due to U.S.-China trade tensions",
+            "Market cyclicality and intense competition in the semiconductor industry",
+            "Regulatory and legal risks, including hiring bias allegations",
+            "Slower-than-expected adoption of industrial automation solutions"
+          ],
+          "controversies": [
+            "Relocation of $1 billion manufacturing from China due to U.S. export regulations",
+            "$125,000 settlement with the U.S. Labor Department over hiring bias allegations",
+            "Lobbying activities totaling $22,500 in Q4 2024"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Hiring bias allegations against Asian and Hispanic job applicants"
+          ],
+          "governance_issues": [
+            "Internal governance concerns raised by hiring bias settlement",
+            "Potential scrutiny over lobbying activities and influence on regulatory policies"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Teradyne pulled $1 billion worth of manufacturing from China amid US ...",
+              "snippet": "Teradyne , a supplier of semiconductor testing equipment, pulled manufacturing worth about $1 billion out of China last year, a Teradyne spokesperson said on Monday, after U.S. export regulations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214761+00:00",
+              "published_date": null,
+              "source_hash": "f7b0fc3bfa919885f29306d8cff72d9b"
+            },
+            {
+              "url": "",
+              "title": "Teradyne is the latest victim of the US-China chip war",
+              "snippet": "Semiconductor testing company Teradyne recently confirmed to Reuters that it had to pull $1 billion of equipment out of China because of supply chain disruptions. Teradyne manufactures automated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595766+00:00",
+              "published_date": null,
+              "source_hash": "fba14815ded5b6e223413e5cfd623765"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Shifts $1 Billion in Manufacturing Away from China Amid U.S ...",
+              "snippet": "However, faced with perceived risks, Teradyne opted to relocate its manufacturing operations at a substantial cost. Amero noted that some suppliers were hesitant to ship to Teradyne despite authorization, resulting in supply chain disruptions. Although the company eventually obtained licenses to mitigate the impact of the regulations, ongoing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595772+00:00",
+              "published_date": null,
+              "source_hash": "911ba0137dff710b1691f7c9aac5cdd0"
+            },
+            {
+              "url": "",
+              "title": "Teradyne pulled $1 billion worth of manufacturing from China amid US ...",
+              "snippet": "Amero said some suppliers would not ship to the company, despite its authorization, leading to supply chain disruptions. It eventually got licenses to mitigate the impact of the regulations, the company reported, and when the U.S. updated the rules in October 2023, it carved out an exception for testing equipment used after a wafer is created.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595776+00:00",
+              "published_date": null,
+              "source_hash": "c217315d54db076af2a22917bd738987"
+            },
+            {
+              "url": "",
+              "title": "U.S. export curbs force Teradyne to pull $1b manufacturing from ... - CGTN",
+              "snippet": "Teradyne and many other American companies have relied on partnerships with Chinese manufacturers for years, leveraging their cost-effectiveness and growing technical prowess. With these avenues constricted, the U.S. chip industry faces potential supply chain disruptions and higher manufacturing costs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595780+00:00",
+              "published_date": null,
+              "source_hash": "1032f32a56a43a78d7eaa905362e1f27"
+            },
+            {
+              "url": "",
+              "title": "US Export Regulations Prompt Shift of Manufacturing Away from China",
+              "snippet": "Teradyne, a provider of semiconductor testing equipment, moved manufacturing operations valued at around $1 billion out of China last year, as stated by a Teradyne representative on January 29. This decision was prompted by disruptions in the supply chain resulting from US export regulations.The primary manufacturing facility for semiconductor test equipment, previously located in Suzhou and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595784+00:00",
+              "published_date": null,
+              "source_hash": "f3d35f523f1e0d4c0cc2eed33e496875"
+            },
+            {
+              "url": "",
+              "title": "Teradyne pulled $1 billion worth of manufacturing from China amid US ...",
+              "snippet": "Teradyne, a supplier of semiconductor testing equipment, pulled manufacturing worth about $1 billion out of China last year, a Teradyne spokesperson said on Monday, after U.S. export regulations led to supply chain disruptions. A factory in Suzhou was the company's main manufacturing site for its semiconductor test equipment, which it subcontracted to Flextronics. Massachusetts-based Teradyne ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595788+00:00",
+              "published_date": null,
+              "source_hash": "fc4084dbe68cb0f76453afaae1416e59"
+            },
+            {
+              "url": "",
+              "title": "Teradyne CEO clarification: No China exit, just partial production ...",
+              "snippet": "The company's CEO clarified that there is no China exit, but there is a partial production relocation. This move is meant to enhance supply chain flexibility. Q2: Why is Teradyne partially relocating production? A2: The partial relocation of production by Teradyne is being undertaken to enhance the flexibility of its supply chain.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595791+00:00",
+              "published_date": null,
+              "source_hash": "702cb7dd595695e4ad2687f22bf747d5"
+            },
+            {
+              "url": "",
+              "title": "Teradyne, Inc. Updated August 2024: Supply Chain Analysis - Ark.ai",
+              "snippet": "The resulting vendor analysis and supplier profile includes a supply chain analysis, an evaluation of key subcontractors and prime contractors, and an assessment of their compliance risk and supply chain risk. The analysis of Teradyne, Inc. resulted in the following statistics. Teradyne, Inc. has a Count of Subsidiaries of 133 and a Count of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595795+00:00",
+              "published_date": null,
+              "source_hash": "32986164581d482b19b3273758643077"
+            },
+            {
+              "url": "",
+              "title": "Teradyne pulled US$1 billion worth of manufacturing from ... - \u5546\u4e1a\u65f6\u62a5",
+              "snippet": "TERADYNE, a supplier of semiconductor testing equipment, pulled manufacturing worth about US$1 billion out of China last year, a Teradyne spokesperson said on Monday (Jan 29), after United States export regulations led to supply chain disruptions. Read more at The Business Times.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T14:14:44.595798+00:00",
+              "published_date": null,
+              "source_hash": "febb3c2c214403d6334799a6a9302ace"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Settles Claims of Hiring Bias Against Asians, Hispanics",
+              "snippet": "Teradyne Inc., a Massachusetts-based manufacturer of technology testing equipment, will pay $125,000 to settle U.S. Labor Department allegations of bias against Asian and Hispanic job applicants. The company allegedly discriminated in hiring against 22 Asian and three Hispanic workers for hardware engineer and software engineer co-op technician positions, according to the Labor Department's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315837+00:00",
+              "published_date": null,
+              "source_hash": "c4942e1487cc2f02e8fce97112ba0427"
+            },
+            {
+              "url": "",
+              "title": "DEBORAH KIELY vs. TERADYNE, INC. - Justia Law",
+              "snippet": "DEBORAH KIELY vs. TERADYNE, INC. 85 Mass. App. Ct. 431. March 7, 2014 - June 6, 2014. ... Contrary to Teradyne's usual practice, none of the three was offered an interview or told they were being considered for the newly available positions. ... \"If the court finds for the petitioner it shall, in addition to any other relief and irrespective of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315905+00:00",
+              "published_date": null,
+              "source_hash": "f8a1672939cc8c45b9e7f0099c8b488c"
+            },
+            {
+              "url": "",
+              "title": "Governance - Teradyne",
+              "snippet": "Teradyne is committed to supporting and enforcing the protection of human rights. Our internal and supplier codes of conduct require the fair treatment of workers and the prevention of any forms of child labor, human trafficking, forced labor, slavery or any other form of non-freely chosen employment. Statement on Human Trafficking and Slavery",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315914+00:00",
+              "published_date": null,
+              "source_hash": "eb2d0a2fde7de0fb62bca08b2c5febd8"
+            },
+            {
+              "url": "",
+              "title": "Teradyne, Inc., Plaintiff, Appellee, v. Mostek Corp., Defendant ...",
+              "snippet": "Teradyne, Inc., Plaintiff, Appellee, v. Mostek Corp., Defendant, Appellant, 797 F.2d 43 (1st Cir. 1986) case opinion from the US Court of Appeals for the First Circuit ... Cooper & Gressman, Federal Practice and Procedure Sec. 3922 at 32 (1977), we think it significant that the district court and the parties treated the order as a preliminary ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315920+00:00",
+              "published_date": null,
+              "source_hash": "93de90a99b45fa9f1f55eadfa76f42e1"
+            },
+            {
+              "url": "",
+              "title": "Teradyne, Inc. v. Clear Communications Corp., 707 F. Supp. 353 (N.D ...",
+              "snippet": "Hurley, 365 Mass. 280, 310 N.E.2d 915 (1974); All-Stainless, Inc. v. Colby, 364 Mass. 773, 308 N.E.2d 481 (1974). Now the question is whether Teradyne has properly alleged that defendants will harm it. Teradyne says defendants are in a position to misappropriate trade secrets because they know them and are in the same kind of business as Teradyne.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315925+00:00",
+              "published_date": null,
+              "source_hash": "ebea844f97765fc6e5d9f8f1227015d0"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Will Pay $125K To End DOL Hiring Bias Probe",
+              "snippet": "Law360 (January 21, 2021, 4:48 PM EST) -- Teradyne will cough up $125,000 to resolve allegations from the U.S. Department of Labor's federal contractor watchdog agency that Asian and Hispanic job ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315931+00:00",
+              "published_date": null,
+              "source_hash": "c1f9c443ed61c12a4290027e24174cc7"
+            },
+            {
+              "url": "",
+              "title": "Code of Conduct - Teradyne",
+              "snippet": "Teradyne's Code of Conduct reflects our commitment to honest and ethical business practices. The Code provides standards and guidelines of conduct for Teradyne employees, officers and directors, and for others doing business with the company, such as contractors, customers and suppliers. Teradyne Code of Conduct - Chinese (Simple)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315936+00:00",
+              "published_date": null,
+              "source_hash": "4364a37cfc5dce6f7d13f13be49786bb"
+            },
+            {
+              "url": "",
+              "title": " Teradyne's Human Rights Policy",
+              "snippet": "This policy applies to Teradyne, Inc., and all companies and subsidiaries we own in all countries in which we operate and is overseen by Teradyne's Executive Team, including its General ... human rights, socials rights, and labor rights in all of our operating locations. We train all employees on respecting human rights in our annual code of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315941+00:00",
+              "published_date": null,
+              "source_hash": "8c4d76067bdc668e75a110f17e14d2a1"
+            },
+            {
+              "url": "",
+              "title": "Herring v. Teradyne, Inc., Civil No: 01CV1835-L(JFS) - Casetext",
+              "snippet": "Robert Herring, Sr., also owned Perception Laminates, Inc., dba Synthane Taylor (collectively Herco and Perception Laminates are referred to as the Herring Companies). In June 2000, Teradyne initiated negotiations with the Herrings to purchase the Herring Companies. Teradyne was represented in the transaction by Testa, Hurwitz Thibeault (THT).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315945+00:00",
+              "published_date": null,
+              "source_hash": "a1a48516abdf843af640e90e8944d8f7"
+            },
+            {
+              "url": "",
+              "title": "Would Laying Off Workers be Beneficial or Detrimental to Teradyne?",
+              "snippet": "Explore the impact of layoffs on companies like Teradyne. Understand if Teradyne's employee reduction is beneficial or detrimental for your retirement funds. ... suggests that highly profitable tech companies may want to reconsider layoffs in a tight labor market. ... it is imperative to practice good self-care and be resilient. Positively ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradyne Inc Teradyne Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:49.315948+00:00",
+              "published_date": null,
+              "source_hash": "c6d69183978544ddf3dd3a99b793837d"
+            },
+            {
+              "url": "",
+              "title": "Lobbying Update: $22,500 of TERADYNE INC. lobbying was just disclosed",
+              "snippet": "$22,500 of TERADYNE INC. lobbying was just disclosed, from Q4 of 2024, in a new Lobbying Disclosure Act filing. TER insiders have traded $TER stock on the open market ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:58.758735+00:00",
+              "published_date": "2025-01-03T15:03:00+00:00",
+              "source_hash": "cd70929e940e7c879986236fe74e736a"
+            },
+            {
+              "url": "",
+              "title": "Teradyne pulled $1-billion worth of manufacturing from China amid U.S ...",
+              "snippet": "Teradyne, a supplier of semiconductor testing equipment, pulled manufacturing worth about $1 billion out of China last year, a Teradyne spokesperson said on Monday, after U.S. export regulations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214783+00:00",
+              "published_date": null,
+              "source_hash": "abaf90baf3e5e8234f1283ad8b8cd210"
+            },
+            {
+              "url": "",
+              "title": "Teradyne pulled $1 billion worth of manufacturing from China amid US ...",
+              "snippet": "A factory in Suzhou was the company's main manufacturing site for its semiconductor test equipment, which it subcontracted to Flextronics. Massachusetts-based Teradyne moved its production out after U.S. rules issued in October 2022 restricted exports to semiconductor manufacturing facilities there as part of an effort to keep U.S. technology from helping China's military.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214787+00:00",
+              "published_date": null,
+              "source_hash": "d77e90acfc2e7d6b2de0dab6c6b63aad"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Moved $1 Billion Manufacturing Out of China Over US Export ...",
+              "snippet": "-- Teradyne had pulled about $1 billion worth of manufacturing out of China last year after US export restrictions issued in 2022 led to supply chain disruptions, Reuters reported late Monday. Brian...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214792+00:00",
+              "published_date": null,
+              "source_hash": "0a104e29c8812b986e030e5201183e57"
+            },
+            {
+              "url": "",
+              "title": "US-based Teradyne pulled $1 billion worth of manufacturing from China ...",
+              "snippet": "Teradyne, which reports earnings on Tuesday, warned investors in its 2022 annual report about the potential impact of the October regulations, and in October 2023 said the restrictions hit both Teradyne's sales to certain companies in China and its manufacturing and development operations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214795+00:00",
+              "published_date": null,
+              "source_hash": "5954b551da3cca2c24e3f3eecf8989d5"
+            },
+            {
+              "url": "",
+              "title": "TERADYNE, INC SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "The report highlights the company's robust financial performance, strategic initiatives aimed at enhancing market position, and the challenges and risks it faces in the current market environment. Financial Highlights. Teradyne, Inc. reported strong financial results for the third quarter of 2024, showcasing significant growth across key metrics:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214799+00:00",
+              "published_date": null,
+              "source_hash": "141eb1a8936cf12b0d8139fa65fbcc3e"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Is a Wide-Moat Chip Testing Titan but Remains Prone to ...",
+              "snippet": "We think Teradyne's customer concentration is a risk. Its five largest customers account for roughly 30% of sales, with TSMC and Apple being the largest and Qualcomm being another.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214804+00:00",
+              "published_date": null,
+              "source_hash": "7bf043fae48d2d88b13e67494c82c9ff"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Inc | Reuters",
+              "snippet": "Teradyne , a supplier of semiconductor testing equipment, pulled manufacturing worth about $1 billion out of China last year, a Teradyne spokesperson said on Monday, after U.S. export regulations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214807+00:00",
+              "published_date": null,
+              "source_hash": "9a0c99b3304403b3526fcde97d75627c"
+            },
+            {
+              "url": "",
+              "title": "Teradyne: A Technology Pioneer At A Crossroad - Risks And Opportunities ...",
+              "snippet": "Teradyne, Inc. (NASDAQ:TER) carves out its niche as a major player in the automated test equipment and robotics solutions space, with a presence spanning various sectors that heavily lean on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214824+00:00",
+              "published_date": null,
+              "source_hash": "a019aae2be1e10860b3425767f1e556d"
+            },
+            {
+              "url": "",
+              "title": "Decoding Teradyne Inc (TER): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On May 3, 2024, Teradyne Inc , a leader in automated test equipment and industrial automation, released its 10-Q filing, providing a detailed view of its financial performance for the first ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:55.214828+00:00",
+              "published_date": null,
+              "source_hash": "4394793f1f3b22761e740703b91582ba"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Inc. stock falls Monday, underperforms market",
+              "snippet": "Shares of Teradyne Inc. TER slid 1.43% to $126.70 Monday, on what proved to be an all-around dismal trading session for the stock market, with the S&P 500 Index SPX falling 1.07% to 5,906.94 and Dow Jones Industrial Average DJIA falling 0.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:58.758758+00:00",
+              "published_date": "2025-01-03T22:30:00+00:00",
+              "source_hash": "b7e9a80d28c78dc456c681a72e015b69"
+            },
+            {
+              "url": "",
+              "title": "Rambus and Teradyne to Demonstrate 10 Gbps Backplane Solution at DesignCon East 2003",
+              "snippet": "2003 - Teradyne, Inc. (NYS: TER), Connection Systems Division, a leading supplier of high-performance interconnect systems and Rambus, a leading provider of chip-to-chip interface products and services, will publicly demonstrate a low-risk, 10 Gbps ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:58.758764+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "ed1cafc3d4d5ca9f8b61fb158029c39e"
+            },
+            {
+              "url": "",
+              "title": "Teradyne Inc. stock rises Monday, outperforms market",
+              "snippet": "Shares of Teradyne Inc. TER advanced 2.00% to $128.47 Monday, on what proved to be an all-around positive trading session for the stock market, with the S&P 500 Index SPX rising 0.73% to 5,974.07 and the Dow Jones Industrial Average DJIA rising 0.16% to 42,906.95.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:58.758768+00:00",
+              "published_date": "2025-01-02T21:32:00+00:00",
+              "source_hash": "87d4df52eba5ee1d7461bb9a17253d64"
+            },
+            {
+              "url": "",
+              "title": "Is Teradyne Stock Outperforming the Dow?",
+              "snippet": "North Reading, Massachusetts-based Teradyne, Inc. (TER) designs ... For more information please view the Barchart Disclosure Policy here. More news from Barchart \u30fbThis Dividend Aristocrat ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradyne Inc Teradyne Inc regulatory risks US-China trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:58.758772+00:00",
+              "published_date": "2024-12-20T10:11:00+00:00",
+              "source_hash": "71f08dd598a6d68d47ffcf410f64f62e"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Teradyne Inc supply chain disruptions legal risks",
+              "rationale": "Investigate legal implications of supply chain vulnerabilities and geopolitical tensions",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Teradyne Inc labor practices controversies",
+              "rationale": "Examine potential ethical concerns related to labor practices in global operations",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Teradyne Inc regulatory risks US-China trade restrictions",
+              "rationale": "Assess the impact of trade restrictions on Teradyne's operations and customer base",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:15:18.627737",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,509 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:59:43.363631",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Sun Communities Inc",
+      "symbol": "SUI",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and regulatory risks from class action lawsuits and antitrust investigations",
+            "Economic sensitivity of RV and marina segments to downturns",
+            "Integration and debt risks from aggressive acquisition strategy",
+            "Environmental compliance risks for marina operations"
+          ],
+          "controversies": [
+            "Class action lawsuits alleging securities law violations and misleading statements",
+            "Allegations of undisclosed financial transactions, including a $4 million loan to the CEO",
+            "Criticism over rising lot rents in manufactured housing communities"
+          ],
+          "environmental_issues": [
+            "Environmental impacts from marina operations, including water pollution and ecosystem disruption"
+          ],
+          "social_issues": [
+            "Affordability concerns for low- and middle-income households due to rising lot rents",
+            "Resident dissatisfaction with management practices and unfulfilled promises"
+          ],
+          "governance_issues": [
+            "Potential conflicts of interest and lack of transparency in corporate governance",
+            "Allegations of undisclosed financial transactions involving the CEO and board members"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Stockholder Alert: Robbins LLP ... - Morningstar",
+              "snippet": "SAN DIEGO, Dec. 19, 2024 (GLOBE NEWSWIRE) -- Robbins LLP reminds investors that a class action was filed against Sun Communities, Inc. (NYSE: SUI) for wrongdoing between February 28, 2019 and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685337+00:00",
+              "published_date": null,
+              "source_hash": "b425e1cd3847d3593b147f1856c233b0"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. (SUI) Investors Who Lost Money Have Opportunity ...",
+              "snippet": "LOS ANGELES, Jan. 6, 2025 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with losses related to Sun Communities, Inc. (\"Sun Communities\" or the \"Company\") (NYSE: SUI ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685263+00:00",
+              "published_date": null,
+              "source_hash": "d63b0c78cfab1703d60d659d2070273e"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Sued for Securities Law Violations - Morningstar",
+              "snippet": "LOS ANGELES, Jan. 2, 2025 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Sun Communities, Inc. (\"Sun\" or \"the Company\") (NYSE: SUI) for violations of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463335+00:00",
+              "published_date": null,
+              "source_hash": "dd42482b36d3fbbbd498138c341531da"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Class Action - Robbins LLP",
+              "snippet": "Robbins LLP is Investigating Allegations that Sun Communities, Inc. (SUI) Misled Investors Regarding Conflicts of Interest. Robbins LLP announces that a shareholder filed a class action on behalf of all investors who purchased or otherwise acquired Sun Communities, Inc. (NYSE: SUI) securities between February 28, 2019 and September 24, 2024.Sun Communities is a real estate investment company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463347+00:00",
+              "published_date": null,
+              "source_hash": "ee573bc28969109c8961682f68b24616"
+            },
+            {
+              "url": "",
+              "title": "Kirby McInerney LLP | Sun Communities, Inc. - kmllp.com",
+              "snippet": "The law firm of Kirby McInerney LLP announces that a class action lawsuit has been filed in the U.S. District Court for the District of Eastern Michigan on behalf of those who acquired Sun Communities, Inc. (\"SUI\" or the \"Company\") (NYSE:SUI) securities during the period of February 28, 2019, to September 24, 2024, inclusive (\"the Class Period\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463362+00:00",
+              "published_date": null,
+              "source_hash": "20bbe88229a3fe4b6d7e4e585918ac93"
+            },
+            {
+              "url": "",
+              "title": "Class Action Alert: Sun Communities, Inc. Under Legal Scrutiny ...",
+              "snippet": "New York, NY - Investors of Sun Communities, Inc. (NYSE: SUI) have been alerted to a pending class action lawsuit initiated by the law firm Levi & Korsinsky. This legal action comes amid allegations of potential securities fraud that may have impacted shareholder value, and highlights ongoing concerns regarding corporate governance and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463375+00:00",
+              "published_date": null,
+              "source_hash": "267a5693e27ef5b30116d5a9b9b7fd9c"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Is Being Sued For Securities Law Violations And ...",
+              "snippet": "Investors who purchased the Company's securities between February 28, 2019 and September 24, 2024, inclusive (the \"Class Period\"), are encouraged to contact the firm before February 10, 2025.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463388+00:00",
+              "published_date": null,
+              "source_hash": "1d48dd9a45d2c7eb63f3785062e1b5a5"
+            },
+            {
+              "url": "",
+              "title": "Class Action Lawsuit Filed Against Sun Communities, Inc. Over Alleged ...",
+              "snippet": "A class action lawsuit against Sun Communities, Inc. has raised serious concerns about its financial practices and transparency, following allegations of misleading investors. As the case develops, will SUI be able to restore trust and navigate these turbulent waters?",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463400+00:00",
+              "published_date": null,
+              "source_hash": "ffba84f0e54124077bc27ae64bcb5285"
+            },
+            {
+              "url": "",
+              "title": "SUI Investors Have Opportunity to Lead Sun Communities, Inc. Securities ...",
+              "snippet": "LOS ANGELES, Dec. 30, 2024 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against Sun Communities, Inc. (\"SUI\" or \"the Company\") (NYSE: SUI) for violations of \u00a7\u00a710(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by the U.S. Securities and Exchange Commission.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463413+00:00",
+              "published_date": null,
+              "source_hash": "be61ee8fe233e4d3f0e1fdb6f9556942"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Facing Class Action Suit: Investors Encouraged to ...",
+              "snippet": "Investors in Sun Communities, Inc., a real estate investment trust specializing in manufactured housing and recreational vehicle communities, are faced with a pivotal decision that could shape the company's future. Amid allegations of securities fraud, shareholders now have the opportunity to lead a class-action lawsuit against the Michigan ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sun Communities Inc Sun Communities Inc marina water pollution incidents",
+              "retrieved_at": "2025-01-06T18:59:12.463430+00:00",
+              "published_date": null,
+              "source_hash": "92bf756f4eca3949b20db2c1bc3bfbc3"
+            },
+            {
+              "url": "",
+              "title": "Class Action Alert: Sun Communities, Inc. Under Legal Scrutiny ...",
+              "snippet": "Sun Communities, a real estate investment trust that specializes in owning, operating, and developing manufactured housing and recreational vehicle communities, is at the center of this lawsuit. The allegations suggest possible misleading statements or failure to disclose important information that could be crucial to the financial decisions of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685159+00:00",
+              "published_date": null,
+              "source_hash": "8d187985ba8feed2dbeffd20a538f62f"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Facing Class Action Suit: Investors Encouraged to ...",
+              "snippet": "Investors in Sun Communities, Inc., a real estate investment trust specializing in manufactured housing and recreational vehicle communities, are faced with a pivotal decision that could shape the company's future. ... move surfaces after concerns that Sun Communities might have misled its investors regarding its business operations and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685248+00:00",
+              "published_date": null,
+              "source_hash": "47cf225c336ccfc02420e546e6553770"
+            },
+            {
+              "url": "",
+              "title": "'CEO Should be in Prison' Sun Communities, Inc. Investors Who Have Lost ...",
+              "snippet": "BOSTON, MA / ACCESSWIRE / September 26, 2024 / Block & Leviton is investigating Sun Communities, Inc. (NYSE:SUI) for potential securities law violations. Investors who have lost money in their Sun Communities, Inc. investment should contact the firm to learn more about how they might recover those losses. For more details, visit https ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685274+00:00",
+              "published_date": null,
+              "source_hash": "0523c58ebf7dcfc871833e02d80ab2d2"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page",
+              "snippet": "Sun Communities, Inc. Securities Litigation. Case Summary. Case Status: ONGOING \u2014On or around 12/17/2024 (Date of last review) ... Sun Communities, Inc. is a real estate investment company that focuses its investments on manufactured housing communities, recreational vehicle communities, and marinas. This lawsuit was filed against the Company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685284+00:00",
+              "published_date": null,
+              "source_hash": "8dbac382b32a69dd8fb5e6ef496f8da6"
+            },
+            {
+              "url": "",
+              "title": " Administrative Proceedings: Sun Communities, Inc. and Sun Communities ...",
+              "snippet": "Sun Communities, Inc. is a self-administered and self-managed real estate investment trust. Sun, as the general partner of Sun Communities Operating Limited Partnership, owns, operates, develops and finances manufactured housing communities concentrated in the Midwestern and Southeastern United States. Sun went public in 1993. The common stock ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685300+00:00",
+              "published_date": null,
+              "source_hash": "b3dac62c7479958316a45a8643e9d461"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Class Action - Robbins LLP",
+              "snippet": "Robbins LLP announces that a shareholder filed a class action on behalf of all investors who purchased or otherwise acquired Sun Communities, Inc. (NYSE: SUI) securities between February 28, 2019 and September 24, 2024. Sun Communities is a real estate investment company that focuses its investments on manufactured housing communities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685310+00:00",
+              "published_date": null,
+              "source_hash": "c035d515ed9ae31a9a2776c07a71adb1"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Sued for Securities Law Violations - Contact the ...",
+              "snippet": "Shareholders who bought the Company's securities between February 28, 2019 and September 24, 2024, inclusive (the \"Class Period\"), are encouraged to contact the DJS Law Group before February 10, 2025.. CASE DETAILS: According to the Complaint, Sun allegedly made false statements when it claimed it was presenting complete and accurate financial reports throughout the class period including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685319+00:00",
+              "published_date": null,
+              "source_hash": "dc51dd584d8ae2f30796757fdca66061"
+            },
+            {
+              "url": "",
+              "title": "Robbins LLP Reminds Investors of the Sun Communities, Inc. - GlobeNewswire",
+              "snippet": "SAN DIEGO, Jan. 02, 2025 (GLOBE NEWSWIRE) -- Robbins LLP reminds investors that a class action was filed against Sun Communities, Inc. (NYSE: SUI) for wrongdoing between February 28, 2019 and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:16.685328+00:00",
+              "published_date": null,
+              "source_hash": "946e212f95c5851fbf0c98b0f873fd92"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Sued for Securities Law Violations - Contact the DJS Law Group to Discuss Your Rights - SUI",
+              "snippet": "LOS ANGELES, Jan. 2, 2025 /PRNewswire/ -- The DJS Law Group reminds investors of a class action lawsuit against Sun Communities, Inc. (\"Sun\" or \"the Company\") (NYSE: SUI) for violations of the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:19.133216+00:00",
+              "published_date": "2025-01-02T07:30:00+00:00",
+              "source_hash": "82e9cb4f3e6a522dcf9cea5bd722d0df"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Stockholder Alert: Robbins LLP Reminds Investors of the SUI Class Action",
+              "snippet": "Inc. (NYSE: SUI) for wrongdoing between February 28, 2019 and September 24, 2024. Sun Communities is a real estate investment company that focuses its investments on manufactured housing ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:19.133302+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "0423cce10f175efa390164cf5a8d7283"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Being Investigated on Behalf of Sun Communities, Inc. Investors. Contact Levi & Korsinsky For Details.",
+              "snippet": "NEW YORK, NY / ACCESSWIRE / November 21, 2024 / Levi & Korsinsky notifies investors that it has commenced an investigation of Sun Communities, Inc. (\"Sun Communities, Inc.\") (NYSE:SUI) concerning possible violations of federal securities laws. On September ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:19.133332+00:00",
+              "published_date": "2024-11-21T12:25:00+00:00",
+              "source_hash": "bcded61e742020cc8bb1d32b63e1328f"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Declares Fourth Quarter 2024 Distribution",
+              "snippet": "Sun Communities, Inc. (NYSE: SUI) (the \"Company\"), a real estate investment trust (\"REIT\") that owns and operates, or has an interest in, manufactured housing (\"MH\") and recreational ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:19.133358+00:00",
+              "published_date": "2024-12-02T14:16:00+00:00",
+              "source_hash": "7de78e28e17b3b429dc5efc60a3796e6"
+            },
+            {
+              "url": "",
+              "title": "Decoding Sun Communities Inc (SUI): A Strategic SWOT Insight",
+              "snippet": "On November 7, 2024, Sun Communities Inc (NYSE:SUI), a residential real estate investment trust (REIT) specializing in manufactured housing, residential vehicle ... Exposure to Economic and Regulatory Changes: Sun Communities Inc's operations are subject ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sun Communities Inc Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "retrieved_at": "2025-01-06T18:59:19.133382+00:00",
+              "published_date": "2024-11-08T00:03:00+00:00",
+              "source_hash": "1326df96315ee6362bdcad5ed0ddd491"
+            },
+            {
+              "url": "",
+              "title": " United States District Court Northern District of Illinois Eastern Division",
+              "snippet": "community named Shelby West, which is owned and managed by Defendant Sun Communities, Inc. During the Relevant Time Period, Gregg Townsend paid monthly rent to Sun Communities, Inc. for this manufactured home lot. Gregg Townsend paid higher rental Case: 1:23-cv-16462 Document #: 1 Filed: 12/04/23 Page 6 of 67 PageID #:6",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592682+00:00",
+              "published_date": null,
+              "source_hash": "b5c9704a5f214b3d6d4eec92de45dbb6"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities Reviews | Read Customer Service Reviews of ... - Trustpilot",
+              "snippet": "Have lived at Sunrise Estates in Banning Ca for 10 years. Sun Communities has done nothing to improve our park-many promises. Rent & Pass Thru Tax went up $90 in February. Sun Communities is a horrible company-don't give a damn about their parks or residents. Management & maintenance have always been pleasant & helpful. Date of experience: July ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592773+00:00",
+              "published_date": null,
+              "source_hash": "0ca418c4165e07fd539403934f501cef"
+            },
+            {
+              "url": "",
+              "title": " United States District Court Northern District of Illinois Eastern Division",
+              "snippet": "SUN COMMUNITIES, INC.; RHP PROPERTIES, INC.; YES COMMUNITIES, ... conspiracy has been devasting to manufactured home residents. These individuals\u2014whose ... supracompetitively-inflated manufactured home lot rent increases would not have been possible but for the conduct described herein. 10. Plaintiffs bring this antitrust class action lawsuit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592791+00:00",
+              "published_date": null,
+              "source_hash": "a51483255f48b2543eca4f619701b70d"
+            },
+            {
+              "url": "",
+              "title": "Mobile home lot owners accused of rent-fixing conspiracy",
+              "snippet": "\"The average manufactured home lot rental prices increased from $382 to $593 between 2010 and 2021, a 55% increase. The manufactured home community defendants could never have demanded these rental price increases unilaterally. To implement the increases, however, they needed to conspire,\" the plaintiff says in the complaint.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592811+00:00",
+              "published_date": null,
+              "source_hash": "d0fae9da036eac6bb05ba67276ece425"
+            },
+            {
+              "url": "",
+              "title": "Class Action Alleges Mobile Home Community Cos. Conspired to Raise Lot ...",
+              "snippet": "The lawsuit looks to cover all persons and entities who paid rent directly to any of the mobile home community owner defendants, or any unnamed co-conspirator, for a manufactured home lot located in a mobile home community that was included in a JLT Market Report between August 31, 2019 and the present.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592822+00:00",
+              "published_date": null,
+              "source_hash": "e0bded003abbf27469bae7ca4f0ffcba"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities Reviews | Read Customer Service Reviews of ...",
+              "snippet": "Join the 92 people who've already reviewed Sun Communities. Your experience can help others make better choices. | Read 81-89 Reviews out of 89 ... This company makes on an average of $3,300,000.00 a year off of the residents JUST FOR LOT RENT! But yet we can't get speed bumps to stop the speeding, we can't get the street lights fixed ( many ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592832+00:00",
+              "published_date": null,
+              "source_hash": "64778a1045a80b78e01a7f4e24b6577c"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities Residents Reviews 2024 - Complaints Board",
+              "snippet": "Sun Communities reviews first appeared on Complaints Board on Apr 29, 2008. The latest review Dear Sun Community Management, was posted on Jun 10, 2024. Sun Communities has an average consumer rating of 1 stars from 205 reviews. Sun Communities has resolved 0 complaints.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592842+00:00",
+              "published_date": null,
+              "source_hash": "c384b60a6c5e3d689dbbde0847f5e1fa"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities Reviews | Read Customer Service Reviews of ...",
+              "snippet": "Sun communities owns LaCosta village\u2026 Sun communities owns LaCosta village where I live. They will not negotiate on rent increase. Last year our cola was above 8%, leaving many seniors happy. In come Sun communities people and bam they take 6% of that for a rent increase. We wanted to erect a memorial outside for our veterans.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592852+00:00",
+              "published_date": null,
+              "source_hash": "17cfcf04ee6c009082424ef492216527"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities Residents Reviews 2024 - Complaints Board",
+              "snippet": "I reside in Siesta Bay RV resort in Ft Myers Fl. It is a 55+rv/park model community owned by Sun Communities, Inc.I own our own home and rent the lot. In Oct 2017 we were notified that the annual rent would be $6902 for the10/01/2017 thru 09/30/2018 season, payable in 7 equal payments of $986.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592864+00:00",
+              "published_date": null,
+              "source_hash": "b08ab5127e5daf40023abb315db29fd3"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities Residents Speak Out on Rising Costs, Declining Services ...",
+              "snippet": "The Saturday meeting, which drew state lawmakers as well as Sen. Richard Blumenthal, was held in response to anticipated rent increases at Beechwood, a 55-plus community that includes about 300 homes. The community was purchased in 2019 by Sun Communities, a multi-state corporation that manages mobile home parks and marinas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:22.592875+00:00",
+              "published_date": null,
+              "source_hash": "fb514bb8303b080f58af6c8f63681e3b"
+            },
+            {
+              "url": "",
+              "title": "SUI INVESTOR ALERT: Bronstein, Gewirtz & Grossman LLC Announces that Sun Communities, Inc. Investors with Substantial Losses Have Opportunity to Lead Class Action Lawsuit",
+              "snippet": "Bronstein, Gewirtz & Grossman, LLC, a nationally recognized law firm, notifies investors that a class action lawsuit has bee",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:26.249061+00:00",
+              "published_date": "2024-12-25T01:00:00+00:00",
+              "source_hash": "6072fe524c6e152895b2228293f8620b"
+            },
+            {
+              "url": "",
+              "title": "Sun Communities, Inc. Is Being Sued For Securities Law Violations And Affected Investors Are Urged To Contact The Schall Law Firm",
+              "snippet": "LOS ANGELES, CA / ACCESSWIRE / December 30, 2024 / The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:26.249113+00:00",
+              "published_date": "2024-12-30T15:50:00+00:00",
+              "source_hash": "0c5e5c1ad76e57f73a9ddd7426af710a"
+            },
+            {
+              "url": "",
+              "title": "Glancy Prongay & Murray LLP Reminds Investors of Looming Deadline in the Class Action Lawsuit Against Sun Communities, Inc. (SUI)",
+              "snippet": "On September 24, 2024, after market hours, Blue Orca Capital published a report alleging, among other thigs, that Sun Communities' CEO \"received an undisclosed $4 million loan from the family of a purportedly independent Director who has sat on the Audit Committee and chaired the Compensation Committee for close to a decade.\"",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Sun Communities Inc Sun Communities Inc resident complaints about lot rent increases",
+              "retrieved_at": "2025-01-06T18:59:26.249125+00:00",
+              "published_date": "2024-12-26T17:46:00+00:00",
+              "source_hash": "a66a02245d5511c55708ef1896b3cfba"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Sun Communities Inc marina water pollution incidents",
+              "rationale": "Investigate potential environmental risks associated with marina operations",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Sun Communities Inc regulatory compliance issues in manufactured housing",
+              "rationale": "Assess legal and regulatory risks related to housing affordability and zoning laws",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Sun Communities Inc resident complaints about lot rent increases",
+              "rationale": "Explore social concerns regarding affordability and resident satisfaction",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:59:43.363643",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

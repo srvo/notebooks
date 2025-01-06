@@ -1,0 +1,613 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:32:23.995733",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Nasdaq",
+      "symbol": "NDAQ",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Market volatility and revenue dependency on trading volumes",
+            "Regulatory and compliance risks from global regulators",
+            "Cybersecurity threats and vulnerabilities in third-party tools",
+            "Intense competition from traditional exchanges and fintech disruptors"
+          ],
+          "controversies": [
+            "Technical glitches, such as the 2021 Facebook IPO trading delay",
+            "Role in the GameStop trading frenzy raising concerns about market integrity"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Concerns about retail investor protection during high-profile trading events"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and potential legal risks from compliance violations",
+            "Exposure to reputational risks from enforcement actions"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Market Regulation: Investigations & Enforcement - Nasdaq",
+              "snippet": "The Nasdaq Investigations and Enforcement Team is part of Nasdaq Regulation. Our mission is to protect investors and market integrity by investigating instances of possible misconduct and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890063+00:00",
+              "published_date": null,
+              "source_hash": "fb3134c81da4ff38dcdaac843b3f289d"
+            },
+            {
+              "url": "",
+              "title": "Nasdaq Regulation - Investigations & Enforcement - Nasdaq Listing Center",
+              "snippet": "The Nasdaq Investigations and Enforcement Team (the \"I&E Team\") is part of Nasdaq Regulation. Our mission is to protect investors and market integrity by investigating instances of possible misconduct and enforcing the rules of Nasdaq's three equities markets (The Nasdaq Stock Market, LLC; Nasdaq BX, Inc.; and PSX), six options markets (The Nasdaq Options Market, LLC; Nasdaq BX Options ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890165+00:00",
+              "published_date": null,
+              "source_hash": "b77953942695cc1cd10c0610627ad956"
+            },
+            {
+              "url": "",
+              "title": "Nasdaq Listing Center",
+              "snippet": "(a) Imposition of Sanction. After compliance with the Rule 9000 Series, Nasdaq may impose one or more of the following sanctions on a member or person associated with a member for each violation of the federal securities laws, rules or regulations thereunder, or Rules of Nasdaq, or may impose one or more of the following sanctions on a member or person associated with a member for any neglect ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890196+00:00",
+              "published_date": null,
+              "source_hash": "3b1e82e63f4963c8e15e102ed646368f"
+            },
+            {
+              "url": "",
+              "title": "Nasdaq Listing Center",
+              "snippet": "*A violation that consists of (i) a 1 trade date overage, (ii) a consecutive string of trade date overage violations where the position does not change or where a steady reduction in the overage occurs, or (iii) a consecutive string of trade date overage violations resulting from other mitigating circumstances, may be deemed to constitute one ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890223+00:00",
+              "published_date": null,
+              "source_hash": "77fc3fe8381529865aef221a41c138f1"
+            },
+            {
+              "url": "",
+              "title": "Interactive Brokers Settles Nasdaq Charges, Agrees to $475,000 Fine",
+              "snippet": "Publicly traded on the Nasdaq, the online brokerage firm Interactive Brokers has agreed to pay a $475K fine to settle charges brought by the exchange. ... However, over the past six years, Interactive Brokers has faced several fines and penalties from other regulatory authorities. In 2018, the company was hit with a substantial $5.5 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890248+00:00",
+              "published_date": null,
+              "source_hash": "b981262b323a1920b81d9389e0a440e6"
+            },
+            {
+              "url": "",
+              "title": " NASDAQ PROCEDURAL RULES - SEC.gov",
+              "snippet": "Payment of Fines, Other Monetary Sanctions, or Costs; Summary Action for Failure to Pay 8330. Costs of Proceedings 1 . PROCEDURAL RULES 8000. INVESTIGATIONS AND SANCTIONS ... Nasdaq Regulation, including Association staff, in an automated format for good cause shown. 8212. Reserved 8213. Reserved 8220. Reserved 8300. SANCTIONS",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890269+00:00",
+              "published_date": null,
+              "source_hash": "b4d9cf8704e38b167c028c6866024ecf"
+            },
+            {
+              "url": "",
+              "title": "CFTC Orders Nasdaq Futures, Inc. to Pay $22 Million for Core Principle ...",
+              "snippet": "The order requires Nasdaq Futures, Inc. to pay a $22 million civil monetary penalty. ... as required by the CEA and associated regulations. In fact, Nasdaq Futures, Inc.'s rule submissions to the CFTC regarding its incentive programs omitted or explicitly denied the existence of a volume-based incentive as part of the DMM program. In addition ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890291+00:00",
+              "published_date": null,
+              "source_hash": "4a3f9d49c50488ae116c8f54fc09f23c"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Roundup: The Union of Hacking and Market Manipulation - Nasdaq",
+              "snippet": "Fines & Enforcement Actions. ... The affiliates agreed to pay over $151 million in combined civil penalties and voluntary payments to investors. ... Nasdaq Honored in Regulation Asia Awards for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890311+00:00",
+              "published_date": null,
+              "source_hash": "af31337e59b56173128efc24e2ad37a2"
+            },
+            {
+              "url": "",
+              "title": "Nasdaq Fines SpeedRoute $450,000 for Market Access and Supervision ...",
+              "snippet": "NEW YORK, Jan. 18, 2022 (GLOBE NEWSWIRE) -- The Nasdaq Stock Market, LLC (\"Nasdaq\") today announced that it censured SpeedRoute LLC (\"SpeedRoute\") and fined the firm $450,000 for violating ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890333+00:00",
+              "published_date": null,
+              "source_hash": "083ca2dd978967a0ce01d362872c1a06"
+            },
+            {
+              "url": "",
+              "title": "SEC Enforcement Actions: FCPA Cases - SEC.gov",
+              "snippet": "Enforcement of the Foreign Corrupt Practices Act (FCPA) continues to be a high priority area for the SEC. In 2010, the SEC's Enforcement Division created a specialized unit to further enhance its enforcement of the FCPA, which prohibits companies issuing stock in the U.S. from bribing foreign officials for government contracts and other business.. The following is a list of the SEC's FCPA ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:52.890353+00:00",
+              "published_date": null,
+              "source_hash": "d648044fbd7283dcc1174e7794e24125"
+            },
+            {
+              "url": "",
+              "title": "Navigating Sanctions: Cooper Companies' Strategy to Mitigate Regulatory Risks",
+              "snippet": "The necessity to adhere to stringent regulations from bodies such ... Violations of these laws could lead to severe penalties, including fines and restricted export privileges, thereby adversely ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:55.336039+00:00",
+              "published_date": "2024-12-08T06:00:00+00:00",
+              "source_hash": "420ea28aca2feb190fdaf16c84f72073"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Roundup: The Union of Hacking and Market Manipulation",
+              "snippet": "This included $6.1 billion in disgorgement and prejudgment interest, as well as $2.1 billion in civil penalties ... navigating these changes. Nasdaq Honored in Regulation Asia Awards for ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:55.336145+00:00",
+              "published_date": "2024-12-05T21:11:00+00:00",
+              "source_hash": "e45e2809397346be481c28db0e967a83"
+            },
+            {
+              "url": "",
+              "title": "Agilent Technologies Navigates AI Integration Challenges Amid Regulatory and Ethical Concerns",
+              "snippet": "These issues could result in regulatory penalties, legal liabilities, and reputational damage, affecting the company's competitiveness in the evolving market. Additionally, AI use raises ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:55.336176+00:00",
+              "published_date": "2024-12-21T06:00:00+00:00",
+              "source_hash": "4369c0ef606d5d4e056d2422b158877e"
+            },
+            {
+              "url": "",
+              "title": "Norwegian Air Shuttle Wins Legal Battle Over EU ETS Penalties",
+              "snippet": "The court's decision allows Norwegian to reclaim the NOK 400 million penalty plus interest and compensation for legal costs. This outcome enables the airline to focus on its climate footprint ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:55.336200+00:00",
+              "published_date": "2024-12-20T06:34:00+00:00",
+              "source_hash": "5ed46ccc6ed7314ffd7b47ed44411825"
+            },
+            {
+              "url": "",
+              "title": "Nasdaq Study Shows Firms Turning to AI and Data Scientists to Enhance Regulatory Compliance",
+              "snippet": "Regulatory Technology at Nasdaq. \"Technologies like AI and cloud have the power to enhance strategic insights and dramatically improve efficiency but require a workforce able to understand ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq regulatory fines and penalties",
+              "retrieved_at": "2025-01-06T14:31:55.336222+00:00",
+              "published_date": "2024-12-03T02:29:00+00:00",
+              "source_hash": "b91c0c297ae693a7335623d9d14d6a12"
+            },
+            {
+              "url": "",
+              "title": "GameStop short squeeze - Wikipedia",
+              "snippet": "A GameStop store in 2014. GameStop, an American chain of brick-and-mortar video game stores, had struggled in the years leading up to the short squeeze due to competition from digital distribution services, as well as the economic effects of the COVID-19 pandemic, which reduced the number of people who shopped in-person.As a result, GameStop's stock price declined, leading many institutional ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089043+00:00",
+              "published_date": null,
+              "source_hash": "9aa519f6ee848f36fa9a71d6e1eafb54"
+            },
+            {
+              "url": "",
+              "title": "The GameStop Episode: What Happened and What Does It Mean?",
+              "snippet": "GameStop Corp. (GME) is a brick-and-mortar retail video game vendor chain that had its initial public offering in early 2002. By 2021 it was a troubled firm, with steadily falling share prices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089145+00:00",
+              "published_date": null,
+              "source_hash": "f7d8cfc60600fc33d7f6d324d513e5ca"
+            },
+            {
+              "url": "",
+              "title": "Controversy Over GameStop's Stock Market Saga Explained",
+              "snippet": "GameStop, which makes most of its money selling video games in stores across America, saw its stock price rise as much as 1,700% this week, backed by fans who believe it is unfairly undervalued by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089159+00:00",
+              "published_date": null,
+              "source_hash": "9ec0a3147a362ba79e11faf32b7f1903"
+            },
+            {
+              "url": "",
+              "title": "GameStopped: How A Meme Stock Controversy Led The SEC Astray - Forbes",
+              "snippet": "Mobilizing on Reddit and relying on user-friendly trading apps like Robinhood, amateur investors sparked a short squeeze in the market for video game retailer GameStop's GME stock. Working ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089169+00:00",
+              "published_date": null,
+              "source_hash": "c5ba59b020cc84aeaad0c4d08dcd3f73"
+            },
+            {
+              "url": "",
+              "title": "Controversy Over GameStop's Stock Market Saga Explained",
+              "snippet": "In recent days, American financial markets have been gripped by the saga of a video game retailer's soaring stock price. GameStop, which makes most of its money selling video games in stores across America, saw its stock price rise as much as 1,700% this week, backed by fans who believe it is unfairly undervalued by large investors who had bet billions that its stock would fall.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089177+00:00",
+              "published_date": null,
+              "source_hash": "785057e28bd65b3f0a8190a7057e2833"
+            },
+            {
+              "url": "",
+              "title": "An in-depth timeline of the GameStop short squeeze saga",
+              "snippet": "January 2021 saw one of the most notorious short squeezes in market history as Reddit's army of retail investors took on hedge funds to drive struggling retailer GameStop's stock price sky-high.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089186+00:00",
+              "published_date": null,
+              "source_hash": "cb7258aeed8e81eaab4cc926f5f13fcd"
+            },
+            {
+              "url": "",
+              "title": "GameStop and the Reemergence of the Retail Investor - The Harvard Law ...",
+              "snippet": "The GameStop trading frenzy in 2021 marked the reemergence of the retail investor in the securities markets. An unprecedented number of new and largely inexperienced investors opened app-based brokerage accounts and began trading so-called meme stocks issued by companies that included GameStop, AMC and Express. Interest in these stocks, which was fueled by postings on [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089195+00:00",
+              "published_date": null,
+              "source_hash": "1104efa0c7f344d46aa4743606fef8af"
+            },
+            {
+              "url": "",
+              "title": "EXPLAINER-How retail traders squeezed Wall Street for bets ... - Nasdaq",
+              "snippet": "A surge of retail stock trading over the last year lit the fuse that sent shares of GameStop Corp rocketing higher without a clear business reason, market watchers say, squeezing hedge funds that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089209+00:00",
+              "published_date": null,
+              "source_hash": "0a57b8c4d531eca52da4f1d36dde2307"
+            },
+            {
+              "url": "",
+              "title": "Inside the GameStop Saga: A Lesson in Narrative Attacks and Market ...",
+              "snippet": "On January 28th, 2021, several retail investment brokers restricted trading of certain stocks, including GameStop. Before these events, Robinhood was known for making it easy for retail investors to buy and trade stocks. However, these restrictions only allowed users to sell their positions, restricting the purchase of the store.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089218+00:00",
+              "published_date": null,
+              "source_hash": "16b496a0a3934ad026ef53b681694986"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The GameStop trading frenzy in January 2021 mark ed a reemergence of the retail investor in the securities markets. 1 An unprecedented number of new and largely inexperienced investors opened app-based brokerage accounts and began trading so-called meme stocks - companies that included",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:57.089227+00:00",
+              "published_date": null,
+              "source_hash": "f385c7a9b73ab1eaaa98ea546ebb688b"
+            },
+            {
+              "url": "",
+              "title": "GameStop Turns a Profit: So What? It's Still Not Worth Investing",
+              "snippet": "GameStop (NYSE: GME ... and Q4 activity ramped to a high that aligns with the stock price rise to new highs. The market is now above one resistance target but still below the critical target ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:59.392926+00:00",
+              "published_date": "2024-12-11T14:25:00+00:00",
+              "source_hash": "6efacc414eedbeb0d5a33283ab95ddc7"
+            },
+            {
+              "url": "",
+              "title": "If You Invested $1000 in GameStop a Decade Ago, This is How Much It'd Be Worth Now",
+              "snippet": "How much a stock's price changes over time is a significant driver for most investors ... As of Feb. 2024, GameStop operates approximately 4,169 retail outlets globally with around 2,915 of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:59.393019+00:00",
+              "published_date": "2024-12-23T13:30:00+00:00",
+              "source_hash": "067e5313a7006764233d11865bbe3328"
+            },
+            {
+              "url": "",
+              "title": "GameStop stock is at risk: here's one potential solution",
+              "snippet": "GameStop (GME) stock price has moved sideways in the past few months as investors assess its slow business trajectory and its strong balance sheet. GME was trading at $29.8, where it has been in the past few weeks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:59.393050+00:00",
+              "published_date": "2024-12-21T08:46:21+00:00",
+              "source_hash": "bd492f74c2db77b2202882c4b046c0de"
+            },
+            {
+              "url": "",
+              "title": "Check Out What Whales Are Doing With GME",
+              "snippet": "Investors with a lot of money to spend have taken a bullish stance on GameStop (NYSE:GME). And retail traders should know. We noticed this today when the trades showed up on publicly available ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:59.393081+00:00",
+              "published_date": "2024-12-18T00:00:00+00:00",
+              "source_hash": "3766d93737da208ce0bdeb54286a8f54"
+            },
+            {
+              "url": "",
+              "title": "What Makes GameStop (GME) a New Strong Buy Stock",
+              "snippet": "Investors might ... the Zacks rating upgrade for GameStop is essentially a positive comment on its earnings outlook that could have a favorable impact on its stock price. The change in a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nasdaq Nasdaq controversies retail investors GameStop",
+              "retrieved_at": "2025-01-06T14:31:59.393105+00:00",
+              "published_date": "2024-12-16T17:01:00+00:00",
+              "source_hash": "767c4fb65fd9b4f0f7e71933c1b31abc"
+            },
+            {
+              "url": "",
+              "title": "China-Linked Groups Exploit U.S. Cybersecurity Vulnerabilities ... - Nasdaq",
+              "snippet": "Broader implications for government and enterprise cybersecurity strategies. This breach underscores the vulnerabilities inherent in third-party cybersecurity tools and their potential to serve as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769560+00:00",
+              "published_date": null,
+              "source_hash": "0f3999de2a2d12fe7e80e0325143f3ff"
+            },
+            {
+              "url": "",
+              "title": "Nasdaq Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Compare Nasdaq's security performance with other companies. Learn about data breaches, cyber attacks, and security incidents involving Nasdaq. ... DNS health, open ports and common vulnerabilities. Free score. Want a complete vendor risk report on this company? Our comprehensive vendor risk report is based on this company's external attack ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769603+00:00",
+              "published_date": null,
+              "source_hash": "a4e5527d8d92685ce9ec5f9df53d6776"
+            },
+            {
+              "url": "",
+              "title": "Chinese hackers breached more telecoms than known previously: report ...",
+              "snippet": "The report said hackers exploited unpatched network devices from cybersecurity company Fortinet (NASDAQ:FTNT) and compromised large network routers from Cisco Systems (NASDAQ:CSCO).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769614+00:00",
+              "published_date": null,
+              "source_hash": "49808f63634df97aa419bf694acea6cd"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Nasdaq CTA Cybersecurity Index (NQCYBR) Securing the future from cyber threats and vulnerabilities October 2020 (Image Source: TechCrunch, November 16, 2020) ... party cyber risks due to remote work since COVID-19.\" and \"Web application breaches account for 43% of all breaches and have doubled since 2019.\" (Source: Gartner and",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769623+00:00",
+              "published_date": null,
+              "source_hash": "3db6f566fbee7965ba029a09d97eb5d1"
+            },
+            {
+              "url": "",
+              "title": "The Hack Effect: The Effect of Data Breaches on the Nasdaq CTA ...",
+              "snippet": "This shows not only that data breaches have an immediate impact on cybersecurity companies (1-week post-data breach performance), but also that the impact of cyberattacks on the performance of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769630+00:00",
+              "published_date": null,
+              "source_hash": "d42c88fc24398e6d678e22a953d724d9"
+            },
+            {
+              "url": "",
+              "title": "NASDAQ Website Security Vulnerabilities Remained Open for Weeks After Alert",
+              "snippet": "Vulnerabilities NASDAQ Website Security Vulnerabilities Remained Open for Weeks After Alert. A penetration testing company uncovered security vulnerabilities on the NASDAQ website that remained open for two weeks after the stock exchange was notified. The vulnerabilities were uncovered by Geneva-based High Tech Bridge, and have now been patched.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769637+00:00",
+              "published_date": null,
+              "source_hash": "88823cafbe2fba3e7726020e2160b9a0"
+            },
+            {
+              "url": "",
+              "title": "15% of the Nasdaq 100 Is Highly Susceptible to a Ransomware Attack, New ...",
+              "snippet": "Keep up with the latest cybersecurity threats, newly discovered vulnerabilities, data breach information, and emerging trends. Delivered daily or weekly right to your email inbox. Subscribe",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769644+00:00",
+              "published_date": null,
+              "source_hash": "3138cd60e074acbc254da00cf65cddf0"
+            },
+            {
+              "url": "",
+              "title": "Cybersecurity Index - Nasdaq",
+              "snippet": "Nasdaq's cybersecurity indexes track the performance of cybersecurity companies related to hardware, software, and services. Whitepaper Cybersecurity: A Year in Review",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769650+00:00",
+              "published_date": null,
+              "source_hash": "b43957356a095e6986fa9393e9982a32"
+            },
+            {
+              "url": "",
+              "title": "Rising Cybersecurity Threats Expected to Continue in 2022 - Nasdaq",
+              "snippet": "Large enterprises typically spend $2-5 million on cybersecurity annually, while a single ransomware breach costs companies $4.62 million on average. 13,14 That cost is one reason why in a recent ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769657+00:00",
+              "published_date": null,
+              "source_hash": "22b00e6153863b8570d1f7d780c1c0ff"
+            },
+            {
+              "url": "",
+              "title": "One-in-seven Nasdaq-100 companies ranked as highly susceptible to a ...",
+              "snippet": "The majority of Nasdaq-100 companies are operating out-of-date systems, and 82 percent have publicly visible ports, increasing the risk of a ransomware attack, according to a new report. Some 92% of companies have at least one high severity vulnerability due to out-of-date systems, according to research published by IT security firm Black Kite.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:00.769664+00:00",
+              "published_date": null,
+              "source_hash": "2bd9ef68b59a95ec7e45ed1aac9df7b5"
+            },
+            {
+              "url": "",
+              "title": "WISeKey Technologies Mitigate Cybersecurity Risks and Vulnerabilities Related to the Recent U.S. Treasury Department Breach",
+              "snippet": "WISeKey Technologies Mitigate Cybersecurity Risks and Vulnerabilities Related to the Recent U.S. Treasury Department BreachThe recent breach",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:03.433503+00:00",
+              "published_date": "2024-12-31T14:16:00+00:00",
+              "source_hash": "2bf5ecef56471cb252b696a491a4b664"
+            },
+            {
+              "url": "",
+              "title": "CrowdStrike Named a Leader in the 2024 GigaOm Radar Report for Container Security",
+              "snippet": "With more than 60% of organizations using Kubernetes, securing these environments is critical to stopping breaches ... CrowdStrike (Nasdaq: CRWD), a global cybersecurity leader, has redefined ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:03.433586+00:00",
+              "published_date": "2024-12-18T13:00:00+00:00",
+              "source_hash": "5c7d161dd0cfdfd41ccb04d312beddf8"
+            },
+            {
+              "url": "",
+              "title": "Why Tenable Holdings (TENB) Is Among the Best Cybersecurity Stocks to Buy According to Wall Street Analysts?",
+              "snippet": "The World Economic Forum projected earlier this year that AI advancements could drive cyber incidents and data breaches to unprecedented ... 15.12% Tenable Holdings, Inc. (NASDAQ:TENB) provides cyber exposure and vulnerability management solutions, helping ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:03.433615+00:00",
+              "published_date": "2024-12-16T20:42:06+00:00",
+              "source_hash": "7fe9388650b095196da98fa96eaa9f01"
+            },
+            {
+              "url": "",
+              "title": "Why Data Matters More Than Anything Else, Cybersecurity, and Quantum Computing",
+              "snippet": "join Jill Malandrino on Nasdaq TradeTalks to discuss thematic considerations for 2025, why data matters more than anything else, cybersecurity, and quantum computing. Sign up for our newsletter to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:03.433641+00:00",
+              "published_date": "2024-12-11T20:30:00+00:00",
+              "source_hash": "9f1d2eaf42ca1ff55c5ac69dff279646"
+            },
+            {
+              "url": "",
+              "title": "CyberArk Soars Over 52% YTD: Is the Cybersecurity Leader Poised for More Gains?",
+              "snippet": "The Nasdaq was down more than 2% and the S&P 500 lost 1.5% as Big Tech led the day's declines",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nasdaq Nasdaq cybersecurity breaches and vulnerabilities",
+              "retrieved_at": "2025-01-06T14:32:03.433664+00:00",
+              "published_date": "2024-12-31T17:50:00+00:00",
+              "source_hash": "25581651591c412b71da5f478d1622a3"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Nasdaq regulatory fines and penalties",
+              "rationale": "Investigate legal and regulatory risks, including fines or penalties for non-compliance",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Nasdaq controversies retail investors GameStop",
+              "rationale": "Explore controversies related to Nasdaq's role in the GameStop trading frenzy and its impact on retail investors",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Nasdaq cybersecurity breaches and vulnerabilities",
+              "rationale": "Assess risks related to cybersecurity threats and potential breaches affecting Nasdaq's operations",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:32:23.995740",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

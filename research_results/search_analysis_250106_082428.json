@@ -1,0 +1,593 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:24:28.830711",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "OneMain Holdings Inc",
+      "symbol": "OMF",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Regulatory scrutiny and legal issues, including a $20 million settlement with the CFPB",
+            "High sensitivity to macroeconomic conditions and potential loan defaults",
+            "Significant debt burden with a debt-to-equity ratio of 6.59",
+            "Exposure to rising interest rates and potential margin pressure"
+          ],
+          "controversies": [
+            "$20 million settlement with the CFPB for deceptive practices",
+            "Ongoing investigation by the CFPB for alleged consumer protection violations",
+            "Criticism from consumer advocacy groups over high interest rates on non-prime loans"
+          ],
+          "environmental_issues": [
+            "Efforts to reduce carbon footprint as part of ESG initiatives"
+          ],
+          "social_issues": [
+            "Financial inclusion programs targeting underserved communities",
+            "Criticism over high interest rates impacting non-prime borrowers"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and legal challenges impacting governance practices",
+            "High debt levels raising concerns about financial stability and governance"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "CFPB Orders Installment Lender OneMain to Pay $20 Million for Deceptive ...",
+              "snippet": "Pay $10 million in penalties: OneMain is required to pay a $10 million penalty to the CFPB, which will be deposited into the CFPB's victims relief fund. Read today's order. Consumers can submit complaints about financial products or services by visiting the CFPB's website or by calling (855) 411-CFPB (2372).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799250+00:00",
+              "published_date": null,
+              "source_hash": "d38cbb601ab700990bb7d85f814f9d26"
+            },
+            {
+              "url": "",
+              "title": "OneMain Financial Holdings, LLC; OneMain Financial Group, LLC; OneMain ...",
+              "snippet": "On May 31, 2023, the Consumer Financial Protection Bureau (Bureau) issued an order against OneMain Financial Holdings, LLC; OneMain Financial Group, LLC; OneMain Financial (HI), Inc.; OneMain Financial, Inc.; OneMain Financial of Minnesota, Inc. and (collectively referred to as OneMain). OneMain is an Indiana-based personal loan installment lender with more than 1,400 branches across 44 states.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799373+00:00",
+              "published_date": null,
+              "source_hash": "689900163bc1acf71b29d02de60a4e90"
+            },
+            {
+              "url": "",
+              "title": "Subprime Lender OneMain Says It's Under CFPB Investigation",
+              "snippet": "In a regulatory filing, OneMain Holdings Inc. said it received a warning from the CFPB last month that agency staff are considering recommending an enforcement action for alleged violations of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799395+00:00",
+              "published_date": null,
+              "source_hash": "c17e020c1ee8fab139007ff4869f9008"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. (Form: 10-K, Received: 02/10/2023 08:32:42)",
+              "snippet": "\u2022 changes in federal, state, or local laws, regulations, or regulatory policies and practices or increased regulatory scrutiny of our industry; ... 2022 for OneMain Holdings, Inc. (\"OMH\"), a publicly held financial service holding company, and its wholly owned direct subsidiary, OneMain Finance Corporation (\"OMFC\"). OMFC is the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799412+00:00",
+              "published_date": null,
+              "source_hash": "0ac42d379e85570d81e26d1ae47d532e"
+            },
+            {
+              "url": "",
+              "title": " 2023-CFPB-0003_OneMain Financial Holdings LLC - Stipulation",
+              "snippet": "HOLDINGS, LLC; ONEMAIN ... INC.; ONEMAIN FINANCIAL, INC.; ONEMAIN FINANCIAL OF MINNESOTA, INC. STIPULATION AND CONSENT TO THE ISSUANCE OF A CONSENT ORDER The Consumer Financial Protection Bureau (Bureau) intends to initiate an ... and the Small Business Regulatory Enforcement Fairness Act of 1996; for these purposes, Respondent agrees that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799432+00:00",
+              "published_date": null,
+              "source_hash": "8596c750c697f58879ea0a07aeb89868"
+            },
+            {
+              "url": "",
+              "title": "What OneMain Order Says About CFPB's Regulatory Priorities",
+              "snippet": "The Consumer Financial Protection Bureau's recent action against OneMain Financial Group and others reflect a continuing trend of arguably historic regulatory scrutiny for consumer lenders, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799448+00:00",
+              "published_date": null,
+              "source_hash": "2c688fd78e5444cd36cb06037c66fc1d"
+            },
+            {
+              "url": "",
+              "title": "omf-20211231 - SEC.gov",
+              "snippet": "\u2022 changes in federal, state, or local laws, regulations, or regulatory policies and practices or increased regulatory scrutiny of our industry; ... 2021 for OneMain Holdings, Inc. (\"OMH\"), a publicly held financial service holding company, and its wholly owned direct subsidiary, OneMain Finance Corporation (\"OMFC\"). OMFC is the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799460+00:00",
+              "published_date": null,
+              "source_hash": "61a8d93748d9562df3becd028b01dc0c"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. (Form: DEF 14A, Received: 04/13/2021 16:34:10)",
+              "snippet": "Prior to that, Mr. Conrad served as Chief Financial Officer of OneMain Financial Holdings, Inc. (a consumer finance lender) from 2013 until November 2015, when it was acquired by the Company (then known as Springleaf Holdings, Inc.) from CitiFinancial Credit Company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799474+00:00",
+              "published_date": null,
+              "source_hash": "2c882924e5e550b579533186a364c6ed"
+            },
+            {
+              "url": "",
+              "title": "Onemain Holdings, Inc. Reports Third Quarter 2024 Results",
+              "snippet": "NEW YORK, Oct. 30, 2024 /PRNewswire/ -- OneMain Holdings, Inc. (NYSE: OMF), the leader in offering nonprime consumers responsible access to credit, today reported pretax income of $207 million and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799488+00:00",
+              "published_date": null,
+              "source_hash": "fba8a90afe2bb67806e73cebf798c7e4"
+            },
+            {
+              "url": "",
+              "title": " OneMain Financial Issuance Trust 2023-1 - S&P Global",
+              "snippet": "The preliminary ratings assigned to OneMain Financial Issuance Trust 2023-1's (OMFIT 2023-1) $449.09 million personal consumer loan-backed notes reflect: - The availability of approximately 49.8%, 42.9%, 37.9%, and 30.4% credit support to the class A, ... considerations for these subprime borrowers could increase legal and regulatory risks if ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:56.799501+00:00",
+              "published_date": null,
+              "source_hash": "fe01703b07e9df64cf91b5b909c2eb26"
+            },
+            {
+              "url": "",
+              "title": "Barclays Keeps Their Hold Rating on OneMain Holdings (OMF)",
+              "snippet": "In a report released today, Terry Ma from Barclays maintained a Hold rating on OneMain Holdings (OMF - Research Report), with a price target of",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:03.333367+00:00",
+              "published_date": "2025-01-06T08:30:00+00:00",
+              "source_hash": "ee78bed0264f9b196bbc6576ef29fc7f"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. (NYSE:OMF) Position Boosted by Sanctuary Advisors LLC",
+              "snippet": "Sanctuary Advisors LLC lifted its stake in OneMain Holdings, Inc. (NYSE:OMF - Free Report) by 143.4% in the third quarter, Holdings Channel.com reports. The firm owned 17,405 shares of the financial services provider's stock after acquiring an additional 10,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:03.333525+00:00",
+              "published_date": "2024-12-24T08:04:00+00:00",
+              "source_hash": "f2f9b60bba047793034c6c87aa49c094"
+            },
+            {
+              "url": "",
+              "title": "Analyst Scoreboard: 13 Ratings For OneMain Holdings",
+              "snippet": "Stay informed and make strategic decisions with our Ratings Table. OneMain Holdings Inc is engaged in nonprime consumer finance companies in the United States and is one of only a few companies in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:59.266400+00:00",
+              "published_date": "2024-12-09T14:00:00+00:00",
+              "source_hash": "da779105ebc04758aa8ff9f1ea682c25"
+            },
+            {
+              "url": "",
+              "title": "Tidal Investments LLC Has $682,000 Stock Holdings in OneMain Holdings, Inc. (NYSE:OMF)",
+              "snippet": "Tidal Investments LLC reduced its holdings in shares of OneMain Holdings, Inc. (NYSE:OMF - Free Report) by 68.7% during the 3rd quarter, according to the company in its most recent 13F filing with the SEC.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:59.266418+00:00",
+              "published_date": "2024-12-22T08:40:00+00:00",
+              "source_hash": "f3e347b2db909b791a4405bd9489a202"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings' SWOT analysis: stock outlook amid credit quality concerns",
+              "snippet": "OneMain Holdings, Inc. (NYSE:OMF), a leading consumer ... and achieving desired growth rates. 4. Regulatory compliance: Expanding into a new lending vertical may expose OneMain to additional regulatory scrutiny and compliance requirements.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "retrieved_at": "2025-01-06T15:23:59.266435+00:00",
+              "published_date": "2024-12-15T21:16:00+00:00",
+              "source_hash": "aa8f7fd3c61e9a114e3fcaeadee30473"
+            },
+            {
+              "url": "",
+              "title": "Analyst Scoreboard: 13 Ratings For OneMain Holdings",
+              "snippet": "Analysts have recently evaluated OneMain Holdings and provided 12-month price targets. The average target is $56.54, accompanied by a high estimate of $63.00 and a low estimate of $46.00.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760781+00:00",
+              "published_date": null,
+              "source_hash": "8084ff0b5bc59c913b0db75a409004bf"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings: Hold Rating Maintained Amid Elevated Net Loss Rates ...",
+              "snippet": "OneMain Holdings (OMF) Company Description: OneMain Holdings, Inc. is a consumer finance company, which provides origination, underwriting and servicing of personal loans, primarily to non-prime ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760896+00:00",
+              "published_date": null,
+              "source_hash": "00e53ec2baccc0e5792e24c7e964a6d8"
+            },
+            {
+              "url": "",
+              "title": "Analyst Scoreboard: 9 Ratings For OneMain Holdings",
+              "snippet": "Debt Management: With a high debt-to-equity ratio of 6.07, OneMain Holdings faces challenges in effectively managing its debt levels, indicating potential financial strain. The Significance of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760915+00:00",
+              "published_date": null,
+              "source_hash": "31651df6298adbf4f3d70ca9bf6805b6"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings Stock: 8.62%-Yielder to Ride Lower Rates",
+              "snippet": "The company loaned $2.5 billion in the quarter, which was down 10% versus the first quarter of 2023. This was expected given the high-rate climate, but it should improve as interest rates begin to ratchet lower. (Source: \"OneMain Holdings, Inc. Reports First Quarter 2024 Results,\" OneMain Holdings Inc, April 30, 2024.)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760928+00:00",
+              "published_date": null,
+              "source_hash": "1fe317b5c7cc2b33b9eab25fe32b9b17"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. (OMF) Analyst Ratings - Stock Analysis",
+              "snippet": "OneMain Holdings, Inc. (OMF) NYSE: OMF \u00b7 Real-Time Price \u00b7 USD. Watchlist Compare. 52.13 ... Get stock forecasts from Wall Street's highest rated professionals. Get much more with Stock Analysis Pro. ... Success Rate The percentage of ratings that are profitable.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760941+00:00",
+              "published_date": null,
+              "source_hash": "dc3a5852463c0ebb50cfe6b66d036c5c"
+            },
+            {
+              "url": "",
+              "title": "Analyst Scoreboard: 9 Ratings For OneMain Holdings - Nasdaq",
+              "snippet": "Debt Management: With a high debt-to-equity ratio of 6.07, OneMain Holdings faces challenges in effectively managing its debt levels, indicating potential financial strain. The Significance of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760963+00:00",
+              "published_date": null,
+              "source_hash": "5a1df80e9c8a97b652daf2dd3193fe5b"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings: Solid Q3 Reduces Credit Loss Fears - Seeking Alpha",
+              "snippet": "Because of the higher-risk nature of its loans, OneMain earns extremely high interest rates. New consumer loans were originated at 26.8%, up 10bps sequentially. As a consequence, it now has a 22.1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760974+00:00",
+              "published_date": null,
+              "source_hash": "25e0517f93fc77ed06878699f7bf38c8"
+            },
+            {
+              "url": "",
+              "title": "Assessing OneMain Holdings: Insights From 5 Financial Analysts",
+              "snippet": "Debt Management: With a high debt-to-equity ratio of 6.56, OneMain Holdings faces challenges in effectively managing its debt levels, indicating potential financial strain. The Basics of Analyst ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760985+00:00",
+              "published_date": null,
+              "source_hash": "00acf5b2aba52eb82858a5ca6221c133"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings Inc. Research & Ratings | OMF | Barron's",
+              "snippet": "OneMain Holdings, Inc. is a consumer finance company, which engages in the origination, underwriting, and servicing of personal loans, primarily to non-prime customers. It operates through the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.760995+00:00",
+              "published_date": null,
+              "source_hash": "0328bacecc85a8df488123d718335ae8"
+            },
+            {
+              "url": "",
+              "title": "A Glimpse Into The Expert Outlook On OneMain Holdings Through 6 ...",
+              "snippet": "Revenue Growth: Over the 3 months period, OneMain Holdings showcased positive performance, achieving a revenue growth rate of 4.73% as of 30 June, 2024. This reflects a substantial increase in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:00.761007+00:00",
+              "published_date": null,
+              "source_hash": "03b7014821441ed42edd8a4ddffcb9be"
+            },
+            {
+              "url": "",
+              "title": "Is OneMain Holdings Inc. (NYSE:OMF) the Best Dividend Stock to Buy Now?",
+              "snippet": "Cooperman, who calls himself a \"capitalist with a heart,\" said that the Federal Reserve kept interest rates ... \"OneMain Holdings, Inc. (NYSE:OMF) is a name we have owned for years. It's a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:03.333471+00:00",
+              "published_date": "2024-06-10T12:41:00+00:00",
+              "source_hash": "441f14d949c0ac582741d44b3a01ae29"
+            },
+            {
+              "url": "",
+              "title": "Analyst Scoreboard: 13 Ratings For OneMain Holdings",
+              "snippet": "Analysts have recently evaluated OneMain Holdings and provided 12-month price targets. The average target is $56.54, accompanied by a high estimate ... OneMain Holdings Inc is engaged in nonprime ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:03.333501+00:00",
+              "published_date": "2024-12-09T14:00:00+00:00",
+              "source_hash": "12ded62a2b561ab648685327c510f0f7"
+            },
+            {
+              "url": "",
+              "title": "Validea Detailed Fundamental Analysis - OMF",
+              "snippet": "Below is Validea's guru fundamental report for ONEMAIN HOLDINGS INC (OMF). Of the 22 guru strategies we follow, OMF rates highest using ... the strategy has some interest in the stock and a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc criticism high interest rates",
+              "retrieved_at": "2025-01-06T15:24:03.333549+00:00",
+              "published_date": "2024-12-09T21:00:00+00:00",
+              "source_hash": "6df6b84a053f43da071769d77d7a570b"
+            },
+            {
+              "url": "",
+              "title": "Total Debt For OneMain Holdings, Inc. (0S1) - finbox.com",
+              "snippet": "OneMain's total debt last quarter was 19.296 billion.. View OneMain Holdings, Inc.'s Total Debt trends, charts, and more. Summer SALE: Up to 50% OFF CLAIM OFFER",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.850944+00:00",
+              "published_date": null,
+              "source_hash": "4f91b149ae389e059a05703b73c4bcd6"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. - Financials - Annual Reports",
+              "snippet": "IR Contact. OneMain Holdings, Inc. 601 N.W. Second Street Evansville, IN 47708-1013 800-457-3741 Peter R Poillon Investor.relations@omf.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.850997+00:00",
+              "published_date": null,
+              "source_hash": "d33024a4bca53cbc61c5abdd37fe76ae"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. (OMF) Statistics & Valuation Metrics - Stock ...",
+              "snippet": "Detailed statistics for OneMain Holdings, Inc. (OMF) stock, including valuation metrics, financial numbers, share information and more. ... The company has $577.00 million in cash and $21.14 billion in debt, giving a net cash position of -$20.56 billion or -$172.26 per share. Cash & Cash Equivalents : 577.00M: Total Debt : 21.14B: Net Cash -20 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851008+00:00",
+              "published_date": null,
+              "source_hash": "12958a479ad4e1d4cd7e6f666759571d"
+            },
+            {
+              "url": "",
+              "title": "OMF | OneMain Holdings Inc. Financial Statements - WSJ",
+              "snippet": "OneMain Holdings Inc. balance sheet, income statement, cash flow, earnings & estimates, ratio and margins. View OMF financial statements in full. ... Total Debt to Total Equity 621.88: Total Debt ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851018+00:00",
+              "published_date": null,
+              "source_hash": "594a37841efb88b0b5416468be601c9c"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings, Inc. (Form: 10-K, Received: 02/09/2021 16:31:33)",
+              "snippet": "The information in this Annual Report on Form 10-K is equally applicable to OneMain Holdings, Inc. and OneMain Finance Corporation, except where otherwise indicated. OneMain Finance Corporation meets the conditions set forth in General Instructions I(1)(a) and (b) of Form 10-K and, to the extent applicable, is therefore filing this form with a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851027+00:00",
+              "published_date": null,
+              "source_hash": "4e8d9ade44954dabc11d8c7b327d18bf"
+            },
+            {
+              "url": "",
+              "title": "Document - SEC.gov",
+              "snippet": "The OneMain Finance Corporation financial statements incorporated in this prospectus by reference to OneMain Holdings, Inc.'s and OneMain Finance Corporation's combined Annual Report on Form 10-K for the year ended December 31, 2022 have been so incorporated in reliance on the report of PricewaterhouseCoopers LLP, an independent registered ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851034+00:00",
+              "published_date": null,
+              "source_hash": "b67b23a6244655e50b8e32a7f8d460a9"
+            },
+            {
+              "url": "",
+              "title": "omf-20210630 - SEC.gov",
+              "snippet": "OneMain Holdings, Inc. 4. Table of Contents. Term or Abbreviation: Definition: OneMain: ... Debt restructuring in which a concession is granted to the borrower as a result of economic or legal reasons related to the borrower's financial difficulties: Triton: Triton Insurance Company, an insurance subsidiary of OneMain Financial Holdings, LLC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851043+00:00",
+              "published_date": null,
+              "source_hash": "203f70a1d1043e8459e77f7ba587d1ed"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings Balance Sheet Health - Simply Wall St",
+              "snippet": "OneMain Holdings has a total shareholder equity of $3.2B and total debt of $21.1B, which brings its debt-to-equity ratio to 658.9%. Its total assets and total liabilities are $25.6B and $22.4B respectively.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851052+00:00",
+              "published_date": null,
+              "source_hash": "af6b6652fbda29543112322607f7864a"
+            },
+            {
+              "url": "",
+              "title": "Total Debt / Total Capital For OneMain Holdings Inc (OMF) - finbox.com",
+              "snippet": "OneMain's latest twelve months total debt / total capital is 79.4%; OneMain's total debt / total capital for fiscal years ending December 2019 to 2023 averaged 76.0%. OneMain's operated at median total debt / total capital of 75.0% from fiscal years ending December 2019 to 2023. Looking back at the last 5 years, OneMain's total debt / total ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851059+00:00",
+              "published_date": null,
+              "source_hash": "d7419e12c934480d4a9bb3afcf3bd34e"
+            },
+            {
+              "url": "",
+              "title": "KBRA Affirms Ratings for OneMain Holdings, Inc. and Subsidiary",
+              "snippet": "KBRA affirms the Issuer rating of BB+ for OneMain Holdings, Inc. (NYSE: OMF) (\"OneMain\" or \"the company\"), as well as the Issuer and senior unsecured debt ratings of BB+ for OneMain Finance Corporation (\"OneMain Finance\" or \"OMFC\"). ... (7 since YE21) and a return to the unsecured debt market in June 2023. OneMain's total loss ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:06.851066+00:00",
+              "published_date": null,
+              "source_hash": "617b78cec4108b0065258538318da78c"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings",
+              "snippet": "OneMain Holdings, Inc. is a consumer finance company, which provides origination, underwriting and servicing of personal loans, primarily to non-prime customers. It operates through the following ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:09.356621+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "bda7413da719f5501b49fe54f1dfe3e6"
+            },
+            {
+              "url": "",
+              "title": "Is OneMain Holdings Inc. (NYSE:OMF) the Best Dividend Stock to Buy Now?",
+              "snippet": "In the March quarter OneMain Holdings Inc. (NYSE:OMF) cut its long-term debt by $300 million to $19.52 billion. Despite rising interest rates and an uncertain market environment, OneMain Holdings ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:09.356733+00:00",
+              "published_date": "2024-06-10T12:41:00+00:00",
+              "source_hash": "a517c206f231f39c5328e84bb4c00165"
+            },
+            {
+              "url": "",
+              "title": "Analyst Scoreboard: 13 Ratings For OneMain Holdings",
+              "snippet": "OneMain Holdings Inc ... Holdings's debt-to-equity ratio is notably higher than the industry average. With a ratio of 6.59, the company relies more heavily on borrowed funds, indicating a higher ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:09.356765+00:00",
+              "published_date": "2024-12-09T14:00:00+00:00",
+              "source_hash": "9ae7b99b55edf45fdb8bc74f203737f6"
+            },
+            {
+              "url": "",
+              "title": "OneMain Holdings' SWOT analysis: nonprime lender's stock navigates credit risks",
+              "snippet": "OneMain Holdings, Inc. (NYSE:OMF) stands as a prominent player ... downturns or changes in consumer financial health. What risks does the expansion into the indirect auto market pose?",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:09.356788+00:00",
+              "published_date": "2024-11-25T17:22:00+00:00",
+              "source_hash": "c63af4b3bf9685cee9a9283cc0c36245"
+            },
+            {
+              "url": "",
+              "title": "Stifel Financial Corp Has $3.74 Million Holdings in OneMain Holdings, Inc. (NYSE:OMF)",
+              "snippet": "OneMain Holdings, Inc. has a 12-month low of $41.70 and a 12-month high of $57.97. The company has a market capitalization of $6.65 billion, a PE ratio of 12.19, a price-to-earnings-growth ratio ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "OneMain Holdings Inc OneMain Holdings Inc debt levels and refinancing risks",
+              "retrieved_at": "2025-01-06T15:24:09.356811+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "f412b2c1595246e2ee266524c0ba5684"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "OneMain Holdings Inc regulatory scrutiny and lawsuits",
+              "rationale": "Investigate ongoing legal and regulatory challenges related to lending practices and compliance",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "OneMain Holdings Inc criticism high interest rates",
+              "rationale": "Explore public and consumer advocacy group concerns regarding high interest rates and fee structures",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "OneMain Holdings Inc debt levels and refinancing risks",
+              "rationale": "Assess the company's financial stability and risks associated with its high debt levels and refinancing challenges",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:24:28.830720",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,600 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:55:10.767076",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "NVIDIA Corp",
+      "symbol": "NVDA",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Regulatory challenges, including failed acquisition of Arm Ltd. and antitrust scrutiny for Run:ai acquisition",
+            "Supply chain vulnerabilities due to reliance on third-party manufacturers like TSMC",
+            "Intense competition from AMD, Intel, and emerging players in AI and GPU markets"
+          ],
+          "controversies": [
+            "Termination of $40 billion Arm Ltd. acquisition due to regulatory hurdles",
+            "Antitrust scrutiny for $700 million Run:ai acquisition"
+          ],
+          "environmental_issues": [
+            "Energy-intensive operations and e-waste generation",
+            "Pressure to set more ambitious climate targets despite sustainability initiatives"
+          ],
+          "social_issues": [],
+          "governance_issues": [
+            "Execution risks in potential alliances, such as with Intel"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Nvidia, Arm deal fails after heightened regulatory scrutiny",
+              "snippet": "Nvidia's acquisition of Arm Ltd. faced its share of regulatory hurdles, but the global semiconductor chip shortage prompted increased scrutiny of the chip-related deal. ... SoftBank Group Corp. said Tuesday it was calling off the $40 billion deal because of \"significant regulatory challenges.\" Softbank, which has owned U.K.-based Arm since 2016 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186710+00:00",
+              "published_date": null,
+              "source_hash": "71deb7f2f177835ef2157bafa9b2cd07"
+            },
+            {
+              "url": "",
+              "title": "Nvidia Abandons Arm Acquisition Deal - PCMag",
+              "snippet": "Original Story 1/25: Nvidia is reportedly preparing to abandon its effort to buy Arm from SoftBank after the US Federal Trade Commission sued to stop the $40 billion deal.. Nvidia has told company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186819+00:00",
+              "published_date": null,
+              "source_hash": "4a0084d3a97541746b8219f70d6aca61"
+            },
+            {
+              "url": "",
+              "title": "The death of the NVIDIA Arm acquisition: Why it happened and who's ...",
+              "snippet": "NVIDIA announced its plan to purchase Arm way back in 2020 for a whopping $40 billion. That mammoth deal is now canceled as a result of \"significant regulatory challenges.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186834+00:00",
+              "published_date": null,
+              "source_hash": "b00ef25a05900d6f4233905f87f5ad8b"
+            },
+            {
+              "url": "",
+              "title": "Nvidia Scraps ARM Acquisition After Regulatory Pressure, Owner ... - Forbes",
+              "snippet": "Graphics chipmaker Nvidia scrapped its plans to acquire British semiconductor firm ARM due to \"significant regulatory challenges\", the companies announced on Tuesday, two months after the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186847+00:00",
+              "published_date": null,
+              "source_hash": "31ab405245488ed190c57083425cece2"
+            },
+            {
+              "url": "",
+              "title": "Qualcomm, Microsoft and Google raise concerns about NVIDIA's ...",
+              "snippet": "The implications of NVIDIA's acquisition of ARM extend far beyond the concerns raised by specific companies; they touch on issues central to competition law, antitrust regulations, and innovation landscapes. Global regulatory scrutiny has intensified as several nations examine the ramifications of such a high-stakes acquisition.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186860+00:00",
+              "published_date": null,
+              "source_hash": "d423f4ad9518aaffb5bfe8ad5d2c5ae0"
+            },
+            {
+              "url": "",
+              "title": "Nvidia's Arm deal: Largest-ever chip merger terminated over ...",
+              "snippet": "The Santa Clara, Calif.-based chipmaker was looking to acquire semiconductor designer ARM for around $40 billion from its Japanese parent Softbank. But Nvidia terminated the agreement \"because of significant regulatory challenges preventing the consummation of the transaction, despite good faith efforts by the parties,\" according to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186871+00:00",
+              "published_date": null,
+              "source_hash": "23ce1bf457290736b180afbad671d207"
+            },
+            {
+              "url": "",
+              "title": "Arm Nvidia news: A timeline of the controversial take-over - Tech Monitor",
+              "snippet": "\"Nvidia and SoftBank Group have agreed to terminate the agreement because of significant regulatory challenges preventing the consummation of the Transaction, despite good faith efforts by the parties,\" the company said in a statement released today, Tuesday February 8. ... Nvidia appears ready to abandon its take-over of Arm. The company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186883+00:00",
+              "published_date": null,
+              "source_hash": "6bb5a1ea1fd1769e36097fb4e6d74761"
+            },
+            {
+              "url": "",
+              "title": "Nvidia Confirms $40B Arm Deal Is Dead Due To 'Regulatory Challenges'",
+              "snippet": "Nvidia terminated its $40 billion bid to acquire British chip designer Arm due to \"significant regulatory challenges,\" the chipmaker confirmed early Tuesday morning.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186894+00:00",
+              "published_date": null,
+              "source_hash": "76e6a09a62d641fd58175a27747919ff"
+            },
+            {
+              "url": "",
+              "title": "Regulations Prevail as NVIDIA's $40B Arm Acquisition Falls Flat",
+              "snippet": "The largest semiconductor deal has been called off. American chipmaker NVIDIA on Tuesday announced the termination of its $40 billion bid to acquire Arm. The company attributed it to \"significant regulatory challenges\" surrounding the deal ever since it was first announced, \"despite good faith efforts by the parties.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186905+00:00",
+              "published_date": null,
+              "source_hash": "ad5a93e05dad2f61ae21d78940604310"
+            },
+            {
+              "url": "",
+              "title": "Nvidia cancels Arm acquisition due to 'significant' regulatory scrutiny",
+              "snippet": "Nvidia has abandoned plans to purchase chip designers Arm due to \"significant regulatory challenges\". In 2016, Arm was acquired by Japanese conglomerate SoftBank Group for $32bn. Nvidia announced its intention to buy a 90 per cent stake in the firm for $40bn in September 2020.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:40.186917+00:00",
+              "published_date": null,
+              "source_hash": "26824afb7ed0878820f0ac131acf7139"
+            },
+            {
+              "url": "",
+              "title": "Nvidia Confirms $40B Arm Deal Is Dead Due To 'Regulatory Challenges'",
+              "snippet": "Though we won't be one company, we will partner closely with Arm.' Nvidia terminated its $40 billion bid to acquire British chip designer Arm due to \"significant regulatory challenges ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:42.834910+00:00",
+              "published_date": "2022-02-08T14:48:00+00:00",
+              "source_hash": "d10047555cd49bb1a9d19d861942f57a"
+            },
+            {
+              "url": "",
+              "title": "Nvidia closes $700M Run:ai acquisition after regulatory hurdles",
+              "snippet": "The European Commission granted unconditional approval to Nvidia's $700 million bid for Run:ai, which helps developers optimize infrastructure for AI, earlier in December after saying in October that the deal would require EU antitrust clearance.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:42.834954+00:00",
+              "published_date": "2024-12-30T21:53:32+00:00",
+              "source_hash": "a220e557c94f0b869d6417285efed5b8"
+            },
+            {
+              "url": "",
+              "title": "Nvidia completes $700M Run:ai acquisition following antitrust scrutiny",
+              "snippet": "Nvidia announced plans to acquire Run:ai, officially Runai Labs Ltd, in April. TechCrunch reported at the time that the deal was worth $700 million. Run:ai previously raised $118 million in venture funding from Tiger Global and other investors.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:42.834981+00:00",
+              "published_date": "2024-12-31T17:35:00+00:00",
+              "source_hash": "2af9a7010f58fe5d3d75846e287f2b45"
+            },
+            {
+              "url": "",
+              "title": "Nvidia almost produced an x86 CPU to rival AMD and Intel, but was forced to move to Arm due to 'certain legal issues'",
+              "snippet": "It originally started as an x86 [CPU], but through certain legal issues, had to turn itself into an Arm ... company emerges as key partner to help Google, Meta and other hyperscalers build an ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:42.834988+00:00",
+              "published_date": "2024-12-07T00:00:00+00:00",
+              "source_hash": "fd54ceb9ff577faa55de1ce56ebacc4d"
+            },
+            {
+              "url": "",
+              "title": "Nvidia Ends Down Stretch With Positive News From EU Regulators",
+              "snippet": "Nvidia shares slowed their recent slide into technical-correction territory Friday as the tech giant received positive news that European regulators had cleared a recent acquisition of competition concerns.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp regulatory challenges Arm acquisition",
+              "retrieved_at": "2025-01-06T16:54:42.834994+00:00",
+              "published_date": "2024-12-20T18:53:37+00:00",
+              "source_hash": "31aa74224953c0fe3b15d71176c1e0f8"
+            },
+            {
+              "url": "",
+              "title": "Nvidia diversifying supply chain - Taipei Times",
+              "snippet": "TSMC makes chips for Nvidia's A100 and H100 GPUs, Huang said. As demand for the H100 GPU is \"very significant,\" Nvidia has placed large orders on its supply chain globally, he said. Nvidia, one of TSMC's biggest customers for advanced process technology, adopted TSMC's 4-nanometer technology to build its latest H100 GPU.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385687+00:00",
+              "published_date": null,
+              "source_hash": "807b1120a7fbd1b78cd6f1bc22aca6a4"
+            },
+            {
+              "url": "",
+              "title": "Nvidia takes full Blackwell delay accountability, seeks to dispel ...",
+              "snippet": "As of May 2023, TSMC accounted for 35.82% of Nvidia's costs, according to Bloomberg estimates\u2014more than double that of Nvidia's second-largest supplier, Wistron, and significantly higher than ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385799+00:00",
+              "published_date": null,
+              "source_hash": "af429097d535187ba9d3e579ecef2ab8"
+            },
+            {
+              "url": "",
+              "title": "Nvidia's supply snags limit deliveries even as demand booms",
+              "snippet": "Nvidia shares hit record high on Thursday, before reversing course; Company selling chips as fast as contractor TSMC can make them; New Blackwell chip had initial design flaw that has been fixed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385819+00:00",
+              "published_date": null,
+              "source_hash": "e935283dc531c65483c864310f58b1c7"
+            },
+            {
+              "url": "",
+              "title": "Unmasking Vulnerabilities: Assessing Third-Party Risks in NVIDIA",
+              "snippet": "This study explores the third party risks associated with NVIDIA's rapid growth as a leading provider of GPUs and AI technology. Despite NVIDIA's remarkable stock performance, concerns arise around its risk management capabilities, especially given dependencies on third-party technology providers, supply chain vulnerabilities, and the broader implications of AI adoption. Key risks include ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385836+00:00",
+              "published_date": null,
+              "source_hash": "cf9341a17d9ff5ce068d27f03e5abc51"
+            },
+            {
+              "url": "",
+              "title": "Blackwell Processor Delays: TSMC Manufacturing Issues Impact Nvidias AI ...",
+              "snippet": "Additionally, the production issues highlight vulnerabilities in the semiconductor supply chain, emphasizing the need for greater resilience and diversification. Future Outlook. Looking ahead, resolving TSMC's production issues is crucial for Nvidia to get back on track with its Blackwell processors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385848+00:00",
+              "published_date": null,
+              "source_hash": "217a345509d9778112580bbdcf6a54f1"
+            },
+            {
+              "url": "",
+              "title": "Nvidia: Taiwan Risks \u2014 Amidst Questionable Valuation ... - LinkedIn",
+              "snippet": "As a former Nvidia Corporation investor, I recently sold my position due to concerns about valuation and supply chain risks, which are often overlooked amidst market trends. This reinforces a core ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385858+00:00",
+              "published_date": null,
+              "source_hash": "b1081d8fc25f431796bcfc0cabe3c8eb"
+            },
+            {
+              "url": "",
+              "title": "Nvidia Chip Supply Chain Challenges - Restackio",
+              "snippet": "Supply Chain Issues: The ongoing NVIDIA chip supply chain issues highlight the vulnerabilities in relying on a single source for semiconductor production. Geopolitical Tensions: Global tensions, particularly between the U.S. and China, could impact the semiconductor supply chain, necessitating a more resilient approach. Conclusion",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385871+00:00",
+              "published_date": null,
+              "source_hash": "47c7448e0e07874fc6b2a46792fe1953"
+            },
+            {
+              "url": "",
+              "title": "NVIDIA: GPU Supply Issues Involve Packaging, Not Chip Wafers",
+              "snippet": "Nvidia's H-class GPUs make use of TSMC's 2.5D Chip-on-Wafer-on-Substrate (CoWoS) packaging technology, a multi-step, high-precision engineering step whose complexity slows down the number of GPUs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385881+00:00",
+              "published_date": null,
+              "source_hash": "6c9f8c38d7f28a8431d91856dfaaeb86"
+            },
+            {
+              "url": "",
+              "title": "Nvidia CEO feels 'perfectly safe' sourcing from Taiwan's TSMC amid ...",
+              "snippet": "Key Words Nvidia CEO feels 'perfectly safe' sourcing from Taiwan's TSMC amid China tensions Chip maker has bet farm on AI, and the supply chain it needs flows through Taiwan and China",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385891+00:00",
+              "published_date": null,
+              "source_hash": "f95520f7ad5fe2424876e4da361285ca"
+            },
+            {
+              "url": "",
+              "title": "TSMC navigates rumored strained relationship with Nvidia and shipments ...",
+              "snippet": "Asia Supply Chain 250 dataset access. Related stories. 40nm crisis: how TSMC shaped Nvidia's triumph, AMD's demise. TSMC's backend equipment suppliers benefit from AI chip demand.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:44.385901+00:00",
+              "published_date": null,
+              "source_hash": "54cc5e7c9bae39166dc76243e842250b"
+            },
+            {
+              "url": "",
+              "title": "Possible Nvidia, Intel GPU Alliance Could Frustrate Rivals AMD, TSMC",
+              "snippet": "In a veritable arms race to meet a GPU supply shortage, the companies' combined efforts could put pressure on chip powerhouses TSMC and AMD. Nvidia CEO ... based ASI Corp., says there could ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:46.837971+00:00",
+              "published_date": "2022-03-24T21:36:00+00:00",
+              "source_hash": "6c79ca88ff2a031e18dd77da770c507e"
+            },
+            {
+              "url": "",
+              "title": "Himax Stock Jumps As Analysts Tout Potential Nvidia, TSMC Supply Chain Opportunities: Retail Sentiment Brightens",
+              "snippet": "Himax Technologies, Inc. ($HIMX) shares jumped on Thursday after an analyst said the Taiwanese fabless semiconductor company could be a potential wafer-level optics ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:46.838075+00:00",
+              "published_date": "2024-12-13T05:28:00+00:00",
+              "source_hash": "6238d5320b9140a56c21261844094602"
+            },
+            {
+              "url": "",
+              "title": "Better Semiconductor Stock: TSMC vs. Nvidia",
+              "snippet": "Reports indicate Nvidia may have sold out its Blackwell supply for almost the entirety of 2025. This is where TSMC's increased production capacity should come in handy.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:46.838105+00:00",
+              "published_date": "2024-12-11T00:00:00+00:00",
+              "source_hash": "c21820db4c93489f7515f980ad63eff7"
+            },
+            {
+              "url": "",
+              "title": "Exclusive: TSMC in talks with Nvidia for AI chip production in Arizona, sources say",
+              "snippet": "TAIPEI/SINGAPORE, Dec 5 (Reuters) - Taiwan Semiconductor Manufacturing Co (2330.TW), opens new tab is in discussions with Nvidia Corp (NVDA.O ... with the matter said. TSMC is already making ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:46.838129+00:00",
+              "published_date": "2024-12-05T09:05:00+00:00",
+              "source_hash": "ba83dea3bc6413d8e34f367727d86170"
+            },
+            {
+              "url": "",
+              "title": "Exclusive-TSMC in Talks With Nvidia for AI Chip Production in Arizona, Sources Say",
+              "snippet": "Exclusive-TSMC in Talks With Nvidia for AI Chip Production ... Taiwan Semiconductor Manufacturing Co is in discussions with Nvidia Corp to produce its Blackwell artificial intelligence chips ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "NVIDIA Corp NVIDIA Corp supply chain vulnerabilities TSMC",
+              "retrieved_at": "2025-01-06T16:54:46.838151+00:00",
+              "published_date": "2024-12-05T04:06:00+00:00",
+              "source_hash": "6be32661d6e4224e2d2c3194c85da869"
+            },
+            {
+              "url": "",
+              "title": "Corporate Sustainability - NVIDIA",
+              "snippet": "Corporate Sustainability Our innovations in AI and accelerated computing are setting new standards for environmental responsibility while powering a greener, more sustainable future. AI Enhanced",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.298943+00:00",
+              "published_date": null,
+              "source_hash": "2e6b298a32843aa11145f4d853041cc2"
+            },
+            {
+              "url": "",
+              "title": " NVIDIA Sustainability Report Fiscal Year 2024",
+              "snippet": "poised to impact every industry and enable a new era of productivity and sustainability by unlocking efficiencies and resource optimization across sectors. The fourth industrial revolution has begun, and the world is embracing NVIDIA's computing platform. Our commitment to driving these changes is unwavering. Our innovations",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299026+00:00",
+              "published_date": null,
+              "source_hash": "090c818091970185914ffa3ed00c866e"
+            },
+            {
+              "url": "",
+              "title": " NVIDIA Corporate Responsibility Report Fiscal Year 2023",
+              "snippet": "We also disclose in accordance with the Sustainability Accounting Standards Board and Task Force on Climate-Related Financial Disclosures. We continue to align our social impact activities with the United Nations' Sustainable Development Goals. We publish our Corporate Responsibility report annually. Previous reports can be found in the",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299042+00:00",
+              "published_date": null,
+              "source_hash": "342ea5bbf3de152c9fab3bf69960a17b"
+            },
+            {
+              "url": "",
+              "title": " NVIDIA 2022 Corporate Responsibility Report",
+              "snippet": "NVIDIA and how we manage it, and disclose relevant performance data. Corporate Responsibility Governance The Nominating and Corporate g overnance Committee (NC gC) of our Board is responsible for reviewing and discussing with management our practices concerning environmental, social, and corporate governance. Our head of corporate responsibility",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299050+00:00",
+              "published_date": null,
+              "source_hash": "962c4f96af3a784bf6132de86123a567"
+            },
+            {
+              "url": "",
+              "title": "NVIDIA Corp 2023 Corporate Responsibility Report",
+              "snippet": "NVIDIA Corp 2023 Corporate Responsibility Report. The report covers NVIDIA's fiscal year ended January 29, 2023, highlighting the company's commitment to sustainability, diversity, and inclusion. NVIDIA's progress in reducing its environmental impact, particularly its greenhouse gas emissions, is outlined. The report also discusses the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299070+00:00",
+              "published_date": null,
+              "source_hash": "dac4c0153bda31f7d113320929d745fb"
+            },
+            {
+              "url": "",
+              "title": "Nvidia's $35B Q3 Revenue: Record AI Growth Meets Rising Environmental ...",
+              "snippet": "Nvidia's Sustainability Initiatives. In response to these challenges, Nvidia has outlined a series of sustainability goals in its 2024 Corporate Responsibility Report. The company is committed to achieving 100% renewable electricity for all its offices and data centers by fiscal year 2025.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299077+00:00",
+              "published_date": null,
+              "source_hash": "d905d5820f109330448fee307f1ed388"
+            },
+            {
+              "url": "",
+              "title": "NVIDIA Sustainability Report - Impakter Index",
+              "snippet": "The NVIDIA FY22 Corporate Responsibility Report covers the company's performance for the fiscal year ended January 30, 2022. NVIDIA did not seek external assurance for the report, however the pay and promotion metrics have been evaluated by Secretariat Economists, Inc. S&P Sustainable1 provide assurance on FY22 global scope 1 and 2 GHG emissions and scope 3 fuel- and energy related ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299085+00:00",
+              "published_date": null,
+              "source_hash": "d6fed50a2c30b09282b9ce50388795e5"
+            },
+            {
+              "url": "",
+              "title": " Environmental, Health, Safety and Energy (Ehs&E) Policy - Nvidia",
+              "snippet": "NVIDIA Corporation Application: Global Policy Name: Environmental, Health, Safety, and Energy (EH&S) Policy - External Page 1 of 1. Last updated: MAY 31, 2024 . Purpose . NVIDIA is committed to providing a safe, healthy and sustainable environment for our employees, contractors, visitors, workers in our product supply chain, and our communities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299094+00:00",
+              "published_date": null,
+              "source_hash": "b320fea0b8d544ed3ce6712dfb90b9ef"
+            },
+            {
+              "url": "",
+              "title": "Nvidia (NVDA): PESTEL and Macro-Environmental Analysis",
+              "snippet": "Regular audits and assessments of suppliers' environmental performance ensure compliance with NVIDIA's sustainability standards across the supply chain. Additionally, adopting green procurement policies and promoting recycling programs reduces environmental impact and enhances NVIDIA's corporate social responsibility profile.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299101+00:00",
+              "published_date": null,
+              "source_hash": "3b2fd161875627b7930ba8378cf63a5d"
+            },
+            {
+              "url": "",
+              "title": "NVIDIA's ESG and corporate social responsibility strategy",
+              "snippet": "NVIDIA's corporate social responsibility. To ensure the business is reaching its sustainability targets, NVIDIA conducts annual assessments of its corporate responsibility impacts, analysing its social and environmental effects, for example, by evaluating stakeholder expectations, market trends and risks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:48.299107+00:00",
+              "published_date": null,
+              "source_hash": "5cddc41943a180b091a2b80b2909b5b7"
+            },
+            {
+              "url": "",
+              "title": "Why Nvidia's AI Chip Lead Is Sustainable",
+              "snippet": "Nvidia's lead in the artificial intelligence market is sustainable for years to come, a Wall Street investment bank says.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:51.822384+00:00",
+              "published_date": "2025-01-02T21:51:00+00:00",
+              "source_hash": "7a60575c83fa4ebec5d9bdd3ce8152d5"
+            },
+            {
+              "url": "",
+              "title": "Nvidia considers setting climate targets in green charm offensive",
+              "snippet": "The massive chipmaker's sustainability chief wants policymakers to consider AI's positive impact before ... senior director of corporate sustainability at Nvidia, in an interview in Brussels.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:51.822440+00:00",
+              "published_date": "2024-12-04T11:16:00+00:00",
+              "source_hash": "cddce3d7812ec47577780b7ecb360838"
+            },
+            {
+              "url": "",
+              "title": "NVIDIA Corporation (NVDA)",
+              "snippet": "the environment or the company's operations. Controversies are rated on a scale from one to five, with five denoting the most serious controversies with the largest potential impact.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:51.822451+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "3a4242854fcd885244f703d2574df122"
+            },
+            {
+              "url": "",
+              "title": "Analyst Says Potential Trade War to Have 'Material Impact' on Nvidia (NVDA)",
+              "snippet": "Despite this, the firm views Nvidia Corp (NASDAQ:NVDA) as the leader in the AI GPU market, with Blackwell offering 2.2 times the performance of Hopper. Chong also noted the potential impact of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "NVIDIA Corp NVIDIA Corp environmental impact sustainability",
+              "retrieved_at": "2025-01-06T16:54:51.822458+00:00",
+              "published_date": "2024-12-19T11:26:00+00:00",
+              "source_hash": "88e73623156eb5446b3b449b1ff3130e"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "NVIDIA Corp regulatory challenges Arm acquisition",
+              "rationale": "Investigate the regulatory hurdles and legal implications of the failed Arm Limited acquisition",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "NVIDIA Corp supply chain vulnerabilities TSMC",
+              "rationale": "Examine the risks associated with NVIDIA's reliance on third-party manufacturers like TSMC and potential supply chain disruptions",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "NVIDIA Corp environmental impact sustainability",
+              "rationale": "Assess NVIDIA's environmental practices and commitments to sustainability, including energy consumption and e-waste management",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:55:10.767084",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

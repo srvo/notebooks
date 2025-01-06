@@ -1,0 +1,578 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:34:16.106582",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Unity Software Inc",
+      "symbol": "U",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Pricing Model Backlash: Significant backlash from the developer community due to the controversial 'runtime fee' policy.",
+            "Profitability Challenges: Struggles to achieve consistent profitability despite revenue growth, leading to multiple rounds of layoffs and restructuring.",
+            "Dependence on Mobile Gaming: High reliance on mobile gaming revenue, making the company vulnerable to market shifts and app store policy changes.",
+            "Intense Competition: Facing strong competition from Unreal Engine and other 3D development platforms, which could erode market share.",
+            "Revenue Decline: Reported a 14% decline in revenue for the first nine months of 2024, driven by challenges in the Grow Solutions segment."
+          ],
+          "controversies": [
+            "Runtime Fee Policy: Introduction and subsequent revision of the 'runtime fee' policy, which damaged trust with the developer community.",
+            "Workforce Reductions: Multiple rounds of layoffs, including a 25% workforce reduction in 2023, raising concerns about employee morale and operational stability."
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Developer Trust: Strained relationship with the developer community due to the runtime fee controversy and policy reversals.",
+            "Employee Morale: Concerns about employee morale and operational stability due to repeated layoffs and restructuring efforts."
+          ],
+          "governance_issues": [
+            "Management Decisions: Controversial decisions such as the runtime fee policy and workforce reductions, raising questions about governance and strategic direction."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Unity has eliminated its controversial runtime fee - The Verge",
+              "snippet": "Instead of the runtime fee, Unity will return to a per-seat subscription model. Last year, Unity caused a stir within the game development community with a controversial update to its pricing model.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358260+00:00",
+              "published_date": null,
+              "source_hash": "442b29a1b158af2d6b5d000dac4800da"
+            },
+            {
+              "url": "",
+              "title": "Unity Apologizes, Walks Back Fee Changes After Game Developer Backlash ...",
+              "snippet": "Whitten shared that the runtime fees have been modified so that developers using Unity Personal do not have to pay the fee at all. Unity Pro and Unity Enterprise developers will only accrue the runtime fee if they install the 2024 long term support (LTS) version of Unity. Games built on current or older versions will not accrue the fee.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358373+00:00",
+              "published_date": null,
+              "source_hash": "8b679b0a390db2a84fdb926a1eb798aa"
+            },
+            {
+              "url": "",
+              "title": "Following Backlash From Just About Everyone, Unity Cancels Runtime Fee ...",
+              "snippet": "Unity Personal will remain free, doubling the revenue and funding ceiling to $200,000. Even the \"Made with Unity\" splash screen will become optional in Unity 6. (Notably, as mentioned above, these changes were all previously announced in late September 2023 after the initial backlash to the Runtime Fee).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358391+00:00",
+              "published_date": null,
+              "source_hash": "b2878aa7a281840de7fd8bdf1d3534d9"
+            },
+            {
+              "url": "",
+              "title": "Unity scraps its 'Runtime Fee' following developer backlash",
+              "snippet": "Unity has announced the cancellation of its contentious 'Runtime Fee' for game developers. The decision comes after months of intense criticism from the gaming community. Matt Bromberg, President and CEO of Unity, stated: \"After deep consultation with our community, customers, and partners, we've made the decision to cancel the Runtime Fee for our games customers, effective immediately.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358404+00:00",
+              "published_date": null,
+              "source_hash": "9576c599f22305710cdedbafe0e89314"
+            },
+            {
+              "url": "",
+              "title": "Unity caves to community blowback and revises controversial runtime fee",
+              "snippet": "TL;DR: As predicted, Unity has changed course on its Unity Runtime Fee after severe backlash from the community and weeks of bad press. It reformulated the maligned monetization plan in a way that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358418+00:00",
+              "published_date": null,
+              "source_hash": "851719fbdb2bf052a90b0d30c54fe89c"
+            },
+            {
+              "url": "",
+              "title": "Unity Cancels Controversial Runtime Fee: What It Means for ... - RenderHub",
+              "snippet": "The Runtime Fee was introduced in September 2023, sparking immediate controversy and backlash. The new policy imposed a fee every time a game developed using Unitys engine was downloaded by a user. While this might seem like a fair tradeoff for using a robust game development tool, the structure of the fee was problematic for developers. Under ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358429+00:00",
+              "published_date": null,
+              "source_hash": "66eb36e6fff2f19e25a21035379cf6fd"
+            },
+            {
+              "url": "",
+              "title": "Unity Issues Apology, Promises Revisions To Runtime Fee Policy: 'We ...",
+              "snippet": "Unity Software Inc U issued an apology Sunday for the confusion and dissatisfaction caused by its recently announced runtime fee policy.. The leading cross-platform game engine company has faced ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358444+00:00",
+              "published_date": null,
+              "source_hash": "c9c989585e40e386eb460857c5626080"
+            },
+            {
+              "url": "",
+              "title": "Unity Removes Runtime Fee Policy After A Year Of Backlash - TheGamer",
+              "snippet": "The original policy sought to charge developers for every separate installation of their game, but Unity reworked this change after overwhelming backlash from the developer community. The reworked policy was more lenient, offering applicable users the choice of giving Unity 2.5 per cent of their revenue or paying a fee calculated by Unity based ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358455+00:00",
+              "published_date": null,
+              "source_hash": "e28bffd322abfb58fa2b2b814b01509d"
+            },
+            {
+              "url": "",
+              "title": "Unity Software scraps 'runtime fee' pricing policy, introduces price hikes",
+              "snippet": "(Reuters) - Unity Software is abandoning its \"runtime fee\" pricing policy, nearly a year after its announcement sparked considerable backlash from the videogame developer community.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358466+00:00",
+              "published_date": null,
+              "source_hash": "a3e56d47f6fb1a1526227ab1b06d9fc0"
+            },
+            {
+              "url": "",
+              "title": "Unity Reverses Controversial \"Runtime Fee\" Pricing Policy Following ...",
+              "snippet": "In response to backlash from the gaming development community, Unity, a video-game software maker, has retracted \"runtime fee\" pricing policy ... a video-game software maker, has retracted ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:40.358479+00:00",
+              "published_date": null,
+              "source_hash": "a85d7b0569c9bd403b0b5308cac952c4"
+            },
+            {
+              "url": "",
+              "title": "Unity Software shares surge after cryptic post by 'Roaring Kitty'",
+              "snippet": "Jan 2 (Reuters) - Unity Software's (U.N ... company introduced a pricing policy \"runtime fee\" in 2023, which it had to scrap the next year after facing severe backlash from the videogame developer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:43.472727+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "570c9084ce20d4a70d969eefe2dc4e67"
+            },
+            {
+              "url": "",
+              "title": "Unity is Doing Away With Its Controversial Fees",
+              "snippet": "Unity has canceled the controversial Runtime Fee for the use of its game engine. First implemented in September 2023, the model ... The latest piece of backlash against Unity Technologies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:43.472835+00:00",
+              "published_date": "2024-09-13T08:06:00+00:00",
+              "source_hash": "b1466abadfadfc591f1991390160ae62"
+            },
+            {
+              "url": "",
+              "title": "Unity Software shares surge after cryptic post by 'Roaring Kitty'",
+              "snippet": "Keith Gill, popularly known among traders as \"Roaring Kitty,\" shot to fame during \"the meme stock frenzy\" that gripped Wall Street in 2021 and triggered an eye-popping rally in GameStop's shares. Gill posted a small clip about late musician Rick James on X,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:43.472865+00:00",
+              "published_date": "2025-01-02T17:40:24+00:00",
+              "source_hash": "5a7ad4d3e5f938aaec994494baffb9fb"
+            },
+            {
+              "url": "",
+              "title": "Unity jumps after revealing plan to cancel Runtime Fee, raise subscription fees",
+              "snippet": "Unity Software (NYSE:U) shares jumped 8% by noon trading on Thursday after the company announced it was immediately canceling the Runtime Fee for its games customers, while increasing subscription ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:43.472893+00:00",
+              "published_date": "2024-09-12T17:09:00+00:00",
+              "source_hash": "f04e0af95980c6aee72766a35ffbdad3"
+            },
+            {
+              "url": "",
+              "title": "Unity Software: Bullish As It Returns To Growth In 2025",
+              "snippet": "Unity Software's stock is poised for a comeback in 2025, with a dominant graphics engine and focus on core business. Click here to find out why U is a Strong Buy.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc runtime fee policy backlash 2023",
+              "retrieved_at": "2025-01-06T16:33:43.472916+00:00",
+              "published_date": "2024-12-31T12:54:00+00:00",
+              "source_hash": "8b92cebe6b2b2a5b6a7dec65f08cf126"
+            },
+            {
+              "url": "",
+              "title": "Decoding Unity Software Inc (U): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On November 9, 2023, Unity Software Inc filed its 10-Q report, revealing significant financial data and strategic insights. This SWOT analysis delves into the company's financial health and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168252+00:00",
+              "published_date": null,
+              "source_hash": "0f7c59838709f84d8c9f1903bc35edeb"
+            },
+            {
+              "url": "",
+              "title": "Unity Software: Leadership Focus On Profitability, Growth And ...",
+              "snippet": "On January 11th, 2023, we initiated coverage on Unity Software (NYSE:U) with a strong buy rating and a $35 price target, citing key growth opportunities in both gaming and non-gaming sectors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168365+00:00",
+              "published_date": null,
+              "source_hash": "213302d09c709440fdb1200e952707eb"
+            },
+            {
+              "url": "",
+              "title": "Unity Software: From Challenges to Growth Opportunities",
+              "snippet": "Despite a challenging environment, Unity demonstrated some positive financial trends, reflecting the resilience of its business: Revenue Decline: Total revenue for the first nine months of 2024 amounted to $1.36 billion, down 14% from $1.58 billion in 2023.The main drivers of this decline were reduced revenues from the Grow Solutions segment and portfolio restructuring .",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168379+00:00",
+              "published_date": null,
+              "source_hash": "cf5565d9263ef846f7b8c14b72f2065e"
+            },
+            {
+              "url": "",
+              "title": "Unity discovers how real the revenue struggle is | Reuters",
+              "snippet": "Unity Software is finding out just how hard the revenue game will be. The $14 billion company's new plan to climb out of an unprofitable hole makes sense, but also faces considerable pushback.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168389+00:00",
+              "published_date": null,
+              "source_hash": "1cdc53439cdc9f5dcf6bc723d5d540d2"
+            },
+            {
+              "url": "",
+              "title": "The Future of Unity Software: Navigating Challenges and ... - Kavout",
+              "snippet": "Unity Software Inc. (NYSE: U), a prominent player in the realm of real-time 3D content development, has established itself as a leader in the gaming and virtual reality (VR) sectors. Despite its U.S. headquarters, Unity's roots trace back to Europe, where it has garnered a significant user base among developers. As of September 2024, Unity faces a complex landscape characterized by financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168399+00:00",
+              "published_date": null,
+              "source_hash": "555dfb0928df4e97b28ccba503bd8a0f"
+            },
+            {
+              "url": "",
+              "title": "3 Red Flags for Unity Software's Future | The Motley Fool",
+              "snippet": "Unity Software's (U-0.18%) stock hit its all-time high of $201.12 on Nov. 18, 2021. That represented a 287% gain from its IPO price of $52 a mere 14 months earlier.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168408+00:00",
+              "published_date": null,
+              "source_hash": "799841ea37e4354d86f4932c3c808371"
+            },
+            {
+              "url": "",
+              "title": "Unity's Planned Cuts Won't Be Enough For Profitability - Seeking Alpha",
+              "snippet": "Unity Software (NYSE:U) announced a firm-wide 25% layoff on January 8, 2024, along with the exit of Unity Grow President, Tomer Bar-Zeev, two days later, as James Whitehurst, CEO, seeks to turn ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168418+00:00",
+              "published_date": null,
+              "source_hash": "b9a4b9859b2f77729778f5a05090b8e0"
+            },
+            {
+              "url": "",
+              "title": "Unity Software Inc (U) Q2 2024 Earnings Call Highlights: Navigating ...",
+              "snippet": "Unity Software Inc exceeded guidance for both revenue and adjusted EBITDA in the second quarter. The company reported a 35% improvement in GAAP net loss compared to the same quarter last year.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168425+00:00",
+              "published_date": null,
+              "source_hash": "da6407890d8e8d5c94945a2369123632"
+            },
+            {
+              "url": "",
+              "title": " FQ1 2023 Earnings Call Transcripts - s26.q4cdn.com",
+              "snippet": "Well, we expect growth and profitability to accelerate throughout the year. We're guiding Q2 above consensus for both revenue and EBITDA. And for the full year, we're being prudent. I mean we ... UNITY SOFTWARE INC. FQ1 2023 EARNINGS CALL MAY 10, 2023",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168432+00:00",
+              "published_date": null,
+              "source_hash": "0afe39bfbbeef7cb3d8240750d81d656"
+            },
+            {
+              "url": "",
+              "title": "Decoding Unity Software Inc (U): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Unity Software Inc (U, Financial) is a leading platform for creating and operating interactive, real-time 3D content, with a broad application across industries such as gaming, architecture, and animation.On November 9, 2023, Unity Software Inc filed its 10-Q report, revealing significant financial data and strategic insights. This SWOT analysis delves into the company's financial health and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:46.168443+00:00",
+              "published_date": null,
+              "source_hash": "f793650a0cdab6e72ee22dc47215c5a6"
+            },
+            {
+              "url": "",
+              "title": "Unity Software Inc (U) Stock Dilemma: A Drop That Has Everyone Talking\u2014What's the Real Story?",
+              "snippet": "Unity Software Inc (U) stock saw a decline, ending the day at $22.47 which represents a decrease of $-0.04 or -0.18% from the prior close of $22.51. The stock opened at $22.73 and touched a low of $22.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:49.778735+00:00",
+              "published_date": "2025-01-02T19:59:00+00:00",
+              "source_hash": "25bb95299834216e63bf5f8fcbaa9dc3"
+            },
+            {
+              "url": "",
+              "title": "Unity Software Inc (U) Stock Settles at $22.51: What's Contributing to This Price Point?",
+              "snippet": "Unity Software Inc (U) stock saw a modest uptick, ending the day at $22.51 which represents a slight increase of $0.25 or 1.12% from the prior close of $22.26. The stock opened at $21.83 and touched a low of $21.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:49.778852+00:00",
+              "published_date": "2024-12-23T18:55:00+00:00",
+              "source_hash": "65e52556cd9941c40bcbf884d8dd7f41"
+            },
+            {
+              "url": "",
+              "title": "Unity Software shares surge after cryptic post by 'Roaring Kitty'",
+              "snippet": "Jan 2 (Reuters) - Unity Software's (U.N), opens new tab ... following 8% of job cuts in 2023, in a bid to focus on profitability. \"You would think people would have learned by now that playing ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:49.778884+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "9a649b91a280c1db6f202fa452489fdc"
+            },
+            {
+              "url": "",
+              "title": "Unity Software Inc (U) Stock: Greater Than Its Current Valuation?",
+              "snippet": "Investors often prefer to invest in shares held by company insiders, as management is typically more aligned with the company's success and shareholder interests. Currently, insiders own just 25.69% of Unity Software Inc (U)'s shares, while financial institutions hold 56.91%.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Unity Software Inc Unity Software Inc profitability challenges 2023",
+              "retrieved_at": "2025-01-06T16:33:49.778913+00:00",
+              "published_date": "2024-12-26T15:44:00+00:00",
+              "source_hash": "195fb70bfec024cd40bc7c69bace0d48"
+            },
+            {
+              "url": "",
+              "title": "Unity Software to lay off 1,800 employees, or 25% of staff",
+              "snippet": "Unity Software is slashing about 25% of its workforce just eight months after announcing its prior round of layoffs. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.236921+00:00",
+              "published_date": null,
+              "source_hash": "9e1c3b1df0daaae544a6719c7edb75ee"
+            },
+            {
+              "url": "",
+              "title": "Unity is laying off 25 percent of its staff - The Verge",
+              "snippet": "\"Today, as part of our company reset outlined in our Shareholder Letter on November 9, 2023, we announced that Unity has made the difficult decision to implement a workforce reduction, targeting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237030+00:00",
+              "published_date": null,
+              "source_hash": "6aec2b6123536556ab9b2629686efe8c"
+            },
+            {
+              "url": "",
+              "title": "Unity Software to lay off another 600 workers - MarketWatch",
+              "snippet": "Unity Software Inc. will cut about 600 jobs in its third and largest round of layoffs over the past year. A filing with the Securities and Exchange Commission on Tuesday said San Francisco-based ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237044+00:00",
+              "published_date": null,
+              "source_hash": "733db6736e1aff9a3b1d0378d9548e77"
+            },
+            {
+              "url": "",
+              "title": "Exclusive-Unity Software to cut 25% of staff in 'company reset ...",
+              "snippet": "(Reuters) -Videogame software provider Unity Software will target laying off approximately 25% of its workforce, or 1,800 jobs, the company said in a regulatory filing and internal company memo on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237056+00:00",
+              "published_date": null,
+              "source_hash": "372df1a38a46102ec6357b8453292da0"
+            },
+            {
+              "url": "",
+              "title": "Videogame Development Platform Maker Unity Software Tumbles on Layoff Plans",
+              "snippet": "The cuts are part of a corporate restructuring plan and mark the company's fourth round of layoffs since July 2022. Unity Software is also severing ties with Weta FX's professional services.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237066+00:00",
+              "published_date": null,
+              "source_hash": "11d173b8aeecd6d964647e9a03341902"
+            },
+            {
+              "url": "",
+              "title": "Unity cuts 1,800 more staff in 'company reset' - Polygon",
+              "snippet": "Game engine maker Unity Software continues its spiral, laying off 1,800 employees. The company had three rounds of layoffs last year. ... More than 1,100 people were laid off in 2023, preceded by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237075+00:00",
+              "published_date": null,
+              "source_hash": "c84ed1c41aa04956324f40b251aa44ff"
+            },
+            {
+              "url": "",
+              "title": "Unity Software to cut 3.8% of staff in 'company reset' | Reuters",
+              "snippet": "Videogame software provider Unity Software will eliminate 265 jobs or 3.8% of its global workforce and end an agreement with a digital video effects company founded by the \"Lord of the Rings ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237084+00:00",
+              "published_date": null,
+              "source_hash": "198195e70aee6198bb9835eaf052214c"
+            },
+            {
+              "url": "",
+              "title": "Unity To Let Go Of 600 Employees Under Its Latest Layoff Round",
+              "snippet": "Unity Software Inc (NYSE: U) is amid its third and largest round of layoffs in the past year, joining the downsizing bandwagon. Unity is slashing roughly 600 jobs, about 8% of its workforce. Unity ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237093+00:00",
+              "published_date": null,
+              "source_hash": "6e62407ae964f67bfdff1614f33784ef"
+            },
+            {
+              "url": "",
+              "title": "Unity Slashes 265 Jobs, Game Software Giant Also Announces ... - Benzinga",
+              "snippet": "Unity Software, a game software leader, to cut 3.8% of staff (265 jobs) in a strategic reset after pricing and CEO changes. Unity also closes 14 offices, shifts to remote work flexibility under ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237101+00:00",
+              "published_date": null,
+              "source_hash": "6720af347f08553ef9bc271bc521a026"
+            },
+            {
+              "url": "",
+              "title": "Unity Software firing 25% of workforce - Washington Times",
+              "snippet": "Unity Software Inc. announced sweeping layoffs Thursday, reducing staff by 1,800, or 25% of its workforce, just weeks after its most recent round of firings. In a Securities and Exchange ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:52.237110+00:00",
+              "published_date": null,
+              "source_hash": "ed13edc4ec566020720dc5008950dd5d"
+            },
+            {
+              "url": "",
+              "title": "Update: Unity Software Lays Off 25% of Total Workforce as Part of Restructuring Efforts",
+              "snippet": "Unity Software (U) is set for another round of layoffs as the gaming software company continues with its restructuring efforts and aim to refocus on its core business.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:55.671448+00:00",
+              "published_date": "2024-01-09T13:59:00+00:00",
+              "source_hash": "f53b3750dff6e16f7c689a570ba0c0c0"
+            },
+            {
+              "url": "",
+              "title": "Unity Software: Bullish As It Returns To Growth In 2025",
+              "snippet": "For those unfamiliar, Unity Software operates a game engine ... Over the past two years, we've seen record layoffs across the industry, with some analysts pointing to the current gaming bust ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:55.671572+00:00",
+              "published_date": "2024-12-31T08:54:00+00:00",
+              "source_hash": "1b7e09f291362a34065e9db2406a2948"
+            },
+            {
+              "url": "",
+              "title": "Unity Software to dismiss quarter of staff",
+              "snippet": "Unity Software will lay off 1,800 ... Unity has conducted three rounds of layoffs in the last year, including cutting 600 roles in May 2023, a move intended to help generate \"long-term and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Unity Software Inc Unity Software Inc layoffs and restructuring 2023",
+              "retrieved_at": "2025-01-06T16:33:55.671673+00:00",
+              "published_date": "2024-08-17T07:32:00+00:00",
+              "source_hash": "4ab21d4b2468355cc174919b7e803e27"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Unity Software Inc runtime fee policy backlash 2023",
+              "rationale": "Investigate the financial and legal implications of the controversial runtime fee policy and its impact on developer relationships.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Unity Software Inc profitability challenges 2023",
+              "rationale": "Examine the company's financial performance and investor concerns regarding its profitability struggles.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Unity Software Inc layoffs and restructuring 2023",
+              "rationale": "Assess the ethical and social implications of workforce reductions and operational restructuring on employee morale and public perception.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:34:16.106588",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

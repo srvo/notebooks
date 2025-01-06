@@ -1,0 +1,420 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:56:06.935546",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "First Financial Corporation",
+      "symbol": "THFF",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and regulatory challenges, including a patent infringement lawsuit and potential cybersecurity disclosure failures",
+            "Cybersecurity risks, including data exposure and potential reputational and financial impact",
+            "Economic sensitivity due to regional focus in the Midwestern U.S.",
+            "Competitive pressures from larger national banks and fintech companies"
+          ],
+          "controversies": [
+            "Patent infringement lawsuit in the Northern District of Illinois",
+            "SEC penalties for deficient cybersecurity risk disclosures at a related entity"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Potential loss of customer trust due to cybersecurity breaches"
+          ],
+          "governance_issues": [
+            "Regulatory compliance risks and potential lapses in internal controls"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": " United States Court of Appeals for the Federal Circuit",
+              "snippet": "against First Financial Corporation and First Financial Bank, N.A. (collectively, \"First Financial) in the \" District Court for the Northern District of Illinois, alleging infringe-ment of claims 1, 3, 7, 8, 10-13, and 15 of the '658 patent. Independent claim 1 of the '658 patent is representa-tive. 1:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.602921+00:00",
+              "published_date": null,
+              "source_hash": "837f30ca471d31aa293be01526a5e92c"
+            },
+            {
+              "url": "",
+              "title": "SEC Issues First-Ever Penalties for Deficient Cybersecurity Risk ...",
+              "snippet": "The U.S. Securities and Exchange Commission (SEC) has launched a stunning salvo across the bows of public companies with its announcement of civil monetary penalties and a cease-and-desist order against First American Financial Corporation (FAFC) for deficient disclosure controls and procedures related to cybersecurity risks. 1 Combined with the New York State Department of Financial Services ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.602965+00:00",
+              "published_date": null,
+              "source_hash": "d93ea66d92a3a509693cb5c0e0bf3737"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Issuer With Cybersecurity Disclosure Controls Failures",
+              "snippet": "According to the SEC's order, on the morning of May 24, 2019, a cybersecurity journalist notified First American of a vulnerability with its application for sharing document images that exposed over 800 million images dating back to 2003, including images containing sensitive personal data such as social security numbers and financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.602979+00:00",
+              "published_date": null,
+              "source_hash": "cc352f9bfc21b0321aa7c06c93514348"
+            },
+            {
+              "url": "",
+              "title": "MANTISSA CORPORATION v. FIRST FINANCIAL CORPORATION , No. 22-1963 (Fed ...",
+              "snippet": "Mantissa brought suit against First Financial Corporation and First Financial Bank, N.A. (collectively, \"First Financial\") in the District Court for the Northern District of Illinois, alleging infringement of claims 1, 3, 7, 8, 10-13, and 15 of the '658 patent.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591733+00:00",
+              "published_date": null,
+              "source_hash": "0fb7d1902f8b4078a5a5c9a697410031"
+            },
+            {
+              "url": "",
+              "title": "EDOS - Federal Deposit Insurance Corporation",
+              "snippet": "The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stability and public confidence in the nation's financial system. ... bankers, analysts, and other stakeholders. Browse our collection of financial education materials, data tools, documentation of laws and regulations, information on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.602998+00:00",
+              "published_date": null,
+              "source_hash": "b27f5f42c65a9db7265a64204121977e"
+            },
+            {
+              "url": "",
+              "title": "FINRA fines 9 firms for violations - S&P Global",
+              "snippet": "The Financial Industry Regulatory Authority reported the disciplinary actions it took against firms in December 2019. ... FINRA fines 9 firms for violations ... FINRA ordered First Financial Equity Corp. to pay $200,000 for failing to file amended Form U4s for 20 of its registered representatives to disclose 71 outstanding liens, outstanding ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.603007+00:00",
+              "published_date": null,
+              "source_hash": "69379d2332fe8ec04c93eb47bb8d3ede"
+            },
+            {
+              "url": "",
+              "title": "SEC Cybersecurity Violations Settlement with First American Finan",
+              "snippet": "On June 15, 2021, the Securities and Exchange Commission (SEC) announced settled charges against real estate settlement services company First American Financial Corporation for disclosure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.603016+00:00",
+              "published_date": null,
+              "source_hash": "f0ba2228e593db3085992a613716fde1"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines Company For Cyber Disclosure Failures",
+              "snippet": "On June 15, 2021, the SEC announced that it had settled charges against First American Financial Corporation for disclosure controls and procedures violations related to a cybersecurity vulnerability that exposed sensitive customer information. Without admitting or denying the SEC's findings, First American agreed to a cease-and-desist order and to pay a $487,616 penalty.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.603024+00:00",
+              "published_date": null,
+              "source_hash": "c3889113dc26a268b5f052ad85edfbc7"
+            },
+            {
+              "url": "",
+              "title": "SEC First American Financial Corporation Settlement for Rule 13a-",
+              "snippet": "On June 15, 2021, the SEC announced it settled charges against real estate services company First American Financial Corporation (\"First American\") for alleged violation of Rule 13a-15(a) of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.603033+00:00",
+              "published_date": null,
+              "source_hash": "b015197ec157420dbfa65efea8ce770b"
+            },
+            {
+              "url": "",
+              "title": "SEC Fines First American Financial $487K For 'Deficient ... - Benzinga",
+              "snippet": "First American Financial Corporation (NYSE: FAF) has agreed to a $487,616 settlement with the U.S. Securities and Exchange Commission that resolves charges related to a data breach that exposed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation regulatory fines",
+              "retrieved_at": "2025-01-06T15:55:39.603040+00:00",
+              "published_date": null,
+              "source_hash": "48291da22f8cdec5f8bb3f6f2e97f98a"
+            },
+            {
+              "url": "",
+              "title": "Understanding The First American Financial Data Leak: How Did ... - Forbes",
+              "snippet": "With a trove of customer data out there, it wouldn't be difficult for an attacker to impersonate a First American client and either attempt to change details or an agreement, ask for additional ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703586+00:00",
+              "published_date": null,
+              "source_hash": "0fee072c745d4447f6ae8cf6577c730b"
+            },
+            {
+              "url": "",
+              "title": "885 Million First American Financial Records Exposed Online - WIRED",
+              "snippet": "After a solid decade of nonstop corporate data breaches and ... American had 885 million sensitive customer financial ... to assess whether customer data was ever stolen. First American, which is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703699+00:00",
+              "published_date": null,
+              "source_hash": "4119d4b32db4c95b9510e89ffca5fd0c"
+            },
+            {
+              "url": "",
+              "title": "Security Gap Leaves 885 Million Mortgage Documents Exposed",
+              "snippet": "SAN FRANCISCO \u2014 First American Financial Corporation, a provider of title insurance, said Friday that it had fixed a vulnerability in its website that exposed 885 million records related to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703715+00:00",
+              "published_date": null,
+              "source_hash": "2d6f640a0e0e4dcff0a77843db99451a"
+            },
+            {
+              "url": "",
+              "title": "Insurer First American left 900 million sensitive customer documents ...",
+              "snippet": "A leading US real estate and mortgage insurer, First American Financial Corp., left vulnerable an enormous trove of digital documents, some of which may have contained social security numbers and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703733+00:00",
+              "published_date": null,
+              "source_hash": "1edc138c4b351cc97632b92829e64b65"
+            },
+            {
+              "url": "",
+              "title": "First American Financial confirms threat actors stole and encrypted data",
+              "snippet": "Dive Brief: First American Financial said the threat actors behind a previously disclosed Dec. 20 cyberattack accessed and stole non-production systems company data, which was later encrypted, according to an amended 8-K filing on Friday with the Securities and Exchange Commission. First American said the incident is contained and the company is in the process of restoring access to its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703745+00:00",
+              "published_date": null,
+              "source_hash": "ee3478b2b33341a22a08ac8beffc4044"
+            },
+            {
+              "url": "",
+              "title": "First American Financial Corp. Sued Over Allegedly 'Reckless' Customer ...",
+              "snippet": "A lawsuit filed in the wake of a data exposure claims that First American Financial Corporation failed to adequately protect customer information. ... Data Breaches; Legal News. Newswire; Blog; ... Search. in Newswire Published on May 28, 2019. First American Financial Corp. Sued Over Allegedly 'Reckless' Customer Data Exposure. by Nadia ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703756+00:00",
+              "published_date": null,
+              "source_hash": "cc04e87535a3a40522276e1044fce665"
+            },
+            {
+              "url": "",
+              "title": "Personal Information of 44,000 Compromised in First American ...",
+              "snippet": "First American Financial Corporation this week revealed that the personal information of 44,000 individuals may have been compromised in a December 2023 cyberattack. The financial services firm initially disclosed the incident on December 21, when it announced that it had taken certain systems offline as a containment measure, after identifying ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703770+00:00",
+              "published_date": null,
+              "source_hash": "800653f2a89aec87a570a25af4c2fb19"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "First American Financial Admits Data Breach First American Financial may have given unauthorized access to financial information of its customers. It has been reported reported that First American Financial (FAF), a real estate title insurance company, admitted that a breach of its consumer's data has been ongoing for years, due to a design ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703781+00:00",
+              "published_date": null,
+              "source_hash": "f36a77f2b8f700a98f0ddae4d67ae7ed"
+            },
+            {
+              "url": "",
+              "title": "First American Financial Corporation Data Breach",
+              "snippet": "If your information was exposed in the breach, attorneys want to hear from you. You may be able to start a class action lawsuit to recover compensation for loss of privacy, time spent dealing with the breach, out-of-pocket costs, and more.. A successful case could also force First American Financial Corporation to ensure it takes proper steps to protect the information it was entrusted with.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703794+00:00",
+              "published_date": null,
+              "source_hash": "246960d5371cabb4e138d28b241d6899"
+            },
+            {
+              "url": "",
+              "title": "First American Data Breach: 44,000 Customers Affected - The Cyber Express",
+              "snippet": "The First American data breach disclosure, made in a filing with SEC, highlighted significant concerns about data protection within the company. ... The First American Financial Corporation, one of the largest title insurance companies in the United States, revealed that a cyberattack in December 2023 exposed the personal information of around ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Financial Corporation First Financial Corporation customer data breaches",
+              "retrieved_at": "2025-01-06T15:55:43.703805+00:00",
+              "published_date": null,
+              "source_hash": "39ad7edde3749fbf3a3e5239f3d1c6a2"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "against First Financial Corporation and First Financial Bank, N.A. (collectively, \"First Financial) in the \" District Court for the Northern District of Illinois, alleging infringe-ment of claims 1, 3, 7, 8, 10-13, and 15 of the '658 patent. Independent claim 1 of the '658 patent is representa-tive. 1:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591672+00:00",
+              "published_date": null,
+              "source_hash": "08821e20450274fa756f1b1c4a4365b2"
+            },
+            {
+              "url": "",
+              "title": "1st Franklin Financial Corporation Hit with Class Actions Over November ...",
+              "snippet": "The filings say that 1st Franklin Financial Corporation began notifying affected individuals of the incident on January 10, almost three months after it discovered the breach. Per the suits, the letter left out details regarding the root cause of the incident, the vulnerabilities exploited by the perpetrator(s) and what actions the company will ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591751+00:00",
+              "published_date": null,
+              "source_hash": "53b887efb5e8b7ea10eca59acd908cb6"
+            },
+            {
+              "url": "",
+              "title": "Mantissa Corporation v. First Financial Corporation et al",
+              "snippet": "On 12/20/2017 Mantissa Corporation filed an Intellectual Property - Patent lawsuit against First Financial Corporation. This case was filed in U.S. District Courts, Illinois Northern District. The Judges overseeing this case are Jorge L. Alonso, Virginia M. Kendall and Young B. Kim. The case status is Pending - Other Pending.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591766+00:00",
+              "published_date": null,
+              "source_hash": "675a748f17bc284c9e9b850bd95efe7e"
+            },
+            {
+              "url": "",
+              "title": "New Mexico Judge Approves $1.6 Million Credit Union Data ... - CUTimes",
+              "snippet": "A New Mexico state judge ordered the final approval of a $1.6 million class action lawsuit settlement last month involving a data breach that affected members of the $913 million First Financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591779+00:00",
+              "published_date": null,
+              "source_hash": "42ed3fc909e8b62d8f684cbe126ce35b"
+            },
+            {
+              "url": "",
+              "title": "Mantissa Corporation v. First Financial Corporation - UniCourt",
+              "snippet": "On 06/29/2022 Mantissa Corporation filed an Intellectual Property - Patent lawsuit against First Financial Corporation. This case was filed in U.S. Courts Of Appeals, U.S. Court Of Appeals, Federal Circuit. The case status is Pending - Other Pending.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591790+00:00",
+              "published_date": null,
+              "source_hash": "dd48aaeefb2a030bd9f792054b39632f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "22. Defendant 1st Franklin Fi nancial Corporation is a Georgia corporation located at 135 East Tugalo Street, Toccoa, Georgia 30577. 23. Defendant is a financial institution, primarily providing personal loans.2 24. The true names and capacities of persons or entities, whether",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591802+00:00",
+              "published_date": null,
+              "source_hash": "93f742162ebd4cc85948846a86b0ae8f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "1st Franklin Financial Corporation ( Defendant ), individually and on behalf of all others similarly situated ( Class Members ), and alleges, upon personal knowledge ... than 3,000 individuals, including, but not limited to, first and last names, Social Security number, bank account number, bank account routing number, address,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591816+00:00",
+              "published_date": null,
+              "source_hash": "74146f2259c8fc28c83afc643e8350ca"
+            },
+            {
+              "url": "",
+              "title": "U.S. Bank National Association v. First Franklin Financial Corporation ...",
+              "snippet": "Filing 1 COMPLAINT against Bank Of America Corporation, First Franklin Financial Corporation, Merrill Lynch Mortgage Lending, Inc.. (Filing Fee $ 400.00, Receipt Number ANYSDC-17139964)Document filed by U.S. BANK NATIONAL ASSOCIATION, as Trustee for MERRILL LYNCH FIRST FRANKLIN MORTGAGE LOAN TRUST, SERIES 2007-4.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591829+00:00",
+              "published_date": null,
+              "source_hash": "4aa61149444e16f8506e19a046ae33ec"
+            },
+            {
+              "url": "",
+              "title": "1st Franklin Financial faces lawsuits over data breach",
+              "snippet": "A data breach allegedly affecting thousands of customers has spurred legal action against consumer lender 1st Franklin Financial Corp. The Toccoa-based institution was negligent in handling reams ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Financial Corporation First Financial Corporation lawsuits",
+              "retrieved_at": "2025-01-06T15:55:47.591841+00:00",
+              "published_date": null,
+              "source_hash": "55160b9ea24bbed8c3a028b73b9f2e6d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "First Financial Corporation regulatory fines",
+              "rationale": "Investigate any recent fines or penalties related to regulatory compliance issues",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "First Financial Corporation customer data breaches",
+              "rationale": "Look for any reported incidents of cybersecurity breaches affecting customer data",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "First Financial Corporation lawsuits",
+              "rationale": "Search for any ongoing or past lawsuits that could impact the company's reputation or finances",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:56:06.935551",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

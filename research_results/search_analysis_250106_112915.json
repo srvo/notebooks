@@ -1,0 +1,614 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:29:15.839685",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Couchbase Inc",
+      "symbol": "BASE",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Intense competition from established players and emerging technologies",
+            "Revenue growth deceleration and stock price volatility",
+            "High customer concentration increasing vulnerability to churn",
+            "Sensitivity to macroeconomic downturns impacting IT spending",
+            "Data security and compliance challenges"
+          ],
+          "controversies": [
+            "Trade secret litigation, including a settlement with Redis Labs in 2020"
+          ],
+          "environmental_issues": [
+            "Limited progress metrics on energy-efficient data management solutions"
+          ],
+          "social_issues": [
+            "Limited exposure to privacy regulations due to not catering to children"
+          ],
+          "governance_issues": [
+            "Potential risks to intellectual property from legal disputes"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Understanding Couchbase, Inc. (BASE) Revenue Streams",
+              "snippet": "Key Risks Facing Couchbase, Inc. (BASE) Key Risks Facing Couchbase, Inc. Couchbase, Inc. operates in a highly competitive landscape characterized by rapid technological advancements and evolving customer demands. Understanding the risk factors associated with its operations is essential for investors seeking to assess its financial health. 1.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520454+00:00",
+              "published_date": null,
+              "source_hash": "12ca32eb1a23b5d07de3d9835fc6beca"
+            },
+            {
+              "url": "",
+              "title": "BASE Investor Presentation Q3 FY24 - Couchbase, Inc.",
+              "snippet": "This presentation by Couchbase, Inc. (\"Couchbase,\" the \"Company,\" \"we,\" \"us\" or similar terms) contain forward-looking statements. ... Forward-looking statements are inherently subject to risks and uncertainties, some of which ... revenue, operating expenses and key metrics, such as annual recurring revenue; our ability to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520562+00:00",
+              "published_date": null,
+              "source_hash": "c1b90417501b8e91b49e7ffb8637533d"
+            },
+            {
+              "url": "",
+              "title": "Couchbase: A Sell Rating Amidst Revenue Growth Deceleration and ...",
+              "snippet": "Couchbase sees FY25 revenue $205.1M-$209.1M, consensus $207.32M Couchbase reports Q2 non-GAAP EPS (6c), consensus (9c) Couchbase sees Q3 revenue $50.3M-$51.1M, consensus $50.63M",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520575+00:00",
+              "published_date": null,
+              "source_hash": "d48460efaf652203e9c1c74128837af1"
+            },
+            {
+              "url": "",
+              "title": "The Modern Database for Enterprise Applications - Couchbase, Inc.",
+              "snippet": "This presentation by Couchbase, Inc. (\"Couchbase,\" the \"Company,\" \"we,\" \"us\" or similar terms) contains forward-looking statements. ... greater detail under the section titled \"Risk Factors\" in the quarterly report on Form 10-Q that we have filed with the Securities and ... including trends in revenue, cost of revenue ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520588+00:00",
+              "published_date": null,
+              "source_hash": "1f8b0d6685957541b677b5bfda707fbc"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Announces Third Quarter Fiscal 2025 Financial Results",
+              "snippet": "Revenue: Total revenue for the quarter was $51.6 million, an increase of 13% year-over-year. Subscription revenue for the quarter was $49.3 million, an increase of 12% year-over-year. Annual recurring revenue (ARR): Total ARR as of October 31, 2024 was $220.3 million, an increase of 17% year-over-year, or 16% on a constant currency basis. See ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520599+00:00",
+              "published_date": null,
+              "source_hash": "b8d8ca3fb4297c6f43faaba67d909cc1"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Q3 Earnings: Revenue Up, Loss Narrows, 2025 Outlook Revised",
+              "snippet": "In light of these strong financial results, Couchbase revised its fiscal 2025 revenue outlook. The company now expects revenue to be between $475 million and $485 million, up from its previous guidance of $470 million to $480 million [1]. References: [1] Couchbase, Inc. Press Release. Couchbase Announces Third Quarter Fiscal 2023 Financial Results.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520612+00:00",
+              "published_date": null,
+              "source_hash": "e1f3692e0207efe42582009cb9067a36"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. (BASE) Statistics & Valuation Metrics - Stock Analysis",
+              "snippet": "Detailed statistics for Couchbase, Inc. (BASE) stock, including valuation metrics, financial numbers, share information and more. ... Couchbase had revenue of $204.63 million and -$80.44 million in losses. Loss per share was -$1.60. Revenue: 204.63M: Gross Profit : 180.79M: Operating Income -80.26M: Pretax Income",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520624+00:00",
+              "published_date": null,
+              "source_hash": "378d95696f8fe1fe6a1d5cf94ab8a379"
+            },
+            {
+              "url": "",
+              "title": "Couchbase: A Chilling Slowdown In Growth, But Value Proposition Remains ...",
+              "snippet": "Couchbase's revenue growth decelerated to 13% y/y in Q3, with Q4 guidance indicating further slowdown. ... Dec. 10, 2024 11:56 PM ET Couchbase, Inc. (BASE) Stock 1 Comment. Gary Alexander. 29.99K ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520635+00:00",
+              "published_date": null,
+              "source_hash": "7049216bd1b2559c7e8f8afe52a036ff"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Revenue 2020-2024 - Stock Analysis",
+              "snippet": "Couchbase had revenue of $51.59M in the quarter ending July 31, 2024, with 19.59% growth. This brings the company's revenue in the last twelve months to $198.82M, up 21.00% year-over-year. In the fiscal year ending January 31, 2024, Couchbase had annual revenue of $180.04M with 16.28% growth. Revenue (ttm)",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520646+00:00",
+              "published_date": null,
+              "source_hash": "482773eb87a10d80b829dd31800e2224"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. (BASE) Reports Q3 Loss, Tops Revenue Estimates",
+              "snippet": "Couchbase (BASE) delivered earnings and revenue surprises of 37.50% and 1.98%, respectively, for the quarter ended October 2024. Do the numbers hold clues to what lies ahead for the stock?",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:46.520658+00:00",
+              "published_date": null,
+              "source_hash": "e484d9c507268007f009a8060e3353f4"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Stock Falls 22% on Revenue Outlook. CEO Is Still Confident.",
+              "snippet": "Couchbase stock slumped after the software company forecast less revenue than expected for the current quarter. Shares of the cloud database platform were down 22% at $16.43 on Wednesday ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:49.177909+00:00",
+              "published_date": "2024-12-04T18:22:00+00:00",
+              "source_hash": "ae538c6be2fe4f79bc1284aefd8882a2"
+            },
+            {
+              "url": "",
+              "title": "Couchbase's SWOT analysis: database stock navigates growth amid challenges",
+              "snippet": "Couchbase Inc. (NASDAQ:BASE), a provider of modern database ... who have been closely monitoring its progress in key areas such as Annual Recurring Revenue (ARR) growth, product development ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:49.178012+00:00",
+              "published_date": "2024-12-16T14:12:00+00:00",
+              "source_hash": "ad1bbeea3197ee64712a44d4a7965eae"
+            },
+            {
+              "url": "",
+              "title": "What to Expect from Couchbase's Earnings",
+              "snippet": "Couchbase is positioned at the bottom for Revenue Growth, with a growth rate ... its peers in all key metrics analyzed. Couchbase Inc provides a modern cloud database that offers the robust ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:49.178041+00:00",
+              "published_date": "2024-12-02T09:01:00+00:00",
+              "source_hash": "2fac9a907a1a3792f842c645ab090e7e"
+            },
+            {
+              "url": "",
+              "title": "Couchbase: A Chilling Slowdown In Growth, But Value Proposition Remains Appealing (Rating Downgrade)",
+              "snippet": "Couchbase delivered disappointing Q3 results and a bleak Q4 outlook, leading to a 20%+ stock correction and a downgrade to neutral. Revenue growth decelerated to 13% y/y in Q3, with Q4 guidance ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:49.178066+00:00",
+              "published_date": "2024-12-11T04:56:00+00:00",
+              "source_hash": "309df3efa5c80a9a7dfccd1bfc6cb593"
+            },
+            {
+              "url": "",
+              "title": "Goldman Sachs reiterates Sell on Couchbase stock, highlights Capella growth and risks",
+              "snippet": "On Wednesday, Goldman Sachs adjusted its stance on Couchbase Inc (NASDAQ:BASE), increasing ... Couchbase reported a revenue increase of 13%, slightly above consensus by 2%, and an operating ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc revenue concentration risks",
+              "retrieved_at": "2025-01-06T18:28:49.178091+00:00",
+              "published_date": "2024-12-04T06:45:00+00:00",
+              "source_hash": "cb5333ca7956641ae965e4da97c64db8"
+            },
+            {
+              "url": "",
+              "title": "Privacy Policy - Couchbase",
+              "snippet": "Children's personal data: Couchbase is committed to providing excellent products and services for enterprise customers. Couchbase does not provide services for purchase by children, and this website is not intended for children. ... privacy@couchbase.com. Post: Couchbase, Inc. Attn: Legal Department. 3250 Olcott St. Santa Clara, CA 95054 USA ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666773+00:00",
+              "published_date": null,
+              "source_hash": "060bfd405b6e93dbbfc249a77cff9b83"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Server Privacy FAQ",
+              "snippet": "Couchbase has established, implemented and is maintaining enterprise grade security best practices for all of its products and applies these processes and procedures to the collection of the Performance Data. The Performance Data will be transferred to Couchbase over an encrypted channel and will be stored in secure Couchbase facilities, protected by internal policies and controls, and will be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666861+00:00",
+              "published_date": null,
+              "source_hash": "b6bd1ad7da9aa4028fe59365df5e10a8"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Most sensitive data covered by different regulations, be it personal, financial, or otherwise, will invariably reside in a database. This document presents the Couchbase Data Platform's best practices for regulation and security. The core focus is on the role of the database as a central store of data within an",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666885+00:00",
+              "published_date": null,
+              "source_hash": "60d4c9883faf62e9b5bd07c52f7fe2ec"
+            },
+            {
+              "url": "",
+              "title": "Privacy Requirements Without the Headache - The Couchbase Blog",
+              "snippet": "In order to effectively handle privacy requirements for live data, we will need to leverage the real-time data capabilities of AWS and Couchbase to transform the data as soon as it is created. It is legally challenging to store private data even for a moment in a database according to GDPR regulations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666899+00:00",
+              "published_date": null,
+              "source_hash": "befd1e976d4dbb8ea8311040076997b2"
+            },
+            {
+              "url": "",
+              "title": "Q&A with Couchbase: on Database Security and the Couchbase Data ...",
+              "snippet": "The Couchbase data platform offers this approach, which enables developers to maintain security as a top priority from early development stages through deployment. In addition, Couchbase Inc. is constantly alerted to any potential security vulnerabilities and takes a proactive approach to both addressing/patching as well as notifying its users.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666913+00:00",
+              "published_date": null,
+              "source_hash": "152ddf0f9e59639465fc8418db11f9a7"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Legal | Choosing the Leading Cloud NoSQL Database",
+              "snippet": "Check out the full list of legal disclosures when you choose Couchbase, the leading NoSQL cloud database for business-critical applications. Learn more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666925+00:00",
+              "published_date": null,
+              "source_hash": "563729e227fe20ea89d5b7f6faa1620e"
+            },
+            {
+              "url": "",
+              "title": "Thoughts on Couchbase? : r/bigdata - Reddit",
+              "snippet": "We use Couchbase extensively as our primary SoR in our Cloud applications. I'll try to lay out a few points. The biggest hurdle is probably the mindset shift for developers, from thinking in terms of tables/relationships to storing Aggregates as documents. N1QL is great, major reduction to learning curves for developers when it comes to querying",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666938+00:00",
+              "published_date": null,
+              "source_hash": "bd97080b8c6710bcd0b5b0ff560c136c"
+            },
+            {
+              "url": "",
+              "title": "Security | Couchbase Docs",
+              "snippet": "Couchbase Server can be rendered highly secure, so as to preserve the privacy and integrity of data, and account for access-attempts. The security facilities provided cover: Authentication : All administrators, users, and applications (all formally considered users ) must authenticate, in order to gain server-access.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666949+00:00",
+              "published_date": null,
+              "source_hash": "62ee5783cd624825cf6f922bda2a3aa3"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Announces Settlement of Trade Secret Litigation - GlobeNewswire",
+              "snippet": "Santa Clara, Calif., Jan. 28, 2020 (GLOBE NEWSWIRE) -- Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that it has reached a settlement with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666961+00:00",
+              "published_date": null,
+              "source_hash": "28827b26905d41102423e3c72dc97e23"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. - Wikipedia",
+              "snippet": "Couchbase, Inc. is an American public (NASDAQ symbol BASE) software company that develops and provides commercial packages and support for Couchbase Server and Couchbase Lite both of which are open-source, NoSQL, multi-model, document-oriented database software packages that store JSON documents or a pure key-value database.The company has its headquarters in Santa Clara, California, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:50.666972+00:00",
+              "published_date": null,
+              "source_hash": "bb5f42fac3d9096fa323a94c89ab7a4e"
+            },
+            {
+              "url": "",
+              "title": "Couchbase's SWOT analysis: database stock navigates growth amid challenges",
+              "snippet": "Couchbase Inc. (NASDAQ:BASE), a provider of modern database ... According to InvestingPro data, the stock has declined 31.88% year-to-date, reflecting market uncertainty about its growth trajectory.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:53.321638+00:00",
+              "published_date": "2024-12-16T14:12:00+00:00",
+              "source_hash": "8822f94e50ba931863b69841c2aa3d0e"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc.",
+              "snippet": "Couchbase, Inc. engages in the development of document ... and Internet of things applications that support massive data volumes in real time. The company was founded by Phillips James, Dustin ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:53.321742+00:00",
+              "published_date": "2024-01-14T01:32:00+00:00",
+              "source_hash": "b71bb9dedb16bec7fac5c6f4b62290c3"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. (NASDAQ:BASE) Stock Position Lifted by Charles Schwab Investment Management Inc.",
+              "snippet": "Charles Schwab Investment Management Inc ... Couchbase Server, a multi-service NoSQL database, which provides SQL-compatible query language and SQL++ that allows for a various array of data ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:53.321775+00:00",
+              "published_date": "2024-12-13T00:00:00+00:00",
+              "source_hash": "4a5bd5443703412546b65a0a3db44804"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. (NASDAQ:BASE) Receives Consensus Rating of \"Moderate Buy\" from Brokerages",
+              "snippet": "Shares of Couchbase, Inc. (NASDAQ:BASE - Get Free Report ... query language and SQL++ that allows for a various array of data manipulation functions. Receive News & Ratings for Couchbase ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:53.321801+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "aa4b97ccf60de3caea515ff280aa2ed0"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Announces Winners of 2024 Couchbase Customer Impact Awards",
+              "snippet": "Morningstar brands and products Company Portfolio",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Couchbase Inc Couchbase Inc data privacy controversies",
+              "retrieved_at": "2025-01-06T18:28:53.321824+00:00",
+              "published_date": "2024-11-21T14:00:00+00:00",
+              "source_hash": "be7740190887cdbd790b1e3c481acbab"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. v. McCrady, et al. - UniCourt",
+              "snippet": "On 03/21/2017 Couchbase, Inc filed a Contract - Other Contract lawsuit against McCrady,. This case was filed in Santa Clara County Superior Courts, Downtown Superior Court located in Santa Clara, California. The case status is Disposed - Dismissed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.917836+00:00",
+              "published_date": null,
+              "source_hash": "7c1a7dc8d4aef4b50b60a7ff625e18dc"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Announces Settlement of Trade Secret Litigation with Redis ...",
+              "snippet": "SANTA CLARA, Calif., Jan. 28, 2020 - Couchbase, the creator of the enterprise-class, multicloud to edge NoSQL database, today announced that it has reached a settlement with Redis Labs, Inc. (\"Redis\") in connection with Couchbase's trade secret litigation pending in the Superior Court of the State of California (Case No. 1-17-CV-307618). In March 2017, Couchbase filed a lawsuit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.917972+00:00",
+              "published_date": null,
+              "source_hash": "cbca56b4001a0d877ff41e7da93cf933"
+            },
+            {
+              "url": "",
+              "title": "Document for Couchbase, Inc. v. McCrady, et al. | Trellis",
+              "snippet": "On March 21, 2017 a Breach of Contract/Warranty Unlimited(06) case was filed by Couchbase, Inc., represented by Amy Kathleen Vanzant, against Mike Mccrady, Redis Labs, Inc., Regev Yativ, Rod Hamlin, represented by James A. Lassart, Kevin Pb Johnson, in the jurisdiction of Santa Clara County.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918007+00:00",
+              "published_date": null,
+              "source_hash": "6403765bc724dfbd4056be35691daf43"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Announces Settlement of Trade Secret Litigation - GlobeNewswire",
+              "snippet": "In March 2017, Couchbase filed a lawsuit alleging that current and former Redis employees misappropriated Couchbase trade secrets; Redis and the individual defendants denied Couchbase's allegations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918032+00:00",
+              "published_date": null,
+              "source_hash": "312e33e27f26efef1f131e30f8474f34"
+            },
+            {
+              "url": "",
+              "title": "Redis Labs Resolves Litigation with Couchbase",
+              "snippet": "Mountain View, January 28, 2020\u2014Redis Labs, the home of Redis and provider of Redis Enterprise, today announced the company has reached a settlement with Couchbase, Inc. in connection with Couchbase's claim pending in the Superior Court of the State of California (Case No. 1-17-CV-307618). In March 2017, Couchbase filed a lawsuit alleging that current and former Redis Labs employees ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918056+00:00",
+              "published_date": null,
+              "source_hash": "c78b8b737432473f1970fe3f90b503be"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Inc Market share relative to its competitors, as of Q2 2024 ...",
+              "snippet": "Couchbase Inc 's Q2 2024 quarter and 12 months market share, relative to the BASE's competitors. Based on total revenues. Company Name, Ticker, Customers, else..",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918087+00:00",
+              "published_date": null,
+              "source_hash": "3bfde5e0048c81892c77936fb095c936"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Competitors of Couchbase Inc. Couchbase operates in a competitive landscape filled with various companies offering similar NoSQL database solutions. Below are some of its key competitors: 1. MongoDB. MongoDB is one of the most recognized names in the NoSQL space. It offers a document-oriented database that is known for its ease of use and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918111+00:00",
+              "published_date": null,
+              "source_hash": "230e63a59842d4b565e6ad5df272c251"
+            },
+            {
+              "url": "",
+              "title": "Top Couchbase Competitors & Alternatives 2025 - Gartner",
+              "snippet": "See what Cloud Database Management Systems Couchbase users also considered in their purchasing decision. When evaluating different solutions, potential buyers compare competencies in categories such as evaluation and contracting, integration and deployment, service and support, and specific product capabilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918135+00:00",
+              "published_date": null,
+              "source_hash": "8c69a92361822e0e2f93d73602389526"
+            },
+            {
+              "url": "",
+              "title": "Court Records - Utah State Courts",
+              "snippet": "Archived Court Records Historical Court Records (more than 50 years old). The Utah State Archives is the repository for many judicial/court records, including the Utah State Supreme Court and many county district courts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918158+00:00",
+              "published_date": null,
+              "source_hash": "91385159819961ff47e49cc93765ca80"
+            },
+            {
+              "url": "",
+              "title": "Couchbase (BASE) Competitors and Alternatives 2025 - MarketBeat",
+              "snippet": "DigitalOcean currently has a consensus target price of $42.13, suggesting a potential upside of 17.93%. Couchbase has a consensus target price of $23.13, suggesting a potential upside of 46.27%. Given Couchbase's stronger consensus rating and higher possible upside, analysts plainly believe Couchbase is more favorable than DigitalOcean.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:54.918180+00:00",
+              "published_date": null,
+              "source_hash": "c48327fbec509be979aeb0ac99c1b3ac"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. (NASDAQ:BASE) Stock Position Lifted by Charles Schwab Investment Management Inc.",
+              "snippet": "Couchbase, Inc. has a 1-year low of $13.53 and a 1-year high of $32.00. The firm has a market capitalization of $845.42 million, a PE ratio of -10.09 and a beta of 0.71.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:58.636703+00:00",
+              "published_date": "2024-12-13T00:00:00+00:00",
+              "source_hash": "264752e0a599e32d7eff59aaef4c5a37"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Set to Report Q3 Earnings: What's in the Cards?",
+              "snippet": "Couchbase, Inc. price-eps-surprise | Couchbase ... can be expected to be affected by macroeconomic headwinds and intense competition in the Internet Software industry. Foreign exchange volatility ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:58.636799+00:00",
+              "published_date": "2024-12-02T15:45:00+00:00",
+              "source_hash": "d2df9ac23fbe7511faf0db3b8c39a302"
+            },
+            {
+              "url": "",
+              "title": "Couchbase, Inc. (NASDAQ:BASE) Receives Consensus Rating of \"Moderate Buy\" from Brokerages",
+              "snippet": "NASDAQ BASE opened at $15.44 on Monday. The business's fifty day moving average is $17.66 and its 200 day moving average is $17.39. Couchbase has a fifty-two week low of $13.53 and a fifty-two ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:58.636824+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "1da3cb54bbcd166d5acc455f07a9884d"
+            },
+            {
+              "url": "",
+              "title": "Couchbase Announces New Employee Inducement Grants",
+              "snippet": "SANTA CLARA, Calif., Nov. 26, 2024 /PRNewswire/ -- Couchbase, Inc. (NASDAQ: BASE), the cloud database platform company, today announced it has granted equity awards under its 2023 Inducement ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:58.636843+00:00",
+              "published_date": "2024-11-26T13:30:00+00:00",
+              "source_hash": "6abe73fd9951e4b56afd822f7f43921a"
+            },
+            {
+              "url": "",
+              "title": "Jane Street Group LLC Has $1.02 Million Stake in Couchbase, Inc. (NASDAQ:BASE)",
+              "snippet": "Couchbase, Inc. has a 1-year low of $13.53 and a 1-year high of $32.00. The company has a market capitalization of $799.35 million, a PE ratio of -9.54 and a beta of 0.71.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Couchbase Inc Couchbase Inc competition lawsuits",
+              "retrieved_at": "2025-01-06T18:28:58.636859+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "881e43e1d4f61cf1c84b937d5805ad14"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Couchbase Inc revenue concentration risks",
+              "rationale": "Investigate potential financial instability due to reliance on a small number of large customers",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Couchbase Inc data privacy controversies",
+              "rationale": "Explore any known issues or public concerns regarding data security and compliance with privacy regulations",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Couchbase Inc competition lawsuits",
+              "rationale": "Identify any legal disputes or controversies with competitors like MongoDB or Oracle",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:29:15.839691",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:01:53.990139",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "HashiCorp Inc.",
+      "symbol": "HCP",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory scrutiny of IBM acquisition",
+            "Revenue growth and profitability challenges",
+            "Dependence on cloud providers",
+            "Community backlash from licensing changes"
+          ],
+          "controversies": [
+            "Open-source licensing controversy",
+            "Regulatory investigations into IBM acquisition"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Community backlash from licensing changes"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny of IBM acquisition"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "HashiCorp adopts Business Source License",
+              "snippet": "That is why today we are announcing that HashiCorp is changing its source code license from Mozilla Public License v2.0 (MPL 2.0) to the Business Source License (BSL, also known as BUSL) v1.1 on all future releases of HashiCorp products. HashiCorp APIs, SDKs, and almost all other libraries will remain MPL 2.0.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080184+00:00",
+              "published_date": null,
+              "source_hash": "b56e485d8002e20d9817103fb932b5b4"
+            },
+            {
+              "url": "",
+              "title": "Open Source is Dead: Understanding the HashiCorp License Controversy",
+              "snippet": "The HashiCorp Controversy. Fast forward to today, and we see companies like HashiCorp, creators of Terraform, making headlines by switching from open-source to \"source-available\" licenses. HashiCorp's move from the Mozilla Public License v2.0 (MPL 2.0) to the Business Source License (BSL) v1.1 was met with significant backlash. This isn't an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080295+00:00",
+              "published_date": null,
+              "source_hash": "fa5b8da27148b923bc8f44ee7bbdae63"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp adopts the Business Source License for future releases of its ...",
+              "snippet": "This new license allows for all forms of use except for providing a competitive offering to HashiCorp products and services. The new license does not change how customers, users, and partners will interact with HashiCorp code. Specifically: HashiCorp will continue to publish all source code and all updates to HashiCorp products to its GitHub ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080312+00:00",
+              "published_date": null,
+              "source_hash": "019955dbfa36f74ecbfd374b6c09a209"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp updates licensing FAQ based on community questions",
+              "snippet": "HashiCorp recently announced that we have adopted the Business Source License (BSL, or BUSL) v1.1 for all future releases of HashiCorp products. HashiCorp team members have been answering questions about the licensing change in a thread on our Discuss forum and via our licensing@hashicorp.com email. Based on those questions, we have continued to update our FAQ to provide additional clarity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080324+00:00",
+              "published_date": null,
+              "source_hash": "550ed04683f4cda28fbe9dd7b464609f"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp adopts the Business Source License for future releases of its ...",
+              "snippet": "SAN FRANCISCO, Aug. 10, 2023 (GLOBE NEWSWIRE) -- HashiCorp, Inc. (NASDAQ: HCP), a leader in multi-cloud infrastructure automation software, today announced it has changed its source code license ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080335+00:00",
+              "published_date": null,
+              "source_hash": "adbcd4d6dac263296919c67ce7de2fbb"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp adopts Business Source License : r/devops - Reddit",
+              "snippet": "169 votes, 178 comments. true. And unfortunately, believe it or not you can't build a company with salaried employees and shareholders \"for the sake of free.\". If you have a non-corporate backed project that's another story -- foundation-based, community (and at times corporate as part of the community) software is a good example of this, but that's a very different model when 95+% of the code ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080346+00:00",
+              "published_date": null,
+              "source_hash": "05f6516bc72b60f8180161be06546b25"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp's Licensing Change is only the Latest Challenge to Open Source",
+              "snippet": "HashiCorp, creator of Terraform, recently announced its decision to switch up the software's license. Rather than the Mozilla open source Mozilla Public License v2.0 (MPL 2.0), under which it's been available since 2014, Terraform is now under the Business Source License (BSL) v1.1 - which is considered \"source-available,\" not open ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080356+00:00",
+              "published_date": null,
+              "source_hash": "6f49366eb9deed27372da3234ee1d369"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp projects changing license to Business Source License v1.1",
+              "snippet": "Today, HashiCorp has announced a transition in license from the Mozilla Public License v2.0 (MPL 2.0) to the Business Source License v1.1 (BSL or BUSL) for future releases of all products and several libraries. HashiCorp APIs, SDKs, and almost all other libraries will remain MPL 2.0 HashiCorp is committed to continuing to develop our popular community products in the open with broad access and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080366+00:00",
+              "published_date": null,
+              "source_hash": "3ed5ef190617baf6b78714f23b45b6e7"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp's New \"Business Source License\": Facts and Analysis",
+              "snippet": "On August 10th, HashiCorp, the makers of popular open source tools like Vault, Terraform, Packer, and Consul, among several others, announced that subsequent releases of the source code for these\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080376+00:00",
+              "published_date": null,
+              "source_hash": "26179ae3d565cfeaa8d76ce8c6e7eab4"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Abandons Open Source for Business Source License - LinkedIn",
+              "snippet": "\"HashiCorp's decision to adopt the Business Source License reflects the growing need for sustainable open-source business models,\" said Scott Raynovich, a technology analyst and founder of The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:24.080391+00:00",
+              "published_date": null,
+              "source_hash": "ad01d9280324dce362313816b0a78838"
+            },
+            {
+              "url": "",
+              "title": "UK launches antitrust review of IBM's proposed HashiCorp acquisition",
+              "snippet": "The Competition and Markets Authority, or, CMA, announced the move today. The investigation comes about eight months after IBM first revealed its plans to buy HashiCorp. The U.S. Federal Trade Commission has launched a probe of its own that was first detailed in a July filing.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:34.616538+00:00",
+              "published_date": "2025-01-03T03:25:00+00:00",
+              "source_hash": "28a6972c54af6dc3b92a25e730550d5d"
+            },
+            {
+              "url": "",
+              "title": "IBM's Acquisition of HashiCorp Investigated by UK Competition Authority",
+              "snippet": "The U.K. government is investigating whether IBM's acquisition of cloud infrastructure firm HashiCorp will result in a \"substantial lessening of competition\" within markets in the country.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:34.616601+00:00",
+              "published_date": "2025-01-03T03:47:00+00:00",
+              "source_hash": "9290cdd48b01a53ad999dbcb27aa1307"
+            },
+            {
+              "url": "",
+              "title": "IBM Faces UK Watchdog Scrutiny for HashiCorp Buyout: Trouble Brewing?",
+              "snippet": "International Business Machines Corporation IBM has welcomed 2025 with an apparent glitch in its effort to develop a comprehensive suite of modernized cloud security and compliance solutions with the proposed acquisition of HashiCorp Inc.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:26.594032+00:00",
+              "published_date": "2025-01-02T20:00:00+00:00",
+              "source_hash": "f5ebf98106839b3ab1c960189d1e3bcf"
+            },
+            {
+              "url": "",
+              "title": "Potential Risks and Challenges in Hashicorp's Pending Merger Impacting Business and Stock Value",
+              "snippet": "Hashicorp, Inc. Class A (HCP ... The pending Merger involving Hashicorp, Inc. Class A presents several risks that could negatively impact its business operations and financial health.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:26.594060+00:00",
+              "published_date": "2024-12-07T14:25:00+00:00",
+              "source_hash": "49f47f9f9c44658b3ea2b73e5b52740e"
+            },
+            {
+              "url": "",
+              "title": "Terraform Creator HashiCorp Explores Sale: Report",
+              "snippet": "The vendor has more than 650 system integrator and reseller partners, according to HashiCorp ... from the open-source license it's operated under since 2014 to a Business Source License ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. Business Source License controversy",
+              "retrieved_at": "2025-01-06T16:01:26.594084+00:00",
+              "published_date": "2024-03-18T22:54:00+00:00",
+              "source_hash": "1e48b0f55d10f58d35cee042016fb328"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Inc (HCP) Reports Revenue Growth and Positive Non-GAAP Net ...",
+              "snippet": "HashiCorp Inc sees a 17% year-over-year increase in third-quarter revenue, reaching $146.1 million.Non-GAAP net income reports a positive $5.6 million, marking the company's first quarter of non ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381449+00:00",
+              "published_date": null,
+              "source_hash": "99733cd3c7c1caf3ab02f871b24bc029"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp's Annual Reports: What I Learned from Their Ambitions ...",
+              "snippet": "HashiCorp's annual reports reflect this struggle: its impressive $583.1 million in revenue for FY2024 was accompanied by a $190.7 million net loss . That's the downside of leaning on open-source; it's a \"try before you buy\" culture, and getting customers to upgrade to paid versions takes longer, especially in an uncertain economic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381589+00:00",
+              "published_date": null,
+              "source_hash": "3e7e20de4f25d5c829db66dbb051e572"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Revenue 2020-2024 - Stock Analysis",
+              "snippet": "HashiCorp had revenue of $173.39M in the quarter ending October 31, 2024, with 18.66% growth. This brings the company's revenue in the last twelve months to $654.89M, up 16.29% year-over-year. In the fiscal year ending January 31, 2024, HashiCorp had annual revenue of $583.14M with 22.54% growth.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381622+00:00",
+              "published_date": null,
+              "source_hash": "f7fa2d92d4fb3733843ad4782dce622c"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp IPO: Assessing The Market Situation And Possible Growth ...",
+              "snippet": "HashiCorp, Inc. filed an S-1 statement, intending to list its Class A common stock on NYSE under the ticker symbol HCP. ... Revenue growth has also almost halved in the last 6 months but is still ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381646+00:00",
+              "published_date": null,
+              "source_hash": "65017398dbe4e1aba734d197fd36729d"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp: Path To Growth Acceleration Is Still Intact - Seeking Alpha",
+              "snippet": "HashiCorp's FY24 revenue exceeded expectations, leading to 150 bps of growth upside. Management's three-pronged growth strategy focusing on sales productivity, differentiation, and cloud products ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381668+00:00",
+              "published_date": null,
+              "source_hash": "f93c1826d130c283338d6ce850bb79a1"
+            },
+            {
+              "url": "",
+              "title": "Potential Risks and Challenges in Hashicorp's Pending Merger ... - Nasdaq",
+              "snippet": "Hashicorp, Inc. Class A (HCP) has disclosed a new risk, in the Corporate Activity and Growth category.Don't Miss our Black Friday Offers:Unlock your investing potential with TipRanks Premium - Now ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381689+00:00",
+              "published_date": null,
+              "source_hash": "0ed309dbb17961539222f04521570ca4"
+            },
+            {
+              "url": "",
+              "title": "Earnings call: HashiCorp reports robust Q3 revenue growth and ...",
+              "snippet": "With a market capitalization of $4.83 billion and a significant revenue growth of 37.83% in the last twelve months as of Q2 2024, HashiCorp is demonstrating strong market traction.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381716+00:00",
+              "published_date": null,
+              "source_hash": "4080fc6c966c4fd7dbec0473edea06a4"
+            },
+            {
+              "url": "",
+              "title": "Filing for IPO, HashiCorp discloses $212M in annual revenue and fast growth",
+              "snippet": "Like other enterprise tech firms that have moved to list their shares in recent quarters, HashiCorp is unprofitable but boasts fast revenue growth. HashiCorp boosted sales from $121.3 million in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381737+00:00",
+              "published_date": null,
+              "source_hash": "4dafeb3cfca99f7bab3ba1f5c7bb94f6"
+            },
+            {
+              "url": "",
+              "title": "Balancing Potential Growth and Macroeconomic Challenges: A Hold Rating ...",
+              "snippet": "Kash Rangan's Hold rating on HashiCorp Inc. (HCP) is influenced by several factors that show potential for the company's long-term growth despite current macroeconomic challenges.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381757+00:00",
+              "published_date": null,
+              "source_hash": "6bf85be6d7cf2666369f9aabb546df1c"
+            },
+            {
+              "url": "",
+              "title": "Earnings call: HashiCorp posts 15% revenue growth in Q4, eyes 20% by ...",
+              "snippet": "HashiCorp aims for a 20% quarterly revenue growth by FY2026. The company plans to improve sales execution, increase commercial differentiation, and reallocate resources to cloud products.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:28.381777+00:00",
+              "published_date": null,
+              "source_hash": "316bf6e173f0cc3a1b85e736c7e9e96e"
+            },
+            {
+              "url": "",
+              "title": "Potential Risks and Challenges in Hashicorp's Pending Merger Impacting Business and Stock Value",
+              "snippet": "Hashicorp, Inc. Class A (HCP) has disclosed a new risk, in the Corporate Activity and Growth category. Unlock your investing potential with TipRanks Premium - Now At 40% OFF! Make smarter ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:30.565046+00:00",
+              "published_date": "2024-12-07T14:25:00+00:00",
+              "source_hash": "0e363ccc691d8840e1876d7d468c7be0"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Announces Third Quarter of Fiscal Year 2025 Financial Results",
+              "snippet": "SAN FRANCISCO, Dec. 05, 2024 (GLOBE NEWSWIRE) -- HashiCorp, Inc. (NASDAQ ... during the third quarter of fiscal 2025, with revenue growth of 19% year-over-year, and 8% growth in $100,000 customers ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:30.565156+00:00",
+              "published_date": "2024-12-05T21:01:00+00:00",
+              "source_hash": "87edff85340e36cb3d125a2316a0b179"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp's Q3 2025 Growth and IBM Merger",
+              "snippet": "Hashicorp, Inc. Class A ( (HCP)) has ... HashiCorp announced a revenue increase of 19% year-over-year, reaching $173.4 million. This growth was accompanied by significant developments, including ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:30.565188+00:00",
+              "published_date": "2024-12-06T07:21:00+00:00",
+              "source_hash": "c70a825404564ced6ec9a36569b44366"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "Have you been paying attention to shares of HashiCorp, Inc. (HCP ... beat the consensus revenue estimate by 6.09%. For the current fiscal year, HashiCorp is expected to post earnings of $0. ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:30.565211+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "870bedd0de9672b39f676f4aef94e607"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp's SWOT analysis: merger delay impacts stock outlook",
+              "snippet": "HashiCorp has demonstrated resilience and growth in a challenging market environment. In its third quarter of fiscal year 2025, the company reported revenue ... company faces challenges in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. revenue growth challenges post-IPO",
+              "retrieved_at": "2025-01-06T16:01:30.565233+00:00",
+              "published_date": "2024-12-16T18:41:00+00:00",
+              "source_hash": "93c9cd96006895f6e24154bf360ace32"
+            },
+            {
+              "url": "",
+              "title": "Hashicorp Inc Market share relative to its competitors, as of Q3 2024 ...",
+              "snippet": "Hashicorp Inc 's Q3 2024 quarter and 12 months market share, relative to the HCP's competitors. Based on total revenues. Company Name, Ticker, Customers, else..",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237248+00:00",
+              "published_date": null,
+              "source_hash": "d6d5291e5684e5e24a1289de211a0ded"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Statistics & Valuation Metrics - Stock Analysis",
+              "snippet": "Detailed statistics for HashiCorp, Inc. (HCP) stock, including valuation metrics, financial numbers, share information and more. ... HashiCorp has a market cap or net worth of $6.99 billion. The enterprise value is $5.66 billion. ... HashiCorp had revenue of $654.89 million and -$122.22 million in losses. Loss per share was -$0.61. Revenue: 654 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237328+00:00",
+              "published_date": null,
+              "source_hash": "fc1aa738bc64416bd99bd66bc22eb545"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Inc (HCP) Stock Price & News - Google Finance",
+              "snippet": "Get the latest HashiCorp Inc (HCP) real-time quote, historical performance, charts, and other financial information to help you make more informed trading and investment decisions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237343+00:00",
+              "published_date": null,
+              "source_hash": "69c1f44eb5bd455e81490340ac476194"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Stock Price, News, Quote & History - Yahoo Finance",
+              "snippet": "Find the latest HashiCorp, Inc. (HCP) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237354+00:00",
+              "published_date": null,
+              "source_hash": "8f8ab2999f80da29445e40185755c696"
+            },
+            {
+              "url": "",
+              "title": "Releases Details - HashiCorp, Inc.",
+              "snippet": "Net Income (Loss) per Share: GAAP basic and diluted net loss per share was $0.26 based on 200.1 million weighted-average shares outstanding in the first quarter of fiscal 2025, compared to a GAAP net loss per share of $0.28 based on 190.8 million weighted-average shares outstanding in the same period last year. Non-GAAP basic and diluted net ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237363+00:00",
+              "published_date": null,
+              "source_hash": "f414478743d03b2dd069807803697c54"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Company Profile 2024: Stock Performance & Earnings - PitchBook",
+              "snippet": "What is the current market cap of HashiCorp? The current market capitalization of HashiCorp is $7B. What is HashiCorp's current revenue? ... Validata Group, and Octopus Deploy are some of the 65 competitors of HashiCorp. What is HashiCorp's annual earnings per share (EPS)? HashiCorp's EPS for 12 months was -$0.60. Data Transparency.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237373+00:00",
+              "published_date": null,
+              "source_hash": "d9a4ff8aa28eb13203d80d132e7cf4ce"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Announces Third Quarter of Fiscal Year 2025 ... - Nasdaq",
+              "snippet": "Weighted-average shares used in computing GAAP net loss per share, basic and diluted 203,526 194,600 201,836 192,693 Weighted-average shares used to compute Non-GAAP net income (loss) per share, basic",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237383+00:00",
+              "published_date": null,
+              "source_hash": "697c5dd044a40cd9da4a9b1bf46b59e9"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Stock Price, Quote & News - Stock Analysis",
+              "snippet": "About HCP. HashiCorp, Inc. engages in the provision of multi-cloud infrastructure automation solutions worldwide. The company offers infrastructure provisioning products, including Terraform, that enables IT operations teams to apply an Infrastructure-as-Code approach, where processes and configuration required to support applications are codified and automated instead of being manual and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237392+00:00",
+              "published_date": null,
+              "source_hash": "e195d705ce3172a3de35c0b7f53c9e21"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp Inc. Cl A (HCP) Stock Price Today - WSJ",
+              "snippet": "View the latest HashiCorp Inc. Cl A (HCP) stock price, news, historical charts, analyst ratings and financial information from WSJ.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237402+00:00",
+              "published_date": null,
+              "source_hash": "a005f8d48d1cf5c41ead43220da99380"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp (Nasdaq:HCP) - Stock Price, News & Analysis - Simply Wall St",
+              "snippet": "Summary of share price highs, lows and changes for HashiCorp; Historical stock prices; Current Share Price: US$34.19: ... HashiCorp, Inc. Brings the Infrastructure Cloud to Europe and Expands Infrastructure and Security Lifecycle Management Capabilities ... Market Average Movement: 6.3%: 10% most volatile stocks in US Market: 17.5%: 10% least ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:32.237411+00:00",
+              "published_date": null,
+              "source_hash": "668ea027cfaf896aadbb33e2cbf480b1"
+            },
+            {
+              "url": "",
+              "title": "Why HashiCorp, Inc. (HCP) is a Top Momentum Stock for the Long-Term",
+              "snippet": "For new and old investors, taking full advantage of the stock market and investing with confidence ... respectively, and HashiCorp, Inc. has gained 49.7% in the last one-year period as well.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:34.616642+00:00",
+              "published_date": "2025-01-01T14:49:00+00:00",
+              "source_hash": "92eab04fc61fca9eaedb9b4207535590"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp stock hits 52-week high at $34.34 amid robust growth",
+              "snippet": "HashiCorp Inc. (NASDAQ:HCP) stock soared to a 52-week high of $34.34, reflecting a remarkable year of performance with a 1-year change showing an impressive 57.56% increase. With a market ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:34.616666+00:00",
+              "published_date": "2025-01-03T20:54:00+00:00",
+              "source_hash": "602f039762c188cc8f7b17b1b8978231"
+            },
+            {
+              "url": "",
+              "title": "HashiCorp, Inc. (HCP) Hit a 52 Week High, Can the Run Continue?",
+              "snippet": "Have you been paying attention to shares of HashiCorp, Inc. (HCP)? Shares have been on ... HashiCorp is expected to post earnings of $0.34 per share on $674.73 million in revenues.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "HashiCorp Inc. HashiCorp Inc. competition and market share loss",
+              "retrieved_at": "2025-01-06T16:01:34.616687+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "985a762eac343ca2d965bfc3f52e699d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "HashiCorp Inc. Business Source License controversy",
+              "rationale": "Investigate community and industry reactions to HashiCorp's shift to BSL and its impact on open-source collaboration",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "HashiCorp Inc. revenue growth challenges post-IPO",
+              "rationale": "Explore financial performance and market pressures faced by HashiCorp since its IPO in December 2021",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "HashiCorp Inc. competition and market share loss",
+              "rationale": "Assess the competitive landscape and potential risks from rival tools like Pulumi, Ansible, and CloudFormation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:01:53.990151",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

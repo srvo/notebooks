@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:18:02.924730",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Lumentum Holdings Inc",
+      "symbol": "LITE",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "High debt levels with a debt-to-equity ratio of 2.87",
+            "Customer concentration risk with heavy reliance on key customers like Apple",
+            "Supply chain vulnerabilities due to dependence on third-party suppliers"
+          ],
+          "controversies": [
+            "Anti-Asian bias lawsuit alleging a culture of prejudice against Asians",
+            "Investigation by U.S. Department of Commerce and Department of Justice for export control violations",
+            "Securities lawsuit against Oclaro regarding insufficient disclosure to shareholders"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Allegations of anti-Asian bias and a culture of prejudice within the company"
+          ],
+          "governance_issues": [
+            "Securities lawsuit raising concerns about corporate governance and transparency",
+            "Low insider ownership (4.47%) and high institutional ownership (108.56%) potentially signaling misalignment between management and shareholder interests"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Tech company under fire after new lawsuit alleges anti-Asian bias",
+              "snippet": "The lawsuit, filed June 30 by Andre Wong, seeks $20,000,000 in damages, claiming \"Lumentum had a culture of prejudice against Asians,\" according to the lawsuit.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591009+00:00",
+              "published_date": null,
+              "source_hash": "01e1e8caea590db48a03f2cab8b26c4e"
+            },
+            {
+              "url": "",
+              "title": "Oclaro Facing Securities Lawsuit Over Potential Merger with Lumentum ...",
+              "snippet": "An investor has filed suit against Oclaro, Inc. and its board of directors alleging the company violated securities law by failing to provide stockholders with material information regarding a proposed merger with Lumentum Holdings Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591117+00:00",
+              "published_date": null,
+              "source_hash": "3caf0ca49514fd5f977f260b271f4070"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "On January 19, 2021, Lumentum and Coherent signed a definitive merger agreement under which Lumentum was to acquire Coherent for $100.00 and 1.1851 shares of Lumentum common stock per share of Coherent stock, for a total equity value of approximately $5.7 billion. 7. Lumentum and NeoPhotonics first discussed a potential acquisition in September",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591136+00:00",
+              "published_date": null,
+              "source_hash": "c9f97fa4619b4cc7d7794b359b52ec5a"
+            },
+            {
+              "url": "",
+              "title": "SEC.gov | Amit Bhardwaj, et al.",
+              "snippet": "The Securities and Exchange Commission on July 25, 2022 filed insider trading charges against Amit Bhardwaj, the former Chief Information Security Officer of Lumentum Holdings Inc., and his friends Dhirenkumar Patel, Srinivasa Kakkera, Abbas Saeedi, and Ramesh Chitor.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591148+00:00",
+              "published_date": null,
+              "source_hash": "de194e9c0be8d3d263e6a30a1099af86"
+            },
+            {
+              "url": "",
+              "title": "Tech Company Lumentum Under Fire After New Lawsuit Alleges Asian ...",
+              "snippet": "Asian Americans throughout Silicon Valley are unifying in support of one man after a new lawsuit was filed last month against Lumentum Operations, LLC, alleging Asian discrimination throughout the company. The lawsuit, filed June 30 by Andre Wong, seeks $20,000,000 in damages, claiming \"Lumentum had a culture of prejudice against\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591159+00:00",
+              "published_date": null,
+              "source_hash": "a1da087a07d85adaab170c3b51688de9"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Corporate Insider with IIIegal Trading Before Acquisition ...",
+              "snippet": "ADMINISTRATIVE PROCEEDING File No. 3-21668. September 14, 2023 - The Securities and Exchange Commission today announced settled charges against Xia Hong of San Jose, CA for insider trading in advance of the January 2021 announcement that Hong's then employer Lumentum Holdings Inc. had entered into an agreement to acquire Coherent, Inc. and the November 2021 announcement that Lumentum had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576725+00:00",
+              "published_date": null,
+              "source_hash": "f71919069c1360bfc78cd32617b97a92"
+            },
+            {
+              "url": "",
+              "title": "Former Lumentum Executive Sentenced To 24 Months For Insider Trading",
+              "snippet": "Damian Williams, the United States Attorney for the Southern District of New York, announced today that AMIT BHARDWAJ, the former Chief Information Security Officer at Lumentum Holdings Inc. (\"Lumentum\"), was sentenced by U.S. District Judge Gregory H. Woods to 24 months in prison for his participation in a scheme to commit insider trading based on material, non-public information (\"MNPI ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591190+00:00",
+              "published_date": null,
+              "source_hash": "b9faa932101c4a60dedcad2731c9990e"
+            },
+            {
+              "url": "",
+              "title": "OCLARO, INC. SECURITIES LITIGATION | Home",
+              "snippet": "(\"oclaro\" or the \"company\") who held such stock during the period from and including may 15, 2018, the record date for voting on the merger of oclaro and lumentum holdings inc. (\"lumentum\"), through and including december 10, 2018, the date the merger closed, including any and all of their respective predecessors, successors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591202+00:00",
+              "published_date": null,
+              "source_hash": "89642f9da7375c7631b5704022460388"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, April 11, 2023 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Lumentum Holdings Inc. (\"Lumentum\" or the \"Company\") (NASDAQ: LITE).Such investors are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591214+00:00",
+              "published_date": null,
+              "source_hash": "8fb80331be2362cc6db2f466143f4e8a"
+            },
+            {
+              "url": "",
+              "title": "Executive accuses Lumentum of anti-Asian bias, discrimination - NBC Bay ...",
+              "snippet": "Wong spent 20 years at Lumentum and, according to his lawsuit, helped create and develop a product line combining 3D and facial recognition that generated about $1 billion in revenue.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:34.591227+00:00",
+              "published_date": null,
+              "source_hash": "c5626161b9032f08ba0ced5b02db82c4"
+            },
+            {
+              "url": "",
+              "title": "Principal Financial Group Inc. Reduces Holdings in Lumentum Holdings Inc. (NASDAQ:LITE)",
+              "snippet": "Lumentum Holdings Inc. has a 1-year low of $38.28 and a 1-year high of $96.25. The company has a debt-to-equity ratio of 2.87, a current ratio of 5.36 and a quick ratio of 4.04.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:46.364148+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "0e9e1a2e82c587b2c011d384dff709fe"
+            },
+            {
+              "url": "",
+              "title": "Needham Just Reiterated Lumentum Holdings Inc (LITE) Stock\u2014What Does This Mean for Investors?",
+              "snippet": "Investors often prefer to invest in shares held by company insiders, as management is typically more aligned with the company's success and shareholder interests. Currently, insiders own just 4.47% of Lumentum Holdings Inc (LITE)'s shares, while financial institutions hold 108.56%.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:41.189188+00:00",
+              "published_date": "2024-12-24T21:36:00+00:00",
+              "source_hash": "36f5d9d7899db43d50952eddacd6b9ec"
+            },
+            {
+              "url": "",
+              "title": "These Analysts Revise Their Forecasts On Lumentum Holdings After Q2 Results",
+              "snippet": "Lumentum Holdings Inc. (NASDAQ: LITE) posted better-than-expected second-quarter financial results on Thursday. Lumentum posted adjusted earnings of 32 cents per share, compared to market ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:46.364295+00:00",
+              "published_date": "2024-02-09T17:22:00+00:00",
+              "source_hash": "7674a842136ab4b0d35e684adefefd70"
+            },
+            {
+              "url": "",
+              "title": "Interview with the President and CEO: Lumentum Holdings Inc. (NASDAQ:LITE)",
+              "snippet": "Alan Lowe has been the President and Chief Executive Officer of Lumentum Holdings Inc. since 2015. Since 2008, Mr. Lowe was President of the former JDSU Communications and Commercial Optical ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:41.189157+00:00",
+              "published_date": "2024-12-13T00:00:00+00:00",
+              "source_hash": "50256485099d7df5351c63e5227708c9"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Appoints New Board Member",
+              "snippet": "SAN JOSE, Calif.--(BUSINESS WIRE)--Lumentum Holdings Inc. (\"Lumentum\"), a market-leading designer and manufacturer of innovative optical and photonic products for cloud, networking and industrial ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T18:17:37.132310+00:00",
+              "published_date": "2024-12-12T16:32:00+00:00",
+              "source_hash": "7af51169f3ac0400fd29547954a25d59"
+            },
+            {
+              "url": "",
+              "title": " Disclosure for the Prevention of Child Labor and Forced Labor of Any Form",
+              "snippet": "unless Lumentum accepts the Supplier's own Code of Conduct, committing to compliance with labor laws, regulations and prohibition of child, forced or slave labor. We also require all suppliers to acknowledge our supplier expectations regarding modern slavery and forced labor, and to commit to conducting due diligence on their own supply chain. 4.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687735+00:00",
+              "published_date": null,
+              "source_hash": "ee7cc7b0ca49249baf1478002fec1289"
+            },
+            {
+              "url": "",
+              "title": "Sustainability | Lumentum Operations LLC",
+              "snippet": "Lumentum has implemented practices to ensure that forced labor does not exist in our operations or our supply chain. We pay all fees associated with recruitment and ongoing employment, and we prohibit suppliers, including subcontractors and labor or recruitment agencies, from charging workers, including migrant, temporary, or subcontracted ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687863+00:00",
+              "published_date": null,
+              "source_hash": "c6493c402e08617ed600bb56d1f90409"
+            },
+            {
+              "url": "",
+              "title": "Sustainability | Lumentum Operations LLC",
+              "snippet": "Lumentum recognizes the 2030 Agenda for Sustainable Development, adopted by all United Nations Member States in 2015, and the 17 Sustainable Development Goals (SDGs) at its heart. ... Disclosure for the Prevention of Child Labor and Forced Labor of Any Form (268.62 KB) Heading. FY 2023. Upload file. Corporate Sustainability Report (14.77 MB)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687885+00:00",
+              "published_date": null,
+              "source_hash": "917539486d1ca7a1a69c6e7e89cc5ce4"
+            },
+            {
+              "url": "",
+              "title": " CREATING A BRIGHTER FUTURE - Lumentum",
+              "snippet": "ABOUT LUMENTUM Lumentum Holdings Inc. (NASDAQ: LITE) is an industry-leading provider of optical and photonic products. We provide critical components for integration into end-market applications such as communication networks and industrial machining. With our headquarters in San Jose, California, we operate and manufacture in",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687901+00:00",
+              "published_date": null,
+              "source_hash": "3020ca6b6857124359445f6293fdc815"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Holdings Inc. - DEF 14A - SEC.gov",
+              "snippet": "LUMENTUM HOLDINGS INC. PROXY STATEMENT FOR 2024 ANNUAL MEETING OF STOCKHOLDERS. To Be Held Virtually at 8:00 a.m. Pacific Time on Wednesday, November 20, 2024. ... We have implemented practices designed to ensure forced labor does not exist in our operations nor in our supply chain. Lumentum pays all fees associated with recruitment and ongoing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687914+00:00",
+              "published_date": null,
+              "source_hash": "2493096f8be686b84f2a1180ec0940d8"
+            },
+            {
+              "url": "",
+              "title": "Governance Lumentum Holdings Inc. - MarketScreener.com",
+              "snippet": "Controversy. Company Profile Lumentum Holdings Inc. is a designer and manufacturer of optical and photonic products enabling optical networking and laser applications worldwide. Its segments include Cloud & Networking and Industrial Tech. The Cloud & Networking segment products include a comprehensive portfolio of optical and photonic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687927+00:00",
+              "published_date": null,
+              "source_hash": "5ff5be25082a4db4b271346dc84e1f85"
+            },
+            {
+              "url": "",
+              "title": "LUMENTUM HOLDINGS INC. Company Profile - Dun & Bradstreet",
+              "snippet": "Find company research, competitor information, contact details & financial data for LUMENTUM HOLDINGS INC. of San Jose, CA. Get the latest business insights from Dun & Bradstreet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687946+00:00",
+              "published_date": null,
+              "source_hash": "8cea8cdbc0d15292bb9712962da2346f"
+            },
+            {
+              "url": "",
+              "title": "SEC Filings - Lumentum",
+              "snippet": "investor.relations@lumentum.com. Shareholdings Information. To report a change of address or lost stock certificate, or to request account information, please contact our transfer agent: Transfer Agent & Registrar Computershare P.O. Box 30170 College Station, TX 77842-3170 Tel: 1-800-736-3001 (US, Canada, Puerto Rico) 1-781-575-3100 (non-US)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687961+00:00",
+              "published_date": null,
+              "source_hash": "32dd2a6cf47eef8384d7a114de7e4135"
+            },
+            {
+              "url": "",
+              "title": "Is Lumentum Holdings Inc. (LITE) the Optical Innovator Driving EV ...",
+              "snippet": "We recently published a list of 11 Hot EV Stocks to Buy Now. In this article, we are going to take a look at where Lumentum Holdings Inc. (NASDAQ:LITE) stands against the other hot EV stocks to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687973+00:00",
+              "published_date": null,
+              "source_hash": "617090a57229de11377c2141ce79b180"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Holdings Inc. - AnnualReports.com",
+              "snippet": "Lumentum (NASDAQ: LITE) is a market-leading designer and manufacturer of innovative optical and photonic products enabling optical networking and laser applications worldwide. Lumentum optical components and subsystems are part of virtually every type of telecom, enterprise, and data center network. ... Lumentum Holdings Inc. reports have an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:38.687986+00:00",
+              "published_date": null,
+              "source_hash": "699466cc31b0cb15419d9eca0c00e9cc"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Holdings Inc. (LITE)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T18:17:41.189250+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "8a7a6e1168d053bd9e7ba17d055a4774"
+            },
+            {
+              "url": "",
+              "title": "BIS, DOJ Investigating Telecom Supplier for Violating Export Controls ...",
+              "snippet": "Lumentum submitted a voluntary self-disclosure to BIS after an \"internal review\" last year revealed that it may have shipped export-controlled items to Huawei without a license, Lumentum said in an SEC filing Friday. The company said it received a subpoena from BIS in August that asked for its Huawei-related business records, and it received a similar subpoena from DOJ soon after.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576660+00:00",
+              "published_date": null,
+              "source_hash": "73907050a3545085303a13c3417dbbd9"
+            },
+            {
+              "url": "",
+              "title": "BIS, DOJ Investigating Telecom Parts Supplier for Violating Export ...",
+              "snippet": "Lumentum submitted a voluntary self-disclosure to BIS after an \"internal review\" last year revealed that it may have shipped export-controlled items to Huawei without a license, it said in an SEC filing released Nov. 8 The company said it received a subpoena from BIS in August that asked for its Huawei-related business records, and it received a similar subpoena from DOJ soon after.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576690+00:00",
+              "published_date": null,
+              "source_hash": "877e51801ea790ea9a0726d6e8cb9b0a"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Provides Update on U.S. Department of Commerce Entity List ...",
+              "snippet": "MILPITAS, Calif., May 20, 2019 /PRNewswire/ -- Lumentum Holdings Inc. (\"Lumentum\" or the \"Company\") today announced it intends to fully comply with the recent United States Department of Commerce imposed license requirements for the export, reexport and/or in-country transfer of all items subject to U.S. export control regulations to Huawei Technologies Co., Ltd. and designated affiliates of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576698+00:00",
+              "published_date": null,
+              "source_hash": "3f7ed125060defbc93d8aac3a7e193bc"
+            },
+            {
+              "url": "",
+              "title": "Lumentum says halting all Huawei shipments, cuts quarterly forecast",
+              "snippet": "Mobile phone parts producer Lumentum Holdings Inc on Monday was the first U.S. company to confirm formally it was halting shipments to Huawei Technologies, following export restrictions put in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576704+00:00",
+              "published_date": null,
+              "source_hash": "5fab25ae291b2d76a23954911142228f"
+            },
+            {
+              "url": "",
+              "title": "California electronics manufacturer discloses Huawei probes",
+              "snippet": "The Sandvine story: inside a rare US export control delisting; US lawmakers say BIS has \"failed\" to enforce export controls; Deutsche Bank subsidiary to pay $4 million over untimely suspicious activity report filings; OFAC issues fine over Global Magnitsky breach; US chipmaker must pay $1.8 million for Russian export controls violations",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576709+00:00",
+              "published_date": null,
+              "source_hash": "112b2e64d32ea08199a07accb5ec01f5"
+            },
+            {
+              "url": "",
+              "title": "EX-10.1 - SEC.gov",
+              "snippet": "Lumentum Holdings Inc., a Delaware corporation (the \"Company\"), proposes, subject to the terms and conditions set forth in this agreement (this \"Agreement\"), to issue and sell to Goldman Sachs & Co. LLC and BofA Securities, Inc. (the \"Purchasers\"), an aggregate of $750,000,000 principal amount of the 0.50% Convertible Senior Notes ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576714+00:00",
+              "published_date": null,
+              "source_hash": "79e99f82ce727d4b8ec1859a21cb897f"
+            },
+            {
+              "url": "",
+              "title": " SECURITIES AND EXCHANGE COMMISSION - resource.lumentum.com",
+              "snippet": "Lumentum Holdings Inc. (Exact name of Registrant as specified in its charter) Delaware 001-36861 47-3108385 ... policies, and maintain an e-mail address conflictminerals@lumentum.com for suppliers and employees to report violations, ask questions and voice concerns. We",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576720+00:00",
+              "published_date": null,
+              "source_hash": "4094af9dc726d38566f9132b540b8c51"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Releases Statement About ZTE Ruling by U.S. Commerce ...",
+              "snippet": "Contact Investors: Chris Coldren, 408-404-0606; investor.relations@lumentum.com Media: Greg Kaufman, 408-546-4235; media@lumentum.com Lumentum Holdings Inc. Please note that the presentations, reports and/or filings of Lumentum presented below contain time-sensitive information accurate only as of the issue date.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576730+00:00",
+              "published_date": null,
+              "source_hash": "d4c2b51e0ab6e518a1fc49cec48623cf"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Holdings Inc | Reuters",
+              "snippet": "Lumentum Holdings said on Monday it would buy Hong Kong-based Cloud Light Technology for about $750 million, as the networking equipment maker looks to capitalize on growing demand for cloud ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:42.576735+00:00",
+              "published_date": null,
+              "source_hash": "bfca05b254422de1e066ce5b4b5d7863"
+            },
+            {
+              "url": "",
+              "title": "Lumentum Reports Strong Q1 Results, Anticipates Growth",
+              "snippet": "Lumentum Holdings Inc ( (LITE)) has released its Q1 earnings. Here is a breakdown of the information Lumentum Holdings Inc presented to its investors. Lumentum Holdings Inc., headquartered in San ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Lumentum Holdings Inc Lumentum Holdings Inc export control violations",
+              "retrieved_at": "2025-01-06T18:17:46.364336+00:00",
+              "published_date": "2024-11-08T05:21:00+00:00",
+              "source_hash": "1de60fc5c52ef811f08ee8e59957c6bb"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Lumentum Holdings Inc legal disputes or lawsuits",
+              "rationale": "Investigate potential legal challenges or disputes that could impact the company's financial stability or reputation.",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Lumentum Holdings Inc labor practices controversies",
+              "rationale": "Examine any controversies or issues related to labor practices, including working conditions and employee relations, which could affect the company's social responsibility standing.",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Lumentum Holdings Inc export control violations",
+              "rationale": "Assess any instances of export control violations, especially given the company's significant operations in geopolitically sensitive regions like China.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:18:02.924737",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

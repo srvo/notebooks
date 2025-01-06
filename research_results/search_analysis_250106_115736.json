@@ -1,0 +1,552 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:57:36.037740",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Simon Property Group Inc",
+      "symbol": "SPG",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Retail sector challenges due to e-commerce growth and reduced foot traffic",
+            "Tenant bankruptcy risks, with exposure to 224 retail bankruptcy cases",
+            "Economic sensitivity to consumer spending and macroeconomic uncertainties",
+            "Lease payment disputes with tenants, such as Gap Inc., during the COVID-19 pandemic"
+          ],
+          "controversies": [
+            "Legal disputes over lease payments during the pandemic",
+            "Criticism for environmental impact and labor practices"
+          ],
+          "environmental_issues": [
+            "Environmental impact concerns despite sustainability efforts"
+          ],
+          "social_issues": [
+            "Labor practices criticism"
+          ],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Simon Property Group Inc - The New York Times",
+              "snippet": "The retailer is seeking court approval of a $325 million sale to a group backed by the mall owner Simon Property Group and Authentic Brands Group, a licensing firm. By Sapna Maheshwari",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.385878+00:00",
+              "published_date": null,
+              "source_hash": "5c23d73192e2e47da49e5727e3b6f06d"
+            },
+            {
+              "url": "",
+              "title": "Ron Tucker - Vice President/Bankruptcy Counsel - Simon Property Group ...",
+              "snippet": "Represent Simon Property Group, Inc., in all Tenant Bankruptcy cases. SPG has served on approximately 224 committee's of unsecured creditor's in retail bankruptcy cases.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.385989+00:00",
+              "published_date": null,
+              "source_hash": "223853a54059fdb33abf33598fa40cce"
+            },
+            {
+              "url": "",
+              "title": "Is the Worst Over for Simon Property Group? | The Motley Fool",
+              "snippet": "Three mall real estate investment trusts were even forced into bankruptcy court. Simon Property Group (SPG 1.46%) managed to avoid that fate, and now that its malls are open again the question for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386008+00:00",
+              "published_date": null,
+              "source_hash": "d889ec22dccae7652e54e0d60276517a"
+            },
+            {
+              "url": "",
+              "title": "Decoding Simon Property Group Inc (SPG): A Strategic SWOT Insight",
+              "snippet": "Simon Property Group Inc , a leading real estate investment trust in the United States, filed its 10-Q report on November 8, 2024, revealing a mixed financial performance. The company's total ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386020+00:00",
+              "published_date": null,
+              "source_hash": "9accb18366b0f7b6542d6b300b7ad3f2"
+            },
+            {
+              "url": "",
+              "title": "1Q 2024 SUPPLEMENTAL - Simon Property Group, L.P.",
+              "snippet": "Simon Property Group, Inc. Unaudited Consolidated Statements of Operations (Dollars in thousands, except per share amounts) For the Three Months Ended March 31, 2024 2023 REVENUE: Lease income $1,302,671 $1,248,185 Management fees and other revenues 29,455 28,949 Other income 110,464 73,715 Total revenue 1,442,590 1,350,849 EXPENSES: Property ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386030+00:00",
+              "published_date": null,
+              "source_hash": "68adffec7b00cf0e58cb709a54bd4ecc"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group, Inc.",
+              "snippet": "Europe. Simon Property Group attracts over two billion shopping visits annually to its properties and is the largest publicly traded retail real estate company in North America with a total market capitalization at December 31, 2000, of approximately $17.5 billion. Corporate Profile Simon Property Group",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386042+00:00",
+              "published_date": null,
+              "source_hash": "16d0a532b4a7a260bd4d353869e0fb4a"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group, Inc.",
+              "snippet": "4 SIMON PROPERTY GROUP, INC. ownership in 13 malls that generate sales in excess of $500 per square foot and are 92% occupied. The transaction is attractively priced and will immediately add to our earnings. Additional Challenges 2001 offered challenges to our business above and beyond flat retailer sales and tenant bankruptcies. During the third",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386053+00:00",
+              "published_date": null,
+              "source_hash": "30ed36b1f2dc5134df4f4b8d8a9475d4"
+            },
+            {
+              "url": "",
+              "title": "2023 SIMON\u00ae Annual Report",
+              "snippet": "Simon Property Group, Inc. Simon Property Group, L.P. Indicate by check mark whether the registrant has filed a report on and attestation to its management's assessment of the effectiveness of its internal control over financial reporting under Section 404(b) of the Sarbanes-Oxley Act (15 U.S.C. 7262(b)) by the registered public accounting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386063+00:00",
+              "published_date": null,
+              "source_hash": "b3c63ee305665ac0b7d68515393881aa"
+            },
+            {
+              "url": "",
+              "title": "Simon Property: Why the Landlord Became the Tenant - InvestorPlace",
+              "snippet": "For instance, Simon said it paid $67 million to help Authentic take Forever 21 out of bankruptcy, then booked $30 million in Earnings Before Income Taxes, Depreciation and Amortization (EBITDA ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386078+00:00",
+              "published_date": null,
+              "source_hash": "0c77b7d7456253e10a01df12aa98080a"
+            },
+            {
+              "url": "",
+              "title": "2022 SIMON\u00ae Annual Report - Page 112",
+              "snippet": "Simon Property Group, Inc. Simon Property Group, L.P. Notes to Consolidated Financial Statements (Dollars in thousands, except share, per share, unit and per un. ... the power to direct activities that most significantly impact the economic performance of the VIE and (2) the obligation to absorb losses or the right to receive benefits of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:08.386087+00:00",
+              "published_date": null,
+              "source_hash": "938e9c835e504896bd13364f6c9f2609"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group, Inc. (SPG): Are Hedge Funds Bullish On This Real Estate and Realty Stock?",
+              "snippet": "In this article, we are going to take a look at where Simon Property Group, Inc. (NYSE:SPG ... geography, and tenant mix. This portfolio stands unmatched as it includes properties like shopping ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:10.789457+00:00",
+              "published_date": "2024-11-25T08:27:00+00:00",
+              "source_hash": "3e6726359b0d26eef9ad90835752d979"
+            },
+            {
+              "url": "",
+              "title": "Reuben S. Leibowitz Acquires 465 Shares of Simon Property Group, Inc. (NYSE:SPG) Stock",
+              "snippet": "Director Reuben S. Leibowitz purchased 465 shares of the stock in a transaction that occurred on Monday, December 30th. The stock was purchased at an average price of $168.59 per share, for a total transaction of $78,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:10.789549+00:00",
+              "published_date": "2025-01-04T08:58:00+00:00",
+              "source_hash": "d4c477e695e67ea759e40ef0de76b354"
+            },
+            {
+              "url": "",
+              "title": "Simon Property initiated with a Hold at Deutsche Bank",
+              "snippet": "Deutsche Bank initiated coverage of Simon Property (SPG ... are a tailwind for the group, Deutsche Bank remains concerned about the potential negative impact of the macro environment on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:10.789579+00:00",
+              "published_date": "2024-12-17T09:50:00+00:00",
+              "source_hash": "08efe6826610ac227dfd911c4ed6d340"
+            },
+            {
+              "url": "",
+              "title": "How Is Simon Property Group's Stock Performance Compared to Other Real Estate Stocks?",
+              "snippet": "Simon Property Group, Inc. (SPG), established in 1993 and headquartered ... The company's dedication to innovation, tenant relationships, and enhancing shopping experiences reinforces its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc tenant bankruptcy impact",
+              "retrieved_at": "2025-01-06T18:57:10.789604+00:00",
+              "published_date": "2024-12-12T22:41:00+00:00",
+              "source_hash": "b030299d0b9c0e7b6f5e8bb694a20c95"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group (NYSE:SPG) Share Price Crosses Above 200 Day Moving Average - Here's What Happened",
+              "snippet": "Simon Property Group, Inc. (NYSE:SPG - Get Free Report) crossed above its 200-day moving average during trading on Monday . The stock has a 200-day moving average of $165.47 and traded as high as $171.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:20.951047+00:00",
+              "published_date": "2024-12-31T08:06:00+00:00",
+              "source_hash": "c2ce85c4e101f48681a362a77ce961d8"
+            },
+            {
+              "url": "",
+              "title": "Simon Property and Gap Settle Lawsuit Over Lease Payments (1)",
+              "snippet": "Simon Property Group Inc. and Gap Inc. ended a lawsuit in which the mall owner had accused its largest tenant of taking advantage of the Covid-19 pandemic to avoid more than $107 million in lease payments. Terms of a settlement weren't disclosed in a court filing Monday in Delaware Chancery Court. Representatives of Simon Property and Gap didn't immediately respond to requests for comment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432739+00:00",
+              "published_date": null,
+              "source_hash": "e09a65f4d9da52dca8cfa782fe81cd0d"
+            },
+            {
+              "url": "",
+              "title": " In the Superior Court of The State of Delaware",
+              "snippet": "This case stems from leasing arrangements disrupted by the Covid-19 Pandemic. The landlord is Simon Property Group L.P. (\"Simon\"), a Delaware limited partnership. Simon is the principal operating partnership for Simon Property Group Inc., a publicly-held Delaware corporation. Simon brings this action on",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432842+00:00",
+              "published_date": null,
+              "source_hash": "348e260c80219bfab43e7841f559e6d9"
+            },
+            {
+              "url": "",
+              "title": "Simon claims Gap uses COVID-19 as pretext to avoid lease payments ...",
+              "snippet": "Simon Property Group filed a counter lawsuit against The Gap Inc. claiming that the tenant is \"taking opportunistic advantage\" of the COVID-19 pandemic to refuse to make more than $107 million in lease payments thus far, despite reopening some of its U.S. stores, Bloomberg News reported, citing a filing with the Delaware Chancery Court in Wilmington.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432892+00:00",
+              "published_date": null,
+              "source_hash": "387bee5643a0caedf259c92e27cd2e5e"
+            },
+            {
+              "url": "",
+              "title": "Simon Countersues Gap Over $107 Million in Lease Payments",
+              "snippet": "Simon Property Group LP countersued The Gap Inc., alleging the retail chain is using the Covid-19 pandemic as a pretext to avoid more than $107 million so far in lease payments on its stores ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432906+00:00",
+              "published_date": null,
+              "source_hash": "b1ad11ddef958b16d19225b0534086b5"
+            },
+            {
+              "url": "",
+              "title": "Simon Property's results miss due to unpaid rents, retail bankruptcies",
+              "snippet": "America's largest mall operator Simon Property Group Inc <SPG.N> on Monday missed quarterly estimates for earnings and lease income, as retailers ravaged by the COVID-19 pandemic shut stores ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432917+00:00",
+              "published_date": null,
+              "source_hash": "190a1da8fe795af4a8880efb1705ddb3"
+            },
+            {
+              "url": "",
+              "title": "Mall owner Simon Property sees revenue drop from pandemic",
+              "snippet": "America's largest mall operator Simon Property Group Inc (N:SPG) missed Wall Street estimates for revenue and profit on Monday, hurt by unpaid rent from retailers due to the COVID-19 pandemic that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432926+00:00",
+              "published_date": null,
+              "source_hash": "b3aadbaccab80b5117b03cf254ceec79"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group Reports Fourth Quarter and Full Year 2020 Results",
+              "snippet": "Under the terms of the transaction, Simon, through its operating partnership, Simon Property Group, L.P., acquired all of Taubman Centers, Inc. (\"TCO\") common stock for $43.00 per share in cash, and the Taubman family sold approximately one-third of its ownership interest at the transaction price and remains a 20% partner in TRG.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432937+00:00",
+              "published_date": null,
+              "source_hash": "e7b6ff642271238c56c6331540f9f792"
+            },
+            {
+              "url": "",
+              "title": "Simon Property CEO Says 'The Mall Is Safe' - PYMNTS.com",
+              "snippet": "David Simon, CEO of Simon Property, said that in places that have seen an uptick in COVID, such as Missouri and Florida, no coronavirus cases have been reported from retailers or staff at the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432947+00:00",
+              "published_date": null,
+              "source_hash": "1ad23ebb0596efcbf5d27760cac9f4ad"
+            },
+            {
+              "url": "",
+              "title": "Press Release - Simon Property Group, L.P.",
+              "snippet": "Conference Call. Simon will hold a conference call to discuss the quarterly financial results today from 5:00 p.m. to 6:00 p.m. Eastern Time, Monday, February 5, 2024.A live webcast of the conference call will be accessible in listen-only mode at investors.simon.com.An audio replay of the conference call will be available until February 12, 2024.To access the audio replay, dial 1-844-512-2921 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432956+00:00",
+              "published_date": null,
+              "source_hash": "462881e43cc033b56b3149158dff0655"
+            },
+            {
+              "url": "",
+              "title": "SEC Filing | Simon Property Group, L.P.",
+              "snippet": "(Simon Property Group, Inc.) Delaware (Simon Property Group, L.P.) (State or other jurisdiction of incorporation) 001-14469 (Simon Property Group, Inc.) 001-36110 (Simon Property Group, L.P.) (Commission File Number) 04-6268599 (Simon Property Group, Inc.) 34-1755769 (Simon Property Group, L.P.) (I.R.S. Employer",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:12.432966+00:00",
+              "published_date": null,
+              "source_hash": "3f2480da654f7dbb3f806febe8e77dab"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group",
+              "snippet": "Simon Property Group came into 2021 as the largest mall operator in the ... The sums were impressive enough given the battering that Simon, like other mall operators, took during the coronavirus pandemic. The company reported revenue losses for 2020 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:15.844788+00:00",
+              "published_date": "2023-05-16T17:06:00+00:00",
+              "source_hash": "84b627d2cd94cad0a5a95640f9648335"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group (SPG): Thriving Amid Economic Fluctuations with Fixed Leases",
+              "snippet": "Simon Property Group, Inc. (NYSE:SPG) is a mid-sized REIT that invests in retail and hospitality properties such as restaurants and malls. Since nearly 90% of its revenue is based on lease income ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:15.844875+00:00",
+              "published_date": "2024-11-11T21:21:00+00:00",
+              "source_hash": "aa7817371176e97b5fbfcacfd1ae1b6b"
+            },
+            {
+              "url": "",
+              "title": "How Is Simon Property Group's Stock Performance Compared to Other Real Estate Stocks?",
+              "snippet": "Simon Property Group, Inc. (SPG), established in 1993 and headquartered in Indianapolis, Indiana, is a premier real estate investment trust specializing in retail property ownership, management ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "retrieved_at": "2025-01-06T18:57:15.844892+00:00",
+              "published_date": "2024-12-12T22:41:00+00:00",
+              "source_hash": "10de69bbf3f53208bc8ec353d6fe1bcc"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group Inc 2023 Sustainability Report",
+              "snippet": "Simon Property Group Inc 2023 Sustainability Report. The report highlights Simon's sustainability efforts and achievements in 2023, including a new comprehensive materiality assessment, progress towards reducing its environmental footprint, and continued commitment to community engagement and employee development. The report also details Simon ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492462+00:00",
+              "published_date": null,
+              "source_hash": "e196825d372402cc8cf756e0188320c8"
+            },
+            {
+              "url": "",
+              "title": "Simon Sustainability Report 2022",
+              "snippet": "Simon Property Group's (Simon ) 2022 Sustainability Report \u00ae provides information and updates on the Company's continuing sustainability efforts and achievements. This report includes information from Simon's real estate activities in the U.S. including Simon Malls, Simon Premium Outlets, and The Mills. \u00ae \u00ae \u00ae The information communicated in this report is based on data for the year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492566+00:00",
+              "published_date": null,
+              "source_hash": "400d3d64413e65f7cf69f2b53dbe0411"
+            },
+            {
+              "url": "",
+              "title": " Simon Sustainability Report 2019 - responsibilityreports.com",
+              "snippet": "SIMON 6 | SIMON PROPERTY GROUP, INC. SUSTAINABILITY REPORT 2019 | 7 A Global Leader In Retail Real Estate and an S&P 100 Company $89 Billion Approximate Total Market Capitalization 204 U.S. Portfolio Properties 181 Million Square Feet of GLA in North America >$60 Billion Annual Retail Sales Generated by U.S. Properties $5.7 Billion",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492584+00:00",
+              "published_date": null,
+              "source_hash": "1e2a727c6aaf829f49d58202eac8acb8"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group, L.P.",
+              "snippet": "Simon Property Group's 2023 Sustainability Report highlights the company's ongoing sustainability efforts and achievements.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492596+00:00",
+              "published_date": null,
+              "source_hash": "a26b05e9050b0db4e2c49a923ff10017"
+            },
+            {
+              "url": "",
+              "title": " CREATING SUSTAINABLE COMMUNITIES - responsibility reports",
+              "snippet": "SIMON SUSTAINABILITY REPORT 2021 INDEX Simon Property Group's (Simon) 2021 Sustainability Report provides information and updates on the Company's continuing sustainability efforts and achievements. This report includes information from Simon's real estate activities in the U.S. including Simon Malls,\u00ae",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492607+00:00",
+              "published_date": null,
+              "source_hash": "edece966f5bb465981d9c3b430aa63d7"
+            },
+            {
+              "url": "",
+              "title": "Simon Sustainability Report 2022 - Page 9",
+              "snippet": "Simon Property Group's (Simon ) 2022 Sustainability Report \u00ae provides information and updates on the Company's continuing sustainability efforts and achievements. This report includes information from Simon's real estate activities in the U.S. including Simon Malls, Simon Premium Outlets, and The Mills. \u00ae \u00ae \u00ae The information communicated in this report is based on data for the year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492654+00:00",
+              "published_date": null,
+              "source_hash": "3cf69c1393b99ea2648a4dc80a746a9f"
+            },
+            {
+              "url": "",
+              "title": "Sustainability | Simon Property Group, L.P.",
+              "snippet": "At Simon, we define and implement sustainability initiatives that consider all aspects of our business. This approach enhances the communities in which we operate and also generates long-term shareholder value by embracing opportunities, improving the bottom line, and mitigating environmental and social risks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492667+00:00",
+              "published_date": null,
+              "source_hash": "dae8748946f3f2b47e1090fed87dce31"
+            },
+            {
+              "url": "",
+              "title": " Simon Sustainability Report 2020",
+              "snippet": "Simon Property Group's (Simon) 2020 Sustainability Report provides information and updates on the Company's continuing sustainability efforts and achievements. This report includes information from Simon's centers in the U.S. including Simon Malls, \u00ae Simon Premium Outlets, \u00ae and The Mills. \u00ae",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492678+00:00",
+              "published_date": null,
+              "source_hash": "f610ab38ab8f9e450de7701dabbb9bcf"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group (SPG) ESG Score and Rating 2024 - MarketBeat",
+              "snippet": "According to The Upright Project, which measures holistic value creation and impact of companies, Simon Property Group has a net impact ratio of -3.7%, indicating an overall negative sustainability impact. Simon Property seems to create the most significant positive value in the categories of Taxes, Societal infrastructure, and Jobs. Simon ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492689+00:00",
+              "published_date": null,
+              "source_hash": "b42dc80b602175d667646bb796858d19"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "Simon Property Group is the second-largest real estate investment trust in the United States. Its portfolio includes an interest in 231 properties: 136 traditional malls, 70 premium outlets, 14 Mills centers (a combination of a traditional mall, outlet center, and big-box retailers), 6 lifestyle centers, and 5 other retail properties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:17.492698+00:00",
+              "published_date": null,
+              "source_hash": "ef6864bcb0085ca1319d8c7d5823def6"
+            },
+            {
+              "url": "",
+              "title": "Simon Property Group Inc",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:20.950940+00:00",
+              "published_date": "2024-11-04T23:59:00+00:00",
+              "source_hash": "f77be143e55ffce4d59bc555fa7c9b21"
+            },
+            {
+              "url": "",
+              "title": "M&T Bank Corp Sells 2,237 Shares of Simon Property Group, Inc. (NYSE:SPG)",
+              "snippet": "M&T Bank Corp trimmed its position in shares of Simon Property Group, Inc. (NYSE:SPG - Free Report) by 3.8% during the 3rd quarter, Holdings Channel.com reports. The institutional investor owned 56,941 shares of the real estate investment trust's stock after selling 2,",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simon Property Group Inc Simon Property Group Inc sustainability initiatives and criticisms",
+              "retrieved_at": "2025-01-06T18:57:20.951081+00:00",
+              "published_date": "2024-12-23T08:38:00+00:00",
+              "source_hash": "861e93fd8adce0b81c6da2c6e446ae51"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Simon Property Group Inc tenant bankruptcy impact",
+              "rationale": "Assess financial risks from tenant bankruptcies",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Simon Property Group Inc COVID-19 lease enforcement controversies",
+              "rationale": "Investigate ethical concerns during the pandemic",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Simon Property Group Inc sustainability initiatives and criticisms",
+              "rationale": "Evaluate environmental commitments and controversies",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:57:36.037748",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

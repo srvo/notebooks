@@ -1,0 +1,450 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:46:27.522831",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Vestis Corporation",
+      "symbol": "VSTS",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Securities class action lawsuits alleging false and misleading statements",
+            "Reliance on accounts receivable securitization impacting liquidity",
+            "Supply chain vulnerabilities disrupting service delivery",
+            "Labor shortages affecting service quality and operational efficiency",
+            "Competitive pressure eroding market share and margins"
+          ],
+          "controversies": [
+            "Multiple class action lawsuits with claims exceeding $1 billion in shareholder losses",
+            "Allegations of underinvestment and misrepresentation during spin-off from Aramark"
+          ],
+          "environmental_issues": [
+            "Concerns over water and energy usage in rental and cleaning services",
+            "Potential regulatory scrutiny due to sustainability challenges"
+          ],
+          "social_issues": [
+            "Employee dissatisfaction due to poor work-life balance and unfair treatment",
+            "Difficulty in recruiting and retaining skilled workers"
+          ],
+          "governance_issues": [
+            "Misrepresentation of growth predictions leading to stock price drop",
+            "Dependence on revolving accounts receivable securitization facility"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Aramark Spinoff Vestis Hit With Shareholder Suit Over Stock Drop",
+              "snippet": "Aramark offshoot Vestis Corp. is facing a proposed securities class action alleging the company made false and misleading statements that cost shareholders more than $1 billion in value when the company revealed its growth predictions were wrong.. The company failed to disclose that Aramark \"underinvested in the business that became Vestis,\" and that Vestis \"operated with outdated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273751+00:00",
+              "published_date": null,
+              "source_hash": "61246b4d1923f0cd590cb745e0ff0d4c"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation - DiCello Levitt",
+              "snippet": "A class action lawsuit has been filed against Vestis Corporation (\"Vestis\" or the \"Company\") (NYSE: VSTS) and certain of the Company's current and former senior executive officers alleging violations of the federal securities laws. The Vestis lawsuit is brought on behalf of all persons and entities who purchased or otherwise acquired Vestis common stock between \u2026 Continued",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273762+00:00",
+              "published_date": null,
+              "source_hash": "8501e420a02349ab4b09ce6157f781cb"
+            },
+            {
+              "url": "",
+              "title": "Lowey Dannenberg Notifies Vestis Corporation (\"Vestis\" or",
+              "snippet": "If you suffered a loss of more than $50,000 in Vestis' securities, and wish to participate, or learn more, click here, or please contact our attorneys at (914) 733-7256 or via email to Andrea ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273713+00:00",
+              "published_date": null,
+              "source_hash": "6f502f8c36ea0113266487210afc2725"
+            },
+            {
+              "url": "",
+              "title": "INVESTOR ALERT: DiCello Levitt LLP Announces the Filing of - GlobeNewswire",
+              "snippet": "If you purchased Vestis common stock between October 2, 2023 and May 1, 2024, and suffered substantial losses, and you wish to obtain additional information or serve as lead plaintiff in this ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:55.427310+00:00",
+              "published_date": null,
+              "source_hash": "b951ab5be10eca5af2b46c5291e33388"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. | Vestis Corporation - bespc.com",
+              "snippet": "Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating potential claims against Vestis Corporation (NYSE: VSTS) on behalf of long-term stockholders following a class action complaint that was filed against Vestis on May 17, 2024 with a Class Period from October 2, 2023 to May 1, 2024.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273722+00:00",
+              "published_date": null,
+              "source_hash": "8a909032e776e92ae16b672f4432a9db"
+            },
+            {
+              "url": "",
+              "title": "Saxena White P.A. Files Securities Fraud Class Action Against Vestis ...",
+              "snippet": "Vestis Corporation et al., No. 1:24-cv-02175-SDG (N.D. Ga.). Based in Roswell, Georgia, Vestis is a provider of uniforms and workplace supplies in the United States and Canada. The Company was created as the result of its September 30, 2023 spinoff from food services and facilities management provider Aramark.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:55.427323+00:00",
+              "published_date": null,
+              "source_hash": "af069d907e1137cad9b10d382019efc0"
+            },
+            {
+              "url": "",
+              "title": "Vestis: Rising Concerns Cast Shadows On Future Prospects - Seeking Alpha",
+              "snippet": "Vestis Corporation's shares have dropped over 35% due to poor service and a disastrous Q2'24. The company's FY24 outlook is in question, casting doubt on its ability to execute its five-year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:55.427329+00:00",
+              "published_date": null,
+              "source_hash": "02eededc5d0fe578de0d29106ae22219"
+            },
+            {
+              "url": "",
+              "title": "Wolf Popper LLP Announces Investigation on Behalf of Vestis - GlobeNewswire",
+              "snippet": "NEW YORK, May 03, 2024 (GLOBE NEWSWIRE) -- Wolf Popper LLP is investigating potential claims on behalf of purchasers of Vestis Corporation (\"Vestis\") common stock (NYSE: VSTS).",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:55.427334+00:00",
+              "published_date": null,
+              "source_hash": "dea2c8e270d134f95d406f213711a2f0"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corp | Reuters",
+              "snippet": "The latest international Vestis Corp news and views from Reuters - one of the world's largest news agencies",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:55.427340+00:00",
+              "published_date": null,
+              "source_hash": "eb35c7fef312550c7ecf8fb66de2218c"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation - AnnualReports.com",
+              "snippet": "Vestis is a leader in the B2B uniform and workplace supplies category. Vestis provides uniform services and workplace supplies to a broad range of North American customers from Fortune 500 companies to locally owned small businesses across a broad set of end sectors. ... Vestis Corporation. Most Recent Annual Report. MOST RECENT 2023 Annual ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271205+00:00",
+              "published_date": null,
+              "source_hash": "1b5bfd9b2bdb36ebf6454a8ba1306ed6"
+            },
+            {
+              "url": "",
+              "title": "Vestis may be worth at least $18 a share in a takeover -analyst",
+              "snippet": "Uniform supplier Vestis Corp. (NYSE:VSTS) may be worth at least $18 a share in a potential takeover after reports about strategic and private equity interest, according to a Jefferies analyst.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:58.692574+00:00",
+              "published_date": "2024-10-04T17:48:00+00:00",
+              "source_hash": "e7a51833df289047f84522d079edacc4"
+            },
+            {
+              "url": "",
+              "title": "Vestis falls as Elis says it ends talks with the company and UniFirst (update)",
+              "snippet": "Vestis Corp. (NYSE:VSTS) dropped 3% after French competitor Elis said it ended discussions with Vestis (VSTS) and US peer UniFirst (UNF) over possible takeover offers. UniFirst fell 1.2%.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:58.692680+00:00",
+              "published_date": "2024-10-04T13:33:00+00:00",
+              "source_hash": "c353aa02afac3861bbbd37346bad32be"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation Faces Financial Risks from Reliance on Accounts Receivable Securitization",
+              "snippet": "Make smarter investments with weekly expert stock picks from the Smart Investor Newsletter Vestis Corporation's reliance on a revolving accounts receivable securitization facility poses ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:58.692714+00:00",
+              "published_date": "2024-11-24T06:00:00+00:00",
+              "source_hash": "937b40fd7e7dc9ccc02ddec13518046e"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation Faces Financial Risks from Reliance on Accounts Receivable Securitization",
+              "snippet": "Vestis Corporation (VSTS) has disclosed a new risk, in the Debt & Financing category. Unlock your investing potential with TipRanks Premium - Now At 40% OFF! Make smarter investments with weekly ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Vestis Corporation Vestis Corporation water and energy usage controversies",
+              "retrieved_at": "2025-01-06T15:45:58.692739+00:00",
+              "published_date": "2024-11-24T09:05:00+00:00",
+              "source_hash": "1c8c856636bd1966afba2a3926f0fd0d"
+            },
+            {
+              "url": "",
+              "title": "VESTIS ALERT: Bragar Eagel & Squire, P.C. Announces that a - GlobeNewswire",
+              "snippet": "VESTIS ALERT: Bragar Eagel & Squire, P.C. Announces that a Class Action Lawsuit Has Been Filed Against Vestis Corporation and Encourages Investors to Contact the Firm May 20, 2024 21:00 ET ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273527+00:00",
+              "published_date": null,
+              "source_hash": "bef4649a44988e418ddc0c09a7fb9912"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation - The Rosen Law",
+              "snippet": "Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of common stock of Vestis Corporation (NYSE: VSTS) between October 2, 2023 and May 1, 2024, both dates inclusive (the \"Class Period\"). ... If you purchased Vestis Corporation common stock and would like to join the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273667+00:00",
+              "published_date": null,
+              "source_hash": "059f4ee6cbb3a17534066c0a3dd1fe1c"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, May 16, 2024 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of Vestis Corporation (\"Vestis\" or the \"Company\") (NYSE: VSTS).Such investors are advised to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273690+00:00",
+              "published_date": null,
+              "source_hash": "850f54708c17ee0f2ec6e45d9dde8281"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation Securities Class Action Alert: Wolf Haldenstein ...",
+              "snippet": "Vestis's outdated facilities and underperforming sales force led to \"service gaps\" that had impeded the Company's levers of growth and had resulted in customer attrition; and",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273702+00:00",
+              "published_date": null,
+              "source_hash": "8589a71d87b14b7cfedecfb2aa031215"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation | Saxena White P.A.",
+              "snippet": "Vestis Corporation. Case Details. Class Period: October 2, 2023 - May 1, 2024 ... Case Summary. Based in Roswell, Georgia, Vestis is a provider of uniforms and workplace supplies in the United States and Canada. The Company was created as the result of its September 30, 2023 spinoff from food services and facilities management provider Aramark ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273741+00:00",
+              "published_date": null,
+              "source_hash": "32a9986cf998d2ef28f12f30fa74466d"
+            },
+            {
+              "url": "",
+              "title": "VESTIS INVESTOR NEWS: ROSEN, LEADING INVESTOR COUNSEL, Encourages ...",
+              "snippet": "VESTIS INVESTOR NEWS: ROSEN, LEADING INVESTOR COUNSEL, Encourages Vestis Corporation Investors to Secure Counsel Before Important Deadline in Securities Class Action - VSTS May 20, 2024 09:49 PM ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Vestis Corporation Vestis Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T15:46:00.273781+00:00",
+              "published_date": null,
+              "source_hash": "20d5bf3bc607f82bfa73d43ab3196bca"
+            },
+            {
+              "url": "",
+              "title": "10-K: Annual report pursuant to Section 13 and 15(d) - Vestis",
+              "snippet": "The following discussion and analysis of Vestis Corporation's (\"Vestis\", the \"Company\", \"our\", \"we\" or \"us\") financial condition and results of operations for the fiscal years ended September 29, 2023 and September 30, 2022 should be read in conjunction with our audited Combined Financial Statements and the notes to those ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271044+00:00",
+              "published_date": null,
+              "source_hash": "e7a3cd0a1901d88210cd56e126d922cc"
+            },
+            {
+              "url": "",
+              "title": "Working at Vestis: 129 Reviews | Indeed.com",
+              "snippet": "129 reviews from Vestis employees about Vestis culture, salaries, benefits, work-life balance, management, job security, and more ... poor employees, poor work life balance, unfair treatment. Was this review helpful? Yes No. ... Numbers are not realistic. Shortages on products. Clothes are not clean. The problems that arise on a daily basis ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271186+00:00",
+              "published_date": null,
+              "source_hash": "b8d6aa0078112ddfa2bcffabf8d121d5"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation - National Labor Relations Board",
+              "snippet": "Immigrant Worker Rights; GC Resources on Cemex; GC Collective Bargaining Resources; Fillable Forms; ... National Labor Relations Board. Sign out. View Your Dashboard. National Labor Relations Board. ... Charged Party / Respondent Employer Vestis Corporation: Thomasville, GA 31792 : Charging Party Union International Brotherhood of Teamsters ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271217+00:00",
+              "published_date": null,
+              "source_hash": "631f3b5bb5d52b95737138189ceb1c4e"
+            },
+            {
+              "url": "",
+              "title": "Earnings call: Vestis Corporation faces growth challenges, updates FY ...",
+              "snippet": "Vestis Corporation aims to accelerate revenue growth by focusing on sales productivity and customer retention. Plans to return to positive growth in FY '25, with an emphasis on improving service ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271227+00:00",
+              "published_date": null,
+              "source_hash": "6537edfdddb4137ea28f30377051402c"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation (VSTS) Company Profile & Facts - Yahoo Finance",
+              "snippet": "See the company profile for Vestis Corporation (VSTS) including business summary, industry/sector information, number of employees, business summary, corporate governance, key executives and their ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271238+00:00",
+              "published_date": null,
+              "source_hash": "7d13a8e0d6567f48d93d4ee7d26d4097"
+            },
+            {
+              "url": "",
+              "title": "Vestis Turns To Q4 Loss, Revenue Declines | Markets Insider",
+              "snippet": "(RTTNews) - Vestis Corporation (VSTS), a provider of uniforms and workplace supplies, Thursday reported a loss of $2.29 million or $0.02 per share for the fourth quarter, compared with a profit of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271249+00:00",
+              "published_date": null,
+              "source_hash": "b551a7fdcab961d10f6b708eccf72831"
+            },
+            {
+              "url": "",
+              "title": "Areas for Expansion and Innovation for Vestis - Yahoo Finance",
+              "snippet": "Vestis has demonstrated strong financial performance with a remarkable $2.8 billion in revenue for fiscal 2024, driven by strategic initiatives under CEO Kim Scott. ... NVDA NVIDIA Corporation 135 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271258+00:00",
+              "published_date": null,
+              "source_hash": "3cceb2bbfefc401ceac2340609c5e876"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation Company Profile | Lawrenceville, GA | Competitors ...",
+              "snippet": "Find company research, competitor information, contact details & financial data for Vestis Corporation of Lawrenceville, GA. Get the latest business insights from Dun & Bradstreet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271267+00:00",
+              "published_date": null,
+              "source_hash": "bbb1232828f97e41036f613573a92c73"
+            },
+            {
+              "url": "",
+              "title": "Levi & Korsinsky Notifies Shareholders of Vestis Corporation(VSTS) of a ...",
+              "snippet": "Morningstar brands and products Company Get 7 Days Free",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:04.271278+00:00",
+              "published_date": null,
+              "source_hash": "295eff096f2cb1b9c7490ba27347f982"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation (VSTS): Top Investors Are Investing In This Small-Cap Stock Now",
+              "snippet": "Vestis Corporation (NYSE:VSTS) has been implementing initiatives in a bid to enhance customer service quality, which includes addressing shortages and ensuring on-time delivery. Overall ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:07.656753+00:00",
+              "published_date": "2024-10-13T21:39:00+00:00",
+              "source_hash": "ee102f90eb0c32316831826c288f44cc"
+            },
+            {
+              "url": "",
+              "title": "Vestis Corporation (NYSE:VSTS) Q4 2024 Earnings Call Transcript",
+              "snippet": "Vestis Corporation (NYSE:VSTS ... Over the past year, our team has been hard at work building a strong foundation that will allow Vestis to capitalize on the tremendous opportunity ahead.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Vestis Corporation Vestis Corporation labor shortages and worker treatment",
+              "retrieved_at": "2025-01-06T15:46:07.656790+00:00",
+              "published_date": "2024-11-23T13:11:00+00:00",
+              "source_hash": "46d769719ab96778bde411b62ff633d6"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Vestis Corporation water and energy usage controversies",
+              "rationale": "Assess environmental impact of rental and cleaning services",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Vestis Corporation supply chain disruptions legal issues",
+              "rationale": "Investigate legal challenges related to supply chain vulnerabilities",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Vestis Corporation labor shortages and worker treatment",
+              "rationale": "Examine ethical concerns regarding recruitment and retention practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:46:27.522838",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

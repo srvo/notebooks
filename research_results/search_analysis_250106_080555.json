@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:05:55.340624",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Haemonetics Corp",
+      "symbol": "HAE",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and quality control issues with FDA warnings",
+            "Supply chain vulnerabilities due to global dependencies",
+            "Intense competition and market risks in the blood and plasma management industry",
+            "Ethical and legal concerns over plasma collection practices",
+            "Operational and financial pressures despite revenue growth"
+          ],
+          "controversies": [
+            "FDA warnings regarding manufacturing quality control failures",
+            "Biometrics class action lawsuit over plasma donor fingerprint scanning",
+            "Ethical concerns regarding donor compensation policies in low-income countries"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical concerns over plasma collection practices in low-income countries",
+            "Scrutiny over donor compensation policies"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and quality control failures",
+            "Legal risks from biometrics class action lawsuit"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "U.S. FDA warns Haemonetics over quality control | Reuters",
+              "snippet": "Haemonetics Corp <HAE.N> has failed to correct a variety of manufacturing issues, including taking proper steps to ensure the quality of its blood collection products, the U.S. Food and Drug ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.216986+00:00",
+              "published_date": null,
+              "source_hash": "fccca24761d05ad462f7606cee484237"
+            },
+            {
+              "url": "",
+              "title": "MAUDE Adverse Event Report: HAEMONETICS CORPORATION NEXSYS PCS SYSTEM ...",
+              "snippet": "A haemonetics field service engineer evaluated the nexsys pcs system used during the (b)(6) 2023 donation.The machine was found working properly and operating within manufacturer's specifications.The machine was evaluated to have no defect.There are no nonconformances against the device serial number and no capas related to this complaint.A review of the dhr shows no issues during ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217100+00:00",
+              "published_date": null,
+              "source_hash": "1f623e692d756b65de5d35d22c13f13c"
+            },
+            {
+              "url": "",
+              "title": "MAUDE Adverse Event Report: HAEMONETICS CORPORATION HAEMONETICS ...",
+              "snippet": "Summary of issue: this has been an intermittent issue with some of the chart medical pediatric sized blood bags for at least 18 months.What happened? patient required packed red blood cells to be given.The blood product came up in a chart medical pediatric sized blood bag.Rn had difficulty spiking blood bag with blood filter and this has occurred multiple times in the past.Rn needing to use ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217119+00:00",
+              "published_date": null,
+              "source_hash": "76a98f3bdbeec199ad3615ce36ab3e8a"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "www.fda.gov November 15, 2022 Haemonetics Corporation Ergang Alexis Director Regulatory Affairs 125 Summer Street Boston, Massachusetts 02110 Re: K221722 Trade/Device Name: Haemonetics Cell Saver Elite/Elite+ Autotransfusion System (CSE-E-US/CSE-EW-US) Regulation Number: 21 CFR 868.5830 Regulation Name: Autotransfusion apparatus",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217132+00:00",
+              "published_date": null,
+              "source_hash": "ab420bbb2c66ec6d3d23b8bae0e07b0f"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corporation Governance and Compliance Committee Charter",
+              "snippet": "compliance with laws such as the U.S. Foreign Corrupt Practices Act , the UK Bribery Act and Italian Law 231; compliance with applicable regulations of and actions taken by the U.S. Food and Drug Administration and other relevant regulatory authorities that have oversight of the Company's products throughout the world;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217143+00:00",
+              "published_date": null,
+              "source_hash": "1cf90db1ead9412d1440f82a79c43822"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corp FDA Filings",
+              "snippet": "This page includes the latest FDA filings for Haemonetics Corp. Currently, you will find the latest 100 filings for Premarket Notifications, Premarket Applications, De Novo Applications, and GUDID registrations. ... DUNS 057827420: Haemonetics Corp holds import registrations or U.S. agent authorizations in conjunction with the following ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217154+00:00",
+              "published_date": null,
+              "source_hash": "66104587e17c0bd1b5e0ef31f9fbbf55"
+            },
+            {
+              "url": "",
+              "title": "Biometrics class action targets tech vendor Haemonetics for plasma ...",
+              "snippet": "The complaint asserts Haemonetics does so, even though it allegedly failed to obtain written authorization from plasma donors before collecting their fingerprint scans; failed to \"properly inform (donors) in writing of the specific purpose and length of time for which the fingerprints were being collected, stored and used;\" and did not ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217164+00:00",
+              "published_date": null,
+              "source_hash": "ef4ee812ce2b91f92ccec941aed53d85"
+            },
+            {
+              "url": "",
+              "title": "UPDATE: Fenwal responds to Haemonetics' second lawsuit",
+              "snippet": "Regulatory & Compliance. Food & Drug Administration (FDA) Recalls; 510(k) ... Haemonetics Corp. (NYSE:HAE) is suing Fenwal Inc. again, over a component of a blood collection system Fenwal was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217173+00:00",
+              "published_date": null,
+              "source_hash": "de422c9dd92e4b348a3ed8375c1f62e3"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Receives FDA Clearance for Enhancements to NexSys PCS ...",
+              "snippet": "productivity, safety, quality, compliance and donor satisfaction. With the latest advancements, Haemonetics expects an average procedure time of 33 to 38 minutes using the standard FDA nomogram, helping customers achieve new levels of plasma center efficiency and lower costs to collect.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217183+00:00",
+              "published_date": null,
+              "source_hash": "279bd4f798854d6937c12aa8a64673e7"
+            },
+            {
+              "url": "",
+              "title": "FDA Clears Haemonetics' New Plasmapheresis System",
+              "snippet": "Haemonetics Corporation has received FDA 510(k) clearance for its NexSys PCS plasmapheresis system. The NexSys PCS includes bi-directional connectivity to Haemonetics' donor management system, NexLynk DMS, and builds on Haemonetics' industry leading position with a design inspired by extensive user research.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:21.217194+00:00",
+              "published_date": null,
+              "source_hash": "29e6bd73dab855275c8a3cbe24f0ffe9"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics: Reassessing Its Growth Trajectory (Rating Downgrade)",
+              "snippet": "Despite positive growth projections and reasonable valuation, cash flow pressures and regional issues ... FDA submissions for broader approval will happen. I'm shifting my rating of Haemonetics ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:25.466298+00:00",
+              "published_date": "2024-12-09T16:58:00+00:00",
+              "source_hash": "a219a5a1cb0158949db8c47080cc3c28"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Announces Sale of Whole Blood Assets to GVS, S.p.A",
+              "snippet": "BOSTON, Dec. 3, 2024 /PRNewswire/ -- Haemonetics Corporation (NYSE: HAE), a global medical technology company focused on delivering innovative medical solutions to drive better patient outcomes ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:25.466402+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "33ee8d9b338d2bba77f24ca618a38e5e"
+            },
+            {
+              "url": "",
+              "title": "The Latest Analyst Ratings For Haemonetics",
+              "snippet": "Stay well-informed and make prudent decisions using our Ratings Table. Haemonetics Corp aims to improve patient care and reduce the cost of healthcare by providing medical products and solutions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp regulatory compliance issues FDA EMA",
+              "retrieved_at": "2025-01-06T15:05:25.466434+00:00",
+              "published_date": "2024-12-04T15:01:00+00:00",
+              "source_hash": "663e63b8da1157ebde0f13513c5858c2"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "productivity, quality and donor experience in our customers' centers, helping to safely and reliably provide the source plasma that will become medicine for patients. SOME OF OUR KEY PRODUCTS INCLUDE: Plasma Collection Devices NexSys PCS\u00ae / Plasma Collection System y Persona\u00ae Technology y YES\u00ae Technology PCS\u00ae 2 / Plasma Collection System",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024451+00:00",
+              "published_date": null,
+              "source_hash": "c751b86e3db04671113cfcb35de031da"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Publishes Inaugural Corporate Responsibility Report",
+              "snippet": "Our technology addresses important medical markets: blood and plasma component collection, the surgical suite and hospital transfusion services. To learn more about Haemonetics, visit www.haemonetics.com . Investor Contacts: Olga Guyette , Sr. Director-Investor Relations & Treasury (781) 356-9763 olga.guyette@haemonetics.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024540+00:00",
+              "published_date": null,
+              "source_hash": "32cb2a44cc6f55876010f2d2e1bb5e80"
+            },
+            {
+              "url": "",
+              "title": "Biometrics class action targets tech vendor Haemonetics for plasma ...",
+              "snippet": "At the time of their first plasma donation, donors are typically required to scan their fingerprint, into systems like Haemonetics' eQue, as a way of verifying their identity each time they donate. According to the complaint, Crumpton was among the donors who scanned her fingerprint at a plasma donation site operated by Octapharma in 207 and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024572+00:00",
+              "published_date": null,
+              "source_hash": "e6acf1a4ee4e11970f587767be2ac1ab"
+            },
+            {
+              "url": "",
+              "title": "Crumpton v. Haemonetics Corp., 595 F. Supp. 3d 687 - Casetext",
+              "snippet": "Included among the products and services that Haemonetics provides Octapharma is \"donor management software,\" which \"helps plasma collection companies keep track of donors and manage the donation process.\" (Id. at 10:19-24.) From December 14, 2009 until July 30, 2019, Octapharma used Haemonetics' donor management system called eQue.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024599+00:00",
+              "published_date": null,
+              "source_hash": "26b1de80aeab2c34fb69d177bea1ffa5"
+            },
+            {
+              "url": "",
+              "title": "Crumpton v. Haemonetics Corporation - Home",
+              "snippet": "You are included in the Settlement if you scanned your finger at a plasma donation facility in Illinois and had any alleged biometric data relating to that scan shared with or stored by Haemonetics between February 4, 2016 and February 8, 2024 without providing prior written consent to the disclosure of your finger scan to Haemonetics Corporation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024622+00:00",
+              "published_date": null,
+              "source_hash": "bface60be92b84c52d3489c7b8b90a00"
+            },
+            {
+              "url": "",
+              "title": "Corporate Responsibility - Haemonetics",
+              "snippet": "At Haemonetics, our Purpose inspires the important work we do every day to meaningfully advance patient care and drive greater possibilities in healthcare. How we do this work is equally important. We are guided by our Purpose, and mindful of our shareholders, customers, employees and other key stakeholders whose trust we value. We are committed to being a good corporate citizen and take ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024645+00:00",
+              "published_date": null,
+              "source_hash": "7fd7c72134ef356f5b670434366d37f5"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corp. ESG Risk Rating - sustainalytics.com",
+              "snippet": "Haemonetics Corp aims to improve patient care and reduce the cost of healthcare by providing medical products and solutions in the blood and plasma component collection, surgical suite, and hospital transfusion service spaces. As such, the company operates under three segments: plasma, blood center, and hospital.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024669+00:00",
+              "published_date": null,
+              "source_hash": "2bdfe72ccfe265b7eaffbf7e8eddade6"
+            },
+            {
+              "url": "",
+              "title": "Explore Haemonetics Corp ESG score, report and breaking news",
+              "snippet": "Haemonetics Corp is a Healthcare company based in the United States, with a low-risk ESG score of 12.1. The company focuses on improving patient care and reducing healthcare costs by providing innovative medical solutions in the blood and plasma collection, surgical suite, and hospital transfusion sectors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024691+00:00",
+              "published_date": null,
+              "source_hash": "410a7338d032c3354ba34d1685ec41fe"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Plasma, Inc. (\"Octapharma\")\u2014the plasma donation facility which allegedly used Haemonetics' software to collect the fingerprint data of Ms. Crumpton and many other class members. Most class members in the Octapharma settlement are also Settlement Class Members in this case and will receive an additional payment from this Settlement.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024714+00:00",
+              "published_date": null,
+              "source_hash": "f87a175b201031ae8ce832b087859f0a"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corporation - ResponsibilityReports.com",
+              "snippet": "Haemonetics Corporation, a healthcare company, provides blood management solutions to plasma and blood collectors, blood banks, hospitals and hospital service providers, and health organizations in the United States and internationally. It develops and manufactures automated blood component collection devices, and surgical blood salvage devices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:28.024743+00:00",
+              "published_date": null,
+              "source_hash": "89f6924087b9b79033a52c4aaeb62205"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corporation: Strategic Divestment and Innovation Drive Buy Rating with $125 Target",
+              "snippet": "Additionally, Haemonetics is enhancing its position in the plasma collection industry with innovative products that improve efficiency and donor yield ... Haemonetics Corp. engages in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:30.379686+00:00",
+              "published_date": "2024-12-05T09:27:00+00:00",
+              "source_hash": "10444927d5c699a411eaafaffe80f22f"
+            },
+            {
+              "url": "",
+              "title": "The Latest Analyst Ratings For Haemonetics",
+              "snippet": "Haemonetics Corp aims to improve patient care and reduce the cost of healthcare by providing medical products and solutions in the blood and plasma component collection, surgical suite ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:30.379789+00:00",
+              "published_date": "2024-12-04T15:01:00+00:00",
+              "source_hash": "bf15b6756ea1b6ebb410b71f014ff877"
+            },
+            {
+              "url": "",
+              "title": "Here's Why You Should Add HAE Stock to Your Portfolio Now",
+              "snippet": "Haemonetics Corporation ... cost per liter and donor satisfaction. NexSys PCS System Continues to Thrive: Haemonetics' FDA-cleared, NexSys PCS (plasma collection system) is developed to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:30.379819+00:00",
+              "published_date": "2024-12-24T00:00:00+00:00",
+              "source_hash": "080b467430818d739fd5f5c0624977f5"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corporation",
+              "snippet": "Haemonetics Corp. engages in the ... the following segments: Plasma, Blood Center, and Hospital. The Plasma segment offers automated plasma collection and donor management software systems.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:30.379844+00:00",
+              "published_date": "2024-01-03T13:18:00+00:00",
+              "source_hash": "7ee8b52f83784f0921024279f933c3d1"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Announces Sale of Whole Blood Assets to GVS, S.p.A",
+              "snippet": "BOSTON, Dec. 3, 2024 /PRNewswire/ -- Haemonetics Corporation ... collection. These include devices and disposable kits that support a variety of apheresis collections, including platelets, plasma ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Haemonetics Corp Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "retrieved_at": "2025-01-06T15:05:30.379866+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "305ff1dd2c38f025cd818518e0c036ae"
+            },
+            {
+              "url": "",
+              "title": "HAEMONETICS CORP SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Haemonetics Corporation, a global provider of blood and plasma collection, processing, and supply chain management solutions, has released its Form 10-Q report for the fiscal quarter. The report highlights significant financial growth, strategic acquisitions, and the challenges the company faces in its operational and market environments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083173+00:00",
+              "published_date": null,
+              "source_hash": "8beffc7a807f119e5805631c327ffcba"
+            },
+            {
+              "url": "",
+              "title": "PESTEL Analysis of Haemonetics Corporation (HAE) - dcf-fm",
+              "snippet": "Conduct a comprehensive PESTEL analysis of HAEmonetics Corporation (HAE) to gain insights into its external environment. ... Geopolitical tensions can significantly affect Haemonetics' supply chain and market access. The company's operations are exposed to risks from international markets, where 25.9% of its net revenues are generated outside ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083226+00:00",
+              "published_date": null,
+              "source_hash": "747bb9f7c12b1ccf5f8b2133f839f36e"
+            },
+            {
+              "url": "",
+              "title": "What are the Porter's Five Forces of Haemonetics Corporation (HAE ...",
+              "snippet": "The company reported net revenues of $681.7 million for the same period, highlighting the potential revenue impact of supply chain disruptions. Increased costs from global supply chain issues. Global supply chain challenges have intensified as a result of geopolitical tensions and the ongoing effects of the COVID-19 pandemic.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083237+00:00",
+              "published_date": null,
+              "source_hash": "91c8986e38f0deb0eff4dabeab8043d8"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics (HAE) Blood-Pumping Potential: A Vital Sign for Investors",
+              "snippet": "Disruptions to the supply chain, such as natural disasters, pandemics, or geopolitical conflicts, could disrupt production and impact product availability. Haemonetics is also subject to strategic risks, which could affect its long-term growth and profitability.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083244+00:00",
+              "published_date": null,
+              "source_hash": "b49fbfc1e4ca3fbfdacd597c7c3c53c4"
+            },
+            {
+              "url": "",
+              "title": "Ex 99.1 - FY 23 Q3 Dec Earnings Release - Haemonetics Corporation",
+              "snippet": "were inflationary pressures in our global manufacturing and supply chain and increased depreciation expense, partially offset by price, volume and productivity savings from the Operational Excellence Program. Operating expenses were $115.4 million in the third quarter of fiscal 2023 compared with $102.9 million in the third quarter of fiscal 2022.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083250+00:00",
+              "published_date": null,
+              "source_hash": "8073ebf8da3d5178fb69e435c010cc49"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Corporation (HAE) CEO Chris Simon on Q4 2022 Results ...",
+              "snippet": "We look at a combination of inflation, supply chain disruption, potentially, and then geopolitical risk, particularly in markets like China and Russia as potential headwinds in the overlay FX some ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083256+00:00",
+              "published_date": null,
+              "source_hash": "f7b7f11edc4b957a16b1c33e475db02f"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down Haemonetics Corporation (HAE) Financial Health: Key ...",
+              "snippet": "Operational Risks Operational risks include supply chain disruptions and production inefficiencies. The company reported restructuring costs of $6.4 million for the three months ended September 28, 2024. Any delays in production or supply chain issues could lead to increased operational costs and lost sales.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083263+00:00",
+              "published_date": null,
+              "source_hash": "d540da1dcea576bf2aa500c6c4e6ddf1"
+            },
+            {
+              "url": "",
+              "title": "Here's Why You Should Hold on to Haemonetics (HAE) For Now",
+              "snippet": "The Hospital business revenues grew 56.3% on a continued rebound in procedures amid challenges posed by hospital staffing shortages and supply-chain disruptions in the Asia Pacific. The company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083270+00:00",
+              "published_date": null,
+              "source_hash": "b7bfe838851b0be206a3580b17924e1e"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Reports Second Quarter and First Half Fiscal 2025 Results ...",
+              "snippet": "olga.guyette@haemonetics.com josh.gitelson@haemonetics.com David Trenk, Manager-Investor Relations (203)733-4987 david.trenk@haemonetics.com Haemonetics Reports Second Quarter and First Half Fiscal 2025 Results; Updates Fiscal 2025 Guidance Boston, MA, November 7, 2024 - Haemonetics Corporation (NYSE: HAE) reported financial",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083276+00:00",
+              "published_date": null,
+              "source_hash": "b471d26ca0f669752e478fdba95493b9"
+            },
+            {
+              "url": "",
+              "title": "Haemonetics Banks on Growing Plasma Arm, Innovation",
+              "snippet": "In the fiscal fourth quarter, Haemonetics faced 700 basis points of margin pressure, stemming primarily from inflationary headwinds and supply chain disruptions, among other challenges. Other Key ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Haemonetics Corp Haemonetics Corp supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T15:05:32.083281+00:00",
+              "published_date": null,
+              "source_hash": "b06c29c8e2008e06de7718d96b80423c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Haemonetics Corp regulatory compliance issues FDA EMA",
+              "rationale": "Investigate potential legal and regulatory challenges with FDA and EMA",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Haemonetics Corp plasma collection ethical concerns donor compensation",
+              "rationale": "Explore ethical issues related to plasma collection practices and donor compensation",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Haemonetics Corp supply chain disruptions geopolitical risks",
+              "rationale": "Assess risks related to supply chain vulnerabilities and geopolitical tensions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:05:55.340631",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

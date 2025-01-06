@@ -1,0 +1,555 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:55:19.351415",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "ANSYS Inc",
+      "symbol": "ANSS",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Cybersecurity vulnerabilities and potential data breaches",
+            "Regulatory and legal challenges, including antitrust concerns and software licensing disputes",
+            "Intense market competition from rivals like Dassault Syst\u00e8mes and Siemens Digital Industries Software",
+            "High software pricing limiting accessibility for smaller companies and startups"
+          ],
+          "controversies": [
+            "Antitrust concerns over the proposed $35 billion acquisition by Synopsys",
+            "Litigation over software licensing breaches, such as the case against Actox"
+          ],
+          "environmental_issues": [
+            "Development of simulation tools for sustainable product design, such as energy-efficient systems and lightweight materials"
+          ],
+          "social_issues": [
+            "Potential impact of high software costs on accessibility for smaller businesses and startups"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and compliance challenges related to the Synopsys acquisition",
+            "Intellectual property enforcement and software licensing disputes"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "ANSYS Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Ansys, Inc. is an American public company based in Canonsburg, Pennsylvania. It develops and markets engineering simulation software. UpGuard continuously monitors the security posture of ANSYS using open-source, commercial, and proprietary threat intelligence feeds. ... ANSYS Data Breaches, Cybersecurity Incidents and News. Security incidents ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.395855+00:00",
+              "published_date": null,
+              "source_hash": "c41c9f993e8b656364bbcda55bfecb27"
+            },
+            {
+              "url": "",
+              "title": "A MESSAGE TO OUR STOCKHOLDERS - ANSYS, Inc.",
+              "snippet": "ANSYS, Inc. 2600 Ansys Drive Canonsburg, PA 15317 844-462-6797 March 28, 2023 NOTICE OF ANNUAL MEETING OF ... cybersecurity threats or other security breaches, including in relation to breaches occurring through our products and an increased level of our activity that is occurring from remote global",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.395975+00:00",
+              "published_date": null,
+              "source_hash": "cff47d95f15fdd7c5a7ca7416102243d"
+            },
+            {
+              "url": "",
+              "title": "Ansys software audit letter turns into federal court lawsuit",
+              "snippet": "Case citation: Civil Action Number 2:20-cv-1694 - Ansys v. Actox. Here are some of the allegations (of interest to me) as a software piracy defense lawyer in the Ansys v. Actox case: ... Plaintiff within this District beginning in 2015, and having this litigation arise at least in part due to Defendants breach of the SLA, Defendants have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.395990+00:00",
+              "published_date": null,
+              "source_hash": "3b37074674f718f38b407aa3010c70f3"
+            },
+            {
+              "url": "",
+              "title": "Ansys Security Program and Compliance Standards",
+              "snippet": "Ansys guarantees a restricted access control following industry standards and with role-based authorization and constantly monitor usage to prevent any types of threats.. We maintain effective logical access control measures over its systems and networks, consistent with industry standards.; Based upon job responsibilities and level, the team provides user account access granted on a need-to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396001+00:00",
+              "published_date": null,
+              "source_hash": "a92d440559afc11b0cd5ad33e233604e"
+            },
+            {
+              "url": "",
+              "title": "Innovation Through Pervasive Engineering Simulation - investors.ansys.com",
+              "snippet": "1 \u00a92019 ANSYS, Inc. ANSYS Confidential Investor Presentation Q3 2019 Innovation Through Pervasive ... cybersecurity threats or other security breaches; disclosure and misuse of customer data whether as a result of a cybersecurity incident or otherwise; implementation of our new IT systems; investments in global sales and marketing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396013+00:00",
+              "published_date": null,
+              "source_hash": "c8e99df80165eae82e9473847b95bae9"
+            },
+            {
+              "url": "",
+              "title": "Understanding Data Security for Ansys Cloud Workloads",
+              "snippet": "Ansys is committed to setting today's students up for success, by providing free simulation engineering software to students. ... Ansys medini analyze for Cybersecurity Ansys medini analyze for Semiconductors ... Recent studies show that the average cost of data breaches has reached a record high of $4.45 million, with a 15% increase over three ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396027+00:00",
+              "published_date": null,
+              "source_hash": "6cb42e90251f48b95addf5d717572878"
+            },
+            {
+              "url": "",
+              "title": " Ansys Inc. - Registered Shares Annual Report 2024 - StockLight",
+              "snippet": "ANSYS, Inc. (Exact name of registrant as specified in its charter) Delaware 04-3219960 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 2600 ANSYS Drive, Canonsburg, PA 15317 (Address of principal executive offices) (Zip Code) 844-462-6797 (Registrant's telephone number, including area code)",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396037+00:00",
+              "published_date": null,
+              "source_hash": "913f03532d6b582bfca694941c08d4db"
+            },
+            {
+              "url": "",
+              "title": "Safety Analysis and Cybersecurity Software - Ansys",
+              "snippet": "Ansys carries out a system-oriented cybersecurity analysis strategy to quickly identify vulnerabilities and design weaknesses and address them to mitigate any real-world threats. Key security analysis methods, all in one integrated tool; Meets standards like SAE J3061, HEAVENS and ISO 21434; Identify, assess and mitigate cybersecurity threats",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396046+00:00",
+              "published_date": null,
+              "source_hash": "96aea2de51740d39195378b18253f83a"
+            },
+            {
+              "url": "",
+              "title": "Ansys License Audits - Piracy Detection and Reporting Security ... - Reddit",
+              "snippet": "Ansys runs on FlexLM/Flexnet as a licensing mechanism. Most other analysis software runs on Flexlm or similar too. So you can imagine Siemens Simcenter, Dassault Simulia, Comsol, etc. all using a similar 'call home' feature. ... r/cybersecurity. r/cybersecurity. This subreddit is for technical professionals to discuss cybersecurity news ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396056+00:00",
+              "published_date": null,
+              "source_hash": "e6c79786e1cfbcdbd348a2c2cf6a267a"
+            },
+            {
+              "url": "",
+              "title": "Ansys, Inc. (Nasdaq - ANSS) - Brodsky Smith",
+              "snippet": "SHAREHOLDER NOTICE: Brodsky & Smith Announces an Investigation of Ansys, Inc. (Nasdaq - ANSS). BALA CYNWYD - January 16, 2024 /Globe Newswire/ - Law office of Brodsky & Smith announces that it is investigating potential claims against the Board of Directors of Ansys, Inc. (\"Ansys\" or the \"Company\") (Nasdaq - ANSS) for possible breaches of fiduciary duty and other violations of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:54:51.396065+00:00",
+              "published_date": null,
+              "source_hash": "63c55d38711eb463faf9fe1268c194d4"
+            },
+            {
+              "url": "",
+              "title": "UK Sets Conditions to Clear Synopsys' $35 Billion Ansys Deal",
+              "snippet": "Synopsys Inc.'s $35 billion plan to take over software developer Ansys Inc. could be cleared if the two companies address competition concerns flagged by the UK's antitrust watchdog, according to the regulator's statement.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:59.902255+00:00",
+              "published_date": "2024-12-20T11:50:00+00:00",
+              "source_hash": "d7bb2efb39bf825c8468fb9374ae1a4d"
+            },
+            {
+              "url": "",
+              "title": "UK watchdog says $35 bln Synopsys-Ansys deal raises competition concerns",
+              "snippet": "The UK's competition watchdog said on Friday that chip design software maker Synopsys' $35 billion acquisition of Ansys could reduce innovation and lead to higher prices but it could approve the deal if those concerns are resolved.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:05.111897+00:00",
+              "published_date": "2024-12-20T19:23:00+00:00",
+              "source_hash": "cebd0861d79868b04d1b2e734ade80fe"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "software products and documentation are furnished by ANSYS, Inc., its subsidiaries, or affiliates under a software license agreement that contains provisions concerning non-disclosure, copying, length and nature of use, compliance with exporting laws, warranties, disclaimers, limitations of liability, and remedies, and other provisions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329022+00:00",
+              "published_date": null,
+              "source_hash": "daf4868c1468479ad68b397a83ff03fd"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "In writing, addressed to the Compliance Officer, either by facsimile to 724-514-3116 or by U. S. mail to attn: Compliance Officer, ANSYS Inc., 275 Technology Drive, Canonsburg, PA 15317; By e-mail to: compliance@ansys.com Employees must not use this compliance program in bad faith, or in a false or frivolous manner.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329125+00:00",
+              "published_date": null,
+              "source_hash": "15de26750cc711851ba14c2014d94855"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Known Issues and Limitations ANSYS, Inc. Release 19.2 Southpointe August 2018 2600 ANSYS Drive ANSYS, Inc. and Canonsburg, PA 15317 ANSYS Europe, ansysinfo@ansys.com Ltd. are UL ... length and nature of use, compliance with exporting laws, warranties, disclaimers, limitations of liability, and remedies, and other provisions.The software products",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329141+00:00",
+              "published_date": null,
+              "source_hash": "58b2a9652c9818ddd3065d6c137d28de"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "U.S. Nuclear Regulatory Commission Document Control Desk Washington, DC 20555-0001 Kerri Kavanagh ANSYS, Inc. Southpointe 2600 ANSYS Drive Canonsburg, PA 15317 October I 0. 2023 Chief, Quality Assurance Vendor Inspection Branch Division of Reactor Oversight Office of Nuclear Reactor Regulation T: 724. 746.3304 F: 724,514.9494 www.ansys.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329154+00:00",
+              "published_date": null,
+              "source_hash": "1f4ebc21ea1611a18e3595b110bebcb6"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Ansys Corporation 2600 Ansys Drive Canonsburg, PA 15317 SUBJECT: NUCLEAR REGULATORY COMMISSION VENDOR INSPECTION REPORT OF ANSYS CORPORATION NO. 99902113/2023-201, NOTICE OF VIOLATIONS, AND NOTICE OF NONCONFORMANCES Dear Ms. Collard: On June 26 - 30, 2023, the U.S. Nuclear Regulatory Commission (NRC) staff conducted an",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329165+00:00",
+              "published_date": null,
+              "source_hash": "0120e5857bc1b99e474bba0a33b979dd"
+            },
+            {
+              "url": "",
+              "title": "Supplier Code of Business Conduct and Ethics - investors.ansys.com",
+              "snippet": "ANSYS, Inc. Supplier Code of Business Conduct and Ethics Introduction ANSYS, Inc., including its subsidiaries and controlled affiliates (collectively, \"Ansys\"), is committed to doing ... (\"Ethics & Compliance\") or the Ansys Ethics Line as described in the \"Seeking Guidance and Reporting Concerns\" section below. Insider Trading.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329176+00:00",
+              "published_date": null,
+              "source_hash": "0e941af2991f540ccc82b33e7607e69e"
+            },
+            {
+              "url": "",
+              "title": "Ansys Standard Business Practices",
+              "snippet": "\u2022 Mail: ANSYS, Inc., Attn: Compliance Manager, 2600 Ansys Drive, Canonsburg, PA 15317 \u2022 Email: compliance@ansys.com . Because we value our relationships with our business partners, Ansys also believes that our business relationships should be based upon clear written agreements. Ansys does not do business based upon",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329189+00:00",
+              "published_date": null,
+              "source_hash": "232a78c9e090f79bd710f791fc189f05"
+            },
+            {
+              "url": "",
+              "title": "Ansys Speos regulatory compliance - Innovation Space",
+              "snippet": "The topic 'Ansys Speos regulatory compliance' is closed to new replies. Ansys Innovation Space Damping in Ansys Mechanical. Explore this crosstalk on how damping is implemented in Ansys, unravel misconceptions, and understand how it reduces force, curbs energy loss, and optimizes motion amplitude! ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329207+00:00",
+              "published_date": null,
+              "source_hash": "36c20ab30d5165a138626d90551b41a7"
+            },
+            {
+              "url": "",
+              "title": "CORPORATE RESPONSIBILITY// 1 - ANSYS, Inc.",
+              "snippet": "\u2022 Ethical Business Practices and Compliance \u2022 Water and Waste Management The primary inputs to the assessment were a series of internal and external interviews conducted with key stakeholders. These interviews were also supplemented with an online employee survey deployed across all main functional areas at Ansys. The issues were",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329218+00:00",
+              "published_date": null,
+              "source_hash": "f0002c46a05c30b793a50a10a1f836d8"
+            },
+            {
+              "url": "",
+              "title": "ANSYS - Legal and Compliance - The Org",
+              "snippet": "The Legal and Compliance team at ANSYS is responsible for ensuring that the company adheres to all relevant laws and regulations while maintaining high ethical standards. This team manages legal risk, oversees compliance programs, and provides guidance on business integrity issues, thereby supporting the company's mission to develop ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:57.329232+00:00",
+              "published_date": null,
+              "source_hash": "64bee6c3b3760c1c92b43ffac6e0e599"
+            },
+            {
+              "url": "",
+              "title": "Synopsys' Proposed $35 Billion Acquisition of Ansys Could Reduce Competition, UK Regulator Says",
+              "snippet": "In September, the company agreed to sell its optical solutions business to Keysight Technologies (KEYS), subject to regulatory approvals and the closing of its proposed Ansys deal. Ansys didn't ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:59.902153+00:00",
+              "published_date": "2024-12-20T15:51:00+00:00",
+              "source_hash": "915a3a11771a102968ef1ba901168294"
+            },
+            {
+              "url": "",
+              "title": "UK watchdog says $35 bln Synopsys-Ansys deal raises competition concerns",
+              "snippet": "Dec 20 (Reuters) - The UK's competition watchdog said on Friday that chip design software maker Synopsys' (SNPS.O), opens new tab $35 billion acquisition of Ansys (ANSS.O), opens new tab could ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:59.902284+00:00",
+              "published_date": "2024-12-20T00:00:00+00:00",
+              "source_hash": "c9175c6b8b527c1f04138b31e5f29745"
+            },
+            {
+              "url": "",
+              "title": "Ansys Collaborates with Sony Semiconductor Solutions to Advance Scenario-Based Perception Testing in Autonomous Vehicles",
+              "snippet": "Leveraging both AVxcelerate Sensors and Sony's high dynamic range (HDR) Image Sensor Model, OEMs can test advanced driver assistance systems (ADAS) and AV functions, accounting for sensor behavior in diverse driving scenarios including low light, nighttime, rain, snow, and fog",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:59.902309+00:00",
+              "published_date": "2025-01-03T05:02:00+00:00",
+              "source_hash": "b11470a1d14dfc3ec016b70ead7ec3b8"
+            },
+            {
+              "url": "",
+              "title": "Ansys Report Highlights Simulation's Role in Improving Sustainability Across Industries",
+              "snippet": "and Mars Danfoss Drives used Ansys simulation to optimize its latest generation drive controller design Sustainability is a key global business priority driven by regulatory pressures, consumer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANSYS Inc ANSYS Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:54:59.902335+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "97a2e919f2e7fc65ce4c6b47048f6fe5"
+            },
+            {
+              "url": "",
+              "title": "UK watchdog says $35 bln Synopsys-Ansys deal raises competition concerns",
+              "snippet": "The UK's competition watchdog said on Friday that chip design software maker Synopsys' $35 billion acquisition of Ansys could reduce innovation and lead to higher prices but it could approve the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.430837+00:00",
+              "published_date": null,
+              "source_hash": "27a2f9259e384a0c7d592d21a421f4ee"
+            },
+            {
+              "url": "",
+              "title": "UK Launches Antitrust Review Of Synopsys' $34 Billion Ansys ... - Benzinga",
+              "snippet": "Price Actions: ANSS stock was up 1.38% at $325.80, while shares of SNPS were up 1.5% at $502.48 at the time of publication Friday. Also Read: Intel Triumphs In 15-Year Legal Battle, EU Court ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.430929+00:00",
+              "published_date": null,
+              "source_hash": "9bdcdedd1730f3f4e4cc5e98f0de53e4"
+            },
+            {
+              "url": "",
+              "title": "UK Sets Conditions to Clear Synopsys' $35 Billion Ansys Deal (1)",
+              "snippet": "Synopsys Inc. 's $35 billion plan to take over software developer Ansys Inc. could be cleared if the two companies address competition concerns flagged by the UK's antitrust watchdog, according to the regulator's statement. The all-American deal raises competition concerns in the supply of semiconductor chip design and light simulation products in the UK, the Competition and Markets ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.430945+00:00",
+              "published_date": null,
+              "source_hash": "ceb01e8d057275f8b43a3e5f25cc8a0c"
+            },
+            {
+              "url": "",
+              "title": "Synopsys set to gain EU approval for $35bn acquisition of Ansys",
+              "snippet": "Synopsys is on track to secure conditional EU antitrust approval for its $35bn acquisition of Ansys, reported Reuters, citing sources. ... This move aims to alleviate apprehensions about the impact on innovation and pricing within the market. The European Commission (EC), the antitrust authority for the 27-country European Union, is expected to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.430960+00:00",
+              "published_date": null,
+              "source_hash": "4a552dca22af0bb53eb63f58babb97d5"
+            },
+            {
+              "url": "",
+              "title": "Ansys Inc Expert Review, Pricing and Alternatives - 2025 - WorQuick",
+              "snippet": "Ansys Inc. is an American juggernaut in the world of simulation software for engineering and design. They've been around since way back in 1970, so they've had plenty of time to build up their rep as a leading provider of advanced simulation tools.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.430975+00:00",
+              "published_date": null,
+              "source_hash": "6b982b294fbb900e3af97bd48271fcd5"
+            },
+            {
+              "url": "",
+              "title": "Ansys Surpasses Q3 Revenue Estimates | The Motley Fool",
+              "snippet": "Current Price. $337.92. ... This strategy involves enhancing product capabilities, increasing accessibility, and meeting computational demands by offering more licenses. ... Ansys Inc (ANSS) Q2 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.430988+00:00",
+              "published_date": null,
+              "source_hash": "9d02161b208c4bcd32fc3f9e6328b1e1"
+            },
+            {
+              "url": "",
+              "title": "UK Launches Antitrust Review Of Synopsys' $34 Billion Ansys Deal Over ...",
+              "snippet": "The UK's antitrust watchdog has launched an investigation into Synopsys Inc's SNPS $34 billion acquisition of software developer Ansys Inc ANSS. On Friday, the Competition and Markets Authority (CMA) announced it had opened an initial phase one merger review due to potential competition concerns.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.431000+00:00",
+              "published_date": null,
+              "source_hash": "851c2e680cbdce91bbca1c70ef5dd185"
+            },
+            {
+              "url": "",
+              "title": "Ansys Pricing Structures: A Comprehensive Analysis",
+              "snippet": "When assessing the pricing structures of Ansys competitors, it is crucial to recognize that different companies often adopt unique pricing strategies. For instance, Autodesk might provide more flexible subscription options tailored to small and medium businesses, while COMSOL offers tailored solutions that can result in higher upfront costs but ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.431014+00:00",
+              "published_date": null,
+              "source_hash": "4a9b662d3223eeaf31b31ca0972613af"
+            },
+            {
+              "url": "",
+              "title": "Synopsys offers remedies to address EU concerns over Ansys deal",
+              "snippet": "Chip design software company Synopsys has offered remedies to address EU antitrust concerns about its $35 billion cash-and-stock acquisition of engineering software maker Ansys , according to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.431026+00:00",
+              "published_date": null,
+              "source_hash": "55f075750fc36a37f0cc2b3345251e89"
+            },
+            {
+              "url": "",
+              "title": " ANSYS, Inc. Known Issues and Limitations",
+              "snippet": "ANSYS, Inc. and ANSYS Europe, Ltd. are UL registered ISO 9001: 2015 companies. U.S. Government Rights For U.S. Government users, except as specifically granted by the ANSYS, Inc. software license agreement, the use, duplication, or disclosure by the United States Government is subject to restrictions stated in the ANSYS, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:01.431038+00:00",
+              "published_date": null,
+              "source_hash": "24a2984d04bb49672ca439a9b09a5146"
+            },
+            {
+              "url": "",
+              "title": "ANSYS Inc",
+              "snippet": "Synopsys offers remedies to address EU concerns over Ansys deal December 10 ... Busch is taking a small step towards a higher share price. The German trains-to-robots group is buying simulation ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:05.112002+00:00",
+              "published_date": "2024-11-06T00:00:00+00:00",
+              "source_hash": "306259073c6e9146f13667be1f1ef5da"
+            },
+            {
+              "url": "",
+              "title": "ANSYS, Inc. (ANSS)",
+              "snippet": "Ansys (NASDAQ: ANSS) today announced AVxcelerate Sensors is accessible through Cognata's ... of dollars in development costs. Synopsys Inc (SNPS) reports a 15% revenue increase and outlines ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:05.112035+00:00",
+              "published_date": "2024-11-05T05:17:00+00:00",
+              "source_hash": "cd77a3cc4ffdac444cfd457ad3fc9b01"
+            },
+            {
+              "url": "",
+              "title": "UK watchdog says $35 billion Synopsys-Ansys deal raises competition concerns",
+              "snippet": "UK's competition watchdog said on Friday chip design software maker Synopsys' $35 billion acquisition of Ansys could reduce innovation and lead to higher prices but that it could approve the deal if those concerns are resolved.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:05.112060+00:00",
+              "published_date": "2024-12-20T11:32:07+00:00",
+              "source_hash": "7aadd0dfc021061f415e304bb733fcf6"
+            },
+            {
+              "url": "",
+              "title": "UK watchdog flags concerns in $35 billion Synopsys-Ansys deal",
+              "snippet": "The watchdog said the merger could reduce choice for customers and lead to a loss of innovation, lower quality software, and higher prices which might be passed onto UK businesses and consumers.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANSYS Inc ANSYS Inc pricing accessibility concerns",
+              "retrieved_at": "2025-01-06T19:55:05.112082+00:00",
+              "published_date": "2024-12-20T18:02:00+00:00",
+              "source_hash": "dad4b7d3d7bed5de52154aa47667961b"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "ANSYS Inc cybersecurity breaches",
+              "rationale": "Investigate potential cybersecurity incidents that could impact customer trust and operational continuity",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "ANSYS Inc regulatory compliance issues",
+              "rationale": "Examine any legal or regulatory challenges related to data privacy, export controls, or intellectual property",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "ANSYS Inc pricing accessibility concerns",
+              "rationale": "Explore criticisms or controversies regarding the high cost of ANSYS software licenses and its impact on smaller companies and startups",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:55:19.351419",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

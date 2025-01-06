@@ -1,0 +1,493 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:31:41.435208",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "American Homes 4 Rent Class A",
+      "symbol": "AMH",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal and tenant relations issues, including litigation and tenant complaints",
+            "Regulatory changes impacting profitability and operational flexibility",
+            "Economic sensitivity tied to interest rates, employment levels, and housing market trends",
+            "Affordability concerns and competitive pressures in the single-family rental market"
+          ],
+          "controversies": [
+            "Lawsuit (*Brown v. Am. Homes 4 Rent*) involving allegations of misconduct",
+            "Numerous BBB complaints and negative reviews regarding tenant treatment"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Aggressive eviction practices and poor maintenance responsiveness",
+            "Criticism for exacerbating housing affordability issues"
+          ],
+          "governance_issues": [
+            "Potential reputational damage from legal disputes and tenant dissatisfaction"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Brown v. Am. Homes 4 Rent, 2:23-cv-00556-JAD-EJY - Casetext",
+              "snippet": "Plaintiffs, residents of Pickerington, Ohio, identify American Homes 4 Rent (\"AHR\"), its Chief Executive Officer David Singelyn, Towne Properties (sometimes \"Towne\"), and Towne Properties Regional Vice President Kim Brown as Defendants. ECF No. 4 at 1. AHR and Mr. Singelyn are identified as Nevada residents, while Towne Properties and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.114928+00:00",
+              "published_date": null,
+              "source_hash": "a3679c167c87897bae14a0b5f8c062ec"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent | BBB Complaints - Better Business Bureau",
+              "snippet": "My complaint is against American Homes 4 Rent otherwise know as AMH. I lease a rental home from them and earlier this year, after agreeing in court on February 1, 2024 to satisfy a $7,437.34 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.114988+00:00",
+              "published_date": null,
+              "source_hash": "4875732800437c2214e6497e418c713f"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent Class A",
+              "snippet": "American Homes 4 Rent operates as a real estate investment trust. It engages in the acquisition, renovation, leasing, and operating of single-family homes as rental properties. The company was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.115005+00:00",
+              "published_date": null,
+              "source_hash": "fccf6adc1328ed635bcd63423e517f6c"
+            },
+            {
+              "url": "",
+              "title": "Class action alleges American Homes 4 Rent charges tenants excessive ...",
+              "snippet": "A California-based residential property management company believed to collect rent on at least 200 homes in Illinois has been served with a class action alleging it has wrongly charged excessive fees to tenants late on rent. On Dec. 30, named plaintiff Clarence Davis Jr., represented by attorneys with the firm of Edelman, Combs, Latturner and Goodwin, of Chicago, filed the complaint in Cook ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.115018+00:00",
+              "published_date": null,
+              "source_hash": "bdd552695122fa208907aba592467e73"
+            },
+            {
+              "url": "",
+              "title": "Charlotte HOA settles lawsuit to get corporate landlords out - wcnc.com",
+              "snippet": "As part of a settlement last year, Galvin said the company agreed to sell five of its properties and let Miranda cap the number of rentals at 10%, but American Homes 4 Rent maintained the ability ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.115032+00:00",
+              "published_date": null,
+              "source_hash": "7b8ea9ba77df928f198ad3602ccbd8e1"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent: Plenty Of Red Flags (NYSE:AMH)",
+              "snippet": "American Homes 4 Rent does have a compelling motivation to ramp up these types of charges. The company gets access to this cash free and clear, rather than it being tied up in a cash account with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376666+00:00",
+              "published_date": null,
+              "source_hash": "a83957a845da728b002b4d516f4c454b"
+            },
+            {
+              "url": "",
+              "title": "Henley v. Am. Homes 4 Rent Props. Ten, LLC - Casetext",
+              "snippet": "Judge Mary M. Rowland. MEMORANDUM OPINION AND ORDER. Pro se plaintiff James Henley (\"Mr. Henley\") brings race and disability discrimination claims against his landlord, American Homes 4 Rent Properties Ten, LLC (\"American Homes\"). He alleges that American Homes violated the Americans with Disabilities Act (\"ADA\"), 42 U.S.C. \u00a7 12101 et seq., and he also brings a claim under 42 U.S.C. \u00a7 1983 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.115055+00:00",
+              "published_date": null,
+              "source_hash": "cace4f403cfe492c5846dda4680d5dc9"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent : r/NorthCarolina - Reddit",
+              "snippet": "Hi everyone! I'm moving to NC in a couple weeks and looking to rent. A couple homes are through American Homes 4 Rent. The homes themselves look great, but I have some reservations about the company. It has a B rating on better business bureau and there are some significant complaints (but mostly from other states).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.367007+00:00",
+              "published_date": null,
+              "source_hash": "7fd408aa7055a115e41593b503dba63e"
+            },
+            {
+              "url": "",
+              "title": "Has anyone had any experience with American Homes 4 Rent?",
+              "snippet": "I don't have any experience with them. I live across the street from an American Homes 4 rent property. It's a revolving door of individuals. There's been 6 families there in 4 years. They've all been great and friendly neighbors. Unfortunately, I never got to know them well enough for them to tell me why they were leaving.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.367032+00:00",
+              "published_date": null,
+              "source_hash": "31be9a94a0fc3eac3e3e167478ef4d7e"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "new rental housing at an attractive yield is a \"game-changer\" for the rental home industry and the housing market at large, and this is an area where American Homes 4 Rent excels. Furthermore, we have a robust pipeline of land holdings, with approximately 5,000 lots currently in place for future development,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:15.115093+00:00",
+              "published_date": null,
+              "source_hash": "e88ba63b25ff8799c3be9360cef0b9c3"
+            },
+            {
+              "url": "",
+              "title": "Is American Homes 4 Rent (NYSE:AMH) the Best Housing Stock to Invest In According to Analysts?",
+              "snippet": "We recently compiled a list of the 12 Best Housing Stocks to Invest in According to Analysts. In this article, we are going to take a look at where American Homes 4 Rent (NYSE:AMH) stands against the other housing stocks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:25.626158+00:00",
+              "published_date": "2025-01-03T18:59:38+00:00",
+              "source_hash": "855a365972f873f6ef4fd50d73eecc2f"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent Class A (AMH) Stock: Analyzing Its Quiet Power",
+              "snippet": "American Homes 4 Rent Class A (AMH) stock saw a decline, ending the day at $36.75 which represents a decrease of $-0.67 or -1.79% from the prior close of $37.42. The stock opened at $37.36 and touched a low of $36.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:25.626189+00:00",
+              "published_date": "2024-12-14T19:52:00+00:00",
+              "source_hash": "b44afec032457ddc43a5b1c408ee489c"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down American Homes 4 Rent: 6 Analysts Share Their Views",
+              "snippet": "6 analysts have expressed a variety of opinions on American Homes 4 Rent AMH over the past quarter, offering a diverse set of opinions from bullish to bearish. The table below summarizes their ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:21.546074+00:00",
+              "published_date": "2024-12-17T09:00:00+00:00",
+              "source_hash": "7a72707841f4b7080994693ed38d9b0e"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent Class A (AMH) Stock Trading Recap",
+              "snippet": "Investors often prefer to invest in shares held by company insiders, as management is typically more aligned with the company's success and shareholder interests. Currently, insiders own just 7.98% of American Homes 4 Rent Class A (AMH)'s shares, while financial institutions hold 86.94%.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:21.546162+00:00",
+              "published_date": "2024-09-18T19:20:00+00:00",
+              "source_hash": "1a8f0be976a505dff09500fd2923543d"
+            },
+            {
+              "url": "",
+              "title": "American Homes Announces New CEO and Board Expansion",
+              "snippet": "Discover the latest stocks recommended by top Wall Street analysts, all in one place with Analyst Top Stocks American Homes ( (AMH) ) has issued an update.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A rent control lawsuits",
+              "retrieved_at": "2025-01-06T20:31:17.586519+00:00",
+              "published_date": "2025-01-03T21:49:00+00:00",
+              "source_hash": "f6cf9b9b1fd687c0e4e6d5e175a85da5"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent | BBB Complaints - Better Business Bureau",
+              "snippet": "View complaints of American Homes 4 Rent filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.366842+00:00",
+              "published_date": null,
+              "source_hash": "db2d89eaa79c99a73df0895190d5d596"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent Reviews | Read Customer Service Reviews of ... - Yelp",
+              "snippet": "American Homes 4 Rent has an average rating of 1.4 from 1222 reviews. The rating indicates that most customers are generally dissatisfied. The official website is americanhomes4rent.com. American Homes 4 Rent is popular for Real Estate, Home Services, Property Management. American Homes 4 Rent has 8 locations on Yelp across the US.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.366961+00:00",
+              "published_date": null,
+              "source_hash": "c436e7fcf65f44a22e73ff71d1002793"
+            },
+            {
+              "url": "",
+              "title": "Stay Away from American Homes 4 Rent : r/Tenant - Reddit",
+              "snippet": "If anyone need to rent please don't rent from American Home 4 Rent. They treat you like your less than human if you have one bad month. Stayed in one of their properties for 10 years never late and one bad month, they shoot right to eviction court instead of trying to work with you or even if you have a plan in place. They don't want to fix issues.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.366981+00:00",
+              "published_date": null,
+              "source_hash": "bc673c78ce6682e3989d055105220f6f"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent Reviews, Complaints, Customer Service - Revdex.com",
+              "snippet": "AH4R is a LOUSY rental property organization with some of the worst communication I have experienced. We left a month early from our lease with full expectations to clean the home, pay the last months rent, etc. We moved from our rental home in NC to our new home in WA and during the road trip home I went to pay rent through the portal.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.366994+00:00",
+              "published_date": null,
+              "source_hash": "ea5145fed0a1601a3e57389c52c94ba1"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent | BBB Business Profile - Better Business Bureau",
+              "snippet": "Property Management in Calabasas, CA. See BBB rating, reviews, complaints, get a quote and more. ... American Homes 4 Rent. 23975 Park Sorrento #300. ... Apartment Rental Services. Industry Tip ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.367020+00:00",
+              "published_date": null,
+              "source_hash": "d8cbfeef1e74c703d74eb050cf0c8307"
+            },
+            {
+              "url": "",
+              "title": "AMERICAN HOMES 4 RENT Reviews | Rate The Landlord",
+              "snippet": "Reviews for AMERICAN HOMES 4 RENT. Read 7 reviews and rental experiences for AMERICAN HOMES 4 RENT. ... Rate the Landlord is a community platform that elevates tenant voices to promote landlord accountability. ... Support Us. Instagram Twitter TikTok Facebook Patreon. Submit a Review. Open main menu. American Homes 4 Rent. Read 7 reviews and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.367045+00:00",
+              "published_date": null,
+              "source_hash": "5b202137556689d16618f4d6f73c7f92"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent - 924 Reviews - Birdeye",
+              "snippet": "Read 924 customer reviews of American Homes 4 Rent, one of the best Real Estate Agents businesses at 2 Sun Ct NW Suite 210, Peachtree Corners, GA 30092 United States. Find reviews, ratings, directions, business hours, and book appointments online. ... The worst rental company I have ever experienced. They claim we have not paid rent in 6 months ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.367057+00:00",
+              "published_date": null,
+              "source_hash": "453a091cb20bf20f31d45f4acba2142c"
+            },
+            {
+              "url": "",
+              "title": "I have rented a house from American Homes 4 rent company and since I ...",
+              "snippet": "I have rented a house from American Homes 4 rent company and since I have bought a house I need to leave . ... 28 reviews. Rating: 10. View Profile . View Phone Number (678) 601-5580 . View Number (678) 601-5580 . ... Legal Advice on Landlord & Tenant",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A tenant complaints and reviews",
+              "retrieved_at": "2025-01-06T20:31:19.367069+00:00",
+              "published_date": null,
+              "source_hash": "fe6d8dd0295181aedeaf1ce063a9420a"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent Class A",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:25.626237+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "d74b3908eb59fa4883041eb2f65f976f"
+            },
+            {
+              "url": "",
+              "title": "AMH Stock Price Quote | Morningstar",
+              "snippet": "See the latest American Homes 4 Rent Class A stock price (AMH:XNYS), related news, valuation, dividends and more to help you make your investing decisions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376486+00:00",
+              "published_date": null,
+              "source_hash": "a9eea2381bea0bec67f9646865eab9df"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down American Homes 4 Rent: 6 Analysts Share Their Views",
+              "snippet": "American Homes 4 Rent's Economic Impact: An Analysis. Market Capitalization Analysis: With a profound presence, the company's market capitalization is above industry averages. This reflects ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376616+00:00",
+              "published_date": null,
+              "source_hash": "e0078e9c42d2d7a1cb909514c950ba53"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "American Homes 4 Rent June 2021 Investor Highlights. ... regulatory and real estate conditions that may impact ourbusiness. While we consider these expectations and assumptions to be reasonable, they are inherently subject to significant business, economic, competitive, regulatory and otheisks, contingencies and uncertainties, most of which are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376638+00:00",
+              "published_date": null,
+              "source_hash": "c0a5f558b754c2da11ce23919f293cce"
+            },
+            {
+              "url": "",
+              "title": "Decoding American Homes 4 Rent (AMH): A Strategic SWOT Insight",
+              "snippet": "On October 30, 2024, American Homes 4 Rent , a leading real estate investment trust specializing in single-family rental homes, filed its latest 10-Q report with the SEC. This filing provides a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376653+00:00",
+              "published_date": null,
+              "source_hash": "5a5d8ebb02d63effddee52d51e7fc0f0"
+            },
+            {
+              "url": "",
+              "title": "Is American Homes 4 Rent (NYSE:AMH) the Best Housing Stock to Invest In ...",
+              "snippet": "We recently compiled a list of the 12 Best Housing Stocks to Invest in According to Analysts. In this article, we are going to take a look at where American Homes 4 Rent (NYSE:AMH) stands against ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376680+00:00",
+              "published_date": null,
+              "source_hash": "9bcdf17587bd98281693ad67875ce3fc"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent - Benzinga",
+              "snippet": "American Homes 4 Rent Stock (NYSE: AMH) stock price, news, charts, stock research, profile. Open: $37.01: ... A quarterly cash dividend of 0.26 per share of Class A Common Stock. The quarterly ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376692+00:00",
+              "published_date": null,
+              "source_hash": "cadd7604a039f1ff9bd280209cec469e"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent, Essential Properties score upgrades in ... - MSN",
+              "snippet": "Ratings changes: American Homes 4 Rent was upgraded to Buy from Neutral on the expectation for \"multiple years of strong compounded earnings and NAV (net asset value) growth, which, along with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376704+00:00",
+              "published_date": null,
+              "source_hash": "babd9af7fb5d8c97471ee3765b2b6179"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent: Fair Value Target Increasing by 1%, Maintain ...",
+              "snippet": "American Homes 4 Rent (AMH) is included in our single-family REIT coverage universe. For companies under coverage, we utilize the firm's proprietary survey data and macro research to inform our short-term and long-term financial projections. Our coverage includes an ongoing assessment of financial results and strategic performance. Our detailed quarterly reports span our perspective of latest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376715+00:00",
+              "published_date": null,
+              "source_hash": "9fa0b2e9e3a422bf0e9150ae19faca79"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent: Not The Right Time In The Cycle - Seeking Alpha",
+              "snippet": "However, with targeted cap rates of ~6%, projected NOI growth of 4%, and a 2.5% yield, it is challenging to get excited about American Homes 4 Rent REIT when a three-month treasury bill yields 5.3%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:23.376728+00:00",
+              "published_date": null,
+              "source_hash": "c0d9e334c192af6e175fecbb05dabe3f"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down American Homes 4 Rent: 6 Analysts Share Their Views",
+              "snippet": "American Homes 4 Rent's Economic Impact: An Analysis Market Capitalization Analysis: With a profound presence, the company's market capitalization is above industry averages. This reflects ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:25.626055+00:00",
+              "published_date": "2024-12-17T14:00:00+00:00",
+              "source_hash": "d3bbd154fde4eaebd8de5e8f3274cbb3"
+            },
+            {
+              "url": "",
+              "title": "American Homes 4 Rent (NYSE:AMH) Given Consensus Rating of \"Moderate Buy\" by Brokerages",
+              "snippet": "American Homes 4 Rent (NYSE ... Institutional Investors Weigh In On American Homes 4 Rent A number of hedge funds have recently made changes to their positions in AMH. Maryland Capital Advisors ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "American Homes 4 Rent Class A American Homes 4 Rent Class A regulatory changes impact",
+              "retrieved_at": "2025-01-06T20:31:25.626214+00:00",
+              "published_date": "2024-12-25T00:00:00+00:00",
+              "source_hash": "93453f5f82ca3d3e4665efeaaf2e701c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "American Homes 4 Rent Class A rent control lawsuits",
+              "rationale": "Investigate legal challenges related to rent control measures and tenant disputes",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "American Homes 4 Rent Class A tenant complaints and reviews",
+              "rationale": "Assess tenant satisfaction and potential reputational risks from negative feedback",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "American Homes 4 Rent Class A regulatory changes impact",
+              "rationale": "Explore how recent or proposed housing regulations could affect operations and profitability",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:31:41.435217",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

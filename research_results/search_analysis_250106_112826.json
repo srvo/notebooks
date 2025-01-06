@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:28:26.273498",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "BlackRock Inc",
+      "symbol": "BLK",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "ESG and DEI backlash from both conservative and progressive groups",
+            "Ongoing regulatory and legal scrutiny, including antitrust lawsuits and FDIC compliance",
+            "Market dominance and systemic risk due to being the largest asset manager globally",
+            "Data privacy and cybersecurity threats with potential high costs from breaches"
+          ],
+          "controversies": [
+            "Accusations of making illegal ESG commitments leading to removal from Indiana's public retirement investment portfolio",
+            "Antitrust lawsuit alleging Clayton Act violations in coal markets",
+            "Standoff with the FDIC over bank stake scrutiny"
+          ],
+          "environmental_issues": [
+            "Criticism over the firm's influence on corporate environmental policies and sustainable practices"
+          ],
+          "social_issues": [
+            "Backlash related to Diversity, Equity, and Inclusion (DEI) initiatives"
+          ],
+          "governance_issues": [
+            "Potential conflicts of interest in advisory services",
+            "Regulatory scrutiny over governance practices related to ESG initiatives"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Conservative Outrage Over ESG And DEI Fueled By 2017 BlackRock ... - Forbes",
+              "snippet": "BlackRock Inc. is the world's largest asset manager, with over $8.5 trillion in assets. Fink founded the company and has served as CEO since 1988.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360206+00:00",
+              "published_date": null,
+              "source_hash": "6bf326ffb2d778ef14022011b2b29f43"
+            },
+            {
+              "url": "",
+              "title": "The real impact of the ESG backlash - Financial Times",
+              "snippet": "In 2020, BlackRock chief executive Larry Fink put the world's largest money manager squarely behind the cause of purpose-driven investing. \"Climate change is different\" from other financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360315+00:00",
+              "published_date": null,
+              "source_hash": "1bb48af83301cc3c9fdbb5cf40a9ca6d"
+            },
+            {
+              "url": "",
+              "title": "BlackRock hit by backlash after fall in ESG votes - Financial Review",
+              "snippet": "BlackRock denies the criticism influenced its voting record. Investor support for shareholder proposals has fallen across the board since a rule change in 2021 made it harder for companies to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360333+00:00",
+              "published_date": null,
+              "source_hash": "c464a10850b8dfe77ced38fb70be6911"
+            },
+            {
+              "url": "",
+              "title": "BlackRock hit by backlash after fall in environmental and social votes",
+              "snippet": "BlackRock denies the criticism influenced its voting record. Investor support for shareholder proposals has fallen across the board since a rule change in 2021 made it harder for companies to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360345+00:00",
+              "published_date": null,
+              "source_hash": "e6fbdf22e493342d85d98bb0f3eef893"
+            },
+            {
+              "url": "",
+              "title": "BlackRock issued warning over 'misleading statements' tied to ESG funds",
+              "snippet": "BlackRock was issued a legal warning by the U.S. state of Mississippi over \"false and misleading statements to Mississippi investors\" tied to its environmental, social and governance (ESG ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360357+00:00",
+              "published_date": null,
+              "source_hash": "1c731e181bb9766fc3dd709909170304"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Controversy: Balancing ESG and Fossil Fuel Interests",
+              "snippet": "The recent controversy began with BlackRock's investments in sectors criticized for environmental, social, and governance (ESG), particularly fossil fuels, despite CEO Larry Fink's commitment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360368+00:00",
+              "published_date": null,
+              "source_hash": "eb0f745da53c8c368bba45e5fc07aff5"
+            },
+            {
+              "url": "",
+              "title": "BlackRock eases on ESG messaging amid increased scrutiny",
+              "snippet": "BlackRock, the nation's largest asset manager, has faced intense criticism in recent years from both ends of the political spectrum over its stance on ESG issues. Consequently, the firm has diluted its position on the matter, not just in terms of corporate language used in reports, but also in terms of investment decisions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360379+00:00",
+              "published_date": null,
+              "source_hash": "b1fab7774c3624462efd5644ea724d4f"
+            },
+            {
+              "url": "",
+              "title": "Who Got the Work: Gibson Dunn and Wilmer to Defend BlackRock in ESG ...",
+              "snippet": "Gibson, Dunn & Crutcher and Wilmer Cutler Pickering Hale and Dorr represent BlackRock Inc.; Covington & Burling and Troutman Pepper Locke represent Vanguard Group Inc.; and Vinson & Elkins ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360391+00:00",
+              "published_date": null,
+              "source_hash": "32544f27c7355b54e90d961c847898fa"
+            },
+            {
+              "url": "",
+              "title": "BlackRock CEO Larry Fink, who faced intense backlash for championing ...",
+              "snippet": "Fink has spoken out about the criticism he has received as the unofficial face of ESG. ... BlackRock was synonymous with ESG and an important part of the Net Zero Asset Managers Initiative, a UN ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360401+00:00",
+              "published_date": null,
+              "source_hash": "4641e31afc880e64d655fd557e21df91"
+            },
+            {
+              "url": "",
+              "title": "BlackRock CEO draws investor fire over ESG 'greenwashing' - dw.com",
+              "snippet": "In 2022, the largest 10 ESG funds in the US posted double-digit losses, raising criticism mainly from Republican lawmakers about BlackRock's investment strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:00.360411+00:00",
+              "published_date": null,
+              "source_hash": "bdc8b8a98107aaaf5930b19dcc8a811f"
+            },
+            {
+              "url": "",
+              "title": "Who Got the Work: Gibson Dunn and Wilmer to Defend BlackRock in ESG Antitrust Lawsuit",
+              "snippet": "The complaint alleges Clayton Act violations and demands damages, restitution, civil penalties and injunctive relief to \"restore free and open competition to the coal markets.\"",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:06.663811+00:00",
+              "published_date": "2025-01-03T19:51:00+00:00",
+              "source_hash": "bb16e890cdec41655a9435bb879c725d"
+            },
+            {
+              "url": "",
+              "title": "State retirement oversight board removes BlackRock from portfolio for ESG violations",
+              "snippet": "The state's public retirement oversight committee plans to remove BlackRock Inc. from its investment portfolio ... and governance, or ESG, practices. The board of the Indiana Public Retirement ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:02.709871+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "b9b46f5d779405b2ef049e588333f107"
+            },
+            {
+              "url": "",
+              "title": "Pension board votes to remove BlackRock due to ESG violations",
+              "snippet": "The move came after Indiana Treasurer Daniel Elliott accused BlackRock of making illegal environmental, social or governance (ESG) commitments. \"Today, I and other INPRS board members voted to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:02.709902+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "e16ccd212f68d290ca20fec3ed0fc599"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Didn't Pull Support Of ESG, Just 'Poor Quality' Shareholder Proposals",
+              "snippet": "I am an attorney who writes about ESG policy, laws, and regulations. When BlackRock released the 2024 Global Voting Spotlight outlining its proxy voting activities for the year, advocates and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:02.709926+00:00",
+              "published_date": "2024-08-26T21:55:00+00:00",
+              "source_hash": "c97a28483de13ae2f057f364061fee09"
+            },
+            {
+              "url": "",
+              "title": "Robert Kiyosaki predicts Bitcoin will reach $350K in 2025 amid BlackRock's ETF controversy",
+              "snippet": "Robert Kiyosaki predicts Bitcoin will hit $350,000 by 2025, citing its 130% growth this year and rising institutional interest. BlackRock's Bitcoin ETF saw a record $188.7M outflow and concerns about price manipulation.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc ESG criticism and controversies",
+              "retrieved_at": "2025-01-06T18:28:02.709949+00:00",
+              "published_date": "2024-12-27T19:56:00+00:00",
+              "source_hash": "baf3e98cff4f8f4d0d8711c127a471ca"
+            },
+            {
+              "url": "",
+              "title": "FDIC sets January deadline for BlackRock on bank stake scrutiny",
+              "snippet": "The Federal Deposit Insurance Corporation (FDIC) has set a 10 January deadline for BlackRock to agree to enhanced scrutiny of its investments in FDIC-regulated banks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.104837+00:00",
+              "published_date": null,
+              "source_hash": "aa66ac002d012939baa31a42c5434f56"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Faces Jan. 10 Deadline For Compliance Over Bank ... - Benzinga",
+              "snippet": "The Federal Deposit Insurance Corporation and BlackRock Inc. (NYSE: BLK) are heading toward a critical January 10 deadline over new compliance measures affecting the asset manager's holdings in U ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.104945+00:00",
+              "published_date": null,
+              "source_hash": "395580200f9ad1f02ec245c4bcc7d066"
+            },
+            {
+              "url": "",
+              "title": "Bank regulator gives BlackRock January deadline on bank stakes",
+              "snippet": "The U.S. Federal Deposit Insurance Corporation has told asset manager BlackRock it has until Jan. 10 to accept an agreement that would allow the agency to step up scrutiny of its investments in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.104965+00:00",
+              "published_date": null,
+              "source_hash": "a7d82fc962895c6241aa0c5e9a60aff0"
+            },
+            {
+              "url": "",
+              "title": "Who Got the Work: Gibson Dunn and Wilmer to Defend BlackRock in ESG ...",
+              "snippet": "Who Got The Work. Amy O. Bruchs and Kurt F. Ellison of Michael Best & Friedrich have entered appearances for Epic Systems Corp. in a pending employment discrimination lawsuit.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.104978+00:00",
+              "published_date": null,
+              "source_hash": "46ec20bef7c1cc1446dde2792eb948a9"
+            },
+            {
+              "url": "",
+              "title": "BlackRock and FDIC on course for early 2025 clash over bank stakes",
+              "snippet": "But BlackRock and investment industry groups have complained that strengthening the FDIC passivity agreement requirements would duplicate oversight by the US Federal Reserve, raise compliance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.104990+00:00",
+              "published_date": null,
+              "source_hash": "16ca5f9f544f249548454ded3d27f8bc"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Receives Deadline From FDIC for Passivity Agreement",
+              "snippet": "BlackRock, Inc. BLK has been informed by the Federal Deposit Insurance Corporation (\"FDIC\") that it has until Jan. 10, 2025, to accept the \"passivity agreement\". This was reported by a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.105001+00:00",
+              "published_date": null,
+              "source_hash": "5d44cc8b3fd7f499fa3bc3cd8039d81b"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, Inc. - Governance - Governance Overview",
+              "snippet": "At BlackRock Inc., we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.105014+00:00",
+              "published_date": null,
+              "source_hash": "bfc678303c918589688ac344492ddd82"
+            },
+            {
+              "url": "",
+              "title": "US House panel finds BlackRock, other asset managers wary of joining ...",
+              "snippet": "Top U.S. asset managers were worried that signing up to an industry climate initiative could make them appear to be working too closely together and draw regulatory scrutiny, according to a report ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.105028+00:00",
+              "published_date": null,
+              "source_hash": "d1c010cf6d7fd831c686a1dd1af046f8"
+            },
+            {
+              "url": "",
+              "title": "Mounting ESG scrutiny could affect revenues, reputation: BlackRock",
+              "snippet": "Dive Brief: BlackRock said the proliferation of domestic and international environmental, social and governance regulations expose the firm to increased scrutiny and uncertainty, according to its annual 10-K filing with the Securities and Exchange Commission.; The nation's largest firm, by assets under management, listed ESG under potential legal, regulatory and reputational risks, and said ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.105042+00:00",
+              "published_date": null,
+              "source_hash": "97601c6b54d049ac795cbfd14c9bfed5"
+            },
+            {
+              "url": "",
+              "title": "Commissioner Christie's Concurrence in BlackRock's Authorization to Buy ...",
+              "snippet": "Commissioner Mark C. Christie Statement April 19, 2022 Docket No. EC16-77-002 I concur with the order because it is consistent with the past practices and precedents of this Commission dating back for many years, including BlackRock's original authorization in 2010.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:04.105055+00:00",
+              "published_date": null,
+              "source_hash": "274145b5a24e67b03ac971e6478d994e"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Receives Deadline From FDIC for Passivity Agreement",
+              "snippet": "BlackRock, Inc. BLK has been informed by the Federal Deposit Insurance Corporation (\"FDIC\") that it has until Jan. 10, 2025, to accept the \"passivity agreement\". This was reported by a person familiar with the matter to Reuters.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:06.663906+00:00",
+              "published_date": "2024-12-31T16:11:00+00:00",
+              "source_hash": "d42b55d61dc0489dda44a3a7ac7c0980"
+            },
+            {
+              "url": "",
+              "title": "A standoff between BlackRock and FDIC is dragging into 2025",
+              "snippet": "A clash between BlackRock and the FDIC over the money manager's holdings of US banks will play out in the waning days of President Joe Biden's administration.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:06.663938+00:00",
+              "published_date": "2024-12-31T14:51:00+00:00",
+              "source_hash": "24ce9493c00f69f483a6cf5b6f79f44d"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Makes Waves With $12B Private Credit Acquisition",
+              "snippet": "Unlike publicly traded bonds, private credit investments are not subject to the same regulatory scrutiny ... HPS's operations into BlackRock's existing infrastructure presents challenges.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:06.663961+00:00",
+              "published_date": "2024-12-05T15:52:00+00:00",
+              "source_hash": "7717ff0b13430db29ecee2359fd76401"
+            },
+            {
+              "url": "",
+              "title": "BlackRock, Inc. (BLK)",
+              "snippet": "BLK receives a deadline from the FDIC to accept the passivity agreement by Jan. 10, enabling the regulator to raise scrutiny over ... (Bloomberg) -- BlackRock Inc.'s iShares unit offers more ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "BlackRock Inc BlackRock Inc regulatory scrutiny and legal challenges",
+              "retrieved_at": "2025-01-06T18:28:06.663982+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "5f7443bcc912696e71ed31e69ee0e042"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "ability to operate. Whereas the global average direct and indirect cost of a single data breach is estimated to be over $4 million in 2021, the financial tail risk associated with a very significant data breach can run to hundreds of millions of dollars. 2While mega breaches are not the normal experience for most businesses, they can have an",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417420+00:00",
+              "published_date": null,
+              "source_hash": "9857a78e882d375178d80990ef24b892"
+            },
+            {
+              "url": "",
+              "title": "Investment Stewardship Data Privacy - BlackRock",
+              "snippet": "With that has come increased risks associated with data privacy and security. BlackRock's purpose is to help more and more people experience financial well-being. Our clients depend on us to help them achieve their investment goals. ... Whereas the global average direct and indirect cost of a single data breach was estimated to be over $4 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417501+00:00",
+              "published_date": null,
+              "source_hash": "91e2e4cb82642678a526cfc333409da8"
+            },
+            {
+              "url": "",
+              "title": "Lessons Learned: BlackRock Data Breach - Swiss Cyber Institute",
+              "snippet": "Most organizations have an incident response plan to confront data breaches, but ascertaining the damage done can still be a tough task. We're excited to launch a new content series, Lessons Learned, where we'll discuss data breaches and share powerful cybersecurity lessons for businesses on how to prevent data breaches in 2022. Today we ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417517+00:00",
+              "published_date": null,
+              "source_hash": "aa53174f7de0246b6674206573c2e8eb"
+            },
+            {
+              "url": "",
+              "title": "Human error exposes 20,000 BlackRock's financial advisers' information",
+              "snippet": "BlackRock, an investment management company, recently revealed that it suffered a data breach that exposed personal information of around 20,000 of its financial advisers, including 12,000 members in the U.S. independent broker-dealer LPL Financial.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417529+00:00",
+              "published_date": null,
+              "source_hash": "afccf8f23e1c6ba56c1cad1b7b9f61d0"
+            },
+            {
+              "url": "",
+              "title": "BlackRock Exposed Personal Data on 12,000 LPL Brokers",
+              "snippet": "A data leak revealed last week at BlackRock Inc. exposed names, email addresses and other information of about 20,000 advisers who are clients of the asset manager, including 12,000 at LPL ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417540+00:00",
+              "published_date": null,
+              "source_hash": "64a1b41df5642be00524a1b5f1a37eda"
+            },
+            {
+              "url": "",
+              "title": "This Week in Data Breaches: BlackRock, Nest, Google, and FBI Documents",
+              "snippet": "It has been another busy week in data security news with reports on hacks and leaks coming in rapid-fire succession on a near daily basis. From millions of phone logs and text messages being exposed to a massive leak of FBI data in Oklahoma, here we round up the latest in data news. BlackRock Exposes Confidential Data on 20,000 Advisers",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417550+00:00",
+              "published_date": null,
+              "source_hash": "3861489239d83b570fc2f29b6189679c"
+            },
+            {
+              "url": "",
+              "title": "BlackRock's Data Leak Strikes 20,000 Advisers - Yahoo Finance",
+              "snippet": "(Bloomberg) -- A data leak revealed last week at BlackRock Inc. exposed names, email addresses and other information of about 20,000 advisers who are clients of the asset manager, including 12,000 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417563+00:00",
+              "published_date": null,
+              "source_hash": "e17065e066da6b4890d04f853705ce84"
+            },
+            {
+              "url": "",
+              "title": "BreachExchange: BlackRock Exposes Confidential Data on Thousands of ...",
+              "snippet": "Firms can't avoid breaches entirely, but they can react to them in a way that rebuilds trust, said John Reed Stark, who focused on internet crimes while working in the Securities and Exchange Commission's enforcement division and now runs a cybersecurity consulting business. \"Data security incidents are inevitable,\" he said after the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417572+00:00",
+              "published_date": null,
+              "source_hash": "09f42f57a3f799ea4e8c29ee0fdfe1d4"
+            },
+            {
+              "url": "",
+              "title": "BlackRock leaks personal data of thousands of clients",
+              "snippet": "The spreadsheet links were dated to 5 December 2018, according to Bloomberg reporters who saw the documents, and were taken down on Friday after BlackRock was notified of the leak. It is not confirmed whether the data was publicly-available throughout this period. The documents also categorised clients by their status, with some labelled \"dabblers\" and \"power users\", while another column ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417585+00:00",
+              "published_date": null,
+              "source_hash": "be1dd893504eaad1a1874751011b1112"
+            },
+            {
+              "url": "",
+              "title": "Preventing \"The Great Spreadsheet Escape:\" Lessons from BlackRock's ...",
+              "snippet": "In January, BlackRock accidentally leaked confidential sales data by posting spreadsheets unsecurely online - certainly not the first time we've seen sensitive information \"escape\" an organization. Incisive CEO Diane Robinette provides guidance companies can follow to minimize spreadsheet risk.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "BlackRock Inc BlackRock Inc data privacy and cybersecurity breaches",
+              "retrieved_at": "2025-01-06T18:28:08.417597+00:00",
+              "published_date": null,
+              "source_hash": "5f413b6663be72c7d44a5a25ad2bbfa8"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "BlackRock Inc ESG criticism and controversies",
+              "rationale": "Investigate public and industry criticism regarding BlackRock's ESG initiatives and their impact on corporate policies",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "BlackRock Inc regulatory scrutiny and legal challenges",
+              "rationale": "Explore ongoing regulatory scrutiny and legal challenges faced by BlackRock, particularly related to its advisory services and market dominance",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "BlackRock Inc data privacy and cybersecurity breaches",
+              "rationale": "Assess risks and incidents related to data privacy and cybersecurity, given BlackRock's reliance on technology platforms like Aladdin",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:28:26.273505",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

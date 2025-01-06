@@ -1,0 +1,458 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:58:58.472890",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "STMicroelectronics NV",
+      "symbol": "STM",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities, including shortages of critical materials like silicon wafers",
+            "Geopolitical risks, particularly US-China tensions affecting trade policies and market access",
+            "Dependence on key markets such as automotive and industrial sectors, making it vulnerable to economic downturns",
+            "Highly competitive semiconductor industry with pressure from major players like Texas Instruments and Infineon"
+          ],
+          "controversies": [
+            "Class-action lawsuit alleging insufficient visibility to forecast performance and challenges with end-user demand"
+          ],
+          "environmental_issues": [
+            "Resource-intensive semiconductor manufacturing generating substantial waste",
+            "Challenges in achieving carbon neutrality by 2027 despite ambitious goals"
+          ],
+          "social_issues": [
+            "Commitment to ethical practices and worker safety, including ISO 45001 certification for all manufacturing sites"
+          ],
+          "governance_issues": [
+            "Legal risks from ongoing class-action lawsuit and potential reputational damage"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": " ST Sustainability report 2024 - STMicroelectronics",
+              "snippet": "STMicroelectronics International NV 39 Chemin du Champ-des-Filles C.P. 21 CH-1228 Geneva - Plan-Les-Ouates Switzerland This report has been prepared according to GRI Standards and is externally assured. It represents a balanced and reasonable presentation of our organization's economic, environmental and social performance. It also demonstrates",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.681829+00:00",
+              "published_date": null,
+              "source_hash": "15f7ab800b9ea545826f866fd8daf275"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics - Wikipedia",
+              "snippet": "STM32 microcontroller made by STMicroelectronics. STMicroelectronics NV (commonly referred to as ST or STMicro) is a European multinational semiconductor contract manufacturing and design company. It is the largest of such companies in Europe.It was founded in 1987 from the merger of two state-owned semiconductor corporations: Thomson Semiconducteurs of France and SGS Microelettronica of Italy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589696+00:00",
+              "published_date": null,
+              "source_hash": "4dddf05d4b57ad71cd46c0129d49777a"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics: Our technology starts with you",
+              "snippet": "ST is a global high-tech company creating semiconductor technologies for a smarter, greener, and more sustainable future ... All our manufacturing sites are ISO 45001 certified, ensuring high standard of work environment. Transition to energy-efficient homes made easy. Read Cotherm success story. Be inspired.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682002+00:00",
+              "published_date": null,
+              "source_hash": "1aef7a7cdd864b7e76129af0b03fec7c"
+            },
+            {
+              "url": "",
+              "title": " STMicroelectronics - worldmanufacturing.org",
+              "snippet": "Semiconductor solutions: one of the industry's broadest product portfolios We create innovative semiconductor solutions based on: Trends that drive our innovation STMICROELECTRONICS Our company at a glance Our products and solutions enable customer innovation Dedicated Automotive ICs Smart Mobility Power & Energy Cloud-connected Autonomous Things",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682016+00:00",
+              "published_date": null,
+              "source_hash": "3d59f9bbfd7b6e9808297991e0e3ed06"
+            },
+            {
+              "url": "",
+              "title": " STMicroelectronics Company Presentation",
+              "snippet": "14 main manufacturing sites As of December 31, 2023 One of the world's largest semiconductor companies $17.3 billion revenues in 2023 Over 50,000 employees of which 9,500+ in R&D Over 80 sales & marketing offices serving over 200,000 customers across the globe Signatory of the United Nations Global Compact (UNGC)",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682027+00:00",
+              "published_date": null,
+              "source_hash": "c7dc0593d2732a444f98e2a6c9f3b054"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics N.V. (STMEF) - Stock Analysis",
+              "snippet": "STMicroelectronics N.V., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products in Europe, the Middle East, Africa, the Americas, and the Asia Pacific. The company operates through Automotive and Discrete Group; Analog, MEMS and Sensors Group; and Microcontrollers and Digital ICs Group segments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682037+00:00",
+              "published_date": null,
+              "source_hash": "63373d824d51cfde078e3c083063e051"
+            },
+            {
+              "url": "",
+              "title": "STMicro Remains an Automotive and Power Semiconductor Leader",
+              "snippet": "STMicroelectronics has a greater presence in certain types of lower-margin power semiconductors that, when combined with significant manufacturing capacity, may depress future returns relative to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682049+00:00",
+              "published_date": null,
+              "source_hash": "959956b4cce7f410d40532453c45052d"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV | Reuters",
+              "snippet": "Computer chip maker STMicroelectronics pushed back its long-term financial targets on Wednesday, saying its future remains bright but a downturn in its key automotive and industrial markets is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682060+00:00",
+              "published_date": null,
+              "source_hash": "d26892ae1a62f8e413e3e5af272da992"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics N.V. (STMEF) Company Profile & Overview - Stock Analysis",
+              "snippet": "STMicroelectronics N.V., together with its subsidiaries, designs, develops, manufactures, and sells semiconductor products in Europe, the Middle East, Africa, the Americas, and the Asia Pacific. The company operates through Automotive and Discrete Group; Analog, MEMS and Sensors Group; and Microcontrollers and Digital ICs Group segments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589822+00:00",
+              "published_date": null,
+              "source_hash": "1f10b10157f025d9c9cdf29970fd138c"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV -- Company History",
+              "snippet": "STMicroelectronics NV . Address: 20 Route de Pr\u00e9-Bois ICC Bloc A 1215 Geneva 15 Switzerland Telephone: (41) 22-929-29-29 Fax: (41) 22-929-29-00 ... The last category brought it into contact with the semiconductor manufacturing wing of France's Thomson-CSF, as the two companies formed an EPROM development partnership. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:29.682082+00:00",
+              "published_date": null,
+              "source_hash": "62f0385d6aa1631c49f7093e1a2ace2b"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV ADR RegS",
+              "snippet": "STMicroelectronics NV is a global semiconductor company, which engages in the business of designing, developing, manufacturing, and marketing products used in a wide variety of applications for ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:31.927692+00:00",
+              "published_date": "2020-08-19T18:03:00+00:00",
+              "source_hash": "a05c3e15c1b7f76fa599d9cd489cfad8"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV",
+              "snippet": "Computer chip maker STMicroelectronics ... Hua Hong , arguing that having local manufacturing in China is vital to its competitive position. Austrian semiconductor manufacturer ams OSRAM on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:31.927783+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "dbd7d8290d048d4cc42767e9f1881fc1"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV: Strategic Growth and Resilience Amidst Macroeconomic Challenges",
+              "snippet": "Analyst Juergen Wagner from Stifel Nicolaus maintained a Buy rating on STMicroelectronics NV (0INB - Research ... s strategic cost-saving measures and manufacturing efficiencies are expected ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:31.927813+00:00",
+              "published_date": "2024-11-20T04:06:00+00:00",
+              "source_hash": "f00a094e273d0d7ffaa828974689e66d"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics and Renault pair up to provide modules to Ampere",
+              "snippet": "Swiss semiconductor maker STMicroelectronics NV announced a power-module deal on Tuesday with French carmaker Renault Group covering several years. The deal is to supply silicon carbide (SiC ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:41.905122+00:00",
+              "published_date": "2024-12-14T11:56:00+00:00",
+              "source_hash": "d938ae150d7748ba7c2a1e0eb7241f72"
+            },
+            {
+              "url": "",
+              "title": "Ampere and STMicroelectronics collaborate on powerbox with long-term supply for silicon carbide",
+              "snippet": "Ampere, the intelligent electric EV pure player born from Renault Group and STMicroelectronics, a global semiconductor leader serving customers across the spectrum of electronics applications, today announced the next step in their strategic co-operation,",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "retrieved_at": "2025-01-06T18:58:31.927861+00:00",
+              "published_date": "2024-12-31T07:19:00+00:00",
+              "source_hash": "2a8629cf6ecb67fcbc0586ef9ef0b4d9"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics N.V. Class Action: The Gross Law Firm Reminds ...",
+              "snippet": "NEW YORK, Oct. 14, 2024 /PRNewswire/ -- The Gross Law Firm issues the following notice to shareholders of STMicroelectronics N.V. (NYSE: STM).. Shareholders who purchased shares of STM during the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:33.570674+00:00",
+              "published_date": null,
+              "source_hash": "74bd12ed0640b031d479d35a3f1e7edf"
+            },
+            {
+              "url": "",
+              "title": "STM Investors Have Opportunity to Lead STMicroelectronics N.V ...",
+              "snippet": "Investors suffering losses on their STM investments are encouraged to contact the Law Offices of Howard G. Smith to discuss their legal rights in this class action at 215-638-4847 or by email to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:33.570781+00:00",
+              "published_date": null,
+              "source_hash": "924021e78a05e388c3ccbb75c05985ed"
+            },
+            {
+              "url": "",
+              "title": "STM Investors Have Opportunity to Lead STMicroelectronics N.V ...",
+              "snippet": "STMicroelectronics failed to gain the necessary visibility to accurately forecast its future performance. The Company was not equipped to handle ongoing challenges with its end users. Based on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:33.570798+00:00",
+              "published_date": null,
+              "source_hash": "689bde0be30ede42e60047966cee4dea"
+            },
+            {
+              "url": "",
+              "title": "Cramer's Analysis of STMicroelectronics N.V. (STM): Stability in ...",
+              "snippet": "STMicroelectronics N.V. (NYSE:STM) has cut forecasts multiple times in 2024. In July, the firm cut guidance to a midpoint of $13.45 billion down from an earlier $14.5 billion which led its stock ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:33.570826+00:00",
+              "published_date": null,
+              "source_hash": "681b6d89a313a0c8d14d6607150f266e"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV | Reuters",
+              "snippet": "The latest international STMicroelectronics NV news and views from Reuters - one of the world's largest news agencies",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589859+00:00",
+              "published_date": null,
+              "source_hash": "d62c8af0e9413b474611a495c596f62b"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV (STM) Q3 2024 Earnings Call Highlights ...",
+              "snippet": "STMicroelectronics NV introduced its fourth generation of silicon carbide MOSFET technology, achieving new benchmarks in power efficiency and density, particularly for electric vehicles. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589908+00:00",
+              "published_date": null,
+              "source_hash": "4568e1666602ca781b2801c8365aba4e"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV - Financial Times",
+              "snippet": "The latest news, analysis and opinion on STMicroelectronics NV. In-depth analysis, industry insights and expert opinion",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:33.570874+00:00",
+              "published_date": null,
+              "source_hash": "be64f46ccf49aafca5eccaff1c0f30db"
+            },
+            {
+              "url": "",
+              "title": "Challenging Outlook for STMicroelectronics NV: Sell Rating Due to ...",
+              "snippet": "Morgan Stanley analyst Lee Simpson downgraded the rating on STMicroelectronics NV (0INB - Research Report) to a Sell yesterday, setting a price target of \u20ac20.00.. Lee Simpson has given his ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:33.570886+00:00",
+              "published_date": null,
+              "source_hash": "8cd974b473ed4b629a18907b41158b1a"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics and Renault pair up to provide modules to Ampere",
+              "snippet": "Swiss semiconductor maker STMicroelectronics NV announced a power-module deal ... reduction by the mobility industry and its supply chain.\"",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV supply chain disruptions legal implications",
+              "retrieved_at": "2025-01-06T18:58:36.968458+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "da84821c00068c024f8b5a025c8241d5"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics N.V. (STMEF) - Stock Analysis",
+              "snippet": "STMicroelectronics and Qualcomm Launch New IoT Module to Simplify Wireless Connectivity. On Wednesday, semiconductor contract manufacturing company STMicroelectronics NV (NYSE: STM) introduced the first product of its strategic collaboration with wireless technology company Qualcomm Inc ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589804+00:00",
+              "published_date": null,
+              "source_hash": "90da4f46bd586d27c93b86a911b2efb0"
+            },
+            {
+              "url": "",
+              "title": "STMicro Sees Significant Sales Declines Persisting Into 2025",
+              "snippet": "(Bloomberg) -- STMicroelectronics NV said revenue for the year will come in at the low end of its forecasted range, and sales declines through the first quarter of 2025 will be worse than usual as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589835+00:00",
+              "published_date": null,
+              "source_hash": "ecfbca0b38c5bc320d085394ff0ba92e"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV: Positioned for Long-term Growth Amid Near-term ...",
+              "snippet": "Amanda Tan's rating is based on the belief that STMicroelectronics NV, despite facing near-term challenges, is positioned to benefit from long-term industry trends. The company is recognized as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589848+00:00",
+              "published_date": null,
+              "source_hash": "8614ebbf151c0b675badafe92fda4840"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV - KnowTheChain",
+              "snippet": "STMicroelectronics NV (STMicroelectronics), a semiconductor manufacturing company which supplies to companies such as Apple, Cisco, and HP ranks 15th out of 60 companies. ... Purchasing Practices: 0 / 100: 31 Out of 100. Recruitment. Recruitment Fees: 62 / 100: Monitoring and Responsible Recruitment: 0 / 100: 5 Out of 100. Worker Voice. Freedom ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589872+00:00",
+              "published_date": null,
+              "source_hash": "93efb15947a02d3409f79924715bf30d"
+            },
+            {
+              "url": "",
+              "title": "Governance - STMicroelectronics Sustainability report 2024",
+              "snippet": "ST's parent company, STMicroelectronics NV, is registered in the Netherlands and is listed on the New York Stock Exchange (NYSE), Euronext Paris, and Borsa Italiana, Milan. Our headquarters and operational offices are managed through our wholly owned subsidiary, STMicroelectronics International NV, located in Plan-les-Ouates, Geneva, Switzerland.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589885+00:00",
+              "published_date": null,
+              "source_hash": "5830267b12540164d32083cdb732415b"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV -- Company History",
+              "snippet": "STMicroelectronics NV is one of the world's leading semiconductor manufacturing companies. The company holds the top spot among European chip makers and as high as the number three position (according to Gartner Dataquest in 2001) among the global top ten. ST manufactures a broad range of semiconductor products, with an emphasis on a variety of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:38.589896+00:00",
+              "published_date": null,
+              "source_hash": "fda663b871ad5952e5a64236f81d1ab2"
+            },
+            {
+              "url": "",
+              "title": "Ex-Dividend Reminder: STMicroelectronics, Universal Display and Albany International",
+              "snippet": "Looking at the universe of stocks we cover at Dividend Channel, on 12/17/24, STMicroelectronics NV (Symbol: STM), Universal Display Corp (Symbol: OLED), and Albany International Corp (Symbol ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:41.904983+00:00",
+              "published_date": "2024-12-13T18:12:00+00:00",
+              "source_hash": "3d7fa9a085d53d261da62fe2935b1fdf"
+            },
+            {
+              "url": "",
+              "title": "STMicroelectronics NV (SGM.HM)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies are rated on a scale from one to five with five denoting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "STMicroelectronics NV STMicroelectronics NV labor practices controversies",
+              "retrieved_at": "2025-01-06T18:58:41.905089+00:00",
+              "published_date": "2024-12-06T17:26:00+00:00",
+              "source_hash": "86f6c92a8f6ae79047d5cad84d2b42d3"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "STMicroelectronics NV semiconductor manufacturing environmental impact",
+              "rationale": "Assess the environmental impact of STM's manufacturing processes, including waste generation and resource usage",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "STMicroelectronics NV supply chain disruptions legal implications",
+              "rationale": "Investigate potential legal and financial risks arising from global supply chain disruptions affecting STM",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "STMicroelectronics NV labor practices controversies",
+              "rationale": "Examine any controversies or ethical concerns related to labor practices in STM's global operations",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:58:58.472902",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,481 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:54:42.830469",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Eagle Bancorp Inc",
+      "symbol": "EGBN",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal issues due to SEC charges and penalties",
+            "Leadership instability with significant turnover in executive roles",
+            "Economic sensitivity to the Washington, D.C. real estate market and government contracting sector",
+            "Competitive pressures from regional and national banks as well as fintech companies"
+          ],
+          "controversies": [
+            "SEC charges for negligent false and misleading statements about related-party loans",
+            "Material misstatements and omissions in press releases regarding related-party loans"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical lapses in disclosure practices regarding related-party transactions"
+          ],
+          "governance_issues": [
+            "Leadership instability and turnover in key executive positions",
+            "Regulatory scrutiny and financial penalties due to governance failures"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SEC Charges Eagle Bancorp and Former CEO with Failing to Disclose ...",
+              "snippet": "The Securities and Exchange Commission today charged Eagle Bancorp, Inc., based in Bethesda, Maryland, and its former Chief Executive Officer and Chairman of the Board, Ronald D. Paul, with negligently making false and misleading statements about related party loans extended by the bank to Paul's family trusts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.706869+00:00",
+              "published_date": null,
+              "source_hash": "3d9d6b49bf01263ff8e4bf352688cb8a"
+            },
+            {
+              "url": "",
+              "title": "In the Matter of Eagle Bancorp, Inc. Admin. Proc. File No. 3-20963",
+              "snippet": "Eagle and Paul also made false statements regarding the nature of the loans in two press releases. The Commission ordered the Respondent to pay $2,600,000.00 in disgorgement, $750,493.00 in prejudgment interest, and a $10,000,000.00 civil money penalty, for a total of $13,350,493.00, to the Commission.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950657+00:00",
+              "published_date": null,
+              "source_hash": "4c4ba10ff970857f4d3baa98cf499c6f"
+            },
+            {
+              "url": "",
+              "title": "Regulators Charge Eagle Bancorp, Ex-Chairman over Related-Party Loan ...",
+              "snippet": "The SEC on Aug. 16, 2022, charged Eagle Bancorp, Inc. and its former Chairman and Chief Executive Officer Ronald Paul over \"material misstatements and omissions\" stemming from related-party loans by the Maryland-based bank holding company's principal subsidiary, EagleBank.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.706989+00:00",
+              "published_date": null,
+              "source_hash": "ced5487187ddff392f71112aa626d567"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "According to the Complaint, Eagle Bancorp, Inc. operates as the bank holding company for EagleBank that provides commercial and consumer banking services primarily in the United States. The Complaint alleges that throughout the Class Period, Defendants made materially false and misleading statements regarding the Company's business ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950838+00:00",
+              "published_date": null,
+              "source_hash": "cd0ea19d19d20559073143a7a84dd165"
+            },
+            {
+              "url": "",
+              "title": "Home | SEC vs In the Matter of Eagle Bancorp, Inc",
+              "snippet": "On August 16, 2022, the Commission issued a Corrected Order Instituting Cease-and-Desist Proceedings, Pursuant to Section 8A of the Securities Act of 1933 and Section 21C of the Securities Exchange Act of 1934, Making Findings, and Imposing a Cease-and-Desist Order (the \"Order\") against Eagle Bancorp, Inc. (\"Eagle\" or \"Respondent\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950764+00:00",
+              "published_date": null,
+              "source_hash": "d0e4cbda2d0313c757c6b975a4d47a06"
+            },
+            {
+              "url": "",
+              "title": "U.S. SEC charges Eagle Bancorp for not disclosing loans to ex-CEO's ...",
+              "snippet": "The bank and the former CEO have agreed to settle the charges, the SEC said in a statement. Eagle, without admitting or denying the SEC's findings, agreed to pay a civil penalty of $10 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.707028+00:00",
+              "published_date": null,
+              "source_hash": "c5fb7bfa9481de5eb46e941d9869272b"
+            },
+            {
+              "url": "",
+              "title": "Securities and Exchange Commission and Federal Reserve Board Have ...",
+              "snippet": "BETHESDA, Md., Aug. 16, 2022 (GLOBE NEWSWIRE) - Eagle Bancorp, Inc., holding company for EagleBank, one of the largest community banks in the Washington, D.C. area, today announced the Securities and Exchange Commission (SEC) and Federal Reserve Board (FRB) have granted final approval for the settlement of charges relating to the Company's identification, classification and disclosure of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.707041+00:00",
+              "published_date": null,
+              "source_hash": "cfd1c853dd55126eb9e9ad69ad7b075b"
+            },
+            {
+              "url": "",
+              "title": "EagleBank settles insider-lending charges brought by regulators",
+              "snippet": "The bank, which operates a mortgage-lending unit, along with its holding company, Eagle Bancorp Inc., have agreed to pay a total of $22.9 million in penalties, and Paul some $521,000, to settle ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.707053+00:00",
+              "published_date": null,
+              "source_hash": "2333d0bc82d0a3356371d626ee6fa556"
+            },
+            {
+              "url": "",
+              "title": "EagleBank fined $23M over improper lending, disclosure practices",
+              "snippet": "Eagle Bancorp, parent company of EagleBank, was fined $9.5 million by the Federal Reserve Board on Tuesday for violating the board's insider lending regulation. The bank agreed to pay an additional $13.4 million to settle charges laid by Securities and Exchange Commission (SEC).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.707065+00:00",
+              "published_date": null,
+              "source_hash": "c62101226f2818d1c499958254d82851"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "EAGLE BANCORP, INC. Respondent. CORRECTED ORDER INSTITUTING CEASE-AND-DESIST PROCEEDINGS, PURSUANT TO SECTION 8A OF THE SECURITIES ACT OF 1933 AND SECTION 21C OF THE SECURITIES EXCHANGE ACT OF 1934, MAKING FINDINGS, AND IMPOSING A CEASE-AND-DESIST ORDER I. The Securities and Exchange Commission (\"Commission\") deems it appropriate that cease-",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:14.707076+00:00",
+              "published_date": null,
+              "source_hash": "0d65cfb998b87c8b7afeabfe3ffcb310"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp Inc (MD)",
+              "snippet": "Eagle Bancorp Inc, based in Bethesda, Maryland, is a bank holding company for EagleBank, offering a wide range of banking services mainly in the United States. It caters to both commercial and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:17.497266+00:00",
+              "published_date": "2024-12-08T23:59:00+00:00",
+              "source_hash": "21da64cf2fb95772a8a22a3dd06568c8"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp, Inc. (NASDAQ:EGBN) Stake Lowered by State Street Corp",
+              "snippet": "Eagle Bancorp Stock Performance EGBN stock opened at $26.71 on Friday. The company has a 50-day simple moving average of $27.66 and a 200 day simple moving average of $22.90. The company has a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:17.497367+00:00",
+              "published_date": "2024-12-22T00:00:00+00:00",
+              "source_hash": "78e3b2f95c00ac77abe155d1717b51dc"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp, Inc. (NASDAQ:EGBN) Shares Bought by Fmr LLC",
+              "snippet": "Eagle Bancorp Price Performance NASDAQ EGBN opened at $26.55 on Tuesday. The company has a quick ratio of 0.86, a current ratio of 0.86 and a debt-to-equity ratio of 0.06. Eagle Bancorp, Inc. has ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:17.497399+00:00",
+              "published_date": "2024-12-24T00:00:00+00:00",
+              "source_hash": "89acc34e1387585bbaaaf45785b7f35a"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp, Inc. (EGBN)",
+              "snippet": "Eagle Bancorp (EGBN) has been upgraded to a Zacks Rank #1 (Strong Buy), reflecting growing optimism about the company's earnings prospects. This might drive the stock higher in the near term.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:17.497423+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "d7a74795e048252e7cc7e5258c9c2b62"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp Montana, Inc. (EBMT)",
+              "snippet": "HELENA, Mont., Oct. 29, 2024 (GLOBE NEWSWIRE) -- Eagle Bancorp Montana, Inc. (NASDAQ: EBMT), (the \"Company,\" \"Eagle\"), the holding company of Opportunity Bank ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc regulatory investigations",
+              "retrieved_at": "2025-01-06T17:54:17.497445+00:00",
+              "published_date": "2024-12-02T00:00:00+00:00",
+              "source_hash": "7e86f57ab2ed74c0d78599b52b78acd1"
+            },
+            {
+              "url": "",
+              "title": "Corporate Overview - Senior Management | Eagle Bancorp, Inc.",
+              "snippet": "Member FDIC \u00a92025 Eagle Bancorp, Inc",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035353+00:00",
+              "published_date": null,
+              "source_hash": "1e28ca73419ddbc7c84f0db7dbd67700"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "At the management level, the leadership team was laying the foundation for the continued organic growth and development of the Bank. While the Relationships F-I-R-S-T approach to the market will remain consistent, the Bank is strengthening its commitment to its culture centered on quality, collaboration, and open communications. During",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035454+00:00",
+              "published_date": null,
+              "source_hash": "f71b002ee51f11875781eb51e3ebe1f4"
+            },
+            {
+              "url": "",
+              "title": "EGBN | Eagle Bancorp Inc. Company Profile & Executives - WSJ",
+              "snippet": "Company profile for Eagle Bancorp Inc. including key executives, insider trading, ownership, revenue and average growth rates. View detailed EGBN description & address.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035473+00:00",
+              "published_date": null,
+              "source_hash": "d198d295fc7dfabb8e2625dc05a08b76"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp, Inc. (EGBN) Company Profile & Facts - Yahoo Finance",
+              "snippet": "See the company profile for Eagle Bancorp, Inc. (EGBN) including business summary, industry/sector information, number of employees, business summary, corporate governance, key executives and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035489+00:00",
+              "published_date": null,
+              "source_hash": "d0d94fb5a4457582bab39a7195e50787"
+            },
+            {
+              "url": "",
+              "title": "Here's Why Shareholders Should Examine Eagle Bancorp, Inc.'s (NASDAQ ...",
+              "snippet": "According to our data, Eagle Bancorp, Inc. has a market capitalization of US$597m, and paid its CEO total annual compensation worth US$3.2m over the year to December 2023. We note that's a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035502+00:00",
+              "published_date": null,
+              "source_hash": "ec447a0d0fa08d1e48b2252f44c0a3df"
+            },
+            {
+              "url": "",
+              "title": "EagleBank News, Annual Reports, Updates, and Archives",
+              "snippet": "2/5/2024 -- Eagle Bancorp, Inc. was named to Executive Alliance's Honor Roll Award for Women's Representation. This designation recognizes publicly-traded companies headquartered in Maryland and the private companies and non-profit organizations that employ women in at least 30% of their executive leadership roles AND have women in at least 30% of their board of director seats.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035514+00:00",
+              "published_date": null,
+              "source_hash": "c267b14ebd71d159eb444382259bc062"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp, Inc. Announces Third Quarter 2024 Results",
+              "snippet": "Eagle grows book value per share by $1.86; Common Equity Tier 1 Capital and Tier 1 Capital leverage ratio to 14.5% and 10.9%, respectively BETHESDA, Md., Oct. 23, 2024 (GLOBE NEWSWIRE) - Eagle Bancorp, Inc. (\"Eagle\", the \"Company\") (NASDAQ: EGBN), the Bethesda-based holding company for EagleBank, one of the largest community banks in the Washington D.C. area, reported its unaudited results for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035530+00:00",
+              "published_date": null,
+              "source_hash": "96e9b3f16254f6030a8230e7b32f5fee"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp Inc (EGBN) 10-K Annual Report March 2022 - Last10K.com",
+              "snippet": "BETHESDA, MD, Eagle Bancorp, Inc. (the \"Company\") (NASDAQ: EGBN), the parent company of EagleBank (the \"Bank\"), today announced net income of $41.6 million for the fourth quarter of 2021, compared to net income of $38.9 million for the fourth quarter of 2020, a 7.0% increase. Net income per basic and diluted common share was $1.30 for the fourth quarter of 2021, compared to $1.21 for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035543+00:00",
+              "published_date": null,
+              "source_hash": "95f03fdf3d6662782998c48e800673fe"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp Inc. Company & People | EGBN | Barron's",
+              "snippet": "Eagle Bancorp Inc. company and executive profile by Barron's. View the latest EGBN company infomation and executive bios. ... Receivables Turnover N/A. Total Asset Turnover 0.06. capitalization.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035555+00:00",
+              "published_date": null,
+              "source_hash": "aea8db28761be4a7af22e93b93953745"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "PRESS RELEASE EAGLE BANCORP, INC. FOR IMMEDIATE RELEASE CONTACT: Michael T. Flynn July 1, 2019 301.986.1800 EAGLE BANCORP, INC. ANNOUNCES STRATEGIC CHANGES TO BOARD STRUCTURE ... Insurance and Marketing functions, as well as provided leadership to the company's diversity initiatives. Ms. Ludwig has over 35 years of experience in finance and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:19.035566+00:00",
+              "published_date": null,
+              "source_hash": "272ade1a1c854daf8e257dffcc080d24"
+            },
+            {
+              "url": "",
+              "title": "Barclays PLC Has $1.70 Million Position in Eagle Bancorp, Inc. (NASDAQ:EGBN)",
+              "snippet": "Barclays PLC boosted its holdings in Eagle Bancorp, Inc. (NASDAQ:EGBN - Free Report) by 29.4% during the third quarter, according to the company in its most recent filing with the Securities and Exchange Commission.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc leadership turnover impact",
+              "retrieved_at": "2025-01-06T17:54:22.486076+00:00",
+              "published_date": "2024-12-28T07:31:00+00:00",
+              "source_hash": "5659c5a7917ff9b9324578c82fe1852d"
+            },
+            {
+              "url": "",
+              "title": "FAQ | SEC vs In the Matter of Eagle Bancorp, Inc",
+              "snippet": "how much is there in the eagle bancorp inc fair fund? The Commission ordered Eagle to pay 2,600,000 in disgorgement, $750,493 in prejudgment interest, and a $10,000,000 civil money penalty, for a total of $13,350,493.00.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950781+00:00",
+              "published_date": null,
+              "source_hash": "70dae95c227ebceb4a02ac6bff3ba5b2"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Eagle Bancorp and Former CEO with Failing to Disclose ...",
+              "snippet": "The Securities and Exchange Commission today charged Eagle Bancorp, Inc., based in Bethesda, Maryland, and its former Chief Executive Officer and Chairman of the Board, Ronald D. Paul, with negligently making false and misleading statements about related party loans extended by the bank to Paul's family trusts. Eagle and Paul have agreed to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950795+00:00",
+              "published_date": null,
+              "source_hash": "39e71529d8016868b6edf052aad98aec"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Act\"), against Eagle Bancorp, Inc. (\"Eagle\" or \"Respondent\"). II. In anticipation of the institution of these proceedings, Respondent has submitted an Offer of Settlement (the \"Offer\") which the Commission has determined to accept. Solely for the purpose of these proceedings and any other proceedings brought by or on behalf of the",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950810+00:00",
+              "published_date": null,
+              "source_hash": "7ef914b95fc7e8ea9dfbb8ddf352d12f"
+            },
+            {
+              "url": "",
+              "title": "Regulators Charge Eagle Bancorp, Ex-Chairman over Related-Party Loan ...",
+              "snippet": "The SEC on Aug. 16, 2022, charged Eagle Bancorp, Inc. and its former Chairman and Chief Executive Officer Ronald Paul over \"material misstatements and omissions\" stemming from related-party loans by the Maryland-based bank holding company's principal subsidiary, EagleBank. ... due to certain facts about his relationship with the trusts ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950824+00:00",
+              "published_date": null,
+              "source_hash": "ff0d0425a7b853808d7c248eae852231"
+            },
+            {
+              "url": "",
+              "title": "Maryland bank to pay $22.9 mln for concealing loans to ex-CEO's trusts",
+              "snippet": "Eagle Bancorp Inc , opens new tab, of Bethesda, Maryland, will pay $19.5 million in civil fines and more than $3.35 million in disgorgement and interest to settle with the Federal Reserve Board ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950852+00:00",
+              "published_date": null,
+              "source_hash": "2080074c8880861287abe8482c20bb91"
+            },
+            {
+              "url": "",
+              "title": "Securities and Exchange Commission and Federal Reserve Board Have ...",
+              "snippet": "BETHESDA, Md., Aug. 16, 2022 (GLOBE NEWSWIRE) -- Eagle Bancorp, Inc., holding company for EagleBank, one of the largest community banks in the Washington, D.C. area, today announced the Securities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950864+00:00",
+              "published_date": null,
+              "source_hash": "d34a8dda2e6c023c624e9e7b708fd46d"
+            },
+            {
+              "url": "",
+              "title": "EagleBank faces lawsuit - Washington Business Journal",
+              "snippet": "The 2014 annual report released in 2015, when the bank concluded its internal controls were effective; A 2016 10-K, which stated deficiencies in Eagle Bancorp's controls but stated it was limited ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:23.950876+00:00",
+              "published_date": null,
+              "source_hash": "20fa03211dad3a2dc6200188b1f67688"
+            },
+            {
+              "url": "",
+              "title": "Eagle Bancorp to Participate in the Jefferies Bank Summit",
+              "snippet": "Bethesda, MD, Dec. 02, 2024 (GLOBE NEWSWIRE) -- Eagle Bancorp, Inc., (the \"Company\") (NASDAQ: EGBN), the Bethesda-based holding company of EagleBank, one of the largest community banks in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Eagle Bancorp Inc Eagle Bancorp Inc customer relationship controversies",
+              "retrieved_at": "2025-01-06T17:54:27.452613+00:00",
+              "published_date": "2024-12-02T20:00:00+00:00",
+              "source_hash": "b577eb7ba2c61e2d1e8a7038c3e00bcb"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Eagle Bancorp Inc regulatory investigations",
+              "rationale": "Investigate ongoing or past regulatory scrutiny related to lending practices and compliance",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Eagle Bancorp Inc leadership turnover impact",
+              "rationale": "Assess the implications of recent executive changes on company stability and strategy",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Eagle Bancorp Inc customer relationship controversies",
+              "rationale": "Explore potential ethical concerns or controversies involving customer relationships or lending practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:54:42.830483",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

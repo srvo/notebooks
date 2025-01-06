@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:09:42.169466",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "3D Systems Corp",
+      "symbol": "DDD",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Class action lawsuit alleging misleading financial disclosures",
+            "Revenue decline due to weak printer sales",
+            "Supply chain vulnerabilities",
+            "Technological obsolescence risk",
+            "Intense competition in the additive manufacturing industry"
+          ],
+          "controversies": [
+            "$20 million settlement with the U.S. Department of State for export control violations",
+            "$4.54 million settlement for False Claims Act violations related to improper data transfers to China",
+            "Past labor disputes, including a 2013 NLRB case"
+          ],
+          "environmental_issues": [
+            "Supply chain disruptions impacting production and profitability"
+          ],
+          "social_issues": [
+            "Labor disputes and workforce management challenges"
+          ],
+          "governance_issues": [
+            "History of export control violations raising compliance concerns",
+            "Ongoing class action lawsuit impacting investor confidence"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "New Class Action Lawsuit Accuses 3D Systems of Misleading Investors",
+              "snippet": "A new class action lawsuit filed in New York federal court accuses 3D Systems Corporation of misleading investors about the company's internal financial controls. The proposed class action was filed April 9 by Plaintiff Troy Kehoe on behalf of anyone who purchased publicly traded securities of 3D Systems between May 6, 2020 and March 1, 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151817+00:00",
+              "published_date": null,
+              "source_hash": "64d0073f36a074afb75dc00cea98af37"
+            },
+            {
+              "url": "",
+              "title": "Why 3D Systems Stock Sank by Almost 13% on Wednesday",
+              "snippet": "After market close on Tuesday, 3D Systems published its third-quarter figures. These showed that the company's revenue for the period was slightly under $113 million, representing a 9% decline ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139123+00:00",
+              "published_date": null,
+              "source_hash": "d1bbf8ade7470edc3d13b2f69f88b75b"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp Faces Challenges Amid Revenue Decline",
+              "snippet": "In its third quarter financial report for 2024, 3D Systems Corp revealed a challenging period with a 9% decrease in revenue year-over-year, primarily due to weak printer sales.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139140+00:00",
+              "published_date": null,
+              "source_hash": "eec0b34929f934fbcfc03b3b9d1697d3"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Reports Third Quarter 2024 Financial Results",
+              "snippet": "Net loss attributable to 3D Systems Corporation for the third quarter of 2024 was $178.6 million compared to a net loss of $11.7 million for the same period last year. The decline from prior year was primarily impacted by the previously referenced $143.7 million associated with the impairment of goodwill and other long-lived assets taken during ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139152+00:00",
+              "published_date": null,
+              "source_hash": "b1e1dadd4aba0cf8c9ac53d297e76ddf"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp (DDD) Faces Headwinds: A Look at the 2023 Earnings Report",
+              "snippet": "Financial Liquidity: Cash and ... On February 27, 2024, 3D Systems Corp ... Performance and Challenges. The company's revenue for the fourth quarter of 2023 decreased by 13.5% to $114.8 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139164+00:00",
+              "published_date": null,
+              "source_hash": "5f277b9a208f37770e253d191bcbc4a2"
+            },
+            {
+              "url": "",
+              "title": "Investigation of 3D Systems Corp. - Robbins LLP",
+              "snippet": "On this news, 3D Systems stock price fell $7.62 per share, or almost 20%, to close at $31.17 per share on March 2, 2021. If you purchased or otherwise acquired shares of 3D Systems Corp. (DDD) between May 6, 2020 and March 1, 2021, you have until June 8, 2021, to ask the court to appoint you lead plaintiff for the class.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151858+00:00",
+              "published_date": null,
+              "source_hash": "bf4381da224472554d59fab3697a945d"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "3D Systems Corp. Securities Litigation. Case Summary. Case Status: SETTLED \u2014On or around 01/04/2024 (Date of order of final judgment) ... 3D Systems lacked proper internal controls over financial reporting; and (2) as a result, 3D Systems' public statements were materially false and/or misleading at all relevant times.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139184+00:00",
+              "published_date": null,
+              "source_hash": "14ecd19abe9da9f5d15ee88116126d93"
+            },
+            {
+              "url": "",
+              "title": "3D Systems, Investors Get Sign-Off for $4 Million Settlement",
+              "snippet": "3D Systems Corp. is approved to pay a class of shareholders $4 million to resolve claims that it misled investors about \"righting the ship\" after a \"reckless acquisition strategy\" that led to operational chaos. The deal merits final approval, Judge Nicholas G. Garaufis said for the US District Court for the Eastern District of New York.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139199+00:00",
+              "published_date": null,
+              "source_hash": "b1a0057a5298183161ea22271f2bb2be"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Robbins LLP Announces That 3D Systems Corp. (DDD) is ...",
+              "snippet": "If you purchased shares of 3D Systems Corp. (DDD) between May 6, 2020 and March 1, 2021, you have until June 8, 2021, to ask the court to appoint you lead plaintiff for the class. All ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139208+00:00",
+              "published_date": null,
+              "source_hash": "5a4cd1b53264715b153ddd9bb3f22716"
+            },
+            {
+              "url": "",
+              "title": "3D Systems: Strategic Missteps Uncovered (NYSE:DDD)",
+              "snippet": "3D Systems revenues experienced a downward trend between FY17 and FY22, with two major drops: the first occurred in FY20 at $557m (-12.3% compared to FY19), and the second in FY22, at $538m ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:11.139217+00:00",
+              "published_date": null,
+              "source_hash": "589a7f334addbec40df4a15173d6eeea"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp (DDD) Stock Settles at $3.39: What's Contributing to This Price Point?",
+              "snippet": "On Friday, 3D Systems Corp (DDD) stock saw a modest uptick, ending the day at $3.39 which represents a slight increase of $0.19 or 5.94% from the prior close of $3.2. The stock opened at $3.2 and touched a low of $3.2 during the day, reaching a high of $3.48. The volume of shares traded was 2.91 million exceeding the average volume of 2.65 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:22.830541+00:00",
+              "published_date": "2025-01-04T13:53:00+00:00",
+              "source_hash": "e0bdaf068371750f093434744ea68e01"
+            },
+            {
+              "url": "",
+              "title": "DDD's Latest Twist: What's Fueling the Unexpected Shifts in 3D Systems Corp's Stock Price?",
+              "snippet": "On Tuesday, 3D Systems Corp (DDD) stock saw a modest uptick, ending the day at $3.28 which represents no change from the prior close of of $3.28. The stock opened at $3.29 and touched a low of $3.24 during the day, reaching a high of $3.38. The volume of shares traded was 2.01 million falling short of the average volume of 2.65 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:13.581747+00:00",
+              "published_date": "2025-01-01T21:13:00+00:00",
+              "source_hash": "6f0699218bb9148a784a20dc9bd32e6c"
+            },
+            {
+              "url": "",
+              "title": "Why 3D Systems (DDD) Is One of the Best Technology Penny Stocks to Buy According to Hedge Funds?",
+              "snippet": "We recently published a list of 12 Best Technology Penny Stocks To Buy According to Hedge Funds. In this article, we are going to look at where 3D Systems Corporation (NYSE:DDD) stands against other best technology penny stocks to buy according to hedge funds.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:13.581782+00:00",
+              "published_date": "2024-12-27T10:02:55+00:00",
+              "source_hash": "84206e3d45003b7382ca7116212729b7"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp Faces Challenges Amid Revenue Decline",
+              "snippet": "In its third quarter financial report for 2024, 3D Systems Corp revealed a challenging period with a 9% decrease in revenue year-over-year, primarily due to weak printer sales. However ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:13.581807+00:00",
+              "published_date": "2024-11-28T03:52:00+00:00",
+              "source_hash": "83f4b6afcc771c69aa6ce2893a2019d9"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corporation (DDD)",
+              "snippet": "In this article, we are going to look at where 3D Systems Corporation (NYSE:DDD) stands against other best technology penny stocks to buy according to hedge funds. The Russell 2000, a benchmark ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "3D Systems Corp 3D Systems Corp financial performance controversies",
+              "retrieved_at": "2025-01-06T16:09:13.581830+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "4ae59aba028d250e93a19e5d5e87ae5b"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corporation - Decision Summary - Casetext",
+              "snippet": "By National Labor Relations Board Jun 27, 2013 3D Systems Corporation ( 28-CA-088182 ) Gold Canyon AZ, June 20, 2013.The Board denied the respondent's motion for summary judgment, but held that the respondent has the right to raise its arguments before the administrative law judge at hearing.Charge filed by an individual.Chairman Pearce and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151697+00:00",
+              "published_date": null,
+              "source_hash": "772719a1b685fc18b13c4877b563d44a"
+            },
+            {
+              "url": "",
+              "title": "U.S. Department of State Concludes $20,000,000 Settlement of Alleged ...",
+              "snippet": "The U.S. Department of State has concluded an administrative settlement with 3D Systems Corporation (3D) of Rock Hill, South Carolina, to resolve alleged violations of the Arms Export Control Act (AECA), 22 U.S.C. \u00a7 2751 et seq., and the International Traffic in Arms Regulations (ITAR), 22 C.F.R. Parts 120-130. The Department of State and 3D [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151759+00:00",
+              "published_date": null,
+              "source_hash": "a2cd5e94e30ce1b494565a20ec56fd9c"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp to Settle $4.5 Million False Claims Allegations",
+              "snippet": "3D Systems Corporation, a South Carolina-based 3D printing company, has agreed to pay the US up to $4.54 million to resolve allegations that it violated the False Claims Act, the US Attorney for the Northern District of Texas said Monday.. The company allegedly violated the law by improperly transferring export-controlled data from the US to China in violation of the export control laws in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151779+00:00",
+              "published_date": null,
+              "source_hash": "598f65e3252c3871acec6db56dd35874"
+            },
+            {
+              "url": "",
+              "title": "3D Systems ordered to pay up to $27 million after allegedly sending ...",
+              "snippet": "South Carolina based additive manufacturing company 3D Systems has recently reached settlements with three U.S. government departments to pay substantial fines of up to $27 million. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151793+00:00",
+              "published_date": null,
+              "source_hash": "112feed154c43959ba14e13f3fd74689"
+            },
+            {
+              "url": "",
+              "title": "DSM Desotech Inc. v. 3D Systems Corp. - Casetext",
+              "snippet": "Read DSM Desotech Inc. v. 3D Systems Corp., No. 08 CV 1531, see flags on bad law, and search Casetext's comprehensive legal database ... 3DS's contracting and licensing practices amount to an unlawful restraint of trade and attempted monopolization of the SL resin market in violation of sections 1 and 2 of the Sherman Act, ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151805+00:00",
+              "published_date": null,
+              "source_hash": "95d39a817d5d4b9518ba409f9e86e538"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp. Securities Litigation - Strategic Claims Services",
+              "snippet": "3D Systems Corp. Securities Litigation August 10, 2023 Active Cases. Status The distribution has been sent. Claims Filing Deadline October 24, 2023. Exclusion Deadline October 24, 2023. Objection Deadline October 24, 2023. Notice to Appear Deadline November 11, 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151828+00:00",
+              "published_date": null,
+              "source_hash": "99c61744a27de8fb214a9e5c4f7cd014"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "3D Systems Corp. Securities Litigation. Case Summary. Case Status: SETTLED \u2014On or around 01/04/2024 (Date of order of final judgment) Current/Last Presiding Judge: Hon. Nicholas G. Garaufis Filing Date: April 09, 2021. According to the Complaint, 3D Systems Corp. provides comprehensive 3D printing and digital manufacturing solutions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151845+00:00",
+              "published_date": null,
+              "source_hash": "46a298225026a7e295c498410ddcaf46"
+            },
+            {
+              "url": "",
+              "title": "BIS Imposes $2.77 Million Penalty On 3d Printing Company For Exports To ...",
+              "snippet": "WASHINGTON, D.C. - Today, as part of a settlement agreement, the Bureau of Industry and Security (BIS) issued an order imposing an administrative penalty of $2,777,750 on 3D Systems Corp. (3D Systems). 3D Systems is also required to retain a third-party consultant and to complete two audits of its export controls compliance program. This settlement resolves the allegations set forth in a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "3D Systems Corp 3D Systems Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:09:15.151869+00:00",
+              "published_date": null,
+              "source_hash": "86b70ea84753fa9b2e1960a17b7595d4"
+            },
+            {
+              "url": "",
+              "title": "Make an Impact - 3D Systems",
+              "snippet": "Make an Impact Sustainability. See Documents. Innovating for a Sustainable World 3D Systems recognizes that sustainability is important to how we do business. The context in which our business operates is transforming due to the effects of climate change and heightened social, economic, and health challenges around the globe. ... The Company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217135+00:00",
+              "published_date": null,
+              "source_hash": "e771c50c23d6f8b31ed525c0362d9a09"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Announces Launch of Environmental, Social & Governance ...",
+              "snippet": "The 3D Systems ESG initiative includes three areas which are core to the company's daily operations: Environmental Responsibility highlights the commitment to identifying and advocating for more sustainable options to reduce 3D Systems' and its customers' effect on the environment by replacing, optimizing, and creating processes that will ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217245+00:00",
+              "published_date": null,
+              "source_hash": "2fa4ac9c5fa32eb72944b406e0e22e8b"
+            },
+            {
+              "url": "",
+              "title": "Climate - 3D Systems",
+              "snippet": "Board Oversight: Our enterprise sustainability program is overseen by the Corporate Governance and Sustainability Committee (the \"committee\") of our Board of Directors.This committee has primary responsibility to review and monitor 3D Systems' sustainability strategy, environmental, social, and governance priorities with alignment to business strategy, and program progress in support of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217261+00:00",
+              "published_date": null,
+              "source_hash": "1bfafd0f817221485f78560055f0a1eb"
+            },
+            {
+              "url": "",
+              "title": "3D Systems (DDD) ESG Score and Rating 2025 - MarketBeat",
+              "snippet": "It details both the negative and positive impacts a company has on the environment, health of people, society and knowledge, and forms a net sum of these costs and gains based on the economic costs of each impact category. ... 3D Systems has a net impact ratio of 5.0%, indicating an overall positive sustainability impact. 3d Systems seems to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217272+00:00",
+              "published_date": null,
+              "source_hash": "a503a3bdf7c2ca44d3a5f1488b992116"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Launches Environmental, Social and Governance Initiative",
+              "snippet": "3D Systems has launched its Environmental, Social and Governance (ESG) initiative\u2014formalizing its commitment to taking action on global environmental, social and health issues. \"3D Systems was founded on a spirit of innovation, and the work we do makes an impact on businesses, people's lives and our environment,\" says Dr. Jeffrey Graves, president, and CEO, 3D Systems.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217282+00:00",
+              "published_date": null,
+              "source_hash": "284ae533ebbc505d5b9e02c7821e47d8"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Announces Launch of Environmental, Social & Governance ...",
+              "snippet": "ROCK HILL, S.C., Dec. 10, 2020 (GLOBE NEWSWIRE) -- 3D Systems (NYSE:DDD) today announced the launch of its Environmental, Social & Governance (ESG) initiative - formalizing its commitment to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217298+00:00",
+              "published_date": null,
+              "source_hash": "babdb1c379ac6c4071018e6fe6133730"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp. ESG Risk Rating - Sustainalytics",
+              "snippet": "3D Systems Corp provides comprehensive 3D printing and digital manufacturing solutions, including 3D printers for plastics and metals, materials, software, on-demand manufacturing services, and digital design tools. The company's segments include Healthcare Solutions and Industrial Solutions. It generates maximum revenue from the Industrial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217308+00:00",
+              "published_date": null,
+              "source_hash": "4a8dfe1566a4b46a899e9dea3e654320"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corporation ESG Profile (DDD): Is It Sustainable?",
+              "snippet": "Discover the ESG profile of 3D Systems Corporation (DDD) and explore its sustainability. Learn how the company is making a positive impact on the environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217318+00:00",
+              "published_date": null,
+              "source_hash": "c231313bd768e07c4a1623cee8ba540f"
+            },
+            {
+              "url": "",
+              "title": "ESG & sustainability info for 3D Systems Corporation | ESG Ratings",
+              "snippet": "ESG ratings, impact investing and sustainability data for 3D Systems Corporation, Computers & Peripherals and USA. Environment Employees Community Governance. 3D Systems is a global company delivering advanced solid imaging solutions to every major market around the world. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217327+00:00",
+              "published_date": null,
+              "source_hash": "47c2ba4afadade9d3253c12e0c2df323"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corporation SWOT and Financial Analysis Quaintel Research",
+              "snippet": "3D Systems Corporation's Strategic Standing:-The report presents a comprehensive assessment of the 3D Systems Corporation's strategic standing, incorporating key elements such as ESG (Environmental, Social, and Governance) spotlight, SWOT Analysis and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:19.217338+00:00",
+              "published_date": null,
+              "source_hash": "d4f54636490d691bdd210a190b29d74f"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp SYV",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:22.830503+00:00",
+              "published_date": "2024-11-07T00:00:00+00:00",
+              "source_hash": "cc48f9cd7beef1c71c633eed8ce50977"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corporation (DDD)",
+              "snippet": "3D Systems to sell Geomagic\u00ae reverse engineering, design, and inspection software portfolio to Hexagon for $123 million, with closure anticipated in first half of 2025Company will sharpen its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:22.830551+00:00",
+              "published_date": "2024-12-28T00:00:00+00:00",
+              "source_hash": "0c3c9651258cfcbe5c1d25e9e7aecb98"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp.",
+              "snippet": "The top executive of additive manufacturing equipment maker 3D Systems Corp. has stepped down, as the company suffers from an ongoing slide in its stock price. Advocates for additive manufacturing ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:22.830559+00:00",
+              "published_date": "2022-11-22T18:16:00+00:00",
+              "source_hash": "3541231c86e06e93d6912e956a46555e"
+            },
+            {
+              "url": "",
+              "title": "3D Systems Corp DDD",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "3D Systems Corp 3D Systems Corp sustainability and environmental impact",
+              "retrieved_at": "2025-01-06T16:09:22.830565+00:00",
+              "published_date": "2021-07-19T17:28:00+00:00",
+              "source_hash": "8c5900ca6688da04ab3922f1168b0f30"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "3D Systems Corp financial performance controversies",
+              "rationale": "Investigate historical financial volatility and legal disputes",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "3D Systems Corp labor practices controversies",
+              "rationale": "Examine potential issues related to workforce treatment and ethical concerns",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "3D Systems Corp sustainability and environmental impact",
+              "rationale": "Assess the company's environmental practices and any related controversies",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:09:42.169482",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

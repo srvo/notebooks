@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:30:22.551346",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "StoneCo Ltd",
+      "symbol": "STNE",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal risks due to ongoing investigations and class action lawsuits",
+            "Economic volatility in Brazil, including currency fluctuations and inflation",
+            "Credit risk from high delinquency rates and suspension of credit products",
+            "Intense competition in Brazil's fintech sector",
+            "Operational inefficiencies and customer service issues"
+          ],
+          "controversies": [
+            "Class action lawsuit alleging misleading business prospects and credit product delinquency rates",
+            "Warren Buffett's Berkshire Hathaway selling its position in StoneCo"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer service issues affecting reputation and retention"
+          ],
+          "governance_issues": [
+            "Allegations of misleading investors about business prospects",
+            "Regulatory scrutiny in Brazil's financial sector"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Investigation of StoneCo Ltd. - Robbins LLP",
+              "snippet": "A class action was filed on behalf of all persons and entities that purchased StoneCo Ltd. (NASDAQ: STNE) securities between March 11, 2021 and November 16, 2021. The complaint alleges violations of the Securities Exchange Act of 1934. ... online, and mobile channels, primarily in Brazil. According to the complaint, during the class period ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012214+00:00",
+              "published_date": null,
+              "source_hash": "79644570acf671210746a8265ffa3b8c"
+            },
+            {
+              "url": "",
+              "title": "Warren Buffett Just Sold Out of StoneCo Stock. Should You Buy It?",
+              "snippet": "The 2023 fourth-quarter filing was released last week, and it showed that Berkshire Hathaway sold out of four positions -- Markel, Global Life, D.R. Horton, and StoneCo (STNE-0.86%).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012318+00:00",
+              "published_date": null,
+              "source_hash": "b4bef42d4c3922bf4665b2ed67fd2c6d"
+            },
+            {
+              "url": "",
+              "title": "StoneCo: Time To Be Greedy (NASDAQ:STNE) - Seeking Alpha",
+              "snippet": "StoneCo's stock has plummeted 50% over the past year, largely due to rising interest rates in Brazil, not necessarily company-specific issues. Despite the macroeconomic headwinds, StoneCo remains ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012332+00:00",
+              "published_date": null,
+              "source_hash": "c860e9456aafff8ceb796750e7556005"
+            },
+            {
+              "url": "",
+              "title": "Ray v. StoneCo Ltd. | Ongoing | Labaton Keller Sucharow",
+              "snippet": "This decision marks a significant step forward in holding StoneCo accountable for its actions and allows the case to move forward into discovery. The case is Ray v. StoneCo Ltd., et al, Case No. 1:21-cv-09620 (S.D.N.Y). Labaton Keller Sucharow represents the Indiana Public Retirement System as lead plaintiff.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012342+00:00",
+              "published_date": null,
+              "source_hash": "5546fbe1af6ad3169123eb30f4b92d30"
+            },
+            {
+              "url": "",
+              "title": "SEC.gov | HOME",
+              "snippet": "StoneCo Ltd. is refiling such document pursuant to Rule 425 under the Securities Act of 1933: UNITED STATES SECURITIES AND EXCHANGE COMMISSION ... Compliance Officer of Buyer: Brazil: Vin\u00edcius do Nascimento Carrasco Governmental Relations Officer of Buyer: ... Chief Economist & Regulatory Affairs Executive Officer of StoneCo: Brazil: Lia ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012352+00:00",
+              "published_date": null,
+              "source_hash": "9499b91d46316e128e26ee64062d3c58"
+            },
+            {
+              "url": "",
+              "title": "StoneCo: The Big Picture (NASDAQ:STNE) - Seeking Alpha",
+              "snippet": "StoneCo Ltd. (NASDAQ:STNE) caught ... in Brazil but a few recent regulatory decisions suggest the country is embracing the Fintech sector, which is encouraging news for StoneCo. Before 2010 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012364+00:00",
+              "published_date": null,
+              "source_hash": "d4104987d2d041ba57ef2250794d0a2a"
+            },
+            {
+              "url": "",
+              "title": "Rival bidder threatens StoneCo's ambition to marry payments and ...",
+              "snippet": "StoneCo Ltd. shares surged after the Brazilian payment service provider announced a deal to acquire retail software company Linx SA; but completion of the transaction is becoming increasingly uncertain amid a rival bid, some shareholder criticism and regulatory investigations.. At 6.04 billion reais, analysts say StoneCo's offer is pricey even if Linx represents a highly strategic target that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012373+00:00",
+              "published_date": null,
+              "source_hash": "a417c66faacae96cb7043dd490304cf1"
+            },
+            {
+              "url": "",
+              "title": "StoneCo stock drops after regulatory change results in higher ...",
+              "snippet": "StoneCo (STNE) stock dips 3.9% after the Brazilian fintech discloses that it's seeing higher delinquencies than it expected and observed in prior periods due to a regulatory change in...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012383+00:00",
+              "published_date": null,
+              "source_hash": "93862fbd25decc3be27226c2f1858d01"
+            },
+            {
+              "url": "",
+              "title": "StoneCo. Ltd - EverybodyWiki Bios & Wiki",
+              "snippet": "StoneCo. Ltd is a Brazilian fintech of payment, offering multibrand acquiring services through POS (point of sales), therefore payment processing credit and debit transactions and financial services across the intire Brazil's territory.. StoneCo. Ltd also operates in the Brazilian stock market since 2014 and made its initial public offering on NASDAQ in 2018..",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012392+00:00",
+              "published_date": null,
+              "source_hash": "1b841afef7ae35be36823300a76a16a3"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Announces SCFI License - Markets Insider",
+              "snippet": "StoneCo is a leading provider of financial technology and software solutions that empower merchants to conduct commerce seamlessly across multiple channels and help them grow their businesses ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:52.012404+00:00",
+              "published_date": null,
+              "source_hash": "eeb3153bb55b4325ac45cc6e829437a1"
+            },
+            {
+              "url": "",
+              "title": "StoneCo: Time To Be Greedy",
+              "snippet": "StoneCo's stock has plummeted 50% over the past year, largely due to rising interest rates in Brazil. Read why I remain bullish on STNE stock.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:54.566645+00:00",
+              "published_date": "2025-01-06T11:03:00+00:00",
+              "source_hash": "7aaca0ca062fc3cbb140e4b2d290ba8a"
+            },
+            {
+              "url": "",
+              "title": "StoneCo: Hitting A Stone Wall Hurts",
+              "snippet": "StoneCo faces challenges from Brazil's volatile economy and increased competition, leading to a cautious investment stance despite improved fundamentals and valuation. The company's revenue grew 7% yoy, with a 39% yoy EPS increase, but competition and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:54.566747+00:00",
+              "published_date": "2024-12-31T22:34:00+00:00",
+              "source_hash": "6b49257a272f1e2ec6284ea0a7e8827d"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd - Class A",
+              "snippet": "StoneCo Ltd. is a leading provider of financial technology and software solutions in Brazil, focusing on helping merchants and integrated partners to seamlessly conduct business both online and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:54.566778+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "ea050ff01580507c88ba83f643174238"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd. (STNE): Navigating Challenges and Achieving Financial Milestones",
+              "snippet": "\"StoneCo Ltd. (NASDAQ:STNE) provides solutions that enable merchants and integrated partners to conduct electronic commerce seamlessly across in-store, online, and mobile channels in Brazil.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:54.566802+00:00",
+              "published_date": "2024-12-06T20:05:00+00:00",
+              "source_hash": "2f638be52e70586831baebe1a35f3548"
+            },
+            {
+              "url": "",
+              "title": "StoneCo's SWOT analysis: fintech firm's stock faces growth challenges",
+              "snippet": "StoneCo Ltd. continues to navigate a complex and competitive fintech landscape in Brazil. While the company has demonstrated strengths in profitability and credit growth, it faces challenges in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd regulatory compliance issues Brazil",
+              "retrieved_at": "2025-01-06T16:29:54.566826+00:00",
+              "published_date": "2024-12-15T07:28:00+00:00",
+              "source_hash": "cd505830d2e69c9257b062b067f0d7d6"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd. ESG Risk Rating - Sustainalytics",
+              "snippet": "View the ESG Risk Rating for StoneCo Ltd. See Sustainalytics' high-quality public ESG risk ratings for over 10,000 companies. ... digital banking, and credit solutions, focusing Ton solution mainly on micro-merchants, and Stone solution on SMBs. In Software, it offers POS and ERP solutions for different retail and services verticals, Customer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209365+00:00",
+              "published_date": null,
+              "source_hash": "36cd72b3ad87ba90f7cd31ea23bae4eb"
+            },
+            {
+              "url": "",
+              "title": "Key Risk Factors - Stone CO IR",
+              "snippet": "Main risk factors of StoneCo based on the Company\u00b4s 20-F. Investor Relations. A+ A-Contrast Accessibility. Contrast. A+ A- ... We may not be able to effectively manage individual or institutional credit risk, or credit trends that can affect spending on card products and the ability of customers and partners to pay us, which could have a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209469+00:00",
+              "published_date": null,
+              "source_hash": "b538b6b863253a977ca45d9d8c333fcb"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down StoneCo Ltd. (STNE) Financial Health: Key Insights for ...",
+              "snippet": "[relinking] Home Revenue Analysis Profitability Metrics Debt vs. Equity Liquidity and Solvency Valuation Analysis Risk Factors Growth Opportunities Understanding StoneCo Ltd. (STNE) Revenue StreamsRevenue Analysis In analyzing the revenue streams of StoneCo Ltd. (STNE), it's crucial to break down the primary sources of income. The company's revenue is primarily generated from the following ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209486+00:00",
+              "published_date": null,
+              "source_hash": "163baa1e22cdf5b391ac1729937051fc"
+            },
+            {
+              "url": "",
+              "title": "Is It Too Late to Buy StoneCo Ltd. Stock? | The Motley Fool",
+              "snippet": "You can decide whether StoneCo's credit exposure ruins your appetite for shares. At the very least, investors should exercise some caution. Shares currently look cheap at just 12 times this year's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209497+00:00",
+              "published_date": null,
+              "source_hash": "af05f6bc82ed6da044b202d24959c58e"
+            },
+            {
+              "url": "",
+              "title": "Stone Raises Funding for Its Credit Solution, Advancing in - GlobeNewswire",
+              "snippet": "Stone Raises Funding for Its Credit Solution, Advancing in the Strategic Roadmap of Its Full Financial Platform While Limiting Credit Risk Exposure January 14, 2021 07:48 ET | Source: StoneCo Ltd.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209510+00:00",
+              "published_date": null,
+              "source_hash": "79d0cc4a5a93ba950ba11640cb617fe3"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Q4 Earnings: I Made A Mistake (Rating Downgrade)",
+              "snippet": "StoneCo's cautious approach to scaling credit and other services aligns with a prudent risk management strategy, but getting its banking license will increase the amount of regulation the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209519+00:00",
+              "published_date": null,
+              "source_hash": "95d002c467a5f9451f5336df16816ec7"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd.: Fundamental Analysis and Financial Ratings | STNE ...",
+              "snippet": "Ratings StoneCo Ltd. Equities STNE KYG851581069 Financial Technology (Fintech) Market Closed - Nasdaq. Other stock markets. 04:00:00 2024-12-06 pm EST 5-day change 1st Jan Change ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209530+00:00",
+              "published_date": null,
+              "source_hash": "ab0b43b849eb316ce75a38c39c5d776d"
+            },
+            {
+              "url": "",
+              "title": "STNE Stock Price Quote | Morningstar",
+              "snippet": "StoneCo Ltd. to Announce Third Quarter 2024 Financial Results on November 12th, 2024 ... and credit solutions, focusing Ton solution mainly on micro-merchants, and Stone solution on SMBs. In ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209538+00:00",
+              "published_date": null,
+              "source_hash": "085c40a7f447e31c48edbae994ccd27d"
+            },
+            {
+              "url": "",
+              "title": "Commercial Credit Report for StoneCo Ltd - Report Preview",
+              "snippet": "Credit Risk Monitor's data & AI-powered financial risk analytics allow access to bankruptcy risk scores, credit ratings, financial statements, and much more ... StoneCo Ltd: 4th Floor: Harbour Place, 103 South Church Street, Phone: +55 1130049680 p:+55 1130049680: GRAND CAYMAN, KY1-1002 Cayman Islands: Ticker: STNE STNE:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209548+00:00",
+              "published_date": null,
+              "source_hash": "f737f2d5e6672a2bda5a69e2493a335f"
+            },
+            {
+              "url": "",
+              "title": "GlobeNewsWire - StoneCo (STNE) Stone Raises Funding for Its Credit ...",
+              "snippet": "Stone Raises Funding for Its Credit Solution, Advancing in the Strategic Roadmap of Its Full Financial Platform While Limiting Credit Risk Exposure S\u00c3O PAULO, Brazil, Jan. 14, 2021 (GLOBE NEWSWIRE) -- StoneCo Ltd. (Nasdaq: STNE) (\"Stone\"), a leading provider of financial technology solutions that empower merchants to conduct commerce seamlessly across multiple channels, today announces ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:56.209558+00:00",
+              "published_date": null,
+              "source_hash": "b7e2df640098a364323c0837dbb1dbe6"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd (STNE) Stock Dilemma: A Drop That Has Everyone Talking\u2014What's the Real Story?",
+              "snippet": "StoneCo Ltd (STNE) stock saw a decline, ending the day at $8.03 which represents a decrease of $-0.07 or -0.86% from the prior close of $8.1. The stock opened at $8.12 and touched a low of $8.01 during the day,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:59.564885+00:00",
+              "published_date": "2025-01-04T21:05:00+00:00",
+              "source_hash": "64bada9ea2b726d2bedfcb44e3751fce"
+            },
+            {
+              "url": "",
+              "title": "Expert Outlook: StoneCo Through The Eyes Of 4 Analysts",
+              "snippet": "StoneCo Ltd is a provider of ... digital banking, and credit solutions, focusing Ton solution mainly on micro-merchants, and Stone solution on SMBs. In Software, it offers POS and ERP solutions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:59.565000+00:00",
+              "published_date": "2024-12-16T15:00:00+00:00",
+              "source_hash": "da4c1d3b4d027379ee16617d55abb37a"
+            },
+            {
+              "url": "",
+              "title": "Demystifying StoneCo: Insights From 4 Analyst Reviews",
+              "snippet": "StoneCo Ltd is a provider of ... digital banking, and credit solutions, focusing Ton solution mainly on micro-merchants, and Stone solution on SMBs. In Software, it offers POS and ERP solutions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:59.565032+00:00",
+              "published_date": "2024-11-13T17:01:00+00:00",
+              "source_hash": "77e00c24dfb752e6be700bfdf9982dbf"
+            },
+            {
+              "url": "",
+              "title": "Why Did StoneCo Ltd (STNE) Stock See -25.90% Plunge in the Last 90 Days?",
+              "snippet": "On Tuesday, StoneCo Ltd (STNE) stock saw a decline, ending the day at $8.08 which represents a decrease of $-0.01 or -0.12% from the prior close of $8.09. The stock opened at $8.13 and touched a low of $8.01 during the day, reaching a high of $8.13. The volume of shares traded was 2.00 million falling short of the average volume of 4.99 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:59.565057+00:00",
+              "published_date": "2024-12-26T20:27:00+00:00",
+              "source_hash": "8518804c1a62b618e5c004279145558a"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd. (STNE): Among the Oversold Growth Stocks to Invest In",
+              "snippet": "S&P Global mentioned that a risk ... credit offerings, and developing its software solutions. The accelerated adoption of PIX in Brazil offers both challenges and opportunities for StoneCo Ltd ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "StoneCo Ltd StoneCo Ltd credit risk exposure SMBs",
+              "retrieved_at": "2025-01-06T16:29:59.565083+00:00",
+              "published_date": "2024-10-20T02:12:00+00:00",
+              "source_hash": "358c8f116570aa4e0f92e89b0813cf78"
+            },
+            {
+              "url": "",
+              "title": "Investigation of StoneCo Ltd. - Robbins LLP",
+              "snippet": "StoneCo Ltd. (STNE) Misled Investors Regarding its Business Prospects ... STNE) securities between March 11, 2021 and November 16, 2021. The complaint alleges violations of the Securities Exchange Act of 1934. StoneCo is a provider of financial technology solutions, which allow merchants and other vendors to conduct electronic commerce across ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456431+00:00",
+              "published_date": null,
+              "source_hash": "4ed797f53d42b440ad58cb687c329c0f"
+            },
+            {
+              "url": "",
+              "title": "Ray v. StoneCo Ltd. | Ongoing | Labaton Keller Sucharow",
+              "snippet": "The Complaint also alleges that StoneCo falsely blamed the rise in delinquency rates on new regulations and COVID-19 restrictions. In late 2021, StoneCo finally disclosed that it suspended the credit product due to the high delinquency rates and significantly reduced the Company's financial outlook. ... StoneCo Ltd., et al, Case No. 1:21-cv ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456520+00:00",
+              "published_date": null,
+              "source_hash": "5750244a043cbbf2cc604aed1b1f4367"
+            },
+            {
+              "url": "",
+              "title": "STONECO LTD. (NASDAQ:STNE) SHAREHOLDER CLASS ACTION ALERT: Bernstein ...",
+              "snippet": "If you purchased or otherwise acquired StoneCo securities, and/or would like to discuss your legal rights and options, please visit Stoneco Ltd Shareholder Class Action Lawsuit or contact Joe ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456534+00:00",
+              "published_date": null,
+              "source_hash": "fcbda53a2afde17d68c129e4307b86a1"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "Specifically, the Complaint alleges Defendants failed to disclose to investors: (1) that StoneCo was experiencing difficulties in implementing its credit product; (2) that StoneCo faced significant risks via its point-of-sale vendor, PAX Global Technology Ltd.; (3) that, as a result of the foregoing, the Company's financial results would be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456547+00:00",
+              "published_date": null,
+              "source_hash": "3c2ac8c87fc8f8b525fd78287d7954d5"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. | StoneCo Ltd. - bespc.com",
+              "snippet": "Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, announces that a class action lawsuit has been filed against StoneCo Ltd. (\"StoneCo\" or the \"Company\") (NASDAQ: STNE) in the United States District Court for the Southern District of New York on behalf of all persons and entities who purchased or otherwise acquired StoneCo securities between May 11, 2021 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456559+00:00",
+              "published_date": null,
+              "source_hash": "ed3358237fd16a4273de89fb441b851d"
+            },
+            {
+              "url": "",
+              "title": "Demystifying StoneCo: Insights From 4 Analyst Reviews",
+              "snippet": "StoneCo Ltd is a provider of financial technology solutions. It serves MSMBs great solutions, at fair prices, and provides the customer experience to help them manage their businesses and sell more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456570+00:00",
+              "published_date": null,
+              "source_hash": "4515a80ffcfef5b57edaad2a31521456"
+            },
+            {
+              "url": "",
+              "title": "Stoneco Reviews, Complaints, Customer Service - Revdex.com",
+              "snippet": "Stoneco consumer reviews, complaints, customer service. Customer service contacts and company information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456579+00:00",
+              "published_date": null,
+              "source_hash": "d50b83ede8028d5128bcfbeb3ea8ed12"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Ltd. - AnnualReports.com",
+              "snippet": "StoneCo Ltd. Ticker STNE. Exchange NASDAQ More. Industry Application ... a deep client-centric culture that seeks to delight Their clients rather than to simply provide them with a solution or service. ... StoneCo Ltd. reports have an aggregate usefulness score of 4.8 based on 130 reviews. StoneCo Ltd. Most Recent Annual Report. MOST RECENT ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456588+00:00",
+              "published_date": null,
+              "source_hash": "597fb6ebe5ff52995aeffebe4d5a835c"
+            },
+            {
+              "url": "",
+              "title": "Expert Outlook: StoneCo Through The Eyes Of 4 Analysts",
+              "snippet": "StoneCo Ltd is a provider of financial technology solutions. It serves MSMBs great solutions, at fair prices, and provides the customer experience to help them manage their businesses and sell more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456599+00:00",
+              "published_date": null,
+              "source_hash": "4ce2d5a36e2ed59f5b490ea5928c411d"
+            },
+            {
+              "url": "",
+              "title": "StoneCo Reviews | Contact StoneCo - 0 TrustIndex - hellopeter.com",
+              "snippet": "StoneCo reviews, customer feedback & support. Contact & review StoneCo ... Advertising presented to you on this service can be based on limited data, such as the website or app you are using, your non-precise location, your device type or which content you are (or have been) interacting with (for example, to limit the number of times an ad is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "StoneCo Ltd StoneCo Ltd customer service complaints",
+              "retrieved_at": "2025-01-06T16:30:02.456608+00:00",
+              "published_date": null,
+              "source_hash": "75470d3ba48520be86c5f8d6be822204"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "StoneCo Ltd regulatory compliance issues Brazil",
+              "rationale": "Investigate potential legal and regulatory challenges in Brazil's financial sector",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "StoneCo Ltd credit risk exposure SMBs",
+              "rationale": "Assess risks related to credit services and potential defaults among small and medium-sized businesses",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "StoneCo Ltd customer service complaints",
+              "rationale": "Explore operational challenges and customer dissatisfaction impacting reputation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:30:22.551353",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

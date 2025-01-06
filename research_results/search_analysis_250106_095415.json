@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:54:15.753990",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Adapthealth Corp",
+      "symbol": "AHCO",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and regulatory risks including class action lawsuits and potential changes in Medicare/Medicaid reimbursement policies",
+            "Operational risks such as integration challenges from rapid acquisitions and supply chain vulnerabilities",
+            "Market and competitive risks due to intense competition and heavy reliance on payer reimbursements"
+          ],
+          "controversies": [
+            "Class action lawsuits alleging securities fraud related to artificially inflated stock prices",
+            "Data breach incident involving a vendor, Philips Respironics, exposing patient data"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data security concerns and potential erosion of patient trust due to the data breach incident"
+          ],
+          "governance_issues": [
+            "Executive compensation adjustments signaling potential internal financial pressures or restructuring efforts"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": " Allegheny County Employees' Retirement System v. AdaptHealth Corp.",
+              "snippet": "AdaptHealth Corp. (\"AdaptHealth\" or the \"Company\"), certain of the Company's current and former senior executives and directors, and certain underwriters of the Company's secondary public offering conducted on or around January 5, 2021 (the \"SPO\"). The action is brough on behalf of all persons or entities who purchased or",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308410+00:00",
+              "published_date": null,
+              "source_hash": "0acd165e12480addbaec4e5ce220343f"
+            },
+            {
+              "url": "",
+              "title": "Class action filed against AdaptHealth - HME News",
+              "snippet": "As a result, AdaptHealth common stock traded at artificially inflated prices during the period, according to the lawsuit. AdaptHealth's alleged misconduct came to light Feb. 27, 2023, when the company announced a surprise loss of $0.02 per share for the fourth quarter of 2022, which was significantly lower than the gain of $0.27 per share ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308527+00:00",
+              "published_date": null,
+              "source_hash": "e280960ba8d40e0bd4c32dd6598de3f1"
+            },
+            {
+              "url": "",
+              "title": "In brief: Industry's warning, Philips' lawsuit, AdaptHealth's results,",
+              "snippet": "The now expired 75/25 blended Medicare reimbursement rates served as a lifeline for many HME companies in non-bid, non-rural areas and immediate intervention ... AdaptHealth's results, NSM's potential sale ... Net income attributable to AdaptHealth Corp. was $19.4 million compared to net income of $14 million, an increase of 39%. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308547+00:00",
+              "published_date": null,
+              "source_hash": "f95cec48c728ca5a48b772b5afc1279b"
+            },
+            {
+              "url": "",
+              "title": "$5.3 Million Settlement - Whistleblower Medicare Fraud",
+              "snippet": "On April 25, 2023, The Gold Law Firm P.C. announced the settlement of a landmark $5.3 million Whistleblower Medicare Fraud case against AdaptHealth LLC, formerly QMES LLC, for submitting allegedly false claims to federal healthcare programs for respiratory devices that patients did not need or use in violation of federal healthcare requirements. The settlement resolves allegations that between ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.288998+00:00",
+              "published_date": null,
+              "source_hash": "f6600c9fe73aa532da79314bca611c9d"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "According to the Complaint, AdaptHealth Corp. is a home medical equipment supplier providing devices for diabetes, sleep apnea, and wound care. AdaptHealth sells medical devices directly to patients, and then bills patients' insurance providers, including the Centers for Medicare and Medicaid Services (\"CMS\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.289036+00:00",
+              "published_date": null,
+              "source_hash": "37a9a6301ae199f7adc48ecdd2cf7056"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth - Robbins Geller Rudman & Dowd LLP",
+              "snippet": "AdaptHealth Corp. f/k/a DFB Healthcare Acquisitions Corp., et al., No. 2:21-cv-03382-HB. The parties settled this action, which was pending in the United States District Court for the Eastern District of Pennsylvania. The settlement provides for the payment of $51 million and one million shares of AdaptHealth Corp. (\"AdaptHealth\" or the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308585+00:00",
+              "published_date": null,
+              "source_hash": "c59218059291c107dc531836a0b7cb40"
+            },
+            {
+              "url": "",
+              "title": "DELAWARE COUNTY EMPLOYEES RETIREMENT SYSTEM v. ADAPTHEALTH CORP. F/K/A ...",
+              "snippet": "`As a result of AdaptHealth's alleged wrongful acts and omissions, investors ` `allegedly purchased AdaptHealth Common Stock and Options at artificially inflated prices ` `during the Class Period.12 Exhibits 1a and 1b graph the closing stock price and trading volume ` `for AdaptHealth's Common Stock shares throughout the Class Period. ` `B.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308596+00:00",
+              "published_date": null,
+              "source_hash": "67df52b1c7d6542fc347cbd27a27204d"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Derivative Settlement",
+              "snippet": "AdaptHealth Derivative Settlement . United States District Court for the Eastern District of Pennsylvania Case No. 2:21-cv-05335-GJP. IF YOU WERE A RECORD OR BENEFICIAL HOLDER OF ADAPTHEALTH CORP. COMMON STOCK AS OF JUNE 25, 2024, YOUR RIGHTS MAY BE AFFECTED BY PROCEEDINGS IN THE ABOVE-REFERENCED LITIGATION. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072917+00:00",
+              "published_date": null,
+              "source_hash": "499f557dc1979515ff7979f78b904c21"
+            },
+            {
+              "url": "",
+              "title": "Grabar Law Office Investigates Claims on Behalf of Shareholders of ...",
+              "snippet": "AdaptHealth Corp. is a home medical equipment supplier providing devices for diabetes, sleep apnea, and wound care. AdaptHealth sells medical devices directly to patients, and then bills patients' insurance providers, including the Centers for Medicare and Medicaid Services (\"CMS\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308617+00:00",
+              "published_date": null,
+              "source_hash": "915d7b43ca8b22e2139c306aea792de8"
+            },
+            {
+              "url": "",
+              "title": "In brief: AdaptHealth settlement, Quipt raise, KabaFusion investment",
+              "snippet": "PHILADELPHIA - AdaptHealth will pay $5.3 million to resolve alleged False Claims Act violations for submitting allegedly false claims to federal health care programs for respiratory devices that patients did not need or use, according to the U.S. Attorney's Office for the Eastern District of Pennsylvania.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:41.308626+00:00",
+              "published_date": null,
+              "source_hash": "2eec36895c85a2d39505403f895a4246"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Amends Agreement to Cut Executive Salary",
+              "snippet": "AdaptHealth Corp. announced an amendment to its agreement with Shaw Rietkerk, the Chief Business Officer, effectively reducing his annual base salary from $500,000 to $125,000 starting January 1 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:50.619092+00:00",
+              "published_date": "2024-12-13T10:27:00+00:00",
+              "source_hash": "bfd61c46d1f69330b1790c051a9ccd35"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. Announces Appointment of Russell Schuster as Chief Commercial Officer",
+              "snippet": "December 03, 2024--(BUSINESS WIRE)--AdaptHealth Corp. (NASDAQ ... AdaptHealth services beneficiaries of Medicare, Medicaid, and commercial insurance payors, reaching approximately 4.2 million ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:44.653604+00:00",
+              "published_date": "2024-12-03T08:00:00+00:00",
+              "source_hash": "1cef5229b7b5e624052e3d59228ffd33"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. to Participate in the BofA Securities Home Care Conference 2024",
+              "snippet": "AdaptHealth services beneficiaries of Medicare, Medicaid, and commercial insurance payors, reaching approximately 4.2 million patients annually in all 50 states through its network of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:44.653610+00:00",
+              "published_date": "2024-11-26T00:00:00+00:00",
+              "source_hash": "a7e3568bdc276242cd1550d1de175efe"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. to Participate in the Stifel 2024 Healthcare Conference",
+              "snippet": "AdaptHealth Corp. (NASDAQ: AHCO ... AdaptHealth services beneficiaries of Medicare, Medicaid, and commercial insurance payors, reaching approximately 4.2 million patients annually in all ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:44.653614+00:00",
+              "published_date": "2024-11-12T13:05:00+00:00",
+              "source_hash": "e48bb18351eb540e0295ece78e34fe6c"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. Reports Improved Third-Quarter Earnings and Updates Financial Outlook",
+              "snippet": "PLYMOUTH MEETING, PA \u2014 AdaptHealth Corp. (NASDAQ: AHCO) has released its financial results for the third quarter ending September 30, 2024, showing a slight increase in net revenue and a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "retrieved_at": "2025-01-06T16:53:44.653618+00:00",
+              "published_date": "2024-12-10T23:49:00+00:00",
+              "source_hash": "8eb896676b98a5e270d2597526908dfa"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Securities Settlement",
+              "snippet": "This website has been established to provide general information related to the proposed settlement of the case known as Delaware County Employees Retirement System, et al. v. AdaptHealth Corp. f/k/a DFB Healthcare Acquisitions Corp. et al. (the \"Action\"), No. 2:21-cv-03382-HB, pending before the United States District Court for the Eastern ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072875+00:00",
+              "published_date": null,
+              "source_hash": "e6a2fcee58892003a5d0f286de0621e9"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "to: all persons who purchased or otherwise acquired adapthealth corp. (\"adapthealth\" or the \"company\") common stock or call options on adapthealth common stock or sold put options on adapthealth common stock (\"adapthealth securities\") between november 8, 2019 and july 16, 2021, inclusive, and are not otherwise excluded from the",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072927+00:00",
+              "published_date": null,
+              "source_hash": "e61caea8c9fa6a966e1a6a88a3876787"
+            },
+            {
+              "url": "",
+              "title": "LAWSUIT FILED: AdaptHealth Corp. Sued for Securities Fraud; Investors ...",
+              "snippet": "BOSTON, Aug. 03, 2021 (GLOBE NEWSWIRE) -- Block & Leviton announces that a class action lawsuit has been filed against AdaptHealth Corp. f/k/a DFB Healthcare Acquisitions Corp. (NASDAQ: AHCO ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072935+00:00",
+              "published_date": null,
+              "source_hash": "0b014f3e4e26085a2465cf5a6521791e"
+            },
+            {
+              "url": "",
+              "title": "LAWSUIT FILED: AdaptHealth Corp. Sued for Securities Fraud; Investors ...",
+              "snippet": "Boston, Massachusetts--(Newsfile Corp. - August 5, 2021) - Block & Leviton announces that a class action lawsuit has been filed against AdaptHealth Corp. f/k/a DFB Healthcare Acquisitions Corp ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072942+00:00",
+              "published_date": null,
+              "source_hash": "ecda99e92028444ad81ea16b2a6ec2a1"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "AdaptHealth Corp. Securities Litigation. Case Summary. Case Status: ONGOING \u2014On or around 10/01/2024 (Date of last review) Current/Last Presiding Judge: Hon. Mia Roberts Perez Filing Date: October 24, 2023. According to the Complaint, AdaptHealth Corp. is a home medical equipment supplier providing devices for diabetes, sleep apnea, and wound ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072948+00:00",
+              "published_date": null,
+              "source_hash": "09e5e3389fff8520e72a340fd2bc84b8"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Investors Win Approval of $51 Million Settlement",
+              "snippet": "The deal also includes 1 million common shares of AdaptHealth, valued at over $9.8 million, and requires that the company put in place a series of corporate governance changes. Judge Harvey Bartle in the US District Court for the Eastern District of Pennsylvania gave the deal final approval Wednesday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072973+00:00",
+              "published_date": null,
+              "source_hash": "a3606e9073bf541cda87da63cf642ea3"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. Settlement | Levi & Korsinsky, LLP | Securities Class ...",
+              "snippet": "AdaptHealth Corp. Settlement (NASDAQ: AHCO) Settlement Claim Deadline: July 15, 2024 Settlement Fund: $52,000,000. Settlement Class All Persons who purchased or otherwise acquired AdaptHealth common stock or call options on AdaptHealth common stock or sold put options on AdaptHealth common stock between November 8, 2019, through and including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072980+00:00",
+              "published_date": null,
+              "source_hash": "cfb2b817ee19b789099d07a2b2d44442"
+            },
+            {
+              "url": "",
+              "title": "LAWSUIT FILED: AdaptHealth Corp. Sued for Securities Fraud; - GlobeNewswire",
+              "snippet": "On July 19, 2021 Jehoshaphat Research published a report alleging that AdaptHealth is a \"roll-up\" company, or a company that is built primarily through the acquisition of smaller companies ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072987+00:00",
+              "published_date": null,
+              "source_hash": "e528c227f98dc3639dfa3d1c740e6a2c"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. f/k/a DFB Healthcare Acquisitions Corp.",
+              "snippet": "Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of the securities of AdaptHealth Corp. f/k/a DFB Healthcare Acquisitions Corp. (NASDAQ: AHCO, AHCOW) between November 11, 2019 and July 16, 2021, inclusive (the \"Class Period\"). A class action lawsuit has already been filed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:47.072993+00:00",
+              "published_date": null,
+              "source_hash": "d5b24b2d64ff29785af4d304103fe17d"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. to Participate in the BofA Securities Home Care Conference 2024",
+              "snippet": "PLYMOUTH MEETING, Pa.--(BUSINESS WIRE)--AdaptHealth Corp. (NASDAQ: AHCO) (\"AdaptHealth\" or the \"Company\"), a national leader in providing patient-centered ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:56.731298+00:00",
+              "published_date": "2024-11-26T16:06:00+00:00",
+              "source_hash": "76c7a4880eea1d09c90984643fcb4c6d"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Names Suzanne Foster as New CEO, Aiming to Strengthen Its Market Position",
+              "snippet": "PLYMOUTH MEETING, PA \u2014 AdaptHealth Corp. (NASDAQ: AHCO) has announced the appointment of Suzanne Foster as its new Chief Executive Officer, effective May 20, 2024. Foster will take over from ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Adapthealth Corp Adapthealth Corp acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T16:53:50.619230+00:00",
+              "published_date": "2024-04-23T12:02:00+00:00",
+              "source_hash": "52f16bb8f4c47aa5fda5823838a7b858"
+            },
+            {
+              "url": "",
+              "title": "Notice of a Data Incident - AdaptHealth",
+              "snippet": "This Notice of Data Incident is posted on behalf of AdaptHealth and the health care provider entities it owns or controls that are part of the AdaptHealth HIPAA Affiliated Covered Entity, a list of which is available at here. On December 21, 2023, AdaptHealth was informed by one of our vendors, Philips Respironics (\"Philips\"), that an unknown, unauthorized party gained access to a software ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.288761+00:00",
+              "published_date": null,
+              "source_hash": "33b1e1fe464c75d45ec58b914b4ac210"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Ensured Patients Received Needed Supplies ..... 21 1. Defendants Falsely Portrayed AdaptHealth As Having Unique ... Claims Data From Around The Country Confirm ... situated persons who purchased or otherwise acquired the common stock of AdaptHealth Corp. (\"AdaptHealth\" or the \"Company\") between August 4, 2020 and November 7, 2023 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.288902+00:00",
+              "published_date": null,
+              "source_hash": "6aececced33fd2faa9e31f6f27791979"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "AdaptHealth ACE. If you have any questions about this notice, please contact: AdaptHealth, Attn: Chief Compliance Oicer 220 West Germantown Pike, Suite 250 Plymouth Meeting, PA 19462 Our obligations We are required by law to: + Maintain the privacy of protected health information. + Give you this notice of our legal duties and privacy",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.288950+00:00",
+              "published_date": null,
+              "source_hash": "8152e73c294b96ce7b367ded67bc713a"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "4. Contract Negotiation - AdaptHealth has an affirmative duty to disclose current, accurate and complete cost and pricing data where such data is required under appropriate federal or state law or regulation. Covered Persons involved in the pricing of contract proposals or the negotiation of a contract must ensure the accuracy,",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.288974+00:00",
+              "published_date": null,
+              "source_hash": "8495a06620333fadc83d13daa504f607"
+            },
+            {
+              "url": "",
+              "title": "The biggest health care data breaches you should know about ... - Stacker",
+              "snippet": "Breaches that did not include locations were not included in this analysis. Read on to see which institutions reported data breaches to the federal government in your state and explore the largest across the nation here. 1. Medical Review Institute of America network server breach - Type of breach: Hacking/IT Incident - Individuals affected ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.289069+00:00",
+              "published_date": null,
+              "source_hash": "5231e61d2cc8050e1723a96ec3e3e4e8"
+            },
+            {
+              "url": "",
+              "title": "Grabar Law Office Investigates Claims on Behalf of Shareholders of ...",
+              "snippet": "A securities class action has been filed on behalf of all persons or entities who purchased or otherwise acquired: (i) AdaptHealth (NASDAQ: AHCO) common stock during the Class Period; and/or (ii) AdaptHealth common stock pursuant and/or traceable to the Company's secondary public offering conducted on or around January 5, 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.289092+00:00",
+              "published_date": null,
+              "source_hash": "e5603ccbab31ba64dbb6024a27761781"
+            },
+            {
+              "url": "",
+              "title": "Class action filed against AdaptHealth - HME News",
+              "snippet": "AdaptHealth's alleged misconduct came to light Feb. 27, 2023, when the company announced a surprise loss of $0.02 per share for the fourth quarter of 2022, which was significantly lower than the gain of $0.27 per share that analysts and investors were led to expect. ... a 540% increase compared to 2019, according to a new Data Brief from the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.289115+00:00",
+              "published_date": null,
+              "source_hash": "94b6df14ac63861bce3e756fc5020787"
+            },
+            {
+              "url": "",
+              "title": "The Portnoy Law Firm Announces Investigation of AdaptHealth - GlobeNewswire",
+              "snippet": "If you purchased AdaptHealth shares prior to 2022 and wish to discuss this matter with us, or have any questions concerning your rights and interests with regards to this matter, please contact ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:53.289136+00:00",
+              "published_date": null,
+              "source_hash": "68647ee1e6a4ef59100f5e294a58846c"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. to Participate in the Stifel 2024 Healthcare Conference",
+              "snippet": "AdaptHealth Corp. (NASDAQ: AHCO) (\"AdaptHealth\" or the \"Company\"), a national leader in providing patient-centered ... handle and protect your data, visit our privacy center.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:56.731275+00:00",
+              "published_date": "2024-11-12T13:05:00+00:00",
+              "source_hash": "7a4858da362266212dab039599f8ffa6"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Amends Agreement to Cut Executive Salary",
+              "snippet": "AdaptHealth Corp. announced ... on improving patient outcomes by offering a range of products and services tailored to enhance home-based care. TipRanks is the most comprehensive data set of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:56.731304+00:00",
+              "published_date": "2024-12-13T16:27:00+00:00",
+              "source_hash": "cae7b1cec99ac3e0e9e0d797ddfd27c5"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. to Participate in the BofA Securities Home Care Conference 2024",
+              "snippet": "AdaptHealth Corp. (NASDAQ: AHCO) (\"AdaptHealth\" or the \"Company\"), a national leader in providing patient-centered, healthcare-at-home solutions including home medical equipment ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:56.731309+00:00",
+              "published_date": "2024-11-26T21:05:00+00:00",
+              "source_hash": "44436f1860a99018bfad319c215a830e"
+            },
+            {
+              "url": "",
+              "title": "AdaptHealth Corp. Announces Appointment of Russell Schuster as Chief Commercial Officer",
+              "snippet": "PLYMOUTH MEETING, Pa., December 03, 2024--(BUSINESS WIRE)--AdaptHealth Corp. (NASDAQ: AHCO) (\"AdaptHealth\" or the \"Company\"), a national leader in providing patient ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Adapthealth Corp Adapthealth Corp patient privacy data breaches",
+              "retrieved_at": "2025-01-06T16:53:56.731313+00:00",
+              "published_date": "2024-12-03T08:00:00+00:00",
+              "source_hash": "8b1e4ca264c26248a0786a5bdb298694"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Adapthealth Corp Medicare Medicaid reimbursement controversies",
+              "rationale": "Investigate potential legal or financial risks related to changes in Medicare/Medicaid reimbursement policies",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Adapthealth Corp acquisition integration lawsuits",
+              "rationale": "Examine legal challenges or disputes arising from the company's rapid growth through acquisitions",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Adapthealth Corp patient privacy data breaches",
+              "rationale": "Assess risks related to patient data security and privacy, given the company's reliance on digital health solutions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:54:15.753993",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

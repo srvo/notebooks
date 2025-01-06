@@ -1,0 +1,470 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:07:25.335230",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "WEX Inc",
+      "symbol": "WEX",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory and compliance issues, including SEC charges and FDIC consent order",
+            "Cybersecurity vulnerabilities and data breaches",
+            "Economic sensitivity, particularly in fleet and travel sectors",
+            "Intense competitive pressures from fintech and traditional financial institutions"
+          ],
+          "controversies": [
+            "SEC charges for violating federal securities laws",
+            "FDIC consent order for unsafe or unsound banking practices"
+          ],
+          "environmental_issues": [
+            "Transition to electric vehicles and reducing carbon emissions"
+          ],
+          "social_issues": [
+            "Exposure to risks related to labor practices and human rights due to global operations"
+          ],
+          "governance_issues": [
+            "Concerns about governance and internal oversight due to SEC charges"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SEC Charges WEX Inc. for Internal Accounting Control Failures Relating ...",
+              "snippet": "ADMINISTRATIVE PROCEEDING File No. 3-20676. December 13, 2021 - The Securities and Exchange Commission today announced settled charges against WEX Inc. for violating the reporting, books and records, and internal accounting control provisions of the federal securities laws. WEX is based in Portland, Maine, and describes itself as a financial technology service provider.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368967+00:00",
+              "published_date": null,
+              "source_hash": "47b95ab3a0dd3a7390ef0d51e44799cb"
+            },
+            {
+              "url": "",
+              "title": "Regulatory information - WEX Inc.",
+              "snippet": "Regulatory notices. WEX group regulated entities; WEX UK tax strategy statement; Optal modern slavery statement (2020) Optal modern slavery statement (2021) Optal slavery and human trafficking statement (2022) eNett modern slavery statement; WEX International modern slavery policy (2023)",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634126+00:00",
+              "published_date": null,
+              "source_hash": "edf18ff344836f8a6aae2182e2b5c5ec"
+            },
+            {
+              "url": "",
+              "title": "FDIC issues consent orders against WEX Bank, Luana Savings Bank",
+              "snippet": "The FDIC on May 6 issued a consent order against Sandy, Utah-based WEX Bank, a subsidiary of WEX Inc. The bank consented to the issuance of the order without admitting or denying any charges of unsafe or unsound banking practices relating to the Bank Secrecy Act. _____",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634143+00:00",
+              "published_date": null,
+              "source_hash": "ec8af25e1e22b8c136b22df0dbe4ed4d"
+            },
+            {
+              "url": "",
+              "title": " WEX Inc. - SEC.gov",
+              "snippet": "2. As a result of the conduct detailed herein, WEX violated Sections 13(a), 13(b)(2)(A), and 13(b)(2)(B) of the Exchange Act and Rules 13a-1, 13a-11 and 13a-13 thereunder. Respondent 3. WEX Inc. is a Delaware corporation with its principal place of business in Portland, Maine. WEX's common stock is registered with the Commission pursuant to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634156+00:00",
+              "published_date": null,
+              "source_hash": "595c35d57710a90b0824ab2eeef10d43"
+            },
+            {
+              "url": "",
+              "title": "SEC fines WEX Inc $350,000 for internal accounting control failures",
+              "snippet": "According to the SEC's order, in 2016 and 2017, WEX's independent auditor found significant deficiencies in WEX's Internal Control Over Financial Reporting (ICFR) in connection with accounting errors at WEX Brazil. The order finds that additional accounting issues arose during the close of WEX's 2018 fiscal year.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634184+00:00",
+              "published_date": null,
+              "source_hash": "941ae76bf7df05844cad90bdb7bb93c0"
+            },
+            {
+              "url": "",
+              "title": "wex-20211231 - SEC.gov",
+              "snippet": "WEX Inc. has contracted with federally insured bank depository partners, including WEX Bank, to hold these custodial cash assets on behalf of its members. On October 14, 2021, WEX Inc. transferred $960 million of the eligible custodial cash assets previously held by third-party depository partners to WEX Bank as a depository partner.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634197+00:00",
+              "published_date": null,
+              "source_hash": "55d1420c668defdfa0f455472ec69844"
+            },
+            {
+              "url": "",
+              "title": "WEX fined $350K over ICFR weaknesses - Compliance Week",
+              "snippet": "\"For tracking litigation, enforcement, and regulatory developments, Compliance Week should be your prime source. ... Financial technology service provider WEX agreed to pay $350,000 as part of a settlement with the SEC regarding violations of internal accounting control provisions in the federal securities laws at its former Brazilian subsidiary.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634208+00:00",
+              "published_date": null,
+              "source_hash": "75f0d123a371391ad08a16cd2d6fd566"
+            },
+            {
+              "url": "",
+              "title": "The WEX Inc (WEX) Company: A Short SWOT Analysis - Yahoo Finance",
+              "snippet": "Regulatory Risks: WEX's operations are subject to various regulatory requirements, particularly in its banking operations. Compliance with these regulations can be costly and time-consuming. Any ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634221+00:00",
+              "published_date": null,
+              "source_hash": "afdf9b38b6ec414fd8290b843ba894d4"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc. - WEX Welcomes Decision by the High Court of Justice of ...",
+              "snippet": "WEX Inc. (NYSE:WEX), a leading financial technology service provider, is pleased with the outcome of the Preliminary Issues Hearing relating to the May 11, 2020 lawsuit filed by eNett and Optal denying that there has been a Material Adverse Effect on their businesses, in the High Court of Justice of England and Wales in the United Kingdom. Melissa Smith, WEXs Chair and CEO commented, we are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368977+00:00",
+              "published_date": null,
+              "source_hash": "51519d5b5d80be8de9974c7302f55eaa"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc. - Governance - Governance documents",
+              "snippet": "Contact us. Steve Elder Senior Vice President Global Investor Relations 207-523-7769 steve.elder@wexinc.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:55.634247+00:00",
+              "published_date": null,
+              "source_hash": "2ab2d7760875f0a5a37c2cc086853328"
+            },
+            {
+              "url": "",
+              "title": "Barclays downgrades WEX, Marqeta on growth concerns",
+              "snippet": "Investing.com -- Barclays downgraded Wex Inc (NYSE:WEX) and Marqeta Inc (NASDAQ ... Barclays pointed to regulatory delays weighing on revenue growth and moderating tailwinds from high-growth ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:58.833957+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "1c7005c956d815ee810e47e85cf521fd"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc. to Present at the 2015 Citi Financial Technology Conference",
+              "snippet": "SOUTH PORTLAND, Maine--(BUSINESS WIRE)--WEX Inc. (NYSE: WEX), a leading provider of corporate payment solutions, today announced its president and chief executive officer, Melissa Smith ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T19:06:58.834059+00:00",
+              "published_date": "2015-11-04T16:05:00+00:00",
+              "source_hash": "346f8bc5758a68e5f033f0aa10ebe0cb"
+            },
+            {
+              "url": "",
+              "title": "WEX Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Compare WEX's security performance with other companies. Learn about data breaches, cyber attacks, and security incidents involving WEX. Shape your 2025 cyber GRC strategy with a complimentary Gartner report. Download Now. Looking to streamline your TPRM? Join our Product Deep Dive Webinar with live Q&A!",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368822+00:00",
+              "published_date": null,
+              "source_hash": "38c73c6fe3564f37eb33653d35de0f47"
+            },
+            {
+              "url": "",
+              "title": "wex-20231231 - SEC.gov",
+              "snippet": "In addition, WEX Inc. is an IRS-designated non-bank custodian of HSA assets. As of December 31, 2023, WEX Inc. was the custodian to $5.4 billion in HSA assets, $1.5 billion of which were in investment funds at a third-party brokerage firm, and $3.9 billion of which were in cash.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368906+00:00",
+              "published_date": null,
+              "source_hash": "3d73715ec49db633a34055bd43d4c3a5"
+            },
+            {
+              "url": "",
+              "title": "Travel Industry Continues to Be Plagued by Data Breaches - WEX Inc.",
+              "snippet": "Compare WEX cards Find a WEX fuel card that can be used at most gas stations and charging locations. Select a fuel card Select from 50+ cards to save on fuel, charging, services, and more. Fleet tracking Combine GPS vehicle analysis with award-winning support",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368921+00:00",
+              "published_date": null,
+              "source_hash": "0ec1d34fcac4c25b09f31f49e4b830c5"
+            },
+            {
+              "url": "",
+              "title": "6 tips for protecting your business from cyber attacks | WEX Inc.",
+              "snippet": "This can include guidelines for handling sensitive information and protocols for reporting potential security breaches. 2. Use strong passwords and two-factor authentication (2FA) ... Incorporating virtual cards into your payment strategy is a smart move to bolster your business's cyber security. With WEX's comprehensive virtual card ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368931+00:00",
+              "published_date": null,
+              "source_hash": "d0022e7bf174c49faa9aa22d0bd01e5e"
+            },
+            {
+              "url": "",
+              "title": "Fleets, data, and the need for security - WEX Inc.",
+              "snippet": "The 2022 Data Breach Investigation Report from Verizon Communications found that \"82% of data breaches involved the human element, including social attacks, errors, and misuse.\" Considering the hacking threat of sensitive and confidential information, fleet businesses should take additional precautions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368944+00:00",
+              "published_date": null,
+              "source_hash": "26d359083cef74b76920969956058184"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc. 10-K Cybersecurity GRC - 2024-02-23",
+              "snippet": "WEX Inc. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-23 12:50:30 EST. Filings 10-K filed on 2024-02-23 Company Information Filings 10-K filed on 2024-02-23 WEX Inc. filed a 10-K at 2024-02-23 12:50:30 EST Accession Number: 0001309108-24-000033 Note: filing items unformatted. Drop us a note with the above URL to help us prioritize ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368954+00:00",
+              "published_date": null,
+              "source_hash": "a1b40961fd8498b0a30e2612e1d0c5e2"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc. Cyber Security Rating & Vendor Risk Report | SecurityScorecard",
+              "snippet": "We learned from over 12 million cybersecurity ratings that companies with an F are 13.8 times more likely to be impacted by a breach versus those with an A. Need to know more? Ask WEX Inc. to share their security-related documents",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368987+00:00",
+              "published_date": null,
+              "source_hash": "370754fb51d06fe9b4e33cf91d4ffdb2"
+            },
+            {
+              "url": "",
+              "title": "wex-20201231 - SEC.gov",
+              "snippet": "WEX Inc. is a leading financial technology service provider having simplified the complexities of payment systems across continents and industries. We currently operate in three reportable segments: Fleet Solutions, Travel and Corporate Solutions, and Health and Employee Benefit Solutions, which are described in more detail below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WEX Inc WEX Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:07:01.368997+00:00",
+              "published_date": null,
+              "source_hash": "892d14190574dd1b7c8d471642cca389"
+            },
+            {
+              "url": "",
+              "title": "Wright Express Extends Fuel-Price Hedging Program into 2007 - WEX, Inc.",
+              "snippet": "These risks and uncertainties include: volatility in fuel prices; the effect of the Company's fuel-price related derivative instruments; effects of competition; the potential loss of key strategic relationships; decreased demand for fuel and other vehicle products and services and the effects of general economic conditions on the commercial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462552+00:00",
+              "published_date": null,
+              "source_hash": "bb7cb2c525ae2d247969e71f90b2d104"
+            },
+            {
+              "url": "",
+              "title": "WEX's SWOT analysis: payment firm's stock faces travel sector headwinds ...",
+              "snippet": "WEX Inc. (NYSE: WEX), a leading provider of payment processing and information management services with annual revenue of $2.65 billion, finds itself at a crossroads as it navigates a complex business environment characterized by sector-specific challenges and macroeconomic uncertainties.According to InvestingPro analysis, the company maintains a GOOD financial health score, reflecting its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462636+00:00",
+              "published_date": null,
+              "source_hash": "c6db4217105beeb47f0c20662ac21fc1"
+            },
+            {
+              "url": "",
+              "title": "WEX stock downgrade: fuel prices and fleet slowdowns throw a wrench in ...",
+              "snippet": "WEX Inc. also increased its share repurchase program by $1 billion, reducing the share count by 12% since Q1 2022. However, the company revised its 2024 guidance, anticipating Q4 revenue to be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462651+00:00",
+              "published_date": null,
+              "source_hash": "06430cd6974e00d0c997ac7b0200421a"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc (WEX) Q3 2024 Earnings Call Highlights: Record Revenue and EPS ...",
+              "snippet": "WEX Inc achieved record high Q3 revenue and adjusted EPS, showing strong growth despite challenges. The company has realized approximately $110 million in annual cost savings on a run rate basis ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462665+00:00",
+              "published_date": null,
+              "source_hash": "1158aad6425dee99c40dd99ba0e1fb78"
+            },
+            {
+              "url": "",
+              "title": "WEX: Strong Mobility Segment and Buyback Plan Offset Travel and Fuel ...",
+              "snippet": "WEX, Inc. engages in the provision of payment processing and information management solutions. It operates through the following segments: Fleet Solutions; Travel and Corporate Solutions; and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462676+00:00",
+              "published_date": null,
+              "source_hash": "6bcddef050992c80eb171510e974712c"
+            },
+            {
+              "url": "",
+              "title": "Here's Why Citi Is Incrementally Bullish On FleetCor, WEX - Yahoo Finance",
+              "snippet": "Citi analyst Peter Christiansen expressed incremental bullishness on FleetCor Technologies, Inc (NYSE: FLT) and WEX Inc (NYSE: WEX), lifting estimates and target prices on both, given rising fuel ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462686+00:00",
+              "published_date": null,
+              "source_hash": "f8cae9847e1f91a1efe9647815c587e9"
+            },
+            {
+              "url": "",
+              "title": "WEX: Losing The Relative Game To FleetCor (NYSE:WEX)",
+              "snippet": "WEX Inc . (NYSE:WEX) is ... price of fuel and the retail price. The heightened volatility may allow the business to benefit from the price spreads in the short-term, but over a longer period ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462697+00:00",
+              "published_date": null,
+              "source_hash": "23b75d49d97e3c23d4ff94bf1596ed5e"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc. - Wright Express Extends Its Existing Fuel-Price Risk ...",
+              "snippet": "Program Extension Is Designed to Moderate the Sensitivity of the Companys Earnings to Changes in Retail Fuel Prices, Price Range on New Purchase Between $2.38 and $2.44 per Gallon SOUTH PORTLAND, Maine, Jan 12, 2006 /PRNewswire-FirstCall via COMTEX News Network/ - Wright Express Corporation (NYSE: WXS) announced today that it has extended its existing fuel-price risk program through the first ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462707+00:00",
+              "published_date": null,
+              "source_hash": "01efdcf92f27f18e0428dcf921a9f626"
+            },
+            {
+              "url": "",
+              "title": "Wex profits soar on rising fuel prices - Payments Dive",
+              "snippet": "Wex, which provides card payments services for corporate and government car fleets, is benefiting from a rise in fuel prices and doubling down on the business. The Portland, Maine company, which also provides payment services for corporate travel needs and employee healthcare benefits, reported last week that revenue and profit soared for the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462718+00:00",
+              "published_date": null,
+              "source_hash": "c5a04c50df8a23e99c8547b131a1671a"
+            },
+            {
+              "url": "",
+              "title": "WEX Inc.: Normalization Of Fuel Prices Might Be A Headwind - Seeking Alpha",
+              "snippet": "As mentioned throughout the entire post, the key risk is a decline in fuel price, especially a significant decline (which has happened before back in 2020, which caused WEX stock to fall from $236 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:05.462730+00:00",
+              "published_date": null,
+              "source_hash": "1724e67c8ef255cd06cc5a4d17736b0f"
+            },
+            {
+              "url": "",
+              "title": "Here's Why You Should Retain WEX Stock in Your Portfolio",
+              "snippet": "WEX Inc. price | WEX Inc. Quote WEX is a leader in the fleet payments industry, providing payment solutions for fuel management ... positioned to weather economic volatility in specific sectors ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:09.006163+00:00",
+              "published_date": "2024-10-03T19:03:00+00:00",
+              "source_hash": "9acc79b5b74380c88ec18cefa97284b9"
+            },
+            {
+              "url": "",
+              "title": "Wex price target raised to $211 from $205 at Morgan Stanley",
+              "snippet": "Consistently lower fuel prices \"don't help,\" but sentiment could begin to bottom if Wex can continue to show organic Mobility improvement while assuaging concerns about Corporate Payments ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:09.006293+00:00",
+              "published_date": "2024-10-22T13:33:00+00:00",
+              "source_hash": "faf29065674cf67608e8bdfb6a9d8d7d"
+            },
+            {
+              "url": "",
+              "title": "Here's Why You Should Retain WEX Stock in Your Portfolio Now",
+              "snippet": "WEX Inc. WEX stock has had an impressive run over ... Seasonality affects WEX's businesses. Fuel prices are higher during the summer, which benefits the mobility segment. The corporate payments ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WEX Inc WEX Inc economic sensitivity and fuel price volatility",
+              "retrieved_at": "2025-01-06T19:07:09.006328+00:00",
+              "published_date": "2024-09-12T12:42:00+00:00",
+              "source_hash": "f3e5bc0278082cabf7f7496e12ba39f0"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "WEX Inc regulatory compliance issues",
+              "rationale": "Investigate potential legal and regulatory challenges, including data privacy and financial compliance risks",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "WEX Inc cybersecurity breaches",
+              "rationale": "Assess the company's history of cybersecurity incidents and their impact on customer trust",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "WEX Inc economic sensitivity and fuel price volatility",
+              "rationale": "Explore how economic conditions and fuel price fluctuations affect WEX's business performance",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:07:25.335241",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

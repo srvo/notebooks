@@ -1,0 +1,433 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:51:36.619137",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Valley Bancshares",
+      "symbol": "VLYPO",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and compliance risks due to stringent oversight and potential penalties",
+            "Economic and market risks from interest rate fluctuations and overexposure to commercial real estate loans",
+            "Cybersecurity risks following a significant data breach affecting customer data",
+            "Competitive pressures from larger banks, credit unions, and fintech disruptors"
+          ],
+          "controversies": [
+            "Data breach at Valley National Bank affecting 873,000 customers",
+            "Potential regulatory scrutiny and enforcement actions similar to peer firms"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data breach compromising sensitive customer information, leading to potential loss of trust"
+          ],
+          "governance_issues": [
+            "Regulatory compliance challenges and potential enforcement actions",
+            "Cybersecurity governance concerns following the data breach"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "EDOS - Federal Deposit Insurance Corporation",
+              "snippet": "The orders DO NOT necessarily reflect the CURRENT status of the regulatory action against the institution or the institution-affiliated party. You should use the Search Form to determine if an order or notice has been modified or terminated. Every attempt has been made to include all decisions and orders issues by the FDIC; however, we cannot ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113316+00:00",
+              "published_date": null,
+              "source_hash": "7cee11d0ad921108d298f96f79e086d1"
+            },
+            {
+              "url": "",
+              "title": "OCC enforcement actions announced | Bankers Online",
+              "snippet": "The Office of the Comptroller of the Currency (OCC) yesterday released enforcement actions taken against national banks and federal savings associations (banks), and individuals currently and formerly affiliated with banks the OCC supervises.. The previously announced $15 million civil money penalty against U.S. Bank, N.A., for violations of law relating to the bank's administration of a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113379+00:00",
+              "published_date": null,
+              "source_hash": "217cb25ea0d1e01a1f296cd1d78ea4ee"
+            },
+            {
+              "url": "",
+              "title": "FDIC hits 3 banks within embattled Texas parent firm",
+              "snippet": "Dive Insight: Industry Bancshares has about $5 billion in assets across six bank subsidiaries, three of which received FDIC consent orders. The bank holding company has struggled, after soaring interest rates crushed the value of its assets, which are heavily composed of bonds, American Banker reported.Significant unrealized losses contributed to Republic First's woes, as well as Silicon ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113397+00:00",
+              "published_date": null,
+              "source_hash": "fc9aed0a0eec36db33d5633b63e2ebe5"
+            },
+            {
+              "url": "",
+              "title": "Top enforcement actions against banks in 2024 - American Banker",
+              "snippet": "The Canadian bank was fined more than $3 billion in penalties and hit with the second-ever asset growth cap for regulatory violations in the U.S. when it pleaded guilty to record anti-money-laundering-related crimes in October. TD is the first bank in U.S. history to plead guilty to conspiracy to launder money after a Department of Justice probe alleged the bank knew its compliance system was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113411+00:00",
+              "published_date": null,
+              "source_hash": "dfc4f14b707e686d0018701495452c79"
+            },
+            {
+              "url": "",
+              "title": "Banks With High Commercial Real Estate Loan Exposure In Regulatory ...",
+              "snippet": "Valley National Bancorp VLY is identified as the largest institution that fits the criteria for heightened regulatory examination, with a staggering 80% growth in CRE loans over the past three ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113424+00:00",
+              "published_date": null,
+              "source_hash": "abb9a89d0b683b643780a63953a7911c"
+            },
+            {
+              "url": "",
+              "title": "A Troubled Bank in Texas - Part I - Bankers Anonymous",
+              "snippet": "As of July 31, 2023, Industry Bancshares, Inc.'s Tier 1 leverage capital is 11.7% and total risk-based capital is 29.7%, which is in the 99 th percentile of our peer group and is well above the regulatory definitions of well capitalized.\" The bank, like regulators, focuses on CET1.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113436+00:00",
+              "published_date": null,
+              "source_hash": "9f33ab72ae5747071924c3ac0bd372ec"
+            },
+            {
+              "url": "",
+              "title": "Troubled Bank in Texas - Part II - Bankers Anonymous",
+              "snippet": "Silicon Valley Bank, which in March 2023 suffered the third-largest bank failure in US history, had almost exactly the same problem as Industry Bancshares, but on a larger scale. Like Industry Bancshares, it owned many ultra-safe long-maturity US Treasury bonds which dropped in value when interest rates rose.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113448+00:00",
+              "published_date": null,
+              "source_hash": "05ee2efa161e8eafa8c257983eaf6228"
+            },
+            {
+              "url": "",
+              "title": "The SVB Failure: Regulators' Policy Response Becomes Clearer",
+              "snippet": "Together, this will have a material impact on regulatory capital at regional banks, especially KeyCorp (KEY), Truist Financial Corp (TFC), Huntington Bancshares, Inc. (HBAN), and Fifth Third Bancorp (FITB). We also expect regulators to extend the so-called enhanced prudential standards (EPS) to regional banks with more than $100B in assets.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113459+00:00",
+              "published_date": null,
+              "source_hash": "0325b51e87f92c541bea3a02d471b150"
+            },
+            {
+              "url": "",
+              "title": " BANKS TO AVOID - thecontrolplan",
+              "snippet": "Compliance First Citizens BancShares #15 Huntington Bancshares has significant exposure to commercial and residential real estate loans, which may expose the bank to industry-specific risks and potential downturns in the real estate market. The bank has faced regulatory scrutiny over its overdraft fees. Legal or Regulatory Issues Huntington ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113471+00:00",
+              "published_date": null,
+              "source_hash": "92cc5c5ff10f7ea2104c48e9c0d958f0"
+            },
+            {
+              "url": "",
+              "title": "3 Industry Bancshares banks set to take on regulator over charges",
+              "snippet": "The First National Bank of Shiner, seen in a 2021 Google Street View, is one of Industry Bancshares Inc.'s three national bank subsidiaries facing charges from the Office of the Comptroller of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares regulatory penalties or compliance failures",
+              "retrieved_at": "2025-01-06T20:51:09.113482+00:00",
+              "published_date": null,
+              "source_hash": "a44145599799e065c92bb4b8fb4bb299"
+            },
+            {
+              "url": "",
+              "title": "Default, Transition, and Recovery: The U.S. Leveraged Loan Default Rate ...",
+              "snippet": "This is also a swift fall from as recently as February, when the leveraged loan default rate was over 2%. The dip in loan defaults may be ahead of a broader decline in the U.S. speculative-grade default rate, which we expect will fall to 3.75% in June 2025 (from 4.57% in June 2024).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059276+00:00",
+              "published_date": null,
+              "source_hash": "1f3c33c687b8270caf07a8aa7247e686"
+            },
+            {
+              "url": "",
+              "title": "List of bank failures in the United States (2008-present)",
+              "snippet": "On average, between 1980 and 1994, a US bank failed every three days. The pace of bankruptcies peaked immediately after the 2008 financial crisis. [1] The 2007-2008 financial crisis led to many bank failures in the United States. The Federal Deposit Insurance Corporation (FDIC) closed 465 failed banks from 2008 to 2012. [2] In contrast, in the five years prior to 2008, only 10 banks failed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059339+00:00",
+              "published_date": null,
+              "source_hash": "f7283baee13d9fe5b245744649a704be"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "substantial loan losses during economic downturns, potentially jeopardizing the bank's financial health. Risk Management & Compliance Discover Financial #16 First Citizens BancShares seems to have an overexposure to commercial real estate loans. Overexposure to CRE loans could lead to significant losses if the real estate market falters ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059362+00:00",
+              "published_date": null,
+              "source_hash": "e956fc054b09c5139247760ea4907df6"
+            },
+            {
+              "url": "",
+              "title": "US leveraged loan default rate rises in November amid rate hike pressure",
+              "snippet": "The 23 issuers tripping payment defaults in the past year brings the November default rate to 1.48% by amount, and 1.94% by issuer count, according to the Morningstar LSTA US Leveraged Loan Index ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059376+00:00",
+              "published_date": null,
+              "source_hash": "aa49617b338a67340cf72557ee69b485"
+            },
+            {
+              "url": "",
+              "title": "Why is the Default Rate So Low? How Economic Conditions and Public ...",
+              "snippet": "The patterns present a stark contrast: during the Great Recession, mortgage and auto delinquencies rose sharply as the unemployment rate began to rise, with mortgage delinquencies in particular following the unemployment rate in near lock-step. But during COVID-19, as the unemployment rose there was no commensurate increase in auto or mortgage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059388+00:00",
+              "published_date": null,
+              "source_hash": "965b0ea452135ad890f5ce2fe4429092"
+            },
+            {
+              "url": "",
+              "title": "Default, Transition, and Recovery: U.S. Recovery Study: Loan Recoveries ...",
+              "snippet": "Recoveries tend to be higher during periods of lower default rates as the conditions that support lower default rates--for example, improving economic conditions--also tend to support higher recoveries. In 2022, bond recoveries were elevated (averaging near 70%) at a time when the U.S. speculative-grade default rate was exceptionally low (at 1. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059400+00:00",
+              "published_date": null,
+              "source_hash": "db3230924b80c3cb809c3fc79d8c4ea4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "I study whether banks' loanloss provisioning contributes to economic downturns, by examining the U.S. housing market. Specifically, I examine the aggregate eff ects of banks' delayed loan loss recognition (DLR) on house prices during the Great Recession and the channels through which these potential effects aroseI construct ZIP.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059413+00:00",
+              "published_date": null,
+              "source_hash": "5ff4da1a085eb5e5304770bd2171fe67"
+            },
+            {
+              "url": "",
+              "title": "Why is the Default Rate So Low? How Economic Conditions and Public ...",
+              "snippet": "How Economic Conditions and Public Policies Have Shaped Mortgage and Auto Delinquencies During the COVID-19 Pandemic Accessible Data Figure 1. Delinquencies were pro-cyclical in the Great Recession, but counter-cyclical During COVID-19",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059424+00:00",
+              "published_date": null,
+              "source_hash": "89328e8f4b54227e477af2c72c351507"
+            },
+            {
+              "url": "",
+              "title": "Valley Bank Faces Revenue Challenges: Raymond James - The Real Deal",
+              "snippet": "The share price fell 20 percent Monday and another 3 percent Tuesday, hitting a 52-week low of $6.96 before recovering in the afternoon to $7.30.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059436+00:00",
+              "published_date": null,
+              "source_hash": "5f72db2cd4fbf8e7e18d3b82128fa7aa"
+            },
+            {
+              "url": "",
+              "title": "DBRS Morningstar Confirms Valley National Bancorp Rating at A (low ...",
+              "snippet": "Valley's asset quality metrics remain strong, with non-accrual loans representing 0.72% of total loans at the end of 2Q22, and a quarterly net charge-off ratio of 0.02%. Valley's allowance for credit losses stood at 1.13% at the end of 2Q22, which we consider sufficient, given historical and expected loss rates.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Valley Bancshares Valley Bancshares loan default rates during economic downturns",
+              "retrieved_at": "2025-01-06T20:51:15.059447+00:00",
+              "published_date": null,
+              "source_hash": "8bc61d2acbc10bd1bf00e0e950d0a724"
+            },
+            {
+              "url": "",
+              "title": "Valley National Bank Data Breach Investigation",
+              "snippet": "Valley National Bank has announced that they were the victim of a data breach. The data breach affected Social Security numbers. Our data breach lawyers are investigating the Valley National Bank data breach and are ready to assist. If you received a data breach letter from Valley National Bank, contact the Console & Associates, P.C. law firm at (866) 778-5500 to discuss your legal options.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949585+00:00",
+              "published_date": null,
+              "source_hash": "b2ddf669837ff69b6a82d34ac588d005"
+            },
+            {
+              "url": "",
+              "title": "Valley National Bank Data Breach Investigation",
+              "snippet": "We would like to speak with you about your rights and potential legal remedies in response to this data breach. Please fill out the form, below, or contact us at (608) 237-1775 or sam@turkestrauss.com.. If you were impacted by the Valley National Bank data breach, you may consider taking the following steps to protect your personal information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949697+00:00",
+              "published_date": null,
+              "source_hash": "24cad16c9624252971d2394fd82e9ddc"
+            },
+            {
+              "url": "",
+              "title": "Valley National Bank Data Breach: What & How It Happened?",
+              "snippet": "If you want to find more information on the Valley National Bank data breach, check out the following news articles: Valley National Bank Data Breach Investigation - Turke & Strauss LLP. Valley National Bank - Data Breach Information. Data breach affected 873,000 bank customers",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949713+00:00",
+              "published_date": null,
+              "source_hash": "82aed4b9200623cb6b2c8d4b3c7d7950"
+            },
+            {
+              "url": "",
+              "title": "The biggest data breach fines, penalties, and settlements so far",
+              "snippet": "The company was fined $148 million in 2018 \u2014 the biggest data breach fine in history at the time \u2014 for violation of state data breach notification laws. 16. Morgan Stanley: $120 million (total)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949724+00:00",
+              "published_date": null,
+              "source_hash": "a82b1acd76c09c41daf016265e59c9c9"
+            },
+            {
+              "url": "",
+              "title": "Seven cybersecurity threats for banks in 2024\u2014and some smart ...",
+              "snippet": "Below are seven growing cybersecurity threats, as well as some suggestions for how banks can keep data secure. 1. Third-party risks. Topping any list of cyber-related nightmares are the risks posed by fintech firms and other vendors. \"The problem with third-party risk,\" says Paul Benda, EVP for risk, fraud and cybersecurity at American ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949740+00:00",
+              "published_date": null,
+              "source_hash": "68084ee217237c1855bcb4ac4e5ae00c"
+            },
+            {
+              "url": "",
+              "title": "10 Biggest Data Breaches in Finance - UpGuard",
+              "snippet": "In an attempt to rectify its fallen cyber resilience reputation, Heartland significantly upgraded its cybersecurity and boldly issued the following data breach warrant to all of its customers: \"Heartland Payment Systems is so confident in the security of its payment processing technology that, on Jan. 12, it announced a new breach warranty ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949751+00:00",
+              "published_date": null,
+              "source_hash": "41d54c6ae2a69e6765df32199a76232b"
+            },
+            {
+              "url": "",
+              "title": "Recent Cybersecurity Attacks and Data Breaches - 2024-25",
+              "snippet": "Integris Health has reported to U.S. authorities that the data breach it suffered last November exposed personal information belonging to almost 2.4 million people. Integris is Oklahoma's largest not-for-profit healthcare network, operating hospitals, clinics, and emergency care units across the state.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949760+00:00",
+              "published_date": null,
+              "source_hash": "c26f7ad8852622968494ea66db9ddfd1"
+            },
+            {
+              "url": "",
+              "title": "Ransomware group attacks a New Jersey bank \u2014 then shuts down",
+              "snippet": "A bank spokesman reached on Tuesday said Valley National is still investigating the ransomware threat. \"Valley is aware of and investigating a cybersecurity issue relating to a legacy network obtained through the acquisition of Oritani Bank,\" he said. Valley National acquired Oritani Financial in New Jersey in December 2019.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949771+00:00",
+              "published_date": null,
+              "source_hash": "f12f046e3c85f62e373e4233b8a81335"
+            },
+            {
+              "url": "",
+              "title": "10 Major Cyberattacks And Data Breaches In 2024 (So Far) - CRN",
+              "snippet": "Change Healthcare Attacks. First disclosed Feb. 22, the Change Healthcare attack caused massive disruption in the U.S. health care system for weeks. The IT system shutdown initiated in response to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949781+00:00",
+              "published_date": null,
+              "source_hash": "96d941eb9495c592c5064eb6c641f59f"
+            },
+            {
+              "url": "",
+              "title": "What the Recent Collapse of SVB Means for Privacy - Dark Reading",
+              "snippet": "Keep up with the latest cybersecurity threats, newly discovered vulnerabilities, data breach information, and emerging trends. Delivered daily or weekly right to your email inbox. Subscribe",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Valley Bancshares Valley Bancshares cybersecurity breaches or data privacy issues",
+              "retrieved_at": "2025-01-06T20:51:18.949791+00:00",
+              "published_date": null,
+              "source_hash": "c83cb693faa64d6eefb6433f99807748"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Valley Bancshares regulatory penalties or compliance failures",
+              "rationale": "Investigate potential legal or regulatory issues, such as anti-money laundering violations or consumer protection breaches",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Valley Bancshares loan default rates during economic downturns",
+              "rationale": "Assess the bank's exposure to economic cycles and its ability to manage loan portfolio risks",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Valley Bancshares cybersecurity breaches or data privacy issues",
+              "rationale": "Evaluate the bank's vulnerability to cyberattacks and its impact on customer trust and regulatory compliance",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:51:36.619154",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

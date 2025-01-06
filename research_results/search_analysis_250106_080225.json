@@ -1,0 +1,591 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:02:25.979432",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Blue Bird Corporation",
+      "symbol": "BLBD",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Supply chain vulnerabilities, particularly in sourcing critical components like engines and electrical systems",
+            "Regulatory and funding uncertainty, especially regarding government funding for clean school bus initiatives",
+            "Intense market competition from rivals like Thomas Built Buses and IC Bus",
+            "Economic sensitivity tied to the health of the education sector and government budgets"
+          ],
+          "controversies": [
+            "Racial discrimination lawsuit (Jackson v. Blue Bird Corporation)",
+            "Unfair labor practice charges filed by the United Steelworkers union"
+          ],
+          "environmental_issues": [
+            "Dependency on suppliers for critical components, which may not align with sustainability goals",
+            "Need for continuous improvement in ESG strategy despite current certifications and initiatives"
+          ],
+          "social_issues": [
+            "Legal disputes and labor issues affecting company reputation and employee relations"
+          ],
+          "governance_issues": [
+            "Potential governance challenges related to handling legal and labor disputes effectively"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Blue Bird and Roush Earn EPA Emissions Certification",
+              "snippet": "\"Blue Bird is the first school bus manufacturer to receive this emissions-reducing certification for a gasoline-powered bus, thanks to our strong partnership with Roush CleanTech,\" said Jeff Sanfrey, senior vice president of engineering for Blue Bird Corporation. \"The new refueling emissions standard compliance is excellent news for the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618417+00:00",
+              "published_date": null,
+              "source_hash": "2db7280cc2e9e66b2e21d0f2ee8bcd7c"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Blue Bird Corporation - Blue Bird Bus Corporation",
+              "snippet": "Blue Bird takes its role as a corporate citizen seriously. As such, Blue Bird is committed to addressing multiple sustainability matters. At the end of 2023, Blue Bird conducted a rapid materiality assessment for topics related to Environment, Social and Governance (ESG), and the company is actively working towards formalizing its Sustainability Strategy and Roadmap for the years ahead.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618450+00:00",
+              "published_date": null,
+              "source_hash": "9255debeae3b882fa2f79fd785dc5394"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Applauds EPA's $965 Million Clean School Bus Funding to ...",
+              "snippet": "MACON, Ga.- (Oct. 1, 2024)- Blue Bird Corporation (Nasdaq: BLBD), the leader in electric and low-emission school buses, commends the announcement by the U.S. Environmental Protection Agency (EPA) to provide $965 million in additional funding for clean school buses to reduce pollution and enhance student and community health. The fourth round of funding builds on nearly $3 billion already ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618458+00:00",
+              "published_date": null,
+              "source_hash": "5b612813f61fe483bbacc1da1f571155"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation - Blue Bird Applauds EPA's $965 Million Clean ...",
+              "snippet": "Company Continues to Invest in Electric School Bus Manufacturing Expansion and Job Growth Blue Bird Corporation (Nasdaq: BLBD), the leader in electric and low-emission school buses, commends the announcement by the U.S. Environmental Protection Agency (EPA) to provide $965 million in additional funding for clean school buses to reduce pollution and enhance student and community health. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618462+00:00",
+              "published_date": null,
+              "source_hash": "673af370e8dcaffad792b66e0b07047e"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Applauds EPA's $965 Million Clean School Bus Funding to ...",
+              "snippet": "MACON, Ga., October 01, 2024--Blue Bird Corporation (Nasdaq: BLBD), the leader in electric and low-emission school buses, commends the announcement by the U.S. Environmental Protection Agency (EPA ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618467+00:00",
+              "published_date": null,
+              "source_hash": "7ea83018b9ad9e557e46b3743bba701b"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corp downgraded amid concerns about EPA funding",
+              "snippet": "Blue Bird Corporation: It's Time To Turn This Bus Around (Rating Upgrade) Blue Bird: Lack Of Price Action On Q3 Make For A Buying Opportunity Blue Bird Non-GAAP EPS of $0.91 beats by $0.40 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618471+00:00",
+              "published_date": null,
+              "source_hash": "0c2cdb878443a3385a7b4d89e5067bd8"
+            },
+            {
+              "url": "",
+              "title": "School Buses: Is electrification here to stay? - Blue Bird Corporation",
+              "snippet": "School buses are a vital part of the U.S. transportation system, carrying over 25 million children daily on more than 480,000 buses. While traditionally powered by diesel, the introduction of propane engines by Blue Bird has expanded low-emission powertrain options for the school bus industry.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618475+00:00",
+              "published_date": null,
+              "source_hash": "252cf611571e10aaac744eeca0dc7a39"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Applauds EPA's $965 Million Clean School Bus ... - Nasdaq",
+              "snippet": "Blue Bird Corporation, the leader in electric and low-emission school buses, commends the announcement by the U.S. Environmental Protection Agency to provide $965 million in additional funding for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618495+00:00",
+              "published_date": null,
+              "source_hash": "b977ced02e88b24567a398892481bf29"
+            },
+            {
+              "url": "",
+              "title": "New Legislation Funds Major Deployment of Zero and Low-Emissions School ...",
+              "snippet": "About Blue Bird Corporation: Blue Bird (NASDAQ: BLBD) is the leading independent designer and manufacturer of school buses, with more than 550,000 buses sold since its formation in 1927 and approximately 180,000 buses in operation today. Blue Bird's longevity and reputation in the school bus industry have made it an iconic American brand.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618499+00:00",
+              "published_date": null,
+              "source_hash": "b3ae9d260981bb3a32366eea46523ab0"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corp. ESG Risk Rating - Sustainalytics",
+              "snippet": "Blue Bird Corp is an American bus manufacturing company. It is an independent designer and manufacturer of school buses. The company operates in two segments; the Bus segment which involves the design, engineering, manufacture, and sales of school buses and extended warranties; and the Parts segment which includes the sales of replacement bus parts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:26.618502+00:00",
+              "published_date": null,
+              "source_hash": "54037056d9e016037143401d0b443a73"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corp downgraded amid concerns about EPA funding",
+              "snippet": "But Roth analyst Craig Irwin thinks it's unlikely the EPA can \"efficiently\" release the funding and that issues at the ... school bus maker Blue Bird Corporation (NASDAQ:BLBD) to Neutral ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:29.035934+00:00",
+              "published_date": "2024-10-03T13:18:00+00:00",
+              "source_hash": "65add8e9e62f81a6596379bdef0f01c7"
+            },
+            {
+              "url": "",
+              "title": "Is Blue Bird Corporation (BLBD) Among The Best Heavy Equipment and Industrial Machinery Stocks to Buy?",
+              "snippet": "to zero-emission models. Blue Bird Corporation (NASDAQ:BLBD) released its full-year results for fiscal 2024. Its EV backlog grew to a record level of ~630 buses, worth approximately $200 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:29.036034+00:00",
+              "published_date": "2024-12-23T07:09:00+00:00",
+              "source_hash": "02b92f1e282f48fa4182876bf46ee79b"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation (BLBD)",
+              "snippet": "MACON, Ga., November 27, 2024--Blue Bird Corporation (Nasdaq: BLBD), the leader in electric and low-emission school buses, lauds the U.S. expansion of Micro Bird's manufacturing operations to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:29.036065+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "66eb161593cfbc3ab1713b616a5b9e2a"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Reports Record Fiscal 2024 Results",
+              "snippet": "Blue Bird Corporation, a leader in electric and low-emission school buses, reported record fiscal 2024 results with a 19% increase in net sales to $1.35 billion and a significant rise in net ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:29.036090+00:00",
+              "published_date": "2024-11-25T21:54:00+00:00",
+              "source_hash": "93959dc8fadb2451ec2b797f9b631795"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Joint Venture Micro Bird to Establish Bus Manufacturing Facility in New York State",
+              "snippet": "Project to Double Micro Bird's Production Capacity and Create More Than 350 New U.S. Jobs Blue Bird Corporation (Nasdaq: BLBD), the leader in electric and low-emission school buses, lauds the U ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation emissions compliance issues",
+              "retrieved_at": "2025-01-06T15:01:29.036114+00:00",
+              "published_date": "2024-11-27T17:48:00+00:00",
+              "source_hash": "4022f3d0a561d8b0fe450717de187620"
+            },
+            {
+              "url": "",
+              "title": "JACKSON v. BLUE BIRD CORPORATION (2019) | FindLaw - FindLaw Caselaw",
+              "snippet": "Wayne Jackson filed a lawsuit against his former employer, Blue Bird Corporation (\"Blue Bird\"), alleging racial discrimination in violation of Title VII of the Civil Rights Act of 1964, 42 U.S.C. \u00a7 2000e-3(a) (\"Title VII\"). 1 Blue Bird filed a motion for summary judgment, which the district court granted. Jackson appeals the district court's grant of summary judgment in favor of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.678820+00:00",
+              "published_date": null,
+              "source_hash": "5b7d21e99b8396edeb9bd70151f59b98"
+            },
+            {
+              "url": "",
+              "title": "Wayne Jackson v. Blue Bird Corporation, No. 18-14155 (11th Cir. 2019)",
+              "snippet": "PER CURIAM: Case: 18-14155 Date Filed: 11/15/2019 Page: 2 of 14 Wayne Jackson filed a lawsuit against his former employer, Blue Bird Corporation (\"Blue Bird\"), alleging racial discrimination in violation of Title VII of the Civil Rights Act of 1964, 42 U.S.C. \u00a7 2000e-3(a) (\"Title VII\").1 Blue Bird filed a motion for summary judgment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.678950+00:00",
+              "published_date": null,
+              "source_hash": "86894cee64ffd14307a65627b6283449"
+            },
+            {
+              "url": "",
+              "title": "Jackson v. Blue Bird Corp. - Casetext",
+              "snippet": "Plaintiff Wayne Jackson alleges that his former employer, Defendant The Blue Bird Corporation, discriminated against him on the basis of race and retaliated against him when he reported this alleged discrimination. Plaintiff brought these claims under Title VII of the Civil Rights Act of 1964, 42 U.S.C. \u00a7 2000(e), et seq. Defendant filed a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.678969+00:00",
+              "published_date": null,
+              "source_hash": "01cb9db4684c98dd3a1821202c1308be"
+            },
+            {
+              "url": "",
+              "title": "LEWIS v. BLUE BIRD CORPORATION (2020) | FindLaw - FindLaw Caselaw",
+              "snippet": "BLUE BIRD CORPORATION. Read the Court's full decision on FindLaw. Skip to main content Skip to AI Virtual ... applying the same legal standards as the district court. Alvarez v. Royal Atl. Devs., Inc., 610 F.3d 1253, 1263 (11th Cir. 2010). ... Lewis disputes whether Blue Bird was justified in terminating him after only one mistake in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.678982+00:00",
+              "published_date": null,
+              "source_hash": "c04e61d706c5473420eada7904ed537e"
+            },
+            {
+              "url": "",
+              "title": "Gardner v. Blue Bird Corporation, No. C 06-0828 SBA - Casetext",
+              "snippet": "In August 2003, Plaintiffs George W. Gardner and Roslyn R. Gardner (\"Plaintiffs\") purchased a new 2004 Blue Bird M380 motor home for $365,666.10 from Defendant Holland Motor Homes, an authorized dealer of motor homes manufactured by Defendants Blue Bird Corporation and Blue Bird Body Company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.678995+00:00",
+              "published_date": null,
+              "source_hash": "23303abbe35b425ca13ed81222173729"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation - National Labor Relations Board",
+              "snippet": "Employer Legal Representative DEBRUGE, MARCEL BURR & FORMAN, LLP: 420 20TH ST N STE 3400 BIRMINGHAM, AL 35203 (205)251-3000 : Employer Legal Representative Morgan, Richard Burr & Forman, LLP: PO Box 11390 Columbia, SC 29211-1390 (803)799-9800 : Employer Employer Blue Bird Corporation: Fort Valley, GA 31030 (478)825-2021",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.679006+00:00",
+              "published_date": null,
+              "source_hash": "705e0ec73bbaa0dc2f7bd0f64af4e111"
+            },
+            {
+              "url": "",
+              "title": "HIGHWAY SALES INC v. BLUE BIRD CORPORATION RV (2009) | FindLaw",
+              "snippet": "Blue Bird only learned of the sale after the RV was sold. Thus, with respect to Blue Bird, plaintiffs failed to sell the RV in a commercially reasonable manner with reasonable notice to Blue Bird, as required by Minn.Stat. \u00a7 336.2-706, and therefore are precluded from recovering under Minn.Stat. \u00a7 336.2-706.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.679016+00:00",
+              "published_date": null,
+              "source_hash": "83c6b45fc19a5ce083b49f270b4e0da7"
+            },
+            {
+              "url": "",
+              "title": "Jackson v. Blue Bird Corp., No. 18-14155 - Casetext",
+              "snippet": "Wayne Jackson filed a lawsuit against his former employer, Blue Bird Corporation (\"Blue Bird\"), alleging racial discrimination in violation of Title VII of the Civil Rights Act of 1964, 42 U.S.C. \u00a7 2000e-3(a) (\"Title VII\"). Blue Bird filed a motion for summary judgment, which the district court granted.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.679026+00:00",
+              "published_date": null,
+              "source_hash": "b7c08ac1ce38c69ad4536ba584e1cd5d"
+            },
+            {
+              "url": "",
+              "title": "School bus manufacturer found liable in business litigation brought by ...",
+              "snippet": "BIRMINGHAM, Mich., Nov. 23, 2010 /PRNewswire via COMTEX/-- On November 18, 2010, an Ottawa County, Michigan jury rendered a verdict in a business fraud lawsuit that Blue Bird Corporation committed intentional fraud, among other things, in that it knowingly manufactured 57 overweight and dangerous motor homes and for two years, between 2004-2006 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.679037+00:00",
+              "published_date": null,
+              "source_hash": "62f55a57612f167d3b0c423353dca991"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ACTION ALERT: The Schall Law Firm Encourages Investors in ...",
+              "snippet": "LOS ANGELES, May 15, 2024 /PRNewswire/ -- The Schall Law Firm, a national shareholder rights litigation firm, reminds investors of a class action lawsuit against bluebird bio, Inc. (\"bluebird\" or \"the Company\") (NASDAQ: BLUE) for violations of \u00a7\u00a710(b) and 20(a) of the Securities Exchange Act of 1934 and Rule 10b-5 promulgated thereunder by the U.S. Securities and Exchange Commission.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:30.679046+00:00",
+              "published_date": null,
+              "source_hash": "3abfbee74e82f7d3c5b1dd4ed5c99fea"
+            },
+            {
+              "url": "",
+              "title": "Is Blue Bird Corporation (BLBD) Among The Best Heavy Equipment and Industrial Machinery Stocks to Buy?",
+              "snippet": "We recently compiled a list of the 10 Best Heavy Equipment and Industrial Machinery Stocks to Buy. In this article, we are going to take a look at where Blue Bird Corporation (NASDAQ:BLBD) stands against the other heavy equipment and industrial machinery stocks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:34.173438+00:00",
+              "published_date": "2024-12-23T07:08:00+00:00",
+              "source_hash": "f1f9a702b3904f3b8870ce9d2f11c314"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation (BLBD)",
+              "snippet": "Blue Bird Corporation (BLBD) has disclosed a new risk ... These factors include legal limitations, terms of its Credit Agreement, and the discretion of its Board of Directors, which must consider ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:34.173496+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "f55eb7c01f63a488ee7470fb4342ed7b"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird JV Micro Bird to establish facility in New York State",
+              "snippet": "Blue Bird (BLBD) Corporation announced the U.S. expansion of Micro Bird's manufacturing operations to build small and midsize buses in New York State. Micro Bird, a 50/50 joint venture of Blue ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:34.173507+00:00",
+              "published_date": "2024-11-27T11:54:00+00:00",
+              "source_hash": "393905f9406bfe464026388251e85437"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation (BLBD)",
+              "snippet": "In this article, we are going to take a look at where Blue Bird Corporation (NASDAQ:BLBD) stands against the other heavy equipment and industrial machinery stocks. The industrial heavy equipment ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:01:34.173515+00:00",
+              "published_date": "2020-08-15T17:58:00+00:00",
+              "source_hash": "0003de6bd95b687a50bcccc925f9ed48"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation (NASDAQ:BLBD) Q4 2024 Earnings Call Transcript",
+              "snippet": "Blue Bird Corporation (NASDAQ:BLBD) Q4 2024 Earnings Call Transcript November 25, 2024 Blue Bird Corporation beats earnings expectations. Reported EPS is $0.731, expectations were $0.65.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:39.981249+00:00",
+              "published_date": "2024-11-26T13:13:00+00:00",
+              "source_hash": "0905b776f894d87fe3e4a88299b9eed8"
+            },
+            {
+              "url": "",
+              "title": "USW Files Unfair Labor Practice Charges Against Blue Bird, Calls on ...",
+              "snippet": "- The United Steelworkers union (USW) today filed unfair labor practice charges against Blue Bird Corporation, alleging the bus manufacturer's management broke the law in trying to dissuade workers from forming a union.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821223+00:00",
+              "published_date": null,
+              "source_hash": "f76caab3c5f4d1367e14fa4027ab8ba1"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Body Company | National Labor Relations Board",
+              "snippet": "Unfair Labor Practice Cases by Filing Party per Fiscal Year; ... Employer Employer Blue Bird Corporation: Fort Valley, GA 31030 (478)825-2021 : Petitioner Union United Steel, Paper and Forestry, Rubber, Manufacturing, Energy, Allied & Industrial Service Workers International Union, AFL-CIO-CLC:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821336+00:00",
+              "published_date": null,
+              "source_hash": "f96a752431125fea8f7fe0cd6d3a2cf0"
+            },
+            {
+              "url": "",
+              "title": "USW Files Unfair Labor Practice Charges Against Blue Bird, Calls on ...",
+              "snippet": "MACON, Ga., April 26, 2023 /PRNewswire/ -- The United Steelworkers union (USW) today filed unfair labor practice charges against Blue Bird Corporation, alleging the bus manufacturer's management ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821360+00:00",
+              "published_date": null,
+              "source_hash": "673f1d5563d64967cfc7fe9bba4a5bbf"
+            },
+            {
+              "url": "",
+              "title": "Chao v. Blue Bird Corporation, 5:06-CV-341 (CAR) - Casetext",
+              "snippet": "The Secretary of Labor filed this action on behalf Ricky Dye, a former employee of Defendant Blue Bird Corporation (\"Blue Bird\"), contending that Mr. Dye was unlawfully discharged in retaliation for raising safety concerns about a work assignment in violation of section 11(c)(1) of the Occupational Safety and Health Act, 29 U.S.C. \u00a7 660(c)(1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821373+00:00",
+              "published_date": null,
+              "source_hash": "47dc2295d6dda003b147083bbbc7196c"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird in Fort Valley denies USW union-busting charges - Macon Telegraph",
+              "snippet": "Ted Scartz, senior vice president and general counsel at Blue Bird Corporation, declined comment on the specific allegations of unfair legal practices and denied any wrongdoing by the company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821396+00:00",
+              "published_date": null,
+              "source_hash": "7f11b1187d9ab0d7495af8d869d7e78c"
+            },
+            {
+              "url": "",
+              "title": "Solis v. Blue Bird Corporation, 5:06-CV-341 (CAR) - Casetext",
+              "snippet": "The Secretary of Labor filed this action on behalf of Ricky Dye, a former employee of Blue Bird, contending that Mr. Dye was unlawfully discriminated against and terminated by Blue Bird in violation of Section 11(c)(1) of the Occupational Safety and Health Act, 29 U.S.C. \u00a7 660(c)(1). After holding a bench trial, this Court granted judgment in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821416+00:00",
+              "published_date": null,
+              "source_hash": "96e80a588e419067d2db1d50181d1efe"
+            },
+            {
+              "url": "",
+              "title": "Workers at Fort Valley's Blue Bird Corporation vote to join United ...",
+              "snippet": "According to the U.S. Bureau of Labor Statistics, the percentage of wage and salary workers who were members of unions was 10.1% in 2022. That's down slightly from 10.3% in 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821431+00:00",
+              "published_date": null,
+              "source_hash": "d81b415caf70c6b14aaa5bc800a47c31"
+            },
+            {
+              "url": "",
+              "title": "Ex-employees charge racial discrimination at Blue Bird",
+              "snippet": "This story was originally reported by Michael E. Kanell in The Atlanta Journal-Constitution on May 18, 2023 Two human resources employees say they were fired for telling managers of bias in hiring, pay and drug testing Two former Blue Bird employees have filed complaints with a federal agency charging the iconic bus manufacturer with racial [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821452+00:00",
+              "published_date": null,
+              "source_hash": "8ab19d40a8d6c3584b5c0b14caf70fff"
+            },
+            {
+              "url": "",
+              "title": "Bus Manufacturing Company Blue Bird Faces Lawsuit From Workers Who Say ...",
+              "snippet": "Bus manufacturing company, Blue Bird, headquartered in Fort Valley, is in the spotlight again after two former black female employees have alleged they were fired after they reported sexual harassment and discrimination amongst labor workers within the Blue Bird company. Their attorney said they were discriminated against as well for\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821468+00:00",
+              "published_date": null,
+              "source_hash": "98d585a45c1f1f11c0e7245b4cb5e969"
+            },
+            {
+              "url": "",
+              "title": "USW Files Unfair Labor Practice Charges Against Blue Bird, Calls on ...",
+              "snippet": "(Macon, Ga.) - The United Steelworkers union (USW) today filed unfair labor practice charges against Blue Bird Corporation, alleging the bus manufacturer's management broke the law in trying to dissuade workers from forming a union.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:36.821482+00:00",
+              "published_date": null,
+              "source_hash": "fd52630abf3b1b26067911798463e997"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation (BLBD): A Bull Case Theory",
+              "snippet": "We came across a bullish thesis on Blue Bird Corporation (BLBD) on Twitter by KyleAdamsStocks. In this article, we will summarize the bulls' thesis on BLBD. Blue Bird Corporation (BLBD)'s share ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:39.981081+00:00",
+              "published_date": "2024-12-24T00:00:00+00:00",
+              "source_hash": "8b5d8ab1b76db2f34a46f6e45ceb9557"
+            },
+            {
+              "url": "",
+              "title": "Blue Bird Corporation (BLBD)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:39.981185+00:00",
+              "published_date": "2024-12-30T00:00:00+00:00",
+              "source_hash": "182e83d2c5762d25460edebc61fd62d0"
+            },
+            {
+              "url": "",
+              "title": "Is Blue Bird Corporation (BLBD) Among The Best Heavy Equipment and Industrial Machinery Stocks to Buy?",
+              "snippet": "In this article, we are going to take a look at where Blue Bird Corporation (NASDAQ:BLBD) stands against the other heavy equipment and industrial machinery stocks. The industrial heavy equipment ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Blue Bird Corporation Blue Bird Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T15:01:39.981220+00:00",
+              "published_date": "2024-12-23T07:09:00+00:00",
+              "source_hash": "b1ff019405274eae146d2bba5101b7af"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Blue Bird Corporation emissions compliance issues",
+              "rationale": "Investigate potential violations or challenges related to emissions standards for school buses",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Blue Bird Corporation lawsuits or legal disputes",
+              "rationale": "Identify any ongoing or past legal issues that could impact the company's financial stability or reputation",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Blue Bird Corporation labor practices controversies",
+              "rationale": "Examine potential concerns related to employee treatment, working conditions, or union disputes",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:02:25.979443",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

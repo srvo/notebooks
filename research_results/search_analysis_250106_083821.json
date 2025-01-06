@@ -1,0 +1,578 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:38:21.732773",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Voya Financial Inc",
+      "symbol": "VOYA",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal challenges, including SEC settlements and cybersecurity breaches",
+            "Market volatility impacting investment management business",
+            "Intense competition in retirement and asset management sectors",
+            "Customer trust issues due to fee transparency and service quality complaints"
+          ],
+          "controversies": [
+            "$22.9 million SEC settlement in 2020 for disclosure failures and misleading statements",
+            "Cybersecurity breach in 2023 compromising personal information, leading to a $1 million SEC settlement",
+            "Customer complaints regarding account closures and unexpected fees"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer trust and ethical concerns due to past controversies around sales practices and fee disclosures"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and investor protection violations",
+            "Cybersecurity vulnerabilities and data security concerns"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Voya Financial Advisors: Overview of Complaints, Regulatory Actions ...",
+              "snippet": "The White Law Group reviews the regulatory history of Voya Financial Advisors. Voya Financial Advisors Background Voya Financial Advisors, Inc. (CRD#: 2882/SEC#: 801-46585,8-13987), based in Windsor, CT, is a dual registered broker dealer and investment advisory firm. It has approximately 800 registered representatives and over 300 branch offices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075474+00:00",
+              "published_date": null,
+              "source_hash": "cd1081df86e9aa72e6445eb3f4d06992"
+            },
+            {
+              "url": "",
+              "title": "Advisory Firm Settles Fraud Charges, Agrees to Repay Harmed Clients",
+              "snippet": "December 21, 2020 - The Securities and Exchange Commission today announced that Voya Financial Advisors, Inc. (Voya) has agreed to settle charges for its disclosure failures and misleading statements to clients regarding investment advice it gave about mutual funds, illiquid alternative investments and cash sweep vehicles. The settlement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075584+00:00",
+              "published_date": null,
+              "source_hash": "8b07c83fb5050ea399c7be1bbfd6c412"
+            },
+            {
+              "url": "",
+              "title": "voya-financial | Violation Tracker",
+              "snippet": "Violation Tracker, produced by the Corporate Research Project of Good Jobs First, is a wide-ranging database on misconduct by large and small corporations throughout the United States. ... Voya Financial Advisors, Inc. investor protection violation: 2020: SEC $22,919,155: ING Life Insurance & Annuity Co. benefit plan administrator violation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075603+00:00",
+              "published_date": null,
+              "source_hash": "b206beff02f0e0227dc45ddbbdb162c6"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Voya Financial Advisors, Inc., Respondent. ... in violation of Rule 30(a) of Regulation S-P (17 C.F.R. \u00a7 248.30(a)) (the \"Safeguards Rule\"), and VFA's failure to ... approximately 13 million customers and approximately $11 billion in regulatory assets under management. It is an indirect wholly-owned subsidiary of Voya. Background",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075618+00:00",
+              "published_date": null,
+              "source_hash": "6e1c3640ef0d1b5b8ce860e222bbca8b"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial: Customer Complaints & Regulatory Actions",
+              "snippet": "Voya Financial Advisors, Inc. (\"Voya Financial\") has many different complaints filed by FINRA (Financial Industry Regulatory Authority), state regulatory organizations, and investors such as yourself. At the Law Offices of Robert Wayne Pearce, we have investigated Voya Financial, its regulatory and customer complaints, and have also represented investors with claims of fraud, negligence ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188194+00:00",
+              "published_date": null,
+              "source_hash": "85362919f5fdfec0bba2688c39971e93"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Prior to September 1, 2014, Voya was known as ING Financial Partners, Inc. Voya Financial, Inc. (NYSE: VOYA), a publicly traded company, is the sole shareholder of Voya Holdings, Inc., which owns 100% of Voya. As of its most recent annual updating amendment on March 30, 2020, Voya reported regulatory assets under management of over $15.9 billion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075649+00:00",
+              "published_date": null,
+              "source_hash": "3c1b15af08c36d4b5a27da1dc187aa2e"
+            },
+            {
+              "url": "",
+              "title": "SEC slams Voya Financial with $23 million penalty for conflicts at RIA",
+              "snippet": "For almost six years, Voya Financial Advisors Inc. violated its fiduciary duty to advisory clients and was riddled with conflict of interest resulting in a fine and restitution to customers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075663+00:00",
+              "published_date": null,
+              "source_hash": "5ee75e024bcea2428fb74d32f27c38aa"
+            },
+            {
+              "url": "",
+              "title": "Voya Hit with $22.9 Million Fine by SEC - Blog - Eccleston Law",
+              "snippet": "The SEC alleged that Voya made misleading statements and provided inadequate disclosures relating to the firm's receipt of 12b-1 fees receiving from client investments. The SEC also found that Voya gave misleading comparisons to clients when making recommendations that clients transfer funds from money market funds to a bank sweep product.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075676+00:00",
+              "published_date": null,
+              "source_hash": "cd27f869d223f97b6e4a72f8662793a8"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Advisors, Inc. to Pay $22.9 Million Fine and Restitution ...",
+              "snippet": "Voya Financial Advisors, Inc. will disgorge $11,547,820 plus prejudgment interest of $2,371,335, and will pay a civil penalty of $9 million. According to the SEC, between January 2013 and December 2018, Voya Financial Advisors, Inc. engaged in practices that violated its fiduciary duty to its advisory clients, including:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075687+00:00",
+              "published_date": null,
+              "source_hash": "c37d5ea420027382d98865b940770474"
+            },
+            {
+              "url": "",
+              "title": "Voya Sanctioned $23 Million for Overcharging Customers",
+              "snippet": "In April 2019, Voya signed a consent order with the Financial Industry Regulatory Authority requiring it to repay $125,982 to some retirement plan and charitable organization customers for failing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:50.075700+00:00",
+              "published_date": null,
+              "source_hash": "54bfe3d8c5f0f1789f69570e25814714"
+            },
+            {
+              "url": "",
+              "title": "B of A Securities Downgrades Voya Financial (VOYA)",
+              "snippet": "Voya Financial Background Information (This description is provided by the company.) Voya Financial, Inc. helps Americans plan, invest and protect their savings - to get ready to retire better.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:52.532970+00:00",
+              "published_date": "2024-12-11T22:19:00+00:00",
+              "source_hash": "3fae42274972babd9e41e6857278bf4d"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial completes acquisition of OneAmerica Financial's retirement plan business \u2014 now supports nearly 8 million participants",
+              "snippet": "NEW YORK, January 02, 2025--(BUSINESS WIRE)--Voya Financial, Inc. (NYSE: VOYA) announced today that it has completed its acquisition of the OneAmerica Financial, Inc. full-service retirement plan ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:52.533063+00:00",
+              "published_date": "2025-01-02T14:00:00+00:00",
+              "source_hash": "ff4fa7c008b3b95f1a3cf2b145b0eb56"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial cut to Neutral at BofA after update on stop loss business",
+              "snippet": "Voya Financial (NYSE:VOYA) shares slipped 1.4% in Wednesday morning trading after a lackluster update on the company's medical stop-loss business prompted Bank of America Securities to downgrade ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:02.574414+00:00",
+              "published_date": "2024-12-11T09:57:00+00:00",
+              "source_hash": "c4a237175deac4f9d3e8911a5112a055"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial now sees Stop Loss ratio for policy year 90%-105%",
+              "snippet": "In a regulatory filing on ... market-moving breaking financial news. Try Now>> See today's best-performing stocks on TipRanks >> Read More on VOYA: Voya Financial NewsMORE Related Stocks Indices ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc regulatory violations",
+              "retrieved_at": "2025-01-06T15:37:52.533128+00:00",
+              "published_date": "2024-12-10T08:51:00+00:00",
+              "source_hash": "5e2d1fd36b847fdc83b71c27e3e4ade8"
+            },
+            {
+              "url": "",
+              "title": "B of A Securities Downgrades Voya Financial, Inc. - Preferred Stock (VOYA.PRB)",
+              "snippet": "Fintel reports that on December 11, 2024, B of A Securities downgraded their outlook for Voya Financial, Inc. - Preferred Stock (NYSE:VOYA.PRB) from Buy to Neutral. What is the Fund Sentiment?",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:02.574357+00:00",
+              "published_date": "2024-12-13T00:07:00+00:00",
+              "source_hash": "d8f542eb479401c432651f2b317fbb98"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Inc. | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Voya Financial Inc. filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188039+00:00",
+              "published_date": null,
+              "source_hash": "4dc09a42cd1243299321f2ebf01fecf0"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Reviews | Read Customer Service Reviews of voya.com",
+              "snippet": "I did a complete 401(k) rollover to another financial institution from Voya and they took a $20 processing fee out. I had no problem with that. However, somehow $20.54 was left in the account. I called them and they said they would send me a check for the balance minus state taxes and waive the $20 fee. I received a check for 29 cents!",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188135+00:00",
+              "published_date": null,
+              "source_hash": "b22f5262c71eb6d8a964224df2a3379a"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Advisors: Overview of Complaints, Regulatory Actions",
+              "snippet": "The White Law Group reviews the regulatory history of Voya Financial Advisors. Voya Financial Advisors Background Voya Financial Advisors, Inc. (CRD#: 2882/SEC#: 801-46585,8-13987), based in Windsor, CT, is a dual registered broker dealer and investment advisory firm. It has approximately 800 registered representatives and over 300 branch offices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188167+00:00",
+              "published_date": null,
+              "source_hash": "5ad41d31711443b2a4a9d37400d1f869"
+            },
+            {
+              "url": "",
+              "title": "Investigating Customer Complaints Against Voya Financial Services - MDF Law",
+              "snippet": "Voya, a broker-dealer and investment adviser based in Des Moines, Iowa, is no stranger to regulatory scrutiny, having paid millions over allegations it failed to uphold its duties to customers. If you or someone you know has a complaint regarding your Voya Financial Services account, please call us at 800-767-8040 to speak to an attorney for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188219+00:00",
+              "published_date": null,
+              "source_hash": "a06446b60ebf67093fde77204b1e4833"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Advisors | BBB Complaints - Better Business Bureau",
+              "snippet": "View customer complaints of Voya Financial Advisors, BBB helps resolve disputes with the services or products a business provides. ... The lack of transparency of this company is unethical and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188243+00:00",
+              "published_date": null,
+              "source_hash": "b534b18d89d74e7091d77c5fc7ddc0c2"
+            },
+            {
+              "url": "",
+              "title": "Statements and policies | Voya.com - Voya Financial",
+              "snippet": "Voya Financial businesses are built on trust \u2014 the trust our institutional and individual customers have in our products, services and employees. Although this basic truth applies across business in general, it is especially meaningful in financial services, where Voya is charged with helping manage customers' money and lifelong financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188269+00:00",
+              "published_date": null,
+              "source_hash": "6dba8724c6eb4ae25de87e0a468b504b"
+            },
+            {
+              "url": "",
+              "title": "VOYA Financial Advisors Fraud and/or Investment Loss Customer Complaint ...",
+              "snippet": "ING Financial Partners, Inc. NWNL Management Corporations; Variable Life Brokerage Distributors; Voya Financial Advisors, Inc. Washington Square Securities, Inc. The parent company is ING (Dutch). Voya separated from them and went public in 2013. Voya (ticker: VOYA) went from number 46 in 2018 to number 6 in 2019.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188300+00:00",
+              "published_date": null,
+              "source_hash": "e9dd15fbfae9aedd3e4cd0ee1a5a88a8"
+            },
+            {
+              "url": "",
+              "title": "VOYA Financial Accused of Charging Retirement Plan Members Excessive Fees",
+              "snippet": "VOYA Financial, Inc. and VOYA Retirement Insurance and Annuity Company are facing claims that they charged 'excessive' fees for providing administrative services to the members of a retirement plan. Lawsuit List. ... The complaint notes that though the changes were small, they can result in \"vast differences\" in the amounts available to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188325+00:00",
+              "published_date": null,
+              "source_hash": "a24be878d4986173bb550e705b931a99"
+            },
+            {
+              "url": "",
+              "title": "Brokerage Firm Review: Voya Financial Advisors - Sonn Law Group",
+              "snippet": "What Investors Need to Know About Regulatory Actions and Customer Complaints Involving Voya Financial Advisors. Voya Financial Advisors (CRD#: 2882/SEC#: 801-46585,8-13987) is a brokerage firm and investment advisory firm regulated by FINRA and the SEC.Based in Des Moines, Iowa, Voya Financial Advisors is licensed to operate in 53 U.S. states and American territories.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:54.188347+00:00",
+              "published_date": null,
+              "source_hash": "0c870f2d519917b14613fd2990b74c41"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial completes acquisition of OneAmerica Financial's retirement plan business \u2014 now supports nearly 8 million participants",
+              "snippet": "Voya Financial, Inc. (NYSE: VOYA) announced today that it ... \"As we welcome the OneAmerica Financial retirement customers and associates to Voya, we look forward to working together with ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:57.602386+00:00",
+              "published_date": "2025-01-02T06:00:00+00:00",
+              "source_hash": "d1d207d7dbe573536bac08ac0cf85821"
+            },
+            {
+              "url": "",
+              "title": "Why Is Voya (VOYA) Up 10.2% Since Last Earnings Report?",
+              "snippet": "Voya Financial Q3 Earnings Surpass Estimates on Higher Premiums Voya Financial, Inc. reported third-quarter ... The increase was driven by higher fee income, premiums and other revenues.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:57.602490+00:00",
+              "published_date": "2024-12-04T00:00:00+00:00",
+              "source_hash": "83e5787a170244aed223ddf10423d83f"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial completes acquisition of OneAmerica Financial's retirement plan business - now supports nearly 8 million participants",
+              "snippet": "Voya Financial, Inc. (NYSE: VOYA) announced today that it has completed ... \"As we welcome the OneAmerica Financial retirement customers and associates to Voya, we look forward to working together with our talented and complementary new team members ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:57.602524+00:00",
+              "published_date": "2025-01-02T14:22:00+00:00",
+              "source_hash": "ae8f0362d274abe8efc10ace8d52ff08"
+            },
+            {
+              "url": "",
+              "title": "Why Is Voya (VOYA) Up 10.2% Since Last Earnings Report?",
+              "snippet": "Voya Financial, Inc. reported third-quarter 2024 adjusted ... The increase was driven by higher fee income, premiums and other revenues. Net investment income decreased 7.5% year over year to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:57.602554+00:00",
+              "published_date": "2024-12-04T16:30:00+00:00",
+              "source_hash": "df8012aaca7c4c0c14787f091c40698e"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Stock Rises 18.5% in 3 Months: Jump in or Wait out?",
+              "snippet": "Shares of Voya Financial, Inc. VOYA have gained 18.5% in the past ... improved investment income, weaker fee-based margin, a favorable change in deferred acquisition costs and value of business ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Voya Financial Inc Voya Financial Inc customer complaints fee transparency",
+              "retrieved_at": "2025-01-06T15:37:57.602578+00:00",
+              "published_date": "2024-11-21T14:21:00+00:00",
+              "source_hash": "f93feae208998015698195e05cd0b6aa"
+            },
+            {
+              "url": "",
+              "title": "Voya pays $1 million to settle SEC charges over cybersecurity breach",
+              "snippet": "Voya Financial Advisors will pay $1 million to settle Securities and Exchange Commission charges regarding a data security breach that compromised the personal information of thousands of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022330+00:00",
+              "published_date": null,
+              "source_hash": "9423dbeec2913a10bde2a4cf9e3855b1"
+            },
+            {
+              "url": "",
+              "title": "Social Security Numbers of Consumers Leaked in Data Breach at Voya ...",
+              "snippet": "More than 7,200 individuals are employed by Voya Financial, which brings in about $7 billion annually. Information About the Voya Financial Advisors Breach. Voya learned that an unauthorized third party had accessed an employee's email account on February 9, 2023, according to the company's filing with the Massachusetts Attorney General.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022406+00:00",
+              "published_date": null,
+              "source_hash": "5de9ac9e71c9e1b34d9c207d92163ab5"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Advisors, Inc. Reports Recent Data Breach Leaking an ...",
+              "snippet": "Voya is a provider of retirement plan solutions for tax-exempt employers. The company offers securities through Voya Financial Advisors, Inc. Voya Financial employs more than 7,200 people and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022423+00:00",
+              "published_date": null,
+              "source_hash": "32a8400107b39d5c0ce56e859c5c490c"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Firm With Deficient Cybersecurity Procedures",
+              "snippet": "The SEC charged Voya Financial Advisors Inc. (VFA) with violating the Safeguards Rule and the Identity Theft Red Flags Rule, which are designed to protect confidential customer information and protect customers from the risk of identity theft. This is the first SEC enforcement action charging violations of the Identity Theft Red Flags Rule.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022434+00:00",
+              "published_date": null,
+              "source_hash": "78d88205bf2ec41b54532e6041c7adba"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Data Breach Investigation - Strauss Borrelli PLLC",
+              "snippet": "Voya Financial is a financial services company that specializes in investments, insurance, and retirement planning.Founded in 2014, Voya Financial originated as a retirement and investment management subsidiary of ING to establishing itself as an independent company in 2013.By 2014, Voya Financial had completed the rebranding process to its current name.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022446+00:00",
+              "published_date": null,
+              "source_hash": "3bf8c1e9cb9f1bcb22b204f8737b5367"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial Advisors (VFA) (2023-02-09) Cyber-Attack Hack Breach ...",
+              "snippet": "Voya Financial Advisors is a provider of retirement plan solutions for tax-exempt employers and offers securities through Voya Financial Advisors, Inc. The company employs over 7,200 people and generates approximately $7 billion in annual revenue.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022459+00:00",
+              "published_date": null,
+              "source_hash": "a706afe6ee2d6811e3cf3b9208ec655f"
+            },
+            {
+              "url": "",
+              "title": "Voya to Pay $1 Million Penalty for Cybersecurity Failures",
+              "snippet": "The Securities and Exchange Commission has charged Voya Financial Advisors for cybersecurity failures, which also exposes a weakness in its independent advisor force.Voya settled the charges ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022472+00:00",
+              "published_date": null,
+              "source_hash": "852e2e91d380076eb217bc3ae7671c86"
+            },
+            {
+              "url": "",
+              "title": "Voya cybersecurity blunder should serve as a wake-up call to the entire ...",
+              "snippet": "By now, anyone responsible for cybersecurity at a financial advisory firm is probably tired of hearing about the subject.But the recent $1 million fine levied against Voya Financial Services ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022483+00:00",
+              "published_date": null,
+              "source_hash": "93e82b5356b93ba3a2b8f0b5a0c0e9e7"
+            },
+            {
+              "url": "",
+              "title": "Avoiding an SEC Whack after a Cyber Hack - Bass, Berry & Sims PLC",
+              "snippet": "Adding insult to injury, the Securities and Exchange Commission (SEC) fined Voya Financial Advisors Inc. (VFA) $1 million and ordered a comprehensive two-year review by a compliance consultant, following a cyber-attack on VFA's business. On September 26, 2018, in the first-ever SEC enforcement action charging violations of the Identity Theft Red Flags Rule, VFA agreed \u2026 Continued",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022495+00:00",
+              "published_date": null,
+              "source_hash": "3b1936f95b893df287e1827aed5a70be"
+            },
+            {
+              "url": "",
+              "title": "The Red Flags Rule: SEC Charges Voya Financial Advisors Inc. With ...",
+              "snippet": "In the first case of its kind, charges have been filed against a firm for failure to meet the standards of identity theft the Red Flags Rule, which sets standards for the protection of customers against identity theft.. Des Moines broker-dealer, Voya Financial Advisors Inc. (VFA), has recently agreed to pay $1 million in penalties to settle charges related to a failure of cybersecurity ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:00.022518+00:00",
+              "published_date": null,
+              "source_hash": "6e4ed4e8682237a204e5e884b4876705"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial, Inc. (NYSE:VOYA) Receives $86.50 Consensus Target Price from Brokerages",
+              "snippet": "Shares of VOYA opened at $69.83 on Wednesday. The firm has a 50 day simple moving average of $80.41 and a two-hundred day simple moving average of $75.04. The company has a market cap of $6.72 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:02.574248+00:00",
+              "published_date": "2024-12-14T00:00:00+00:00",
+              "source_hash": "e60d451be66840f6d1f758c16d63b91c"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial, Inc. (NYSE:VOYA) Shares Sold by MML Investors Services LLC",
+              "snippet": "Voya Financial, Inc. has a twelve month low of $63.11 and a twelve month high of $84.30. The company has a current ratio of 0.31, a quick ratio of 0.31 and a debt-to-equity ratio of 0.54.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:02.574388+00:00",
+              "published_date": "2024-12-24T00:00:00+00:00",
+              "source_hash": "ba11f486a4ecbbc5a3e88c537781c357"
+            },
+            {
+              "url": "",
+              "title": "Voya Financial teams up with Orion to launch new technology platform for financial professionals",
+              "snippet": "Voya WealthPath provides Voya Financial Advisors with broader in- and out-of-plan solution set to support clients' wealth management needs more efficiently Voya Financial, Inc. (NYSE: VOYA ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Voya Financial Inc Voya Financial Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:38:02.574438+00:00",
+              "published_date": "2024-12-03T05:30:00+00:00",
+              "source_hash": "442807809a167ac0ae6bedfb87683e4c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Voya Financial Inc regulatory violations",
+              "rationale": "Investigate compliance with SEC, DOL, and state insurance regulations",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Voya Financial Inc customer complaints fee transparency",
+              "rationale": "Explore customer trust issues related to fee disclosures and sales practices",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Voya Financial Inc cybersecurity breaches",
+              "rationale": "Assess risks related to data security and potential breaches",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:38:21.732779",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

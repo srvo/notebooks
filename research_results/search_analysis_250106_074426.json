@@ -1,0 +1,459 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:44:26.397722",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Broadway Financial Corporation",
+      "symbol": "BYFC",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and compliance issues, including Nasdaq non-compliance and ongoing legal investigations",
+            "Higher leverage with a debt-to-equity ratio of 1.45, indicating vulnerability to economic downturns",
+            "Sensitivity to economic cycles due to focus on underserved markets and real estate lending",
+            "Operational risks from dependence on third-party technology providers",
+            "Capital adequacy concerns and potential challenges in maintaining regulatory requirements"
+          ],
+          "controversies": [
+            "Nasdaq non-compliance notification for failure to file Q3 2023 Form 10-Q",
+            "Ongoing investigations by law firms into potential breaches of fiduciary duty related to the 2021 merger with CFBanc Corporation"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Focus on underserved markets and affordable housing, increasing exposure to economic and regulatory risks",
+            "Potential reputational risks from broader industry criticism of predatory lending practices"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and internal control concerns due to delayed financial filings",
+            "Legal investigations into fiduciary duty breaches and merger-related issues"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Purcell & Lefkowitz LLP Announces Shareholder ...",
+              "snippet": "NEW YORK, Jan. 2, 2025 /PRNewswire/ -- Purcell & Lefkowitz LLP announces that it is investigating Broadway Financial Corporation (NASDAQ: BYFC) on behalf of the company's shareholders. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091406+00:00",
+              "published_date": null,
+              "source_hash": "aef944c7f0fab9121a65d2147474457b"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation Faces Regulatory Non-Compliance and ...",
+              "snippet": "Broadway Financial Corporation (NASDAQ: BYFC), the parent company of City First Bank, National Association, has received a letter from the Nasdaq Stock Market LLC (Nasdaq) notifying them about their non-compliance with Nasdaq Listing Rule 5250(c)(1). The reason behind the non-compliance is Broadway's failure to file its Quarterly Report on Form 10-Q for the period ended September 30, 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091525+00:00",
+              "published_date": null,
+              "source_hash": "e698e4076f942444789839ed0143d9b8"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: WeissLaw LLP Investigates Broadway Financial Corporation",
+              "snippet": "NEW YORK, Aug. 26, 2020 /PRNewswire/ -- WeissLaw LLP is investigating possible breaches of fiduciary duty and other violations of law by the board of directors of Broadway Financial Corporation (\"BYFC\" or the \"Company\") (NASDAQ: BYFC) in connection with the proposed stock-for-stock merger of equals with CFBanc Corporation (\"City First\"). Under the terms of the merger agreement, City First ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091584+00:00",
+              "published_date": null,
+              "source_hash": "fd61efb96b5e270282603f0103dc0ac3"
+            },
+            {
+              "url": "",
+              "title": "Purcell & Lefkowitz LLP Announces Shareholder Investigation of Broadway ...",
+              "snippet": "NEW YORK, Jan. 2, 2025 /PRNewswire/ -- Purcell & Lefkowitz LLP announces that it is investigating Broadway Financial Corporation (NASDAQ: BYFC) on behalf of the company's shareholders. The investigation seeks to determine whether Broadway Financial Corporation's directors breached their fiduciary duties in connection with recent corporate actions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091604+00:00",
+              "published_date": null,
+              "source_hash": "f12491d5c1a430f56d0962d8d07ff58c"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation - 10K/A - Annual Report - Fintel",
+              "snippet": "Effective April 1, 2021, Broadway Financial Corporation (the \"Company\") completed a merger with CFBanc Corporation (\"CFBanc\") in which the Company was the surviving corporation. ... rule or regulation (excluding traffic violations and similar offenses); entry of a final regulatory cease and desist order against the NEO; and other ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091618+00:00",
+              "published_date": null,
+              "source_hash": "753282b9806a631f74003dc5641a9baa"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation and CFBanc Corporation Announce Receipt ...",
+              "snippet": "WASHINGTON& LOS ANGELES---- Broadway Financial Corporation and CFBanc Corporation jointly announced today that they have received the regulatory approvals required to complete their proposed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091641+00:00",
+              "published_date": null,
+              "source_hash": "8c2056d8a8e0a8d8f83d4f4b2ac25741"
+            },
+            {
+              "url": "",
+              "title": "WeissLaw LLP Investigates Broadway Financial Corporation",
+              "snippet": "NEW YORK, Aug. 26, 2020 /PRNewswire/ -- WeissLaw LLP is investigating possible breaches of fiduciary duty and other violations of law by the board of directors of Broadway Financial Corporation ... -August 26, 2020 at 06:36 pm EDT - MarketScreener",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091661+00:00",
+              "published_date": null,
+              "source_hash": "b4c5a5755d35e2215110ca74206ef5cd"
+            },
+            {
+              "url": "",
+              "title": " BROADWAY FINANCIAL CORPORATION - SEC.gov",
+              "snippet": "BROADWAY FINANCIAL CORPORATION (Exact name of registrant as specified in its charter) Delaware 95-4547287 (State or other jurisdiction of incorporation or organization) (I.R.S. Employer Identification No.) 4601 Wilshire Boulevard, Suite 150 Los Angeles, California 90010 (Address of principal executive offices) (Zip Code) (323) 634-1700",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157505+00:00",
+              "published_date": null,
+              "source_hash": "0336b9cd3e966d2286f447e2991ec9c1"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial-CFBanc deal gets regulatory approvals",
+              "snippet": "In addition, City First Enterprises Inc., a nonprofit corporation that is the largest stockholder of CFBanc, received regulatory approval from the San Francisco Fed to acquire about 18.85% of Broadway Financial pursuant to the merger and thereby indirectly acquire control of Broadway Federal Bank.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091689+00:00",
+              "published_date": null,
+              "source_hash": "048155551217076826daa58ba975bea4"
+            },
+            {
+              "url": "",
+              "title": " Stockholders of Broadway Financial Corporation and CFBanc Corporation ...",
+              "snippet": "City First and Broadway previously announced that they have received all regulatory approvals necessary for consummation of their merger. With stockholder approval now obtained, the merger is expected to close on April 1, 2021 and their previously announced private placements of common ... Broadway Financial Corporation, Investor Relations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:52.091699+00:00",
+              "published_date": null,
+              "source_hash": "a1ff77bd2b0ecd8705dea5723df40f60"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Purcell & Lefkowitz LLP Announces Shareholder Investigation of Broadway Financial Corporation (NASDAQ: BYFC)",
+              "snippet": "NEW YORK, Jan. 2, 2025 /PRNewswire/ -- Purcell & Lefkowitz LLP announces that it is investigating Broadway Financial Corporation (NASDAQ: BYFC) on behalf of the company's shareholders. The ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:55.457091+00:00",
+              "published_date": "2025-01-02T06:15:00+00:00",
+              "source_hash": "b9475f766f8e6eeef770203cb5948f24"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation Appoints Crowe LLP as Independent Registered Public Accounting Firm",
+              "snippet": "On December 18, 2024, the Audit Committee of Broadway Financial Corporation (NASDAQ: BYFC) announced the approval of Crowe LLP as the company's independent registered public accounting firm for the fiscal year ending December 31,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:05.438794+00:00",
+              "published_date": "2024-12-26T10:02:00+00:00",
+              "source_hash": "471a9947b7d30f05a70cfb0bde96c3a4"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Purcell & Lefkowitz LLP Announces Shareholder Investigation of Broadway Financial Corporation (NASDAQ: BYFC)",
+              "snippet": "NEW YORK, Jan. 2, 2025 /PRNewswire/ -- Purcell & Lefkowitz LLP announces that it is investigating Broadway Financial Corporation (NASDAQ: BYFC) on behalf of the company's shareholders. The investigation seeks to determine whether Broadway Financial ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation regulatory violations",
+              "retrieved_at": "2025-01-06T14:43:55.457132+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "6844d0c072b52c68661fd7047f5cb12f"
+            },
+            {
+              "url": "",
+              "title": "FDIC Should Downgrade Three Banks Engaged in Predatory \"Rent-a ... - NCLC",
+              "snippet": "Utah's Capital Community and First Electronic Banks and Kentucky's Republic Bank & Trust accused of predatory lending, evasions of state interest rate limits WASHINGTON \u2014 A coalition of consumer advocates is urging the Federal Deposit Insurance Corporation (FDIC) to downgrade the Community Reinvestment Act (CRA) rating of three banks. Utah's Capital Community Bank (CC Bank)\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007205+00:00",
+              "published_date": null,
+              "source_hash": "a7de12a8fec5061d2dade70c7a55ac15"
+            },
+            {
+              "url": "",
+              "title": "Activist exits stake in Broadway Financial, urges more African American ...",
+              "snippet": "The investor criticized company leadership for not being",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007319+00:00",
+              "published_date": null,
+              "source_hash": "8c106b7de0a70e892e23dda7314470e9"
+            },
+            {
+              "url": "",
+              "title": " Stockholders of Broadway Financial Corporation and CFBanc Corporation ...",
+              "snippet": "Broadway Federal Bank operates three full-service branches, two in the city of Los Angeles, and one located in the nearby city of Inglewood, California. Shareholders, analysts and others seeking information about Broadway are invited to write to: Broadway Financial Corporation, Investor Relations, 5055 Wilshire Blvd, Suite 500, Los Angeles. CA",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007332+00:00",
+              "published_date": null,
+              "source_hash": "c1ec0d456a817da453c352cec52221cd"
+            },
+            {
+              "url": "",
+              "title": "Stockholders Approve Merger | CityFirst Bank",
+              "snippet": "Broadway Federal Bank operates three full-service branches, two in the city of Los Angeles, and one located in the nearby city of Inglewood, California. Shareholders, analysts and others seeking information about Broadway are invited to write to: Broadway Financial Corporation, Investor Relations, 5055 Wilshire Blvd, Suite 500, Los Angeles.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007370+00:00",
+              "published_date": null,
+              "source_hash": "ec7d9150a37b60dfb897fe01c1d9144b"
+            },
+            {
+              "url": "",
+              "title": "Two Black Owned Banks Combine to Create the Largest Minority ... - EURweb",
+              "snippet": "Broadway Financial Corporation and CFBanc Corporation to Combine to Create the Largest Black-Led Minority Depository Institution in the U.S. Community development finance leaders City First Bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007403+00:00",
+              "published_date": null,
+              "source_hash": "7aae4a7c3b4bc551af981d4870a17524"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation (BYFC): history, ownership, mission, how ...",
+              "snippet": "[relinking] Home History Owners Mission How It Works How It Makes Money Broadway Financial Corporation (BYFC) InformationA Brief History of Broadway Financial Corporation (BYFC) Broadway Financial Corporation (BYFC) was founded in 1946 as Broadway Federal Savings and Loan Association, one of the first African-American owned financial institutions in Los Angeles. The company was formed to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007416+00:00",
+              "published_date": null,
+              "source_hash": "cc89578823ddd01deb1f7497ad68891b"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation and CFBanc Corporation to Combine to ...",
+              "snippet": "Copies of the Registration Statement and the Joint Proxy/Prospectus can also be obtained, when it becomes available, free of charge by directing a request to Broadway Financial Corporation, 5055 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007437+00:00",
+              "published_date": null,
+              "source_hash": "99a0894d016713ffb1955a134364ff93"
+            },
+            {
+              "url": "",
+              "title": "Black Owned Banks City First and Broadway Financial Corp merge to form ...",
+              "snippet": "CFBanc Corporation (\"City First\") in Washington, DC and Broadway Financial Corporation (\"Broadway,\" Nasdaq: BYFC) in Los Angeles, CA announced today that they have entered into a transformational Merger of Equals agreement to create the largest Black-led Minority Depository Institution (MDI) in the nation with more than $1 billion in combined assets under management and approximately\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007445+00:00",
+              "published_date": null,
+              "source_hash": "c4e4d6a6ea3ce5857f75c39306b6c6e4"
+            },
+            {
+              "url": "",
+              "title": "The Finesse Job that Kept Broadway Financial Out of Bankruptcy",
+              "snippet": "Broadway began working on the recapitalization in 2010, completing the process in August and registering new stock earlier this month. Broadway managed to trade common stock for about $22.8 million in Troubled Asset Relief Program preferred shares and other obligations, while also raising more than $4 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007456+00:00",
+              "published_date": null,
+              "source_hash": "e18a3e2bd664f108dfbbdec86795fc46"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation and CFBanc Corporation to Combine to ...",
+              "snippet": "CFBancCorporation (\"City First\") in Washington, DC and Broadway Financial Corporation (\"Broadway,\" Nasdaq: BYFC) in Los Angeles, CAannounced today that they have entered into a transformational Merger of Equals agreement to create the largest Black-led Minority Depository Institution (MDI) in the nation with more than $1 billion in combined assets under management and approximately $850 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation community lending controversies",
+              "retrieved_at": "2025-01-06T14:43:58.007477+00:00",
+              "published_date": null,
+              "source_hash": "82918c9b2341830c1daffd1015c5cb9b"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down Broadway Financial Corporation (BYFC) Financial Health ...",
+              "snippet": "The following table summarizes the relevant debt and equity metrics for Broadway Financial Corporation compared to industry standards: Metric Broadway Financial Corporation Industry Average Long-term Debt $45 million $30 million Short-term Debt $10 million $5 million Total Debt $55 million $35 million Debt-to-Equity Ratio 1.45 1.0 Credit Rating ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157401+00:00",
+              "published_date": null,
+              "source_hash": "622673d63fd3dc445c3d44e3e644eb2f"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation - 10K/A - Annual Report - Fintel",
+              "snippet": "Broadway Financial Corporation - 10K/A - Annual Report - April 30, 2021 ... David J. McGrady is a consultant specializing in community development issues and is a nationally recognized expert on the New Markets Tax Credit program. He has been the key advisor on 31 successful New Markets Tax Credit applications, with allocations totaling more ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157520+00:00",
+              "published_date": null,
+              "source_hash": "f85d5da2fdce7269bd023348269aad55"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corp De (BYFC) 10-K Annual Report March 2021",
+              "snippet": "LOS ANGELES, CA - (BUSINESS WIRE) - March 2, 2021 - Broadway Financial Corporation (the \"Company\") (NASDAQ Capital Market: BYFC), parent company of Broadway Federal Bank, f.s.b. (the \"Bank\"), today reported a net loss of $581 thousand, or ($0.02) per share, for the fourth quarter of 2020 compared to a net loss of $69 thousand, or less than $0.01 per share, for the fourth quarter ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157531+00:00",
+              "published_date": null,
+              "source_hash": "db0948e4f328cecac4531c1e1b8537c5"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation - AnnualReports.com",
+              "snippet": "Broadway Financial Corporation (the \"Company\") is a bank holding company based in Los Angeles, California that conducts its operations through its wholly-owned subsidiary, Broadway Federal Bank, f.s.b. (the \"Bank\" and collectively with the Company, \"Broadway\"), which is the leading community-oriented savings bank in Southern California serving low-to-moderate income communities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157544+00:00",
+              "published_date": null,
+              "source_hash": "ff5bbffad9dbb5db2a738938695b2a0e"
+            },
+            {
+              "url": "",
+              "title": " Broadway Financial Annual Report 2022 - StockLight",
+              "snippet": "BROADWAY FINANCIAL CORPORATION (Exact name of registrant as specified in its charter) Delaware 95-4547287 ... He also served as President, Chief Executive Officer, and director of Fulcrum Venture Capital Corporation, a federally licensed and regulated Small Business Investment Company. Prior to joining the Fulcrum entities, Mr. Argrett was an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157553+00:00",
+              "published_date": null,
+              "source_hash": "94d1b2f6c387637639e636e265479207"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation (BYFC) - Yahoo Finance",
+              "snippet": "Broadway Financial Corporation Overview Banks - Regional / Financial Services. ... BankFirst Capital Corporation. 40.50. 0.00%. Mkt Cap 219.978M . Industry Banks\u2014Regional. Statistics: BYFC",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157581+00:00",
+              "published_date": null,
+              "source_hash": "21a5cc130893534eb209b8402d91a76a"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation Reports Results for the Fourth Quarter ...",
+              "snippet": "LOS ANGELES--(BUSINESS WIRE)--Broadway Financial Corporation (\"Broadway\", \"we\" or the \"Company\") (NASDAQ Capital Market: BYFC), reported a consolidated net loss of $1.4 million, or ($0 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157596+00:00",
+              "published_date": null,
+              "source_hash": "facf9dd622623bdc1e625d315b213b4e"
+            },
+            {
+              "url": "",
+              "title": " Broadway Financial Corporation and CFBanc Corporation to ombine to ...",
+              "snippet": "(\"Broadway Federal Bank, \" a Broadway subsidiary) each hold a strong financial position as Community Development Financial Institutions (CDFI), and have a longstanding history of advancing economic and social equity through the provision of capital in low - to moderate -income communities. The combined institution will",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157606+00:00",
+              "published_date": null,
+              "source_hash": "541b51553dcf74d644b4ac0cf5baf621"
+            },
+            {
+              "url": "",
+              "title": "Broadway Financial Corporation : Reports Results for the Second Quarter ...",
+              "snippet": "Broadway Financial Corporation (\"Broadway\", \"we\" or the \"Company\") (NASDAQ Capital Market: BYFC), reported consolidated net income of $701 thousand, or $0.01 per diluted share, for the second quarter of 2021, compared to a consolidated net loss of $3.5 million, or $(0.13) per share for the first quarter of 2021 and consolidated net income of $216 thousand, or $0.01 per diluted ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Broadway Financial Corporation Broadway Financial Corporation capital adequacy concerns",
+              "retrieved_at": "2025-01-06T14:44:02.157615+00:00",
+              "published_date": null,
+              "source_hash": "6b6e5396f4baad9a6b536b3af3a79775"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Broadway Financial Corporation regulatory violations",
+              "rationale": "Investigate potential legal or regulatory issues due to its federally chartered status and oversight by OCC and FDIC",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Broadway Financial Corporation community lending controversies",
+              "rationale": "Assess any controversies related to its community development lending practices, particularly in underserved markets",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Broadway Financial Corporation capital adequacy concerns",
+              "rationale": "Explore risks related to maintaining sufficient capital levels to meet regulatory requirements and support growth",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:44:26.397741",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

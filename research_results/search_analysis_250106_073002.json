@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:30:02.419817",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Simpson Manufacturing Co",
+      "symbol": "SSD",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on raw materials like steel",
+            "Economic sensitivity tied to the cyclical construction industry",
+            "Regulatory risks from changes in building codes, trade policies, or environmental regulations",
+            "Cybersecurity vulnerabilities highlighted by a recent cyberattack",
+            "Ongoing legal disputes, including a case against Zurich American Insurance",
+            "Intense competitive pressures in the construction materials market"
+          ],
+          "controversies": [
+            "Recent cyberattack leading to operational disruptions",
+            "Ongoing litigation, including a case against Zurich American Insurance"
+          ],
+          "environmental_issues": [
+            "Dependency on raw materials with potential environmental impact",
+            "Need for compliance with evolving environmental regulations"
+          ],
+          "social_issues": [
+            "Potential impact of economic downturns on employment in the construction sector",
+            "Cybersecurity incident affecting customer trust"
+          ],
+          "governance_issues": [
+            "Need for robust cybersecurity measures to protect against future disruptions",
+            "Legal disputes potentially leading to financial liabilities or reputational damage"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Company, Inc. et al v. Zurich American Insurance ...",
+              "snippet": "Simpson Manufacturing Company, Inc., Simpson Strong-Tie Company Inc and Simpson Strong-Tie Company Inc. Defendant: Steadfast Insurance Company, Zurich American Insurance Company and American Guarantee & Liability Insurance Company: Case Number: 3:2021cv01671: Filed: March 9, 2021: Court: US District Court for the Northern District of California",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887230+00:00",
+              "published_date": null,
+              "source_hash": "c4de0ea6f90f43d6d187a0badf5d6009"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co. Inc. (NYSE:SSD) : Cases - Law360",
+              "snippet": "Intellectual Property Securities Bankruptcy Competition Employment White Collar Legal Industry Access To Justice Law360 UK Pulse || See all sections || TAKE A FREE TRIAL Simpson Manufacturing Co. Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887313+00:00",
+              "published_date": null,
+              "source_hash": "ad0543a3e2996df849eaf75c8fab659f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "1. Defendants Simpson Strong-Tie Company, Inc. and Simpson Manufacturing Co., Inc. (jointly \"Simpson\") develop, manufacture, advertise, sell, and distribute galvanized hurricane straps (the \"Product\") throughout the United States for installation in the foundations, framing, and doors of homes and other buildings. 2. Simpson fails to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887331+00:00",
+              "published_date": null,
+              "source_hash": "2252fd6a4006c72036421f544237c8be"
+            },
+            {
+              "url": "",
+              "title": "Simpson Strong-Tie Co. v. Oz-Post Int'l, LLC - Casetext",
+              "snippet": "Simpson Manufacturing is a publicly traded company with over 2,900 employees and first quarter 2018 sales of $244.8 million. Simpson Manufacturing 2017 10-K (Ridley Decl. \u00b6 4; id., Ex. 3; Dkt. No. 30-4 at 10); Simpson Manufacturing 2018 First Quarter Financial Results (Ridley Decl. \u00b6 3; id., Ex. 2; Dkt. No. 30-3). Neither Simpson Strong-Tie ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887344+00:00",
+              "published_date": null,
+              "source_hash": "13902a7e84883a8396d3c08db38c9ffa"
+            },
+            {
+              "url": "",
+              "title": "Zurich, Manufacturers Look To End $90M Settlement Row",
+              "snippet": "Case Information Case Title. Simpson Manufacturing Company, Inc. et al v. Zurich American Insurance Company et al. Case Number. 3:21-cv-01671. Court. California Northern",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887360+00:00",
+              "published_date": null,
+              "source_hash": "67418725b237ac883ea7afd0a1bf15d5"
+            },
+            {
+              "url": "",
+              "title": "Nguyen v. Simpson Strong-Tie Co. - Casetext",
+              "snippet": "Simpson Strong-Tie Co., Case No. 19-cv-07901-TSH, see flags on bad law, and search Casetext's comprehensive legal database ... Defendant Simpson Manufacturing Company, Inc. (together with Simpson Strong-tie, \"Simpson\") is a Delaware corporation with its principal place of business in Pleasanton, California. Id. \u00b6 15. Simpson develops ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887372+00:00",
+              "published_date": null,
+              "source_hash": "1be03eff9d51caa37ffe1da14fec1b18"
+            },
+            {
+              "url": "",
+              "title": "Gentry Homes, Ltd. v. Simpson Strong-Tie Co. - Casetext",
+              "snippet": "helen gillmor united states district judge. order granting defendants simpson strong-tie co., inc.and simpson manufacturing co., inc.'s motion for partial summary judgment regarding statute of limitations on plaintiff's breach of warranty claim (ecf no. 56) and. denying defendants simpson strong-tie co., inc.and simpson manufacturing co., inc.'s motion for partial summary judgment regarding ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887385+00:00",
+              "published_date": null,
+              "source_hash": "6aae5e492f9c64d5060d855bb828f308"
+            },
+            {
+              "url": "",
+              "title": "Simpson Hurricane Straps Corrode Prematurely, Class Action Claims",
+              "snippet": "A proposed class action has been filed over an apparent defect in galvanized hurricane straps manufactured and sold by Simpson Strong-Tie Company, Inc. and Simpson Manufacturing Company, Inc. that can cause the product to corrode and degrade \"far in advance of its reasonable useful life.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887401+00:00",
+              "published_date": null,
+              "source_hash": "76194c12552fe7495f601401d1d873d3"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Company, Inc. | The ClassAction.org Legal News ...",
+              "snippet": "Lawsuit Filings Simpson Hurricane Straps Corrode Prematurely, Class Action Claims December 4, 2019 A proposed class action claims Simpson galvanized hurricane straps suffer a defect that causes the product to corrode and degrade \"far in advance of its reasonable useful life.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887415+00:00",
+              "published_date": null,
+              "source_hash": "f6180c6286db2424b8af451575e6e519"
+            },
+            {
+              "url": "",
+              "title": "Great American Insurance Company v Simpson Manufacturing ... - UniCourt",
+              "snippet": "On 10/18/2022 Great American Insurance Company filed a Contract - Insurance lawsuit against Simpson Manufacturing Company, Inc. This case was filed in U.S. District Courts, California Northern District Court. The Judge overseeing this case is Laurel Beeler. The case status is Pending - Other Pending.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:27.887427+00:00",
+              "published_date": null,
+              "source_hash": "ce91d4d36a685c5d694a87919d365b55"
+            },
+            {
+              "url": "",
+              "title": "(SSD) - Analyzing Simpson Manufacturing Co's Short Interest",
+              "snippet": "Short interest is the number of shares that have been sold short but have not yet been covered or closed out. Short selling is when a trader sells shares of a company they do not own, with the hope that the price will fall. Traders make money from short selling if the price of the stock falls and they lose if it rises.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co lawsuits legal disputes",
+              "retrieved_at": "2025-01-06T14:29:31.396559+00:00",
+              "published_date": "2024-12-31T19:15:00+00:00",
+              "source_hash": "eea96827ca49ff2c5e4b28792d723718"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co Inc (SSD) Q3 2024 Earnings Call Highlights ...",
+              "snippet": "Simpson Manufacturing Co Inc reported third-quarter net sales of $587.2 million, surpassing ... primarily due to changes in product mix and higher factory overhead and labor costs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036308+00:00",
+              "published_date": null,
+              "source_hash": "016f398e6c6b334fced983b60c7bde37"
+            },
+            {
+              "url": "",
+              "title": "US Construction Manufacturer Simpson Strong-Tie Hit by Cyberattack",
+              "snippet": "Simpson Manufacturing Company yanked some tech systems offline this week to contain a cyberattack it expects will \"continue to cause disruption.\" The California-headquartered engineering biz, which produces wood and concrete construction products designed make structures more safe, confirmed the digital assault on the same day it was spotted.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036399+00:00",
+              "published_date": null,
+              "source_hash": "9fc911b4d7dbc940286d1c219026263c"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing hit by cyberattack - Construction Dive",
+              "snippet": "Pleasanton, California-based Simpson Manufacturing Co. experienced a cyberattack that caused the company to take defensive measures, including a shutdown of certain systems, according to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036417+00:00",
+              "published_date": null,
+              "source_hash": "5bf01bc1262881f1a55d17d7b6d18d11"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. Just Missed Earnings - But Analysts ...",
+              "snippet": "Simpson Manufacturing Co., Inc. shareholders are probably feeling a little disappointed, since its shares fell 5.4% to US$182 in the week after its latest quarterly results. It looks like the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036431+00:00",
+              "published_date": null,
+              "source_hash": "ff8e64429d5ceea8893dcb9f91b53af8"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Company, Inc. et al v. Zurich American Insurance ...",
+              "snippet": "Filing 7 SUMMONS Returned Executed by Simpson Manufacturing Company, Inc., Simpson Strong-Tie Company Inc.. Zurich American Insurance Company served on 3/15/2021, answer due 4/5/2021. ... BREACH OF COVENANT OF GOOD FAITH AND FAIR DEALING, BREACH OF CONTRACT, AND UNFAIR BUSINESS PRACTICES against American Guarantee & Liability Insurance Company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036444+00:00",
+              "published_date": null,
+              "source_hash": "b885cf73f8322ab8685ef443f53def2c"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Company Inc. - The New York Times",
+              "snippet": "News about Simpson Manufacturing Company Inc., including commentary and archival articles published in The New York Times.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036460+00:00",
+              "published_date": null,
+              "source_hash": "2fc12372edba73b7bd708240415cac49"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Our Company Values When he started the company, Barc Simpson outlined the essential attributes for company and employee success. Those Nine Principles of Business are our Company Values, and we keep the Secret Sauce alive and well by living them every day 1. Relentless Customer Focus 2. Long-Range View 3. High-Quality Products 4. Be The Leader 5.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036472+00:00",
+              "published_date": null,
+              "source_hash": "f1f1ea339d17e2e379ae62e4cd9b7ab4"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co. Plans Shareholder Engagement Initiative",
+              "snippet": "Simpson Manufacturing Co., Inc. is a leader in the construction industry, particularly known for its structural solutions for wood connections. The company has a diversified portfolio, offering ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036484+00:00",
+              "published_date": null,
+              "source_hash": "a4c937546a2e213d771f57a46bef1c51"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. - Simpson Manufacturing Co., Inc ...",
+              "snippet": "Simpson Manufacturing Co., Inc. (the \"Company\") (NYSE: SSD), an industry leader in engineered structural connectors and building solutions, announced today it has published its Fiscal 2023 Corporate Social Responsibility Report. Highlights of the Company's continued commitment to social responsibility and environmentally sustainable business practices to its employees and stakeholders include ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075407+00:00",
+              "published_date": null,
+              "source_hash": "91faac7edf27e949f35f09819e33939a"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Stock Down on Q3 Earnings Lag, '24 View Cut",
+              "snippet": "Simpson Manufacturing Co., Inc. SSD reported dismal third-quarter 2024 results, with earnings missing the Zacks Consensus Estimate and declining on a year-over-year basis. Following the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:34.036508+00:00",
+              "published_date": null,
+              "source_hash": "ab576801a69a3d35828439c3b6621941"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co Highlights Growth in Investor Presentation",
+              "snippet": "The latest update is out from Simpson Manufacturing Co ( (SSD)). Simpson Manufacturing Co., Inc. is set to engage analysts and investors with a forward-looking Investor Presentation, highlighting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:37.483829+00:00",
+              "published_date": "2024-11-14T13:57:00+00:00",
+              "source_hash": "32a385310347344324d0bfa6c08f0562"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. (SSD)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:37.483931+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "df10662fdbd3ce727d63585aa82caa31"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co. Plans Shareholder Engagement Initiative",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Simpson Manufacturing Co ( (SSD)) has issued an update. Simpson Manufacturing Co. announced its plan to engage ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co labor practices controversies",
+              "retrieved_at": "2025-01-06T14:29:37.483961+00:00",
+              "published_date": "2024-12-17T14:17:00+00:00",
+              "source_hash": "d10fd2761ca191b8cca8390618a62a1f"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. Publishes Fiscal 2021 Sustainability ...",
+              "snippet": "Simpson Manufacturing Co., Inc. (the \"Company\") (NYSE: SSD), an industry leader in engineered structural connectors and building solutions, announced today it has published its Fiscal 2021 Sustainability, Environmental and Social Responsibility Report, highlighting the Company's continued commitment to environmentally sustainable business practices and social responsibility to its employees ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075259+00:00",
+              "published_date": null,
+              "source_hash": "0fd7a1c0604399583b6be3046777bf8b"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. Publishes Fiscal 2022 Environmental ...",
+              "snippet": "Simpson Manufacturing Co., Inc. (the \"Company\") (NYSE: SSD), an industry leader in engineered structural connectors and building solutions, announced today it has published its Fiscal 2022 Environmental, Social and Governance Report. Highlights of the Company's continued commitment to social responsibility and environmentally sustainable business practices to its employees and stakeholders ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075377+00:00",
+              "published_date": null,
+              "source_hash": "381f81d7ae96c547b72ab4112f98ffe3"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Simpson Manufacturing Co., Inc. 5956 W. Las Positas Boulevard Pleasanton, CA 94588 Phone: 800.925.5099 Fax: 925.847.1597 ... communicate our sustainability, environmental and social responsibility efforts over the years to showcase why Simpson is an attractive investment beyond just the numbers. The",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075394+00:00",
+              "published_date": null,
+              "source_hash": "720eb3aac29a39b35f12c2a11d25207c"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. Publishes Fiscal 2021 Sustainability ...",
+              "snippet": "Simpson's Fiscal 2021 Sustainability, Environmental and Social Responsibility Report can be found on the Investor Relations portion of the Company's website at ir.simpsonmfg.com. About Simpson ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075418+00:00",
+              "published_date": null,
+              "source_hash": "baa6952a93637c700168113c8c77f990"
+            },
+            {
+              "url": "",
+              "title": "Simpson | Metrio",
+              "snippet": "Simpson Manufacturing Sustainable Business. Good business leaders focus on the long-term outcome, not short-term gains. ... We are a leader in building safer, stronger structures. Download the 2023 Report . Environmental. At Simpson Strong-Tie, we operate in a safe and environmentally responsible manner to benefit society, the economy and the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075429+00:00",
+              "published_date": null,
+              "source_hash": "85bd0d0e99d2619b3497e0d00ca7db9c"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. Publishes Fiscal 2023 Corporate Social ...",
+              "snippet": "Highlights of the Company's continued commitment to social responsibility and environmentally sustainable business practices to its employees and stakeholders include: Simpson Manufacturing Co ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075440+00:00",
+              "published_date": null,
+              "source_hash": "d5423443c4a0d0c6111245089712f698"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing publishes CSR - Torque Expo",
+              "snippet": "Simpson Strong-Tie owner Simpson Manufacturing Co has published its Fiscal 2021 Sustainability, Environmental and Social Responsibility Report. The company, among the leaders in engineered structural connectors and building solutions, highlighted its continued commitment to environmentally sustainable business practices and social ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075450+00:00",
+              "published_date": null,
+              "source_hash": "b729b0825b82b4992a87b0ef75449421"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. - ResponsibilityReports.com",
+              "snippet": "Simpson Manufacturing Co. engages in the design, engineering, manufacture, and sale of building products. Visit website. REPORT RATINGS. 4.7 / 5.0 (90) Simpson Manufacturing Co., Inc. reports have an aggregate usefulness score of 4.7 based on 90 reviews. ... 2019 Sustainability, Environmental and Social Responsibility Report View Sustainability",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075461+00:00",
+              "published_date": null,
+              "source_hash": "898de5d7373d74e29c801a589881042e"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing releases Fiscal 2022 ESG Report; highlights ...",
+              "snippet": "Assessing the Company's alignment with the UN Sustainable Development Goals. The report includes updated ESG-related metrics for the year ended December 31, 2022. Simpson's Fiscal 2022 Environmental, Social and Governance Report can be found on the Investor Relations portion of the Company's website at ir.simpsonmfg.com.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:40.075471+00:00",
+              "published_date": null,
+              "source_hash": "fcc2715d2dcef727aaf1c1ac66decf6e"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co. Inc. (SSD): Among the Best Land and Timber Stocks to Buy According to Analysts",
+              "snippet": "We recently compiled a list of the 12 Best Land and Timber Stocks to Buy According to Analysts. In this article, we are going to take a look at where Simpson Manufacturing Co. Inc. (NYSE:SSD) stands against the other best land and timber stocks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:43.582477+00:00",
+              "published_date": "2025-01-04T09:54:50+00:00",
+              "source_hash": "85498260916149386b263e04c6aea87e"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co Inc",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:43.582578+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "7fcf373491a88795a89071da802818e6"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co. Announces The Appointment Of Angela Drake To Its Board Of Directors",
+              "snippet": "Jan. 3, 2025 /PRNewswire/ -- Simpson manufacturing ... Officer at The Toro Company (NYSE: TTC ), a leading worldwide provider of innovative solutions for the outdoor environment including turf ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:43.582610+00:00",
+              "published_date": "2025-01-03T08:45:00+00:00",
+              "source_hash": "fb98017c5f4d7a55c057d0e54d284f22"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. (SSD)",
+              "snippet": "the environment or the company's operations. Controversies are rated on a scale from one to five, with five denoting the most serious controversies with the largest potential impact.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:43.582640+00:00",
+              "published_date": "2024-12-06T17:36:00+00:00",
+              "source_hash": "337a3633c8e2e4f621d6dcf5204fe3e7"
+            },
+            {
+              "url": "",
+              "title": "Simpson Manufacturing Co., Inc. Announces Participation at Baird's 2024 Global Industrial Conference",
+              "snippet": "PLEASANTON, Calif., Nov. 7, 2024 /PRNewswire/ -- Simpson Manufacturing Co., Inc. (the \"Company\") (NYSE: SSD), an industry leader in engineered structural connectors ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Simpson Manufacturing Co Simpson Manufacturing Co environmental impact sustainability",
+              "retrieved_at": "2025-01-06T14:29:43.582663+00:00",
+              "published_date": "2024-11-07T06:00:00+00:00",
+              "source_hash": "d3c27651d9b982dcb73f2ad0a2666c88"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Simpson Manufacturing Co lawsuits legal disputes",
+              "rationale": "Identify any ongoing or past legal issues that could impact the company's financial stability or reputation",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Simpson Manufacturing Co labor practices controversies",
+              "rationale": "Investigate potential issues related to employee treatment, labor rights, or workplace safety",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Simpson Manufacturing Co environmental impact sustainability",
+              "rationale": "Assess the company's environmental footprint and any controversies related to sustainability practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:30:02.419824",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

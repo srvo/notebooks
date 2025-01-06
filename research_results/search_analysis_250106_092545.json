@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:25:45.233218",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "EchoStar Corp",
+      "symbol": "SATS",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory scrutiny and potential liabilities related to satellite end-of-life management",
+            "Significant financial losses and reliance on government contracts",
+            "Intense competition from terrestrial broadband providers and emerging satellite operators",
+            "Technological disruption from advancements in 5G and low-Earth orbit satellite networks"
+          ],
+          "controversies": [
+            "First-ever FCC fine for space debris due to failure to properly deorbit the EchoStar-7 satellite",
+            "Multiple legal disputes, including contract disagreements and allegations of unfair labor practices"
+          ],
+          "environmental_issues": [
+            "Space debris and sustainability concerns related to satellite launches"
+          ],
+          "social_issues": [
+            "Allegations of unfair labor practices and challenges in retaining customers"
+          ],
+          "governance_issues": [
+            "Dependence on government contracts and potential vulnerabilities to budget cuts or delays"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "FCC issues first space debris fine to DISH Network for Echostar 7 ...",
+              "snippet": "The US Federal Communications Commission (FCC) has fined communications satellite operator DISH Network US$150,000 for its failure to move its Echostar 7 satellite to either a fast re-entry or a graveyard orbit, in the first ever fine issued for space debris by the commission.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466596+00:00",
+              "published_date": null,
+              "source_hash": "7855beb3236bf36b8a6816142b6dc0f8"
+            },
+            {
+              "url": "",
+              "title": "In a First, the FCC Fines a Satellite Company for Abandoning Space ...",
+              "snippet": "In a statement, DISH told USA Today's Eric Lagatta that the FCC's regulatory authority \"made no specific findings that EchoStar-7 poses any orbital debris safety concerns.\" The space ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466707+00:00",
+              "published_date": null,
+              "source_hash": "bc7d49d494d6578f286b2d4025b5da98"
+            },
+            {
+              "url": "",
+              "title": "U.S. Cracks Down on Major Satellite TV Provider in First-of-a-Kind ...",
+              "snippet": "\"At this lower altitude, it could pose orbital debris concerns,\" the statement read. The EchoStar-7 satellite was launched in 2002, and although an orbital debris mitigation plan was later filed by Dish Network and approved by the FCC a decade after the satellite went into orbit, the plan detailed that the satellite would end its time in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466724+00:00",
+              "published_date": null,
+              "source_hash": "af137baacec9f49c9345c0eab75f1cbf"
+            },
+            {
+              "url": "",
+              "title": "FCC fines Dish Network $150,000 for leaving retired satellite too low ...",
+              "snippet": "The Dish settlement marks the first fine ever levied against a company for space debris, FCC officials said. ... the EchoStar-7 satellite was an older spacecraft (launched in 2002) that had been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466738+00:00",
+              "published_date": null,
+              "source_hash": "2461814fde248170e22bae358c2441fd"
+            },
+            {
+              "url": "",
+              "title": "DISH fined after botched orbit raises space debris concern",
+              "snippet": "The agency noted that having been retired to a lower orbit, EchoStar-7 \"could pose orbital debris concerns.\" The company admitted liability for the issue and agreed to adhere to a compliance plan. Enforcement Bureau chief Loyaan A Egal said: \"As satellite operations become more prevalent and the space economy accelerates, we must be certain ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466749+00:00",
+              "published_date": null,
+              "source_hash": "e0fcb40cc3b9140b6b7510777ad7d8ab"
+            },
+            {
+              "url": "",
+              "title": " Echostar-7: The US Imposes First-Ever Fine for Failure to Comply with ...",
+              "snippet": "its geostationary satellite Echostar-7.1 This was the first time a fine was imposed for non-compliance with debris mitigation procedures. At a time when orbits are becoming increasingly crowded, and nations and citizens are ever more dependent on the continuous availability of outer space capabilities and satellite data, this regulatory action ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466759+00:00",
+              "published_date": null,
+              "source_hash": "de4e0295bbbea1f06dc6657d94ef378d"
+            },
+            {
+              "url": "",
+              "title": "DISH fined for improper de-orbit of EchoStar-7 satellite",
+              "snippet": "The FCC stated that DISH relocated its direct broadcast service EchoStar-7 satellite at the end-of-mission to a disposal orbit \"well below the elevation required by the terms of its license\" after launching it in 2002 and that the company's action \"could pose orbital debris concerns.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466771+00:00",
+              "published_date": null,
+              "source_hash": "24c809f4f858801d8b8bdfb387bd32a3"
+            },
+            {
+              "url": "",
+              "title": "FCC Fines Dish $150,000 for Failed Deorbit - Via Satellite",
+              "snippet": "The FCC took its first space debris enforcement action on Monday, fining Dish Network $150,000 for failure to properly deorbit its EchoStar-7 satellite. Dish admitted liability as part of the settlement. The EchoStar-7 was launched in February 2002 and entered service later that year. According to FCC documents on the investigation, Dish identified in February 2022 that the satellite was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466782+00:00",
+              "published_date": null,
+              "source_hash": "525553e165e62a466f3dc1d32856753d"
+            },
+            {
+              "url": "",
+              "title": "First-ever space debris fine issued after company fails to 'properly de ...",
+              "snippet": "The Federal Communications Commission (FCC) issued its first space debris enforcement fine, saying the company DISH will pay $150,000 (\u00a3124,000) for failing to properly de-orbit its EchoStar-7 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466794+00:00",
+              "published_date": null,
+              "source_hash": "51fe880ad54f78d5b0dc34df36c682df"
+            },
+            {
+              "url": "",
+              "title": "FCC fines Dish $150,000 for space debris violations",
+              "snippet": "In a statement, the FCC revealed that Dish had accepted liability agreed to a compliance plan, and paid a penalty of $150,000. The regulator's investigation found that the company \"violated the Communications Act, the FCC rules, and the terms of the company's license by relocating its direct broadcast satellite (\"DBS\") service EchoStar-7 satellite at the satellite's end-of-mission to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:14.466808+00:00",
+              "published_date": null,
+              "source_hash": "72307e483ca2c59a1188b7149084a9fc"
+            },
+            {
+              "url": "",
+              "title": "US issues first ever fine for space junk to Dish Network",
+              "snippet": "The company admitted liability over its EchoStar-7 satellite and agreed to a \"compliance plan\" with the FCC. Space junk is made up bits of tech that are in orbit around the Earth but are no longer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:17.976709+00:00",
+              "published_date": "2023-10-03T00:00:00+00:00",
+              "source_hash": "a8e7d6ace081c3f67b95ba72de2ba268"
+            },
+            {
+              "url": "",
+              "title": "Airbus Detumbler For Satellite End Of Life Addresses Space Junk Crisis",
+              "snippet": "A communications satellite belonging to US company Iridium has collided ... satellite disposal and minimization of space debris. DISH Network's DISH EchoStar-7 satellite, launched in 2002 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:17.976816+00:00",
+              "published_date": "2023-12-01T15:17:00+00:00",
+              "source_hash": "08ce2cde1518e46b01f548bdd9a91d4e"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Corp. Q3 Loss Increases, Misses Estimates",
+              "snippet": "(RTTNews) - EchoStar Corp. (SATS) released Loss for its third quarter that increased from last year and missed the Street estimates. The company's bottom line came in at -$141.81 million ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:27.888591+00:00",
+              "published_date": "2024-11-12T13:34:00+00:00",
+              "source_hash": "b5eb29466708608e6f43be02691491e1"
+            },
+            {
+              "url": "",
+              "title": "In a first-ever for space junk, Dish Network was fined $150,000 for leaving a retired satellite to orbit indefinitely in the wrong place",
+              "snippet": "The FCC said it was the first enforcement action it's ever taken regarding space debris ... in which the company admitted liability for not properly disposing of its EchoStar-7 satellite at ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "EchoStar Corp EchoStar Corp satellite space debris concerns",
+              "retrieved_at": "2025-01-06T16:25:17.976874+00:00",
+              "published_date": "2023-10-03T03:41:00+00:00",
+              "source_hash": "bc424d3f4f1760f5c3379912cc9c060d"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Loses 213,000 Dish and 135,000 Sling TV Subscribers in First Quarter",
+              "snippet": "It was created as of the start of the year via an all-stock merger of satellite TV and streaming service provider Dish Network with broadband and communications provider EchoStar Corp. More from ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:27.888558+00:00",
+              "published_date": "2024-05-08T22:06:00+00:00",
+              "source_hash": "ef0748997bf82c8c63caebc30ec62eae"
+            },
+            {
+              "url": "",
+              "title": "Air Communications & Satellite, Inc. v. EchoStar Satellite Corp.",
+              "snippet": "Further, in 2009, DISH paid a cash dividend. In a contract dispute with the Parent predating the spin-off, the plaintiffs claimed that Echostar Corp. should be liable under a doctrine of successor liability. The plaintiffs' expert opined that the spin-off and the dividend payment were a \"conspiracy to defraud Parent's creditors.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.731821+00:00",
+              "published_date": null,
+              "source_hash": "be095909c0e4c2a673cfae4e0d4704b8"
+            },
+            {
+              "url": "",
+              "title": "FOR THE DISTRICT OF COLUMBIA UNITED STATES OF AMERICA, et al., ECHOSTAR ...",
+              "snippet": "Hughes and EchoStar may contest block on $ 19 bn tie-up, F. IN. T. IMES, Oct. 31, 2002, available in. 2002 WL 102373033 ( In weighing whether to challenge the ruling, EchoStar and Hughes will have to consider the terms of their contract, which requires both sides to do their utmost to win approval for the deal. If Hughes shows any signs of",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.731979+00:00",
+              "published_date": null,
+              "source_hash": "dbbbdac1cc43cae3467c6a13553d4866"
+            },
+            {
+              "url": "",
+              "title": "Echostar Communications Corp. v. News Corp. Ltd. - Casetext",
+              "snippet": "Echostar's \" Motion to Compel Production in Response to Plaintiff's Subpoenas,\" filed July 30, 1997, as to non-parties TCI Communications, Inc., and TCI Satellite Entertainment, Inc., is GRANTED IN PART, and TCI is directed to produce to Echostar any documents that reflect communications with News Corp concerning the Echostar Contract up to the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732007+00:00",
+              "published_date": null,
+              "source_hash": "b7420a60dc2305d7932c56a116ca6bcb"
+            },
+            {
+              "url": "",
+              "title": "Dominion Video v. Echostar Satellite Corp. - Casetext",
+              "snippet": "This appeal arises out of a contract dispute between EchoStar Satellite Corporation and Echosphere Corporation (EchoStar) and Dominion Video Satellite, Inc. (Dominion). ... The City of New York aired programming on the system's government set-aside channels which was arguably in violation of the parties' franchise agreement \u2014 an agreement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732023+00:00",
+              "published_date": null,
+              "source_hash": "ca0296ae8423e9aa1f2df743df39248a"
+            },
+            {
+              "url": "",
+              "title": "Realtime Data LLC v. EchoStar Corp. - Casetext",
+              "snippet": "EchoStar Corp., No. 6:15-cv-466-RWS-JDL (E.D. Tex. May 8, 2015) consolidated with Realtime Data LLC v. ... The Court does not dispute the proposition in EchoStar/Hughes' cited cases that consolidation does not merge separate suits or alter their individual character. However, none of these cases stand for the proposition that a party can ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732047+00:00",
+              "published_date": null,
+              "source_hash": "4d6ef992b419fb528d98f2d09b058b90"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Corporation | Landmark Results | Kessler Topaz",
+              "snippet": "EchoStar Corporation . Overview Related People. On December 9, 2021, Judge Susan Johnson of the Clark County, Nevada District Court approved a $21 million settlement to resolve class action litigation concerning the August 19, 2019 sale of the majority of EchoStar Corporation's broadcast satellite services business to DISH Network Corp. in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732063+00:00",
+              "published_date": null,
+              "source_hash": "4dad2ed2cfd3f218518c66bd74e2d680"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. | EchoStar Corporation",
+              "snippet": "NEW YORK, August 15, 2023 - Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, has launched an investigation into whether the officers or directors of EchoStar Corporation (NASDAQ: SATS) (\"EchoStar Corporation\") breached their fiduciary duties or violated the federal securities laws in connection with the company's acquisition by DISH Network Corporation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732074+00:00",
+              "published_date": null,
+              "source_hash": "d07bb760ca4de2823ba2e7d3ceec0656"
+            },
+            {
+              "url": "",
+              "title": "In Re Echostar Communications Corporation, 448 F.3d 1294 ...",
+              "snippet": "1. EchoStar Communications Corporation, EchoStar DBS Corporation, EchoStar Technologies Corporation, and Echosphere Limited Liability Company (collectively \"EchoStar\") petition for a writ of mandamus, in Miscellaneous Docket No. 803, to direct the United States District Court for the Eastern District of Texas, in case 2:04-CV-1, to vacate its September 26, 2005 and October 6, 2005 orders that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732086+00:00",
+              "published_date": null,
+              "source_hash": "b457bb3fa714121ef45483d4c1a6edd2"
+            },
+            {
+              "url": "",
+              "title": "Fox News sues EchoStar for contract breach | Reuters",
+              "snippet": "News Corp's Fox News sued EchoStar Communications Corp on Monday for about $50 million, saying the satellite television operator did not offer the channel in its \"most widely distributed package.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732098+00:00",
+              "published_date": null,
+              "source_hash": "79e00fd6fb34c42e7c1b657588e32e57"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Gets Contract Extension From DoD For 5G Deployments",
+              "snippet": "(RTTNews) - EchoStar Corp. (SATS), a satellite television firm, on Monday announced the contract extension by the Department of Defense or DoD Office of the Under Secretary of Defense for Research ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:19.732109+00:00",
+              "published_date": null,
+              "source_hash": "b5270347bc7b6fd8dae8de19841a31e8"
+            },
+            {
+              "url": "",
+              "title": "EchoStar's (SATS) Hughes Gets Production Contract From GA-ASI",
+              "snippet": "EchoStar Corporation's SATS subsidiary, Hughes Network Systems LLC, has clinched a production contract from General ... HM400T modem is designed to support government approved waveforms to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:23.000395+00:00",
+              "published_date": "2024-04-09T19:42:00+00:00",
+              "source_hash": "91716af697058a6a724830ff2c083b11"
+            },
+            {
+              "url": "",
+              "title": "EchoStar terminates deal with DIRECTV, no fees exchanged",
+              "snippet": "The contract's dissolution does not incur termination fees for either party. This development follows EchoStar's strategic efforts to enhance its Pay-TV business segment. DISH DBS Corporation ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:23.000459+00:00",
+              "published_date": "2024-11-22T07:03:00+00:00",
+              "source_hash": "f66a9631d715e568c37799807769cf11"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Corporation Announces Conference Call for Third Quarter 2024 Financial Results",
+              "snippet": "ENGLEWOOD, Colo., Nov. 6, 2024 /PRNewswire/ -- EchoStar Corporation (NASDAQ: SATS) will host a conference call to discuss its third quarter 2024 financial results on Tuesday, November 12 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "EchoStar Corp EchoStar Corp government contract disputes",
+              "retrieved_at": "2025-01-06T16:25:23.000512+00:00",
+              "published_date": "2024-11-06T12:00:00+00:00",
+              "source_hash": "d72cac4253f6027e6a91d9f0bcacd16d"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "ECHOSTAR TECHNOLOGIES, L.L.C. and Case 27-CA-066726 GINA M. LEIGH, AN INDIVIDUAL ... Alleged Unfair Labor Practices.....2 A. The Specific Language of the Portions of the Respondent'sEmployee Handbook ... Respondent has been a Colorado corporation with an office and place of business in Englewood, Colorado (the Respondent's facility), and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850658+00:00",
+              "published_date": null,
+              "source_hash": "640065a60a65d49b8660a4097753fcf8"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Satellite Services, LLC d/b/a EchoStar | National Labor ...",
+              "snippet": "Unfair Labor Practice Cases by Filing Party per Fiscal Year; ... Charged Party / Respondent Employer EchoStar Satellite Services, LLC d/b/a EchoStar: Englewood, CO 80112 : Charging Party Individual : Related Cases. Related Cases data is not available. Content in Other Languages. Espa\u00f1ol - Spanish;",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850791+00:00",
+              "published_date": null,
+              "source_hash": "57dfa06601f8487816afb3fcc2ebcc08"
+            },
+            {
+              "url": "",
+              "title": "echostar-corporation | Violation Tracker - Good Jobs First",
+              "snippet": "Current Parent Company Name: EchoStar Corporation Ownership Structure: publicly traded Headquartered in: Colorado Major Industry: miscellaneous manufacturing ... Dish Network Service Corp: labor relations violation: 2008: NLRB $36,890: Dish Network Service Corp. labor relations violation: 2003: NLRB $27,505:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850827+00:00",
+              "published_date": null,
+              "source_hash": "da4cb438f4b862a2c99b65a7ec08c8d0"
+            },
+            {
+              "url": "",
+              "title": "Broccoli v. Echostar Commc'ns Corp. - Casetext",
+              "snippet": "Echostar failed to preserve: (1) employment-related documents relevant to Broccoli and his termination in November 2001; (2) corporate records relating to the alleged dissolution of the \" regional teams\" that, according to Echostar, resulted in Broccoli's termination as part of a bona fide reduction in force; (3) correspondence by corporate decision makers pertaining to Broccoli's termination ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850853+00:00",
+              "published_date": null,
+              "source_hash": "fd49e7ea762c3f6d3edb64a45c7e58c6"
+            },
+            {
+              "url": "",
+              "title": "DIRECTOR LABOR AND INDUSTRIAL DIVISION NEW MEXICO DEPARTMENT OF LABOR v ...",
+              "snippet": "{11} As additional support for these arguments, Echostar relies on two United States Supreme Court cases decided shortly after the enactment of the federal Fair Labor Standards Act: Overnight Motor Transp. Co. v. Missel, 316 U.S. 572, 62 S.Ct. 1216, 86 L.Ed. 1682 (1942), superceded by statute on other grounds as stated in Trans World Airlines ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850879+00:00",
+              "published_date": null,
+              "source_hash": "987e8591f6fe3d46852ce9b0996d1e57"
+            },
+            {
+              "url": "",
+              "title": "Hagan v. Echostar Satellite, 529 F.3d 617 - Casetext",
+              "snippet": "Echostar Satellite, 529 F.3d 617, see flags on bad law, and search Casetext's comprehensive legal database ... Rockwell Int'l Corp., 788 F.2d 279, 285 (5th Cir. 1986)); ... merely performing her job as personnel director to an employee lodging a personal complaint about the wage and hour practices of her employer and asserting a right adverse ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850903+00:00",
+              "published_date": null,
+              "source_hash": "8b6b828ea2e8df312f562affa59d2daf"
+            },
+            {
+              "url": "",
+              "title": "N.M. Dol v. Echostar Communications Corp. - New Mexico - vLex",
+              "snippet": "I. FACTS AND PROCEEDINGS {2} Echostar Communications Corporation is a national corporation. It employed Terri Wendt in its Albuquerque office. Wendt and Echostar executed an agreement setting forth Wendt's salary and how overtime would be calculated. Pursuant to the agreement, Wendt would be paid $509.62 per week regardless of whether she actually worked less than forty hours or forty hours ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850928+00:00",
+              "published_date": null,
+              "source_hash": "b9f03e70372f77a1bcd73a75448305c2"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "EchoStar Communications Corporation, EchoStar Satellite L.L.C, f/k/a EchoStar Satellite Corporation, Satellite Communications Operating Corporation, and DirectSat Corporation, ... in a willful or repeated pattern or practice' of statutory violations.\" 450 F.3d at 524 (alteration in court of appeals' opinion) (emphasis added). Applying that",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850951+00:00",
+              "published_date": null,
+              "source_hash": "70279b23ba6b956506aa8c5f39ca4b37"
+            },
+            {
+              "url": "",
+              "title": "More On EchoStar's Questionable Litigation Tactics - Forbes",
+              "snippet": "& Satellite Inc. v. Echostar Satellite Corp., 38 P.3d 1246, ... It seems EchoStar has made a practice out of disobeying court orders and pushing the legal system to the limits. Like the TiVo case ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850974+00:00",
+              "published_date": null,
+              "source_hash": "ba2334694493a40640dcbcbaeb3ba177"
+            },
+            {
+              "url": "",
+              "title": "10 States Investigate EchoStar Practices - The New York Times",
+              "snippet": "EchoStar Communications Corp reports in Securities and Exchange Commission filing that its business practices are under investigation by attorneys general in 10 states; states accuse EchoStar of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:24.850997+00:00",
+              "published_date": null,
+              "source_hash": "065cf405d3557c19d5af188582a0d463"
+            },
+            {
+              "url": "",
+              "title": "EchoStar Corp (E20.HM)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "EchoStar Corp EchoStar Corp labor practices controversies",
+              "retrieved_at": "2025-01-06T16:25:27.888455+00:00",
+              "published_date": "2024-11-29T04:58:00+00:00",
+              "source_hash": "8f98995e640ea7b57dec88ea63967737"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "EchoStar Corp satellite space debris concerns",
+              "rationale": "Investigate environmental impact of satellite launches and space debris management",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "EchoStar Corp government contract disputes",
+              "rationale": "Examine potential legal or financial risks related to government contracts",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "EchoStar Corp labor practices controversies",
+              "rationale": "Assess any ethical concerns regarding employee treatment or labor practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:25:45.233229",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

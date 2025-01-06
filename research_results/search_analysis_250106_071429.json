@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:14:29.459193",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Synopsys Inc",
+      "symbol": "SNPS",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Industry cyclicality and sensitivity to global economic conditions",
+            "Geopolitical tensions and U.S.-China trade restrictions",
+            "Intellectual property disputes and licensing challenges",
+            "Competitive pressures from major rivals like Cadence Design Systems and Siemens EDA",
+            "Supply chain disruptions due to export restrictions"
+          ],
+          "controversies": [
+            "$550K jury verdict against Real Intent for copyright infringement",
+            "Legal dispute with the U.S. Department of Labor over employment data disclosure"
+          ],
+          "environmental_issues": [
+            "Commitment to reducing carbon footprint and promoting sustainable practices"
+          ],
+          "social_issues": [],
+          "governance_issues": [
+            "Regulatory compliance and data privacy risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Jury Awards Synopsys $546K in Copyright Infringement Lawsuit ...",
+              "snippet": "Synopsys alleged that Real Intent used these proprietary materials to develop competing products, such as Ascent, Meridian, and Verix, violating the Software License Agreement (SLA) and misappropriating Synopsys' intellectual property. The dispute began when Synopsys attempted to audit Real Intent in May 2019 and discovered irregularities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088313+00:00",
+              "published_date": null,
+              "source_hash": "047ae10963d1ae05817847d59ef77577"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Wins $550K in Software Copyright Lawsuit Against Competitor ...",
+              "snippet": "San Francisco, CA \u2014 A federal jury in California has decided in favor of Synopsys Inc., ordering its business rival, Real Intent Inc., to pay nearly $550,000 in damages for breaching software contracts. The dispute centered on allegations that Real Intent copied specific commands from Synopsys Inc.'s software.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088336+00:00",
+              "published_date": null,
+              "source_hash": "a55c72355cdcb1b50c7f738ba16ec050"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Secures $550K Jury Verdict in Intellectual Property Dispute ...",
+              "snippet": "In a recent intellectual property dispute, Synopsys Inc. has emerged with a favorable verdict after a California federal jury awarded the software company nearly $550,000 in damages. The award comes as a result of Real Intent Inc., a competitor, being found in breach of contractual agreements by copying specific commands from Synopsys' software.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088343+00:00",
+              "published_date": null,
+              "source_hash": "bf29cbc5dcf96d5260950cf9d4729c46"
+            },
+            {
+              "url": "",
+              "title": "Jury Awards Synopsys $550K In IP Suit Against Software Rival",
+              "snippet": "Law360 (October 31, 2024, 8:52 PM EDT) -- A California federal jury has awarded software company Synopsys Inc. nearly $550,000 in damages after its competitor, Real Intent Inc., was found to have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088347+00:00",
+              "published_date": null,
+              "source_hash": "7040eea84017396514ea8dd2db0397b3"
+            },
+            {
+              "url": "",
+              "title": "Synopsys, Inc. v. Siemens Indus. Software - Casetext",
+              "snippet": "Read Synopsys, Inc. v. Siemens Indus. Software, 20-cv-04151-WHO (LB), ... The parties also raise various disputes about Synopsys's document productions. Joint Disc. Letter Br. - ECF No. 268-5. ... the result is different for documents related to Magma Automation's valuation of its intellectual property before Synopsys acquired Magma, because ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088351+00:00",
+              "published_date": null,
+              "source_hash": "1b2aef2431cde57e1b9d6cf5501e2ae8"
+            },
+            {
+              "url": "",
+              "title": "Synopsys - PublicLawLibrary.org",
+              "snippet": "The dispute centered on allegations that Real Intent copied specific commands from Synopsys Inc.'s software. The verdict comes after a contentious trial where Synopsys Inc. accused Real Intent Inc. of violating contractual terms related to intellectual property and software development. The jury's decision, reached late Wednesday, marks a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088354+00:00",
+              "published_date": null,
+              "source_hash": "90d2b2783616c9188251fd58d0ade21c"
+            },
+            {
+              "url": "",
+              "title": "Defense Win for Real Intent in Synopsys Copyright Infringement Case",
+              "snippet": "The San Jose federal court ruled in favor of Real Intent, determining that the products in question were within fair use. However, the court found that Real Intent had indeed breached its contract with Synopsys, leading to the award of damages. This case highlights the complexities of intellectual property disputes in the technology industry.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088358+00:00",
+              "published_date": null,
+              "source_hash": "14b2ac82b35b21d12c223bb3415e61d2"
+            },
+            {
+              "url": "",
+              "title": "Covenant Not to Sue Must Be Unconditional and Irrevocable",
+              "snippet": "Synopsys, Inc. v. Risk Based Security, Inc., Case No. 22-1812 (4th Cir. June 15, 2023) (Agee, Rushing, Dawson, JJ.) In early 2021, Risk Based Security (RBS) sent a cease-and-desist letter to Synopsys, its competitor in the software security industry, alleging intellectual property misappropriation, including use of RBS's private database of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088361+00:00",
+              "published_date": null,
+              "source_hash": "68a00fc0dcb0f3e1c9c42fd719cf818f"
+            },
+            {
+              "url": "",
+              "title": "Synopsys, Inc. v. Real Intent, Inc. - UniCourt",
+              "snippet": "Docket (#3) Case assigned to Judge Charles R. Breyer. Counsel for plaintiff or the removing party is responsible for serving the Complaint or Notice of Removal, Summons and the assigned judge's standing orders and all other new case documents upon the opposing parties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088364+00:00",
+              "published_date": null,
+              "source_hash": "ed43b8ccf2710e6340032c0ae7c1bd6f"
+            },
+            {
+              "url": "",
+              "title": "Synopsys, Inc. v. Lee, No. 15-1183 (Fed. Cir. 2016) :: Justia",
+              "snippet": "Synopsys filed suit under the Administrative Procedure Act, seeking to invalidate the Patent and Trademark Office's regulation that allows the Patent Trial and Appeal Board to institute inter partes review on \"all or some of the challenged claims,\" 37 C.F.R. 42.108. The suit also challenged the PTO's practice of issuing final decisions on fewer than all of the claims raised in a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:13:59.088368+00:00",
+              "published_date": null,
+              "source_hash": "646d7a8c10c37c791251a1a781329627"
+            },
+            {
+              "url": "",
+              "title": "Transferring Coverage of Synopsys; Raising Our Fair Value to $550 from $490",
+              "snippet": "Synopsys provides leading-edge electronic design automation tools and intellectual property that are critical to the semiconductor chip design process. We believe that Synopsys enjoys high ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:14:02.538768+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "ae58e00a6da0a03f6dc0104e8e660bb7"
+            },
+            {
+              "url": "",
+              "title": "Synopsys, Inc.",
+              "snippet": "Synopsys, Inc. engages in the provision of electronic ... It also offers semiconductor intellectual property (IP) products. It operates through the following segments: Design Automation, Design ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:14:02.538802+00:00",
+              "published_date": "2023-10-18T14:17:00+00:00",
+              "source_hash": "909d093ad10ad01798d42e0cc50d918c"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Delivers on Revenue Expectations in Q4",
+              "snippet": "A crucial focus for Synopsys has been on optimizing its Semiconductor Intellectual Property (IP) portfolio, delivering improved chip functionality and compatibility. The growth here allows the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:14:02.538809+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "183598b463307ee0a01bd2dc67129474"
+            },
+            {
+              "url": "",
+              "title": "How Is Synopsys' Stock Performance Compared to Software Stocks?",
+              "snippet": "Synopsys, Inc. (SNPS), a global leader in electronic design automation and semiconductor intellectual property, was founded in 1986 and is headquartered in Sunnyvale, California. With a market ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:14:02.538813+00:00",
+              "published_date": "2024-12-05T15:36:00+00:00",
+              "source_hash": "3107d6d8a6e7dc2063cc7fcc637220b2"
+            },
+            {
+              "url": "",
+              "title": "SYNOPSYS, INC. V. USDOL, No. 20-16414 (9th Cir. 2022)",
+              "snippet": "SYNOPSYS, INC. V. USDOL, No. 20-16414 (9th Cir. 2022) case opinion from the US Court of Appeals for the Ninth Circuit ... and FRIEDLAND, Circuit Judges, and McSHANE,** District Judge. Synopsys argues that disclosure by the U.S. Department of Labor (\"DOL\") of a report containing some of Synopsys's employment data (\"EEO-1 report\"), in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806945+00:00",
+              "published_date": null,
+              "source_hash": "180a62a8a7f8e5f3b34354c88fe8ac69"
+            },
+            {
+              "url": "",
+              "title": "Office of Information Policy | Synopsys, Inc. v. U.S. Dep't of Labor ...",
+              "snippet": "Best Practices Workshop Series. Reports; Make a FOIA Request. Make a FOIA Request. DOJ Reference Guide. DOJ FOIA Regulations. Find a FOIA Contact at DOJ. Submit and Track a Request or Appeal. ... Synopsys, Inc. v. U.S. Dep't of Labor, Nos. 20-16414 & 20-16416, 2022 WL 1501094 (9th Cir. May 12, 2022) (per curiam)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806969+00:00",
+              "published_date": null,
+              "source_hash": "ce124a356fc2cfad69a1a5637220420c"
+            },
+            {
+              "url": "",
+              "title": "Synopsys, Inc. v. U.S. Dep't of Labor - Casetext",
+              "snippet": "Synopsys argues that disclosure by the U.S. Department of Labor (\"DOL\") of a report containing some of Synopsys's employment data (\"EEO-1 report\"), in response to a Freedom of Information Act (\"FOIA\") request, would violate the Trade Secrets Act, 18 U.S.C. \u00a7 1905. In two separate actions, Synopsys has brought or is seeking to bring a reverse ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806974+00:00",
+              "published_date": null,
+              "source_hash": "4a705510722372ac06f57f3b9fc00772"
+            },
+            {
+              "url": "",
+              "title": "EVANS v. SYNOPSYS INC (2022) | FindLaw - FindLaw Caselaw",
+              "snippet": "Additionally, in a separate action, Synopsys brought a claim against DOL that was substantively identical to the crossclaim it was attempting to bring as an intervenor in the original FOIA action. We resolve the appeal of that action in the same memorandum disposition. See Synopsys, Inc. v. U.S. Dep't of Labor, Case No. 20-16414. 2. A reverse ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806979+00:00",
+              "published_date": null,
+              "source_hash": "8e4df967aa53e6ca1c441ad913b438a7"
+            },
+            {
+              "url": "",
+              "title": "Synopsys's late intervention in FOIA case harms public's right to know",
+              "snippet": "Court: U.S. Court of Appeals for the Ninth Circuit Date Filed: Feb. 3, 2021 Update: On May 12, 2022, the U.S. Court of Appeals for the Ninth Circuit dismissed the case for lack of appellate jurisdiction in light of Synopsys, Inc.'s untimely appeal. It also dismissed CIR's and the Department of Labor's cross-appeals as moot. Background: In April 2019, the Center for Investigative ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806983+00:00",
+              "published_date": null,
+              "source_hash": "b6a2a8299d850e7e21fac155781b8339"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Synopsys, Inc. is one of the largest software com-panies in the world. The company is a leading pro-vider of a suite of software products used for electronic design automation (EDA). Synopsys' EDA software is used to design and test computer chips used in all kinds of computing devices, ranging from computers",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806987+00:00",
+              "published_date": null,
+              "source_hash": "c653cea9b0311857ed6b1e21d8b1e4fe"
+            },
+            {
+              "url": "",
+              "title": "Case: Trade Secrets/Procedure (9th Cir.) - Bloomberg Law News",
+              "snippet": "The court affirmed in part and reversed in part decisions of a federal district court denying Synopsys Inc.'s motion to intervene in a FOIA action and granting the government summary judgment in its reverse-FOIA action claiming violations of the Trade Secrets Act. Synopsys Inc. v. U.S. Department of Labor, 2022 BL 165709, 9th Cir., 20-16414 No. 20-16416, unpublished, 5/12/22",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806991+00:00",
+              "published_date": null,
+              "source_hash": "1b55734fe198f67b99ecfc13c9cdeb46"
+            },
+            {
+              "url": "",
+              "title": "SYNOPSYS, INC. v. ATOPTECH, INC. , No. 16-1956 (Fed. Cir. 2017)",
+              "snippet": "The challenged dependent claims rise or fall with independent claim 1. 1 SYNOPSYS, INC. v. ATOPTECH, INC. 3 mined by the number and size of smaller cells within it. Id. at 6:58-60. The claimed method aims to improve circuit performance by splitting large components into smaller subcomponents that can be designed individually, then optimizing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806994+00:00",
+              "published_date": null,
+              "source_hash": "a4ea570b874c4eb6e34c5579e55e04be"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Federal Litigation Filings - Company Legal Profiles",
+              "snippet": "Justia - Company Profiles. Synopsys, Inc. et al v. Bell Semiconductor, LLC Filed: November 18, 2022 as 1:2022cv01512",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.806998+00:00",
+              "published_date": null,
+              "source_hash": "14457bd8de4cbdd5b3a7ab29563a76b8"
+            },
+            {
+              "url": "",
+              "title": "Covenant Not to Sue Both Conditional and Revocable - National Law Review",
+              "snippet": "Synopsys, Inc. v. Risk Based Security, Inc., Case No. 22-1812 (4th Cir. June 15, 2023) (Agee, Rushing, Dawson, JJ.) ... the Court concluded that there was a continuing live controversy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Synopsys Inc Synopsys Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T14:14:03.807000+00:00",
+              "published_date": null,
+              "source_hash": "d6cd355bfb259045f849f7ab88511412"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Supply Chain Audit - by Nathan Staffel",
+              "snippet": "Geopolitical and Trade Restrictions. Synopsys faces export restrictions that could affect supply chains, especially concerning high-performance computing and EDA tools. ... Geopolitical Risks: Potential exposure to export controls, especially concerning advanced semiconductor technology and components. Supply Chain Visibility: ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061432+00:00",
+              "published_date": null,
+              "source_hash": "02a7e387f85a0978277db558d89b4296"
+            },
+            {
+              "url": "",
+              "title": "S&P 500 Gains and Losses Today: Synopsys Sinks as China Restrictions ...",
+              "snippet": "Even before diving into Synopsys' specific performance, it's essential to understand the macroeconomic backdrop that influences stock prices. The S&P 500, like many equity indices, can be swayed by a variety of factors including interest rates, inflation, corporate earnings, global trade relations, and geopolitical tensions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061458+00:00",
+              "published_date": null,
+              "source_hash": "382420381253d74903e1561b3c35b377"
+            },
+            {
+              "url": "",
+              "title": " SYNOPSYS, INC. (SNPS) - biz.uiowa.edu",
+              "snippet": "Geopolitical tensions, particularly the U.S. export restrictions on advanced computing chips, pose a risk to growth in this region. Any escalation in trade restrictions could further reduce sales or limit Synopsys's access to the Chinese market. \u2022 Semiconductor R&D Investment: Synopsys's business relies heavily",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061464+00:00",
+              "published_date": null,
+              "source_hash": "1e584a418e053be0d539d03f7ca603f9"
+            },
+            {
+              "url": "",
+              "title": " Corporate Overview for Investors",
+              "snippet": "This presentation contains forward-looking statements, including, but not limited to, statements regarding Synopsys, Inc.'s (Synopsys, we or our) statements regarding short-term and long-term financial targets, expectations and objectives including, among others, our long-term financial objectives, which include the anticipated effects of our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061469+00:00",
+              "published_date": null,
+              "source_hash": "64cf0767c769faf02e574d45c8ba4da5"
+            },
+            {
+              "url": "",
+              "title": "Synopsys's SWOT analysis: chip design giant's stock faces AI boom ...",
+              "snippet": "Synopsys, Inc. (NASDAQ: SNPS), a leader in the electronic design automation (EDA) industry, has been navigating a complex landscape of technological advancements and geopolitical challenges.According to InvestingPro, the company maintains impressive gross profit margins of 81.44% and a strong financial health score, positioning it well for future growth.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061473+00:00",
+              "published_date": null,
+              "source_hash": "3bcfdf2b9bf378cca9ae136bb1ea13f7"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Reports 15% Revenue Growth in Fiscal 2024",
+              "snippet": "Synopsys Reports 15% Revenue Growth in Fiscal 2024. ... including global economic uncertainty, supply chain disruptions, and geopolitical pressures, which could potentially affect its business, operations, and financial condition. ... including potential additional trade restrictions and regulatory or policy changes by the U.S. and foreign ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061477+00:00",
+              "published_date": null,
+              "source_hash": "7ad8395a66b3d0b4a6b1cd76de3d2b46"
+            },
+            {
+              "url": "",
+              "title": "Decoding Synopsys Inc (SNPS): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Global Economic and Geopolitical Uncertainties: Synopsys Inc (SNPS, Financial) operates in a global market that is subject to economic and geopolitical risks. The 10-Q filing acknowledges the potential impact of macroeconomic conditions, such as inflation and interest rates, on customer spending and decision-making.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061481+00:00",
+              "published_date": null,
+              "source_hash": "25af94cf94dd7cde6a9cc863cd55a3a2"
+            },
+            {
+              "url": "",
+              "title": "UK antitrust regulator puts Synopsys' $35B acquisition of Ansys under ...",
+              "snippet": "The acquisition has broader implications for the global semiconductor supply chain, particularly given the current geopolitical tensions and trade restrictions. \"By expanding Synopsys' reach ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061484+00:00",
+              "published_date": null,
+              "source_hash": "a8548099a50d5d64b155c81606a7b6fc"
+            },
+            {
+              "url": "",
+              "title": "Decoding Synopsys Inc (SNPS): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On February 23, 2024, Synopsys Inc (NASDAQ:SNPS) filed its 10-Q report, revealing a strong financial performance with total revenue reaching $1.649 billion, a notable increase from $1.361 billion ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061488+00:00",
+              "published_date": null,
+              "source_hash": "cc299abb4e4b85d7f47e504690978806"
+            },
+            {
+              "url": "",
+              "title": "Semiconductor & AI Demand Boosts Synopsys Q3 2024 Revenue - The Futurum ...",
+              "snippet": "Geopolitical tensions, particularly those related to the semiconductor supply chain, could impact Synopsys. Trade restrictions, export controls, and other regulatory measures could disrupt the global semiconductor ecosystem, reducing demand for EDA tools in specific regions or slowing the pace of innovation as companies navigate these dynamic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:08.061491+00:00",
+              "published_date": null,
+              "source_hash": "bbc042643b31fa1778b0d755e5a00e4c"
+            },
+            {
+              "url": "",
+              "title": "Cautious Outlook: Synopsys' Revenue Plans and Financial Adjustments Lead to Hold Rating",
+              "snippet": "In a report released yesterday, Joseph Quatrochi from Wells Fargo maintained a Hold rating on Synopsys (SNPS - Research Report), with a price",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:10.460062+00:00",
+              "published_date": "2024-12-20T18:11:00+00:00",
+              "source_hash": "52adcd0bdc40d1df76ba0bda416d6873"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Inc (SNPS) Q4 2024 Earnings Call Highlights: Record Revenue and Strategic Growth ...",
+              "snippet": "Synopsys Inc (NASDAQ:SNPS) achieved a record revenue ... in the Chinese market due to economic conditions and expanding restrictions. The first half of FY25 is expected to be weaker due to fewer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:10.460087+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "146be9653211f706fd243a36cb6f6aed"
+            },
+            {
+              "url": "",
+              "title": "Synopsys, Inc.: Synopsys Responds to U.K. Competition and Markets Authority's Phase 1 Announcement Regarding Ansys Acquisition",
+              "snippet": "About Synopsys Catalyzing the era of pervasive intelligence, Synopsys, Inc. (Nasdaq ... are subject to risks and uncertainties. Many risks, uncertainties and other factors could cause actual ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:10.460092+00:00",
+              "published_date": "2024-12-20T14:22:00+00:00",
+              "source_hash": "e282687643d2df5863fa8ee8eab6a366"
+            },
+            {
+              "url": "",
+              "title": "Synopsys Plunges 13% in 6 Months: How to Play the Stock?",
+              "snippet": "Synopsys SNPS shares ... presents both opportunities and risks. While China remains a critical market for semiconductor companies, regulatory challenges and trade tensions between the United ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:10.460097+00:00",
+              "published_date": "2024-12-13T08:23:00+00:00",
+              "source_hash": "823ae09f5473d7098fe029ffbc901d1a"
+            },
+            {
+              "url": "",
+              "title": "Synopsys's SWOT analysis: chip design giant's stock faces AI boom, China caution",
+              "snippet": "Synopsys, Inc. (NASDAQ ... the potential risks the company faces in this crucial region. The ongoing geopolitical tensions between the United States and China, particularly in the technology sector, could lead to regulatory challenges, trade restrictions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Synopsys Inc Synopsys Inc geopolitical risks and trade restrictions",
+              "retrieved_at": "2025-01-06T14:14:10.460101+00:00",
+              "published_date": "2024-12-17T02:35:00+00:00",
+              "source_hash": "b99bffc6db0e831e863e6356c77875ca"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Synopsys Inc intellectual property disputes",
+              "rationale": "Investigate potential legal challenges related to IP infringement or licensing disputes",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Synopsys Inc labor practices controversies",
+              "rationale": "Examine any reports or allegations regarding labor practices or employee treatment",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Synopsys Inc geopolitical risks and trade restrictions",
+              "rationale": "Assess the impact of geopolitical tensions and trade restrictions on Synopsys' global operations",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:14:29.459197",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

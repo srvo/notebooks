@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:45:41.825846",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Pegasystems Inc.",
+      "symbol": "PEGA",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal and financial exposure from trade secret misappropriation case with Appian Corporation",
+            "Intense competition from established players like Salesforce, Microsoft Dynamics, and Oracle",
+            "Pricing and licensing concerns impacting customer retention and satisfaction",
+            "Economic sensitivity to macroeconomic downturns and reductions in corporate IT budgets"
+          ],
+          "controversies": [
+            "$2.1 billion verdict in trade secret misappropriation case with Appian Corporation, later overturned but highlighting reputational and financial risks",
+            "Mixed workplace culture and employee retention concerns"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Mixed workplace culture with reports of a fast-paced, stressful environment",
+            "Employee retention concerns, as indicated by Public Employees Retirement System of Ohio reducing its holdings"
+          ],
+          "governance_issues": [
+            "Potential governance risks related to legal disputes and their impact on company stability"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "AIPLA Files an Amicus Brief with the Court of Appeals of Virginia in ...",
+              "snippet": "Arlington, VA. March 6, 2023 - The American Intellectual Property Law Association (AIPLA) filed an amicus brief with the Court of Appeals of Virginia in Pegasystems Inc. v. Appian Corporation, an appeal arising from a $2.1 billion verdict and resulting judgment in a trade secret misappropriation case brought by Appian against Pegasystems.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567075+00:00",
+              "published_date": null,
+              "source_hash": "bcd1d18efd9bc1b25d8755062fd00ed3"
+            },
+            {
+              "url": "",
+              "title": "Virginia Court Strikes $2B Trade Secrets Award in Appian vs. Pega",
+              "snippet": "Finding errors in the lower court's jury instructions and evidentiary rulings, the Virginia's Court of Appeals struck down a $2 billion trade secrets award, the largest trade secrets verdict ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567127+00:00",
+              "published_date": null,
+              "source_hash": "c6a2275b73651041ea70a9f41646e89a"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc. v. Appian Corporation :: 2024 - Justia Law",
+              "snippet": "PUBLISHED COURT OF APPEALS OF VIRGINIA Present: Judges Beales, Friedman and Callins Argued at Leesburg, Virginia PEGASYSTEMS INC. v. Record No. 1399-22-4 OPINION BY JUDGE FRANK K. FRIEDMAN JULY 30, 2024 APPIAN CORPORATION FROM THE CIRCUIT COURT OF FAIRFAX COUNTY Richard E. Gardiner, Judge E. Joshua Rosenkranz (Christopher J. Cariello; Eric A. Shumsky; Jeremy Peterman; James A. Flynn; Jonas ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567135+00:00",
+              "published_date": null,
+              "source_hash": "2d5822ec67f1d89fbf52dad796aadd23"
+            },
+            {
+              "url": "",
+              "title": "Virginia Appellate Court Vacates Trade Secret Verdict - National Law Review",
+              "snippet": "The Court of Appeals of Virginia vacated a $2 billion award in a trade secret misappropriation case based on a series of evidential errors and improper jury instructions. PegaSystems Inc. v ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567140+00:00",
+              "published_date": null,
+              "source_hash": "bf5d4ddf1ae2e81894bcaa07b9f97fc4"
+            },
+            {
+              "url": "",
+              "title": "The Appian vs. Pegasystems Battle: Implications for Corporate ...",
+              "snippet": "The legal battle between Appian Corp. and Pegasystems has drawn attention not just for the size of the judgment but for its implications on corporate intellectual property (IP) protection. The initial lawsuit, in which Appian won over $2 billion in damages for the alleged theft of IP through corporate espionage, underscored the seriousness of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567144+00:00",
+              "published_date": null,
+              "source_hash": "a81bbeec6329bd28ca119cc53fb1f472"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems $35 Million Investor Settlement Gets First Approval",
+              "snippet": "Pegasystems Inc.'s agreement to pay investors $35 million to settle securities fraud claims stemming from an alleged scheme to steal trade secrets from a rival merits preliminary approval, a federal court ruled. ... Young certified a settlement class in the suit, which followed underlying intellectual property litigation that resulted in a $2 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567148+00:00",
+              "published_date": null,
+              "source_hash": "73e523508061faf61a597e351b5bd919"
+            },
+            {
+              "url": "",
+              "title": "Virginia Appeals Court Reverses $2 Billion Jury Award to Appian in ...",
+              "snippet": "IntroductionIn May 2022, a jury in the Circuit Court for Fairfax County, Virginia awarded Appian Corp. (Appian) in excess of $2 billion in damages from Pegasystems, Inc. (Pegasystems) for misappropriating Appian's trade secrets in violation of the Virginia Uniform Trade Secrets Act (VUTSA). This award was the largest damages verdict in Virginia court history, and is among the largest awards ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567151+00:00",
+              "published_date": null,
+              "source_hash": "c4f653a2d5c9a14ca666ec019cef6586"
+            },
+            {
+              "url": "",
+              "title": "Virginia Court Of Appeals Reverses Historic Trade Secret Verdict - Mondaq",
+              "snippet": "A Fairfax County, Virginia, jury in May 2022 found that Pegasystems Inc. (Pegasystems) misappropriated trade secrets from its competitor, Appian Corp. (Appian), and awarded Appian more than $2 billion in damages - the largest damages award in the history of Virginia and one of the largest ever trade secret verdicts in the country.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567155+00:00",
+              "published_date": null,
+              "source_hash": "68610a623e9a222ffb25ac573a7df821"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc. - 10K - Annual Report - February 17, 2021 - Fintel",
+              "snippet": "Pegasystems Inc. - 10K - Annual Report - February 17, 2021 ... \u2022 our ability to protect our intellectual property rights and costs associated with defending such rights; ... Our intelligent automation, customer service, account onboarding, Know Your Customer (\"KYC\"), payment dispute and exception management, collections, and next best ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567159+00:00",
+              "published_date": null,
+              "source_hash": "08be2a845672df27aabf5286307cae83"
+            },
+            {
+              "url": "",
+              "title": "Appian: Judge Rejects Pegasystems Motion to Overturn $2 Billion Jury ...",
+              "snippet": "Appian had brought the case to trial in March 2022 to ensure the protection of its proprietary intellectual property, ... Final judgement awards Appian $2.036 billion in damages from Pegasystems ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:09.567164+00:00",
+              "published_date": null,
+              "source_hash": "3014b88e6feee6af6e1e9ee7bfc6b8a5"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Stock Rises 29% in 3 Months: Should You Hold or Fold?",
+              "snippet": "Additionally, the launch of Pegasystems' unique AI strategy, Pega GenAI Blueprint, demonstrating to customers how they can quicken their digital transformation and become fully autonomous businesses, are major positive. Pegasystems Inc. price-consensus ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:11.764797+00:00",
+              "published_date": "2024-12-24T15:11:00+00:00",
+              "source_hash": "3cc7e8293b52461a9d547430f838149c"
+            },
+            {
+              "url": "",
+              "title": "Ex-Dividend Reminder: Federal Realty Investment Trust, Pegasystems and Werner Enterprises",
+              "snippet": "Looking at the universe of stocks we cover at Dividend Channel, on 1/2/25, Federal Realty Investment Trust (Symbol: FRT), Pegasystems Inc (Symbol: PEGA), and Werner Enterprises, Inc. (Symbol ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:15.722782+00:00",
+              "published_date": "2024-12-31T15:09:00+00:00",
+              "source_hash": "e879ae12add9d5751bde19efb08a4606"
+            },
+            {
+              "url": "",
+              "title": "Is Pegasystems Inc. (NASDAQ:PEGA) A High Quality Stock To Own?",
+              "snippet": "We'll use ROE to examine Pegasystems Inc. (NASDAQ:PEGA), by way of a worked example. ROE or return on equity is a useful tool to assess how effectively a company can generate returns on the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:15.722778+00:00",
+              "published_date": "2025-01-01T11:29:00+00:00",
+              "source_hash": "488936f8c915aed4792e25d100bd6305"
+            },
+            {
+              "url": "",
+              "title": "Pega Named a Leader in Gartner\u00ae Magic Quadrant\u2122 for the CRM Customer Engagement Center for 12th Consecutive Time",
+              "snippet": "Pega's AI and automation-powered customer service solution enables service teams to work smarter while improving self-service for optimal customer experiences Pegasystems Inc. (NASDAQ ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:11.764830+00:00",
+              "published_date": "2024-12-16T08:16:00+00:00",
+              "source_hash": "5f61ca17ce9776c89116b9ce7610bcf2"
+            },
+            {
+              "url": "",
+              "title": "Pega Named a Leader in Task-Centric Automation Software by Independent Research Firm",
+              "snippet": "CAMBRIDGE, Mass.--(BUSINESS WIRE)--Pegasystems Inc. (NASDAQ: PEGA), the Enterprise Transformation Company\u2122, today announced Forrester Research has named Pega a Leader in The Forrester Wave ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. intellectual property disputes",
+              "retrieved_at": "2025-01-06T14:45:11.764836+00:00",
+              "published_date": "2024-12-06T10:33:00+00:00",
+              "source_hash": "0d66626027ff5a3a26efa87ee9ccb4fc"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc. - AnnualReports.com",
+              "snippet": "Pegasystems Inc. develops, markets, licenses, and supports software to automate business processes primarily in the United States, the United Kingdom, and rest of Europe. ... Pegasystems Inc. reports have an aggregate usefulness score of 4.8 based on 201 reviews. Pegasystems Inc. Most Recent Annual Report. MOST RECENT 2023 Annual Report and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559490+00:00",
+              "published_date": null,
+              "source_hash": "e0c0effca2ce24d14a04bc1e74399297"
+            },
+            {
+              "url": "",
+              "title": "pega-20211231 - SEC.gov",
+              "snippet": "Pegasystems Inc. was incorporated in Massachusetts in 1983. Our stock is traded on the NASDAQ Global Select Market under the symbol \"PEGA.\" ... The subscription model prices and delivers our software differently than a perpetual license model. These changes reflect a significant shift from perpetual license sales in favor of providing our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559526+00:00",
+              "published_date": null,
+              "source_hash": "a90a9c0a9b1603b2da69f77b51721078"
+            },
+            {
+              "url": "",
+              "title": " Pega Certification and Licensing for Government",
+              "snippet": "installation, please consult your Pegasystems Inc. services consultant. Although Pegasystems Inc. strives for accuracy in its publications, any publication may contain inaccuracies or typographical errors, as well as technical inaccuracies. Pegasystems Inc. shall not be liable for technical or editorial errors or omissions contained herein.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559534+00:00",
+              "published_date": null,
+              "source_hash": "780d44088ec870aa1f1a44eab4d80c07"
+            },
+            {
+              "url": "",
+              "title": "pega-20201231 - SEC.gov",
+              "snippet": "Pegasystems Inc. was incorporated in Massachusetts in 1983. Our stock is traded on the NASDAQ Global Select Market under the symbol \"PEGA.\" ... The subscription model prices and delivers our software differently than a perpetual license model. These changes reflect a significant shift from perpetual license sales in favor of providing our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559540+00:00",
+              "published_date": null,
+              "source_hash": "1cc41376f221656694a7f1ed2a2c1a64"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems $35 Million Securities Class Action Settlement - Claim Depot",
+              "snippet": "Pegasystems Inc. has agreed to pay $35,000,000 to settle a class action lawsuit for alleged misrepresentations and omissions concerning a lawsuit brought against them by Appian Corporation. Who can submit a claim? To be a member of the Settlement Class, you must have purchased or otherwise acquired Pegasystems common stock between June 16, 2020 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559546+00:00",
+              "published_date": null,
+              "source_hash": "1d3d62fee86c112c05306207ef44a8e1"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc (PEGA) 10-K Annual Report February 2021 - Last10K.com",
+              "snippet": "Pegasystems Inc (PEGA) SEC Filing 10-K Annual report for the fiscal year ending Thursday, December 31, 2020. HOME; ... Term license: 95,897 32 % 77,176 ... See risk factor \"If we fail to manage our transition to a more subscription-based business model successfully, our results of operations and/or cash flows could be negatively impacted.\" ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559552+00:00",
+              "published_date": null,
+              "source_hash": "5eca5c922e373e197efd356fe2bcc9b3"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Securities Settlement",
+              "snippet": "Welcome to the Pegasystems Securities Settlement Website. This website has been established to provide general information related to the proposed Settlement of the class action lawsuit known as In re Pegasystems Inc. Securities Litigation, No. 1:22-cv-11220-WGY (the \"Litigation\"), and pending before the Honorable William G. Young in the United States District Court for the District of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559558+00:00",
+              "published_date": null,
+              "source_hash": "28d1719258f763490b15c2ec4bdbda5c"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Makes $35M Deal Over Alleged Misstatements (Correct)",
+              "snippet": "Pegasystems Inc. agreed to pay $35 million to resolve a securities class action where investors accused the software company of misleading them about its involvement in a scheme to steal a rival's trade secrets.. Pega is currently appealing a $2 billion judgment from a Virginia state court for hiring what the district court in the securities case has described as \"'spies'\" to steal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559563+00:00",
+              "published_date": null,
+              "source_hash": "965b356b2b06e9490b307874b93d777c"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc. Company Profile | Cambridge, MA | Competitors ...",
+              "snippet": "Company Description: Founded in 1983, Pegasystems develops, markets, licenses, hosts, and supports a range of enterprise software applications that help organizations build agility into their business. Its low-code platform for workflow automation and artificial intelligence-powered decisioning enables the world's leading brands and government agencies to hyper-personalize customer experiences ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559569+00:00",
+              "published_date": null,
+              "source_hash": "1179db75e7380627b29303c083dcc516"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems, Inc. Investor News: Robbins LLP is Investigating ...",
+              "snippet": "On May 9, 2022, Pegasystems disclosed that the Virginia circuit court jury awarded Appian more than $2 billion for Pegasystems' trade secret misappropriation, which is estimated to be the largest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:13.559574+00:00",
+              "published_date": null,
+              "source_hash": "2c7eb7312bb78a41e0c0d0deef701973"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc.",
+              "snippet": "Pegasystems, Inc. engages in the development, market, license, and support of software, which allows organizations to build, deploy, and change enterprise applications. Its product Pega Infinity ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:15.722753+00:00",
+              "published_date": "2023-12-29T23:30:00+00:00",
+              "source_hash": "4a1fb194e2b7ad5f29b6f28b9f063d23"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems' (PEGA) New AI-Powered Tool: A Game Changer for Banks in Payment Processing?",
+              "snippet": "In this article, we are going to take a look at where Pegasystems Inc. (NASDAQ:PEGA ... approaches like those used in OpenAI's o1 model. \"I think we are going to see a lot of motion next ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:15.722773+00:00",
+              "published_date": "2024-12-13T14:05:00+00:00",
+              "source_hash": "6c0b9e56668ef4c195eb959e118929d1"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Stock Rises 29% in 3 Months: Should You Hold or Fold?",
+              "snippet": "Pegasystems PEGA shares have risen 28.6% in three months, significantly outperforming the Zacks Computer and Technology and the Zacks Internet - Software industry's return of 8.1% and 2.9% ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. licensing model complaints",
+              "retrieved_at": "2025-01-06T14:45:15.722786+00:00",
+              "published_date": "2024-12-24T15:10:00+00:00",
+              "source_hash": "5adeab557bfd4908349c28a8d88456bc"
+            },
+            {
+              "url": "",
+              "title": "Working at Pegasystems, Inc: 10 Reviews - Indeed",
+              "snippet": "Reviews from Pegasystems, Inc employees about Pegasystems, Inc culture, salaries, benefits, work-life balance, management, job security, and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238537+00:00",
+              "published_date": null,
+              "source_hash": "7ec0f803133cc6cf75ba742fcc765428"
+            },
+            {
+              "url": "",
+              "title": "Working at Pegasystems Inc: Employee Reviews | Indeed.com",
+              "snippet": "Reviews from Pegasystems Inc employees about Pegasystems Inc culture, salaries, benefits, work-life balance, management, job security, and more. ... It's a tough, fast paced, stressful environment to work. The path to success is based on how well you fit in with the functional leadership team and making sure the right people like you.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238563+00:00",
+              "published_date": null,
+              "source_hash": "708a8e00bd8c889196d3418784a2a8c7"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Reviews: What Is It Like to Work At Pegasystems ...",
+              "snippet": "Pegasystems has an employee rating of 3.8 out of 5 stars, based on 2,172 company reviews on Glassdoor which indicates that most employees have a good working experience there. The Pegasystems employee rating is in line with the average (within 1 standard deviation) for employers within the Information Technology industry (3.9 stars). Read more",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238569+00:00",
+              "published_date": null,
+              "source_hash": "2cab70a23b9c0e5635656859a2a549fd"
+            },
+            {
+              "url": "",
+              "title": "Working at Pegasystems: 54 Reviews | Indeed.com",
+              "snippet": "54 reviews from Pegasystems employees about Pegasystems culture, salaries, benefits, work-life balance, management, job security, and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238574+00:00",
+              "published_date": null,
+              "source_hash": "9ebe157a5bb3cb8ec98083e84187ed22"
+            },
+            {
+              "url": "",
+              "title": "Working at Pegasystems - Glassdoor",
+              "snippet": "Explore Pegasystems Conversations for the latest discussions among employees who have personal experience working there. Get authentic insights into salaries, benefits, company culture, career paths, and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238578+00:00",
+              "published_date": null,
+              "source_hash": "845e0a438a7740aaca9eec18ecb97f4c"
+            },
+            {
+              "url": "",
+              "title": "Working at Pegasystems: Employee Reviews | Indeed.com",
+              "snippet": "The company is poised to grow and is a great place to work for 3 years. The place is fun there is an excellent work life balance. But work will get monotonous after a while. If you are a high flier the USA office is good , that is where the HQ is located. CEO is a great visionary and works very hard to make PRPC a world class product.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238582+00:00",
+              "published_date": null,
+              "source_hash": "766bd9316ba83973991881c3fa182acd"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Employee Reviews - Comparably",
+              "snippet": "Best Company for Diversity 2021 (Large Companies) Best Diversity 2019 (Large Companies) Best Company Perks & Benefits 2019 (Large Companies)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238586+00:00",
+              "published_date": null,
+              "source_hash": "22c549a39461c1aacf38ec0c4535a950"
+            },
+            {
+              "url": "",
+              "title": "Working at Pegasystems Inc: Employee Reviews | Indeed.com",
+              "snippet": "Reviews from Pegasystems Inc employees about Pegasystems Inc culture, salaries, benefits, work-life balance, management, job security, and more. Find jobs Company reviews",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238589+00:00",
+              "published_date": null,
+              "source_hash": "f3f1dc683c2e0932c5f846ea47e040b8"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Culture - Comparably",
+              "snippet": "The majority of employees at Pegasystems believe the environment at Pegasystems is positive. Most Participants believe the pace of work at Pegasystems is comfortably fast. About 57% of the employees at Pegasystems work 8 hours or less, while 2% of them have an extremely long day - longer than twelve hours.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238592+00:00",
+              "published_date": null,
+              "source_hash": "595e11422e7f2193da06955438711ce8"
+            },
+            {
+              "url": "",
+              "title": "Working At Pegasystems: Company Overview and Culture - Zippia",
+              "snippet": "See what kind of people work at Pegasystems, career paths working at Pegasystems, company culture, salaries, employee political affiliation, and more. Browse 75 Jobs at Pegasystems. Jobs; Career; ... Pegasystems employees in the top 10 percent can make over $142,000 per year, while Pegasystems employees at the bottom 10 percent earn less than ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:17.238596+00:00",
+              "published_date": null,
+              "source_hash": "baace465acfc334eb394c1ff2ce86aae"
+            },
+            {
+              "url": "",
+              "title": "Pegasystems Inc. (NASDAQ:PEGA) Shares Sold by Public Employees Retirement System of Ohio",
+              "snippet": "Public Employees Retirement System of Ohio reduced its holdings in Pegasystems Inc. (NASDAQ:PEGA - Free Report) by 4.9% in the 3rd quarter, HoldingsChannel.com reports. The firm owned 16,420 shares of the technology company's stock after selling 838 shares during the quarter.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Pegasystems Inc. Pegasystems Inc. employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:45:21.028719+00:00",
+              "published_date": "2024-12-20T08:15:00+00:00",
+              "source_hash": "6c1a64a198d93ae3a370068a70cbeb0d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Pegasystems Inc. intellectual property disputes",
+              "rationale": "Investigate ongoing or past legal disputes related to intellectual property",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Pegasystems Inc. licensing model complaints",
+              "rationale": "Explore client feedback and controversies regarding the complexity and cost of licensing",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Pegasystems Inc. employee workplace controversies",
+              "rationale": "Assess any known issues related to workplace ethics or employee treatment",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:45:41.825852",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

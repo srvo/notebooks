@@ -1,0 +1,438 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:13:04.558782",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Aisin Corporation",
+      "symbol": "ASEKF",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities, including semiconductor shortages and raw material price fluctuations",
+            "High dependence on Toyota for revenue",
+            "Intense competitive pressure from other automotive parts suppliers",
+            "Need for continuous technological investment in electrification and autonomous driving",
+            "Potential impacts from labor strikes and legal challenges"
+          ],
+          "controversies": [
+            "Class-action settlement in the U.S. related to compliance and competition laws",
+            "Concerns over potential impacts from labor strikes, such as those by the United Auto Workers"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving carbon neutrality by 2050",
+            "Recognition on CDP\u2019s 'A List' for climate change efforts"
+          ],
+          "social_issues": [
+            "Potential impacts from labor strikes",
+            "Legal challenges related to compliance and competition laws"
+          ],
+          "governance_issues": [
+            "Significant executive changes in North American operations",
+            "Internal restructuring and merger of subsidiary Aisin Chemical Co., Ltd."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Toyota, affiliates to offload some $1 bln in Aisin shares",
+              "snippet": "Aisin Corp. Follow. ... chronicling how some of the world's biggest automakers navigate a transition to electric vehicles and unprecedented supply chain disruptions. Since joining Reuters in 2018 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109710+00:00",
+              "published_date": null,
+              "source_hash": "2249b003afcf59a6ebec8efc63bfb4eb"
+            },
+            {
+              "url": "",
+              "title": "Business Reorganization (Merger) with a Consolidated Subsidiary | AISIN ...",
+              "snippet": "AISIN CORPORATION (\"AISIN\") hereby announces that it has signed a Memorandum of Understanding today to merge its consolidated subsidiary Aisin Chemical Co., Ltd. (\"Aisin Chemical\") into AISIN (the \"Merger\"). ... BEVs are drastically changing the value chain of the entire industry, including vehicle structure, value sought by users ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109844+00:00",
+              "published_date": null,
+              "source_hash": "dcac53aedfc30955520b890fc4fac696"
+            },
+            {
+              "url": "",
+              "title": "Executive Changes Announced at Aisin Companies in North America",
+              "snippet": "AISIN Corporation, the fifth largest Tier One automotive supplier in the world, today announced a number of changes to its executive team in North America, effective April 1, 2023. ... while facing extraordinary supply chain issues - it was the true concern that these presidents had for employees and their families. Each of these AISIN ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109862+00:00",
+              "published_date": null,
+              "source_hash": "0383b869c886636e297e98a00b384968"
+            },
+            {
+              "url": "",
+              "title": "Aisin Corp | Reuters",
+              "snippet": "Toyota Motor and two affiliates will divest at least 12.5% of supplier Aisin , the companies said, a $1 billion deal that fuelled hopes the automaker could step up sales of its cross-shareholdings.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109874+00:00",
+              "published_date": null,
+              "source_hash": "de97bb781d938517a6643f4cccebbed7"
+            },
+            {
+              "url": "",
+              "title": "Benefits and Constraints of Temporary Sourcing Diversification in ...",
+              "snippet": "Neither Aisin-Seiki nor Riken has change d its general supply chain strategy sinc e these two respective disruptions. For normal day-to-day operat ions, Toyota, Aisin Seiki and Riken used",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109884+00:00",
+              "published_date": null,
+              "source_hash": "e6500dd95a8a931644835e47cc7c65c5"
+            },
+            {
+              "url": "",
+              "title": "Case Law Update: Disputes Relating to Supply Chain Disruptions Hit the ...",
+              "snippet": "Over the last two years, the widespread shortages, stoppages, and other disruptions affecting much of the global supply chain have led manufacturers, suppliers, and buyers alike to examine their contract terms for an available excuse for nonperformance. Contract parties have focused in particular on any applicable force majeure clauses.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109893+00:00",
+              "published_date": null,
+              "source_hash": "91b7b2e21da99a853e6dafdbdfd78fdb"
+            },
+            {
+              "url": "",
+              "title": "Auto parts supplier Aisin Advics reports explosion at Japan plant",
+              "snippet": "Toyota has suffered production delays this year due to supply chain disruptions caused by damage to a plant operated by an Aisin Seiki subsidiary following earthquakes in southern Japan, and a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109903+00:00",
+              "published_date": null,
+              "source_hash": "19ecbfe10661dbfa83785e418e447412"
+            },
+            {
+              "url": "",
+              "title": "The Toyota Group and the Aisin Fire - MIT Sloan Management Review",
+              "snippet": "Only five firms were needed to assist Aisin with the production of the clutch master and tandem master cylinders. 18. Wall Street Journal, 8 May 1997. 19. Koritsu Sangyo is perhaps an exceptional case.Its president heads Aisin's supplier association. It is one of Aisin's best-performing suppliers, the winner of several awards for quality.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109912+00:00",
+              "published_date": null,
+              "source_hash": "29b227bc1b3c4c3df93768a4909525df"
+            },
+            {
+              "url": "",
+              "title": "Materiality | AISIN CORPORATION Global Website",
+              "snippet": "Issues related to the AISIN Group's business and supply chains are identified centering on the 17 SDGs and their 169 targets. step2 Prioritization Issues are prioritized based on stakeholder expectations and requests and their importance to the AISIN Group, and a materiality matrix is created.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109922+00:00",
+              "published_date": null,
+              "source_hash": "84159d56d0e44ed93ac92de366509327"
+            },
+            {
+              "url": "",
+              "title": "The benefits and constraints of temporary sourcing diversification in ...",
+              "snippet": "Two different disaster recoveries at Aisin Seiki and Riken Corporation are compared. \u2022 The case of Riken's recovery from earthquake in 2007 is documented for the first time. \u2022 Temporary diversification worked in Aisin Seiki case, but was impossible at Riken. \u2022 High asset specificity constrains temporary diversification in supply chain ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Aisin Corporation Aisin Corporation supply chain disruptions legal issues",
+              "retrieved_at": "2025-01-06T17:12:37.109932+00:00",
+              "published_date": null,
+              "source_hash": "3a97d899b614fc3506296b08e828f4f0"
+            },
+            {
+              "url": "",
+              "title": "Settlement for class action in the US | AISIN CORPORATION Global Website",
+              "snippet": "We, the Aisin Group, will devote every effort to restore trust by taking comprehensive measures to prevent a recurrence of the aforementioned types of practices, including the implementation of an even more stringent business audit system and enhanced training on compliance with relevant rules and regulations including competition laws.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856375+00:00",
+              "published_date": null,
+              "source_hash": "ad6a3c7fe7a58b9bfdaca809b27f6146"
+            },
+            {
+              "url": "",
+              "title": "Japan's Aisin Fears United Auto Workers Strike Would Hit Supply Chain ...",
+              "snippet": "Aisin Corp., a major Japanese car parts manufacturer, is worried a strike by the United Auto Workers against Detroit automakers would have a much broader impact, according to the company's top ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856421+00:00",
+              "published_date": null,
+              "source_hash": "fbafebfc14077316769bc60f8fcbf4ba"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Automotive Casting, LLC (\"Aisin\"); DENSO Corporation, DENSO International America, Inc., DENSO International Korea Corporation, DENSO Korea ... controversy under Article III of the United States Constitution. 11. Venue is proper in this District pursuant to Section 12 of the Clayton Act (15 U.S.C. \u00a7 22) because one or more of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856430+00:00",
+              "published_date": null,
+              "source_hash": "16227cf8951020e50abc6e46fae65a1d"
+            },
+            {
+              "url": "",
+              "title": "Aisin Seiki to plead guilty to antitrust charges -U.S. Justice Dept",
+              "snippet": "Japanese auto parts maker Aisin Seiki Co Ltd has agreed to plead guilty and pay a $35.8 million dollar fine for conspiring to divide up the market, U.S. The company conspired to allocate customers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856439+00:00",
+              "published_date": null,
+              "source_hash": "fff8a405601c7c0d28355dabc088d604"
+            },
+            {
+              "url": "",
+              "title": "Aisin Global Hotline | AISIN CORPORATION Global Website",
+              "snippet": "3. Method and Flow of Consultation and Report. Consultations and Reports can be made via web input by providing identity or under anonymity. For more proper investigation, we ask the whistleblower to provide as precise as possible the facts concerning the consultation and report (e.g., when/where/how it happened, who is involved, what are the concerns, how whistleblower become aware about it).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856446+00:00",
+              "published_date": null,
+              "source_hash": "f6dcdc958a7712830229daaa351f0f1e"
+            },
+            {
+              "url": "",
+              "title": "AISIN Group Anti-Corruption Policy - AISIN CORPORATION Global Website",
+              "snippet": "AISIN Group Anti-Corruption Policy In accordance with \" AISIN Group Charter of Sustainability ,\" we, the AISIN Group of companies, contribute to the realization of sustainable economic growth and the resolution of social issues through fair and transparent business in a socially responsible manner, while complying with applicable laws, rules ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856454+00:00",
+              "published_date": null,
+              "source_hash": "2e387605690c3f38ed15368d75a5a5fc"
+            },
+            {
+              "url": "",
+              "title": "The Toyota Group and the Aisin Fire - MIT Sloan Management Review",
+              "snippet": "Like Denso Corp., Aisin Seiki was originally a department within Toyota before it was spun off as a subsidiary in 1949. Toyota presently owns approximately 20 percent of Aisin shares, and several of Aisin's executives were originally Toyota managers, including Aisin's current president Toyoda Kanshiro (the son of Toyoda Eiji, Toyota's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856461+00:00",
+              "published_date": null,
+              "source_hash": "664811e2dfccba0334662d28acb7c2f3"
+            },
+            {
+              "url": "",
+              "title": "CSR - AISIN World Corp. of America",
+              "snippet": "Many companies talk about corporate social responsibility, but at AISIN Corporation we believe this is more than just a responsibility, it is an opportunity to make a difference in the lives of others. ... Human Rights and Labor. We respect the character, individuality, and diversity of our employees and provide a safe, enjoyable, positive and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856484+00:00",
+              "published_date": null,
+              "source_hash": "947d65227f86990b0ea9c1d461978c84"
+            },
+            {
+              "url": "",
+              "title": "Employment and Labor Law and Litigation - Ray ... - Ray Quinney & Nebeker",
+              "snippet": "Ray Quinney & Nebeker has one of the largest employment and labor law practice groups in Utah. Our employment group is consistently ranked as one of the top employment and labor practice groups in the Chambers and Partners USA Guide.. We represent employers in all areas of the workplace, including wage and hour issues, discrimination, labor relations, ERISA (employee benefits), unemployment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856490+00:00",
+              "published_date": null,
+              "source_hash": "016e02a709cd2d52058f5d61a3231ac6"
+            },
+            {
+              "url": "",
+              "title": "(PDF) Self-Organization and Clustered Control in the Toyota Group ...",
+              "snippet": "6 Like Denso Corp., Aisin Seiki was originally a department within Toyota before it was hived off as a subsidiuy in 1949. Toyota presently owns approximately 20'ZO of Akin shares, and several of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Aisin Corporation Aisin Corporation labor practices controversies",
+              "retrieved_at": "2025-01-06T17:12:41.856496+00:00",
+              "published_date": null,
+              "source_hash": "67fd9e97326615e76487e06c0a70f9cb"
+            },
+            {
+              "url": "",
+              "title": "AISIN Recognized on 'A List' in CDP's Climate Change Ratings",
+              "snippet": "Aisin Corporation has achieved the highest rating in the climate change category of CDP, an international environmental NGO based in London, U.K. This marks the third time Aisin has been recognized on the \"A List,\" following previous recognition in the water security category in 2021 and 2022. ... Through its commitment to carbon neutrality ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504229+00:00",
+              "published_date": null,
+              "source_hash": "19795b659863644efb44587941380d45"
+            },
+            {
+              "url": "",
+              "title": "News - AISIN CORPORATION Global Website",
+              "snippet": "AISIN has set \"To the future, a sustainable environment\" as one of the values it offers to society and stakeholders. Through activities toward carbon neutrality, AISIN remains committed to contributing to the spread of technologies to reduce energy consumption and CO 2 emissions in local communities. About AISIN's sustainability",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504299+00:00",
+              "published_date": null,
+              "source_hash": "56e0169a4a1c15202899d92e90323e18"
+            },
+            {
+              "url": "",
+              "title": "Integrated Report | AISIN CORPORATION Global Website",
+              "snippet": "Aisin Global Website - Products, Technology, Group/Company Information, Sustainability, IR Information, Careers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504315+00:00",
+              "published_date": null,
+              "source_hash": "82725bcafc8569199f7cbf45da38ca19"
+            },
+            {
+              "url": "",
+              "title": "Making Carbon Neutrality a Reality | AISIN CORPORATION Global Website",
+              "snippet": "Carbon neutrality in terms of production. AISIN Group has been implementing various initiatives with a focus on \"reduction in power sources, heat sources, and waste,\" \"clean energy\" and \"resource recycling aimed at zero waste,\" in order to achieve carbon neutrality in production by 2035, achieve zero CO 2 emissions in plants by 2040, and achieve carbon neutrality on a global, Group ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504325+00:00",
+              "published_date": null,
+              "source_hash": "704036960cbcd394eeb3d76543a5ebeb"
+            },
+            {
+              "url": "",
+              "title": "AISIN",
+              "snippet": "AISIN envisions carbon neutral production by 2035, zero-emission plants by 2040, and comprehensible carbon neutrality by 2050. To achieve these goals, AISIN is working to reduce CO2 emissions from production and throughout the lifecycle of their products through energy conservation, innovation in production technology, and the adoption of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504367+00:00",
+              "published_date": null,
+              "source_hash": "7d95ac7f919373489c803bfa06fabc6c"
+            },
+            {
+              "url": "",
+              "title": "AISIN",
+              "snippet": "It is our goal to reach a 100% replacement rate by 2030 and commercialize next-generation bioenergy that leverages the potential of plants. Through technological innovation in the field of cast iron, in which large amounts of CO2 are emitted, we will make significant progress toward our AISIN Group goal of achieving carbon neutrality (CN) by 2050.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504378+00:00",
+              "published_date": null,
+              "source_hash": "72d9bfefa275207fe984d92c2dbec4dd"
+            },
+            {
+              "url": "",
+              "title": "AISIN Recognized on 'A List' in CDP's Climate Change Ratings",
+              "snippet": "The company has acknowledged its responsibility to contribute to a sustainable society, including the broader goal of carbon neutrality. To this end, Aisin has established specific targets ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504388+00:00",
+              "published_date": null,
+              "source_hash": "b024c506a84b8db9afc9d65b72663549"
+            },
+            {
+              "url": "",
+              "title": "News - AISIN CORPORATION Global Website",
+              "snippet": "Environmental axis. Priority items. Establishment of a low-carbon society. Aim to achieve zero CO 2 emissions over the entire life cycle of products toward realizing carbon neutrality. \u30fb Establishment of a system for reducing life-cycle CO 2 emissions from the purchase of materials to disposal \u30fb Active introduction of the latest energy saving technologies when plants are newly built and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504398+00:00",
+              "published_date": null,
+              "source_hash": "a2fac9f47ddc43501adc985258f6b78a"
+            },
+            {
+              "url": "",
+              "title": "Aisin Corp. ESG Risk Rating - Sustainalytics",
+              "snippet": "Aisin Corp is a manufacturer and seller of automotive parts, lifestyle and energy-related products, and wellness products. The majority of revenue is generated selling automotive parts and related services, automatic transmissions, car navigation systems, and lifestyle products such as sewing machines and beds, and heat-pumps.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504412+00:00",
+              "published_date": null,
+              "source_hash": "73e9b547540480865ddeed5101062856"
+            },
+            {
+              "url": "",
+              "title": "AISIN",
+              "snippet": "AISIN CORPORATION will exhibit at the Automotive Engineering Exposition 2023, which will be held at Pacifico Yokohama (Nishi-ku, Yokohama, Japan) from Wednesday, May 24 to Friday, May 26, 2023. At this exposition, AISIN will highlight electrification initiatives to achieve carbon neutrality and mobility for relief, comfort, and convenience.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Aisin Corporation Aisin Corporation carbon neutrality progress",
+              "retrieved_at": "2025-01-06T17:12:45.504422+00:00",
+              "published_date": null,
+              "source_hash": "d671480635bf426fab560222fe5b18a7"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Aisin Corporation supply chain disruptions legal issues",
+              "rationale": "Investigate legal challenges or financial impacts from supply chain vulnerabilities",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Aisin Corporation labor practices controversies",
+              "rationale": "Examine potential ethical concerns related to labor practices in global operations",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Aisin Corporation carbon neutrality progress",
+              "rationale": "Assess the company's progress and challenges in meeting its 2050 carbon neutrality goal",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:13:04.558793",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

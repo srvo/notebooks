@@ -1,0 +1,532 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:34:37.888507",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Teradata Corp",
+      "symbol": "TDC",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Financial performance and revenue pressure due to cloud migration challenges",
+            "Intense competition from Snowflake, Amazon Redshift, Google BigQuery, and Microsoft Azure Synapse",
+            "Customer churn and retention risks as clients transition to competing platforms",
+            "Operational challenges from workforce layoffs and restructuring efforts",
+            "Legal risks from the ongoing lawsuit against SAP for antitrust violations and trade secret theft"
+          ],
+          "controversies": [
+            "Stock plunge of 13.3% following Q3 2024 earnings report",
+            "Lawsuit against SAP for antitrust violations and trade secret theft",
+            "Ethical concerns over layoffs and employee treatment during restructuring"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Layoffs affecting 9-10% of the workforce",
+            "Ethical concerns regarding employee treatment during financial difficulties"
+          ],
+          "governance_issues": [
+            "Leadership changes and their impact on company performance",
+            "Effectiveness of cost-cutting measures and restructuring efforts"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Why Teradata Plunged Today - The Motley Fool",
+              "snippet": "Shares of hybrid cloud data manager Teradata (TDC-1.57%) fell 13.3% on Tuesday, as of 1:25 p.m. ET. The software company fell following its third-quarter earnings report.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.446031+00:00",
+              "published_date": null,
+              "source_hash": "2a4122eabe08e24eebe10aae1b937bd9"
+            },
+            {
+              "url": "",
+              "title": "Teradata Corp (TDC) Q1 2024 Earnings Call Transcript Highlights ...",
+              "snippet": "A: Claire Bramley, CFO - Teradata Corporation: The slight decline in cloud ARR was due to currency impacts and lower-than-expected migration and expansion activity. However, we anticipate growth ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532312+00:00",
+              "published_date": null,
+              "source_hash": "8a4b0011c38af019b91eed93d32aefb8"
+            },
+            {
+              "url": "",
+              "title": "Why Teradata Plunged Today - Yahoo Finance",
+              "snippet": "Shares of hybrid cloud data manager Teradata (NYSE: TDC) fell 13.3% on Tuesday, as of 1:25 p.m. ET.. The software company fell following its third-quarter earnings report. While beating analyst ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532345+00:00",
+              "published_date": null,
+              "source_hash": "3dddc044c9ba3b70060c0bf697159a1c"
+            },
+            {
+              "url": "",
+              "title": "Teradata's Tightrope: Navigating Cloud Migration As Competitor Builds ...",
+              "snippet": "Teradata includes a competitive comparison on its website, where the company details the advantages for enterprises to migrate from Databricks to Teradata. Teradata's testing concluded that its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532371+00:00",
+              "published_date": null,
+              "source_hash": "4b70b75b24a3d586e70362c7e003b7b5"
+            },
+            {
+              "url": "",
+              "title": "Challenges Ahead for Teradata Despite Strong Performance: Navigating ...",
+              "snippet": "Additionally, the company reported full-year revenue of $1.833 billion, up 2% from the prior year. Steve McMillan, president and CEO of Teradata, highlighted the company's growing cloud revenue, particularly measured in annual recurring revenue (ARR), as a promising sign for the future. Teradata ended 2023 with $528 million of cloud ARR ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532396+00:00",
+              "published_date": null,
+              "source_hash": "aedb3a935cc20044bb7188bb5fa49bc0"
+            },
+            {
+              "url": "",
+              "title": "Teradata chases hyperscaler, SI partnerships in cloud push",
+              "snippet": "McMillan took over as CEO at Teradata in May 2020 following the nine-month tenure of Oliver Ratzesberger, who had overseen the launch of the company's cloud-based data warehouse and analytics platform Vantage and the transition to object storage.. A string of disappointing financials followed. But the company managed to double its public cloud revenue to $202 million for calendar 2021 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532422+00:00",
+              "published_date": null,
+              "source_hash": "ae8f38a9f7c4438da66101b659039b11"
+            },
+            {
+              "url": "",
+              "title": "Understanding Teradata Corporation (TDC) Revenue Streams",
+              "snippet": "[relinking] Home Revenue Analysis Profitability Metrics Debt vs. Equity Liquidity and Solvency Valuation Analysis Risk Factors Growth Opportunities Understanding Teradata Corporation (TDC) Revenue Streams Understanding Teradata Corporation's Revenue Streams Primary Revenue Sources Recurring Revenue: $1,128 million (84.1% of total revenue) for the nine months ended September 30, 2024 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532448+00:00",
+              "published_date": null,
+              "source_hash": "42e72c7f5587ae149b79788d12de1046"
+            },
+            {
+              "url": "",
+              "title": "Teradata Clocks 5% Revenue Decline In Q4 - Yahoo Finance",
+              "snippet": "Teradata Corp (NYSE: TDC) reported a fourth-quarter revenue decline of 5% year-on-year to $452 million, beating the consensus of $436.3 million. Non-GAAP EPS of $0.35 beat the consensus of $0.30.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532472+00:00",
+              "published_date": null,
+              "source_hash": "d930c2b26a6a0cdd46f386c308280866"
+            },
+            {
+              "url": "",
+              "title": "Teradata Projects Slow Growth With Continued Cloud Transition Focus",
+              "snippet": "Teradata provides cloud analytics and related DBMS software to organizations worldwide. The company has guided 2023 revenue growth of 2.5% at the midpoint of the range, although the firm is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532494+00:00",
+              "published_date": null,
+              "source_hash": "27e0bab2c20a09edf83b3fe9eba8cb39"
+            },
+            {
+              "url": "",
+              "title": " Teradata Reports Third Quarter 2022 Financial Results",
+              "snippet": "\"Teradata delivered our second largest cloud growth quarter,\" said Steve McMillan, President and CEO, ... \u2022 Total revenue to decline in the mid-to-high-single-digit percentage range year-over-year as reported. ... on the Investor Relations page of the Company's website at investor.teradata.com. 2. Teradata reports its results in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:00.532515+00:00",
+              "published_date": null,
+              "source_hash": "dcaf01859cfb92a666fe21cc71b654cf"
+            },
+            {
+              "url": "",
+              "title": "Teradata's Tightrope: Navigating Cloud Migration As Competitor Builds Its Warchest",
+              "snippet": "Teradata faces tough competition from Databricks, but its cloud migration and product innovations are key to its value narrative. See more on TDC stock here.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:02.939357+00:00",
+              "published_date": "2024-12-25T10:03:00+00:00",
+              "source_hash": "c42f96735f2dd3e7e95b1e83b97592c9"
+            },
+            {
+              "url": "",
+              "title": "Teradata's SWOT analysis: cloud growth challenges weigh on stock",
+              "snippet": "Teradata's third-quarter 2024 results painted a complex picture. The company reported ... efficiency despite transition challenges. However, public cloud Annual Recurring Revenue (ARR) growth ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:02.939445+00:00",
+              "published_date": "2024-12-15T00:13:00+00:00",
+              "source_hash": "8c8939cbeac03534881fc4c25c47561c"
+            },
+            {
+              "url": "",
+              "title": "Assessing Teradata: Insights From 6 Financial Analysts",
+              "snippet": "Revenue Growth: Teradata displayed positive results in 3 months. As of 30 September, 2024, the company achieved a solid revenue growth rate of approximately 0.46%. This indicates a notable ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:07.962530+00:00",
+              "published_date": "2024-12-06T15:00:00+00:00",
+              "source_hash": "ceb96c24d0be1dc2acec677132e374b6"
+            },
+            {
+              "url": "",
+              "title": "Teradata (TDC) Up 11.3% Since Last Earnings Report: Can It Continue?",
+              "snippet": "Public cloud ARR increased ... In the third quarter, Teradata strengthened its customer pipeline, achieving new deals with major enterprises like a U.S. insurance company and a large Asia-Pacific ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:02.939499+00:00",
+              "published_date": "2024-12-04T23:31:00+00:00",
+              "source_hash": "2ae9fecb3bc238d3844f4a908b6ff340"
+            },
+            {
+              "url": "",
+              "title": "Teradata AI Unlimited Now Available for Public: Is the Stock a Buy?",
+              "snippet": "Teradata Corporation TDC has revealed ... Devices industry's rise of 13.6%. The decline in share price can be attributed to its slower revenue growth, coupled with stiff competition from Oracle ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp revenue decline cloud transition",
+              "retrieved_at": "2025-01-06T15:34:02.939523+00:00",
+              "published_date": "2024-11-20T19:44:00+00:00",
+              "source_hash": "b04900c84da63af6703b9f4dc412ef95"
+            },
+            {
+              "url": "",
+              "title": "Customer churn prediction - telco customer churn | Teradata",
+              "snippet": "To help uncover underlying causes of churn, VantageCloud and ClearScape Analytics enable teams to quickly analyze massive amounts of customer data. With powerful machine learning (ML) and predictive analytic capabilities, your team can build churn prediction models and proactively reach out to at-risk customers with personalized offers or other ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505269+00:00",
+              "published_date": null,
+              "source_hash": "433a4a86d8342091909fac6f30282a4d"
+            },
+            {
+              "url": "",
+              "title": " Teradata Customer Journey",
+              "snippet": "Teradata Solution Teradata Customer Journey combines customer data integration, advanced analytics, and real-time omni-channel orchestration capabilities with analytics expertise. With it, marketers can improve response and conversion rates, optimize customer service, reduce churn, and increase customer satisfaction to achieve",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505348+00:00",
+              "published_date": null,
+              "source_hash": "c0a53df5f0d5c8f2b5cb02ddac03cbe2"
+            },
+            {
+              "url": "",
+              "title": " Powering Customer Journeys - Teradata",
+              "snippet": "Churn Customer Loyalty High Impact Business Outcomes Series of smaller projects, each deliver value, contribute to strategic capability CONNECTED INTERACTIONS CONNECTED DATA CONNECTED ANALYTICS smart Multi-Line Insurer: 30% Response rate Customer Journey Solution +Business Value Framework = High Impact Business Outcomes",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505366+00:00",
+              "published_date": null,
+              "source_hash": "2a78ec7a6031ea72184b89f8cdfeef12"
+            },
+            {
+              "url": "",
+              "title": " Social Gaming Network: Use of Teradata Cloud to Enhance Customer Retention",
+              "snippet": "management products that demonstrate above-average customer value. This EMA case study profiles the use of Teradata Cloud by Social Gaming Network (SGN) to address their data challenges for predicting customer churn rates and increasing retention. Teradata Corporation provides analytic data platforms, marketing and analytic applications, and",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505380+00:00",
+              "published_date": null,
+              "source_hash": "6382f6bebc1bee35af1b8f3d5c3a0adc"
+            },
+            {
+              "url": "",
+              "title": "Customers' Choice for Cloud DBMS | Teradata",
+              "snippet": "Learn why customers recognize Teradata on Gartner\u00ae Peer Insights as a Customers' Choice for 2024 in the Cloud Database Management Systems category. ... user ratings. To ensure fair evaluation, Gartner maintains rigorous criteria for recognizing vendors with a high customer satisfaction rate. What customers say about Teradata on Gartner Peer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505394+00:00",
+              "published_date": null,
+              "source_hash": "5e327717e0fbb61fa2c83ac9abb94152"
+            },
+            {
+              "url": "",
+              "title": "Improving Customer Churn Prediction in Teradata Technology using ...",
+              "snippet": "By feeding historical data into ChatGPT-4, it can learn patterns, understand customer behavior, and generate insights that can help businesses reduce churn rates and improve customer retention strategies. Benefits of Predicting Customer Churn. Predicting customer churn using Teradata and ChatGPT-4 offers several benefits to businesses ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505410+00:00",
+              "published_date": null,
+              "source_hash": "3e694172098b120b04b42d8e790a7c20"
+            },
+            {
+              "url": "",
+              "title": "TDC 5 Year Total Customer Trend - post regarding Teradata Corp. layoffs",
+              "snippet": "Good point. Many of the Teradata customers who \"lift and shift\" to AWS or Azure are doing that as part of a longer-term plan to migrate totally off Teradata. So there is short-term ARR that will be lost in 18-24 months. Once the data and apps are in the cloud, the next step is a database migration to Snowflake, Redshift, Synapse, or others.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505423+00:00",
+              "published_date": null,
+              "source_hash": "6ca0cb6e078198bd37c55417a35d224f"
+            },
+            {
+              "url": "",
+              "title": "Innovating in Customer Experience With AI | Teradata",
+              "snippet": "Harmonized data enables innovation in trusted AI and customer experience. Teradata Vantage\u2122 and ClearScape Analytics ... including churn prediction and churn protection.\" ... dass mir die Teradata Corporation als Anbieter dieser Website gelegentlich Marketingkommunikations-E-Mails mit Informationen \u00fcber Produkte, Data Analytics und ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505435+00:00",
+              "published_date": null,
+              "source_hash": "6261c6dbddbe2734f8e3606923b68216"
+            },
+            {
+              "url": "",
+              "title": "Teradata Customer Journey Behavioral Insights",
+              "snippet": "The insights resulting from Teradata's Customer Journey Analytic Solution enable marketers to optimize objectives such as response and conversion rates, service delivery, churn, and customer satisfaction - leading directly to high-impact business outcomes such as increased revenue and customer retention.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505452+00:00",
+              "published_date": null,
+              "source_hash": "f5c489c5177ff77f622357b612f7ce08"
+            },
+            {
+              "url": "",
+              "title": "Innovating in Customer Experience With AI | Teradata",
+              "snippet": "\"It's uplifting key metrics like the average revenue per user (ARPU) of the customer, churn rates, how many subscribers we're able to save, and how effective we were in cross-selling,\" explains Hussain. ... I consent that Teradata Corporation, as provider of this website, may occasionally send me Teradata Marketing Communications emails ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Teradata Corp Teradata Corp customer churn rate",
+              "retrieved_at": "2025-01-06T15:34:04.505464+00:00",
+              "published_date": null,
+              "source_hash": "8bbb45c58b66abe9f96b95374ed49d45"
+            },
+            {
+              "url": "",
+              "title": "Teradata Corp",
+              "snippet": "Europe's largest software maker SAP must face a lawsuit by U.S. data technology company Teradata accusing it of antitrust violations and stealing trade secrets, after a U.S. appeals court revived ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:14.154060+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "0dd555df9e330ede8aec9ed301039b4d"
+            },
+            {
+              "url": "",
+              "title": "Teradata Layoffs: Why the Company Cut Jobs? - MyBizJournal",
+              "snippet": "The year 2024 was a challenging one for Teradata Corporation, with the company resorting to cost-cutting measures, including layoffs, to navigate its financial struggles. Teradata is a significant player in the data analytics industry, yet the company was unprepared for the rapid shift toward cloud-based solutions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445723+00:00",
+              "published_date": null,
+              "source_hash": "c552875aeb6d77caf48d15d8aa473c6d"
+            },
+            {
+              "url": "",
+              "title": "Maintaining Hold on Teradata Amidst Contraction and Cost-Cutting ...",
+              "snippet": "Teradata (TDC) Company Description: Teradata Corp. engages in the provision of data platforms, consulting services, marketing, and analytic solutions. It operates through the Americas Region and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445853+00:00",
+              "published_date": null,
+              "source_hash": "5a2ba78b9323de0a810ce7978b9f4392"
+            },
+            {
+              "url": "",
+              "title": "Teradata layoff: Understanding the Layoff Situation",
+              "snippet": "Teradata, a leading provider of data and analytics solutions, has recently made headlines due to its layoffs. Let's delve into the situation and understand the implications. Understanding the Layoff Situation Reasons behind Teradata Layoffs Teradata's decision to downsize its workforce stems from various factors, including financial performance, market trends, and strategic realignment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445886+00:00",
+              "published_date": null,
+              "source_hash": "350541d5a5ad2550087ad19d602d2be7"
+            },
+            {
+              "url": "",
+              "title": "Teradata lays off 80 San Diego workers amid CEO's departure [The San ...",
+              "snippet": "Nov. 18-Teradata Corp. has trimmed approximately 80 jobs in San Diego after a recent upheaval that saw its chief executive leave and its stock price fall. The company, which provides Teradata lays off 80 San Diego workers amid CEO's departure [The San Diego Union-Tribune] | State-Nation-World | dailyrepublic.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445915+00:00",
+              "published_date": null,
+              "source_hash": "70a404e8fd47e58f9afb811bbba37ecf"
+            },
+            {
+              "url": "",
+              "title": "Teradata lays off 80 San Diego workers amid CEO's departure",
+              "snippet": "The company, which provides data analytics software, said there are no other workforce reductions planned in San Diego at this time, according to a spokesperson.Teradata has about 1,000 workers in",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445939+00:00",
+              "published_date": null,
+              "source_hash": "c10c1c73cd61ff72a59620e7a02bb5aa"
+            },
+            {
+              "url": "",
+              "title": "RIF season is here - post regarding Teradata Corp. layoffs - TheLayoff.com",
+              "snippet": "Tech sales EMEA especially the nordic's are coming in for a haircut in December. Word is that 5-7 reduction in headcount for the Nordics, 1 out of UK, 1 out of Germany and 3-4 out of France. Essentially this accounts for about 25% of the workforce in EMEA under RP.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445963+00:00",
+              "published_date": null,
+              "source_hash": "2ab144479a679e6ecbff655f53fa515a"
+            },
+            {
+              "url": "",
+              "title": "These Analysts Cut Their Forecasts On Teradata Following Q2 Results - MSN",
+              "snippet": "Teradata Corporation (NYSE:TDC) reported mixed financial results for the second quarter and announced a restructuring plan that will reduce its global workforce by approximately 9% to 10% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.445988+00:00",
+              "published_date": null,
+              "source_hash": "8e45374f2da5806490983c701abb84b7"
+            },
+            {
+              "url": "",
+              "title": "Layoffs: No Love at Teradata - Am I Next?",
+              "snippet": "According to a company spokesperson, \"These decisions were not taken lightly. Regarding San Diego, Teradata continues to invest in the local San Diego community, bringing approximately 300 jobs to the region so far in 2019. This far outweighs any impact to local employees as part of the changes being made globally.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.446009+00:00",
+              "published_date": null,
+              "source_hash": "408bff1b24c39a3106e968c6691bf5e5"
+            },
+            {
+              "url": "",
+              "title": "Teradata Plans Restructuring That Will Result In Reduction Of Workforce ...",
+              "snippet": "On August 5, 2024, the Company announced that it has realigned its sales function and has initiated global restructuring and cost reduction actions to optimize operations, reduce non-revenue generating expenses, and",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:10.446053+00:00",
+              "published_date": null,
+              "source_hash": "b376f839de974421892dedc1fdd5b7e5"
+            },
+            {
+              "url": "",
+              "title": "Teradata's SWOT analysis: cloud growth challenges weigh on stock",
+              "snippet": "Teradata's management has not been idle in the face of these challenges. The company announced a significant restructuring effort, including a workforce reduction affecting 9-10% of its employees.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:14.154118+00:00",
+              "published_date": "2024-12-14T19:13:00+00:00",
+              "source_hash": "32e3f6e278e3ff14d3272d4c241e00b1"
+            },
+            {
+              "url": "",
+              "title": "SAP set to face Teradata antitrust lawsuit after US appeals court's nod",
+              "snippet": "Teradata Corporation (TDC) Q3 2024 Earnings Call Transcript SAP slashes its German workforce by 3,500: report Teradata Non-GAAP EPS of $0.69 beats by $0.13, revenue of $440M beats by $22.29M",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:14.154142+00:00",
+              "published_date": "2024-12-20T15:50:00+00:00",
+              "source_hash": "23d14777fbed6e06702704938993a722"
+            },
+            {
+              "url": "",
+              "title": "SAP set to face Teradata antitrust lawsuit after US appeals court's nod",
+              "snippet": "German software maker SAP (NYSE:SAP) would have to face a lawsuit by San Diego-based Teradata (NYSE:TDC), which accused the European company of antitrust violations and stealing trade secrets, after a U.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Teradata Corp Teradata Corp workforce reduction controversy",
+              "retrieved_at": "2025-01-06T15:34:14.154162+00:00",
+              "published_date": "2024-12-20T15:49:00+00:00",
+              "source_hash": "cf405e7e5fdef7f04cbaa6c93d91c73e"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Teradata Corp revenue decline cloud transition",
+              "rationale": "Investigate financial risks due to the shift from on-premise to cloud-based subscription models",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Teradata Corp customer churn rate",
+              "rationale": "Assess risks related to customer retention and potential revenue loss",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Teradata Corp workforce reduction controversy",
+              "rationale": "Examine social and ethical concerns related to recent cost-cutting measures and layoffs",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:34:37.888513",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

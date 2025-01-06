@@ -1,0 +1,531 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:35:07.168703",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Leggett & Platt Inc",
+      "symbol": "LEG",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on global suppliers for critical raw materials",
+            "Economic sensitivity tied to consumer spending on discretionary items",
+            "High market competition in bedding and furniture industries",
+            "Financial performance volatility and stock price declines"
+          ],
+          "controversies": [
+            "$407K settlement for discriminatory hiring practices",
+            "Disputes with labor unions"
+          ],
+          "environmental_issues": [
+            "Scrutiny over environmental footprint, particularly in energy-intensive manufacturing processes"
+          ],
+          "social_issues": [
+            "Discriminatory hiring practices",
+            "Labor union disputes"
+          ],
+          "governance_issues": [
+            "Legal challenges impacting reputation and operational stability"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Sustainability Report | Leggett & Platt\u00ae",
+              "snippet": "We strive to advance sustainable solutions for our customers, to implement the highest standards for ethical conduct, to demonstrate strong environmental stewardship and safety performance, to enable a culture of inclusion and employee development at all levels of the company, and to embrace our supply chain responsibilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186645+00:00",
+              "published_date": null,
+              "source_hash": "8b403931cac26ce281087c54f7ea4911"
+            },
+            {
+              "url": "",
+              "title": " Leggett & Platt 2023 REPORT",
+              "snippet": "ff1ff\u2190 LEGGETT & PLATT SUSTAIABILIT REPORT 6 back to contents \u2190\u2190 Innovation Innovative proprietary products have helped to make Leggett & Platt the largest U.S.-based manufacturer in many of our markets. As of December 31, 2022, we had 1,239 patents issued, 506 patents in process, 1,131 trademarks registered, and 40 trademarks in process.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186718+00:00",
+              "published_date": null,
+              "source_hash": "f2eaf290cbaf6709f5e95fc2988cb852"
+            },
+            {
+              "url": "",
+              "title": " SUSTAINABILITY REPORT - Leggett & Platt",
+              "snippet": "1211 LEGGETT & PLATT USTAIABILIT REPRT 5 back to contents \u2190\u2190 Innovation Innovative proprietary products have helped to make Leggett & Platt the largest U.S.-based manufacturer in many of our businesses. As of December 31, 2021, we had 1,207 patents issued, 501 patents in process, 1,081 trademarks registered, and 78 trademarks in process.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186734+00:00",
+              "published_date": null,
+              "source_hash": "7be76e7c09a73f69184f3146457ffffb"
+            },
+            {
+              "url": "",
+              "title": "2024 Sustainability Report | Life at Leggett",
+              "snippet": "At Leggett & Platt, our mission is to enhance lives - by delivering quality products, offering empowering and rewarding careers, and doing our part to bring about a better future. ... We recently published our 2024 Sustainability Report, which details our approach, commitment, and progress towards environmental, social, and governance (ESG ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186746+00:00",
+              "published_date": null,
+              "source_hash": "5e8f34c53c0b5419c6561a52534d28ef"
+            },
+            {
+              "url": "",
+              "title": "2022 Sustainability Report - Life at Leggett",
+              "snippet": "We share an aligned vision for the future of Leggett & Platt. Our mission is to build businesses and a culture that are sustainable for generations to come. We recently published our 2022 Sustainability Report. The report provides information about our approach to and performance on the environmental, social, and governance (ESG) matters that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186769+00:00",
+              "published_date": null,
+              "source_hash": "14f3acf6e4f10e708fdc91e8b2e0ada4"
+            },
+            {
+              "url": "",
+              "title": "2023 Sustainability Report | Life at Leggett",
+              "snippet": "We recently published our 2023 Sustainability Report, which provides information about our approach to and performance on the environmental, social, and governance (ESG) matters that are most important to our business. As we move through 2023, our key ESG initiatives include:",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186780+00:00",
+              "published_date": null,
+              "source_hash": "414fca27bb9d9bb8e552520f8d91beca"
+            },
+            {
+              "url": "",
+              "title": "FQ2 2023 Earnings Call Transcripts - Leggett & Platt",
+              "snippet": "Leggett & Platt, Incorporated NYSE:LEG FQ2 2023 Earnings Call Transcripts Tuesday, August 1, 2023 12:30 PM GMT S&P Global Market Intelligence Estimates ... environmental impact by replacing commodity-based foam with a lighter polyester nonwoven material under a Comfort Core unit.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186794+00:00",
+              "published_date": null,
+              "source_hash": "d3248fb969143d47a0bad10781bee00e"
+            },
+            {
+              "url": "",
+              "title": "Leggett and Platt Inc 2022 Sustainability Report ...",
+              "snippet": "Abu Dhabi Securities Market . Amman Stock Exchange . Athens Stock Exchange",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186805+00:00",
+              "published_date": null,
+              "source_hash": "7dab25357c88229ea86505580db95d18"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt, Incorporated (LEG) - Yahoo Finance",
+              "snippet": "See Leggett & Platt, Incorporated (LEG) Environment, Social and Governance Ratings to help you in your stock buying decisions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186814+00:00",
+              "published_date": null,
+              "source_hash": "03cd843ed7ddf37b7adbdc5b711fc220"
+            },
+            {
+              "url": "",
+              "title": " 2021 SUSTAINABILITY REPORT - Leggett & Platt",
+              "snippet": "vision for the future of Leggett & Platt. Our mission is to create shareholder value, and the best way to do that is to build businesses and a culture that are sustainable for generations to come. \"Leggett has a rich 138-year history, and we are very proud and respectful of that history. But I promise you the future is even more exciting,",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:37.186824+00:00",
+              "published_date": null,
+              "source_hash": "0166075008fc9e0f05252f05698548c1"
+            },
+            {
+              "url": "",
+              "title": "Dividend Investors: Don't Be Too Quick To Buy Leggett & Platt, Incorporated (NYSE:LEG) For Its Upcoming Dividend",
+              "snippet": "Some investors rely on dividends for growing their wealth, and if you're one of those dividend sleuths, you might be intrigued to know that Leggett & Platt, Incorporated (NYSE:LEG) is about to go ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:51.560711+00:00",
+              "published_date": "2024-12-08T08:48:00+00:00",
+              "source_hash": "bba164a04c4d684282cf7cc50e3f3d15"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt Inc. stock outperforms competitors despite losses on the day",
+              "snippet": "Shares of Leggett & Platt Inc. LEG slipped 0.31% to $9.57 Thursday, on what proved to be an all-around poor trading session for the stock market, with the S&P 500 Index SPX falling 0.22% to 5,868. ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:51.560701+00:00",
+              "published_date": "2025-01-02T22:34:00+00:00",
+              "source_hash": "bf7c62191eddea148344d60db5b7427a"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt Reaches Analyst Target Price",
+              "snippet": "In recent trading, shares of Leggett & Platt, Inc. (Symbol: LEG) have crossed above the average analyst 12-month target price of $12.67, changing hands for $13.06/share. When a stock reaches the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc environmental impact controversies",
+              "retrieved_at": "2025-01-06T16:34:40.551943+00:00",
+              "published_date": "2024-11-26T12:00:00+00:00",
+              "source_hash": "bcc1afbb5b9911d9b2036281885b002e"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt - Supply Chain World magazine",
+              "snippet": "He came aboard Leggett & Platt in 2005 after being in the freight forwarding and automotive industry for over 15 years. At the time, Leggett & Platt had never centralized its logistics teams. For example, for less-than-truckload shipments, the company was using 40 carriers for 3,500 shipments a week with no visibility into the whereabouts of cargo.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164808+00:00",
+              "published_date": null,
+              "source_hash": "fd293b4c8dc3ed613a9ad7e37e34b574"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt, Incorporated Updated August 2024: Supply Chain ...",
+              "snippet": "Leggett & Platt, Incorporated has a Count of Subsidiaries of 231 and a Count of Tier 1 Connections of 425. Their government contract revenue over the past three years is $-. Information about Leggett & Platt, Incorporated's federal profile including a list of suppliers, list of primes, and list of customers are included in the following tables.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164906+00:00",
+              "published_date": null,
+              "source_hash": "fe2398a29174cdb8c1e6bea4e436d088"
+            },
+            {
+              "url": "",
+              "title": "About Us - LP Global Supply Chain - leggettlogistics.com",
+              "snippet": "We provide a personal touch of customer service, industry knowledge, and state-of-the-art systems that strategically position us to deliver improved speed, visibility, and value to our customers' supply chains. Leggett & Platt GSC is part of Leggett & Platt\u00ae, a diversified manufacturer that pioneered sleep technology when it introduced its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164923+00:00",
+              "published_date": null,
+              "source_hash": "126209a23f1883e5bf7152e34daf2973"
+            },
+            {
+              "url": "",
+              "title": "Home - LP Global Supply Chain",
+              "snippet": "Scam Illegally References Leggett & Platt Read More ... Join a robust, streamlined, and reactive supply chain and see how it can create a competitive advantage. Drive with us \u00bb ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164939+00:00",
+              "published_date": null,
+              "source_hash": "2843985d8ef50de89def194fd9f95176"
+            },
+            {
+              "url": "",
+              "title": "Supplier Information - Leggett & Platt",
+              "snippet": "Leggett & Platt relies on thousands of suppliers to provide the materials, goods, and services that our company needs to manufacture products for customers around the world. Our strategic sourcing group is responsible for identifying and contracting with suppliers who consistently provide high-quality products and services to us.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164950+00:00",
+              "published_date": null,
+              "source_hash": "e2efd8eaddbb4eb41e7e37ffa15e45bd"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt to shutter up to 15 factories under restructuring plan",
+              "snippet": "Leggett said it expects the restructuring to reduce annual sales by about $100 million and to generate between $40 million and $50 million earnings before interest and taxes on an annualized basis.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164961+00:00",
+              "published_date": null,
+              "source_hash": "67246a1681657db4bd1d2dc77f230922"
+            },
+            {
+              "url": "",
+              "title": "Leggett And Platt Inc's Suppliers Performance - csimarket.com",
+              "snippet": "LEG Costs vs Sales of Suppliers Growth: Revenues of Leggett And Platt Inc's Suppliers, deteriorated by -2.15 % compared to the same quarter a year ago, from the previous quarter, sales fell by -2.32 %, Leggett And Platt Inc's cost of sales deteriorated by -6.24 % year on year, relative to one quarter ago cost of sales fell by -4.35 % in Q3. \u2022 More on LEG Suppliers",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.164987+00:00",
+              "published_date": null,
+              "source_hash": "58e0a30ce70932bf04ef851799a1d8de"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt\u00ae",
+              "snippet": "Leggett & Platt\u00ae enhance people's lives worldwide by designing and manufacturing innovative, distinctive products and components for use in bedding, furniture, seating, homes, offices, airplanes, and automobiles.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.165000+00:00",
+              "published_date": null,
+              "source_hash": "420522f0f7a1432b9311c770e10df0d4"
+            },
+            {
+              "url": "",
+              "title": "Purchase Order Terms and Conditions | Leggett & Platt\u00ae",
+              "snippet": "These Leggett & Platt Purchase Order Terms and Conditions (these \"Terms\") are hereby incorporated into every purchase order issued by Leggett & Platt, Incorporated and any of its subsidiaries (each a \"Purchase Order\"; the issuer of each Purchase Order is the \"Purchaser\"); provided, that if any provision of these Terms is inconsistent with the express written language of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.165012+00:00",
+              "published_date": null,
+              "source_hash": "d52c2ac9113d803158e2fa25d37f0918"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt, Incorporated",
+              "snippet": "On May 2, 2022, Leggett & Platt, Incorporated issued a press release announcing its financial results for the first quarter ended March 31, 2022 ... with continuing macro market uncertainties, including supply chain constraints, inflation, tighter monetary policy, the invasion of Ukraine, and COVID lockdowns in China. 1 Sales from continuing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:43.165023+00:00",
+              "published_date": null,
+              "source_hash": "0a4c34d92cc544a2f5a53bd41708609d"
+            },
+            {
+              "url": "",
+              "title": "What's Fueling Leggett & Platt Inc (LEG) Stock's -27.82% Loss Below Its 200-Day SMA?",
+              "snippet": "On Monday, Leggett & Platt Inc (LEG) stock saw a decline, ending the day at $9.5 which represents a decrease of $-0.06 or -0.63% from the prior close of $9.56. The stock opened at $9.51 and touched a low of $9.18 during the day, reaching a high of $9.52. The volume of shares traded was 2.12 million exceeding the average volume of 1.72 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:51.560694+00:00",
+              "published_date": "2024-12-31T16:52:00+00:00",
+              "source_hash": "17766d856e562be3bc580330f89f006f"
+            },
+            {
+              "url": "",
+              "title": "Leggett: A Long-Term Player That's Also Relatively Inexpensive",
+              "snippet": "Read here for highlights on Leggett & Platt's undervalued stock, stock repurchase program, potential sale of Aerospace segment, and risks and opportunities.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:45.789808+00:00",
+              "published_date": "2024-12-27T02:17:00+00:00",
+              "source_hash": "396fdcafe4b9053340ecadcf2aff29b6"
+            },
+            {
+              "url": "",
+              "title": "Is Leggett & Platt, Incorporated (LEG) the Best Nickel Stock to Invest in?",
+              "snippet": "In this article, we are going to take a look at where Leggett & Platt, Incorporated (NYSE ... Among the contributing factors was the supply of laterite nickel out of Indonesia, which led to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T16:34:45.789839+00:00",
+              "published_date": "2024-11-19T18:35:00+00:00",
+              "source_hash": "726eef80836af488bfc15ce06be29253"
+            },
+            {
+              "url": "",
+              "title": "LEG Leggett & Platt, Incorporated",
+              "snippet": "View Leggett & Platt, Incorporated (LEG) current and estimated P/E ratio data provided by Seeking Alpha.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:51.560706+00:00",
+              "published_date": "2024-12-27T16:01:00+00:00",
+              "source_hash": "29b4d692ab25ad3d6ca6cc85b8b4cd1b"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt, Incorporated to pay $407K in back wages, interest to ...",
+              "snippet": "During a routine compliance review of Leggett & Platt, Incorporated, OFCCP determined that between Nov. 23, 2018 and Nov. 23, 2020, the employer's hiring practices at the facility discriminated against 308 Black, White and Hispanic applicants for production associate positions in violation of Executive Order 11246. The law prohibits federal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168816+00:00",
+              "published_date": null,
+              "source_hash": "560777efbca862df83fcf9ca097f1f81"
+            },
+            {
+              "url": "",
+              "title": "LEGGETT & PLATT, INC. - National Labor Relations Board",
+              "snippet": "Unfair Labor Practice Cases by Filing Party per Fiscal Year; ... Employer Employer LEGGETT & PLATT, INC. Winchester, KY 40391-2102 (859)744-4626 : Petitioner Individual : Involved Party Union International Association of Machinists and Aerospace Workers, AFL-CIO (IAM), Local 619: Winchester, KY 40391 :",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168864+00:00",
+              "published_date": null,
+              "source_hash": "d1430ce1b4d7bddf5adc9ddf619e422c"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt, Inc. v. National Labor Relations Board, No. 20-1060 (D ...",
+              "snippet": "United States Court of Appeals FOR THE DISTRICT OF COLUMBIA CIRCUIT Argued December 2, 2020 Decided February 19, 2021 No. 20-1060 LEGGETT & PLATT, INC., PETITIONER v. NATIONAL LABOR RELATIONS BOARD, RESPONDENT INTERNATIONAL ASSOCIATION OF MACHINISTS AND AEROSPACE WORKERS, INTERVENOR Consolidated with 20-1061, 20-1134 On Petitions for Review and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168878+00:00",
+              "published_date": null,
+              "source_hash": "c39ed5b42cc39c2dd9855b419fb45855"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "b. Leggett may be subject to the sanctions set forth in Section 209 of the Executive Order, 41 C.F.R. 601.27 and/or other appropriate relief for violating this - Agreement. 12. Leggett neither admits nor denies any violation of the Executive Order, nor has there been an adjudicated finding on the merits regarding any such violation. 13.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168887+00:00",
+              "published_date": null,
+              "source_hash": "f0e61dc818238d95c0ceb4d7e8d6294c"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt Must Bargain, Can't Ax Union After Half-Century",
+              "snippet": "Manufacturer Leggett & Platt Inc. must recognize and bargain with a union that has represented workers at the company's Kentucky-based mattress-making operation since 1965, the National Labor Relations Board ruled.. Leggett & Platt's violations of federal labor law, which undermined worker support for an International Association of Machinists affiliate, were serious enough to justify ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168895+00:00",
+              "published_date": null,
+              "source_hash": "e1aec139ec61bd004d0207bef5d7c11f"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt Bargaining Order Stands Despite NLRB Precedent",
+              "snippet": "Leggett & Platt Inc. must recognize and bargain with a longstanding union at its Kentucky-based mattress-making operation, despite a change in labor law precedent for assessing an employer's withdrawal of union recognition, the National Labor Relations Board ruled. The NLRB's July ruling in Johnson Controls doesn't apply retroactively to Leggett & Platt's case because it would ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168904+00:00",
+              "published_date": null,
+              "source_hash": "777c885ea56a45d820346a79bbcaf515"
+            },
+            {
+              "url": "",
+              "title": "leggett-and-platt | Violation Tracker - Good Jobs First",
+              "snippet": "LEGGETT & PLATT INC. workplace safety or health violation: 2020: OSHA $7,421: LEGGETT & PLATT INC DBA NAGLE INDUSTRIES INC: workplace safety or health violation: 2008: OSHA $6,900: LEGGETT AND PLATT: workplace safety or health violation: 2019: OSHA $6,630: LEGGETT & PLATT, INCORPORATED: workplace safety or health violation: 2008: OSHA $6,500 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168912+00:00",
+              "published_date": null,
+              "source_hash": "44fe783558a4c58e6de0343218a8a4f3"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt Layoffs - WARN Database",
+              "snippet": "WARN layoff notices nationwide at Leggett & Platt, Inc. (NYSE: LEG) and its subsidiaries available here. Dataset includes layoffs at Leggett & Platt, Elite Comfort Solutions, Masterack, Matrex, Nestaway, Pace Industries, and Talbot Industries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168920+00:00",
+              "published_date": null,
+              "source_hash": "d9fc25051b6264915d3daebc68a75981"
+            },
+            {
+              "url": "",
+              "title": "LEGGETT & PLATT, INC. - National Labor Relations Board",
+              "snippet": "Unfair Labor Practice and Representation Cases Filed per Fiscal Year; ... Charged Party / Respondent Employer LEGGETT & PLATT, INC. 101 New St Winchester, KY 40391-2102 (859)744-4626 : Intervenor Employer NATIONAL RIGHT TO WORK LEGAL DEF FDTN : Related Cases. Case Number Case Name Status; 09-CA-196426:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168928+00:00",
+              "published_date": null,
+              "source_hash": "e5fa5cab9a3e40a9d6650bfe21c756b6"
+            },
+            {
+              "url": "",
+              "title": "US Dept. of Labor and Leggett & Platt reach settlement on alleged ...",
+              "snippet": "The U.S. Department of Labor reached an agreement with Leggett & Platt, a top U.S. bedding and furniture producer, in an alleged hiring discrimination issue, Woodworking Network reported. The company is to pay $407,402 in back wages and interest for alleged discriminatory practices at a North Carolina facility between 2018 and 2020, affecting ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:49.168936+00:00",
+              "published_date": null,
+              "source_hash": "732fffd96efe11462cba32bcfa063698"
+            },
+            {
+              "url": "",
+              "title": "Leggett & Platt Inc. stock underperforms Friday when compared to competitors",
+              "snippet": "Shares of Leggett & Platt Inc. LEG slipped 2.19% to $9.36 Friday, on what proved to be an all-around great trading session for the stock market, with the S&P 500 Index SPX rising 1.26% to 5,942.47 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Leggett & Platt Inc Leggett & Platt Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:51.560671+00:00",
+              "published_date": "2025-01-03T22:34:00+00:00",
+              "source_hash": "e23c1bbf84eda1fb279f0834a16ba0cc"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Leggett & Platt Inc environmental impact controversies",
+              "rationale": "Investigate potential environmental concerns related to energy-intensive manufacturing processes",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Leggett & Platt Inc supply chain lawsuits",
+              "rationale": "Explore legal challenges or disputes arising from supply chain disruptions or dependencies",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Leggett & Platt Inc labor practices controversies",
+              "rationale": "Examine potential ethical concerns related to labor practices or employee treatment in global operations",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:35:07.168731",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

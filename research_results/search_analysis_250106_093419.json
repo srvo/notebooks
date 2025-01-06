@@ -1,0 +1,519 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:34:19.575572",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "CD Projekt ADR",
+      "symbol": "OTGLY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Dependence on key franchises (*The Witcher* and *Cyberpunk*)",
+            "Intense competition in digital distribution (GOG.com vs. Steam, Epic Games Store)",
+            "Potential delays or underperformance in upcoming projects (*Witcher 4*, *Cyberpunk 2077* sequel, new IP 'Hadar')",
+            "Cybersecurity vulnerabilities highlighted by the 2021 ransomware attack"
+          ],
+          "controversies": [
+            "Botched launch of *Cyberpunk 2077* leading to refunds, lawsuits, and regulatory scrutiny",
+            "Allegations of toxic workplace culture, including crunch practices and bullying",
+            "High-profile departures due to workplace culture issues"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Workplace culture concerns, including crunch and diversity-related controversies",
+            "Employee morale and retention risks due to workplace culture issues"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and lawsuits related to *Cyberpunk 2077* marketing practices",
+            "Leadership's handling of workplace culture and diversity-related controversies"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Investors settle Cyberpunk 2077 lawsuit with developer for $1.85 ...",
+              "snippet": "Cyberpunk 2077 developer CD Projekt Red has put a lot of effort into making things right with fans while trying to move past the game's disastrous launch. Now it can likely wipe away another ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.295958+00:00",
+              "published_date": null,
+              "source_hash": "3bf7bac91d6dea6e89203d90c04620d8"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Settles Lawsuit That Alleged It Misled Investors Over ... - IGN",
+              "snippet": "Developer CD Projekt Red has spent close-to-three years turning Cyberpunk 2077 around, with the release of the Phantom Liberty expansion and game-changing Update 2.0 the exclamation point at the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229347+00:00",
+              "published_date": null,
+              "source_hash": "3776b8546e497d7a12a886f444600399"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077 Lawsuit Settled: 1.85m Payout, 13.7m Copies Sold Anyway",
+              "snippet": "CD Projekt Red will pay out $1.85 million to investors who were suing the company over the launch of Cyberpunk 2077.The developer and publisher has been dealing with the fallout of Cyberpunk 2077's release for over a year now.The game launched in an infamously buggy state with missing features and ultimately felt like a shell of the product that the developer was promising for several years.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296123+00:00",
+              "published_date": null,
+              "source_hash": "af24f43ee2bd83e02350c4f297b15391"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Red concludes investor lawsuit with $1.85M settlement",
+              "snippet": "The investor lawsuit over Cyberpunk 2077's release against CD Projekt Red has finally been settled. The settlement amounts to $1.85 million. The settlement amounts to $1.85 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296136+00:00",
+              "published_date": null,
+              "source_hash": "9a8a54a58b2084fcd2b507c7533f52d8"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt ties up one last loose end from Cyberpunk 2077's ... - PC Gamer",
+              "snippet": "CD Projekt reported net profits of z\u0142203 million ($51 million) in its most recent financial quarter alone, and said Cyberpunk 2077 sales have now surpassed 25 million units; the value of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296147+00:00",
+              "published_date": null,
+              "source_hash": "564cbcd89fa693ac88b5eed928526b33"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Settles Cyberpunk 2077 Lawsuit, Will Pay $1.85 Million - Kotaku",
+              "snippet": "This time last year, a group of investors filed a class-action lawsuit against CD Projekt Red over Cyberpunk 2077's disastrous launch, saying the game was \"virtually unplayable on the current ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296159+00:00",
+              "published_date": null,
+              "source_hash": "2f716d48f7d44c2bb7a9810491efe0b7"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077's class action lawsuit settlement has been approved",
+              "snippet": "Cyberpunk 2077 launched in a sorry state, prompting rending of garments by gamers and a class action lawsuit from CD Projekt Red investors. That suit alleged that CDPR had \"made materially false or misleading statements\" regarding the game, particularly as related to the condition of its console release, and sought damages.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296169+00:00",
+              "published_date": null,
+              "source_hash": "bc1bd586a6be3ae7fac55791aa7d6ac8"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt resolves dispute with investors over Cyberpunk 2077 launch ...",
+              "snippet": "CD Projekt has settled a class action lawsuit filed by its own investors, who claim they were misled over Cyberpunk 2077's quality at launch. The US District Court for the Central District of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229371+00:00",
+              "published_date": null,
+              "source_hash": "46866e930baaaa0842bc37232ded267b"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt settles Cyberpunk 2077 lawsuit for just $1.85 million",
+              "snippet": "lawsuit; cyberpunk 2077; CD Projekt settles Cyberpunk 2077 lawsuit for just $1.85 million The game had a development budget of over $316 million By Rob Thubron December 16, 2021, 7:47 7 comments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296220+00:00",
+              "published_date": null,
+              "source_hash": "c15d1565b98aeb71917c6d9410e82323"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077 developer CD Projekt will pay just $1.85 million in ...",
+              "snippet": "Last week, we reported that game developer CD Projekt was negotiating to settle a class-action lawsuit over the infamously botched launch of Cyberpunk 2077, a game that came riddled with bugs and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:44.296229+00:00",
+              "published_date": null,
+              "source_hash": "1b601e1abfbfb7ee4c0c79317707b7be"
+            },
+            {
+              "url": "",
+              "title": "Fortnite's Cyberpunk 2077 Crossover Controversy Explained",
+              "snippet": "Fortnite's latest crossover brings Cyberpunk 2077 front and center, but there is also controversy surrounding the game's V skin.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:46.819900+00:00",
+              "published_date": "2024-12-24T17:30:00+00:00",
+              "source_hash": "7126af64377a50c83754fa41a9d0b124"
+            },
+            {
+              "url": "",
+              "title": "How CD Projekt Plans to Avoid a Cyberpunk 2077 Launch Disaster With The Witcher 4",
+              "snippet": "CD Projekt has outlined how it aims to avoid repeating the mistakes it made with Cyberpunk 2077 for the launch of The Witcher 4. While Cyberpunk 2077 has sold an incredible 30 million copies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:58.888673+00:00",
+              "published_date": "2024-12-13T01:47:00+00:00",
+              "source_hash": "7be0369678dd6d24edcf7dcf45a03035"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077 dev responds to Fortnite female V backlash",
+              "snippet": "In response to backlash about the Fortnite collab, a Cyberpunk 2077 dev has explained why female V was chosen over her male counterpart.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:46.819946+00:00",
+              "published_date": "2024-12-24T20:29:00+00:00",
+              "source_hash": "bb6dd9330244637914d7765952537a02"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt constantly playtesting Witcher 4 on consoles to avoid another Cyberpunk 2077 fiasco",
+              "snippet": "TL;DR: CD Projekt is prioritizing quality assurance for The Witcher 4 to avoid past issues like those with Cyberpunk 2077. The game, starring Ciri, is in development with over 400 developers involved.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:58.888699+00:00",
+              "published_date": "2024-12-16T08:05:00+00:00",
+              "source_hash": "51a264f85e743246386410982aa90b5e"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077 Has Yet Another Update Coming Our Way",
+              "snippet": "Don't count Cyberpunk 2077 out. Apparently, after what we thought was the end of the road for the game development, CD Projekt Red had been secretly working on some more content. A new update is ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR lawsuits Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:46.819961+00:00",
+              "published_date": "2024-12-08T23:59:00+00:00",
+              "source_hash": "d346f1f3ab85e88c7a67c97ebe52049f"
+            },
+            {
+              "url": "",
+              "title": "Diversity must not lead to conflict, according to CD Projekt ... - PC Gamer",
+              "snippet": "It's worth mentioning that, over the years, CD Projekt has had numerous allegations a toxic workplace culture full of crunch and bullying. In that context, a studio heard saying his workers don't ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282501+00:00",
+              "published_date": null,
+              "source_hash": "499f95c0c3660f392146706c8d45cd2d"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Red CEO Defends Studio From DEI \"Conspiracy Theories\" - TheGamer",
+              "snippet": "CD Projekt Red CEO Michal Nowakowski has rubbished various baseless claims made on Twitter about the studio supposedly being in \"dire trouble\" due to \"diversity hires\". It was claimed that CD Projekt Red has been bleeding staff for a while, and that the recent switch to Unreal Engine 5 is a result of this.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282633+00:00",
+              "published_date": null,
+              "source_hash": "d408c31bed4538b434a1ab9779ff5d26"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt boss pushes back on 'conspiracy theories' against ... - MSN",
+              "snippet": "CD Projekt joint CEO Micha\u0142 Nowakowski has issued a strongly worded response to accusations that the studio \"is in a lot of trouble right now\" because of \"diversity hires,\" saying the people ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282665+00:00",
+              "published_date": null,
+              "source_hash": "94bae229f8062ff6d48bf9321c986e41"
+            },
+            {
+              "url": "",
+              "title": "Gaming News: CD Projekt CEO Addresses Controversial DEI Claims in ...",
+              "snippet": "Gaming News has recently taken an interesting turn, revolving around CD Projekt, the company behind blockbuster titles like Cyberpunk 2077 and The Witcher series. Their co-CEO, Michal Nowakowski, quickly dismissed claims regarding the company's diversity, equity, and inclusion (DEI) practices, labeling them as 'outlandish'.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282699+00:00",
+              "published_date": null,
+              "source_hash": "36a50ffb02cdb45ab418d857ff779651"
+            },
+            {
+              "url": "",
+              "title": "Witcher 3 Director Leaves CD Projekt Following Workplace Bullying ... - IGN",
+              "snippet": "Konrad Tomaszkiewicz, the director of The Witcher 3, has resigned from CD Projekt following workplace bullying allegations, which he denies. As reported by Bloomberg, CD Projekt had been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282725+00:00",
+              "published_date": null,
+              "source_hash": "4daf4022155536ddde2de5593812ec27"
+            },
+            {
+              "url": "",
+              "title": "The Witcher 3 director has left CD Projekt Red amid workplace bullying ...",
+              "snippet": "The Witcher 3 director Konrad Tomaszkiewicz has resigned from CD Projekt Red after an internal investigation into alleged workplace bullying, Bloomberg reports.Tomaszkiewicz, who was secondary game director and head of production on Cyberpunk 2077, denies the allegations, but apologised \"for all the bad blood I have caused\" in an email to CD Projekt staff.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282749+00:00",
+              "published_date": null,
+              "source_hash": "68742d62c68d0418df8e4e737b17b81f"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Red responds to employee complaints, says its ... - PC Gamer",
+              "snippet": "In many ways, CD Projekt Red, the development branch of Polish game company CD Projekt, sounds like a fantastic place to work: Successful and financially stable, but still very \"indie\" and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282781+00:00",
+              "published_date": null,
+              "source_hash": "14a6bedb026de74fc9641aaa3a2a1507"
+            },
+            {
+              "url": "",
+              "title": "Top Director Leaves CD Projekt Red - Cultured Vultures",
+              "snippet": "Konrad Tomaszkiewicz, the director behind CD Projekt Red's massively popular The Witcher 3, has left the Polish games company amidst allegations of workplace bullying, allegations which ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282802+00:00",
+              "published_date": null,
+              "source_hash": "3ca2ca407e062183cfb227b5edd87636"
+            },
+            {
+              "url": "",
+              "title": "'The Witcher 3' director exits CD Projekt RED following workplace ...",
+              "snippet": "Konrad Tomaszkiewicz, who is best known as the game director for CD Projekt RED's The Witcher 3: Wild Hunt, has reportedly resigned from the company due to workplace bullying allegations.. READ ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282824+00:00",
+              "published_date": null,
+              "source_hash": "00c50b89594d8dce87dce8ab3ba29d08"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Red talks company values in wake of employee complaints",
+              "snippet": "The Witcher developer CD Projekt Red has released an open letter on the state of its company and its on-going work on Cyberpunk 2077 in response to a number of negative workplace reviews on the site Glassdoor.. The past few months of anonymous reviews on Glassdoor fall on both ends of the website's five-star review scale, with many criticisms bringing up the topics of low pay, poor ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:50.282845+00:00",
+              "published_date": null,
+              "source_hash": "b4cdb7f70957e8bc5b02e447929e3e32"
+            },
+            {
+              "url": "",
+              "title": "The Witcher 3 Director Leaves CD Projekt Red Following Bullying Allegations",
+              "snippet": "Director Konrad Tomaszkiewicz, who served as director of CD Projekt Red's classic The Witcher 3: Wild Hunt, has resigned from the Polish publisher because of workplace bullying allegations ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CD Projekt ADR CD Projekt ADR workplace culture allegations",
+              "retrieved_at": "2025-01-06T16:33:53.608944+00:00",
+              "published_date": "2021-05-04T14:17:00+00:00",
+              "source_hash": "1cef9ca995eced1a51561880a2116fe6"
+            },
+            {
+              "url": "",
+              "title": "Current report no. 34/2021 - CD PROJEKT",
+              "snippet": "Current report no. 34/2021. June 15, 2021 6:31 pm . Subject: Reinstatement of availability of Cyberpunk 2077 on PlayStation Store Legal Basis: Art. 17 section 1 of MAR - inside information In relation to Current Report no. 66/2020 of 18 December 2020, the Management Board of CD PROJEKT S.A. with a registered office in Warsaw hereby publicly discloses the decision by Sony Interactive ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229170+00:00",
+              "published_date": null,
+              "source_hash": "b7f65a6c4304d832a083b67c70bdfb66"
+            },
+            {
+              "url": "",
+              "title": "Current report no. 67/2020 - CD PROJEKT",
+              "snippet": "Current report no. 67/2020. December 22, 2020 7:03 pm . Subject: Disclosure of estimated sales of Cyberpunk 2077 Legal basis: Art. 17 item 1 of the Market Abuse Regulation - inside information The Management Board of CD PROJEKT S.A. with a registered office in Warsaw (hereinafter referred to as \"the Company\") hereby announces that, based on reports obtained from digital distribution ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229332+00:00",
+              "published_date": null,
+              "source_hash": "a0252bd762dd3dbc6e1b46aa3196f87e"
+            },
+            {
+              "url": "",
+              "title": "Polish regulator investigates CD Projekt over Cyberpunk 2077's troubled ...",
+              "snippet": "Polish regulator investigates CD Projekt over Cyberpunk 2077's troubled launch. News. By Natalie Clayton. published 11 January 2021. CD Projekt could be fined if it can't bring the game up to snuff.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229359+00:00",
+              "published_date": null,
+              "source_hash": "bf50a29b32d5eb1f2b7379bdd127722d"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt Red investors sue company over Cyberpunk 2077 debacle",
+              "snippet": "Statements CD Projekt Red made about Cyberpunk throughout 2020 were \"materially false and misleading,\" the complaint alleges, because the company failed to mention that the game \"was virtually ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229380+00:00",
+              "published_date": null,
+              "source_hash": "9c654fc539c0bd8439615f457ba96716"
+            },
+            {
+              "url": "",
+              "title": "Current report no. 53/2020 - CD PROJEKT",
+              "snippet": "Current report no. 53/2020. October 27, 2020 5:39 pm . Subject: Postponement of Cyberpunk 2077 release Legal basis: Art. 17 of the Market Abuse Regulation (MAR) In relation to information disclosed in Current Report no. 5/2020 of 18 June 2020, the Management Board of CD PROJEKT S.A. with a registered office in Warsaw, Jagiello\u0144ska 74 (hereinafter referred to as \"the Company\") hereby ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229389+00:00",
+              "published_date": null,
+              "source_hash": "a6a4fa04f9a145467285bb65a8250a90"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077: Second Lawsuit Filed Against CD Projekt",
+              "snippet": "A second class-action lawsuit has been filed against Cyberpunk 2077 developer and publisher, CD Projekt, submitted by a law firm representing the studio's investors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229406+00:00",
+              "published_date": null,
+              "source_hash": "b37cf93f9c0135442ade0992ee6447bb"
+            },
+            {
+              "url": "",
+              "title": "Current report no. 65/2020 - CD PROJEKT",
+              "snippet": "Current report no. 65/2020. December 11, 2020 7:47 am . Subject: Information regarding the estimated return on the Company's investments related to development and promotion of Cyberpunk 2077 Legal basis: Art. 17 section 1 of the Market Abuse Regulation - inside information The Management Board of CD PROJEKT S.A. with a registered office in Warsaw (hereinafter referred to as \"the Company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229417+00:00",
+              "published_date": null,
+              "source_hash": "71bc4166abdaf7a12c59c47664eb4b6f"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt committed to fixing Cyberpunk 2077 so it can sell ... - Nasdaq",
+              "snippet": "CD Projekt released a patch for Cyberpunk 2077 last month, and Kicinski said the new 1.2 patch was a step towards the game's return to the PlayStation store and that the Polish games maker had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:56.229427+00:00",
+              "published_date": null,
+              "source_hash": "89f459c706392354ef01d6b1ec42ceab"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt promises that, compared to The Witcher 3 and Cyberpunk 2077, The Witcher 4 'will not be smaller, and it will not be worse'",
+              "snippet": "Speaking to Eurogamer, CD Projekt Red's vice president of technology, Charles Tremblay, discussed the switch from the internally developed REDengine, last used on Cyberpunk 2077, to Unreal Engine 5.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:58.888540+00:00",
+              "published_date": "2024-12-01T01:13:00+00:00",
+              "source_hash": "492053f5198e909ee72daec5c56ce74a"
+            },
+            {
+              "url": "",
+              "title": "Cyberpunk 2077 makers CD Projekt hit by ransomware hack",
+              "snippet": "The maker of popular video game Cyberpunk 2077 has been hacked in a ransomware attack. CD Projekt Red said hackers had accessed its internal network, digitally scrambled some of its data servers ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:58.888644+00:00",
+              "published_date": "2021-02-09T00:00:00+00:00",
+              "source_hash": "14c25f7701ba50ace437a2fa12c6f5d7"
+            },
+            {
+              "url": "",
+              "title": "CD Projekt RED has time for even more Cyberpunk 2077 features, new reveal soon0 0",
+              "snippet": "All of CD Projekt RED and supporting studios are ... where we'll dive deep into the new features Coming Soon for Cyberpunk 2077 in Update 2.2,\" says the surprise post. \"See you tomorrow at 5 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CD Projekt ADR CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "retrieved_at": "2025-01-06T16:33:58.888722+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "6c9a8b825ad276e77f30fc01a4235581"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "CD Projekt ADR lawsuits Cyberpunk 2077",
+              "rationale": "Investigate legal challenges and financial impacts from the Cyberpunk 2077 launch issues",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "CD Projekt ADR workplace culture allegations",
+              "rationale": "Examine reports and impacts of crunch culture and employee treatment during game development",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "CD Projekt ADR regulatory scrutiny Cyberpunk 2077",
+              "rationale": "Assess any ongoing or past regulatory scrutiny related to the Cyberpunk 2077 launch and its financial implications",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:34:19.575581",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

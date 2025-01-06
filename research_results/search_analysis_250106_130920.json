@@ -1,0 +1,505 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:09:20.257082",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "S&P Global Inc",
+      "symbol": "SPGI",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Regulatory scrutiny and legal settlements, including a $20 million SEC fine",
+            "Data privacy and cybersecurity vulnerabilities",
+            "Integration risks from the merger with IHS Markit",
+            "Adverse regulatory climate for utilities affecting credit ratings"
+          ],
+          "controversies": [
+            "SEC settlement over recordkeeping violations",
+            "Concerns over conflicts of interest in credit ratings"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Handling of sensitive financial data and potential data breaches"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and legal settlements",
+            "Challenges in integrating operations post-merger"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "S&P Global Ratings Reaches Settlement With SEC",
+              "snippet": "NEW YORK, Sept. 3, 2024 /PRNewswire/ -- As part of an industry-wide investigation into off-channel communications by the U.S Securities and Exchange Commission (\"SEC\"), S&P Global Ratings (\"SPGR\"), a division of S&P Global (NYSE: SPGI), and certain other nationally recognized statistical rating organizations (\"NRSROs\"), today reached a settlement to resolve violations of recordkeeping rules.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694080+00:00",
+              "published_date": null,
+              "source_hash": "37a7ef31d2f0eb586268a4de52f45611"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Ratings Reaches Settlement With SEC - Sep 3, 2024",
+              "snippet": "NEW YORK, Sept. 3, 2024 /PRNewswire/ -- As part of an industry-wide investigation into off-channel communications by the U.S Securities and Exchange Commission (\"SEC\"), S&P Global Ratings (\"SPGR\"), a division of S&P Global (NYSE: SPGI), and certain other nationally recognized statistical rating organizations (\"NRSROs\"), today reached a settlement to resolve violations of recordkeeping rules.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517845+00:00",
+              "published_date": null,
+              "source_hash": "2c150760686cfb4993e90664803e9065"
+            },
+            {
+              "url": "",
+              "title": "Moody's, S&P Global & 4 Others Fined by SEC for Record-Keeping Failure",
+              "snippet": "The maximum fine of $20 million will be paid each by Moody's and S&P Global. Fitch Ratings will pay $8 million, whereas A.M. Best agreed to pay $1 million. HR Ratings de Mexico agreed to pay ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517808+00:00",
+              "published_date": null,
+              "source_hash": "0cb2f7d846f5fcf9e6edd83801273dc3"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Ratings",
+              "snippet": "We may incorporate ratings issued by CRAs that are 1) registered or certified in accordance with relevant CRA regulations, and 2) included in a publicly available mapping table that one or more regulators use in establishing capital requirements for credit assets and that relates the CRA's rating scale to S&P Global Ratings' global rating scale ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694222+00:00",
+              "published_date": null,
+              "source_hash": "0516ee96e02065c9752a0aef63afdf68"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Ratings",
+              "snippet": "Global-scale credit rating(s) issued by S&P Global Ratings' affiliates based in the following jurisdictions [To read more, visit Endorsement of Credit Ratings] have been endorsed into the EU and/or the UK in accordance with the relevant CRA regulations. Note: Endorsements for U.S. Public Finance global-scale credit ratings are done per request.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694237+00:00",
+              "published_date": null,
+              "source_hash": "998e28357c9153a99d4f4f245839a759"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Ratings",
+              "snippet": "The following premium research is available from RatingsDirect - S&P Global Ratings' real-time, Web-based source for credit ratings, research, and risk analysis. 06-Nov-2024 01:33 HKT U.S. Tech Earnings: AI In The Driver's Seat--All Gas, No Brakes",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694251+00:00",
+              "published_date": null,
+              "source_hash": "1b18fca4664516e05a77f5e04609a890"
+            },
+            {
+              "url": "",
+              "title": "Transparency Statement | S&P Global Ratings",
+              "snippet": "S&P Global Ratings is committed to providing transparency to the market through high-quality independent opinions on creditworthiness. Safeguarding the quality, independence and integrity of our ratings, including by identifying and managing potential conflicts of interests, is embedded in our culture and at the core of everything we do.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694263+00:00",
+              "published_date": null,
+              "source_hash": "be33aa4dc247cfe5ec563a425cb00622"
+            },
+            {
+              "url": "",
+              "title": "Ratings Policies & Code of Conduct - S&P Global",
+              "snippet": "Exhibit 1: Credit rating performance measurement statistics Exhibit 2: Procedures and methodologies used in determining credit ratings Exhibit 3: Policies or procedures to prevent the misuse of material, non-public information Exhibit 4: Organizational structure Exhibit 5: Code of ethics Exhibit 6: Identification of conflicts of interest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694276+00:00",
+              "published_date": null,
+              "source_hash": "13396eb041798401b9bba46a70677584"
+            },
+            {
+              "url": "",
+              "title": "Moody's: Explaining The Valuation Gap From S&P Global (NYSE:MCO)",
+              "snippet": "Moody's and S&P Global dominate the credit rating market, each with a 40% share, playing a key role in the world's economy. Moody's higher exposure to the high-quality credit ratings business ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694288+00:00",
+              "published_date": null,
+              "source_hash": "55edbbbe6de131bda13cc9786645c65b"
+            },
+            {
+              "url": "",
+              "title": "Key Takeaways - S&P Global",
+              "snippet": "After the failure of Silicon Valley Bank, the Federal Reserve conducted an internal investigation, led by Vice Chair for Supervision Michael Barr, into the bank's supervision and the impact regulation might have played in its failure. The report was released on April 28 and contained explicit criticism of deficiencies in the management of Silicon Valley and the regulatory oversight of the bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:51.694300+00:00",
+              "published_date": null,
+              "source_hash": "8fda126e4c7d4c251438f94dee301a9e"
+            },
+            {
+              "url": "",
+              "title": "S&P lowers Eversource credit rating, utility blasts CT regulators, claims customers to pay price",
+              "snippet": "For the second time in less than a week, a credit agency has lowered its rating ... Utility Regulatory Authority has undermined Eversource's financial position. The reduction by S&P Global ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:55.048388+00:00",
+              "published_date": "2024-12-10T20:01:00+00:00",
+              "source_hash": "430a7cb0495fc184db110d32cfdce3dd"
+            },
+            {
+              "url": "",
+              "title": "S&P Global's SWOT analysis: stock outlook amid market shifts",
+              "snippet": "S&P Global Inc. (NYSE ... in data and analytics services. Regulatory changes present another significant risk. The ratings industry has faced increased scrutiny since the 2008 financial crisis ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:55.048520+00:00",
+              "published_date": "2025-01-03T16:30:00+00:00",
+              "source_hash": "a566a19324e925cd679a57726a6b3969"
+            },
+            {
+              "url": "",
+              "title": "S&P cuts credit ratings of CT gas companies CNG and SCG, citing adverse regulatory climate",
+              "snippet": "S&P Global on Friday again lowered its credit rating on two Connecticut utilities, saying the most recent in a series of adverse rate decisions by the state Public Utility Regulatory Authority has ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:55.048551+00:00",
+              "published_date": "2024-12-06T22:49:00+00:00",
+              "source_hash": "866102019c7ae72c5a3c523e243ca62a"
+            },
+            {
+              "url": "",
+              "title": "JPM Ratings Upgraded by S&P Global: A Proof of Strength and Resilience",
+              "snippet": "In a significant endorsement of its operational prowess and market leadership, JPMorgan JPM has received an issuer credit ... regulatory developments. JPMorgan's ratings upgrade by S&P Global ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc regulatory scrutiny credit ratings",
+              "retrieved_at": "2025-01-06T20:08:55.048576+00:00",
+              "published_date": "2024-11-18T13:09:00+00:00",
+              "source_hash": "a3021d30d22c50dd811320b5fe75af29"
+            },
+            {
+              "url": "",
+              "title": "Incomplete data breach records up as US debates ... - S&P Global",
+              "snippet": "Heightened cybercrime and incomplete reporting records are concerning cybersecurity researchers at a time when it remains unclear which U.S. federal agency should take the lead on crafting comprehensive cyber breach and incident disclosure rules. There were 1,291 publicly-reported U.S. data compromises in the first nine months of this year, according to the Identity Theft Resource Center, a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517641+00:00",
+              "published_date": null,
+              "source_hash": "35a9a9357f642eba40b834e383823abe"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "S&P Global Inc. is an American publicly traded corporation headquartered in Manhattan, New York City. Its primary areas of business are financial information and analytics. UpGuard continuously monitors the security posture of S&P Global using open-source, commercial, and proprietary threat intelligence feeds.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517751+00:00",
+              "published_date": null,
+              "source_hash": "a09f54e95a51de8d346eec19c3da46b8"
+            },
+            {
+              "url": "",
+              "title": "S&P Global | Incomplete Data Breach Records Up as US Debates ...",
+              "snippet": "A leading international law firm experienced in IP, complex litigation, corporate and tax, focusing on healthcare, financial services and public policy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517769+00:00",
+              "published_date": null,
+              "source_hash": "f503c77c5fd6b94368f00ffc43a8c451"
+            },
+            {
+              "url": "",
+              "title": "Antitrust Division | U.S. v. S&P Global Inc., et al. | United States ...",
+              "snippet": "A locked padlock) or https:// means you've safely connected to the .gov website. Share sensitive information only on official, secure websites.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517783+00:00",
+              "published_date": null,
+              "source_hash": "9523cc92d14c3da99ce7c246e07967f5"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Ratings",
+              "snippet": "To reprint, translate, or use the data or information other than as provided herein, contact S&P Global Ratings, Client Services, 55 Water Street, New York, NY 10041; (1) 212-438-7280 or by e-mail to: research_request@spglobal.com.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517795+00:00",
+              "published_date": null,
+              "source_hash": "fd40ccf5dd2bb74dd756976d20837045"
+            },
+            {
+              "url": "",
+              "title": " S&P Global Policy for the Processing of Data Governed by US Data ...",
+              "snippet": "b. S&P Global shall comply with its obligations under applicable Data Protection Laws, including providing the same level of privacy protection required under applicable Data Protection Laws. S&P Global shall notify Customer if it determines it can no longer meet its obligations under applicable Data Protection Laws. c. S&P Global shall not: i.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517820+00:00",
+              "published_date": null,
+              "source_hash": "b525e0fb5a9ba266e26c5bbad47de30b"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Ratings Reaches Settlement With SEC",
+              "snippet": "As part of an industry-wide investigation into off-channel communications by the U.S Securities and Exchange Commission (\"SEC\"), SP Global Ratings (\"SPGR\"), a division of SP Global (NYSE: SPGI), and certain other nationally recognized statistical rating organizations (\"NRSROs\"), today reached a settlement to resolve violations of recordkeeping rules. The matter was previously disclosed by SP ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517832+00:00",
+              "published_date": null,
+              "source_hash": "75a813646fa3f099aeb7166c0aef9af7"
+            },
+            {
+              "url": "",
+              "title": "Corporate Privacy Policy - S&P Global",
+              "snippet": "S&P Global policies, procedures and standards require that the information in its products is updated for accuracy on a regular basis and removed from its systems when such data becomes obsolete or inaccurate. S&P Global has established information governance standards for collection, use and retention of personal information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "S&P Global Inc S&P Global Inc data privacy breaches",
+              "retrieved_at": "2025-01-06T20:08:57.517858+00:00",
+              "published_date": null,
+              "source_hash": "32f6a23f85c647405da031b4df0d5110"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Completes Merger with IHS Markit, Creating a Global Leader ...",
+              "snippet": "NEW YORK, Feb. 28, 2022 /PRNewswire/ -- S&P Global (NYSE: SPGI) (\"S&P Global\" or the \"Company\") and IHS Markit earlier today announced the completion of their approximately $140 billion 1 merger, creating a leading information services provider with a unique portfolio of highly complementary assets. With the transaction completed, S&P Global will offer an enhanced value proposition for our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717709+00:00",
+              "published_date": null,
+              "source_hash": "311198afe13c184c0297b65d34d44d01"
+            },
+            {
+              "url": "",
+              "title": "S&P Global and IHS Markit Complete Merger",
+              "snippet": "SP Global (NYSE: SPGI) and IHS Markit (NYSE: INFO) today announced the completion of their merger. The Company plans to issue a separate press release and Form 8-K today after the US market close that include additional information, recast pro forma operating results and 2022 financial guidance. The Company will hold a conference call to discuss the merger close with investors on Tuesday ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717847+00:00",
+              "published_date": null,
+              "source_hash": "2e176ce1e714e68c35e6c4ff1e8d87de"
+            },
+            {
+              "url": "",
+              "title": "S&P Global and IHS Markit to Merge in All-Stock Transaction Valuing IHS ...",
+              "snippet": "SP Global (NYSE: SPGI) and IHS Markit (NYSE: INFO) today announced they have entered into a definitive merger agreement to combine in an all-stock transaction which values IHS Markit at an enterprise value of $44 billion, including $4.8 billion of net debt. The transaction brings together two world-class organizations, a unique portfolio of highly complementary assets in attractive markets and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717882+00:00",
+              "published_date": null,
+              "source_hash": "96dc462ff69238778406dab254d0b31a"
+            },
+            {
+              "url": "",
+              "title": "S&P Global & IHS Markit Merger",
+              "snippet": "S&P GLOBAL & IHS MARKIT MERGER. Combining Data, Technology and Expertise To Accelerate Progress. Together, we'll bring unique perspectives and original insights that power the markets of the future. \"Today marks a momentous and exciting occasion. It is a day to celebrate two great companies coming together. And it is a day to look to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717909+00:00",
+              "published_date": null,
+              "source_hash": "f7d104871dab8c9666f1744fc7b6a671"
+            },
+            {
+              "url": "",
+              "title": "UPDATE: S&P Global merging with IHS Markit in all-stock deal",
+              "snippet": "Each IHS Markit common share will be exchanged for a fixed ratio of 0.2838 share of S&P Global common stock. Once the deal is closed, current S&P Global shareholders will own approximately 67.75% of the combined company on a fully diluted basis, while IHS Markit shareholders will own approximately 32.25%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717935+00:00",
+              "published_date": null,
+              "source_hash": "c2572240a7ee6df8ac7404b04cb06f96"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "S&P Global Inc. (\"S&P Global\") completed its merger with IHS Markit Ltd. (\"IHS Markit\") on February 28, 2022. As a result of the merger, IHS Markit has become a wholly owned subsidiary of S&P Global and is no longer a publicly ... S&P Global and IHS Markit - Merger and Tax FAQ - March 2022 Author: S&P Global Inc. Created Date: 3/11/2022 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717959+00:00",
+              "published_date": null,
+              "source_hash": "26ceced1f26b3da9dd4d3917bad4b6dd"
+            },
+            {
+              "url": "",
+              "title": "S&P Global, IHS Markit shareholders approve proposed merger",
+              "snippet": "About 99% of votes cast at a special meeting of S&P Global shareholders were in favor of the transaction. In a separate meeting of IHS Markit shareholders, 98.95% of votes cast approved of the merger, according to news releases from the companies. The two companies expect the transaction to close in the second half of 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.717981+00:00",
+              "published_date": null,
+              "source_hash": "6dc136ba91572a4920894ce8ea7ad81b"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Inc. completed the acquisition of IHS Markit Ltd. from ...",
+              "snippet": "S&P Global Inc. entered into a definitive merger agreement to acquire IHS Markit Ltd. (NYSE:INFO) from BlackRock, Inc. (NYSE:BLK), Canada Pension Plan Investment Board, The Vanguard Group, Inc. and others for $40.1 billion on November 29, 2020.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.718004+00:00",
+              "published_date": null,
+              "source_hash": "5ea100f8cdc53dcdb259021e06cd7f6b"
+            },
+            {
+              "url": "",
+              "title": "S&P Global and IHS Markit to Merge in All-Stock Transaction Valuing IHS ...",
+              "snippet": "Documents filed with the SEC by S&P Global will be available free of charge by accessing S&P Global's website at www.spglobal.com under the heading Investor Relations, or, alternatively, by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.718027+00:00",
+              "published_date": null,
+              "source_hash": "029cceadf6d42ce022618fbc1672dd2d"
+            },
+            {
+              "url": "",
+              "title": "S&P Global and IHS Markit Provide Update on their Pending Merger",
+              "snippet": "Documents filed with the SEC by S&P Global will be available free of charge by accessing S&P Global's website at www.spglobal.com under the heading Investor Relations, or, alternatively, by directing a request by telephone to 866-436-8502 (domestic callers) or 212-438-2192 (international callers) or by mail to S&P Global at Investor Relations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:01.718048+00:00",
+              "published_date": null,
+              "source_hash": "ac10828378b8207cda3fd901d1ad5f3d"
+            },
+            {
+              "url": "",
+              "title": "S&P Global Acquires ProntoNLP, Expanding its Generative AI-Powered Product Portfolio",
+              "snippet": "S&P Global (NYSE: SPGI) today announced that it has acquired ProntoNLP, a leading provider of Generative Artificial Intelligence (GenAI) tooling, allowing users to derive differentiated insights from unstructured and structured data.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:04.991186+00:00",
+              "published_date": "2025-01-06T13:01:00+00:00",
+              "source_hash": "60eb0f3eaa9a2d37c814f915af251079"
+            },
+            {
+              "url": "",
+              "title": "S&P Global's SWOT analysis: stock outlook amid market shifts",
+              "snippet": "S&P Global Inc. (NYSE:SPGI), a leading provider ... on the opportunities presented by its merger with IHS Markit while managing the risks inherent in the global financial markets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:04.991326+00:00",
+              "published_date": "2025-01-03T16:30:00+00:00",
+              "source_hash": "049bc584f77a4f9074ce3506c05702a8"
+            },
+            {
+              "url": "",
+              "title": "S&P Global and IHS Markit Provide Update on their Pending Merger",
+              "snippet": "This decision was taken to ensure the pending merger of both companies ... the industry and markets in which S&P Global Inc. (\"S&P Global\") and IHS Markit Ltd. (\"IHS Markit\") operate ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:04.991358+00:00",
+              "published_date": "2023-09-23T23:26:00+00:00",
+              "source_hash": "76d9ab130ce7f867f0b0c047aab4c7b7"
+            },
+            {
+              "url": "",
+              "title": "Positive Outlook on S&P Global: Resilient Performance and Growth Potential Amid Market Changes",
+              "snippet": "In a report released yesterday, Jeffrey Silber from BMO Capital maintained a Buy rating on S&P Global (SPGI - Research Report), with a",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "S&P Global Inc S&P Global Inc merger with IHS Markit integration risks",
+              "retrieved_at": "2025-01-06T20:09:04.991383+00:00",
+              "published_date": "2025-01-03T12:25:00+00:00",
+              "source_hash": "015b677215abe168dd5e66edd2431450"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "S&P Global Inc regulatory scrutiny credit ratings",
+              "rationale": "Investigate potential legal and regulatory issues related to credit ratings and conflicts of interest",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "S&P Global Inc data privacy breaches",
+              "rationale": "Examine incidents of data breaches or privacy violations given the sensitive nature of financial data handled",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "S&P Global Inc merger with IHS Markit integration risks",
+              "rationale": "Assess risks and challenges associated with the integration of IHS Markit, including operational and cultural issues",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:09:20.257089",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

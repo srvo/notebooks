@@ -1,0 +1,449 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:45:47.485530",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "SMA Solar",
+      "symbol": "SMGTY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Supply chain vulnerabilities due to semiconductor shortages",
+            "Intense market competition and price pressures",
+            "Regulatory risks from changes in government policies and subsidies",
+            "Technological disruption from rapid advancements in solar and energy storage",
+            "Operational challenges from job cuts and restructuring"
+          ],
+          "controversies": [
+            "Significant job cuts (up to 1,100 jobs) as part of restructuring efforts",
+            "Downward revision of sales guidance due to supply chain disruptions"
+          ],
+          "environmental_issues": [
+            "Commitment to sustainability and carbon neutrality goals"
+          ],
+          "social_issues": [
+            "Job cuts impacting workforce stability and morale",
+            "Adherence to fair labor practices and human rights standards"
+          ],
+          "governance_issues": [
+            "Need for operational efficiency and cost reduction strategies",
+            "Focus on ethical business practices and compliance with international standards"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SMA Solar swings to loss in H1 on supply chain woes",
+              "snippet": "The drop was attributable to the Home Solutions segment where SMA Solar was unable to meet the demand due to the shortage of materials caused by supply chain disruptions. Meanwhile, sales in the Commercial & Industrial Solutions and Large-Scale Project Solutions segments stagnated as supply woes and higher prices led to project delays.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596600+00:00",
+              "published_date": null,
+              "source_hash": "b5dcc2559e94ff2ba93c0e842d63c6fd"
+            },
+            {
+              "url": "",
+              "title": "SMA cuts sales guidance due to supply chain challenges, project ...",
+              "snippet": "SMA's board now expects 2021 sales to be \u20ac980 million - \u20ac1,030 million (US$1,158 million - US$1,217 million), down on the firm's previous guidance of \u20ac1,075 million - \u20ac1,175 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596662+00:00",
+              "published_date": null,
+              "source_hash": "155f392e62e955065777efa5e3da14bd"
+            },
+            {
+              "url": "",
+              "title": "Supply chain difficulties translate into losses for SMA",
+              "snippet": "In the first half of the year, SMA sold PV inverters with a total power of around 5.8 GW - about one gigawatt less than in the first half of 2021. Sales fell from \u20ac488.3 million to \u20ac471.9 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596685+00:00",
+              "published_date": null,
+              "source_hash": "4ae4a806b21a2f74f52f315138a8b45c"
+            },
+            {
+              "url": "",
+              "title": "Supply chain difficulties translate into losses for SMA",
+              "snippet": "The persistent supply difficulties with electronic components have affected the development of the company's sales and earnings, as seen in its latest figures released on Thursday. In the first half of the year, SMA sold PV inverters with a total power of around 5.8 GW - about one gigawatt less than in the first half of 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596705+00:00",
+              "published_date": null,
+              "source_hash": "e5b5a7a7a13cc193ac9fccc4cb876119"
+            },
+            {
+              "url": "",
+              "title": "Addressing solar project supply chain concerns from a legal perspective",
+              "snippet": "Today's unique market conditions are causing unprecedented disruptions in the equipment supply chain for many developers, owners and contractors with solar projects that are under development or construction. Some of these disruptions could have significant and adverse impacts on the successful and timely completion of such projects.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596766+00:00",
+              "published_date": null,
+              "source_hash": "8ef494ec02aa743edafb8f57b44d1200"
+            },
+            {
+              "url": "",
+              "title": "Material Shortages, Supply Disruptions Cause 13% Dip in SMA Solar's Net ...",
+              "snippet": "Material shortages and supply chain disruptions negatively impacted the sales and financials of solar equipment supplier SMA Solar Technology during the first half (1H) of the financial year (FY) 2022.. SMA Solar recorded total sales of \u20ac472 million (~$479.52 million), a year-over-year (YoY) dip of 3.27% from \u20ac488 million (~$495.85 million).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596780+00:00",
+              "published_date": null,
+              "source_hash": "9c9fa9ac630bdf08c411ddad61fbd9df"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar to slash jobs amid \"challenging\" residential PV market",
+              "snippet": "SMA Solar was the largest inverter manufacturer by revenue in 2016, with a 20% leading market share. By August 2023, the company was the sixth-largest firm in the world , according to rankings ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596795+00:00",
+              "published_date": null,
+              "source_hash": "b99cbf8111e2a06c93863f62dd763288"
+            },
+            {
+              "url": "",
+              "title": "SMA - Supply chain problems reduce sales - pv Europe",
+              "snippet": "Demand for solar and energy solutions remained high, says Reinert. The delivery difficulties for electronic components once again reflected the dependencies of global supply chains on Asian markets. \"That is why we have initiated a series of measures to sustainably improve our ability to deliver,\" says the SMA boss.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596807+00:00",
+              "published_date": null,
+              "source_hash": "db0292a707f0937e98544a6c62e7835d"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar to complete 'restructuring', with job cuts 'likely'",
+              "snippet": "SMA Solar reported that its earnings before inflation, taxation, depreciation and amortisation fell from \u20ac125.3 million (US$136.9 million) in the first half of 2023 to \u20ac80.6 million (US$88 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570165+00:00",
+              "published_date": null,
+              "source_hash": "c68c1c98fd0f26ef0c71a872a563e88d"
+            },
+            {
+              "url": "",
+              "title": "Trade and Supply Chain Barriers Delay Impact of Historic Clean ... - SEIA",
+              "snippet": "The residential solar segment is less directly impacted by existing trade issues and saw 1.57 GW of new installations, marking a 43% increase over Q3 2021. \"Installations this year were significantly depressed due to supply chain constraints\" said Michelle Davis, principal analyst and lead author of the report.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "SMA Solar SMA Solar supply chain disruptions legal impact",
+              "retrieved_at": "2025-01-06T15:45:14.596836+00:00",
+              "published_date": null,
+              "source_hash": "407b625d5fb0839359a99d449ab66177"
+            },
+            {
+              "url": "",
+              "title": "Governance & ethical business - Sustainability at SMA | SMA ... - SMA Solar",
+              "snippet": "The SMA Business Partner Code of Conduct sets out our standards and the expectations we have of suppliers and other business partners with respect to the recognition of international standards and principles, health protection, occupational safety and product quality, respect for human rights and fair labor practices, fair competition ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.569988+00:00",
+              "published_date": null,
+              "source_hash": "edbdfb9071ed1a72164664d8c22036c8"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar to slash jobs amid \"challenging\" residential PV market",
+              "snippet": "In its Q1-3 2024 financial results, SMA Solar said it will cut up to 1,100 jobs and reduce costs by between \u20ac150 and \u20ac200 million (US$158 million-210 million) by the end of 2025 through ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570118+00:00",
+              "published_date": null,
+              "source_hash": "7737d0de9d0d41fed68794947bd6c475"
+            },
+            {
+              "url": "",
+              "title": "Inverter manufacturers facing 'growing pains' - PV Tech",
+              "snippet": "Last week, German producer SMA Solar said it would cut 1,100 jobs by the end of 2025 as part of its \"restructuring\" efforts and the week before, US-based Enphase announced 500 job losses and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570148+00:00",
+              "published_date": null,
+              "source_hash": "96136d8e0457639917e97c3adebfd790"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar may cut jobs in EUR-200m cost-cutting move",
+              "snippet": "German photovoltaic (PV) and battery inverters maker SMA Solar Technology AG ( ETR:S92 ) on Wednesday unveiled plans for major restructuring moves across its business and a cost reduction programme that will save it up to EUR 200 million (USD 222.9m). German photovoltaic (PV) and battery inverters maker SMA Solar Technology AG ( ETR:S92 ) on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570181+00:00",
+              "published_date": null,
+              "source_hash": "994576f52a96d505482efe5e0354206e"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar's Struggles Continue - Solar Quotes Blog",
+              "snippet": "SMA's Australian Home Solar Fortunes Fade. SMA was once one of the most popular inverter choices in Australia for home solar installations. As an indicator of how the tide has turned, the company didn't score a spot on the podium in SolarQuotes' Installers Choice Awards for the best solar inverters in 2024 - or in 2023, or in 2022 for that matter.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570195+00:00",
+              "published_date": null,
+              "source_hash": "36d43f6083fb752c3c0e3d239effbde5"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar to cut up to 1,100 jobs as Home, C&I segments struggle",
+              "snippet": "German photovoltaic (PV) and battery inverter maker SMA Solar Technology AG will cut up to 1,100 jobs as it tries to respond to continued challenging market conditions for its Home and Commercial and Industrial (C&I) segments.Reporting results for the first nine months of 2024 on Thursday, the company also lowered its full-year outlook and now expects earnings before interest, tax ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570207+00:00",
+              "published_date": null,
+              "source_hash": "17ba5c906e56e612a49cf0b03ef83b5e"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar Technology - Business & Human Rights Resource Centre",
+              "snippet": "We sought responses from SMA Solar Technology to the allegations raised in these stories. Find out more about our Company Response Mechanism. OPT: Mixed response from multinationals in Israeli solar sector accused of contributing to Palestinian displacement. This story contains 7 items ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570221+00:00",
+              "published_date": null,
+              "source_hash": "1aba8226595a9c02752bd90abd5bc6b5"
+            },
+            {
+              "url": "",
+              "title": "Tigo Energy Inc. v. SMA Solar Technology America LLC, No. 1:2022cv00915 ...",
+              "snippet": "Tigo Energy Inc. v. SMA Solar Technology America LLC, No. 1:2022cv00915 - Document 86 (D. Del. 2023) case opinion from the District of Delaware US Federal District Court ... \"the interstate judicial system's interest in obtaining the most efficient resolution of controversies;\" and (5) the \"shared interest of the several States in furthering ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570234+00:00",
+              "published_date": null,
+              "source_hash": "30eafa58686510c8a0b0c47b51f59235"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar cuts forecast and eliminates one in four jobs",
+              "snippet": "SMA Solar has once again slashed its annual targets and announced mass redundancies under the continuing pressure of cheap Chinese competition. The solar technology company announced on Thursday night that up to 1,100 of a total of over 4,000 jobs would be cut. Two thirds of these are jobs in Germany.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "SMA Solar SMA Solar labor practices controversies",
+              "retrieved_at": "2025-01-06T15:45:18.570247+00:00",
+              "published_date": null,
+              "source_hash": "2a1864ba52a8dbdc36558ca67fcadd4f"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar Technology AG",
+              "snippet": "SMA Solar Technology plans to cut up to 1,100 jobs worldwide and lowered forecasts for the year, the German solar power parts supplier said on Wednesday, nearly two months after it announced a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:28.125152+00:00",
+              "published_date": "2024-12-19T13:25:00+00:00",
+              "source_hash": "fa1caa882653fb66e4c704b92eb3c05a"
+            },
+            {
+              "url": "",
+              "title": "Environment & energy - Sustainability at SMA | SMA Solar",
+              "snippet": "The SMA Managing Board is convinced that the target agreed at the 2016 UN Climate Summit to limit global warming to 1.5\u00b0C must be achieved in order to preserve the planet for future generations. For this reason, the Managing Board has geared the SMA group toward contributing to the achievement of this target both with its systems and solutions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.746869+00:00",
+              "published_date": null,
+              "source_hash": "83ac9a75818648b12ab3ec2dd73bc636"
+            },
+            {
+              "url": "",
+              "title": "Life cycle assessment makes Sunny Highpower PEAK3's ... - SMA Solar",
+              "snippet": "The 16 environmental impact categories examined in the LCA include the carbon footprint of the Sunny Highpower PEAK3 under the \"climate change\" category. This entailed analyzing the greenhouse gas emissions caused by the inverter across its entire product life cycle. ... SMA Solar Technology AG Sonnenallee 1 34266 Niestetal Germany. Head of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.746968+00:00",
+              "published_date": null,
+              "source_hash": "8b6a398c3797d254cd8ad18552d9a311"
+            },
+            {
+              "url": "",
+              "title": " Sustainability at SMA - Shaping a better future",
+              "snippet": "Further information on sustainability at SMA and on our ambitious sustainability goals can be found in the audited non-financial statement in the SMA Annual Report 2022. SUSTAINABILITY AT SMA MSCI: AAA (rating scale: AAA to CCC) ISS ESG: Prime (B-) (rating scale: A+ to D-) Sustainalytics: 20.1 / 38 th of 259 companies",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.746985+00:00",
+              "published_date": null,
+              "source_hash": "0c223a466c0fd81dc8e7564994892590"
+            },
+            {
+              "url": "",
+              "title": "Carbon Footprint Verification for SMA's Solar Werks 1 - Lucideon",
+              "snippet": "The challenge. SMA Solar Technology, manufacturers of photovoltaic (PV) inverters, wanted to prove to stakeholders that Building 60 of its Solar Werks 1 in Germany has reduced its environmental impact through the use of 100% renewable energy to give a zero CO 2 figure for scope 2 emissions. Solar Werks 1 is the largest production facility for PV inverters in the world.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.746998+00:00",
+              "published_date": null,
+              "source_hash": "2c0fd5dc9e5b4873389a7594c9120886"
+            },
+            {
+              "url": "",
+              "title": "CICS Wins Contract to Verify Carbon Footprint of SMA's Solar Factory 1 ...",
+              "snippet": "CICS has recently won the contract to verify the carbon footprint of SMA Solar UK's Solar Factory 1 in Germany. The company, which manufactures photovoltaic (PV) inverters, wants to prove to stakeholders that its Solar Factory 1 is the largest environmentally-friendly (carbon-neutral) production facility for PV inverters in the world.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.747009+00:00",
+              "published_date": null,
+              "source_hash": "47197a625a885b05d5d7477ef9d3b63b"
+            },
+            {
+              "url": "",
+              "title": "Does solar sustainability go far enough? - pv magazine International",
+              "snippet": "For progress to be made, sustainability becomes a crucial issue. ... CEO of SMA Solar Technology, but also with end consumers. Thus, the industries' goal is two-fold: To deploy as much PV capacity ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.747019+00:00",
+              "published_date": null,
+              "source_hash": "1b8ad9636d492ff6cfedce48c38edf52"
+            },
+            {
+              "url": "",
+              "title": "SMA Solar Technology AG ESG Risk Rating - Sustainalytics",
+              "snippet": "SMA Solar Technology AG produces, develops, and sells systems and solutions for the efficient and sustainable generation, storage and use of solar energy. Its products include PV and battery inverters, monitoring systems for PV systems, charging solutions for electric vehicles as well as energy management systems, and digital services for the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.747029+00:00",
+              "published_date": null,
+              "source_hash": "3b77dd5cb9565550af4276de8cb5571d"
+            },
+            {
+              "url": "",
+              "title": "Life cycle assessment makes Sunny Central UP's ... - SMA Solar",
+              "snippet": "The 16 environmental impact categories examined as part of the LCA include the \"climate change\" category and the carbon footprint of the Sunny Central UP. This entailed analyzing the greenhouse gas emissions caused by the inverter across its entire product life cycle. ... SMA Solar Technology AG Sonnenallee 1 34266 Niestetal Germany Press ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.747038+00:00",
+              "published_date": null,
+              "source_hash": "cde794a2bc6e8911dbe748db4b906220"
+            },
+            {
+              "url": "",
+              "title": "Shaping a better future - Sustainability at SMA | SMA Solar",
+              "snippet": "The SMA Business Principles, which have formed the basis for the SMA group's Code of Conduct since 2012, were thoroughly revised in 2022 and were enacted and republished by the Managing Board under the name \"SMA Employee Code of Conduct\". They set out our values and clear standards of conduct for all employees.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.747048+00:00",
+              "published_date": null,
+              "source_hash": "8e1dbe45f678c5e387764008ebb6f921"
+            },
+            {
+              "url": "",
+              "title": "ESG ratings information for SMA Solar Technology",
+              "snippet": "ESG ratings, impact investing and sustainability data for SMA Solar Technology, Energy Equipment & Services and Germany. Environment Employees Community Governance. SMA Solar Technology AG manufactures solar inverters, alternating current converters for solar generated electricity. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:24.747057+00:00",
+              "published_date": null,
+              "source_hash": "305b83ec7f6aa5354d716fddd88c6c60"
+            },
+            {
+              "url": "",
+              "title": "Path to carbon neutrality: DAS Solar shapes a new era of sustainable energy development",
+              "snippet": "Looking ahead, DAS Solar is committed to achieving carbon peaking across all bases by 2030 and carbon neutrality by 2050. With ESG strategies at its core, DAS Solar is taking solid steps to lead ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "SMA Solar SMA Solar carbon neutrality progress",
+              "retrieved_at": "2025-01-06T15:45:28.125000+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "c4a548c44f218df74e7c5fa1fc19eca6"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "SMA Solar supply chain disruptions legal impact",
+              "rationale": "Investigate legal and financial implications of supply chain vulnerabilities",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "SMA Solar labor practices controversies",
+              "rationale": "Assess potential ethical concerns related to labor practices in manufacturing facilities",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "SMA Solar carbon neutrality progress",
+              "rationale": "Evaluate the company's progress and transparency in achieving its carbon neutrality goals",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:45:47.485543",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

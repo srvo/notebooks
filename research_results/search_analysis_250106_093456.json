@@ -1,0 +1,436 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:34:56.242481",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Avantor Inc",
+      "symbol": "AVTR",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and compliance risks due to legal settlements and violations",
+            "Supply chain vulnerabilities and geopolitical risks",
+            "Financial risks from strategic divestitures and revenue stream impacts"
+          ],
+          "controversies": [
+            "$5.325 million settlement for false claims and DEA violations",
+            "$600,000 civil penalty for EPA violations",
+            "Legal disputes over employee advancement rights"
+          ],
+          "environmental_issues": [
+            "Non-compliance with Toxic Substances Control Act (TSCA) and Emergency Planning and Community Right-to-Know Act (EPCRA)",
+            "Improper reporting of chemicals and exporting elemental mercury"
+          ],
+          "social_issues": [
+            "Concerns over employee relations and corporate governance"
+          ],
+          "governance_issues": [
+            "Pattern of regulatory non-compliance and reputational damage",
+            "Questions about strategic realignment and operational focus"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of ...",
+              "snippet": "PHILADELPHIA - United States Attorney Jacqueline C. Romero announced today that Avantor, Inc., based in Radnor, PA, has agreed to pay a total of $5.325 million to resolve multiple alleged violations of federal law. ... Avantor is a chemical importer, manufacturer, distributor, and exporter registered with the DEA at various locations across ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289103+00:00",
+              "published_date": null,
+              "source_hash": "9bf5fec6d48085f60daf738380f0f524"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees To Pay $5.325 Million To Resolve Allegations Of ...",
+              "snippet": "Avantor, Inc. Agrees To Pay $5.325 Million To Resolve Allegations Of False Claims For Overcharging Federal Agencies And Allegations Of DEA Violations And Lack Of Compliance As To Listed Chemicals PHILADELPHIA - United States Attorney Jacqueline C. Romero announced today that Avantor, Inc., based in Radnor, PA, has agreed to pay a total of $5. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009594+00:00",
+              "published_date": null,
+              "source_hash": "7c35aeb4c9f93c6a1d248834df7d7a7a"
+            },
+            {
+              "url": "",
+              "title": "EPA Settlement with Avantor Performance Materials Resolves Public Right ...",
+              "snippet": "Under this settlement agreement, negotiated by EPA Region 2, Avantor has certified it is now in compliance with TSCA and EPCRA. It has submitted its required CDR and TRI reports for a variety of chemicals including acids, bases, salts, solvents and metals, and has ceased exporting elemental mercury. Avantor will also pay a $600,000 civil penalty.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289230+00:00",
+              "published_date": null,
+              "source_hash": "6af45620b2ece2e6707846e738cd32a1"
+            },
+            {
+              "url": "",
+              "title": "Avantor fined $600K for alleged chemical reporting violations in ...",
+              "snippet": "In this case, the EPA says it found that Avantor processed many chemical substances at its Phillipsburg and that of those, it failed to report 17 chemicals to the Toxics Release Inventory (TRI ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289244+00:00",
+              "published_date": null,
+              "source_hash": "f3ef1658edc476b8ee7b83b5fcb278e5"
+            },
+            {
+              "url": "",
+              "title": "Avantor Agrees to $5.325 Million Settlement Over Alleged Federal ... - MSN",
+              "snippet": "Additionally, Avantor has agreed to pay $325,000 to resolve allegations that it and its subsidiaries failed to comply with several compliance obligations related to listed chemicals, which are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289256+00:00",
+              "published_date": null,
+              "source_hash": "a174f1f73a79b9ce5a04d13dda9608c1"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of ...",
+              "snippet": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of False Claims for Overcharging Federal Agencies and Allegations of DEA Violations and Lack of Compliance as to Listed Chemicals General Services Administration OIG",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289268+00:00",
+              "published_date": null,
+              "source_hash": "31d2f574455cfa2fdd56242d02a722d4"
+            },
+            {
+              "url": "",
+              "title": "Avantor agrees to pay $5.3M to settle false claims, chemicals reporting ...",
+              "snippet": "An Avantor subsidiary, VWR, will pay $5 million to settle the False Claims Act violations, the DOJ announced in a press release Wednesday. In addition, Avantor will pay $325,000 to resolve allegations it violated the Controlled Substances Act and mishandled chemicals listed with the Drug Enforcement Administration (DEA) as possible precursors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289282+00:00",
+              "published_date": null,
+              "source_hash": "3bcbbb8303a3bd34b4b7aa36f1dd1509"
+            },
+            {
+              "url": "",
+              "title": "avantor-inc | Violation Tracker - Good Jobs First",
+              "snippet": "Violation Tracker Current Parent Company Summary Current Parent Company Name: Avantor Inc. Ownership Structure: publicly traded (ticker symbol NYSE: AVTR) Headquartered in: Pennsylvania Major Industry: miscellaneous manufacturing Specific Industry: performance materials Penalty total since 2000: $7,436,090 Number of records: 31",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244414+00:00",
+              "published_date": null,
+              "source_hash": "a679cd6a8200def9a84ada1a07a9069c"
+            },
+            {
+              "url": "",
+              "title": "Avantor Settles Allegations It Violated EPA Regulations (1)",
+              "snippet": "Avantor Performance Materials LLC has agreed to pay $600,000 to settle EPA's allegations that the life science company failed to report its manufacture and use of more than a dozen chemicals and illegally exported mercury.. The Environmental Protection Agency's fine could have been much higher but, following agency inspections, Avantor voluntarily self-disclosed and corrected potential ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:24.289307+00:00",
+              "published_date": null,
+              "source_hash": "14020c40b6e780cebe02a4b252a60267"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees to $5 Million False Claims Act Settlement",
+              "snippet": "Avantor, Inc, a global player in the scientific and technical supply sector, has agreed to a $5 million settlement in a False Claims Act (FCA) case. The FCA case alleged that an Avantor subsidiary, VWR International, LLC (VWR), overcharged federal agencies for supplies. The procurement contracts at issue were with multiple federal agencies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009640+00:00",
+              "published_date": null,
+              "source_hash": "ff27762540957b14b8bd0a01d641238d"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. (AVTR)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:28.522405+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "ccfa3e338d16a952d1570a2e23812a32"
+            },
+            {
+              "url": "",
+              "title": "Avantor Agrees to $5.325 Million Settlement Over Alleged Federal Law Violations",
+              "snippet": "Romero announced that Avantor, Inc., based in Radnor ... to comply with several compliance obligations related to listed chemicals, which are regulated by the Drug Enforcement Administration ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Avantor Inc Avantor Inc chemical waste management controversies",
+              "retrieved_at": "2025-01-06T16:34:28.522452+00:00",
+              "published_date": "2024-08-02T05:08:00+00:00",
+              "source_hash": "0a883212f68fcd111756f576baa7c965"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of ...",
+              "snippet": "In addition, Avantor has agreed to pay $325,000 to resolve allegations that it and its subsidiaries, including VWR, failed to comply with a number of compliance obligations between 2013 and 2023 pertaining to its dealings in listed chemicals, which are regulated by the Drug Enforcement Administration (DEA).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009521+00:00",
+              "published_date": null,
+              "source_hash": "29cd6a96e977015403dc22ccac10abe0"
+            },
+            {
+              "url": "",
+              "title": "Avantor Agrees to $5.325 Million Settlement Over Alleged Federal ... - MSN",
+              "snippet": "PHILADELPHIA, PA \u2014 United States Attorney Jacqueline C. Romero announced that Avantor, Inc., based in Radnor, PA, has agreed to a $5.325 million settlement to resolve multiple alleged violations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009577+00:00",
+              "published_date": null,
+              "source_hash": "534f3e1f9d84f58b3cbbad1f76c7d839"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of ...",
+              "snippet": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of False Claims for Overcharging Federal Agencies and Allegations of DEA Violations and Lack of Compliance as to Listed Chemicals. General Services Administration OIG",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009605+00:00",
+              "published_date": null,
+              "source_hash": "0d0f16a357dd29ee13eca92be6a7e081"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. and VWR International, LLC v. Melissa Ertl and ILC Dover ...",
+              "snippet": "`Global Clinical Services in Avantor's Quality and Regulatory Assurance ` `organization (but only as to the Quality group). Since sometime in May 2023, she ` `has been employed as ILC Dover's Vice President for Global Quality and ` `Regulatory Compliance. In all other respects, Ertl denies the allegations of ` `paragraph 9. ` `10.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009651+00:00",
+              "published_date": null,
+              "source_hash": "f02dd8972cc19a11798425ef6bbfd3ee"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. and VWR International, LLC v. Melissa Ertl and ILC Dover ...",
+              "snippet": "Plaintiff Avantor, Inc. is a Delaware corporation and a Fortune 500 `company founded in 1904 and headquartered in Radnor, Pennsylvania. Avantor ... `ILC Dover's Vice President for Global Quality and Regulatory Compliance. ` `ANSWER: ILC Dover admits the allegations in the first sentence of ` `Paragraph 31. As to the second and third sentences ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009659+00:00",
+              "published_date": null,
+              "source_hash": "93ff3a906d0d567a4c01b79ee5250f9f"
+            },
+            {
+              "url": "",
+              "title": "Avantor agrees to pay $5M to settle allegations by federal government ...",
+              "snippet": "Avantor Inc. has agreed to pay the federal government $5 million \u2014 without admitting any guilt \u2014 to resolve allegations that one of its subsidiaries, VWR International, violated the False ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244523+00:00",
+              "published_date": null,
+              "source_hash": "83a4b19d32aab2effa44a519a1d88d23"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. and VWR International, LLC v. Melissa Ertl and ILC Dover ...",
+              "snippet": "`Manufacturing and Global Clinical Services in Avantor's Quality and Regulatory ` `Assurance organization. Since sometime in May 2023, she has been employed as ` `ILC Dover's Vice President for Global Quality and Regulatory Compliance. ` `21. ` `10. Ertl contractually consented to the personal jurisdiction of this ` `Court. ` `22. ` `11.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009678+00:00",
+              "published_date": null,
+              "source_hash": "4280e10ef4085ea8a6a9cd1595af31ff"
+            },
+            {
+              "url": "",
+              "title": "Avantor agrees to pay $5.3M to settle false claims ... - Compliance Week",
+              "snippet": "An Avantor subsidiary, VWR, will pay $5 million to settle the False Claims Act violations, the DOJ announced in a press release Wednesday. In addition, Avantor will pay $325,000 to resolve allegations it violated the Controlled Substances Act and mishandled chemicals listed with the Drug Enforcement Administration (DEA) as possible precursors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:30.009687+00:00",
+              "published_date": null,
+              "source_hash": "963b1ecff83b73027ddd54604f26b4ff"
+            },
+            {
+              "url": "",
+              "title": "Avantor Agrees to $5.325 Million Settlement Over Alleged Federal Law Violations",
+              "snippet": "Romero announced that Avantor, Inc., based in Radnor ... This settlement addresses issues involving fraudulent overcharging and compliance failures. First, Avantor will pay $5 million to settle ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:33.710339+00:00",
+              "published_date": "2024-08-02T05:08:00+00:00",
+              "source_hash": "9d25110866fea6d4da2588f528f527df"
+            },
+            {
+              "url": "",
+              "title": "Avantor to Divest Clinical Services Business to Audax Private Equity for $650 Million",
+              "snippet": "RADNOR, PA \u2014 Avantor, Inc. (NYSE: AVTR) has announced a definitive ... to close in the fourth quarter of 2024, subject to regulatory approvals and customary closing conditions.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Avantor Inc Avantor Inc regulatory compliance lawsuits",
+              "retrieved_at": "2025-01-06T16:34:33.710419+00:00",
+              "published_date": "2024-08-20T16:12:00+00:00",
+              "source_hash": "fabee5659eacc032ee55dbeb24e86e83"
+            },
+            {
+              "url": "",
+              "title": "Chancery Enforces Advancement Rights for Former Employee of Subsidiary ...",
+              "snippet": "The plaintiff promptly made an advancement demand to Avantor, which Avantor rejected. The plaintiff filed counterclaims in the Underlying Action and also filed a separate action seeking advancement under Avantor's bylaws. The plaintiff's advancement claim was premised on the theory that he was a former employee of VM, a subsidiary of Avantor.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244286+00:00",
+              "published_date": null,
+              "source_hash": "49fffcbcd067cdbdc0e4c67d017c3f19"
+            },
+            {
+              "url": "",
+              "title": "Centrella v. Avantor, C.A. No. 2022-0876-NAC (Del. Ch. July 1, 2024 ...",
+              "snippet": "The Advancement Action proceeded to trial. Notably, neither party disputed that Avantor owned at least 50% of VM or that VM employees were entitled to advancement under Avantor's bylaws. Rather, Avantor argued that it, not VM, was Centrella's employer, even though it was a \"holding company with no payroll employees.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244431+00:00",
+              "published_date": null,
+              "source_hash": "71a057276be02aef567e51fd85a7826f"
+            },
+            {
+              "url": "",
+              "title": "Phalon v. Avantor Inc., CIVIL 3:19-CV-00852 (JCH) - Casetext",
+              "snippet": "Avantor Inc., CIVIL 3:19-CV-00852 (JCH), see flags on bad law, and search Casetext's comprehensive legal database ... the Connecticut Fair Employment Practices Act, Conn. Gen. Stat. \u00a7 46a-58 et seq. (\"CFEPA\"), and the Family Medical Leave Act ... Given that United States Department of Labor regulations require an employee to \"provide ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244445+00:00",
+              "published_date": null,
+              "source_hash": "757390d9d62abfdfadc994a5c7450cca"
+            },
+            {
+              "url": "",
+              "title": "AHLA - Avantor, Inc. Agrees to Pay $5.325 Million to Resolve ...",
+              "snippet": "Avantor, Inc. Agrees to Pay $5.325 Million to Resolve Allegations of FCA, DEA Violations ... Labor and Employment; Life Sciences; Medical Staff, Credentialing, and Peer Review; ... FTC Sues \"Big 3\" PBMs Over Insulin Rebating Practices 11/21/2024 12:00:00 AM AHLA Bulletin; Communities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244462+00:00",
+              "published_date": null,
+              "source_hash": "db4b251f25269a96bc2468bba7dbe5a7"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. and VWR International, LLC v. Melissa Ertl and ILC Dover ...",
+              "snippet": "`29. Plaintiff Avantor, Inc. is a Delaware corporation and a Fortune 500 `company founded in 1904 and headquartered in Radnor, Pennsylvania. Avantor `operates through numerous subsidiaries, including Plaintiff VWR, a Delaware `limited liability company also headquartered in Radnor. ` `ANSWER: ILC Dover admits that Plaintiff Avantor, Inc. is a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244474+00:00",
+              "published_date": null,
+              "source_hash": "37a4f0c4489e96fa72ef1b3d8d8b8780"
+            },
+            {
+              "url": "",
+              "title": "Avantor, Inc. Agrees To Pay $5.325 Million To Resolve Allegations Of ...",
+              "snippet": "Avantor, Inc. Agrees To Pay $5.325 Million To Resolve Allegations Of False Claims For Overcharging Federal Agencies And Allegations Of DEA Violations And Lack Of Compliance As To Listed Chemicals. PHILADELPHIA - United States Attorney Jacqueline C. Romero announced today that Avantor, Inc., based in Radnor, PA, has agreed to pay a total of $5 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244490+00:00",
+              "published_date": null,
+              "source_hash": "144a036397b9e80913bb938b0141a870"
+            },
+            {
+              "url": "",
+              "title": "Abrantes v Avantor, Inc et al | 6:21-CV-06307 - UniCourt",
+              "snippet": "On 04/08/2021 Abrantes filed a Civil Right - Employment Discrimination court case against Avantor, Inc in U.S. District Courts. Court records for this case are available from New York Western District Court.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244501+00:00",
+              "published_date": null,
+              "source_hash": "4a92a0fb9e763b8c11da4cf04d431d1f"
+            },
+            {
+              "url": "",
+              "title": "AVANTOR PERFORMANCE MATERIALS, INC. - National Labor Relations Board",
+              "snippet": "Unfair Labor Practice Cases by Filing Party per Fiscal Year; ... Charged Party / Respondent Employer AVANTOR PERFORMANCE MATERIALS, LLC. Phillipsburg, NJ 08865-1272 : Charging Party Union UNITED STEEL, PAPER AND FORESTRY, RUBBER, MANUFACTURING, ENERGY, ALLIED INDUSTRIAL AND SERVICE WORKERS INT'L LOCAL 04-729:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Avantor Inc Avantor Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T16:34:35.244512+00:00",
+              "published_date": null,
+              "source_hash": "2e5ee40fda9c4d98ad4d3840e7131eff"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Avantor Inc chemical waste management controversies",
+              "rationale": "Investigate potential environmental risks related to chemical waste disposal",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Avantor Inc regulatory compliance lawsuits",
+              "rationale": "Identify legal challenges related to adherence to pharmaceutical and industrial regulations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Avantor Inc labor practices controversies",
+              "rationale": "Examine potential ethical concerns regarding employee treatment and working conditions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:34:56.242495",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

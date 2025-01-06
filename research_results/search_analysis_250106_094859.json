@@ -1,0 +1,535 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:48:59.200855",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Digital Realty Trust Inc",
+      "symbol": "DLR",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Environmental concerns related to energy consumption and carbon footprint",
+            "Supply chain disruptions impacting infrastructure and Scope 3 emissions reduction",
+            "Regulatory and legal risks, including data privacy compliance and ongoing legal challenges",
+            "Intense market competition from other data center providers and hyperscale cloud providers"
+          ],
+          "controversies": [
+            "Decrease in renewable energy share to 56% in 2022, raising concerns about meeting 2030 sustainability goals",
+            "Supply chain delays affecting critical components and operational efficiency",
+            "Legal risks stemming from data privacy regulations and securities practices"
+          ],
+          "environmental_issues": [
+            "High energy consumption of data centers",
+            "Challenges in reducing global carbon footprint",
+            "Dependence on renewable energy targets amid ESG scrutiny"
+          ],
+          "social_issues": [
+            "Compliance with varying data privacy regulations across global operations",
+            "Potential operational challenges due to regulatory requirements"
+          ],
+          "governance_issues": [
+            "Legal risks related to securities and employment practices",
+            "Complexities in managing Scope 3 emissions and vendor accountability"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Digital Realty: Renewable share of energy use 2022 | Statista",
+              "snippet": "Renewable energy accounted for 56 percent of Digital Realty's total energy consumption in 2022. This was a marginal decrease on the previous year, but remained a significant increase on 2020.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042567+00:00",
+              "published_date": null,
+              "source_hash": "f685b81f04184d7e9d26b6c81a6b12a2"
+            },
+            {
+              "url": "",
+              "title": "ESG 2021 Report | Digital Realty",
+              "snippet": "Explores Digital Realty's climate change resilience, environmental performance, social responsibility, and ethics and integrity in our ESG 2021 report. ... Environmental performance through renewable energy, sustainable buildings, energy and water conservation, waste management, and supply chain sustainability ... 2023 Digital Realty Trust All ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042671+00:00",
+              "published_date": null,
+              "source_hash": "6b1bf60446d439ce2e75b7909540c460"
+            },
+            {
+              "url": "",
+              "title": "DIGITAL REALTY TRUST, INC. - DEF 14A - SEC.gov",
+              "snippet": "You are cordially invited to attend the 2024 Annual Meeting of Stockholders (the Annual Meeting) of Digital Realty Trust, Inc., a Maryland corporation (the Company), to be held on June 7, 2024, at 10:00 a.m. CDT, at 5707 Southwest Parkway, Building 1, Suite 275, Austin, TX 78735.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042689+00:00",
+              "published_date": null,
+              "source_hash": "98e80109def0056546ff9a14f04f6da9"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty : Publishes Third Annual ESG Report",
+              "snippet": "Renewable Energy: Digital Realty added 154 megawatts of renewables in 2020, bringing the total onsite solar and wind energy under long-term contracts to 556 megawatts. All of Digital Realty's European properties as well as its U.S. colocation business are 100% powered by renewable energy. ... Digital Realty Trust, Inc. develops, owns and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042703+00:00",
+              "published_date": null,
+              "source_hash": "7d16259d627edd49117647a0fb354f31"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust - ENERGY STAR",
+              "snippet": "Digital Realty Trust is a data center owner and operator. Digital Realty continued to develop and expand on its robust energy management program, achieving ENERGY STAR\u00ae certification for 31 properties and promoting its success with ENERGY STAR to internal and external audiences. Key 2023 accomplishments include:",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042715+00:00",
+              "published_date": null,
+              "source_hash": "a56f4928db8eb83ccd965a49e266f80d"
+            },
+            {
+              "url": "",
+              "title": "ESG 2020 Report | Digital Realty",
+              "snippet": "At Digital Realty, we are committed to managing our environmental impact and our use of natural resources. We continue to create green, energy-efficient, data centers. This ESG report explores our: Climate change resilience ; Environmental performance ; Social responsibility, including stakeholders, customers, and employees ; Ethics and integrity",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042729+00:00",
+              "published_date": null,
+              "source_hash": "9ab06037236759c213d9386a7116752a"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. - Corporate Energy",
+              "snippet": "Digital Realty Trust, Inc. is a leading provider of data center solutions and colocation services, operating across the United States and around the world. The company is a real estate investment trust (REIT) that specializes in the acquisition, development, and management of data centers, which are facilities that house the computing and networking infrastructure that underpins much of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042739+00:00",
+              "published_date": null,
+              "source_hash": "8ce588f6bf54163b6815bf0cb633d37c"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Inc - Company Profile - GlobalData",
+              "snippet": "Digital Realty Trust Inc (Digital Realty Trust) is a real estate investment trust (REIT) service provider. The company acquires, owns, develops, and operates data centers and provides colocation and interconnection solutions. ... financial services, healthcare, manufacturing, energy, and consumer products. It operates in North America, Asia ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042753+00:00",
+              "published_date": null,
+              "source_hash": "b08d25a3e0222406d7bd4c77d613495f"
+            },
+            {
+              "url": "",
+              "title": "Decoding Digital Realty Trust Inc (DLR): A Strategic SWOT Insight",
+              "snippet": "On November 9, 2023, Digital Realty Trust Inc , a global provider of data center solutions, filed its 10-Q report, revealing a substantial increase in operating revenues year-over-year. For the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042764+00:00",
+              "published_date": null,
+              "source_hash": "c60ef5dd768f5561e67375e631f9b72b"
+            },
+            {
+              "url": "",
+              "title": "Decoding Digital Realty Trust Inc (DLR): A Strategic SWOT Insight",
+              "snippet": "As a global leader in data center solutions, Digital Realty Trust Inc reported operating revenues of $1.43 million for the three months ended September 30, 2024, a slight increase from the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:27.042774+00:00",
+              "published_date": null,
+              "source_hash": "89c892a70ac4edceca21974909b75fa3"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. (NYSE:DLR) Shares Purchased by Everence Capital Management Inc.",
+              "snippet": "Everence Capital Management Inc. boosted its stake in Digital Realty Trust, Inc. (NYSE:DLR - Free Report) by 31.1% in the 4th quarter, according to its most recent filing with the SEC. The fund owned 8,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:39.466621+00:00",
+              "published_date": "2025-01-04T08:23:00+00:00",
+              "source_hash": "753a5a33c9d74342f0de835972554584"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Reaches 100% Clean Energy Milestone in Illinois",
+              "snippet": "Digital Realty, a global provider of cloud- and carrier-neutral data center, colocation, and interconnection solutions, announced its portfolio of 11 data centers in Illinois will be matched with 100% clean and renewable energy beginning in 2025.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:29.493590+00:00",
+              "published_date": "2025-01-06T15:09:00+00:00",
+              "source_hash": "644d69770667683e3e4193d9e4c02445"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Inc. stock outperforms competitors despite losses on the day",
+              "snippet": "Digital Realty Trust Inc. closed $21.00 below its 52-week high ($198.00), which the company achieved on November 29th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:39.466664+00:00",
+              "published_date": "2025-01-02T21:50:00+00:00",
+              "source_hash": "687d0087b584c001e92dad0d5b2dcfce"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Inc. 5.25% Cum. Conv. Pfd. Series J",
+              "snippet": "The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc energy consumption controversies",
+              "retrieved_at": "2025-01-06T16:48:29.493600+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "df44ab3b731dfe93a04d1ad5e9efb3d8"
+            },
+            {
+              "url": "",
+              "title": "Brokerages Set Digital Realty Trust, Inc. (NYSE:DLR) Target Price at $171.68",
+              "snippet": "Digital Realty Trust, Inc. (NYSE:DLR - Get Free Report) has been given a consensus recommendation of \"Moderate Buy\" by the twenty-one research firms that are covering the company, MarketBeat Ratings reports.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:39.466825+00:00",
+              "published_date": "2025-01-05T05:42:00+00:00",
+              "source_hash": "f9e8d5c4fd5f01c9b52095fc31c6974e"
+            },
+            {
+              "url": "",
+              "title": "DIGITAL REALTY TRUST, INC. - DEF 14A - SEC.gov",
+              "snippet": "Administer the Digital Realty Trust, Inc., Digital Services, Inc. and Digital Realty Trust, L.P. 2014 Incentive Award Plan, as amended (the 2014 Plan). \u2022 Prepare the disclosure required by federal securities laws to be included in the Company's annual proxy statement.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975764+00:00",
+              "published_date": null,
+              "source_hash": "accf3a6de8a62f7ae895ff806526721c"
+            },
+            {
+              "url": "",
+              "title": "Four key takeaways from the Supreme Court's decision in Digital Realty ...",
+              "snippet": "On February 21, 2018, the United States Supreme Court's decision in Digital Realty Trust, Inc. v. Somers, 583 U.S.___(2018) resolved a split between the Second, Ninth and Fifth Circuits concerning whether the anti-retaliation provision of the Dodd-Frank Wall Street Reform and Consumer Protection Act of 2010 (Dodd-Frank) covers only persons who have reported alleged securities violations to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908245+00:00",
+              "published_date": null,
+              "source_hash": "e869ae83d5bfc822ae5b19b41181301c"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. - Fitch Ratings",
+              "snippet": "Digital Realty Trust, Inc. Mon 17 Jun, 2024 - 10:01 PM ET The rating affirmation and Stable Outlook reflect Digital Realty Trust, Inc.'s (DLR) historical compliance with its financial policy, global scale, predictable cash flow profile, and diversified and consistent access to capital.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908255+00:00",
+              "published_date": null,
+              "source_hash": "5bb393baf83ea6068513167c9013c8b4"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The Supreme Court, in Digital Realty Trust, Inc. v. Somers, held that employees who only report securities law violations or fraudulent practices internally are not whistleblowers and therefore do not qualify for whistleblower anti-retaliation protection under the Dodd-Frank Act. Thus, the Supreme Court has foreclosed anti-retalia-",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908262+00:00",
+              "published_date": null,
+              "source_hash": "3bad138a009b2fd6b662beec4b4aee0d"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "resolved the split when it held in Digital Realty Trust, Inc. v. Somers, 138 S. Ct. 767 (2018) that the definition of \"whistleblower\" in Section 21F(a)(6) of the Exchange Act requires that an individual report a possible securities law violation to the Securities and Exchange Commission (\"SEC\") to qualify for protection against retaliation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908268+00:00",
+              "published_date": null,
+              "source_hash": "7f308050ebedec56039dff11376331d6"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The Board of Directors (the \"Board\") of Digital Realty Trust, Inc. (the \"Company\") has adopted the following Corporate Governance Guidelines (the \"Guidelines\") to assist the ... ensure compliance with applicable laws and policies. Additionally, no director shall be a member of more than five (5) public company boards. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908274+00:00",
+              "published_date": null,
+              "source_hash": "efd0dfa2aed554f944677f8e680f9734"
+            },
+            {
+              "url": "",
+              "title": "DIGITAL REALTY TRUST, INC. v. SOMERS (2018) | FindLaw",
+              "snippet": "Petitioner Digital Realty Trust, Inc. (Digital Realty) is a real estate investment trust that owns, acquires, and develops data centers. See Brief for Petitioner 3. Digital Realty employed respondent Paul Somers as a Vice President from 2010 to 2014. See 119 F. Supp. 3d 1088, 1092 (ND Cal. 2015).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908281+00:00",
+              "published_date": null,
+              "source_hash": "d3768ffde4507aff3564b3dbaaf3fa9f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "no. 15-17352 _____ united states court of appeals . for the ninth circuit",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908287+00:00",
+              "published_date": null,
+              "source_hash": "e8d4be458b0ce2fd6cf2aff308023fd7"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. v. Somers - U.S. Chamber of Commerce",
+              "snippet": "Supreme Court issues favorable 9-0 decision resolving split on Dodd-Frank Act's whistleblower provisions. ... Digital Realty Trust, Inc. v. Somers. Cases / False Claims Act / Forum. U.S. Supreme Court. Case Status. Decided ... Center for Workplace Compliance Amicus Brief -- Digital Trust, Inc. v. Somers (U.S. Supreme Court).pdf",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908292+00:00",
+              "published_date": null,
+              "source_hash": "b140056b47aa2a019aa6b6f1d978e520"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. - Fitch Ratings",
+              "snippet": "Digital Realty Trust, Inc. Wed 08 Mar, 2023 - 3:04 PM ET The rating affirmation and Stable Outlook reflect Digital Realty Trust, Inc.'s historical compliance with its financial policy, global scale, predictable cash flow profile, and diversified and consistent access to capital.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:32.908300+00:00",
+              "published_date": null,
+              "source_hash": "4442e2edec68c9b244454daf0930121f"
+            },
+            {
+              "url": "",
+              "title": "Rezoning filed for big data center in west Charlotte",
+              "snippet": "Digital Realty bought the west Charlotte site for $160 million in November. Data center owner and operator Digital Realty Trust Inc. (NYSE: DLR) is seeking to rezone about 155 acres it bought last ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:35.432151+00:00",
+              "published_date": "2024-12-13T00:00:00+00:00",
+              "source_hash": "ab18b2a223cddfcc54395a39dfa76b05"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. (DLR): Are Hedge Funds Bullish On This Real Estate and Realty Stock?",
+              "snippet": "We recently compiled a list of the 10 Best Real Estate and Realty Stocks To Buy According to Hedge Funds. In this article, we are going to take a look at where Digital Realty Trust, Inc. (NYSE ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:48:35.432162+00:00",
+              "published_date": "2024-11-25T08:27:00+00:00",
+              "source_hash": "9ae2463b5e6d9e5338c57bd56e8beb1a"
+            },
+            {
+              "url": "",
+              "title": "Supply Chain ESG - Digital Realty",
+              "snippet": "Comply with new and emerging international laws and regulations that mandate increasing visibility into, and accountability for, the behavior of vendors in our supply chain; Reduce Scope 3 emissions within Digital Realty's value chain 24% per square foot by 2030 from 2018 levels as part of our global SBTi carbon reduction target",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975451+00:00",
+              "published_date": null,
+              "source_hash": "f97f6ca18d2647340dda14b3a71cf1e4"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. Updated August 2024: Supply Chain Analysis ...",
+              "snippet": "Digital Realty Trust, Inc. has a Count of Subsidiaries of 1,169 and a Count of Tier 1 Connections of 277. Their government contract revenue over the past three years is $-. Information about Digital Realty Trust, Inc.'s federal profile including a list of suppliers, list of primes, and list of customers are included in the following tables.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975578+00:00",
+              "published_date": null,
+              "source_hash": "0d326a06173c09255333bb3d374863d1"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Inc (DLR) Q3 2024 Earnings Call Highlights: Record ...",
+              "snippet": "Digital Realty Trust Inc (DLR) reports record leasing volumes and strategic development growth, while addressing supply chain and market challenges. News Today's news",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975611+00:00",
+              "published_date": null,
+              "source_hash": "efef45bb7cc9347eb02167361ae1a130"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Q3 2024 Earnings Report - MarketBeat",
+              "snippet": "Digital Realty Trust announced their Q3 2024 earnings on 10/24/2024. View DLR's earnings results, and conference call transcript at MarketBeat. ... Supply chain management, construction management, and operating expertise are all challenges that customers rely on Digital Realty to solve, and they are clearly a critical aspect of the overall ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975637+00:00",
+              "published_date": null,
+              "source_hash": "4c6f16e37a31a2f57356d175728a9b5e"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "\u2022 Together@Digital \u2022 Social Metrics 17 Governance \u2022 Engaging our Supply Chain \u2022 Management Approach to Material Topics 24 GRI Data Table 44 GRI Content Index 54 Assurance Statement Contents References in this report to: \"Company\" or \"Digital Realty\" refer to Digital Realty Trust, Inc. and its consolidated subsidiaries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975660+00:00",
+              "published_date": null,
+              "source_hash": "dffe4a4f5fb8d02e302b06d371e71427"
+            },
+            {
+              "url": "",
+              "title": "DIGITAL REALTY TRUST, INC. SEC 10-Q Report - TradingView",
+              "snippet": "Digital Realty Trust, Inc., a global provider of data center, colocation, and interconnection solutions, has released its Form 10-Q report for the quarter ended September 30, 2024. The report highlights the company's financial performance, business operations, strategic initiatives, and the challenges it faces in the current market environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975691+00:00",
+              "published_date": null,
+              "source_hash": "490a0ba304b2b578104b760cc65797af"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Inc (DLR) Q3 2024 Earnings Call Highlights:",
+              "snippet": "Digital Realty Trust Inc (DLR, Financial) achieved a record new leasing volume of $521 million, surpassing previous records and expectations. ... Andy Power emphasized that Digital Realty has been scaling its supply chain and team to meet demand. They have strong relationships with vendors and are investing in their team and systems to ensure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975713+00:00",
+              "published_date": null,
+              "source_hash": "ea5bc4f9881c81244577c6f3ddd420e0"
+            },
+            {
+              "url": "",
+              "title": "DIGITAL REALTY TRUST, INC. - DEF 14A - SEC.gov",
+              "snippet": "TO THE STOCKHOLDERS OF DIGITAL REALTY TRUST, INC.: NOTICE IS HEREBY GIVEN that the 2018 Annual Meeting of Stockholders, or the Annual Meeting, of Digital Realty Trust, Inc., a Maryland corporation, or the Company, will be held on Tuesday, May 8, 2018, at 9:30 a.m. EDT, at 21625 Gresham Drive, Ashburn, VA 20147, for the following purposes:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975735+00:00",
+              "published_date": null,
+              "source_hash": "08433041d20f6ec1703f2c5cd7c1f6ec"
+            },
+            {
+              "url": "",
+              "title": "DIGITAL REALTY TRUST, INC. Supply Chain Management Director Salary ...",
+              "snippet": "The average salary for Supply Chain Management Director at companies like DIGITAL REALTY TRUST, INC. in the United States is $187,390 as of February 27, 2023, but the salary range typically falls between $164,590 and $210,790.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:36.975788+00:00",
+              "published_date": null,
+              "source_hash": "c153e6e2864e4b58b538a299bc6dad4e"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust, Inc. (DLR): Are Hedge Funds Bullish On This Real Estate and Realty Stock?",
+              "snippet": "In this article, we are going to take a look at where Digital Realty Trust, Inc. (NYSE:DLR ... reducing immigration could severely hurt the labor supply needed for new homebuilding since up ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:39.466658+00:00",
+              "published_date": "2024-11-25T08:27:00+00:00",
+              "source_hash": "e0d3b175a949b37da7fa6db89b2f0d3a"
+            },
+            {
+              "url": "",
+              "title": "Digital Realty Trust Inc (DLR) Stock Settles at $178.57: What's Contributing to This Price Point?",
+              "snippet": "Notable insider trades include Mercier Matt, CFO at Digital Realty Trust Inc (DLR), who sold 2518 shares on Dec 12 '24, at $187.4 each, totaling $0.47 million. On Mar 12 '24, MANDEVILLE JEAN F H P, Director, sold 3400 shares for $145.5 each, amounting to $0.49 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Digital Realty Trust Inc Digital Realty Trust Inc supply chain labor practices",
+              "retrieved_at": "2025-01-06T16:48:39.466816+00:00",
+              "published_date": "2024-12-21T18:00:00+00:00",
+              "source_hash": "b7868636aeb02f8368b5efc77d02967c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Digital Realty Trust Inc energy consumption controversies",
+              "rationale": "Investigate concerns over the company's carbon footprint and energy efficiency despite renewable energy commitments",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Digital Realty Trust Inc regulatory compliance issues",
+              "rationale": "Examine challenges related to data privacy and security regulations across different regions, such as GDPR and CCPA",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Digital Realty Trust Inc supply chain labor practices",
+              "rationale": "Assess potential ethical concerns related to labor practices in the supply chain for critical infrastructure components",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:48:59.200878",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

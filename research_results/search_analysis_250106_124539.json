@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:45:39.979573",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Kilroy Realty Corp",
+      "symbol": "KRC",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Office sector volatility due to work-from-home trends and economic downturns",
+            "Tenant concentration risk with significant revenue dependency on a few large tenants",
+            "Leasing pressure and potential downward pressure on stock prices and dividend sustainability"
+          ],
+          "controversies": [
+            "Tenant allegations of unfair rent increases aimed at forcing the tenant out of business",
+            "Labor-related lawsuit (Pacia v. Kilroy Realty) highlighting potential internal governance or employment practice concerns",
+            "Legal challenges over the One Paseo mixed-use project, including lawsuits from community groups and competitors"
+          ],
+          "environmental_issues": [
+            "Ongoing investments in green technologies and practices may strain financial resources"
+          ],
+          "social_issues": [
+            "Potential reputational risks from tenant disputes and labor lawsuits"
+          ],
+          "governance_issues": [
+            "Legal disputes and development opposition indicating potential governance challenges"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Flower Mart tenant alleges Kilroy wants to force it out of business",
+              "snippet": "The operator of the cafe at the Flower Mart has sued Kilroy Realty Corp., alleging the company that plans to redevelop the facility unfairly raised his rent and is pushing him toward insolvency ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638004+00:00",
+              "published_date": null,
+              "source_hash": "7d0bcddaeb8c143cda912f7217995906"
+            },
+            {
+              "url": "",
+              "title": " Pacia v. Kilroy Realty, L.P., et al. Case No. 21STCV20624",
+              "snippet": "Pacia v. Kilroy Realty, L.P., et al. Case No. 21STCV20624 The Superior Court for the State of California authorized this Notice. Read it carefully! It is not junk mail, spam, an advertisement, or solicitation by a lawyer. You are not being sued.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638107+00:00",
+              "published_date": null,
+              "source_hash": "77ddda2939679832c04f21f5057aa4b3"
+            },
+            {
+              "url": "",
+              "title": "ANNA KLEIN PACIA VS KILROY REALTY, L.P., ET AL. - UniCourt",
+              "snippet": "On 06/02/2021 ANNA KLEIN PACIA filed a Labor - Other Labor lawsuit against KILROY REALTY, L P ,. This case was filed in Los Angeles County Superior Courts, Spring Street Courthouse located in Los Angeles, California. ... (Plaintiff); As to: Kilroy Realty, L.P. (Defendant); Kilroy Realty Corporation (Defendant) [+] Read More [-] Read Less. 04/28 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638123+00:00",
+              "published_date": null,
+              "source_hash": "a82f63fd05cd9ec6f3520e171147489f"
+            },
+            {
+              "url": "",
+              "title": "ANN KLEIN PACIA VS KILROY REALTY, LP, ET AL - UniCourt",
+              "snippet": "On 06/01/2021 ANN KLEIN PACIA filed a Labor - Other Labor lawsuit against KILROY REALTY, L P .This case was filed in Los Angeles County Superior Courts, Santa Monica Courthouse located in Los Angeles, California. The case status is Other.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638136+00:00",
+              "published_date": null,
+              "source_hash": "8a0914cebeccc1cb91b89de6b2b178f4"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit Over Alley Threatens Office Project in SF's SoMa - The Real Deal",
+              "snippet": "Kilroy Realty's John Kilroy with alley behind 700 block of Bryant Street and rendering of 610-698 Brannan Street (Kilroy Realty, Google Maps, Adamson Architects and RCH Studios, Getty) May 9, 2023 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638147+00:00",
+              "published_date": null,
+              "source_hash": "a705fda31116d4233b25c9fff13896b1"
+            },
+            {
+              "url": "",
+              "title": "Kilroy, SoMa property owners spar over private alleyway that is ...",
+              "snippet": "Kilroy Realty has been sued by 13 neighboring commercial property owners of its 2.2 million-square-foot Flower Mart project in Central SoMa over control of an alleyway that has been described as a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638156+00:00",
+              "published_date": null,
+              "source_hash": "508c25961af3c8b773a8875673728605"
+            },
+            {
+              "url": "",
+              "title": "KILROY REALTY CORP (Form: 10-K, Received: 02/15/2019 06:10:47)",
+              "snippet": "Kilroy Realty Corporation was incorporated in the state of Maryland on September 13, 1996 and Kilroy Realty, L.P. was organized in the state of Delaware on October 2, 1996. ... Lawsuits have been filed in San Francisco County Superior Court in connection with the vertical and differential settlement experienced at the Millennium Tower property ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638166+00:00",
+              "published_date": null,
+              "source_hash": "47b996a553bcbb729e66280f8af82c88"
+            },
+            {
+              "url": "",
+              "title": "EToys Sues Kilroy for Return of $15 Million - Los Angeles Times",
+              "snippet": "Kilroy Realty Corp. said a former tenant, bankrupt Internet retailer EToys Inc., is seeking the return of $15 million from two letters of credit.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638176+00:00",
+              "published_date": null,
+              "source_hash": "e6977127e5cf0f095f6c150df1ae227e"
+            },
+            {
+              "url": "",
+              "title": "Utah Tenant Rights | Legal Help with Landlord Laws in Provo & Orem ...",
+              "snippet": "Legal Help with Landlord and Tenant Law from a Well-Established Utah Law Firm Providing skilled counsel since 1957. Utah has a variety of complicated landlord and tenant laws. Navigating through these laws can sometimes be difficult. We at Jeffs & Jeffs, P.C. are committed to assisting you with all matters related to the landlord-tenant ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638185+00:00",
+              "published_date": null,
+              "source_hash": "ec4f9b1b9ab4cbd4c7e4caca254b3e1a"
+            },
+            {
+              "url": "",
+              "title": "Kilroy settles with AT&T over DirecTV HQ in El Segundo - The Real Deal",
+              "snippet": "Kilroy Realty has agreed to settle a lawsuit with AT&T over DirecTV's headquarters in El Segundo, about 10 days before trial was set to start, court records show. In April last year, DirecTV's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:11.638194+00:00",
+              "published_date": null,
+              "source_hash": "7b0aab46d2b704dd96216becaed53578"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Declares Quarterly Dividend",
+              "snippet": "LOS ANGELES--(BUSINESS WIRE)--Kilroy Realty Corporation (NYSE ... the Company had two life science redevelopment projects in the tenant improvement phase totaling approximately 100,000 square ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp tenant disputes lawsuits",
+              "retrieved_at": "2025-01-06T19:45:14.814962+00:00",
+              "published_date": "2024-12-05T16:11:00+00:00",
+              "source_hash": "f1e9848c8d6ec4c5ee25f9f0ae41e63d"
+            },
+            {
+              "url": "",
+              "title": "Sustainability - Kilroy Realty",
+              "snippet": "Our sustainability efforts are broad, and include a focus on energy, carbon, water, waste, health & wellness, and stakeholder engagement. We identify climate change as both a risk and an opportunity to our business and we build these factors into our strategy and risk management efforts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643298+00:00",
+              "published_date": null,
+              "source_hash": "476c2e4162d1a9796e1f1f20563d04c4"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Releases its 12th Annual Sustainability Report",
+              "snippet": "The 2022 Sustainability Report highlights the following achievements: Maintaining carbon-neutral operations for a third year by prioritizing energy efficiency, sourcing electricity from renewables where available, and using renewable energy credits (RECs) and carbon offsets to ensure that 100% of each building's energy use is carbon-neutral.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244291+00:00",
+              "published_date": null,
+              "source_hash": "d36bf35ea26fdd435649ee8d0225a96a"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Releases its 13th Annual Sustainability Report",
+              "snippet": "Kilroy is pleased to release its 13th annual sustainability report which highlights our achievements over the past year and outlines our efforts towards maintaining sustainable and healthy buildings for our tenants, employees, and members of the communities we serve. Read the 2023 Sustainability Report and press release.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244306+00:00",
+              "published_date": null,
+              "source_hash": "04e18cc04e1407885eb1758772f1ab04"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corp 2023 Sustainability Report - SustainabilityReports.com",
+              "snippet": "Kilroy Realty Corp 2023 Sustainability Report. The report highlights Kilroy's fourth consecutive year of carbon neutral operations, which include all Scope 1 and Scope 2 emissions, as well as Scope 3 emissions associated with downstream leased assets. The report details the company's progress on various sustainability initiatives, including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244318+00:00",
+              "published_date": null,
+              "source_hash": "2ff9439938127140ef53017b1e919f92"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Publishes Twelfth Annual Sustainability Report, Achieves ...",
+              "snippet": "Kilroy Realty Corporation (NYSE: KRC, Kilroy Realty Publishes Twelfth Annual Sustainability Report, Achieves Third Year of Carbon Neutral Operations. April 27, 2023 04:29 PM Eastern Daylight Time.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244330+00:00",
+              "published_date": null,
+              "source_hash": "d22c1cee06c3345a1d7bd74c7b1aecae"
+            },
+            {
+              "url": "",
+              "title": " KILROY REALTY - s28.q4cdn.com",
+              "snippet": "SUSTAINABILITY OVERVIEW KILROY EMPLOYEES ENVIRONMENTAL HEALTH & WELLNESS SOCIAL & COMMUNITY SUPPLY CHAIN & OTHER STAKEHOLDERS INNOVATION \u2022 Kilroy has a longstanding commitment to sustainability and is a recognized leader in the real estate sector \u2022 Our sustainability efforts are broad and include: \u2022 environmental \u2022 health & wellness",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244340+00:00",
+              "published_date": null,
+              "source_hash": "e075588f4da2a4cf4bc3e68ecb5f47df"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Publishes Thirteenth Annual Sustainability Report ...",
+              "snippet": "LOS ANGELES-(BUSINESS WIRE)-Kilroy Realty Corporation (NYSE: KRC, \"Kilroy\") recently published its thirteenth annual Sustainability Report, building on the company's longstanding track record of sustainability leadership. The 2023 Sustainability Report details continuous progress and integration of environmental, social, and governance (ESG) factors into our operations. 2023 was ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244355+00:00",
+              "published_date": null,
+              "source_hash": "82a459a5102d7551fa7ec25fd706a47e"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Publishes Thirteenth Annual Sustainability Report ...",
+              "snippet": "LOS ANGELES, April 12, 2024--Kilroy Realty Corporation (NYSE: KRC, \"Kilroy\") recently published its thirteenth annual Sustainability Report, building on the company's longstanding track record ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244366+00:00",
+              "published_date": null,
+              "source_hash": "1b7fd376e215c3300807bbb0628c0171"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Completes Significant Energy Saving Projects to Achieve Carbon ...",
+              "snippet": "Los Angeles real estate investment trust Kilroy Realty Corporation is a demonstrated leader in commercial real estate sustainability. In addition to energy and water reduction, the company continuously seeks opportunities to reduce greenhouse gas emissions and temper its impact on climate change.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244375+00:00",
+              "published_date": null,
+              "source_hash": "aa867a9c9dd9044a366c3ddceb741b85"
+            },
+            {
+              "url": "",
+              "title": "How Kilroy Realty is Lighting the Way for ESG Progress",
+              "snippet": "The company is a five-time winner of Nareit's annual Leader in the Light award for the office category, and in 2018 it won the Most Innovative award for its state-of-the-art solutions to addressing sustainability challenges. Kilroy is also included in the Dow Jones Sustainability World Index, and last year was named a global leader among all ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:17.244384+00:00",
+              "published_date": null,
+              "source_hash": "6389b4a84ca8c24e5ff54f12fa0de9db"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corp KRC",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:19.895481+00:00",
+              "published_date": "2024-11-21T00:00:00+00:00",
+              "source_hash": "42e73c39a46640f5985d23ec79a7beb8"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corp.'s SWOT analysis: office REIT stock faces leasing challenges",
+              "snippet": "This could result in downward pressure on the stock price and potentially affect dividend sustainability ... Kilroy Realty Corp. faces a complex landscape as it navigates the challenges and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:19.895583+00:00",
+              "published_date": "2024-12-16T01:03:00+00:00",
+              "source_hash": "0f43b6fc36f9f66519048a8ba9982286"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corporation (KRC)",
+              "snippet": "Kilroy Realty Corp (KRC) reports a robust third quarter with increased FFO guidance and strategic property acquisitions, despite challenges in the leasing market. Kilroy Realty (KRC) delivered FFO ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:19.895613+00:00",
+              "published_date": "2024-12-31T22:05:00+00:00",
+              "source_hash": "387fe093e32f3f6b7b65babeafc6c5c2"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Declares Quarterly Dividend",
+              "snippet": "LOS ANGELES--(BUSINESS WIRE)--Kilroy Realty Corporation (NYSE ... The Company has earned global recognition for sustainability, building operations, innovation, and design. As a pioneer and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:19.895636+00:00",
+              "published_date": "2024-12-05T16:11:00+00:00",
+              "source_hash": "c167730fa1ce8f19d12b1deb9097c608"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty (NYSE:KRC) Stock, Short Interest Report",
+              "snippet": "Short interest in Kilroy Realty Corp (NYSE:KRC) decreased during the last reporting period, falling from 7.56M to 5.76M. This put 6.72% of the company's publicly available shares short.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp sustainability challenges",
+              "retrieved_at": "2025-01-06T19:45:19.895658+00:00",
+              "published_date": "2024-10-25T15:37:00+00:00",
+              "source_hash": "2b87451d57a1b649c168512ae37ad271"
+            },
+            {
+              "url": "",
+              "title": "Two Lawsuits Filed Over One Paseo Project",
+              "snippet": "Three community groups and a competing shopping center owner have filed separate lawsuits aimed at blocking the controversial One Paseo mixed-use development in Carmel Valley, proposed by Kilroy Realty Corp. and recently approved by San Diego City Council. 64.3 F ... challenging the validity of an environmental impact report and the city's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643248+00:00",
+              "published_date": null,
+              "source_hash": "a443fd516b1a0806b0603a3bbc17875f"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corporation (KRC) - Yahoo Finance",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643274+00:00",
+              "published_date": null,
+              "source_hash": "d6ed0e36f38a27374972c4672804ecb9"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corp.'s SWOT analysis: office REIT stock faces leasing ...",
+              "snippet": "Kilroy Realty Corp. has established itself as a significant player in the office REIT sector, with a particular focus on high-quality properties in key markets. The company's portfolio includes ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643286+00:00",
+              "published_date": null,
+              "source_hash": "6aec98eb78e5f8074580248b3f8af36d"
+            },
+            {
+              "url": "",
+              "title": "Council Repeals Approval of One Paseo Project",
+              "snippet": "San Diego City Council has voted unanimously to repeal its February approval of the controversial One Paseo mixed-use project in Carmel Valley, as developer Kilroy Realty Corp. and community opponents work out details on a scaled-down version that officials can review at a later date. 52.7 F. San Diego. Monday, Dec 9, 2024 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643308+00:00",
+              "published_date": null,
+              "source_hash": "72727efb3a7d7d346a2f6d18e86f68d0"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corp. ESG Risk Rating - Sustainalytics",
+              "snippet": "Kilroy Realty is a premier owner and landlord of approximately 17 million square feet of office space across Los Angeles, San Diego, the San Francisco Bay Area, Austin, Texas, and greater Seattle. The company operates as a real estate investment trust.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643318+00:00",
+              "published_date": null,
+              "source_hash": "04f34574e34373accb0498078640eb46"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Q3 earnings beat raises sustainability questions, stock ...",
+              "snippet": "Evercore ISI also revised its occupancy projections for Kilroy Realty, anticipating a 7.6% decrease in funds from operations (FFO) in 2024 and an additional 2.6% or $0.11 decline to $4.16 in 2025 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643327+00:00",
+              "published_date": null,
+              "source_hash": "755ad4f13cbf83a441ef5face46d1659"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corporation: Commitment, Culture, People",
+              "snippet": "This West Coast-based REIT has a strong focus on sustainable development. Los Angeles-based Kilroy Realty Corporation develops sustainable, modern business environments in San Francisco, Seattle, Los Angeles and San Diego. Its strategy involves focusing on these high-growth, coastal gateway markets and through leading-edge design, driving employee retention for many of the world's leading ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643335+00:00",
+              "published_date": null,
+              "source_hash": "394e62ae51572726c27f2bb2ded9b459"
+            },
+            {
+              "url": "",
+              "title": "How Kilroy Realty is Lighting the Way for ESG Progress",
+              "snippet": "Kilroy Realty is looking for emerging technologies that improve the environmental performance of its own portfolio and accelerate change in the broader ... Sarah Neff, SVP, Sustainability, Kilroy Realty Corp. For its part, Kilroy strives to identify emerging technologies and ideas that measurably improve the environmental performance of its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643345+00:00",
+              "published_date": null,
+              "source_hash": "9b2df8d028e1f3f4479385dbb3c10845"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty - Investors - Overview - Governance Documents",
+              "snippet": "On September 25, 2024, the Board of Directors of Kilroy Realty Corporation (the \"Company\") adopted an amended and restated Code of Business Conduct and Ethics (the \"Code\"), which became effective as of September 25, 2024.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:21.643354+00:00",
+              "published_date": null,
+              "source_hash": "212ccf5aa5b63df13cc710ae3874c2b3"
+            },
+            {
+              "url": "",
+              "title": "Jefferies Downgrades Kilroy Realty (KRC)",
+              "snippet": "Fintel reports that on January 2, 2025, Jefferies downgraded their outlook for Kilroy Realty (NYSE:KRC) from Buy to Hold. Analyst Price Forecast Suggests 8.79% Upside As of December 23, 2024, the average one-year price target for Kilroy Realty is $44.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:24.218091+00:00",
+              "published_date": "2025-01-02T12:03:24+00:00",
+              "source_hash": "41d865802a026f59091c131094a24986"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty downgraded to Hold from Buy at Jefferies",
+              "snippet": "Jefferies downgraded Kilroy Realty (KRC) to Hold from Buy with a price target of $41, down from $45, as part of a 2025 office real estate",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:24.218163+00:00",
+              "published_date": "2025-01-01T23:40:26+00:00",
+              "source_hash": "f9f189aefc87e2077a35e81c755c5cd9"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Corp.'s SWOT analysis: office REIT stock faces leasing challenges",
+              "snippet": "Kilroy Realty Corp. has established itself as a significant ... it could negatively impact the company's financial performance. Leasing trends have been a mixed bag for KRC. The company reported ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:24.218191+00:00",
+              "published_date": "2024-12-16T01:03:00+00:00",
+              "source_hash": "c091039423a570202ade48dd053613d3"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Reaches Analyst Target Price",
+              "snippet": "In recent trading, shares of Kilroy Realty Corp (Symbol: KRC) have crossed above the average analyst 12-month target price of $41.00, changing hands for $41.88/share. When a stock reaches the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:24.218215+00:00",
+              "published_date": "2024-12-25T14:04:00+00:00",
+              "source_hash": "49beef81e8f63150b5778a3b1f4f4593"
+            },
+            {
+              "url": "",
+              "title": "Kilroy Realty Declares Quarterly Dividend",
+              "snippet": "LOS ANGELES--(BUSINESS WIRE)--Kilroy Realty Corporation (NYSE: KRC, \"Kilroy\") announced today that its Board of Directors declared a regular quarterly cash dividend of $0.54 per common share ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Kilroy Realty Corp Kilroy Realty Corp community impact controversies",
+              "retrieved_at": "2025-01-06T19:45:24.218237+00:00",
+              "published_date": "2024-12-05T16:11:00+00:00",
+              "source_hash": "ed2cb439a14a9b76d5a8a95db415894f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Kilroy Realty Corp tenant disputes lawsuits",
+              "rationale": "Investigate potential legal issues with tenants that could impact financial stability",
+              "priority": 1
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Kilroy Realty Corp sustainability challenges",
+              "rationale": "Explore any difficulties or controversies related to maintaining sustainability standards",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Kilroy Realty Corp community impact controversies",
+              "rationale": "Assess any social or ethical concerns regarding the company's impact on local communities",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:45:39.979580",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

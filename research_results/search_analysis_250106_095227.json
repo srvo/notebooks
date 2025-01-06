@@ -1,0 +1,520 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:52:27.927563",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Ginkgo Bioworks Holdings Inc",
+      "symbol": "DNA",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Lack of profitability and high cash burn rate",
+            "Reliance on partnerships for revenue generation",
+            "Significant stock volatility and market skepticism",
+            "Operational dependencies on key partnerships and regulatory compliance"
+          ],
+          "controversies": [
+            "SPAC merger scrutiny and overvaluation concerns",
+            "Ethical challenges related to synthetic biology and biosecurity"
+          ],
+          "environmental_issues": [
+            "Potential environmental impact of synthetic biology and genetic engineering"
+          ],
+          "social_issues": [
+            "Public perception and ethical concerns regarding synthetic biology",
+            "Biosecurity initiatives raising ethical and regulatory scrutiny"
+          ],
+          "governance_issues": [
+            "Financial instability and restructuring efforts",
+            "High R&D costs and reliance on partnerships"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks begins trading on the NYSE after completing SPAC merger",
+              "snippet": "Boston-based Ginkgo Bioworks began trading on the New York Stock Exchange on Friday, becoming the latest company to close a SPAC merger and go public.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:55.138206+00:00",
+              "published_date": null,
+              "source_hash": "5feb63822502d3d0544755f8a9c41e72"
+            },
+            {
+              "url": "",
+              "title": "Bill Gates-backed Ginkgo Bioworks going public via $15 billion SPAC",
+              "snippet": "Ginkgo Bioworks is going public via a merger with former MGM CEO Harry Sloan's SPAC in a deal that values the biotech company at $15 billion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:55.138311+00:00",
+              "published_date": null,
+              "source_hash": "71a408e07f2dd041fecae4ceabc1f722"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks - Wikipedia",
+              "snippet": "Ginkgo Bioworks is an American biotech company founded in 2008 by five scientists from MIT, [3] headed by Jason Kelly. The company specializes in using genetic engineering to produce bacteria with industrial applications for other biotech companies, saving other companies the cost of reproducing the initial stages of design in synthetic biology .",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042243+00:00",
+              "published_date": null,
+              "source_hash": "3bda671c2b65f333268fe2870655934c"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo to Pay $17.8 Million in Class Deal Over SPAC Merger, IPO",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. will pay almost $17.8 million to settle a class action alleging the biotechnology company misled investors in a proxy registration statement to secure its merger with a special purpose acquisition company and have its initial public offering. Magistrate Judge Kandis A. Westmore gave her final approval of the settlement on Dec. 13, noting the strength of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:55.138339+00:00",
+              "published_date": null,
+              "source_hash": "1c03f424669103a56832e5399322b377"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Goes Public After Closing SPAC Merger",
+              "snippet": "Shares of synthetic-biology company Ginkgo Bioworks Holdings Inc. rose on their first day of trading on the New York Stock Exchange, following the closing of its merger with a blank-check company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042290+00:00",
+              "published_date": null,
+              "source_hash": "916c04ab624bb1d1e03de52d2f1969ea"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks to be taken public by SPAC Soaring Eagle at a valuation ...",
+              "snippet": "After the deal closes, which is expected to occur in the third quarter of 2021, Soaring Eagle plans to change its name to Ginkgo Bioworks Holdings Inc., and the stock will list under a new ticker ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:55.138368+00:00",
+              "published_date": null,
+              "source_hash": "2a24511125823d69836b0a7cc5e767b8"
+            },
+            {
+              "url": "",
+              "title": "Cathie Wood's Ark Doubles Stake in SPAC Merging With Ginkgo Bioworks ...",
+              "snippet": "Ark Invest first began purchasing shares of the Ginkgo Bioworks SPAC on August 3 and now owns 14.5 million shares worth about $150 million. ... and expects to raise $2.5 billion in cash from the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:55.138377+00:00",
+              "published_date": null,
+              "source_hash": "0ed7256d989013ed8ad30b9f1508c83b"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc, DNA:NYQ profile - FT.com",
+              "snippet": "Ginkgo Bioworks Holdings Inc (DNA:NYQ) company profile with history, revenue, mergers & acquisitions, peer analysis, institutional shareholders and more. ... Legal & General Investment Management Ltd. as of 30 Sep 2024: 1.43m: 3.16%: BlackRock Fund Advisors as of 30 Sep 2024: 989.03k: 2.19%:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:55.138385+00:00",
+              "published_date": null,
+              "source_hash": "e9d24e90e91395aa1bd9f56e34a9bbe0"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks to Go Public with Over $1.6 Billion in Proceeds",
+              "snippet": "In connection with the Closing, the Company will change its name to Ginkgo Bioworks Holdings, Inc. and the combined company's shares of Class A common stock and public warrants are expected to trade on the New York Stock Exchange beginning on September 17, 2021 under the ticker symbols \"DNA\" and \"DNA.WS,\" respectively.Ginkgo Bioworks ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042365+00:00",
+              "published_date": null,
+              "source_hash": "91b0a45c819bcdbe0fe9161c66010a0d"
+            },
+            {
+              "url": "",
+              "title": "Company Ginkgo Bioworks Holdings, Inc. - MarketScreener.com",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. operates as a horizontal platform for cell programming, providing end-to-end services for organizations across diverse markets, from food and agriculture to pharmaceuticals to industrial and specialty chemicals. Its segments include Cell Engineering and Biosecurity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253058+00:00",
+              "published_date": null,
+              "source_hash": "b48ae951a83a03f4060191144ca04a8a"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc - Class A",
+              "snippet": "Ginkgo Bioworks Holdings Inc, based in Boston, Massachusetts, specializes in cell programming to revolutionize the production of various products. By manipulating cells, they create novel ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:57.570976+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "483464ab8df380ac7a8ebeb65caf5985"
+            },
+            {
+              "url": "",
+              "title": "Here's Why Ginkgo Bioworks Holdings, Inc. (DNA) Fell More Than Broader Market",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. (DNA) ended the recent trading session at $7.63, demonstrating a -1.55% swing from the preceding day's closing price. This change lagged the S&P 500's 0.28% loss on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:52:01.675281+00:00",
+              "published_date": "2024-11-05T22:36:00+00:00",
+              "source_hash": "7ff0ac62795867b72bef7ba3f75525b1"
+            },
+            {
+              "url": "",
+              "title": "State Street Corp Has $1.76 Million Position in Ginkgo Bioworks Holdings, Inc. (NYSE:DNA)",
+              "snippet": "State Street Corp cut its holdings in Ginkgo Bioworks Holdings, Inc. (NYSE:DNA - Free Report) by 97.9% in the 3rd quarter, according to its most recent 13F filing with the SEC.The firm owned ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:07.707670+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "a5a8825603dd53680593f204dd39d4cf"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q3 2024 Earnings Call Transcript",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q3 2024 Earnings Call Transcript November 12, 2024 Megan LeDuc: Good evening. I'm Megan LeDuc, Manager of Investor Relations at Ginkgo Bioworks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "retrieved_at": "2025-01-06T16:51:57.571208+00:00",
+              "published_date": "2024-11-13T14:08:00+00:00",
+              "source_hash": "84b884f9566c653b6e5cb23975e99f45"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. Class A Common Stock (DNA) Institutional Holdings",
+              "snippet": "Institutional Holdings information is filed by major institutions on form 13-F with the Securities and Exchange Commission. Major institutions are defined as firms or individuals that exercise ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:07.707674+00:00",
+              "published_date": "2021-09-17T16:59:00+00:00",
+              "source_hash": "a433cba5752ba52c58590485fd7d0bad"
+            },
+            {
+              "url": "",
+              "title": "Home | Ginkgo Bioworks",
+              "snippet": "Headquartered in Boston, Ginkgo Bioworks uses the most advanced technology on the planet\u2014biology\u2014to grow better products. Our cell programming platform enables the growth of biotechnology across diverse markets, from food to fragrance to pharmaceuticals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042138+00:00",
+              "published_date": null,
+              "source_hash": "f5f78708688c855c9f451e0c3dbbe8de"
+            },
+            {
+              "url": "",
+              "title": "Investor Relations - Ginkgo Bioworks",
+              "snippet": "Headquartered in Boston, Ginkgo Bioworks is building a platform to enable customers to program cells as easily as we can program computers. Our cell programming platform enables the growth of biotechnology across diverse markets, from food to fragrance to pharmaceuticals. Ginkgo has also actively supported a number of COVID-19 response efforts ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042258+00:00",
+              "published_date": null,
+              "source_hash": "d477e08e9795c7533662557f07c45f18"
+            },
+            {
+              "url": "",
+              "title": "About | Ginkgo Bioworks",
+              "snippet": "Headquartered in Boston, Ginkgo Bioworks uses the most advanced technology on the planet\u2014biology\u2014to grow better products. Our cell programming platform enables the growth of biotechnology across diverse markets, from food to fragrance to pharmaceuticals. ... Reshma has been active in the field of synthetic biology for 15+ years, and in 2006 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042269+00:00",
+              "published_date": null,
+              "source_hash": "1e46d977200b2bc3778b09dfb2211647"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Company Profile & Overview - Stock ...",
+              "snippet": "Ginkgo Bioworks Holdings, Inc., together with its subsidiaries, develops platform for cell programming in the United States. Its platform is used to program cells to enable biological production of products, such as novel therapeutics, food ingredients, and chemicals derived from petroleum.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042280+00:00",
+              "published_date": null,
+              "source_hash": "c647c28b04ad65098bb40fb5cf66b214"
+            },
+            {
+              "url": "",
+              "title": "Why Invest - Ginkgo Bioworks",
+              "snippet": "We have previously called biology \"the most powerful manufacturing technology on the planet,\" but it is incorrect to call biology a technology. Technologies are invented by humans. We didn't invent biology\u2014biology invented us. If you compare biology to our human-engineered technologies, our technologies come up laughably short.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042322+00:00",
+              "published_date": null,
+              "source_hash": "bc8eef4a328f23677b92e514dc81857b"
+            },
+            {
+              "url": "",
+              "title": "Synthetic biology leader Ginkgo Bioworks goes public - Axios",
+              "snippet": "Why it matters: Ginkgo's multibillion-dollar offering is a milestone in the maturation of synthetic biology from a science to a true industry. Driving the news: Ginkgo's shares \u2014 traded under the ticker symbol \"DNA\" \u2014 rose 6.6% on its first day of trading on the New York Stock Exchange, giving it a total market cap of more than $17 billion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042354+00:00",
+              "published_date": null,
+              "source_hash": "4dd2b0658080dc11c091bd526db53e6f"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Reports Fourth Quarter and Full Year 2021 Financial ...",
+              "snippet": "BOSTON, March 28, 2022 /PRNewswire/ -- Ginkgo Bioworks Holdings, Inc. (NYSE: DNA, \"Ginkgo\"), ... the risk of downturns in demand for products using synthetic biology, (vii) the unpredictability of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:51:59.042375+00:00",
+              "published_date": null,
+              "source_hash": "5a2837f411c302f23fc7ed4e92464d04"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc - Class A",
+              "snippet": "Ginkgo Bioworks Holdings Inc, based in Boston ... Founded in 2008, Ginkgo Bioworks is at the forefront of using biology to improve the world in multiple facets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:52:01.675246+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "fceb0c9c7b53f757511932f2c1212625"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q3 2024 Earnings Call Transcript",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. (NYSE:DNA) Q3 2024 Earnings Call ... We always start with our mission of making biology easier to engineer here at Ginkgo and similar to last quarter, we continue ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:52:01.675293+00:00",
+              "published_date": "2024-11-13T14:08:00+00:00",
+              "source_hash": "e7e8d183464b27ca97d7521098d073e5"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Reports Q3 Loss, Tops Revenue Estimates",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. (DNA) came out with a quarterly loss of $1.08 per share versus the Zacks Consensus Estimate of a loss of $2.40. This compares to loss of $3.60 per share a year ago.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "retrieved_at": "2025-01-06T16:52:01.675312+00:00",
+              "published_date": "2024-11-13T00:00:00+00:00",
+              "source_hash": "5f0ca07f0c8d510d6198b8a029385c97"
+            },
+            {
+              "url": "",
+              "title": "Exploring Ginkgo Bioworks Holdings, Inc. (DNA) Investor Profile: Who's ...",
+              "snippet": "The financial performance for the first half of 2024 showed a net loss of $383 million, with ongoing restructuring efforts expected to impact future profitability.The company's revenue for the second quarter was reported at $56 million, down from $80 million in the same quarter of the previous year.. In addition, Ginkgo Bioworks has undergone significant operational changes, including a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.252946+00:00",
+              "published_date": null,
+              "source_hash": "857c0d19b4def863db64e835e09c6d5f"
+            },
+            {
+              "url": "",
+              "title": "Where Will Ginkgo Bioworks Be in 5 Years? | The Motley Fool",
+              "snippet": "Ginkgo Bioworks (DNA 12.92%) is your classic high-risk, high-reward investment. The cell programming company isn't generating great results right now, its operations remain unprofitable, and it's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253015+00:00",
+              "published_date": null,
+              "source_hash": "f095c4dec5ec19f81d54b21936f41f91"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc (DNA) Reports Decline in 2023 Revenue Amid ...",
+              "snippet": "On February 29, 2024, Ginkgo Bioworks Holdings Inc released its 8-K filing, detailing its financial results for the fourth quarter and full year of 2023. The company, a leader in cell programming ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253029+00:00",
+              "published_date": null,
+              "source_hash": "946d05151152cf9de18f25f47fa09dfb"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Reports Third Quarter 2024 Financial Results - PR Newswire",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. Condensed Consolidated Statements of Cash Flows (in thousands, unaudited) Nine Months Ended September 30, 2024. 2023",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253037+00:00",
+              "published_date": null,
+              "source_hash": "f9d33f8fea108f4ff4faf22ee8159670"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc (DNA) Reports Q1 2024 Results: A ...",
+              "snippet": "Ginkgo Bioworks Holdings Inc , a leader in cell programming and biosecurity, disclosed its financial outcomes for the first quarter ended March 31, 2024, through its recent 8-K filing. The company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253044+00:00",
+              "published_date": null,
+              "source_hash": "2dbfe86b5342cd1e56b858c31e2c6496"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. - AnnualReports.com",
+              "snippet": "Ginkgo Bioworks is the leading horizontal platform for cell programming, providing flexible, end-to-end services that solve challenges for organizations across diverse markets, from food and agriculture to pharmaceuticals to industrial and specialty chemicals. ... Ginkgo Bioworks Holdings, Inc. reports have an aggregate usefulness score of 3.7 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253050+00:00",
+              "published_date": null,
+              "source_hash": "edbeb3f2305e899f047fcd2b90b30e26"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings: Hold Rating Amidst Revenue Growth and ...",
+              "snippet": "Ginkgo Bioworks Holdings (NYSE:DNA) is a biotechnology company that offers a platform for cell programming that enables the biological production of various products across the food ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253064+00:00",
+              "published_date": null,
+              "source_hash": "b642737da3bdecf3e3a279e43347af0f"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc. Wt Financial Statements - WSJ",
+              "snippet": "Ginkgo Bioworks Holdings Inc. Wt balance sheet, income statement, cash flow, earnings & estimates, ratio and margins. ... Profitability. Gross Margin +56.73: Operating Margin-267.34: Pretax Margin ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253071+00:00",
+              "published_date": null,
+              "source_hash": "bd80480ca7963f69d45ff1af2b91d993"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Reports Third Quarter 2024 Financial Results",
+              "snippet": "Ginkgo Bioworks Holdings, Inc. Condensed Consolidated Statements of Cash Flows (in thousands, unaudited) Nine Months Ended September 30, 2024. 2023",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:05.253077+00:00",
+              "published_date": null,
+              "source_hash": "92128b10e21418b3dced656437a7c613"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings Inc",
+              "snippet": "Morningstar Quantitative Ratings for Stocks are generated using an algorithm that compares companies that are not under analyst coverage to peer companies that do receive analyst-driven ratings ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:07.707644+00:00",
+              "published_date": "2025-01-03T13:00:00+00:00",
+              "source_hash": "9d9c28de8780fcf47df0a52169d58c5d"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings, Inc. (DNA) Stock Slides as Market Rises: Facts to Know Before You Trade",
+              "snippet": "The latest trading session saw Ginkgo Bioworks Holdings, Inc. (DNA) ending at $7.70 ... outlook on the company's business health and profitability. Research indicates that these estimate revisions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:07.707664+00:00",
+              "published_date": "2024-09-26T23:32:00+00:00",
+              "source_hash": "d2fb64970a64dee12e361dba3c553260"
+            },
+            {
+              "url": "",
+              "title": "Ginkgo Bioworks Holdings (NYSE:DNA) Stock Quotes, Forecast and News Summary",
+              "snippet": "What's Going On With Ginkgo Bioworks Stock This Week? Ginkgo Bioworks Holdings Inc (NYSE:DNA) shares continue to trade higher after rising nearly 10% on Tuesday. Here's a look at what's going on.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Ginkgo Bioworks Holdings Inc Ginkgo Bioworks Holdings Inc profitability challenges",
+              "retrieved_at": "2025-01-06T16:52:07.707678+00:00",
+              "published_date": "2024-10-11T02:37:00+00:00",
+              "source_hash": "a030b36fb2900e9ac682412518efdbdb"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Ginkgo Bioworks Holdings Inc SPAC merger legal issues",
+              "rationale": "Investigate potential legal challenges or controversies related to the SPAC merger",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Ginkgo Bioworks Holdings Inc synthetic biology ethical concerns",
+              "rationale": "Explore ethical debates and public perception regarding synthetic biology practices",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Ginkgo Bioworks Holdings Inc profitability challenges",
+              "rationale": "Examine financial risks and market skepticism about the company's profitability",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:52:27.927574",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

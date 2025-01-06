@@ -1,0 +1,602 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:44:22.151299",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "ServiceNow Inc",
+      "symbol": "NOW",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Cybersecurity vulnerabilities exposing sensitive data",
+            "Intellectual property litigation risks",
+            "Competitive pressures from established and emerging players",
+            "Economic sensitivity tied to enterprise IT budgets"
+          ],
+          "controversies": [
+            "Ongoing patent infringement lawsuits",
+            "Class-action lawsuit regarding 401(k) plan mismanagement"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving net-zero emissions by 2030"
+          ],
+          "social_issues": [
+            "401(k) plan controversy impacting employee trust"
+          ],
+          "governance_issues": [
+            "Allegations of poor fiduciary management in 401(k) plan"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Critical ServiceNow vulnerabilities expose businesses to data breaches ...",
+              "snippet": "This vulnerability lets attackers access and extract any data stored in the ServiceNow system. This includes sensitive information, customer data, and internal communications, posing a serious ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347245+00:00",
+              "published_date": null,
+              "source_hash": "6edb283bd7e6e10543611e8430860e68"
+            },
+            {
+              "url": "",
+              "title": "Thousands of ServiceNow KB Instances Expose Corporate Data",
+              "snippet": "Despite security updates to protect data, 45% of total enterprise instances of the cloud-based IT management platform leaked PII, internal system details, and active credentials over the past year.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347279+00:00",
+              "published_date": null,
+              "source_hash": "04b7f9bb90a467ea00588ec9cc1a0567"
+            },
+            {
+              "url": "",
+              "title": "Critical ServiceNow Vulnerabilities Left Organizations Exposed to Data ...",
+              "snippet": "Upon further analysis, security firms found that CVE-2024-4879 allows attackers to bypass authentication, giving them unrestricted access to the ServiceNow platform without any credentials. CVE-2024-5217 lets them extract any type of data hosted on the system due to arbitrary file reading capabilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347287+00:00",
+              "published_date": null,
+              "source_hash": "aab025a77c8aa9881754074ab7e52829"
+            },
+            {
+              "url": "",
+              "title": "Over 1,000 ServiceNow instances found leaking corporate KB data",
+              "snippet": "Over 1,000 misconfigured ServiceNow enterprise instances were found exposing Knowledge Base (KB) articles that contained sensitive corporate information to external users and potential threat actors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347292+00:00",
+              "published_date": null,
+              "source_hash": "45f7f15110b956b05103cefc1772dd9d"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow leak: thousands of companies at risk - Cybernews",
+              "snippet": "Digital business platform ServiceNow data vulnerability could have compromised users for years, a cybersecurity expert warns. Menu. News. ... It added: \"We proactively work with customers on the ongoing safety of their security configurations, including Access Control Lists (ACLs), to ensure they are properly structured and aligned to their ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347298+00:00",
+              "published_date": null,
+              "source_hash": "683c9ac1dad02158aed9003f39ae8363"
+            },
+            {
+              "url": "",
+              "title": "5 Things To Know About ServiceNow Data Leak Discovery - CRN",
+              "snippet": "A researcher from security vendor AppOmni uncovered more than 1,000 ServiceNow instances that have been exposing Knowledge Base data. More than 1,000 ServiceNow instances have been discovered to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347302+00:00",
+              "published_date": null,
+              "source_hash": "22065762c01e2ca0e8578ee737d1ce00"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Survey Finds Over 80% of CISOs Say Data Breaches That They ...",
+              "snippet": "SANTA CLARA, Calif. - April 20, 2017 - A new survey of 300 Chief Information Security Officers (CISOs) from around the world by ServiceNow (NYSE:NOW) spotlights the need for a new approach to respond to the rising number and cost of data security threats. In \"The Global CISO Study: How Leading Organizations Respond to Security Threats and Keep Data Safe,\" more than 80 percent of CISOs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347306+00:00",
+              "published_date": null,
+              "source_hash": "8290b9d3bd91ef4127775274343bd3e7"
+            },
+            {
+              "url": "",
+              "title": "Enterprise ServiceNow KBs exposed, leaking corporate data",
+              "snippet": "Sensitive data. ServiceNow is used by 85% of the Fortune 500 to manage IT services and processes, and companies use the service to set up systems that define, automate, manage, and structure IT ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347311+00:00",
+              "published_date": null,
+              "source_hash": "e41b89043db6051789b2cc9f9b57f750"
+            },
+            {
+              "url": "",
+              "title": "Threat Actors Exploit Fresh ServiceNow Vulnerabilities in Attacks",
+              "snippet": "Threat actors have been observed exploiting two critical-severity vulnerabilities in the ServiceNow platform less than two weeks after they were publicly disclosed, Resecurity reports. ServiceNow published advisories for the security defects, tracked as CVE-2024-4879 (CVSS score of 9.3) and CVE-2024-5217 (CVSS score of 9.2), on July 10, but ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347314+00:00",
+              "published_date": null,
+              "source_hash": "e881343e460e88717acc77f2d52fd8b3"
+            },
+            {
+              "url": "",
+              "title": "Several ServiceNow flaws are reportedly being linked together to attack ...",
+              "snippet": "Soon after, a team of researchers from Assetnote found two more flaws, tracked as CVE-2024-5178, and CVE-2024-5217, and explained how they might be leveraged in attacks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:50.347318+00:00",
+              "published_date": null,
+              "source_hash": "37c22997aa183d33fcc5d2b3a3cfcffe"
+            },
+            {
+              "url": "",
+              "title": "5 Things To Know About ServiceNow Data Leak Discovery",
+              "snippet": "A researcher from security vendor AppOmni uncovered more than 1,000 ServiceNow instances that have been exposing Knowledge Base data. More than 1,000 ServiceNow instances have been discovered to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:52.657187+00:00",
+              "published_date": "2024-09-17T17:05:00+00:00",
+              "source_hash": "13bb36c421bc7d521cdeed93dbd8708e"
+            },
+            {
+              "url": "",
+              "title": "Wipro Attackers Breach PCM And Hit ServiceNow, Others: Reports",
+              "snippet": "The cybercrime group that went after India-based Wipro and a group of other solution providers managed to breach ... Security. The group also attacked a slew of technology companies including ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:52.657294+00:00",
+              "published_date": "2019-06-27T22:56:00+00:00",
+              "source_hash": "96cca73a82314e29163560d94b8b58b8"
+            },
+            {
+              "url": "",
+              "title": "Varonis Broadens Data Security Coverage to ServiceNow",
+              "snippet": "NEW YORK, Dec. 12, 2024 (GLOBE NEWSWIRE) -- Varonis Systems, Inc. (Nasdaq: VRNS), today announced it extended its data security coverage to ServiceNow. The integration expands Varonis' coverage to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:52.657322+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "0b5d4b2bd1d52d304ea89da01cc81a84"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow (NOW) Downgraded by KeyBanc: AI Leadership and Growth Prospects Under Scrutiny",
+              "snippet": "In this article, we are going to take a look at where ServiceNow (NYSE:NOW) stands against other trending AI stocks on latest news and ratings. The demand for energy-intensive AI data centers is ... 78 ServiceNow, Inc. (NYSE:NOW) offers AI-powered workflow ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc data security breaches",
+              "retrieved_at": "2025-01-06T14:43:52.657346+00:00",
+              "published_date": "2024-12-15T19:59:27+00:00",
+              "source_hash": "1f4c82d3c24bd8c014bce09eff700e8d"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow, Inc. (NOW) Latest Stock News & Headlines - Yahoo Finance",
+              "snippet": "Investing.com -- Raymond James initiated coverage of ServiceNow Inc (NYSE:NOW) with an \"outperform\" rating and a price target of $1,200 given company's strong growth prospects at scale and its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:56.646149+00:00",
+              "published_date": "2025-01-03T21:00:00+00:00",
+              "source_hash": "ca649a0e637f88d4ccf609e5843dda93"
+            },
+            {
+              "url": "",
+              "title": "InQuisient Inc. v. ServiceNow, Inc. - UniCourt",
+              "snippet": "On July 5, 2022, InQuisient, Inc. (\"Plaintiff\" or \"InQuisient''), represented by Susan E. Morrison of Fish & Richardson P.C., filed an intellectual property lawsuit against ServiceNow, Inc. (\"Defendant\" or \"ServiceNow\"), seeking declaratory and injunctive relief, together with damages, for Defendant's alleged infringement of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091445+00:00",
+              "published_date": null,
+              "source_hash": "047a7aa0f0526458c424fb31937b65b4"
+            },
+            {
+              "url": "",
+              "title": "InQuisient Inc. v. Servicenow, Civil Action 22-900-CJB - Casetext",
+              "snippet": "I'll now move on to the second case, InQuisient, Inc., v[.]ServiceNow, Inc., Civil Action Number 22-900-CJB.In this case, we again have Defendant's Rule 12(b)(6) motion. Most, though not all, of the motion is premised on the [assertion] that the operative complaint should be dismissed on Section 101 eligibility grounds. I will address only those grounds now, and for reasons I[ will] explain, I ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091477+00:00",
+              "published_date": null,
+              "source_hash": "3251e500300be60a96fb333b12f26828"
+            },
+            {
+              "url": "",
+              "title": "Subject to Federal Rule of Evidence 408 Settlement Agreement",
+              "snippet": "WHEREAS, BMC filed lawsuits for alleged patent infringement against ServiceNow in the U.S. District Court for the Eastern District of Texas, Case No. 2:16-cv-132 EDTX, and Case No. 2:14-cv-902 EDTX; and BMC v.ServiceNow, EP 807 Dusseldorf (collectively, the \"BMC Litigations\") seeking damages and injunctive relief;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091484+00:00",
+              "published_date": null,
+              "source_hash": "9fc7744c586be466009cc1d420c8e913"
+            },
+            {
+              "url": "",
+              "title": "Hewlett-Packard Co. v. Servicenow, Inc. - Casetext",
+              "snippet": "Xilidev, Inc. v. Boku, Inc., No. 13cv2793 DMS (NLS), 2014 WL 3353256, at *1 (S.D. Cal. July 1, 2014) (internal quotation marks and citation omitted). \"The primary difference between this test and the one employed by courts in the ordinary patent reexamination context is the inclusion of the fourth factor regarding whether a stay will reduce the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091489+00:00",
+              "published_date": null,
+              "source_hash": "3793506ba97bb32882c27832f1131fc7"
+            },
+            {
+              "url": "",
+              "title": "InQuisient Inc. v. ServiceNow, Inc. 1:2022cv00900 | US District Court ...",
+              "snippet": "SO ORDERED, re #7 STIPULATION TO EXTEND TIME for Defendant to move, answer or otherwise respond to the complaint to September 12, 2022, filed by ServiceNow, Inc. Reset Answer Deadlines: ServiceNow, Inc. answer due 9/12/2022. Ordered by Judge Colm F. Connolly on 7/22/2022. (kmd) July 13, 2022: Case Assigned to Judge Colm F. Connolly.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091493+00:00",
+              "published_date": null,
+              "source_hash": "418073b0956d610e8008ff478516a1d9"
+            },
+            {
+              "url": "",
+              "title": "InQuisient Inc. v. ServiceNow, Inc., No. 1:2022cv00900 - Justia Law",
+              "snippet": "InQuisient Inc. v. ServiceNow, Inc., No. 1:2022cv00900 - Document 51 (D. Del. 2023) case opinion from the District of Delaware US Federal District Court",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091496+00:00",
+              "published_date": null,
+              "source_hash": "e9cf1a480b0166bbdbe5e92e87d49cf6"
+            },
+            {
+              "url": "",
+              "title": " Ferguson_v_ServiceNow_Inc__txndce-21-01576__0001.0.pdf",
+              "snippet": "#1.0 - Filed 07/07/2021: COMPLAINT WITH JURY DEMAND against All Defendants filed by Robert Ferguson. (Filing fee $402; Receipt number 0539-12031961) Clerk to issue summons(es). In each Notice of Electronic Filing, the judge assignment is indicated, and a link to the[LINK:Judges Copy Requirements] and[LINK:Judge Specific Requirements] is provided. The court reminds the filer that any required ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091500+00:00",
+              "published_date": null,
+              "source_hash": "cf938cdb6eab3966e57c07650cb3df5d"
+            },
+            {
+              "url": "",
+              "title": "SYED ALI V. SERVICENOW, INC., No. 19-16871 (9th Cir. 2020)",
+              "snippet": "not for publication united states court of appeals filed mar 9 2020 molly c. dwyer, clerk for the ninth circuit syed nazim ali, u.s. court of appeals no. 19-16871 plaintiff-appellant, d.c. no. 4:19-cv-03744-jsw v. memorandum* servicenow, inc., defendant-appellee.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091504+00:00",
+              "published_date": null,
+              "source_hash": "c1162dd632d18029c02000008ba996f3"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow's Now Platform Target of InQuisient Patent Suit (1)",
+              "snippet": "ServiceNow Inc. was hit with a federal lawsuit alleging its Now platform, which automates business processes across an enterprise, infringes three InQuisient Inc. patents for technology that improves the way a computer stores and uses data in a database to implement workflows. InQuisient says it learned, after \"a competitive bidding situation\" in which the two companies were pursuing the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091509+00:00",
+              "published_date": null,
+              "source_hash": "be0bdf613e158cfb619090a3c7ba7617"
+            },
+            {
+              "url": "",
+              "title": "BMC Software, Inc. v. ServiceNow, Inc. - Casetext",
+              "snippet": "Read BMC Software, Inc. v. ServiceNow, Inc., CASE NO. 2:14-CV-903-JRG, see flags on bad law, ... BMC responds that ServiceNow's complaints are actually \"factual disagreements with the information relied upon and the conclusions asserted by ITSM industry expert Mr. Frederick Leopoldi . . . and [attacks on] the factual underpinnings of Dr ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:54.091513+00:00",
+              "published_date": null,
+              "source_hash": "0c4db0122ceda5bb6ccc1e19bfdb4551"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow's Options: A Look at What the Big Money is Thinking",
+              "snippet": "for all of ServiceNow's whale activity within a strike price range from $820.0 to $1200.0 in the last 30 days. ServiceNow Inc provides software solutions to structure and automate various business ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:56.645997+00:00",
+              "published_date": "2024-12-05T13:47:00+00:00",
+              "source_hash": "35c842f1c7ea18920c844e119cd762c5"
+            },
+            {
+              "url": "",
+              "title": "Jim Cramer's New Price Target on ServiceNow (NOW): $1200",
+              "snippet": "In this article, we are going to take a look at where ServiceNow Inc (NYSE:NOW ... Number of Hedge Fund Investors: 97 \"New price target. I'm going to say the stock goes to 1200.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:56.646141+00:00",
+              "published_date": "2024-11-13T18:40:00+00:00",
+              "source_hash": "aaea992c68024299953fe4a699ef1f2c"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Implements New Executive Severance Policy",
+              "snippet": "ServiceNow ( (NOW) ) has provided an announcement.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:56.646155+00:00",
+              "published_date": "2024-12-27T21:30:00+00:00",
+              "source_hash": "f05afc7c3a7d657dc676a99e54087132"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow, Inc. (NOW)",
+              "snippet": "Investing.com -- Raymond James initiated coverage of ServiceNow Inc (NYSE:NOW) with an \"outperform\" rating and a price target of $1,200 given company's strong growth prospects at scale and its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ServiceNow Inc ServiceNow Inc pricing lawsuits",
+              "retrieved_at": "2025-01-06T14:43:56.646160+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "db2a78fd26f142acc57b143f302df409"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Sued Over Retirement Plan's American Century Funds",
+              "snippet": "Two former ServiceNow Inc. employees filed a proposed class action saying the California workplace software company's 401(k) plan is filled with poorly performing target date funds that drain workers' retirement savings.. The lawsuit challenges the software company's decision to offer the actively managed suite of American Century One Choice target date funds in its $967 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124650+00:00",
+              "published_date": null,
+              "source_hash": "357a2800c29587d9677843276e6426de"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Workers Can Start 401(k) Discovery Despite Dismissal",
+              "snippet": "Former ServiceNow Inc. employees can pursue discovery in their lawsuit challenging the target date funds in their retirement plan despite a recent decision dismissing their complaint.. ServiceNow's latest request to pause discovery is a \"transparent attempt\" to avoid a series of orders making clear that the employees can engage in limited discovery aimed at gathering facts that would ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124879+00:00",
+              "published_date": null,
+              "source_hash": "e6cd41e195841f3bd313008d61793a6c"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Looks to Kill Challenge to 401(k) Target Date Funds",
+              "snippet": "California software company ServiceNow Inc. asked a federal judge to dismiss litigation over its 401(k) plan's American Century target date funds, saying the complaint doesn't include meaningful comparisons that could support an ERISA case.. It's \"black-letter law\" that the Employee Retirement Income Security Act doesn't require plan fiduciaries to choose the best-performing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124893+00:00",
+              "published_date": null,
+              "source_hash": "aff5a3a53889217e099b1d1f006c7ed6"
+            },
+            {
+              "url": "",
+              "title": "Who else thinks ServiceNow SUCKS? : r/sysadmin - Reddit",
+              "snippet": "Been working with ServiceNow for around 7 or 8 years now. First as a customer and then as a consultant for various ServiceNow Partners. I've run into a wide array of instances, from ones that are a complete bloated mess because they were poorly implemented and poorly maintained, to instances running perfectly delivering immense value to the business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124903+00:00",
+              "published_date": null,
+              "source_hash": "3db34efd086c77b07069f8cee1867627"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow's Desai Resigns After Investigation Into Hiring Ex-Army CIO",
+              "snippet": "(Bloomberg) -- ServiceNow Inc. said President CJ Desai is leaving the company after an investigation uncovered policy violations related to a government contract and the hiring of a former US Army ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124916+00:00",
+              "published_date": null,
+              "source_hash": "cce34f7359f28ed0e0f3e10c4d07c2de"
+            },
+            {
+              "url": "",
+              "title": "Working at ServiceNow: 218 Reviews | Indeed.com",
+              "snippet": "218 reviews from ServiceNow employees about ServiceNow culture, salaries, benefits, work-life balance, management, job security, and more. Working at ServiceNow: 218 Reviews | Indeed.com Home",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124925+00:00",
+              "published_date": null,
+              "source_hash": "10209d5c598e805a65f3e2def970b6fe"
+            },
+            {
+              "url": "",
+              "title": "How is ServiceNow as a company to work for? : r/servicenow - Reddit",
+              "snippet": "Ya no. You come to Reddit to hear from live employees. Servicenow is the best job I've had and I'm 40. Salaries are below average but made up for with RSU grants and bonuses. The best part is work from life balance. I've had kids, I've had serious medical conditions that have required leave of absence, none of it has mattered.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124934+00:00",
+              "published_date": null,
+              "source_hash": "3daf53389dcd1ce17a00b0e8661e99b4"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow vs Salesforce as an employee : r/servicenow - Reddit",
+              "snippet": "I have options between entering into Salesforce or Service now as an employee. (Tuff choice, both world-class software companies). I have watched a few demos and it seems that Salesforce is going from the front end to the back office and ServiceNow is going from the back office to the front with their strategies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124943+00:00",
+              "published_date": null,
+              "source_hash": "b487ad796ddea696b9642e8811c9f8a9"
+            },
+            {
+              "url": "",
+              "title": "BMC Software, Inc. v. ServiceNow, Inc., No. 2:2014cv00903 - Document 77 ...",
+              "snippet": "BMC Software, Inc. v. ServiceNow, Inc. Doc. 77 IN THE UNITED STATES DISTRICT COURT FOR THE EASTERN DISTRICT OF TEXAS MARSHALL DIVISION BMC SOFTWARE, INC., Plaintiff, v. SERVICENOW, INC., Defendant. \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 \u00a7 CASE NO. 2:14-CV-903-JRG MEMORANDUM OPINION AND ORDER Before the Court is Defendant ServiceNow, Inc.'s Motion to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124953+00:00",
+              "published_date": null,
+              "source_hash": "a7b9a90186f7b4d100e66d8e2aeb4364"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow : What's wrong with bias training, and how to fix it",
+              "snippet": "ServiceNow, Inc. is specialized in the development of digital workflow solutions. The group delivers applications to automate the IT operations of companies, optimize employee workflows, improve business processes, etc. Net sales by revenue source are divided between sales of subscriptions (96.8%) and professional services (3.2%).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:43:58.124965+00:00",
+              "published_date": null,
+              "source_hash": "be786ae86c568849c3509da1dd9f8d5e"
+            },
+            {
+              "url": "",
+              "title": "Idris Elba is ServiceNow's secret agent man",
+              "snippet": "In a new marketing campaign for ServiceNow, the British actor plays an executive using AI to manage his company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:44:01.772952+00:00",
+              "published_date": "2024-12-23T12:33:00+00:00",
+              "source_hash": "2ce43aceba30a45bd42afa497fc2f95a"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Expands Hybrid Work Environment Capabilities With Acquisition",
+              "snippet": "the role of workplace services has never been more critical in creating great employee experiences,\" said Blake McConnell, ServiceNow senior vice president of employee workflows, in a statement.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:44:01.773074+00:00",
+              "published_date": "2021-08-11T15:59:00+00:00",
+              "source_hash": "b84d6f776ef5e0aaa664ec429273f09a"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow Inc",
+              "snippet": "Salesforce's third-quarter revenue beats on strong cloud demand ServiceNow forecast fourth-quarter ... banking on values of grit and hard work ingrained in him as the son of a single mom in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:44:01.773110+00:00",
+              "published_date": "2024-12-03T00:01:00+00:00",
+              "source_hash": "aadc9d64f5634aaee01bcf0eb4a9a7c8"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow, Inc. (NOW)",
+              "snippet": "2024--ServiceNow and Five9 expand partnership with turnkey AI-powered solution for unified employee and customer experiences SANTA CLARA, Calif., November 13, 2024--ServiceNow advances autonomous ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:44:01.773138+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "d6f942b846c610129dfe2d3f90df2894"
+            },
+            {
+              "url": "",
+              "title": "ServiceNow, Inc (NOW) and Five9 Partner to Revolutionize Customer Experience with AI",
+              "snippet": "On November 13, ServiceNow, Inc. (NYSE:NOW) and Five9 (NASDAQ:FIVN), provider of the Intelligent CX Platform, announced an expanded partnership to enhance employee and customer experiences.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ServiceNow Inc ServiceNow Inc employee workplace controversies",
+              "retrieved_at": "2025-01-06T14:44:01.773161+00:00",
+              "published_date": "2024-12-09T21:35:00+00:00",
+              "source_hash": "4c0a7aab69eb93d517fb17b11e65f8ae"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "ServiceNow Inc data security breaches",
+              "rationale": "Investigate potential data security and privacy issues, especially in regulated industries",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "ServiceNow Inc pricing lawsuits",
+              "rationale": "Explore customer complaints or legal actions related to high implementation costs or pricing disputes",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "ServiceNow Inc employee workplace controversies",
+              "rationale": "Examine any reports of workplace issues, such as discrimination or labor disputes, that could impact reputation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:44:22.151307",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

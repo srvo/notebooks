@@ -1,0 +1,544 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:01:43.871023",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "CENCORA INC COM",
+      "symbol": "COR",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Opioid litigation and legal settlements",
+            "Regulatory and compliance risks",
+            "Supply chain vulnerabilities",
+            "Pricing pressures"
+          ],
+          "controversies": [
+            "Opioid crisis-related legal settlements",
+            "Recent breach involving service providers compromising the pharmaceutical supply chain"
+          ],
+          "environmental_issues": [
+            "Commitment to sustainability initiatives aimed at reducing carbon emissions"
+          ],
+          "social_issues": [
+            "Impact of opioid crisis on public health",
+            "Efforts to improve patient outcomes through technology and digital health solutions"
+          ],
+          "governance_issues": [
+            "Regulatory compliance with the Drug Supply Chain Security Act (DSCSA)",
+            "Robust compliance program including annual training for employees"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "McKesson, Cardinal, Cencora to pay $300M settlement over role in opioid ...",
+              "snippet": "Three of the country's largest drug distributors have reached a $300 million class action settlement over allegations they contributed to the opioid crisis, Reuters reports. McKesson Corp., Cencora Inc. and Cardinal Health deny any wrongdoing but agreed to settle the McKesson opioid class action lawsuit to escape claims from health insurance companies and benefit plans over the drug ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472590+00:00",
+              "published_date": null,
+              "source_hash": "fca7a52c57892f7ad87866c481fe5755"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. - Distributors Approve Opioid Settlement Agreement",
+              "snippet": "As of February 25, 2022, more than 90 percent of eligible political subdivisions that have brought opioid-related suits against the companies, as calculated by population under the agreement, have agreed to participate in the settlement or have had their claims addressed by state legislation. The settlement will provide thousands of",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472650+00:00",
+              "published_date": null,
+              "source_hash": "2a4c93d9fbde9536ef94f3f3688bd969"
+            },
+            {
+              "url": "",
+              "title": "Distributors Reach Settlement With Ohio Counties in Opioids Case",
+              "snippet": "CLEVELAND - AmerisourceBergen (NYSE: ABC), Cardinal Health (NYSE: CAH) and McKesson (NYSE: MCK) announced this morning that they have agreed to a $215 million settlement with two Ohio counties, Cuyahoga and Summit, in the first track of the multi-district opioid litigation.With this settlement agreed upon, the companies and the other parties will now continue the work toward a global resolution.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472658+00:00",
+              "published_date": null,
+              "source_hash": "4ac07911fb664f92b759eb0b3a5388a8"
+            },
+            {
+              "url": "",
+              "title": "Drug Distributors Agree to Pay $300 Million to Health Plans",
+              "snippet": "The nation's three largest drug distributors - McKesson Corp, Cardinal Health Inc, and Cencora Inc - recently agreed to pay $300 million to health plans to settle lawsuits over their role in the opioid epidemic. The lawsuits resolved by this settlement were those brought by private benefit plans that provide health and welfare benefits to members and their families, including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472663+00:00",
+              "published_date": null,
+              "source_hash": "9d3b12cedfa1481b6e31edd755fee4d7"
+            },
+            {
+              "url": "",
+              "title": "Opioid Settlement: Drug Distributors McKesson, Cencora ... - Benzinga",
+              "snippet": "Three major U.S. drug distributors, McKesson, Cencora, and Cardinal Health, have agreed to a $300 million settlement over claims by health insurers and benefit plans that they contributed to the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472668+00:00",
+              "published_date": null,
+              "source_hash": "7b92743edb62cea28c4f0fd4f94f8c6f"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. - Distributors Reach Opioid Settlement Agreement With New ...",
+              "snippet": "AmerisourceBergen (NYSE: ABC), Cardinal Health (NYSE: CAH) and McKesson (NYSE: MCK) announced today that they have agreed to pay up to $1.179 billion in a settlement with the State of New York and its participating subdivisions, including Nassau and Suffolk Counties, to resolve opioid-related claims. This settlement was negotiated in connection with the ongoing negotiations toward a broad ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472673+00:00",
+              "published_date": null,
+              "source_hash": "aa12de5e2b532bdf1c16ac6fbefc4a2b"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. - Distributors Announce Proposed Opioid Settlement Agreement",
+              "snippet": "AmerisourceBergen (NYSE: ABC), Cardinal Health (NYSE: CAH) and McKesson (NYSE: MCK) announced today that they have negotiated a comprehensive proposed settlement agreement which, if all conditions are satisfied, would result in the settlement of a substantial majority of opioid lawsuits filed by state and local governmental entities. While the companies strongly dispute the allegations made in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472691+00:00",
+              "published_date": null,
+              "source_hash": "a440c4cd1860ec5c55a0f2376779d6de"
+            },
+            {
+              "url": "",
+              "title": "Drug distributors strike $300 million opioid settlement with US health ...",
+              "snippet": "The proposed class action settlement with McKesson Corp, Cencora Inc and Cardinal Health Inc was disclosed in a filing in federal court in Cleveland, Ohio, and requires a judge's approval.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472696+00:00",
+              "published_date": null,
+              "source_hash": "ce8983ffdfba9e205b0a79c6f5f44695"
+            },
+            {
+              "url": "",
+              "title": "Drug distributors strike $300 mln opioid settlement with US health ...",
+              "snippet": "The proposed class action settlement with McKesson Corp , opens new tab, Cencora Inc , opens new tab and Cardinal Health Inc , opens new tab was disclosed in a filing, opens new tab in federal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472699+00:00",
+              "published_date": null,
+              "source_hash": "db45c1a7d96c96a5ef5025eed397d9ab"
+            },
+            {
+              "url": "",
+              "title": "Distributors announce proposed opioid settlement | Cencora",
+              "snippet": "Under the proposed settlement agreement and process, all U.S. States, territories, and Washington DC were given 30 days to join the settlement, except West Virginia which settled previously with the companies. As of August 21, 2021, 42 out of 49 states, all 5 territories and Washington DC had affirmatively signed on to the agreement.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:09.472704+00:00",
+              "published_date": null,
+              "source_hash": "487e7eafde351cf868d034aa2a855cda"
+            },
+            {
+              "url": "",
+              "title": "McKesson, Cencora slapped with $266M in damages in Baltimore opioid lawsuit",
+              "snippet": "Leading medical distributors McKesson (NYSE:MCK) and Cencora ... a lawsuit that began six years ago. In its lawsuit, Baltimore accused the duo of ignoring its warnings that the opioids they ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:13.977615+00:00",
+              "published_date": "2024-11-13T18:35:00+00:00",
+              "source_hash": "0889043ff24cef8d38d88e607f21cae0"
+            },
+            {
+              "url": "",
+              "title": "Cencora Completes Acquisition of Retina Consultants of America",
+              "snippet": "Cencora, Inc. (NYSE: COR) today announced the completion of its previously announced acquisition of Retina Consultants of America (\"RCA\"), a leading m",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:13.977592+00:00",
+              "published_date": "2025-01-03T01:15:00+00:00",
+              "source_hash": "5be9940dd77f4bcaadc68efa57bd5ac0"
+            },
+            {
+              "url": "",
+              "title": "Cencora Breaks Below 200-Day Moving Average - Notable for COR",
+              "snippet": "In trading on Wednesday, shares of Cencora Inc (Symbol: COR) crossed below their 200 day moving average of $234.00, changing hands as low as $231.44 per share. Cencora Inc shares are currently ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:13.977608+00:00",
+              "published_date": "2024-12-11T16:05:00+00:00",
+              "source_hash": "92256a4dd676648c90aaf3f9fc2c021e"
+            },
+            {
+              "url": "",
+              "title": "Pharmaceutical giants to pay Baltimore $266M in opioid epidemic lawsuit",
+              "snippet": "Baltimore opted out of a national settlement with pharmaceutical companies over opioid addiction to ... The Justice Department also filed a lawsuit against Cencora in December 2022.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM opioid litigation settlements",
+              "retrieved_at": "2025-01-06T15:01:13.977620+00:00",
+              "published_date": "2024-11-16T02:22:00+00:00",
+              "source_hash": "519adced4bb2ebcc59cbe152fd1e5bf6"
+            },
+            {
+              "url": "",
+              "title": "Ethics and compliance - Cencora",
+              "snippet": "Cencora's Compliance Program reinforces the core elements of our approach through annual compliance training for all team members. In addition, we supplemented this Global Training with targeted trainings for employees based on their roles and responsibilities. To provide additional support, we celebrated Compliance and Ethics Week throughout ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.298866+00:00",
+              "published_date": null,
+              "source_hash": "d759222dbd9e539a19da8aa033f9e2aa"
+            },
+            {
+              "url": "",
+              "title": "Drug Supply Chain Security Act: How Cencora supports compliance",
+              "snippet": "Cencora is also making efforts to ensure that all partners are exchanging DSCSA data ahead of the 2025 deadlines for companies with exemptions. Currently, all of Cencora's distribution centers are active and capturing inbound and outbound data, and the healthcare company is already receiving more than 90% of data from its manufacturers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.298954+00:00",
+              "published_date": null,
+              "source_hash": "8ebccfd0636e65365eceef018b79f43c"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "so is a compliance violation of the intent of the FDA compliance policy which also puts Cencora at a regulatory riskof non -compliance. March 31, 2024: Cencora fully expects 100% of all sales to contain serialized databy the end of March. We need this to ensure the ability to facilitate verification against replicate data and to enable",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.298969+00:00",
+              "published_date": null,
+              "source_hash": "59cdc5c89117e9510f160017734e05b4"
+            },
+            {
+              "url": "",
+              "title": "DSCSA Compliance Amid FDA Exemptions | Cencora",
+              "snippet": "On October 9, 2024, the Food and Drug Administration (FDA) issued an exemption for eligible trading partners that will continue to delay enforcement regarding compliance with the Drug Supply Chain Security Act's (DSCSA) final enhanced drug distribution security requirements. The exemption duration varies by partner type: Manufacturers and Repackagers: Until May 27, 2025",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.298980+00:00",
+              "published_date": null,
+              "source_hash": "facef91fe06f659369acd61eaa983639"
+            },
+            {
+              "url": "",
+              "title": "Cencora Cyberattack Affects Pharmaceutical Companies",
+              "snippet": "Cencora, Inc. (earlier known as AmerisourceBergen), and its Lash Group affiliate, were impacted by a cyberattack. Cencora reported the incident in a Securities and Exchange Commission (SEC) filing in February 2024. During that time, the scope of the data breach is not yet confirmed though Cencora reported in the SEC filing the exfiltration of data [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.298991+00:00",
+              "published_date": null,
+              "source_hash": "e84a6be32fa1a53dd33685a5dd985654"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "01 About Cencora We are a leading global pharmaceutical solutions company . committed to improving the lives of people and animals . everywhere. By becoming Cencora, we unite our 46,000 team members under . one identity in pursuit of a shared purpose: We are united in our . responsibility to create healthier futures. At Cencora, we enable",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.299005+00:00",
+              "published_date": null,
+              "source_hash": "5b62550f2e7e8ab72b5d9a40c939d70f"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. - Governance - Policies",
+              "snippet": "At Cencora, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.299019+00:00",
+              "published_date": null,
+              "source_hash": "dceb2ae5032a729cc997c5d555423b2a"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. ESG Risk Rating - sustainalytics.com",
+              "snippet": "Cencora also provides commercialization services for manufacturers of pharmaceuticals and medical devices, global specialty drug logistics (World Courier), and animal health product distribution (MWI Animal Health). Cencora expanded its international presence in 2021 by purchasing Alliance Healthcare, one of the leading drug wholesalers in Europe.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.299028+00:00",
+              "published_date": null,
+              "source_hash": "a42010018b8fa6342e2fd2d975956d8f"
+            },
+            {
+              "url": "",
+              "title": "Policies - Code of Ethics and Business Conduct - Cencora, Inc.",
+              "snippet": "At Cencora, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.299038+00:00",
+              "published_date": null,
+              "source_hash": "66100ee11d2c1b8ba548eac3354d2563"
+            },
+            {
+              "url": "",
+              "title": "Cencora Inc. (via Public) / Prioritizing DSCSA Adherence to Protect ...",
+              "snippet": "Matthew Sample, SVP, Manufacturer and Replenishment Operations, Cencora (formerly AmerisourceBergen) On August 25, the U.S. Food and Drug Administration (FDA) announced that it will delay its enforcement of the Drug Supply Chain Security Act (DSCSA) until November 2024, providing manufacturers, distributors, dispensers and other trading partners a year-long \"stabilization period\" to comply ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:15.299047+00:00",
+              "published_date": null,
+              "source_hash": "095ee7c45f898e1a096d9c2b64afdc22"
+            },
+            {
+              "url": "",
+              "title": "Here's Why You Should Hold Cencora Stock in Your Portfolio for Now",
+              "snippet": "Cencora, Inc. COR is well-poised for growth on ... temperature-sensitive product handling and enhance compliance with regulatory standards. Investments in automation and continuity within its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:18.970975+00:00",
+              "published_date": "2024-12-13T14:03:00+00:00",
+              "source_hash": "0ad721371c7627e4443347e434f70d4b"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. (COR)",
+              "snippet": "As of 3:06 PM EST. Market Open. Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:18.970998+00:00",
+              "published_date": "2024-12-27T23:46:00+00:00",
+              "source_hash": "12903f928165b252677d62787d543313"
+            },
+            {
+              "url": "",
+              "title": "Ex-Dividend Reminder: Cencora, Royalty Pharma and Brookline Bancorp",
+              "snippet": "Looking at the universe of stocks we cover at Dividend Channel, on 11/15/24, Cencora Inc (Symbol: COR), Royalty Pharma plc (Symbol: RPRX), and Brookline Bancorp Inc (Symbol: BRKL) will all trade ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:18.971006+00:00",
+              "published_date": "2024-11-13T16:28:00+00:00",
+              "source_hash": "a7aa45dfc8afc9e446707b43b3abe7f1"
+            },
+            {
+              "url": "",
+              "title": "Cencora Inc. stock underperforms Monday when compared to competitors",
+              "snippet": "Shares of Cencora Inc. COR dropped 0.67% to $249.87 Monday, on what proved to be an all-around mixed trading session for the stock market, with the S&P 500 Index SPX rising 0.24% to 6,047.15 and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:18.971012+00:00",
+              "published_date": "2024-12-02T21:54:00+00:00",
+              "source_hash": "dfbe69c49a535ee0e26a7e0fe83a99ff"
+            },
+            {
+              "url": "",
+              "title": "Cencora Inc. stock underperforms Thursday when compared to competitors",
+              "snippet": "Shares of Cencora Inc. COR slipped 1.62% to $244.31 Thursday, on what proved to be an all-around rough trading session for the stock market, with the S&P 500 Index SPX falling 0.19% to 6,075.11 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CENCORA INC COM CENCORA INC COM regulatory compliance controversies",
+              "retrieved_at": "2025-01-06T15:01:18.971018+00:00",
+              "published_date": "2024-12-05T21:52:00+00:00",
+              "source_hash": "75a10350b0b04fabdf7f879ae08e67ed"
+            },
+            {
+              "url": "",
+              "title": "Cencora Breach - Supply Chain Attacks on Pharmaceuticals - Sotero",
+              "snippet": "Endo Pharmaceuticals Inc. Dendreon Pharmaceuticals LLC; The impact of this attack demonstrates quite clearly how threat actors have used service providers like Cencora to spread throughout the supply chain and compromise many other organizations. Overview of the Cencora Attack. Back in March, we wrote about the initial filing of the Cencora ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581740+00:00",
+              "published_date": null,
+              "source_hash": "0c02eb2ed55797c01f7fec11d0dd5850"
+            },
+            {
+              "url": "",
+              "title": "Drug Supply Chain Security Act: How Cencora supports compliance",
+              "snippet": "After more than 10 years of progress, the Drug Supply Chain Security Act finally took effect last month, meaning drugmakers and distributors must now provide end-to-end visibility for their products. The law requires companies to develop systems to share unit-level data for serialized products.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581763+00:00",
+              "published_date": null,
+              "source_hash": "e5925f0fd5d3b381f065093b92a632b8"
+            },
+            {
+              "url": "",
+              "title": "Partnerships help hospitals avoid Supply Chain Crisis | Cencora",
+              "snippet": "Discover how Cencora is dedicated to improving the health and well-being of people and animals around the globe. ... The virus has stretched the healthcare industry to the brink and led the global supply chain to crack under pressure as businesses struggle with product shortages, shipping delays, unprecedented demand and skyrocketing costs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581769+00:00",
+              "published_date": null,
+              "source_hash": "d249ba69d4b70f67b71ac5a4c24ced7e"
+            },
+            {
+              "url": "",
+              "title": "Cencora not expected to see 'radical' changes under new CEO, analyst ...",
+              "snippet": "Cencora posted a net loss of $3.4 billion in fiscal 2022, which it attributed to increased operating expenses, challenges related to supply chain disruptions, and opioid lawsuit legal settlements.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581774+00:00",
+              "published_date": null,
+              "source_hash": "da86c2506bf04613f0c801d7cecb84ab"
+            },
+            {
+              "url": "",
+              "title": "Supply Chain and Stewardship | ESG - Cencora",
+              "snippet": "We engage a medical ethicist to provide guidance regarding product distribution practices in the case of shortages or other distribution challenges. In FY23, Cencora began working with nonprofit Civica as their exclusive distributor and to provide supply chain support to ensure the stability of supply of essential generic medicines across the U.S.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581779+00:00",
+              "published_date": null,
+              "source_hash": "998e205f0ec285554f1b66a08a76c644"
+            },
+            {
+              "url": "",
+              "title": "Cencora Inc | Reuters",
+              "snippet": "The city of Baltimore won $266 million in its lawsuit accusing top drug distributors McKesson and Cencora of fueling an epidemic of opioid addiction in the U.S., and is expected to seek billions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581783+00:00",
+              "published_date": null,
+              "source_hash": "31fa5a8f14ecb2e3534d6213f98aea97"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. Updated August 2024: Supply Chain Analysis | Ark.ai",
+              "snippet": "Cencora, Inc. has 266 subsidiaries and 414 Tier 1 supply chain connections. Their prime government contract revenue over the past three years is $13.40B. Information about Cencora, Inc.'s federal profile including a list of suppliers, list of primes, and list of customers are included in the following tables.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581787+00:00",
+              "published_date": null,
+              "source_hash": "076f9d74ae5253a9fbc11e8db5bca11a"
+            },
+            {
+              "url": "",
+              "title": "Cencora, Inc. - Distributors Approve Opioid Settlement Agreement",
+              "snippet": "46 of 49 Eligible States and Over 90 Percent of Litigating Political Subdivisions Participate AmerisourceBergen (NYSE: ABC), Cardinal Health (NYSE: CAH) and McKesson (NYSE: MCK) announced today that each company has independently determined that there is sufficient participation by states and litigating political subdivisions to proceed with a comprehensive agreement to settle the vast ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581791+00:00",
+              "published_date": null,
+              "source_hash": "529f1c75fa3132509861ac763d166618"
+            },
+            {
+              "url": "",
+              "title": "Decoding Cencora Inc (COR): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On November 21, 2023, Cencora Inc , a leading pharmaceutical wholesaler, filed its 10-K report, revealing a year of substantial financial growth and strategic expansion. The company reported a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581795+00:00",
+              "published_date": null,
+              "source_hash": "f70acead21790df1081b46cecaa89a99"
+            },
+            {
+              "url": "",
+              "title": "Distributors Announce Proposed Opioid Settlement Agreement",
+              "snippet": "AmerisourceBergen (NYSE: ABC), Cardinal Health (NYSE: CAH) and McKesson (NYSE: MCK) announced today that they have negotiated a comprehensive proposed settlement agreement which, if all conditions are satisfied, would result in the settlement of a substantial majority of opioid lawsuits filed by state and local governmental entities. While the companies strongly dispute the allegations made in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CENCORA INC COM CENCORA INC COM supply chain disruptions lawsuits",
+              "retrieved_at": "2025-01-06T15:01:20.581799+00:00",
+              "published_date": null,
+              "source_hash": "3481eed16fd4ecd6f21d882bd33e9402"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "CENCORA INC COM opioid litigation settlements",
+              "rationale": "Investigate legal risks and financial impacts from opioid-related lawsuits",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "CENCORA INC COM regulatory compliance controversies",
+              "rationale": "Assess ethical and social risks related to regulatory scrutiny and compliance issues",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "CENCORA INC COM supply chain disruptions lawsuits",
+              "rationale": "Examine financial and legal risks from supply chain vulnerabilities and related litigation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:01:43.871030",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

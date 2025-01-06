@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:06:13.348473",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Orange SA",
+      "symbol": "ORAN",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory and legal challenges, including a \u20ac50 million fine and a \u20ac312 million tax dispute",
+            "Cybersecurity risks, highlighted by a recent cyberattack in Spain",
+            "Labor and operational disruptions, including strikes in South Africa and Europe",
+            "Market saturation and intense competition in mature markets"
+          ],
+          "controversies": [
+            "\u20ac50 million fine by CNIL for non-compliant practices in direct marketing and cookie management",
+            "\u20ac312 million tax dispute with French prosecutors",
+            "Labor strikes causing a 47% weekly increase in orange prices in South Africa"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving net-zero carbon emissions by 2040, requiring significant investment in renewable energy and energy-efficient technologies"
+          ],
+          "social_issues": [
+            "Labor disputes and strikes impacting operations and public perception",
+            "Cybersecurity incidents potentially eroding customer trust"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and potential reputational damage from non-compliant practices",
+            "Ongoing legal and financial liabilities from tax disputes"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Advertisements inserted among emails: ORANGE fined \u20ac50 million",
+              "snippet": "Background ORANGE provides its customers with an electronic messaging service (\"Mail Orange\"). Following several investigations, the CNIL found that the company was displaying advertisements in the form of emails among genuine emails in its users' inboxes. On the basis of these findings, the restricted committee - the CNIL body responsible for issuing sanctions - considered that the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867773+00:00",
+              "published_date": null,
+              "source_hash": "3075942aa39bc0f7da9bbe1b66f2054d"
+            },
+            {
+              "url": "",
+              "title": "France: CNIL fines Orange \u20ac50 million for unlawfully inserting ...",
+              "snippet": "On December 10, 2024, the French data protection authority (CNIL) published its Decision SAN-2024-019 of November 14, 2024, in which it sanctioned Orange SA \u20ac50 million for violation of the Post and Electronic Communications Code (the Communications Code) and the Act on Data Processing, Data Files, and Individual Liberties (as amended to implement the GDPR) (the Act).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751891+00:00",
+              "published_date": null,
+              "source_hash": "9d4e5264443c455158b8fb63bb6afdb5"
+            },
+            {
+              "url": "",
+              "title": "The CNIL Strikes Hard Against Orange with a EUR50 Million Fine",
+              "snippet": "The CNIL has imposed a EUR50 million fine on Orange SA (Orange), a leading French company in the telecommunications sector, for non-compliant practices relating to direct marketing and cookie management. This fine is in alignment with the French supervisory authority's strict policy in these areas. You will find below our insight:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751905+00:00",
+              "published_date": null,
+              "source_hash": "e0a7175ee029fdf23306fef30b463e9f"
+            },
+            {
+              "url": "",
+              "title": "The CNIL Strikes Hard Against Orange with a EUR50 Million Fine",
+              "snippet": "The CNIL has imposed a EUR50 million fine on Orange SA (Orange), a leading French company in the telecommunications sector, for non-compliant practices relating to direct marketing and cookie ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751915+00:00",
+              "published_date": null,
+              "source_hash": "97479bd537cb23bb390c8209a1df7b19"
+            },
+            {
+              "url": "",
+              "title": "Leading French internet operator cops hefty fine for unsolicited ads",
+              "snippet": "France's largest internet operator Orange was on Tuesday slapped with a fine of \u20ac50 million ($53-million) fine for sending unsolicited adverts resembling emails to customers. The company says it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751923+00:00",
+              "published_date": null,
+              "source_hash": "dab3b48cebf37c87f59203836c814eee"
+            },
+            {
+              "url": "",
+              "title": "Council of State backs Arcep over \u20ac26 mln fine for Orange",
+              "snippet": "Orange missed this and Arcep subsequently issued a a formal notice to comply with those commitments by 30 September 2022. Orange had contested this decision to the Council, which had rejected this appeal and upheld Arcep's decision of formal notice in a ruling dated 21 April 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751932+00:00",
+              "published_date": null,
+              "source_hash": "02bf20c6407b592cca040282ecfafa26"
+            },
+            {
+              "url": "",
+              "title": "French telecom giant Orange fined $381 million for abusing market ...",
+              "snippet": "Telecommunications group Orange SA has been fined 350 million euros ($381 million) for abusing its market dominance in France. ... Orange spokesman Tom Wright said the fine was the result of a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751941+00:00",
+              "published_date": null,
+              "source_hash": "0615c24cfb995d64bd223fd89f757f00"
+            },
+            {
+              "url": "",
+              "title": "Orange to fight \u20ac50 million CNIL fine - Lexology Pro",
+              "snippet": "The regulator attempted to justify the large fine by noting that nearly 8 million people had adverts placed in their inbox, Orange's position as France's leading telecommunications operator ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751949+00:00",
+              "published_date": null,
+              "source_hash": "dff8c01eb78097b52d84b1b666e19eb1"
+            },
+            {
+              "url": "",
+              "title": "Orange appeals 312 mln euro seizure by French prosecutors in tax dispute",
+              "snippet": "French telecoms operator Orange said on Friday it had appealed against a 312 million euro ($329.28 million) seizure by the National Financial Prosecutor's Office in a dispute over VAT.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751956+00:00",
+              "published_date": null,
+              "source_hash": "56c4eda9d258f6aea3db66797b8f8677"
+            },
+            {
+              "url": "",
+              "title": "Orange Ordered to Pay Record $280 Million in Antitrust Case",
+              "snippet": "Orange SA, the French mobile-phone carrier, was ordered to pay a rival in the Caribbean a record amount of nearly 250 million euros ($280 million) after a decade-long antitrust battle.. The Paris ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA regulatory fines and legal disputes",
+              "retrieved_at": "2025-01-06T18:05:44.751964+00:00",
+              "published_date": null,
+              "source_hash": "93a353cc3ecb1f0f2dea8673d70886cb"
+            },
+            {
+              "url": "",
+              "title": "Price of Orange in South Africa Rises by 47% WoW Due to Labor Strikes",
+              "snippet": "The wholesale price of oranges in South Africa has surged to USD .22/kg in W2 Oct-22, an increase of 47% WoW.. Supply disruption due to labor strikes leading the SA orange is on the rise.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850163+00:00",
+              "published_date": null,
+              "source_hash": "20ec3db381232bfec2350a5430af1ac5"
+            },
+            {
+              "url": "",
+              "title": "Orange SA | Reuters",
+              "snippet": "The latest international Orange SA news and views from Reuters - one of the world's largest news agencies ... Orange appeals 312 mln euro seizure by French prosecutors in tax dispute. November 15 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850269+00:00",
+              "published_date": null,
+              "source_hash": "df5c7c326fdfd301827dd4b8473c6656"
+            },
+            {
+              "url": "",
+              "title": "How to Guide for Employers: Dealing with Employee Strikes ... - LABOURED",
+              "snippet": "Essential service employees may also have limitations on strike actions. Understanding Protected Strikes: To be a protected strike, the dispute must be permissible, referred for conciliation, and remain unresolved after conciliation. Employees must give the employer at least 48 hours' notice before commencing a protected strike.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850284+00:00",
+              "published_date": null,
+              "source_hash": "5a6a5648e71117fa68b20f5849c125dc"
+            },
+            {
+              "url": "",
+              "title": "Negative Effects of Strikes on the Economy of South Africa - Editology",
+              "snippet": "Labor strikes can damage a country's reputation and competitiveness in the global market. Persistent strikes can portray an image of labor unrest and instability, deterring potential investors and affecting trade relationships. South Africa's reputation as a reliable supplier has been challenged by strikes, particularly in the mining sector.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850299+00:00",
+              "published_date": null,
+              "source_hash": "f6f5cec18cf2c84bdb1a035e7cf70cc4"
+            },
+            {
+              "url": "",
+              "title": "Unravelling Urgent Interdicts And Labour Strikes In South ... - Mondaq",
+              "snippet": "Historically, labour strikes within the mining and construction sectors have frequently emerged from contentious issues revolving primarily around wages, working conditions, and job security. These disputes have far-reaching implications, disrupting day-to-day operations and causing substantial financial losses for both employers and employees.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850312+00:00",
+              "published_date": null,
+              "source_hash": "f3746a2c1af8e00b89929ee49076ae6a"
+            },
+            {
+              "url": "",
+              "title": "Who's on strike? Labor disputes, walkouts, protests are rampant ...",
+              "snippet": "July 2: Hospitality workers from 46 Southern California hotels across L.A. and Orange counties have staged a walkout over the past month month in the largest hotel strike in California history ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850326+00:00",
+              "published_date": null,
+              "source_hash": "e5d401bd9d005447334bf4952afa7d06"
+            },
+            {
+              "url": "",
+              "title": "More Hotel Strikes Begin as Labor Disputes Continue Over Raises, Fair ...",
+              "snippet": "More Hotel Strikes Begin as Labor Disputes Continue Over Raises, Fair Workloads, and Reversing Covid-Era Cuts Hilton, Marriott, and Omni Hotel Workers Strike in Boston & San Diego; More Cities Could Announce Strikes Soon ... Orange County, and Arizona. Ada Brice\u00f1o, Susan Minato, Kurt Petersen, Co-Presidents 464 S. Lucas Ave. Suite 201 Los ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850337+00:00",
+              "published_date": null,
+              "source_hash": "7c82c96b0f7392fc30df75a5bad38b80"
+            },
+            {
+              "url": "",
+              "title": "The Dynamics of Labor Strikes: Causes, Resolutions, and ... - LinkedIn",
+              "snippet": "Labor strikes remain an integral part of the labor movement, representing the collective voice of workers seeking justice and fairness. While they arise from various motivations, the repercussions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850353+00:00",
+              "published_date": null,
+              "source_hash": "5326caebb1d00151781da55eace197c9"
+            },
+            {
+              "url": "",
+              "title": "Pharmacy Workers Approve New 3-Year Contract, Ending Labor Dispute with ...",
+              "snippet": "The 7,000-plus employees, United Food and Commercial Workers Union members reached the agreement after months of negotiations and a three-day unfair labor practice strike in Los Angeles and Orange ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850364+00:00",
+              "published_date": null,
+              "source_hash": "5cc791c8016bcca3950f85dc72517021"
+            },
+            {
+              "url": "",
+              "title": "BMW SA workers strike, and R500 million electricity meter fumble",
+              "snippet": "BMW SA workers strike: ... Meanwhile a worker claimed the issue began with labor disputes and escalated to mass dismissals affecting hundreds of people, leading to the strike.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:48.850375+00:00",
+              "published_date": null,
+              "source_hash": "a2bbd59444a2a8fc56fde20f9a5fc235"
+            },
+            {
+              "url": "",
+              "title": "Orange welcomes new fertilizer company",
+              "snippet": "Getting your Trinity Audio player ready... The city of Orange will be the new home of the fertilizer plant Tidal Grow.\u00a0 The company, based out of Washington recently received a $2.3 million Fertilizer Production Expansion Program grant from the USDA to further expand the production of seafood-based fertilizers made from local waste.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Orange SA Orange SA labor disputes and strikes",
+              "retrieved_at": "2025-01-06T18:05:52.325193+00:00",
+              "published_date": "2024-12-20T20:09:00+00:00",
+              "source_hash": "85a73989a1e51ef0dd0e1bedf85681d3"
+            },
+            {
+              "url": "",
+              "title": "Orange Cyberattack Disrupts Internet Services In Spain - The Cyber Express",
+              "snippet": "Orange emphasized that customer data remained secure, and the impact was confined to the navigation of select services. ... Global Trend: Telecom Cybersecurity Challenges. This incident comes on the heels of a recent cyberattack on Kyivstar, ... Her expertise shines through in her compelling articles on data breaches and cyberattacks. When she ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867662+00:00",
+              "published_date": null,
+              "source_hash": "146be9cfdb4b9c59d8f1bf618950a4c5"
+            },
+            {
+              "url": "",
+              "title": "The CNIL Strikes Hard Against Orange with a EUR50 Million Fine",
+              "snippet": "The CNIL has imposed a EUR50 million fine on Orange SA (Orange), a leading French company in the telecommunications sector, for non-compliant practices relating to direct marketing and cookie management. This fine is in alignment with the French supervisory authority's strict policy in these areas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867798+00:00",
+              "published_date": null,
+              "source_hash": "13a7101f7a461e25863bcc4987990ff6"
+            },
+            {
+              "url": "",
+              "title": "How Orange commits to personal data protection and information security",
+              "snippet": "With today's exponential increase in digital uses, personal data protection and information security are key issues. Tech companies are expected to provide greater data protection, transparency on how data might be used, and information in the event of any compromise. As a major service provider in Europe, Africa, and the Middle East, we are aware of our responsibilities as a trusted partner ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867815+00:00",
+              "published_date": null,
+              "source_hash": "ed542c9f5b5a95321b91d90b2c948039"
+            },
+            {
+              "url": "",
+              "title": "Orange confirms ransomware attack exposing business customers' data",
+              "snippet": "Microsoft issues urgent dev warning to update .NET installer link. Train for CISSP certifications in 2025 with the online course deal. AT&T and Verizon say networks secure after Salt Typhoon breach",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867828+00:00",
+              "published_date": null,
+              "source_hash": "328deb44fffcea72f386ee461aab49c8"
+            },
+            {
+              "url": "",
+              "title": "Orange Espana data breach leads to more ransomware attacks",
+              "snippet": "Notably, Orange Espa\u00f1a had previously disclosed details of the Aadhaar data breach affecting over 850 million Indian citizens in October 2023. In response to these escalating cybersecurity challenges, Resecurity has initiated a partnership with Cybercrime Atlas to combat global cybercrime networks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867840+00:00",
+              "published_date": null,
+              "source_hash": "76dc8537178ad4f525a503452f74d5c8"
+            },
+            {
+              "url": "",
+              "title": "Orange in Spain hit by security breach which has exposed sensitive data ...",
+              "snippet": "Orange in Spain hit by security breach which has exposed sensitive data of some customers The incident, detected in a service provider of the telecoms multinational, has revealed the name, surnames, postal address, telephone, email, DNI/NIE numbers, date of birth, nationality and the IBAN code of the current account of some clients",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867854+00:00",
+              "published_date": null,
+              "source_hash": "2b6b40faa35328084ce4a612902c744e"
+            },
+            {
+              "url": "",
+              "title": "Orange Espana breach spurs increased ransomware attacks.",
+              "snippet": "Notably, Orange Espa\u00f1a had previously disclosed details of the Aadhaar data breach, which impacted over 850 million Indian citizens in October 2023. Collaborative Efforts to Combat Cybercrime: In response to the increasing cybersecurity challenges, Resecurity has partnered with Cybercrime Atlas to form a global alliance against cybercrime ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867867+00:00",
+              "published_date": null,
+              "source_hash": "e00cb0ff6c2c8da919ededd0f47b4852"
+            },
+            {
+              "url": "",
+              "title": "Nefilim Ransomware Attack on Orange SA Exposed Customer Data",
+              "snippet": "Nefilim ransomware breached the company through its Orange Business Solutions division and added the stolen data to its data leak site on July 15, 2020. The operators published a 339MB archive file titled 'Orange_leak_part1.rar' that contained stolen emails, airplane schematics, and files from 'ATR Aircraft', a French aircraft manufacturer.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867881+00:00",
+              "published_date": null,
+              "source_hash": "a0053e8ef5ec476ccf65bf53aa2a6c06"
+            },
+            {
+              "url": "",
+              "title": "Orange Confirms Ransomware Attack Compromising Data of Business ...",
+              "snippet": "The 339MB file titled \"Orange_leak_part1.rar\" is said to contain data stolen during the cyber-attack. Researchers analyzing the files told BleepingComputer that the archive consists of emails, airplane schematics, and files from a French aircraft manufacturer, data that could indicate the company is one of Orange\"s business customers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Orange SA Orange SA cybersecurity breaches and data privacy issues",
+              "retrieved_at": "2025-01-06T18:05:53.867894+00:00",
+              "published_date": null,
+              "source_hash": "e17bcb20adcc89818fd86fb578681044"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Orange SA regulatory fines and legal disputes",
+              "rationale": "Investigate recent legal challenges and regulatory fines faced by Orange SA",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Orange SA labor disputes and strikes",
+              "rationale": "Examine recent labor disputes and strikes affecting Orange SA's operations",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Orange SA cybersecurity breaches and data privacy issues",
+              "rationale": "Assess the impact of cybersecurity breaches and data privacy concerns on Orange SA",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:06:13.348481",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

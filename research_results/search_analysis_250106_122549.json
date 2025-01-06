@@ -1,0 +1,434 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:25:49.999130",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Flex Ltd",
+      "symbol": "FLEX",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities due to global disruptions and semiconductor shortages",
+            "Geopolitical risks from operations in regions like China and Eastern Europe",
+            "Dependence on a few key customers for a significant portion of revenue"
+          ],
+          "controversies": [
+            "Scrutiny over labor conditions in low-cost manufacturing regions",
+            "Legal challenges related to labor practices, including an NLRB ruling against employee confidentiality policy"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving carbon neutrality by 2030 and reducing operational emissions by 50% by 2030"
+          ],
+          "social_issues": [
+            "Labor practices and conditions in some facilities",
+            "Human Rights Policy addressing forced labor, human trafficking, and migrant worker rights"
+          ],
+          "governance_issues": [
+            "Risk management framework covering financial, legal, compliance, and cybersecurity risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Human rights policy - Flex",
+              "snippet": "labor, involuntary prison labor, forced labor or trafficking of persons shall not be used. Workers shall not be charged any fees for placement or recruitment. Migrant workers should have free and complete access to their own passports, identity documents and residency papers and enjoy freedom of movement. Flex Human Rights Policy i)",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512762+00:00",
+              "published_date": null,
+              "source_hash": "033449061231d3a0ed5443e64abcf0fa"
+            },
+            {
+              "url": "",
+              "title": "FLEX LTD. DEF 14A - SEC.gov",
+              "snippet": "Flex Ltd. 12455 Research Blvd, ... We have also adopted a Company statement on forced labor and human trafficking which describes our global practices to address forced labor. Additionally, we provide a Human Rights Policy micro-learning course, available in 15 languages, with the objective of highlighting this policy for new employees. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512869+00:00",
+              "published_date": null,
+              "source_hash": "d30e06ee8caaa173e11793568352d65e"
+            },
+            {
+              "url": "",
+              "title": "Flex Frac Logistics, L.L.C., et al. v. NLRB, No. 12-60752 (5th Cir ...",
+              "snippet": "Flex Frac petitioned for review of an order by the NLRB holding that Flex Frac's employee confidentiality policy is an unfair labor practice in violation of Section 8(a)(1) of the National Labor Relations Act, 29 U.S.C. 158. The NLRB cross-petitioned for enforcement. The ALJ found that although there was no reference to wages or other specific terms and conditions of employment in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512883+00:00",
+              "published_date": null,
+              "source_hash": "748a0b6e1811ea21d583f38deff3e905"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Flex Frac Logistics, L.L.C. and Silver Eagle Logistics, L.L.C. (collectively, \"Flex Frac\") 1 petition for review of an order by the National Labor Relations Board (\"NLRB\")holding that Flex Frac's employee confidentiality policy is an unfair labor practice in violation of Section 8(a)(1) of the National Labor Relations Act (\"NLRA\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512896+00:00",
+              "published_date": null,
+              "source_hash": "84cd9bfe36bcd0bba0a2599bab588802"
+            },
+            {
+              "url": "",
+              "title": "An Employer Cannot Prohibit Its Employees From Discussing \"Personnel ...",
+              "snippet": "When Kathy Lopez, Flex Frac's employee was fired, she filed a charge with the NLRB, prompting the Acting General Counsel for the Board to file a complaint, alleging, inter alia, that Flex Frac promulgated and maintained a rule prohibiting employees from discussing employee wages in violation of Section 8(a)(1) of the National Labor Relations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512907+00:00",
+              "published_date": null,
+              "source_hash": "9ccac89a9545be1ab909c5b9e08fe74e"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Flex is committed to maintaining and improving systems and processes to avoid complicity with human rights violations related to our own operations, our supply chain and our products. Flex acknowledges that the forced labor and human trafficking can be connected to different practices such as slavery, bonded labor,",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512919+00:00",
+              "published_date": null,
+              "source_hash": "28836c74238ab2d1569abe6dcf34831a"
+            },
+            {
+              "url": "",
+              "title": "Protecting Human Rights - Flex Code of Business Conduct & Ethics",
+              "snippet": "We support and uphold the United Nations Universal Declaration of Human Rights (UDHR) and the United Nations Guiding Principles on Business and Human Rights (UNGPs). Consistent with those commitments, Flex: Prohibits human trafficking, forced labor and child labor; Provides safe and humane working conditions; Follows applicable wage and hour laws",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512929+00:00",
+              "published_date": null,
+              "source_hash": "008fcfe2a4a7b13b0f10b0fa6437cc91"
+            },
+            {
+              "url": "",
+              "title": "Flex Ltd. - Glancy Prongay & Murray LLP - glancylaw.com",
+              "snippet": "On April 26, 2018, Flex issued a press release disclosing allegations by a former employee that the Company improperly accounted for obligations in a customer contract and certain",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512950+00:00",
+              "published_date": null,
+              "source_hash": "0e346376d8d8e8eca13f933f5eb914f5"
+            },
+            {
+              "url": "",
+              "title": "FLEX LTD. Company Research Report - askcyborg.com",
+              "snippet": "FLEX LTD. is at the forefront of technological innovation, adopting advanced manufacturing techniques such as automation, artificial intelligence, and IoT. These technologies enable the company to deliver high-quality, cost-effective solutions. HR Practices. FLEX LTD. is committed to fostering a positive work environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512961+00:00",
+              "published_date": null,
+              "source_hash": "1169f984f1a9e73597b0d25ba97d9124"
+            },
+            {
+              "url": "",
+              "title": "Ethics and governance - Flex",
+              "snippet": "The Ethics Hotline allows Flex to detect and investigate ethical problems, to manage them responsibly, and to take measures to prevent similar problems in the future. All reports are investigated by our internal audit team, working in conjunction with compliance subject matter experts and the company's legal department, as needed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Flex Ltd Flex Ltd labor practices controversies",
+              "retrieved_at": "2025-01-06T19:25:22.512970+00:00",
+              "published_date": null,
+              "source_hash": "b04dc4eedd9901084c0010f871d26dfc"
+            },
+            {
+              "url": "",
+              "title": "FLEX LTD. DEF 14A - SEC.gov",
+              "snippet": "Flex Ltd. 12455 Research Blvd, ... We effectively navigated global supply-chain disruptions while continuing to execute on our customers' regionalization needs. ... Committee oversees the integrity of the Company's financial statements, as well as management of enterprise-wide risks and legal, compliance and cybersecurity risks ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482298+00:00",
+              "published_date": null,
+              "source_hash": "e4d319274b1ff40f43cfc903cf860c02"
+            },
+            {
+              "url": "",
+              "title": "FLEX LTD. - DEF 14A - SEC.gov",
+              "snippet": "FLEX LTD. (Name of Registrant as Specified in its Charter) ... Committee oversees the integrity of the Company's financial statements, as well as management of enterprise-wide risks and legal, compliance and cybersecurity risks ... human resources, supply chain, legal, finance and facilities/EHS. This committee meets monthly to share ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482412+00:00",
+              "published_date": null,
+              "source_hash": "09177f72f4c25769f5ca3deacd9642a1"
+            },
+            {
+              "url": "",
+              "title": "An Inside Look at Flex's Risk Management Framework in Action",
+              "snippet": "How applying various supply chain resilience levers helped us persevere amid Covid-19 disruptions By Lynn Torrel As an organization managing some 1,000 supply chains on our customers' behalf, Flex is constantly evaluating our risk mitigation models. We identify, evaluate and mitigate risks through three lenses: Serving our customers: Understanding our obligations to customers requires an\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482430+00:00",
+              "published_date": null,
+              "source_hash": "e2ecac56b9a1691dc0de910e90147dc5"
+            },
+            {
+              "url": "",
+              "title": " 01-May-2024 Flex Ltd. - s202.q4cdn.com",
+              "snippet": "Flex Ltd. (FLEX) Investor Day - Q4 2024 Corrected Transcript 01-May-2024 ... These statements involve risks and uncertainties that could cause actual results to differ materially. For a full ... the resolution to previous supply chain-related disruptions and strong execution on cost controls.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482450+00:00",
+              "published_date": null,
+              "source_hash": "f8e5c392f2e250baf577ca33ab9f868f"
+            },
+            {
+              "url": "",
+              "title": "Shifting supply chain risks from unknown to known early in the ... - Flex",
+              "snippet": "Flex operates a large and diversified global supply chain with over 16,000 trusted suppliers. To keep production on track for over 1,000 customer supply chains, we leverage our digital supply chain visualization tool, Flex Pulse.And to help make better decisions for supply chain pricing, design, and risk we are empowered with our real-time data and analytics solution, IT-Right.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482464+00:00",
+              "published_date": null,
+              "source_hash": "6961f58cabdd7d1e59e24d7ec154b5f6"
+            },
+            {
+              "url": "",
+              "title": "Decoding Flex Ltd (FLEX): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "Legal disputes and tax assessments loom as potential risks to Flex Ltd (NASDAQ:FLEX)'s financial stability. Warning! GuruFocus has detected 8 Warning Sign with FLEX.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482477+00:00",
+              "published_date": null,
+              "source_hash": "e7da61a213347f1bee7972b3b41a45f8"
+            },
+            {
+              "url": "",
+              "title": "Joint Risk Management | Flex",
+              "snippet": "By proactively addressing risk with JRM, we are using supply chain insights in the design phase to help our customers succeed and deliver a competitive advantage. Beginning in November 2023, we now proactively analyze the supply chain risks of all products manufactured by Flex, with JRM analyzing over 30,000 products each month.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482490+00:00",
+              "published_date": null,
+              "source_hash": "78e4efcd2cf1b2108ef5b2c47c3cdd15"
+            },
+            {
+              "url": "",
+              "title": "FLEX LTD. SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Flex Ltd., a global leader in supply chain solutions and manufacturing services, has released its Form 10-Q report for the period ending September 27, 2024. The report provides a comprehensive overview of the company's financial performance, business operations, strategic initiatives, and the challenges it faces in the current market environment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482502+00:00",
+              "published_date": null,
+              "source_hash": "3592b66e30373b865eaa8ec656866bc9"
+            },
+            {
+              "url": "",
+              "title": "The supply chain gambit - Flex",
+              "snippet": "The COVID-induced supply chain disruptions forced us all to become better and faster at detecting and resolving risk. The most important lesson learned, however, was that the key to success depends on supply chain resiliency. The hard truth is that supply chains are \u2014 and always will be \u2014 risky business. While we can't predict the future ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482516+00:00",
+              "published_date": null,
+              "source_hash": "45e3d4c8ab11d0ccc3e58737068fa718"
+            },
+            {
+              "url": "",
+              "title": "Flex Is Not Cheap Amid Geopolitical And Innovation Risks",
+              "snippet": "Flex is a globally diversified business, and it also operates a large global supply chain that is susceptible to disruptions from component shortages, logistical constraints, and manufacturing delays.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Flex Ltd Flex Ltd supply chain disruptions legal risks",
+              "retrieved_at": "2025-01-06T19:25:28.482530+00:00",
+              "published_date": null,
+              "source_hash": "c71febcfc6631f65cb35345ef5e7333e"
+            },
+            {
+              "url": "",
+              "title": "Flex's Net Zero Greenhouse Gas Emissions Commitment | Flex",
+              "snippet": "In 2021, we launched our most ambitious sustainability strategy to date, announcing our commitment to cut our operational emissions in half by 2030. Additionally, we committed that 100 percent of our preferred suppliers would set greenhouse gas (GHG) emissions targets by 2030 and a segment of our customers would have science-based targets by 2025.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327303+00:00",
+              "published_date": null,
+              "source_hash": "a4d036d0251ea352196c411ccb98423a"
+            },
+            {
+              "url": "",
+              "title": "Reports and Disclosures - Flex",
+              "snippet": "Explore Flex's published sustainability reports and disclosures to learn more about our sustainability journey and the progress made to date. ... that 50% of our 'Preferred Suppliers' will set their own GHG emissions reduction targets by 2025 and 100% by 2030. Our sustainability reports and disclosures. 2024 Sustainability Report ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327368+00:00",
+              "published_date": null,
+              "source_hash": "77ad5a9c3cf76f1cfeca0180842ed89b"
+            },
+            {
+              "url": "",
+              "title": "Flex Releases its 2023 Sustainability Report",
+              "snippet": "Flex (NASDAQ: FLEX) today published its 2023 sustainability report, highlighting the company's global sustainability activities, performance, and results from calendar year 2022. The report reveals Flex's progress toward its 2030 sustainability goals to reduce its environmental impact, invest in local communities, advance a safe, inclusive, and respectful workplace, drive responsible, ethical ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327384+00:00",
+              "published_date": null,
+              "source_hash": "da07d072d666b83aeda68a6b7d67a4f5"
+            },
+            {
+              "url": "",
+              "title": "Goals and Performance | Flex",
+              "snippet": "Our 2030 sustainability strategy and goals. To help make our vision a reality, we're working toward our sustainability goals through 2030, which focus on: Reducing our environmental impact; Investing in our communities; Advancing a safe, inclusive, and respectful work environment for all",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327400+00:00",
+              "published_date": null,
+              "source_hash": "d62d8ec3ec61782160e06f35b12c5a84"
+            },
+            {
+              "url": "",
+              "title": "Flex - Flex Commits to Cutting Operational Emissions in Half by 2030 ...",
+              "snippet": "New long-term sustainability strategy establishes bold environmental goals in partnership with suppliers and customers to combat climate change Flex (NASDAQ: FLEX) today announced its commitment to cut operational emissions in half by 2030 as part of the companys new long-term sustainability strategy. In partnership with suppliers and customers, Flex has set bold environmental goals to combat ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327413+00:00",
+              "published_date": null,
+              "source_hash": "7f0406ff34d87a970d200a8ed0d4dd27"
+            },
+            {
+              "url": "",
+              "title": "Flex - Flex Releases its 2024 Sustainability Report",
+              "snippet": "Flex (NASDAQ: FLEX) today published its 2024 sustainability report, highlighting the company's global sustainability performance and progress from calendar year 2023. Flex's 2030 sustainability strategy, goals and initiatives focus on minimizing the company's environmental impact, creating a safe, inclusive, and respectful work environment, investing in communities, driving ethical practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327426+00:00",
+              "published_date": null,
+              "source_hash": "612ade049ce70a37bbcfe7f2c8215e4e"
+            },
+            {
+              "url": "",
+              "title": "Progressing Our Sustainability Commitments | Flex",
+              "snippet": "Progress toward our 2030 strategy and sustainability commitments Building on more than 20 years of sustainability investment, our 2030 sustainability strategy and goals aim to help address broader environmental and social challenges, cultivate a workplace that empowers every team member to thrive, lead with integrity, and accelerate a more ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327438+00:00",
+              "published_date": null,
+              "source_hash": "e99719bcb78dbbeb2aa2f99a702c1b9a"
+            },
+            {
+              "url": "",
+              "title": "Flex Releases its 2023 Sustainability Report - PR Newswire",
+              "snippet": "The report reveals Flex's progress toward its 2030 sustainability goals to reduce its environmental impact, invest in local communities, advance a safe, inclusive, and respectful workplace, drive ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327451+00:00",
+              "published_date": null,
+              "source_hash": "fd86c2ad850c35a8620cbc1a96e83477"
+            },
+            {
+              "url": "",
+              "title": "FLEX LTD. DEF 14A - SEC.gov",
+              "snippet": "Flex Ltd. 12455 Research Blvd, Welcome Center. Austin, TX 78759 U.S.A ... provide a framework for how we make decisions and support ongoing progress on our Flex Forward strategy. ... 2030 Sustainability Goals: Continuing our purpose-driven journey, we made progress toward our sustainability goals through 2030 against a framework centered on our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327462+00:00",
+              "published_date": null,
+              "source_hash": "4c10c956f1638753f908e1eff4b5895f"
+            },
+            {
+              "url": "",
+              "title": "Flex Commits to Cutting Operational Emissions in Half by 2030; Joins ...",
+              "snippet": "Learn more about Flex's 2030 sustainability goals. About Flex. Flex (Reg. No. 199002645H) is the manufacturing partner of choice that helps a diverse customer base design and build products that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Flex Ltd Flex Ltd carbon neutrality progress 2030",
+              "retrieved_at": "2025-01-06T19:25:32.327474+00:00",
+              "published_date": null,
+              "source_hash": "2ded6edeb899cafb3b179ed19d978885"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "Flex Ltd labor practices controversies",
+              "rationale": "Investigate past and ongoing labor issues in Flex's facilities, particularly in low-cost manufacturing regions",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Flex Ltd supply chain disruptions legal risks",
+              "rationale": "Examine legal and financial risks associated with supply chain vulnerabilities, including semiconductor shortages and logistics bottlenecks",
+              "priority": 2
+            },
+            {
+              "category": "environmental_safety",
+              "query": "Flex Ltd carbon neutrality progress 2030",
+              "rationale": "Assess the company's progress and challenges in achieving its carbon neutrality goal by 2030",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:25:49.999140",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

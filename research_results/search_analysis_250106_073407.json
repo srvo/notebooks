@@ -1,0 +1,482 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:34:07.656951",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Encompass Health Corp",
+      "symbol": "EHC",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and legal challenges related to Medicare billing practices",
+            "Heavy reliance on Medicare, Medicaid, and private insurance reimbursements",
+            "Labor shortages in nursing and therapy roles",
+            "Ongoing impact of COVID-19 on staffing and operations"
+          ],
+          "controversies": [
+            "$4 million settlement for improper Medicare billing at a Nevada facility",
+            "$48 million settlement for inaccurate Medicare information and admitting ineligible patients",
+            "Criticism for admitting patients 'too sick or disabled' to benefit from intensive therapy"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Staffing shortages and supply chain disruptions affecting care quality",
+            "Ethical concerns about patient care standards"
+          ],
+          "governance_issues": [
+            "Legal settlements and compliance risks impacting investor confidence"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Encompass Health Corporation Agrees To Pay $4 Million To Resolve ...",
+              "snippet": "LAS VEGAS, Nev. - Encompass Health Corp. (EHC), formerly known as HealthSouth Corporation, has agreed to pay the United States $4 million to settle allegations that an inpatient rehabilitation facility the company owned and operated in Nevada was improperly billing Medicare. \"This significant settlement demonstrates our continued commitment to protecting the Medicare program against fraud ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574112+00:00",
+              "published_date": null,
+              "source_hash": "6f22d813588c6f13f6b587b357a074d4"
+            },
+            {
+              "url": "",
+              "title": "Office of Public Affairs | Encompass Health Agrees to Pay $48 Million ...",
+              "snippet": "Encompass Health Corporation (formerly known as HealthSouth Corporation), the nation's largest operator of inpatient rehabilitation facilities (IRFs), has agreed to pay $48 million to resolve allegations that some of its IRFs provided inaccurate information to Medicare to maintain their status as an IRF and to earn a higher rate of reimbursement, and that some admissions to its IRFs were not ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506718+00:00",
+              "published_date": null,
+              "source_hash": "7a7d58aa5b526ec28caacaf326109cb2"
+            },
+            {
+              "url": "",
+              "title": "Encompass disputes allegations of rehab for patients who were 'too sick ...",
+              "snippet": "Inpatient rehab operator Encompass Health Corporation allegedly admitted patients who were ineligible because they were too sick or disabled to participate in intensive therapy, according to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574252+00:00",
+              "published_date": null,
+              "source_hash": "91fbab2ee8a661ad6c1e89484e0cabf8"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health agrees to pay $48M in false claims case",
+              "snippet": "Encompass Health Corp., which was formerly HealthSouth Corp., is one of the largest providers of post-acute healthcare service in the U.S. with a network of inpatient rehabilitation hospitals ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574278+00:00",
+              "published_date": null,
+              "source_hash": "113a5eafd7f214506623c51557dc6d33"
+            },
+            {
+              "url": "",
+              "title": "No Surprises Act - Encompass Health",
+              "snippet": "When balance billing isn't allowed, you also have the following protections: You are only responsible for paying your share of the cost (like the copayments, coinsurance, and deductibles that you would pay if the provider or facility was in-network).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574303+00:00",
+              "published_date": null,
+              "source_hash": "7dfee59f2b564b0bfa02ce9599def501"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Settles DOJ Investigation and Related Qui Tam Lawsuits",
+              "snippet": "BIRMINGHAM, Ala., June 28, 2019 /PRNewswire/ \u2014 Encompass Health Corporation (NYSE: EHC) (\"Encompass Health\" or the \"Company\") today settled a seven-year False Claims Act (\"FCA\") investigation by the Department of Justice (\"DOJ\"), together with related qui tam or \"whistleblower\" lawsuits, for a settlement payment of $48 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574326+00:00",
+              "published_date": null,
+              "source_hash": "793f81aefb7b636b4d9cff3983b4f65d"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Agrees to Pay $48 Million to Resolve False Claims Act ...",
+              "snippet": "Encompass Health Corporation (formerly known as HealthSouth Corporation), the nation's largest operator of inpatient rehabilitation facilities (IRFs), has agreed to pay $48 million to resolve allegations that some of its IRFs provided inaccurate information to Medicare to maintain their status as an IRF and to earn a higher rate of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506845+00:00",
+              "published_date": null,
+              "source_hash": "324bd1593d42b6bcddef6b70160afe1c"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health to pay $48 mln to resolve False Claims Act allegations ...",
+              "snippet": "Encompass Health Corp has agreed to pay $48 million to resolve allegations that it violated the False Claims Act, the U.S. Justice Department said on Friday. The settlement resolves allegations in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574383+00:00",
+              "published_date": null,
+              "source_hash": "185d285c5e1f0b3a7ffa181b2cf95664"
+            },
+            {
+              "url": "",
+              "title": "Whistleblower Legal Team Announces Encompass Health Corporation ...",
+              "snippet": "BERKELEY HEIGHTS, N.J., June 28, 2019 /PRNewswire/ -- Encompass Health Corporation, formerly HealthSouth Corporation (\"Encompass\") has agreed to pay $48,000,000 to resolve allegations that it violated the False Claims Act (\"FCA\") by providing inaccurate information on Patient Assessment Instrument forms (\"IRF-PAIs\") for patients Encompass improperly indicated required ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574404+00:00",
+              "published_date": null,
+              "source_hash": "bd3768a9aa7708ebedd91442f05bc1da"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health to pay $48 million in DOJ settlement",
+              "snippet": "BIRMINGHAM, Ala. (AP) \u2014 The Department of Justice says Encompass Health, one of the nation's largest providers of inpatient rehabilitation services, has agreed to pay $48 million to resolve allegations of fraudulent Medicare billing. The Justice Department announced the settlement Friday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:34.574429+00:00",
+              "published_date": null,
+              "source_hash": "86a8c4fdecaba7aed5872648c7d4f3b7"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health wins lawsuit tied to former leader's misconduct, awarded profits from entity",
+              "snippet": "Encompass Health Corp. (NYSE: EHC) and its subsidiary, Enhabit Home Health & Hospice (NYSE: EHAB), were awarded judgment in a case Dec. 2. The lawsuit is related to reported breaches of fiduciary ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:42.992238+00:00",
+              "published_date": "2024-12-11T00:00:00+00:00",
+              "source_hash": "f5bc6473c256ff594d77efcf224cfe0b"
+            },
+            {
+              "url": "",
+              "title": "Birmingham health care entity expanding footprint in Maine",
+              "snippet": "Encompass Health Corp. (NYSE: EHC) is planning to build a freestanding, 50-bed inpatient rehabilitation hospital at 1017 Union Street in Bangor, Maine. It is expected to open in 2027. Encompass ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp legal disputes billing practices",
+              "retrieved_at": "2025-01-06T14:33:38.052137+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "542b19d20ea4c082043518fce7acf1fa"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health reports results for fourth quarter 2023 and issues ...",
+              "snippet": "Encompass Health Corporation and Subsidiaries. Condensed Consolidated Statements of Cash Flows (Continued) (Unaudited) For the Year Ended. December 31, 2023. 2022 (In Millions) Increase (decrease) in cash, cash equivalents, and restricted cash. 50.8 (66.9) Cash, cash equivalents, and restricted cash at beginning of period. 53.4. 120.3",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506827+00:00",
+              "published_date": null,
+              "source_hash": "1abf23e1d542788a73cdebeef8959ce2"
+            },
+            {
+              "url": "",
+              "title": "Middle District of Florida | Encompass Health Agrees To Pay $48 Million ...",
+              "snippet": "WASHINGTON - Encompass Health Corporation (formerly known as HealthSouth Corporation), the nation's largest operator of inpatient rehabilitation facilities (IRFs), has agreed to pay $48 million to resolve allegations that some of its IRFs provided inaccurate information to Medicare to maintain their status as an IRF and to earn a higher rate of reimbursement, and that some admissions to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506858+00:00",
+              "published_date": null,
+              "source_hash": "d881775342b9c67d2fcfaa3d0451b7e0"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Corporation - Encompass Health reports results for ...",
+              "snippet": "Encompass Health Corporation (NYSE: EHC), the largest owner and operator of inpatient rehabilitation hospitals in the United States, today reported its results of operations for the fourth quarter ended December 31, 2022. The fourth quarter was a very strong finish to 2022 driving our full-year results to the top end of our guidance range, said Mark Tarr, President and Chief Executive Officer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439429+00:00",
+              "published_date": null,
+              "source_hash": "ddbe859f2635a8390cd72cd753927144"
+            },
+            {
+              "url": "",
+              "title": " Encompass Health Corporation - IN.gov",
+              "snippet": "that Encompass Health Corporation, the publicly traded parent company, owns or operates any specific asset, business, or property. ... the spread and impact of the COVID-19 pandemic, changes to Medicare reimbursement and other healthcare laws and regulations from time to time, our business strategy and ongoing strategic review, our dividend and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506881+00:00",
+              "published_date": null,
+              "source_hash": "22cfac7aea3b996c956c82a4d0374cb8"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health reports results for first quarter 2024 - PR Newswire",
+              "snippet": "Increases full-year guidance. BIRMINGHAM, Ala., April 24, 2024 /PRNewswire/ -- Encompass Health Corporation (NYSE: EHC), the largest owner and operator of inpatient rehabilitation hospitals in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506894+00:00",
+              "published_date": null,
+              "source_hash": "7c438feddfefcbfc189e730548380038"
+            },
+            {
+              "url": "",
+              "title": "Medicare Part A Hospital Insurance For Encompass Health Employees",
+              "snippet": "Encompass Health offers a comprehensive benefits package that includes both a 401(k) plan and other retirement options. In 2022, 2023, and 2024, Encompass Health continued to provide the Encompass Health Retirement Investment Plan, which allows employees to contribute up to 100% of their pay on a pre-tax basis, subject to IRS limits.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506905+00:00",
+              "published_date": null,
+              "source_hash": "17a10962bde7659190426d89d1654249"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Corporation - Encompass Health reports results for ...",
+              "snippet": "Encompass Health Corporation (NYSE: EHC), a national leader in integrated healthcare, offering facility-based and home-based patient care through its network of inpatient rehabilitation hospitals, home health agencies and hospice agencies, today reported its results of operations for the fourth quarter ended December31, 2020. We are pleased with our performance in 2020, which demonstrates the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506915+00:00",
+              "published_date": null,
+              "source_hash": "274690a3313539b90f4521355842d14e"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Corp (EHC) 10-K Annual Report February 2022 - Last10K.com",
+              "snippet": "Encompass Health Corp (EHC) SEC Filing 10-K Annual Report for the fiscal year ending Friday, December 31, 2021. HOME; ... -store growth of 6.0% \u0178 Growth in net patient revenue per discharge of 1.2% primarily resulted from an increase in reimbursement rates partially offset by payor mix (faster growth in Managed Care and Medicare Advantage). u ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:39.506925+00:00",
+              "published_date": null,
+              "source_hash": "2ea3526266a9c6468d0276dfbedb2037"
+            },
+            {
+              "url": "",
+              "title": "Birmingham health care entity expanding footprint in Maine",
+              "snippet": "A Birmingham-based health care system has been on a growing spree lately and recently released plans to open its second location in Maine. Encompass Health Corp. (NYSE: EHC) is planning to build a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:47.893993+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "a67088c336dcad22f3f001b4ff6f1d63"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Corporation",
+              "snippet": "Encompass Health Corp. engages in the provision ... The Home Health and Hospice segment provides Medicare-certified home nursing, specialized home care and in-home services. The company was ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Encompass Health Corp Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "retrieved_at": "2025-01-06T14:33:42.992275+00:00",
+              "published_date": "2020-08-16T19:04:00+00:00",
+              "source_hash": "5e1a0a887d308f544b882f3a1912cbbf"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Announces Preliminary Plans to Build a 50-bed Inpatient Rehabilitation Hospital in Bangor",
+              "snippet": "and BANGOR, Maine, Dec. 18, 2024 /PRNewswire/ -- Encompass Health Corp. (NYSE ... In addition to 24-hour nursing care, the hospital will offer physical, occupational and speech therapies to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:47.894137+00:00",
+              "published_date": "2024-12-18T00:00:00+00:00",
+              "source_hash": "a7fd8f155f3f6b2d75206dc28ed3c06f"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Announces Preliminary Plans to Build a 50-bed Inpatient Rehabilitation Hospital in Wesley Chapel",
+              "snippet": "Nov. 4, 2024 /PRNewswire/ -- Encompass Health Corp. (NYSE: EHC ... In addition to 24-hour nursing care, the hospital will offer physical, occupational and speech therapies to restore functional ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:47.894201+00:00",
+              "published_date": "2024-11-04T21:20:00+00:00",
+              "source_hash": "fd4a3784ee0f314370fc075876123e9a"
+            },
+            {
+              "url": "",
+              "title": "'We Were Just Undermanned': Reduced Quarantines, Rising Inflation ...",
+              "snippet": "Encompass Health Corporation (NYSE: EHC) continues to rebound from the recent staffing woes within its hospice and home health segment. But in light of rising COVID-19 cases and hospitalization rates across the U.S., that near-term optimism coming from Encompass Health - and many of its peers - could prove short-lived.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439337+00:00",
+              "published_date": null,
+              "source_hash": "5e9e727cded3d20e3206b60680790e13"
+            },
+            {
+              "url": "",
+              "title": "Strengthening the Healthcare Supply Chain - Encompass Health Connect",
+              "snippet": "Since early 2020, healthcare providers have faced many of the same supply chain issues as other industries, often dealing with critical supply shortages alongside a global scarcity of nursing staff. Strengthening the supplier network while facing obstacles brought on by the COVID-19 pandemic has been challenging, but Encompass Health has made a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439443+00:00",
+              "published_date": null,
+              "source_hash": "2dc1871721cf35591a476397b7300479"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Announces Preliminary Plans to Build a 50-bed ...",
+              "snippet": "About Encompass Health Encompass Health (NYSE: EHC) is the largest owner and operator of rehabilitation hospitals in the United States.With a national footprint that includes 166 hospitals in 38 states and Puerto Rico, the Company provides high-quality, compassionate rehabilitative care for patients recovering from a major injury or illness, using advanced technology and innovative treatments ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439456+00:00",
+              "published_date": null,
+              "source_hash": "077ad9caad584fdd06adf7e1d2377663"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Announces Preliminary Plans to Build a 50-bed ...",
+              "snippet": "Encompass Health Corp. (NYSE: EHC) today announced preliminary plans to build a freestanding, 50-bed inpatient rehabilitation hospital in the master planned community of Wiregrass Ranch in Wesley ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439467+00:00",
+              "published_date": null,
+              "source_hash": "b082d94c4da5541014dd88088f427327"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health - Nursing",
+              "snippet": "Come explore nursing opportunities with the nation's largest provider of inpatient rehabilitation. With over 160 locations, one of the best parts of nursing close to home is the shorter commute, of course. At Encompass Health, we're not in triage mode all day long.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439477+00:00",
+              "published_date": null,
+              "source_hash": "dad975706be992bd38ca90c582a52a20"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Corporation - Encompass Health Corp. announces plans ...",
+              "snippet": "Encompass Health Corp. (NYSE: EHC) today announced its plans to construct a 40-bed inpatient rehabilitation hospital in Prosper, Texas. The future hospital will join Encompass Health hospital locations in Arlington, Bedford, Dallas, Fort Worth, Plano and Richardson in providing high-quality rehabilitative care for patients in the Dallas-Fort Worth region. Complementing local acute care ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439488+00:00",
+              "published_date": null,
+              "source_hash": "ff853c76e1d850aca59f5e82edca71f9"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Corporation - Encompass Health announces plans to ...",
+              "snippet": "Encompass Health Corp. (NYSE: EHC) today announced it plans to build Encompass Health Rehabilitation Hospital of Wildwood, a freestanding, 50-bed inpatient rehabilitation hospital in The Villages, Florida. The hospital will be located south of the Meggison Avenue and Warm Springs intersection. Complementing local acute care services, the future hospital will serve patients recovering from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439497+00:00",
+              "published_date": null,
+              "source_hash": "7518d31c61762bb78ffd6acc95efa940"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Announces Preliminary Plans to Build a 50-bed ... - Nasdaq",
+              "snippet": "BIRMINGHAM, Ala. and WESLEY CHAPEL, Fla., Nov. 4, 2024 /PRNewswire/ -- Encompass Health Corp. (NYSE: EHC) today announced preliminary plans to build a freestanding, 50-bed inpatient rehabilitation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439507+00:00",
+              "published_date": null,
+              "source_hash": "cc4312b9391139c5790938b33d18db37"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health Rehabilitation Hospital of Utah - Official MapQuest",
+              "snippet": "At Encompass Health Rehabilitation Hospital of Utah, we are committed to helping you or a loved one recover after a serious illness or injury. After a stroke, brain injury, hip fracture or other complex orthopedic or neurological condition, our expert clinicians combine the latest technologies with real-world simulations and advanced therapies ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:44.439516+00:00",
+              "published_date": null,
+              "source_hash": "3a2fd1ef5f50a2f3f54949443c9e0068"
+            },
+            {
+              "url": "",
+              "title": "Encompass Health and Piedmont announce joint venture to own and operate rehabilitation hospital in Augusta, Georgia",
+              "snippet": "Patients receive a minimum of three hours of intensive therapy for five days each week, frequent physician visits and 24-hour nursing ... shortages and the impact on Encompass Health's labor ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Encompass Health Corp Encompass Health Corp labor shortages nursing therapy",
+              "retrieved_at": "2025-01-06T14:33:47.894172+00:00",
+              "published_date": "2024-11-07T00:00:00+00:00",
+              "source_hash": "6c589b18a5ae0e4263f5f2372677d66b"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Encompass Health Corp legal disputes billing practices",
+              "rationale": "Investigate ongoing or past legal issues related to billing and compliance with healthcare regulations",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Encompass Health Corp Medicare Medicaid reimbursement issues",
+              "rationale": "Examine the impact of changes in government reimbursement rates on the company's financial health",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Encompass Health Corp labor shortages nursing therapy",
+              "rationale": "Assess the extent and impact of staffing shortages in critical healthcare roles",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:34:07.656957",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

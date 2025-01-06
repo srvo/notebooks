@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:46:46.765130",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "IRadimed Corporation",
+      "symbol": "IRMD",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Product safety issues, including failure to deliver medication and lack of alarms",
+            "Regulatory and compliance risks, including potential delays in FDA 510(k) clearance",
+            "Supply chain vulnerabilities due to reliance on limited suppliers",
+            "Intense market competition in the MRI-compatible devices niche"
+          ],
+          "controversies": [
+            "Multiple MAUDE reports highlighting adverse events with infusion pumps",
+            "Class 2 recall of the MRidium 1057 MRI Syringe Adapter Set due to inlet occlusion risks",
+            "Insider stock sales, such as the CFO\u2019s $135K sale, raising questions about management confidence"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical concerns regarding device reliability and patient outcomes due to adverse events and recalls"
+          ],
+          "governance_issues": [
+            "Potential governance concerns related to insider stock sales and management\u2019s confidence in the company\u2019s prospects"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "MAUDE Adverse Event Report: IRADIMED CORP. IRADIMED; PUMP, INFUSION",
+              "snippet": "IRADIMED CORP. IRADIMED; PUMP, INFUSION: Back to Search Results: Model Number 1057: ... a few minutes later port noted to be open and leaking again.New fluids obtained and line changed to regular tubing.No issues with line infusing since.Tubing given to nurse educator. ... Was the Report Sent to FDA? Yes Date Report Sent to FDA: 07/02/2022:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356279+00:00",
+              "published_date": null,
+              "source_hash": "b98b5428f773cd0a37746fab296fa435"
+            },
+            {
+              "url": "",
+              "title": "Class 2 Device Recall MRidium 1057 MRI Syringe Adapter Set",
+              "snippet": "FDA Determined Cause 2: Process control: Action: Iradimed Corporation issued an URGENT MEDICAL DEVICE CORRECTION notice to its consignees on 02/24/2023 by certified mail. The notice explained the issue and the risk and provided updated instructions for use to mitigate the potential risk of inlet occlusion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356394+00:00",
+              "published_date": null,
+              "source_hash": "e6a1a46811bb47800eaa95e914022249"
+            },
+            {
+              "url": "",
+              "title": "MAUDE Adverse Event Report: IRADIMED CORP. IRADIMED; PUMP, INFUSION",
+              "snippet": "The iradium pump was programmed with the medication, propofol, at a particular infusion rate, however, the anesthesiologist visibly noticed that the medication was not flowing at the programmed rate.The infusion medications were not being delivered, and the pumps did not alarm nor indicate any problem.Due to the lack of medication infusion, the patient moved at a critical point in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610420+00:00",
+              "published_date": null,
+              "source_hash": "3b2b11e5ca19de4de972f0e6f986c7fb"
+            },
+            {
+              "url": "",
+              "title": "iRadimed clears 5-year-old warning letter - Drug Delivery Business",
+              "snippet": "iRadimed (NSDQ:IRMD) last week finally cleared a five-year-old warning letter from the FDA issued over quality issues with its IV infusion pumps.. The August 2014 warning letter chided Winter Springs, Fla.-based Iradimed for its complaint handling and ordered it to seek a new 510(k) clearance for software upgrades to one of the pumps, the mRidium 3860+, ordering the company to pull the device ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356429+00:00",
+              "published_date": null,
+              "source_hash": "dee7032390b6dde4a3951cec0299cf27"
+            },
+            {
+              "url": "",
+              "title": "FDA issues Class I recall on infusion technology made by Iradimed",
+              "snippet": "Filed Under: Drug Pumps, Food & Drug Administration (FDA), News Well, Recalls, Regulatory/Compliance Tagged With: Iradimed Corp More recent news Lungpacer Medical wins FDA premarket approval for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356444+00:00",
+              "published_date": null,
+              "source_hash": "1e297114ee4242d3cd40afcfd5be11d1"
+            },
+            {
+              "url": "",
+              "title": "Pump Compliance \u2014 IRadimed",
+              "snippet": "IRadimed's non-magnetic design allows our flagship products to operate safely in ultra high magnetic fields, eliminating the need for long lines and other workarounds used with traditional infusion pumps. IRadimed is the only non-magnetic IV pump manufacturer with FDA clearance to operate in MRI Zone IV at the patient bedside.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356457+00:00",
+              "published_date": null,
+              "source_hash": "6c1e69490993f063b13430dc535ba46f"
+            },
+            {
+              "url": "",
+              "title": "Iradimed Corp FDA Filings",
+              "snippet": "This page includes the latest FDA filings for Iradimed Corp. Currently, you will find the latest 100 filings for Premarket Notifications, Premarket Applications, De Novo Applications, and GUDID registrations. ... FDA Registration(s) Registration Number: 3005053560: FEI Number: 3005053560: Name: IRADIMED CORPORATION: Owner & Operator: IRADIMED ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356478+00:00",
+              "published_date": null,
+              "source_hash": "49530008952baf781ae4f49a4c475f08"
+            },
+            {
+              "url": "",
+              "title": "IRadimed Corporation Hit With FDA Warning Letter - BioSpace",
+              "snippet": "IRADIMED CORPORATION Announces Receipt of FDA Warning Letter. WINTER SPRINGS, Fla., Sept. 2, 2014 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (Nasdaq:IRMD) today announced that it received a warning letter from the U.S. Food and Drug Administration (\"FDA\") relating to an inspection of the Company's facility that took place in April 2014.The Company has provided certain additional ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356491+00:00",
+              "published_date": null,
+              "source_hash": "f403c9e9cb371adc5fc8bd0a69a60897"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Issues Urgent Medical Device Correction",
+              "snippet": "Letter Notifying Customers of Potential Issues with MRidium 1057 MRI Syringe Adapter SetWINTER SPRINGS, Fla., Feb. 24, 2023 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company\") (NASDAQ ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356504+00:00",
+              "published_date": null,
+              "source_hash": "539aaad0f480b044627f77ba8497a2de"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Withdraws 510(k) with Plans to Resubmit After ...",
+              "snippet": "Announces Preliminary Financial Results for Third Quarter 2022WINTER SPRINGS, Fla., Oct. 10, 2022 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company\") (NASDAQ: IRMD) today announced that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:17.356517+00:00",
+              "published_date": null,
+              "source_hash": "7f0725dcf058ce4e6de0e5e4bdaae9f7"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan Healthcare Conference",
+              "snippet": "Dec. 19, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company ... the Company's ability to receive U.S. Food and Drug Administration (\"FDA\") 510(k) clearance for new products ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:19.856965+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "f3f55b9961c7d6e3bf0abde416b7d6ad"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small-Cap Companies for 2025",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company ... the Company's ability to receive U.S. Food and Drug Administration (\"FDA\") 510(k) clearance for new products ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:19.857067+00:00",
+              "published_date": "2024-12-10T08:30:00+00:00",
+              "source_hash": "0187e774883f5d1cc07ef81facc159e8"
+            },
+            {
+              "url": "",
+              "title": "iRadimed Chief Financial Officer Sold $135K In Company Stock",
+              "snippet": "All You Need to Know About iRadimed iRadimed Corp develops, manufactures, markets and distributes a Magnetic Resonance Imaging (MRI) compatible intravenous (IV) infusion pump system, and MRI ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:19.857096+00:00",
+              "published_date": "2024-12-03T10:01:00+00:00",
+              "source_hash": "a0b74d11ce0f31bba3a1448aa197eb42"
+            },
+            {
+              "url": "",
+              "title": "Should You Investigate IRADIMED CORPORATION (NASDAQ:IRMD) At US$54.43?",
+              "snippet": "While IRADIMED CORPORATION (NASDAQ:IRMD) might not have the largest market cap around , it led the NASDAQGM gainers with a relatively large price hike in the past couple of weeks. The recent share ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:19.857119+00:00",
+              "published_date": "2024-12-13T00:00:00+00:00",
+              "source_hash": "f00ea45dfbcf85886dbee01defdd533d"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small-Cap Companies for 2025",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company\") (NASDAQ ... the Company's ability to receive U.S. Food and Drug Administration (\"FDA\") 510(k) clearance for new products and product candidates; unexpected costs, delays or ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation FDA compliance issues",
+              "retrieved_at": "2025-01-06T17:46:19.857143+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "98f350e3c7e63da65effd8fbd211260d"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan ... - Nasdaq",
+              "snippet": "The mention of potential disruptions in the limited supply chain for products could signal vulnerabilities that might affect operations and financial stability. ... About IRADIMED CORPORATION.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366751+00:00",
+              "published_date": null,
+              "source_hash": "4279499460378b9e697e81977e775f1b"
+            },
+            {
+              "url": "",
+              "title": "iRadimed Corporation Updated August 2024: Supply Chain Analysis | Ark.ai",
+              "snippet": "The resulting vendor analysis and supplier profile includes a supply chain analysis, an evaluation of key subcontractors and prime contractors, and an assessment of their compliance risk and supply chain risk. The analysis of iRadimed Corporation resulted in the following statistics. iRadimed Corporation has 1 subsidiary and 8 tier 1 supply ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366856+00:00",
+              "published_date": null,
+              "source_hash": "33539551f7c44de2f4546ebecc6eabc8"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Announces Third Quarter of 2024 - GlobeNewswire",
+              "snippet": "Risks and uncertainties that may affect the future results of the company include, but are not limited to; potential disruptions in our limited supply chain for our products; the Company's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366876+00:00",
+              "published_date": null,
+              "source_hash": "e7b94f2477797afba800a6198b28e461"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Announces Second Quarter of 2024 Financial Results ...",
+              "snippet": "IRADIMED CORPORATION is a leader in developing innovative Magnetic Resonance Imaging (\"MRI\") compatible medical devices. We design, manufacture, market, and distribute MRI-compatible medical devices and accessories, disposables, and related services. ... but are not limited to; potential disruptions in our limited supply chain for our ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366891+00:00",
+              "published_date": null,
+              "source_hash": "affa99b1bf4e6c83870ec0d62221eb13"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "pandemic, including the impact of existing and new variants, and measures taken in response; potential disruptions in our lim ited supply chain for our products; the Company's ability to receive FDA 510(k) clearance for new products and product candidates; ... Iradimed begins selling the 2nd gen 3860 IV pump through a direct sales force. 2014 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366904+00:00",
+              "published_date": null,
+              "source_hash": "72b3bff238dfbd158d05db8c6bff1557"
+            },
+            {
+              "url": "",
+              "title": "Iradimed Corporation Achieves 24th Place on Forbes' List of America's ...",
+              "snippet": "The mention of potential disruptions in the supply chain and the reliance on a limited number of products raises concerns about the company's operational stability and long-term growth prospects. ... About IRADIMED CORPORATION IRADIMED CORPORATION is a leader in developing innovative Magnetic Resonance Imaging (\"MRI\") compatible medical ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366918+00:00",
+              "published_date": null,
+              "source_hash": "575cece67bda5595ef5f7627ba1c8236"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan ...",
+              "snippet": "About IRADIMED CORPORATION. ... potential disruptions in our limited supply chain for our products; the Company's ability to receive U.S. Food and Drug Administration (\"FDA\") 510(k ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366930+00:00",
+              "published_date": null,
+              "source_hash": "f6ecb989d3b92efc86ad26896f807cc0"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Announces Third Quarter of 2024 ... - BioSpace",
+              "snippet": "IRADIMED CORPORATION Announces Third Quarter of 2024 Financial Results and the Declaration of its Regular Quarterly Cash Dividend of $0.15 Per Share. ... but are not limited to; potential disruptions in our limited supply chain for our products; the Company's ability to receive U.S. Food and Drug Administration (\"FDA\") 510(k) clearance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366943+00:00",
+              "published_date": null,
+              "source_hash": "7348411ecf7cfe657f160e0d732d7646"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan ...",
+              "snippet": "IRADIMED CORPORATION is a leader in developing innovative Magnetic Resonance Imaging (\"MRI\") compatible medical devices. We design, manufacture, market, and distribute MRI-compatible medical devices, accessories, disposables, and related services. ... but are not limited to; potential disruptions in our limited supply chain for our products ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366955+00:00",
+              "published_date": null,
+              "source_hash": "db08f2ad46d10f5b6848dc8f0a63db31"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small ...",
+              "snippet": "IRADIMED CORPORATION is a leader in developing innovative Magnetic Resonance Imaging (\"MRI\") compatible medical devices. We design, manufacture, market, and distribute MRI-compatible medical devices, accessories, disposables, and related services. ... but are not limited to; potential disruptions in our limited supply chain for our products ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:21.366967+00:00",
+              "published_date": null,
+              "source_hash": "cb7a5a8d9c3159ac73d9ee7dd65b5365"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan Healthcare Conference",
+              "snippet": "Dec. 19, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company\") (NASDAQ ... but are not limited to; potential disruptions in our limited supply chain for our products; the Company's ability to receive U.S. Food and Drug Administration ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:24.789664+00:00",
+              "published_date": "2024-12-19T08:30:00+00:00",
+              "source_hash": "7d59b9d202e662f9d29fbc5c094f07d8"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small-Cap Companies for 2025",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company ... but are not limited to; potential disruptions in our limited supply chain for our products; the Company's ability ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:24.789773+00:00",
+              "published_date": "2024-12-10T08:30:00+00:00",
+              "source_hash": "a3387c0ec8122a6607c0705126eeb113"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small-Cap Companies for 2025",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company&CloseCurlyDoubleQuote ... but are not limited to; potential disruptions in our limited supply chain for our products; the Company&CloseCurlyQuote;s ability to receive U.S. Food ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "IRadimed Corporation IRadimed Corporation supply chain disruptions",
+              "retrieved_at": "2025-01-06T17:46:24.789805+00:00",
+              "published_date": "2024-12-12T00:00:00+00:00",
+              "source_hash": "9c6adb727611fb2b731650d037d48e8a"
+            },
+            {
+              "url": "",
+              "title": "MAUDE Adverse Event Report: IRADIMED CORP. IRADIMED; PUMP, INFUSION",
+              "snippet": "One of our iradimed mridium 3860+ pumps broke due to liquid that got into the pump drug library card slot.This card slot sticks out slightly from the back of the device and is exposed to the clinical environment.A metal bar covers the card preventing it from being removed easily, but does not isolate the card from any environmental factors.There was a spill and liquid easily entered the sim ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610530+00:00",
+              "published_date": null,
+              "source_hash": "665255d0be739eaad31fe9106bdfd829"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Issues Urgent Medical Device Correction",
+              "snippet": "WINTER SPRINGS, Fla., Feb. 24, 2023 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION (the \"Company\") (NASDAQ: IRMD) issued an Urgent Medical Device Correction Letter to notify affected customers of a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610546+00:00",
+              "published_date": null,
+              "source_hash": "0cbafcff4ed59b17401a46b2a0742214"
+            },
+            {
+              "url": "",
+              "title": "IRadimed Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "IRadimed is a medical device company that designs, manufactures, and markets advanced MRI-compatible patient monitoring systems, infusion pumps, and related accessories for use in the magnetic resonance imaging (MRI) environment, ensuring patient safety and comfort.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610558+00:00",
+              "published_date": null,
+              "source_hash": "7db954e017e7d8eba9265556a32adfb8"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Resolves Warning Letter Related to Its - GlobeNewswire",
+              "snippet": "The IRADIMED 3880 has a compact, lightweight design allowing it to travel with the patient from their critical care unit, to the MRI and back, resulting in increased patient safety through ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610568+00:00",
+              "published_date": null,
+              "source_hash": "0e4e9a398df8bd487954a8e1db780556"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page",
+              "snippet": "This adverse news caused IRadimed Corporation's stock to fall $3.30 per share, or more than 30%, to close at $7.10 per share on September 3, 2014. On December 11, 2014, the Court issued an Order appointing lead Plaintiff and approving lead Counsel. Lead Plaintiff filed an amended Complaint on December 17.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610578+00:00",
+              "published_date": null,
+              "source_hash": "b4467fafa307b30e7794a7818936e021"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION Withdraws 510(k) with Plans to Resubmit After ...",
+              "snippet": "IRADIMED CORPORATION is a leader in developing innovative Magnetic Resonance Imaging (\"MRI\") compatible medical devices. We develop, manufacture, market, and distribute MRI-compatible medical ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610590+00:00",
+              "published_date": null,
+              "source_hash": "578e395218d69c84bf3422337c17b525"
+            },
+            {
+              "url": "",
+              "title": "IRadimed Corporation (IRMD): history, ownership, mission, how it works ...",
+              "snippet": "The company aims to enhance patient safety and improve outcomes in healthcare settings. Mission Statement As of 2024, IRadimed Corporation's mission statement focuses on providing innovative medical devices that improve patient care and safety during MRI procedures. The company emphasizes its commitment to quality, innovation, and customer service.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610600+00:00",
+              "published_date": null,
+              "source_hash": "652e70f7f32315e4654d5ea47025f0a1"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small ...",
+              "snippet": "The Iradimed 3880 has a compact, lightweight design, allowing it to travel with the patient from their critical care unit to the MRI and back, resulting in increased patient safety through ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610612+00:00",
+              "published_date": null,
+              "source_hash": "c9f820e89df942e698e2d64b6795339f"
+            },
+            {
+              "url": "",
+              "title": "Winter Springs' IRadimed Advancing MRI Patient ... - Orlando Magazine",
+              "snippet": "Since its founding in 2004, IRadimed has filled a vital niche in MRI patient care, providing portable, non-magnetic MRI infusion pumps and patient monitors designed to help improve patient safety. Based in Winter Springs, the technology company has 151 employees, 111 of them in the Orlando area, who develop, manufacture on site and market MRI compatible medical devices.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:26.610621+00:00",
+              "published_date": null,
+              "source_hash": "6d7b5fb5f0cf9edc13e74895977592ae"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION on Forbes' List of America's Most Successful Small-Cap Companies for 2025",
+              "snippet": "Dec. 10, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION ... to travel with the patient from their critical care unit to the MRI and back, resulting in increased patient safety through uninterrupted ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:28.784280+00:00",
+              "published_date": "2024-12-10T08:30:00+00:00",
+              "source_hash": "385551c8d51bbebe4d1a6b37bb71f4c6"
+            },
+            {
+              "url": "",
+              "title": "IRADIMED CORPORATION to Present at the 43rd Annual J.P. Morgan Healthcare Conference",
+              "snippet": "Dec. 19, 2024 (GLOBE NEWSWIRE) -- IRADIMED CORPORATION ... to travel with the patient from their critical care unit to the MRI and back, resulting in increased patient safety through uninterrupted ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:28.784382+00:00",
+              "published_date": "2024-12-19T13:29:00+00:00",
+              "source_hash": "2343f6e45ee219c28a99f3e714e37b0d"
+            },
+            {
+              "url": "",
+              "title": "iRadimed Chief Financial Officer Sold $135K In Company Stock",
+              "snippet": "On December 3, a recent SEC filing unveiled that John Glenn, Chief Financial Officer at iRadimed IRMD made an insider sell. What Happened: Glenn's recent move involves selling 2,500 shares of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:28.784413+00:00",
+              "published_date": "2024-12-03T10:01:00+00:00",
+              "source_hash": "1744361de1945dc54324dc53411056f3"
+            },
+            {
+              "url": "",
+              "title": "Iradimed Corporation (NASDAQ:IRMD) Shares Sold by GSA Capital Partners LLP",
+              "snippet": "GSA Capital Partners LLP lowered its holdings in Iradimed Corporation (NASDAQ ... MRI compatible patient vital signs monitoring system; and 3600 FMD1 with RALU ferromagnetic detection device.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:28.784439+00:00",
+              "published_date": "2024-11-21T00:00:00+00:00",
+              "source_hash": "ab456d8d225838c131bb9bb3418e7681"
+            },
+            {
+              "url": "",
+              "title": "Iradimed Corporation (NASDAQ:IRMD) Stake Boosted by BNP Paribas Financial Markets",
+              "snippet": "BNP Paribas Financial Markets grew its stake in shares of Iradimed Corporation (NASDAQ ... MRI compatible patient vital signs monitoring system; and 3600 FMD1 with RALU ferromagnetic detection ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "IRadimed Corporation IRadimed Corporation patient safety controversies",
+              "retrieved_at": "2025-01-06T17:46:28.784463+00:00",
+              "published_date": "2024-12-11T00:00:00+00:00",
+              "source_hash": "5ddd37b744ae6ccd89d6a9e17baf201b"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "IRadimed Corporation FDA compliance issues",
+              "rationale": "Investigate potential regulatory non-compliance or legal challenges with FDA",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "IRadimed Corporation supply chain disruptions",
+              "rationale": "Assess risks related to supply chain vulnerabilities and their impact on operations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "IRadimed Corporation patient safety controversies",
+              "rationale": "Explore any ethical concerns or controversies related to patient safety and product reliability",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:46:46.765138",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

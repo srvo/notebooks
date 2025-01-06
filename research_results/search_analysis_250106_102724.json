@@ -1,0 +1,583 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:27:24.721528",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "WESTPAC BANKING CORPORATION",
+      "symbol": "WEBNF",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Regulatory non-compliance and fines",
+            "Reputational damage",
+            "Cybersecurity vulnerabilities",
+            "Economic sensitivity to housing market and household debt",
+            "Customer remediation and ethical concerns"
+          ],
+          "controversies": [
+            "$1.3 billion fine for 23 million AML and CTF breaches",
+            "PayID breach exposing private details of 98,000 customers",
+            "Overcharging 24,000 customers in New Zealand",
+            "Failing to pass on corporate action notifications to 32,000 customer accounts"
+          ],
+          "environmental_issues": [
+            "Commitment to ESG goals and reducing carbon emissions"
+          ],
+          "social_issues": [
+            "Customer overcharging and failure to respond to hardship notices",
+            "Charging fees to deceased individuals"
+          ],
+          "governance_issues": [
+            "Systemic compliance failures",
+            "Leadership changes to address ongoing challenges"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 85
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Westpac's record $1.3 billion AUSTRAC money laundering fine explained",
+              "snippet": "Westpac has agreed to pay the largest fine in Australian corporate history \u2014 a $1.3 billion civil penalty for more than 23 million breaches of anti-money laundering laws.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884794+00:00",
+              "published_date": null,
+              "source_hash": "3a31328c2af3147d3509ed531d4b5690"
+            },
+            {
+              "url": "",
+              "title": "Westpac ordered to pay $1.3 billion penalty | AUSTRAC",
+              "snippet": "The Federal Court of Australia has today ordered Westpac to pay a $1.3 billion penalty for its breaches of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act). The penalty imposed is the highest civil penalty in Australian history, reflecting the seriousness of compliance failings by Westpac.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884855+00:00",
+              "published_date": null,
+              "source_hash": "283a8a684f4024293acfbd5a98018c0a"
+            },
+            {
+              "url": "",
+              "title": "The Westpac scandal: how did it happen? - The Sydney Morning Herald",
+              "snippet": "The fallout from Westpac's 23 million alleged breaches of anti-money-laundering laws has plunged the bank into crisis and rocked the financial sector. The allegations are outlined in a statement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884867+00:00",
+              "published_date": null,
+              "source_hash": "2910215551aaaa6eab4a456137e6aff1"
+            },
+            {
+              "url": "",
+              "title": "AUSTRAC and Westpac agree to proposed $1.3bn penalty",
+              "snippet": "Westpac and AUSTRAC have today agreed to a 1.3 billion dollar proposed penalty over Westpac's breaches of the Anti-Money Laundering and Counter-Terrorism Financing Act 2006 (AML/CTF Act). Westpac and AUSTRAC have agreed that the proposed penalty reflects the seriousness and magnitude of compliance failings by Westpac.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884875+00:00",
+              "published_date": null,
+              "source_hash": "a9619963a171a96b0f73c9af9455520f"
+            },
+            {
+              "url": "",
+              "title": "Case note: Austrac v Westpac penalty approved by Federal Court",
+              "snippet": "In Chief Executive Officer of the Australian Transaction Reports and Analysis Centre v Westpac Banking Corporation [2020] FCA 1538 the Federal Court of Australia ordered that Westpac pay to the Commonwealth of Australia a pecuniary penalty in the total sum of $1.3 billion as a result of numerous contraventions of the Anti-Money Laundering and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884883+00:00",
+              "published_date": null,
+              "source_hash": "ccb433852aa56362dbfd34d2032c0df2"
+            },
+            {
+              "url": "",
+              "title": "APRA closes investigation into Westpac anti-money laundering breaches",
+              "snippet": "The Australian Prudential Regulation Authority (APRA) has closed its investigation into possible breaches of the Banking Act 1959, including the Banking Executive Accountability Regime (BEAR), by Westpac Banking Corporation (Westpac).. APRA commenced the investigation in December 2019 to examine prudential concerns arising from allegations by AUSTRAC that Westpac had breached anti-money ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884890+00:00",
+              "published_date": null,
+              "source_hash": "88851dabd57ab6ef89c3e5827e4ddc12"
+            },
+            {
+              "url": "",
+              "title": "Westpac faces fines over 'serious and systemic' anti-money laundering ...",
+              "snippet": "The anti-money laundering regulator is accusing Westpac of failing to report more than 19.5 million international funds transfer instructions to it over a period of five years, for money moving ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884898+00:00",
+              "published_date": null,
+              "source_hash": "0f404783cf6732e822f28c292b41d96e"
+            },
+            {
+              "url": "",
+              "title": "Westpac Banking Corporation Faces Money Laundering Scandal in the Land ...",
+              "snippet": "Bank Accused of Being Asleep at the AML-CTF Switch. On November 20, 2019, AUSTRAC, Australia's anti money-laundering (\"AML\") and counter-terrorism financing (\"CTF\") regulator, initiated an action in the Federal Court of Australia seeking civil penalty orders against Westpac Banking Corporation (\"Westpac\"), Australia's second largest retail bank, alleging systemic failures to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770918+00:00",
+              "published_date": null,
+              "source_hash": "d2fd2ffc512541aec97fa98f01861448"
+            },
+            {
+              "url": "",
+              "title": "Westpac fine to total $1.3b over money-laundering, child exploitation ...",
+              "snippet": "Westpac has announced it will pay a $1.3 billion fine, the largest in Australian corporate history, for breaching anti-money laundering laws and for failing to stop child exploitation payments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884912+00:00",
+              "published_date": null,
+              "source_hash": "3d20d3e87b52ba81476ddf94ed275e1e"
+            },
+            {
+              "url": "",
+              "title": "Westpac Group agrees to A$1.3b anti-money laundering fine",
+              "snippet": "Westpac Banking Group and Australian anti-money laundering regulator AUSTRAC agree for bank to pay A$1.3 billion penalty for 23 million contraventions of Australia's Anti-Money Laundering and Counter-Terrorism and Financing Act. ... Westpac Banking Corporation, parent of Westpac New Zealand, has agreed to pay an A$1.3 billion penalty for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:55.884918+00:00",
+              "published_date": null,
+              "source_hash": "5e3b494130b4abb9c10cda29d20ec775"
+            },
+            {
+              "url": "",
+              "title": "Westpac bank 'breached anti-money laundering laws'",
+              "snippet": "Australia's financial crime watchdog has accused Westpac bank of 23 million breaches of anti-money laundering and counter-terrorism financing laws ... The country's banking sector has also ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:59.315116+00:00",
+              "published_date": "2019-11-20T03:26:00+00:00",
+              "source_hash": "29aa44229ccff059ba434cd01a456b45"
+            },
+            {
+              "url": "",
+              "title": "Westpac bank to pay record Australian fine over laundering breaches",
+              "snippet": "Westpac is the second top Australian bank to pay huge fines for breaching anti-money laundering and counter-terrorism financing laws ... The nation's banking sector was last year also the subject ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:59.315221+00:00",
+              "published_date": "2021-01-10T18:39:00+00:00",
+              "source_hash": "7d50789d6b1f248b5b1248e5f042df46"
+            },
+            {
+              "url": "",
+              "title": "Westpac Banking Corporation (ASX: WBC)",
+              "snippet": "Westpac Banking Corp. engages in the provision of banking and financial services. It operates through the following segments: Consumer, Business, Westpac Institutional Bank, Westpac New Zealand ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:59.315252+00:00",
+              "published_date": "2024-12-30T22:17:00+00:00",
+              "source_hash": "b186df12153aaeffc27a738d4e251d7c"
+            },
+            {
+              "url": "",
+              "title": "Westpac Banking Executes Significant Share Buy-Back",
+              "snippet": "Easily identify outperforming stocks and invest smarter with Top Smart Score Stocks Westpac Banking Corporation has announced the cessation of over 2.6 million ordinary fully paid securities ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:07.469454+00:00",
+              "published_date": "2024-12-18T23:41:00+00:00",
+              "source_hash": "155c551af176f661045feebc6a1135b7"
+            },
+            {
+              "url": "",
+              "title": "Westpac bank chief quits amid money laundering scandal",
+              "snippet": "Westpac was sued by Australian regulators last week for an alleged 23 million breaches of counter-terrorism financing and money-laundering laws ... Australian banking abuses 'driven by greed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "retrieved_at": "2025-01-06T17:26:59.315300+00:00",
+              "published_date": "2019-11-26T04:02:00+00:00",
+              "source_hash": "d9dd370121ad9560a4e24888ad031e50"
+            },
+            {
+              "url": "",
+              "title": "Westpac answers to regulator for failing to respond to hardship notices",
+              "snippet": "Since the filing of ASIC's claim, Westpac says that since it uncovered the technical issue that caused it to fail to respond to the subject to hardship notices. It has also paid out nearly $900,000 to affected customers through a remediation program that has included refunds of fees and interest, debt waivers and payments for non-financial loss.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770773+00:00",
+              "published_date": null,
+              "source_hash": "730867035c9790d3ba734effe847b48e"
+            },
+            {
+              "url": "",
+              "title": "21-160MR Westpac to remediate customers for failure to pass on ... - ASIC",
+              "snippet": "Westpac's remediation covers an estimated 328,000 potential missed corporate action notifications impacting approximately 32,000 customer accounts. This is a complex remediation due to the various types of corporate actions involved. Westpac aims to compensate most of the affected customers by the end of 2021.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770841+00:00",
+              "published_date": null,
+              "source_hash": "f059cb9c4fa13cc74567025337adc2b2"
+            },
+            {
+              "url": "",
+              "title": "The Westpac scandal: how did it happen? - The Sydney Morning Herald",
+              "snippet": "Shareholders have been known to vent their fury at AGMs following a banking scandal - most notably the NAB's meeting in 2018 that came at the tail end of the scathing banking royal commission.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770857+00:00",
+              "published_date": null,
+              "source_hash": "6e79e7b837a304ae20466af297d20436"
+            },
+            {
+              "url": "",
+              "title": "Westpac penalised $113 million after multiple ASIC legal actions",
+              "snippet": "Westpac, Securitor and Magnitude (advice businesses) charged ongoing contribution fees for financial advice to retail customers without disclosing, or properly disclosing those fees. It is estimated that over eight years, at least 25,000 customer accounts were charged at least $10.6 million in fees that were not disclosed, or properly disclosed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770866+00:00",
+              "published_date": null,
+              "source_hash": "ab4963cbb4d8d34f18d0f15b841e7fdf"
+            },
+            {
+              "url": "",
+              "title": "Westpac misconduct costs head toward $2 billion as it faces heavy ...",
+              "snippet": "The cost of Westpac's misconduct and shabby treatment of customers is heading towards $2 billion after the bank was forced to make another large provision for remediation costs ahead of its 2019 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770883+00:00",
+              "published_date": null,
+              "source_hash": "35c63fd7e94934397e7b64ca8db2ed59"
+            },
+            {
+              "url": "",
+              "title": "Australia sues Westpac for negligence over financial hardship notices",
+              "snippet": "Australia's corporate regulator said on Tuesday it was taking Westpac Banking Corp to court over its alleged failure to respond to customers' financial hardship notices between 2015 and 2022 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770892+00:00",
+              "published_date": null,
+              "source_hash": "f8e5af17e0615a0cebd67fe5d97f077a"
+            },
+            {
+              "url": "",
+              "title": "After months of court battles, Westpac settles with Austrac ... - ACFCS",
+              "snippet": "The news is tinged with irony as other media reports highlighted at the time that Westpac in its initial response to compliance problems didn't support the compliance professional who brought the failings to the bank's attention, but instead tried to bury the dirt, removing her from the position.. Westpac also laid out a four-page Austrac and overall compliance remediation \"Response Plan ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770900+00:00",
+              "published_date": null,
+              "source_hash": "d7cea6cf79a1e6e31627fbb301d9fc5f"
+            },
+            {
+              "url": "",
+              "title": "Westpac penalties top A$113 million over ... - Legal Insight AU",
+              "snippet": "Westpac Banking Corporation has received an A$40 million penalty for charging advice fees to dead customers, bringing its total bill for \"widespread compliance failures\" to A$113 million. The penalties followed six actions launched by the Australian Securities and Investments Commission (ASIC) over the breaches uncovered during the Hayne ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971419+00:00",
+              "published_date": null,
+              "source_hash": "8429a32c77a1d8243cfe8ae806087776"
+            },
+            {
+              "url": "",
+              "title": "Charging the dead and other fines add up to $113m for Westpac",
+              "snippet": "Westpac will get cracking on its remediation plans after settling six of seven continuing investigations by the corporate regulator, agreeing to pay fines totalling $113 million on Tuesday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:00.770934+00:00",
+              "published_date": null,
+              "source_hash": "a6befd7104e6191f28612d1f54d051d9"
+            },
+            {
+              "url": "",
+              "title": "Westpac: Australian bank pays out over charging dead people",
+              "snippet": "Australian banking ... across Westpac's everyday banking, financial advice, superannuation and insurance businesses,\" ASIC Deputy Chair Sarah Court said. ASIC, Australia's corporate watchdog ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:03.498979+00:00",
+              "published_date": "2021-11-30T04:41:00+00:00",
+              "source_hash": "d001a92b4a63c3848629dc6cf7473082"
+            },
+            {
+              "url": "",
+              "title": "Westpac New Zealand admits to customer overcharges",
+              "snippet": "Westpac New Zealand, the local unit of Australian lender Westpac, has admitted to misleading representations that led to customer overcharges totalling NZ$6.35m ($3.59m). This admission came as part of a civil proceeding initiated by New Zealand's Financial Markets Authority (FMA) at the High Court in Auckland.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:03.499082+00:00",
+              "published_date": "2024-12-24T21:46:00+00:00",
+              "source_hash": "f5b146bd909faf7ea566875df1d45a5c"
+            },
+            {
+              "url": "",
+              "title": "Westpac admits to overcharging more than 24,000 customers in New Zealand",
+              "snippet": "New Zealand's financial regulator on Monday said that Australian lender Westpac's local unit admitted to overcharging and misleading more than 24,000 personal and business customers by not providing advertised discounts and benefits.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:03.499113+00:00",
+              "published_date": "2024-12-23T14:47:08+00:00",
+              "source_hash": "3fc89fca8edfb88e542197ad8c11f820"
+            },
+            {
+              "url": "",
+              "title": "Westpac bank chief quits amid money laundering scandal",
+              "snippet": "Westpac's competitor Commonwealth Bank paid a A$700m fine for similar breaches last year. The country's scandal-plagued banking sector was recently interrogated in a royal commission - Australia's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:03.499138+00:00",
+              "published_date": "2019-11-26T04:02:00+00:00",
+              "source_hash": "8e7059361e4d04f57c2e1b34be7828d2"
+            },
+            {
+              "url": "",
+              "title": "Westpac's new chief to improve technology but not at the expense of banks' social licence",
+              "snippet": "On his way out the door Mr King has pulled the trigger on Westpac's Project Unite, set to be the biggest project for the bank since the risk remediation ... t just assume banking is homogenous ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION customer remediation scandals",
+              "retrieved_at": "2025-01-06T17:27:03.499161+00:00",
+              "published_date": "2024-12-15T21:01:00+00:00",
+              "source_hash": "2a7fd16d63f863e6afd4e4c7569c077a"
+            },
+            {
+              "url": "",
+              "title": "Westpac cyber attack: 98000 customers' private details exposed",
+              "snippet": "Australia's Westpac Banking Corporation has faced a huge cyber security breach that has affected a total of 98,000 customers, with their banking details exposed to the hackers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971204+00:00",
+              "published_date": null,
+              "source_hash": "f25bdec0d63ac4b4d7a5f7c778b660a8"
+            },
+            {
+              "url": "",
+              "title": "Westpac's PayID breach sees almost 100,000 users details exposed",
+              "snippet": "A group of hackers have used Westpac's money transfer platform to access the private details of almost 100,000 Australian banking customers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971320+00:00",
+              "published_date": null,
+              "source_hash": "bd555850d9111a9b98fd056cf63ff569"
+            },
+            {
+              "url": "",
+              "title": "Westpac Banking Corporation Security Rating, Vendor Risk ... - UpGuard",
+              "snippet": "Westpac Banking Corporation, known simply as Westpac, is an Australian bank and financial services provider. UpGuard continuously monitors the security posture of Westpac Banking Corporation using open-source, commercial, and proprietary threat intelligence feeds. Our analysis is centered on objective, externally verifiable information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971338+00:00",
+              "published_date": null,
+              "source_hash": "8cf7e1196a463f21ea3baffe9ad354cc"
+            },
+            {
+              "url": "",
+              "title": "Westpac cyber attack: Bank under fire after thousands of ... - 7NEWS",
+              "snippet": "Westpac is under heavy scrutiny after a cyber attack exposed the banking details of 98,000 of its customers. The hack on the bank's PayID feature was confirmed on Monday afternoon. ... (of the breach),\" the spokesman said. \"Westpac Group takes the protection of customer data and privacy extremely seriously and we continually monitor our systems.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971353+00:00",
+              "published_date": null,
+              "source_hash": "34a965aecf5357df5f0baad816e63c5b"
+            },
+            {
+              "url": "",
+              "title": "Westpac Cybersecurity Breach Impacts Almost 100,000 Customers",
+              "snippet": "A major cybersecurity breach that has struck Australia's Westpac Banking Corporation has reportedly impacted almost 100.000 customers. Australian website nine.com.au reports, \"A major cyber security breach has seen the private details of almost 100,000 Westpac customers exposed after the bank's system was attacked by hackers.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971366+00:00",
+              "published_date": null,
+              "source_hash": "751dbf3989a3627b7ecea737a20529f4"
+            },
+            {
+              "url": "",
+              "title": "Cybersecurity at Westpac",
+              "snippet": "The cybersecurity threat environment is dynamic and at Westpac we take the security of customer data and our systems very seriously. From ensuring our customers can save, transact, and borrow with confidence, to supporting the financial needs of small businesses, multi-national corporates, institutional, and government clients, our customers are at the centre of everything we do.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971380+00:00",
+              "published_date": null,
+              "source_hash": "4ed4ce5e4c9e1ecda9d3c8141f9ca878"
+            },
+            {
+              "url": "",
+              "title": "Westpac breach highlights cyber-security threat - Next Investors",
+              "snippet": "In a confidential memo obtained by the Sydney Morning Herald and The Age, the bank disclosed information about the incident to Australia's banking and financial industry. \"On 22 May 2019, Westpac noted that a high volume ([around] 600,000) of NPPA PayID lookups was made from 7 compromised Westpac Live accounts,\" the memo said.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971393+00:00",
+              "published_date": null,
+              "source_hash": "abe48de0b4bac8f4af60069d7be202b5"
+            },
+            {
+              "url": "",
+              "title": "Australian lender Westpac fined A$113 million for multiple compliance ...",
+              "snippet": "An Australian court ordered Westpac Banking Corp to pay A$113 million ($82.92 million) in penalties for multiple compliance failures across its businesses, after hearing the last of the six cases ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971406+00:00",
+              "published_date": null,
+              "source_hash": "0049388999978a24a3aa76d9d4fda7b3"
+            },
+            {
+              "url": "",
+              "title": "Westpac to likely pay $81 mln for charging dead people, other breaches",
+              "snippet": "Westpac Banking Corp said on Tuesday it will likely be fined A$113 million ($80.8 million) for alleged compliance failures across its business over many years, including charging financial advice ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:04.971431+00:00",
+              "published_date": null,
+              "source_hash": "96a06fd9235084335b04c33055b1cdba"
+            },
+            {
+              "url": "",
+              "title": "Westpac bank to pay record Australian fine over laundering breaches",
+              "snippet": "In Australia, Westpac's competitor Commonwealth Bank paid an A$700m fine for similar breaches in 2018 involving 53,000 suspect transactions. The nation's banking sector was last year also the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:07.469298+00:00",
+              "published_date": "2021-01-10T18:39:00+00:00",
+              "source_hash": "a9de8923d81faae0badd7a588b7448a8"
+            },
+            {
+              "url": "",
+              "title": "Westpac: Australian bank pays out over charging dead people",
+              "snippet": "\"The conduct and breaches ... across Westpac's everyday banking, financial advice, superannuation and insurance businesses,\" ASIC Deputy Chair Sarah Court said. ASIC, Australia's corporate ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:07.469400+00:00",
+              "published_date": "2021-11-30T04:41:00+00:00",
+              "source_hash": "6a7a07c6253b76381036db6452f1d42e"
+            },
+            {
+              "url": "",
+              "title": "Westpac is called out over major customer failure",
+              "snippet": "An industry watchdog on Tuesday released its investigation into the closure, sanctioning Westpac for 'serious and systemic' breaches of its obligations under the Banking Code of Practice.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:07.469430+00:00",
+              "published_date": "2024-06-25T04:03:00+00:00",
+              "source_hash": "172e6b57dc0a0c8bf232543f9f762c0c"
+            },
+            {
+              "url": "",
+              "title": "Westpac Bank admits overcharging nearly 25,000 customers more than $6.3 million",
+              "snippet": "The FMA has brought civil proceedings against the bank for not delivering advertised benefits for various banking packages.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "WESTPAC BANKING CORPORATION WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "retrieved_at": "2025-01-06T17:27:07.469477+00:00",
+              "published_date": "2024-12-22T23:15:00+00:00",
+              "source_hash": "bacd435281424ba830bc96c63bb87dd6"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "WESTPAC BANKING CORPORATION anti-money laundering violations",
+              "rationale": "Investigate recent legal issues and penalties related to AML compliance",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "WESTPAC BANKING CORPORATION customer remediation scandals",
+              "rationale": "Explore controversies related to poor financial advice and fee-for-no-service issues",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "WESTPAC BANKING CORPORATION cybersecurity breaches",
+              "rationale": "Assess risks and incidents related to cybersecurity vulnerabilities",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:27:24.721539",
+        "data_confidence": 85,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

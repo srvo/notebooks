@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:13:18.191010",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Coupang Inc",
+      "symbol": "CPNG",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Labor controversies including harsh working conditions and rescinded job offers",
+            "Regulatory scrutiny and legal challenges, including a $102 million fine for anti-competitive practices",
+            "Profitability concerns due to high operational costs",
+            "Data privacy and security issues"
+          ],
+          "controversies": [
+            "Allegations of excessive overtime and inadequate safety measures in warehouses",
+            "Unlawful managerial activities and worker protests",
+            "Algorithm manipulation to prioritize private-label products",
+            "Unexpected tax investigation by South Korean authorities"
+          ],
+          "environmental_issues": [
+            "Plans to reduce carbon footprint through optimized delivery routes and eco-friendly packaging"
+          ],
+          "social_issues": [
+            "Harsh labor conditions and worker protests",
+            "Rescinded job offers damaging employer reputation"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny for anti-competitive practices",
+            "Tax investigation by South Korean authorities"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Coupang's controversial practices - The Korea Times",
+              "snippet": "Coupang's controversial practices. Posted : 2024-06-17 15:38. Updated : 2024-06-17 16:40 ... Coupang has faced criticism for numerous unlawful managerial activities and harsh labor practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732686+00:00",
+              "published_date": null,
+              "source_hash": "62fc29ddfd9cc5d1ddcf7117fbbb29f8"
+            },
+            {
+              "url": "",
+              "title": "Workers Protest Labor Conditions at Coupang, Biggest Online ... - CorpWatch",
+              "snippet": "Coupang is also under fire for anti-competitive practices. In July 2021, the Korea Fair Trade Commission (KFTC) announced an investigation into algorithm tampering by Coupang. The following month, KFTC fined the company 3.29 billion won (US$2.8 million) for forcing sellers to raise prices on rival sites in order to be able to offer the cheapest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732787+00:00",
+              "published_date": null,
+              "source_hash": "0252dd84d83ece565245b9547aa783aa"
+            },
+            {
+              "url": "",
+              "title": "South Korea's Coupang faces boycott over working conditions",
+              "snippet": "Fresh controversies surround the company's hiring practices. On Blind, an anonymous community application for the workplace, users have complained that Coupang dropped job offers after they had ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732802+00:00",
+              "published_date": null,
+              "source_hash": "133283c62c3969fcc0abae74abdcc2ba"
+            },
+            {
+              "url": "",
+              "title": "[NEWS IN FOCUS] Coupang and employees clash over spate of worker deaths",
+              "snippet": "The labor union argues that it resulted from overwork due to Coupang's demanding work instructions, but Coupang and the police contend that it was caused by an underlying illness. The controversy is also entangled with the contrasting view on the treatment of gig workers who are often hired by contractors or subcontractors of the so-called ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732813+00:00",
+              "published_date": null,
+              "source_hash": "c2944e85c2f64b74d285c995b56539ba"
+            },
+            {
+              "url": "",
+              "title": "Aping Amazon, Korea's Coupang has a labor problem",
+              "snippet": "Labor airs its woes. The high-intensity work practices of on-demand delivery services like Amazon have drawn widespread criticism. These complaints are even louder in South Korea, where the concept of \"death by overwork\" is no joke. A group of labor activists raised their Coupang complaints to foreign correspondents in Seoul last month.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732823+00:00",
+              "published_date": null,
+              "source_hash": "e187f3eddfe682ee7e275bdbd163dda9"
+            },
+            {
+              "url": "",
+              "title": "Coupang Board, Executives Sued Again for Misleading IPO Filings",
+              "snippet": "Coupang Inc.'s top executives and directors misrepresented its working conditions, third-party merchant relationships, and customer protections in documents related to its 2021 initial public offering, a shareholder derivative suit says. The e-commerce company filed a registration statement that failed to disclose several important details about its operations, which were later revealed by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210412+00:00",
+              "published_date": null,
+              "source_hash": "c379163c9bd5e80d9ce0ae772186344e"
+            },
+            {
+              "url": "",
+              "title": "Pomerantz Appointed Lead Counsel in Coupang Securities Litigation",
+              "snippet": "The truth began to emerge on April 27, 2021, when United Press International reported on the Coupang's dangerous labor practices, which had led to the deaths of nine Company workers in the past year. Then, on June 17, 2021, a fire broke out in Coupang's fulfillment center, leading to the death of one firefighter as well as intensified ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732844+00:00",
+              "published_date": null,
+              "source_hash": "1be079d6ef14ddec5b455e467f644746"
+            },
+            {
+              "url": "",
+              "title": "Coupang's controversial practices. - Free Online Library",
+              "snippet": "Coupang's controversial practices. Link/Page Citation The recent revelation of illegal and deceptive practices by Coupang, Korea's leading e-commerce firm, is alarming. ... In this vein, Coupang's practice of prioritizing the private brands and directly bought products ahead of others by algorithm exploitation could mislead consumers. The FTC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732853+00:00",
+              "published_date": null,
+              "source_hash": "619252a76943b8d5b7fb4480e4bff528"
+            },
+            {
+              "url": "",
+              "title": "Coupang Sued for Firing Whistleblower Over Iranian Deals (1)",
+              "snippet": "Daily Labor Report \u00ae ... Track Docket: No. 2:23-cv-1887; Korean e-commerce retailer Coupang Inc., which is a publicly traded company in the US, was sued in federal court by a former employee alleging that he was fired because of his whistleblower activities. Philip Smith, who was hired to be Coupang's Senior Director and Head of Anti-Money ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732861+00:00",
+              "published_date": null,
+              "source_hash": "feaeea48bb7f23db80e034d3eac00a34"
+            },
+            {
+              "url": "",
+              "title": "Union slams Coupang about warehouse working conditions",
+              "snippet": "Coupang dismissed the union's statements, calling them \"distorted\" and false. \"Unlike the union's claims that Coupang is compelling employees to resign, 97 percent of the Deokpyeong Logistics Center employees, or 1,446 people, have been relocated to other warehouses as of June 23,\" said Coupang in a statement following the union's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:51.732874+00:00",
+              "published_date": null,
+              "source_hash": "86a475aaaaf96802b2b4cd9916ed0983"
+            },
+            {
+              "url": "",
+              "title": "Here is What to Know Beyond Why Coupang, Inc. (CPNG) is a Trending Stock",
+              "snippet": "Coupang, Inc. (CPNG) has recently been on Zacks.com's list of the most searched stocks. Therefore, you might want to consider some of the key factors that could influence the stock's performance ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:55.399347+00:00",
+              "published_date": "2024-12-06T21:14:00+00:00",
+              "source_hash": "7420eee01ddc9cbecd9ac3084e4c9c09"
+            },
+            {
+              "url": "",
+              "title": "Coupang, Inc. (CPNG)",
+              "snippet": "Coupang, Inc. (CPNG) concluded the recent trading session at $22.29, signifying a +1.41% move from its prior day's close. Coupang (CPNG) has been one of the stocks most watched by Zacks.com users ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:03.630949+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "9603a609e043ebcb36aa84ee2b61a799"
+            },
+            {
+              "url": "",
+              "title": "SoftBank-backed Coupang aims to deliver mammoth U.S. IPO at over $50 billion valuation",
+              "snippet": "South Korea's Coupang Inc., which is backed by SoftBank Group Corp., is targeting a blockbuster stock market debut that would value the e-commerce giant at well over $50 billion and make it the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:55.399444+00:00",
+              "published_date": "2020-10-13T23:59:00+00:00",
+              "source_hash": "c2ea82c9bfa0083ddbd366aff2301e19"
+            },
+            {
+              "url": "",
+              "title": "Coupang, Inc.'s (NYSE:CPNG) institutional investors lost 6.6% last week but have benefitted from longer-term gains",
+              "snippet": "Every investor in Coupang, Inc. (NYSE:CPNG) should be aware of the most powerful shareholder groups. And the group that holds the biggest piece of the pie are institutions with 57% ownership. That is, the group stands to benefit the most if the stock rises ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:55.399454+00:00",
+              "published_date": "2024-11-20T08:00:00+00:00",
+              "source_hash": "28057355f5dbe13510511dc36623aefb"
+            },
+            {
+              "url": "",
+              "title": "FTC remains firm on record high fines for Coupang",
+              "snippet": "Coupang maintains it is innocent, saying it intends to file administrative litigation against the commission. The company says its competitors also carry out similar sales practices to chalk up ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T21:12:55.399465+00:00",
+              "published_date": "2024-06-23T08:34:00+00:00",
+              "source_hash": "b1c64d81b81824459ca414dca1488c8e"
+            },
+            {
+              "url": "",
+              "title": "South Korean tax authorities initiate irregular investigation into Coupang",
+              "snippet": "Tax authorities have initiated an unexpected tax investigation into South Korea's leading e-commerce company, Coupang, confirmed on May 12. ... Coupang Inc., based in Delaware, wholly owns Coupang's Korean subsidiary. The National Tax Service has stated that it cannot disclose the reasons for the tax investigation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804582+00:00",
+              "published_date": null,
+              "source_hash": "1f70f1ba8761362105d4b7e3a4260da4"
+            },
+            {
+              "url": "",
+              "title": "Coupang Fined $102 Million for Search Engine Manipulation After Korean ...",
+              "snippet": "Coupang Inc., South Korea's largest e-commerce platform, was fined 140 billion won ($102 million) on Thursday for allegedly manipulating search algorithms to prioritize its private labels and products it directly sold, according to the country's antitrust body.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804698+00:00",
+              "published_date": null,
+              "source_hash": "8fb382d6ef4d4dd635402c6f8e49d61a"
+            },
+            {
+              "url": "",
+              "title": "Coupang challenges KFTC over unfair trade practices fine in latest ...",
+              "snippet": "Coupang, South Korea's leading e-commerce company, filed an administrative lawsuit against the Korea Fair Trade Commission (KFTC) to challenge a penalty and corrective order issued by the regulatory body for alleged unfair trade practices. The legal dispute stems from a KFTC ruling in February. The KFTC fined Coupang for listing prices on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804714+00:00",
+              "published_date": null,
+              "source_hash": "5181185462e7ba73a84c804b7d615d43"
+            },
+            {
+              "url": "",
+              "title": "Republic of Korea: Issued ruling in FTC Investigation into Coupang for ...",
+              "snippet": "This conduct was determined to mislead consumers into purchasing Coupang's products over those of other sellers on its platform, thereby violating the national anti-competitive agreements regulation. The authority imposed a corrective order along with a provisional fine of KRW 140 billion (approximately USD 117 million) and referred Coupang ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804726+00:00",
+              "published_date": null,
+              "source_hash": "b5db55bccddad58719b9eb47455fb6d7"
+            },
+            {
+              "url": "",
+              "title": "Coupang hit with $102 million fine from FTC over search results ...",
+              "snippet": "Out of all products sold on Coupang last year, 15,000 items were from the company's private brands, and 6 million were offered through its direct purchasing service \u2014 through which the company directly procures goods to sell to consumers itself as opposed to third-party sellers offering products through Coupang \u2014 while 400 to 500 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804736+00:00",
+              "published_date": null,
+              "source_hash": "0f37fea3b76d918cc03530a514ad36a6"
+            },
+            {
+              "url": "",
+              "title": "Coupang to appeal KFTC ruling over alleged manipulation of search algorithm",
+              "snippet": "Coupang to appeal KFTC ruling over alleged manipulation of search algorithm South Korean e-commerce giant Coupang has publicly opposed the Korea. ... June 14 (local time), Coupang stated, \"Our search sorting method is standard practice among e-commerce companies in South Korea and globally. However, on June 12, the KFTC announced that this ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804752+00:00",
+              "published_date": null,
+              "source_hash": "6c89cf3468ff50ca7c184d4f13d13cc5"
+            },
+            {
+              "url": "",
+              "title": "South Korea Investigates Coupang, Naver, and Market Kurly Over ...",
+              "snippet": "SEOUL, Dec. 2 (Korea Bizwire) - South Korea's Fair Trade Commission (FTC) is taking action against Coupang, Naver, and Market Kurly for allegedly hindering consumers from canceling their paid memberships. Coupang, in particular, faces additional scrutiny for using deceptive \"dark patterns\" in its membership pricing and cancellation processes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804761+00:00",
+              "published_date": null,
+              "source_hash": "6e569f0486ea1ddc7f761c26dd4f954a"
+            },
+            {
+              "url": "",
+              "title": "Coupang faces probe over alleged manipulation of search algorithms",
+              "snippet": "The probe marked the latest setback for the SoftBank-backed company, which has faced public scrutiny even as founder Bom Kim has accelerated Coupang's expansion plans following a $3.5bn initial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804770+00:00",
+              "published_date": null,
+              "source_hash": "ac7b45028f2a840d45077eb1fc44deb2"
+            },
+            {
+              "url": "",
+              "title": "South Korea's tax authority launches non-regular special tax probe into ...",
+              "snippet": "The National Tax Service of South Korea has initiated a special tax investigation into Coupang, the nation's top e-commerce company. Authorities are examining the flow of funds between Coupang's Korean entity, wholly owned by the US-based Coupang Inc. in Delaware, and its overseas affiliates.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804780+00:00",
+              "published_date": null,
+              "source_hash": "146c73c1081a88bda3e8662172b9544f"
+            },
+            {
+              "url": "",
+              "title": "Coupang fined $2.8 mil. for unfair business practices - The Korea Times",
+              "snippet": "Coupang has been fined 3.29 billion won ($2.81 million) by the country's top antitrust regulator, Thursday, for its alleged involvement in unfair business practices and interfering in the business ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:56.804790+00:00",
+              "published_date": null,
+              "source_hash": "3ae379860110e211fbe49935935a1e35"
+            },
+            {
+              "url": "",
+              "title": "Coupang Stock Drops Over 5% Amid Martial Law Declaration In South Korea: Retail Turns Cautious",
+              "snippet": "Shares of Coupang Inc. ($CPNG), South Korea's largest online retailer, tumbled over 5% on Tuesday afternoon following the shocking declaration of martial law in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:59.459679+00:00",
+              "published_date": "2024-12-03T19:24:00+00:00",
+              "source_hash": "6959638a77220f5340a843d4dbd6a4cf"
+            },
+            {
+              "url": "",
+              "title": "Coupang Inc - Class A",
+              "snippet": "Coupang Inc is a dynamic South Korean online retail ... With operations extending beyond South Korea to several other countries, Coupang stands as a major player in the e-commerce and digital ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:59.459758+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "19d9e19b0f53f5febe182bad0c154bd5"
+            },
+            {
+              "url": "",
+              "title": "Coupang, Inc. (CPNG)'s Surge: How South Korea's E-Commerce Giant is Growing Revenue",
+              "snippet": "Coupang, Inc. (NYSE:CPNG) is a leading e-commerce company based in South Korea, often referred to as the \"Amazon of South Korea\". It operates primarily in the Korean retail market, providing a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:59.459769+00:00",
+              "published_date": "2024-11-09T19:50:00+00:00",
+              "source_hash": "95605cfa09059cded66c48338525698e"
+            },
+            {
+              "url": "",
+              "title": "Coupang's SWOT analysis: e-commerce giant's stock poised for growth amid challenges",
+              "snippet": "Coupang Inc. (NYSE:CPNG), South Korea's leading e-commerce ... Additionally, regulatory challenges such as the recent Korea Fair Trade Commission (KFTC) fine could impact the company's financials ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:59.459778+00:00",
+              "published_date": "2024-12-16T01:14:00+00:00",
+              "source_hash": "94e39758ac2d62ef1917a11f192868d3"
+            },
+            {
+              "url": "",
+              "title": "Coupang's Options Frenzy: What You Need to Know",
+              "snippet": "Coupang is South Korea's largest e-commerce platform that sells both owned and third-party inventory. Headquartered in the us, Coupang operates e-commerce businesses mainly in South Korea and Taiwan.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Coupang Inc Coupang Inc regulatory scrutiny South Korea",
+              "retrieved_at": "2025-01-06T21:12:59.459786+00:00",
+              "published_date": "2024-12-03T14:46:00+00:00",
+              "source_hash": "375daabc597648d67d197b39dcc7c7aa"
+            },
+            {
+              "url": "",
+              "title": "Coupang Privacy Notice (V.8.4)",
+              "snippet": "Coupang is not liable for issues that arise due to personal data leakage caused not by the fault of Coupang, but by any of the following: \u2022 Negligence or acts or omissions of the customer, such as losing, letting others borrow or handing over an ID (email address), password, or medium used to access the service; or leaving PC unattended while ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210243+00:00",
+              "published_date": null,
+              "source_hash": "abed112ee7d6dd826377797ba6963567"
+            },
+            {
+              "url": "",
+              "title": "Coupang Privacy Notice (V.9.2) - privacy.coupang.com",
+              "snippet": "Coupang is not liable for issues that arise due to personal data leakage caused not by the fault of Coupang, but by any of the following: \u2022 Negligence or acts or omissions of the customer, such as losing, letting others borrow or handing over an ID (email address), password, or medium used to access the service; or leaving PC unattended while ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210349+00:00",
+              "published_date": null,
+              "source_hash": "43277fc1109a473de6ab83e9ad33cb3c"
+            },
+            {
+              "url": "",
+              "title": "Privacy - Coupang",
+              "snippet": "Customers who need to receive consultation on privacy matters or report a personal data breach may also contact the following authorities: Korea Internet & Security Agency: 82-2-405-5118 | privacy.kisa.or.kr",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210362+00:00",
+              "published_date": null,
+              "source_hash": "126e37271a85fd7b19f9da13b15aa11f"
+            },
+            {
+              "url": "",
+              "title": "Global Seller Privacy Notice - \ucfe0\ud321",
+              "snippet": "Provides settlement services and issues tax invoices: Coupang Eats Services Ltd. Consultation for Coupang Eats Store: KSJOB, UBASE: Provide assistance and consulting on seller registration, manage sellers ... Should there be grounds for a material change to customer's right to data privacy, customers will be notified by Coupang at least 14 days ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210372+00:00",
+              "published_date": null,
+              "source_hash": "e5809fa7b5efc5d5a07eafa844b18add"
+            },
+            {
+              "url": "",
+              "title": "Coupang fined for leaking personal info of delivery workers, customers ...",
+              "snippet": "SEOUL, Nov. 28 (Yonhap) -- E-commerce giant Coupang Inc. has been fined for leaking about 150,000 pieces of personal information of delivery workers and customers, the state data protection watchdog said Thursday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210383+00:00",
+              "published_date": null,
+              "source_hash": "e45f9a3033207e4b208b7a6af385415e"
+            },
+            {
+              "url": "",
+              "title": "coupang legal website",
+              "snippet": "The way we work and conduct our business is central to our mission. Coupang is committed to conducting business in an ethical, transparent, and professional manner, and in compliance with laws, regulations, and our policies. This commitment applies to our relationships with each other and with our Customers, suppliers, and other third parties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210393+00:00",
+              "published_date": null,
+              "source_hash": "bc4ed58299385dea3e44e3a7d8e16cb2"
+            },
+            {
+              "url": "",
+              "title": "Coupang data leak affects 310,000 customers - Korea JoongAng Daily",
+              "snippet": "Coupang's app displayed leaked private data of users for about an hour on Tuesday. In the leak, a person logged into the app would see the name and address of another user rather than their own. Information on about 310,000 people was exposed in this way. The leak was made while Coupang was testing an app upgrade, the company said.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210402+00:00",
+              "published_date": null,
+              "source_hash": "9542d101b8b12cac13f91ff9b327e75f"
+            },
+            {
+              "url": "",
+              "title": "Coupang Privacy Notice (V.9.93)",
+              "snippet": "Coupang is not liable for issues that arise due to personal data leakage caused not by the fault of Coupang, but by any of the following: \u2022 Negligence or acts or omissions of the customer, such as losing, letting others borrow or handing over an ID (email address), password, or medium used to access the service; or leaving PC unattended while ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210421+00:00",
+              "published_date": null,
+              "source_hash": "0b095bacda1e333e4d7626debc4d1a12"
+            },
+            {
+              "url": "",
+              "title": "Privacy Notice (V.11.5) - Coupang",
+              "snippet": "Coupang will not use the collected personal information for purpose other than the original intended purpose of collection, and if the purpose of use changes, we will take necessary measures such as obtaining separate consent under Article 18 of the Personal Information Protection Act. Coupang processes and retains personal information within the period of retention of it in accordance with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:01.210431+00:00",
+              "published_date": null,
+              "source_hash": "ac468a73c408710f250ca94a7aa77d5b"
+            },
+            {
+              "url": "",
+              "title": "Coupang Inc - Class A",
+              "snippet": "Coupang Inc is a dynamic South Korean online retail giant, offering a wide array of products and services through its user-friendly mobile apps and websites. From home goods, apparel, and beauty ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:03.630840+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "106390a93ec98e30af24ef7cb40e9070"
+            },
+            {
+              "url": "",
+              "title": "What Makes Coupang (CPNG) a Favorite Stock for Billionaire Stanley Druckenmiller?",
+              "snippet": "In this article, we are going to take a look at where Coupang, Inc. (NYSE:CPNG ... expressing his concerns over inflation moving forward. In addition to inflationary concerns, Druckenmiller ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:03.630918+00:00",
+              "published_date": "2024-12-18T09:00:00+00:00",
+              "source_hash": "eaf13c86f68c06df8c4f07591f40e3dd"
+            },
+            {
+              "url": "",
+              "title": "Coupang, Inc. (CPNG) Ascends While Market Falls: Some Facts to Note",
+              "snippet": "In the latest trading session, Coupang, Inc. (CPNG) closed at $22.29, marking a +1.41% move from the previous day. The stock outpaced the S&P 500's daily loss of 0.22%. Elsewhere, the Dow saw a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:03.630931+00:00",
+              "published_date": "2025-01-02T23:01:00+00:00",
+              "source_hash": "e22c99236d349cee00b6acadf194a1e6"
+            },
+            {
+              "url": "",
+              "title": "Coupang Inc - Ordinary Shares - Class A",
+              "snippet": "Coupang, Inc. engages in operating an e-commerce platform. It operates through the following segments: Product Commerce and Developing Offerings segments. The Product Commerce segment provides ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Coupang Inc Coupang Inc data privacy concerns",
+              "retrieved_at": "2025-01-06T21:13:03.630941+00:00",
+              "published_date": "2021-03-12T11:00:00+00:00",
+              "source_hash": "e5ffb9f498e0b159c3e30f226b4ba711"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "Coupang Inc labor practices controversies",
+              "rationale": "Investigate allegations of poor working conditions and labor rights violations in Coupang's warehouses",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Coupang Inc regulatory scrutiny South Korea",
+              "rationale": "Explore ongoing regulatory challenges and anti-competitive practices investigations in South Korea",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Coupang Inc data privacy concerns",
+              "rationale": "Examine customer data handling practices and potential privacy issues related to Coupang's platform",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:13:18.191023",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

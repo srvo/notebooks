@@ -1,0 +1,554 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:11:24.053358",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "ConnectOne Bancorp Inc",
+      "symbol": "CNOB",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory and legal risks, including compliance with ADA and federal regulations",
+            "Interest rate sensitivity and exposure to variable-rate loans",
+            "Economic and sector-specific risks tied to New Jersey and New York markets",
+            "Competitive pressures from traditional banks and fintech firms",
+            "Merger and acquisition risks, particularly the proposed merger with The First of Long Island Corporation"
+          ],
+          "controversies": [
+            "Investigation into the fairness of the proposed merger with The First of Long Island Corporation",
+            "Customer complaints about unresolved issues and poor customer service"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer service issues impacting customer retention and brand reputation"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and legal actions",
+            "Execution risks in digital transformation and expansion strategies"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The defendant CONNECTONE BANCORP, INC. is and was at all relevant times a New Jersey FDIC Insured Banking Corporation doing business in New York. Case 1:18-cv-00721 Document 1 Filed 02/01/18 Page 3 of 27 PageID #: 3-4- 13. Defendant's banks are public accommodations within the definition of Title III of the ADA, 42 U.S.C. \u00a7 12181(7). ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625291+00:00",
+              "published_date": null,
+              "source_hash": "ebc9d5127acd91c04be083d60e63d4ab"
+            },
+            {
+              "url": "",
+              "title": "CNOB INVESTIGATION: The M&A Class Action Firm Investigates the Merger ...",
+              "snippet": "We are headquartered at the Empire State Building in New York City and are investigating ConnectOne Bancorp, Inc. (Nasdaq: CNOB), relating to its proposed merger with The First of Long Island ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625356+00:00",
+              "published_date": null,
+              "source_hash": "0655f24ef6f3a270460b34588e4375ec"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. - SEC.gov",
+              "snippet": "ConnectOne Bancorp, Inc., (the \"Company\" and with ConnectOne Bank, \"we\" or \"us\") a one-bank holding company, was incorporated in the State of New Jersey on November 12, 1982 as Center Bancorp, Inc. and commenced operations on May 1, 1983 upon the acquisition of all outstanding shares of capital stock of Union Center National Bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777062+00:00",
+              "published_date": null,
+              "source_hash": "7fb510419013755a50cde66ae75ce2db"
+            },
+            {
+              "url": "",
+              "title": "Documents - ConnectOne Bank",
+              "snippet": "ConnectOne Bank offers financial products and custom solutions to help our clients achieve financial prosperity for themselves, their family and their business. Explore our offerings online, including checking and savings accounts, business bank accounts , business loans , mortgages , home equity loans and much more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625376+00:00",
+              "published_date": null,
+              "source_hash": "36ec22f3690575f24a0bc7176e51149f"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. - Monteverde & Associates PC",
+              "snippet": "To start a Class Action lawsuit, please sign the ConnectOne Bancorp, Inc. Retainer Agreement. This confirms that you have retained Monteverde & Associates PC to file an action with a complaint against ConnectOne Bancorp, Inc. and/or its board of directors or officers. As a named plaintiff, you acknowledge that you owned shares in ConnectOne ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704738+00:00",
+              "published_date": null,
+              "source_hash": "b8c1786e91b58a3c74b666355a69b5e9"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. Announces the Receipt of Regulatory Approvals ...",
+              "snippet": "ENGLEWOOD CLIFFS, N.J., Nov. 18, 2019 (GLOBE NEWSWIRE) - ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (the Company or ConnectOne), announced today that its wholly-owned bank subsidiary, ConnectOne Bank (the Bank), has received regulatory approvals to proceed with its previously announced acquisition of Bank of New Jersey, a New Jersey state-chartered bank and wholly-owned bank subsidiary of Bancorp ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625390+00:00",
+              "published_date": null,
+              "source_hash": "38a714daef45fb84d42eaadca9d848d7"
+            },
+            {
+              "url": "",
+              "title": "KBRA Releases Surveillance Report for ConnectOne Bancorp, Inc.",
+              "snippet": "KBRA Releases Surveillance Report for ConnectOne Bancorp, Inc. ... KBRA's ratings can be used by investors for regulatory capital purposes in multiple jurisdictions. Get the new alerts. CONNECT WITH KBRA. 805 Third Avenue 29th Floor New York, NY 10022 +1 (212) 702-0707 Contact Us",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625398+00:00",
+              "published_date": null,
+              "source_hash": "1f91d7f72bc2c155a707e724026cb061"
+            },
+            {
+              "url": "",
+              "title": "Corporate Profile - ConnectOne Bank",
+              "snippet": "ConnectOne Bancorp, Inc., 301 Sylvan Avenue Englewood Cliffs, NJ 07632 (201) 816-8900 Investor Relations Contact William S. Burns bburns@cnob.com. Transfer Agent Broadridge Corporate Issuer Solutions PO Box 1342 Brentwood, NY 11717 (877) 830-4936 shareholder@broadridge.com. Featured Documents ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625405+00:00",
+              "published_date": null,
+              "source_hash": "dc38c40710f7297d09eba9fd42d70a1d"
+            },
+            {
+              "url": "",
+              "title": "EDOS - Federal Deposit Insurance Corporation",
+              "snippet": "About. The Federal Deposit Insurance Corporation (FDIC) is an independent agency created by the Congress to maintain stability and public confidence in the nation's financial system.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625411+00:00",
+              "published_date": null,
+              "source_hash": "a21e7a34dee1cf24b7afc589515980b5"
+            },
+            {
+              "url": "",
+              "title": "Company ConnectOne Bancorp, Inc. - MarketScreener.com",
+              "snippet": "ConnectOne Bancorp, Inc. is a financial services company. It operates through its bank subsidiary, ConnectOne Bank. ConnectOne Bank is a commercial bank offering a full suite of deposit and loan products and services to the general public, primarily to small and mid-sized businesses, local professionals and individuals residing, working and conducting business in the New York Metropolitan area ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:52.625419+00:00",
+              "published_date": null,
+              "source_hash": "d80bb0472615cf310713e9d9e1bbf402"
+            },
+            {
+              "url": "",
+              "title": "CNOB Stock Alert: Halper Sadeh LLC Is Investigating Whether the Merger of ConnectOne Bancorp, Inc. Is Fair to Shareholders",
+              "snippet": "Halper Sadeh LLC, an investor rights law firm, is investigating whether the merger of ConnectOne Bancorp, Inc. (NASDAQ: CNOB) and The First of Long Island Corporation is fair to ConnectOne shareholders.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:55.144623+00:00",
+              "published_date": "2024-09-05T19:26:00+00:00",
+              "source_hash": "a0e47a31662f44a1498e68cd3ab32b30"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp (NASDAQ:CNOBP) Trading Up 0.5% - What's Next?",
+              "snippet": "ConnectOne Bancorp, Inc operates as the bank holding company for ConnectOne Bank that provides commercial banking products and services for small and mid-sized businesses, local professionals ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:59.262057+00:00",
+              "published_date": "2025-01-04T00:00:00+00:00",
+              "source_hash": "38da0648db43fbec99f54926d78cfd35"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. (CNOB)",
+              "snippet": "ENGLEWOOD CLIFFS, N.J., Oct. 24, 2024 (GLOBE NEWSWIRE) -- ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (the \"Company\" or \"ConnectOne\"), parent company of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:55.144748+00:00",
+              "published_date": "2025-01-02T21:01:00+00:00",
+              "source_hash": "813744ff275b2d30a86df40cfe407799"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. (CBM.F)",
+              "snippet": "ENGLEWOOD CLIFFS, N.J., Oct. 24, 2024 (GLOBE NEWSWIRE) -- ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (the \"Company\" or \"ConnectOne\"), parent company of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc regulatory penalties",
+              "retrieved_at": "2025-01-06T16:10:55.144773+00:00",
+              "published_date": "2024-11-04T21:55:00+00:00",
+              "source_hash": "1c657db4cde59bb306a9413012fb4e16"
+            },
+            {
+              "url": "",
+              "title": "Are Options Traders Betting on a Big Move in ConnectOne Bancorp (CNOB) Stock?",
+              "snippet": "Investors in ConnectOne Bancorp, Inc. CNOB need to pay close attention to the stock based on moves in the options market lately. That is because the Dec 20, 2024 $30 Call had some of the highest ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:05.197671+00:00",
+              "published_date": "2024-11-12T18:21:00+00:00",
+              "source_hash": "bf27497b36080c7dc40470cccc841775"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. - SEC.gov",
+              "snippet": "CONNECTONE BANCORP, INC. FORM 10-K ... the Bank generally provides for a minimum required rate of interest in its variable rate loans. The Bank's legal lending limit to any one borrower is 15% of the Bank's capital base (defined as tangible equity plus the allowance for loan losses) for most loans ($129.3 million) and 25% of the capital ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.776919+00:00",
+              "published_date": null,
+              "source_hash": "a5fa515a40257075ed4a1d088b0c3bf7"
+            },
+            {
+              "url": "",
+              "title": "KBRA Affirms Ratings for ConnectOne Bancorp, Inc.",
+              "snippet": "KBRA Affirms Ratings for ConnectOne Bancorp, Inc. ... management stated that NIM could stabilize moving forward given that a majority of the deposit repricing has already occurred, with the average cost of deposits of 2.66% for 2Q23. ... given the headwinds on the CRE sector from rising interest rates. However, repricing risk is considered ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777044+00:00",
+              "published_date": null,
+              "source_hash": "a4b34a8557f1c5660d1de81904e982ef"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. Reports First Quarter 2023 Results",
+              "snippet": "Current liquidity including borrowing capacity enhanced to nearly $4 billion or 250% of uninsured and uncollateralized deposits, or approximately 20% of total deposits Core client net inflows contributed to a $400 million, or 5.4%, sequential increase in deposits for the quarter TCE ratio of 8.9% and CET1 ratio of 10.5% at quarter-end, largely unaffected by rising interest rates Net interest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777074+00:00",
+              "published_date": null,
+              "source_hash": "1bc5c59ba3b47959944367a2d5a471c3"
+            },
+            {
+              "url": "",
+              "title": "Objective long/short (CNOBP) Report",
+              "snippet": "The objective of this specific report is to optimize trading in Connectone Bancorp Inc. Depositary Shares (each Representing A 1/40th Interest In A Share Of 5.25% Fixed-rate Reset Non-cumulative Perpetual Preferred Stock Ser (NASDAQ: CNOBP) while incorporating prudent risk controls. Warning:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777086+00:00",
+              "published_date": null,
+              "source_hash": "7eb558dc0112eb6e1992b8c54b3e70f2"
+            },
+            {
+              "url": "",
+              "title": "Connectone Bancorp, Inc. (CNOB) 10K Annual Reports & 10Q SEC Filings",
+              "snippet": "Englewood Cliffs, N.J., January 25, 2024 (GLOBE NEWSWIRE) - ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (the \"Company\" or \"ConnectOne\"), parent company of ConnectOne Bank (the \"Bank\"), today reported net income available to common stockholders of $17.8 million for the fourth quarter of 2023 compared with $19.9 million for the third ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777097+00:00",
+              "published_date": null,
+              "source_hash": "0f39c88ff4c28d4ed950a9aa50374d29"
+            },
+            {
+              "url": "",
+              "title": "Ratings ConnectOne Bancorp, Inc. - MarketScreener.com",
+              "snippet": "Highlights: ConnectOne Bancorp, Inc. Analysts expect a sharply increasing business volume for the group, with high growth rates in the coming years. Margins returned by the company are among the highest on the stock exchange list.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777108+00:00",
+              "published_date": null,
+              "source_hash": "d6be237ac0482471e1312b5699f5b7e2"
+            },
+            {
+              "url": "",
+              "title": "Summary - Weiss Ratings",
+              "snippet": "The Weiss safety rating of ConnectOne Bank (Englewood Cliffs, NJ) is D+. Banking. Sign In Create Account. Home; ... (10.0 on a scale of 0 to 10) based on a risk-based capital ratio of 13.6 and a capital leverage ratio of 11.3. A five year analysis of stability tests including evaluations of capital adequacy, asset growth, and profitability lead ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777118+00:00",
+              "published_date": null,
+              "source_hash": "16640e179ddb3c2ba2d646a789108752"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "ConnectOne Bancorp Inc is a holding company. The company through its holding provides banking services including lending, depository, and related financial services to commercial, industrial and governmental customers. It is managed as one segment: a community bank. It generates revenue from net interest income.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777128+00:00",
+              "published_date": null,
+              "source_hash": "cf67ba28d1ce9d31a09d87dbb96b7b9b"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. Reports Third Quarter 2024 Results; Declares ...",
+              "snippet": "ENGLEWOOD CLIFFS, N.J., Oct. 24, 2024 (GLOBE NEWSWIRE) - ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (the \"Company\" or \"ConnectOne\"), parent company of ConnectOne Bank (the \"Bank\"), today reported net income available to common stockholders of $15.7 million for the third quarter of 2024 compared with $17.5 million for the second quarter of 2024 and $19.9 million for the third quarter ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:56.777137+00:00",
+              "published_date": null,
+              "source_hash": "af957a99b6876cf24f8220105e9d2d2e"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp Inc CNOB",
+              "snippet": "Our investment management business generates asset-based fees, which are calculated as a percentage of assets under management. We also sell both admissions and sponsorship packages for our ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:59.262168+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "f650dab5b2440df4fcfa624340a802a5"
+            },
+            {
+              "url": "",
+              "title": "Are Options Traders Betting on a Big Move in ConnectOne Bancorp (CNOB) Stock?",
+              "snippet": "Investors in ConnectOne Bancorp, Inc. CNOB need to pay close attention ... these trades can actually reduce your risk. Click to see the trades now >> To read this article on Zacks.com click ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:59.262198+00:00",
+              "published_date": "2024-11-12T18:21:00+00:00",
+              "source_hash": "db66adfa8dfaa49cece4658911af99c2"
+            },
+            {
+              "url": "",
+              "title": "Barclays PLC Has $2.87 Million Stock Position in ConnectOne Bancorp, Inc. (NASDAQ:CNOB)",
+              "snippet": "Barclays PLC raised its position in shares of ConnectOne Bancorp, Inc. (NASDAQ:CNOB - Free Report) by 52.0% in the third quarter, HoldingsChannel.com reports. The firm owned 114,708 shares of the financial services provider's stock after purchasing an additional 39,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc interest rate risk management",
+              "retrieved_at": "2025-01-06T16:10:59.262223+00:00",
+              "published_date": "2024-12-25T08:18:00+00:00",
+              "source_hash": "6216f292402c075cf3bf459e311e5c69"
+            },
+            {
+              "url": "",
+              "title": "CNOB Stock Alert: Halper Sadeh LLC Is Investigating Whether the Merger of ConnectOne Bancorp, Inc. Is Fair to Shareholders",
+              "snippet": "Halper Sadeh LLC, an investor rights law firm, is investigating whether the merger of ConnectOne Bancorp, Inc. (NASDAQ: CNOB) and The First of Long Island Corporation is fair to ConnectOne shareholders. The investigation concerns whether ConnectOne and its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:05.197579+00:00",
+              "published_date": "2024-12-28T18:18:00+00:00",
+              "source_hash": "794440e4be2c0c66e426d98548787a1f"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp Inc - 199 Reviews - Banks - Birdeye",
+              "snippet": "Read 199 customer reviews of ConnectOne Bancorp Inc, one of the best Banks businesses. Find reviews, ratings, directions, business hours, and more. Write a review. ... ConnectOne Bancorp Inc. Share this brand profile. 4.2. 199 reviews. across 33 locations. Locations finder. Location performance in the last.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704631+00:00",
+              "published_date": null,
+              "source_hash": "d35097235e863c064faa46c469c87b57"
+            },
+            {
+              "url": "",
+              "title": "connectonebank.com Reviews | Read Customer Service Reviews of www ...",
+              "snippet": "My initial contact with the Bank branch was 7/6, and the issue has not been resolved. Three additional phone calls, and 4 e-mails. No resolution, but the horrible fact is the bank has not elevated the issue, and expressed real concern regarding a customers lost deposits.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704688+00:00",
+              "published_date": null,
+              "source_hash": "f7d442867e523291461a00b4123e3858"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bank Reviews & Complaints - Bank Branch Locator",
+              "snippet": "ConnectOne Bank has an overall customer satisfaction rating of 3.3 out of 5 stars based on 9 votes and 1 reviews & complaints for 23 branches. Below you can read unbiased reviews, complaints and comments for branches or the bank in general. You can also share your own toughts and complaints about ConnectOne Bank using the form below.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704697+00:00",
+              "published_date": null,
+              "source_hash": "c37e6898b618b2698fe351a7c9b7ff54"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bank Reviews: 26 User Ratings - WalletHub",
+              "snippet": "ConnectOne Bank offers financial products and custom solutions to help its clients achieve financial prosperity for themselves, their family and their business. At ConnectOne Bank, they understand that little things matter and focus on those things when providing personal and business banking solutions for their clients.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704705+00:00",
+              "published_date": null,
+              "source_hash": "a3fee833e3e18a6e796fe7cd7bc75700"
+            },
+            {
+              "url": "",
+              "title": "ConnectOneBank | BBB Business Profile - Better Business Bureau",
+              "snippet": "File a Customer Review; Better Business Bureau ... ConnectOne Bancorp, Inc. Business Management: Ms. Elizabeth Magennis, President. Additional Contact Information. Principal Contacts",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704710+00:00",
+              "published_date": null,
+              "source_hash": "0c32566016fd8eeb16dafb6959e2aa39"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bank - 28 Reviews - Banks in Englewood Cliffs, NJ - Birdeye",
+              "snippet": "Read 28 customer reviews of ConnectOne Bank, one of the best Banks businesses at 301 Sylvan Ave #1, Englewood Cliffs, NJ 07632 United States. Find reviews, ratings, directions, business hours, and book appointments online.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704716+00:00",
+              "published_date": null,
+              "source_hash": "d99d82a5ee9bef3d57cce80e26ea1b11"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bank - Bank Branch Locator",
+              "snippet": "The bank operates as a subsidiary of Connectone Bancorp, Inc.. According to the Federal Deposit Insurance Corporation records and based on the institution's charter type, ConnectOne Bank is classified as a commercial bank, state charter and Fed nonmember, supervised by the FDIC. ... The bank has 1 reviews or customer complaints filed. Popular ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704722+00:00",
+              "published_date": null,
+              "source_hash": "7917a17b067fabc99c54c8384ab91c16"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bank - 3 Reviews - Banks in Morristown, NJ - Birdeye",
+              "snippet": "Read 3 customer reviews of ConnectOne Bank, one of the best Banks businesses at 214 South St, Morristown, NJ 07960 United States. Find reviews, ratings, directions, business hours, and book appointments online.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704728+00:00",
+              "published_date": null,
+              "source_hash": "073f485abdd31faf69d3d482ca8a8463"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bank Reviews and Rates - Deposit Accounts",
+              "snippet": "ConnectOne Bank is headquartered in ENGLEWOOD CLIFFS and is the 5 th largest bank in the state of New Jersey. It is also the 163 rd largest bank in the nation. It was established in 2005 and as of September of 2024, it had grown to 482 employees at 23 locations. ConnectOne Bank's savings rates are 8X the national average, and it boasts an A+ ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:02.704733+00:00",
+              "published_date": null,
+              "source_hash": "4c52dd5c0d7636a74f4bf20820972b6a"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. (CNOB)",
+              "snippet": "to review the Company's financial performance and operating results. ENGLEWOOD CLIFFS, N.J., Sept. 05, 2024 (GLOBE NEWSWIRE) -- ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (\"ConnectOne or \"Company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:05.197642+00:00",
+              "published_date": "2025-01-02T21:01:00+00:00",
+              "source_hash": "5dcdac18277b98a6afd04e831a25a877"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. (CBM.F)",
+              "snippet": "to review the Company's financial performance and operating results. ENGLEWOOD CLIFFS, N.J., Sept. 05, 2024 (GLOBE NEWSWIRE) -- ConnectOne Bancorp, Inc. (Nasdaq: CNOB) (\"ConnectOne or \"Company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:05.197695+00:00",
+              "published_date": "2024-11-04T21:55:00+00:00",
+              "source_hash": "884b38863a18809ddbb83fa8a81f323d"
+            },
+            {
+              "url": "",
+              "title": "ConnectOne Bancorp, Inc. to Expand on Long Island Through Merger with The First of Long Island Corporation",
+              "snippet": "ConnectOne Bancorp, Inc. (Nasdaq: CNOB ... call and audio webcast at 10:00 a.m. ET on September 5, 2024 to review the proposed transaction. The conference call dial-in number is (646) 307-1963 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ConnectOne Bancorp Inc ConnectOne Bancorp Inc customer complaints",
+              "retrieved_at": "2025-01-06T16:11:05.197716+00:00",
+              "published_date": "2024-12-28T05:03:00+00:00",
+              "source_hash": "e0a383e8f12841ae36ab32491a1dbc62"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "ConnectOne Bancorp Inc regulatory penalties",
+              "rationale": "Investigate any recent fines or penalties imposed by regulatory bodies such as the FDIC or OCC",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "ConnectOne Bancorp Inc interest rate risk management",
+              "rationale": "Assess how the company manages risks associated with interest rate fluctuations and its impact on financial performance",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "ConnectOne Bancorp Inc customer complaints",
+              "rationale": "Look for patterns of customer dissatisfaction or complaints related to service quality or ethical practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:11:24.053366",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

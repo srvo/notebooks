@@ -1,0 +1,527 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:55:22.102963",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "D-Wave",
+      "symbol": "QBTS",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Financial instability due to revenue decline and reliance on project-based revenue streams",
+            "Technological limitations of quantum annealing compared to gate-based quantum computing",
+            "Intense competition from established players and startups",
+            "Market readiness and uncertainty around commercial adoption of quantum computing"
+          ],
+          "controversies": [
+            "Shareholder investigations by law firms like Pomerantz LLP",
+            "Financial restatements for 2020-2022 and unaudited quarterly reports",
+            "NYSE non-compliance notice in October 2024"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [
+            "Potential lapses in oversight as indicated by legal investigations and financial restatements"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims on Behalf of ...",
+              "snippet": "NEW YORK, March 11, 2024 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of D-Wave Quantum Inc. (\"D-Wave\" or the \"Company\") (NYSE: QBTS).Such investors are advised to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141393+00:00",
+              "published_date": null,
+              "source_hash": "b6700f87279e1803f493c586c8755e19"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates ... - Markets Insider",
+              "snippet": "New York, New York--(Newsfile Corp. - March 5, 2024) - Pomerantz LLP is investigating claims on behalf of investors of D-Wave Quantum Inc. ('D-Wav...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141465+00:00",
+              "published_date": null,
+              "source_hash": "ae43ab91ee56f446544860e34afbe368"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum Inc. - The Rosen Law",
+              "snippet": "On February 2, 2024, after market close, D-Wave filed with the SEC a current report on Form 8-K in which it announced, in pertinent part, that its \"audited financial statements included in its Annual Reports on Form 10-K for the periods ended December 31, 2022, 2021, and 2020\", its \"unaudited financial statements included in each [of the] quarterly reports on Form 10-Q for the periods ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136797+00:00",
+              "published_date": null,
+              "source_hash": "18302f2d39bd3d310e01cc514bc55420"
+            },
+            {
+              "url": "",
+              "title": "D-WAVE ALERT: Bragar Eagel & Squire, P.C. is Investigating - GlobeNewswire",
+              "snippet": "D-WAVE ALERT: Bragar Eagel & Squire, P.C. is Investigating D-Wave Quantum Inc. on Behalf of D-Wave Stockholders and Encourages Investors to Contact the Firm February 07, 2024 21:00 ET | Source ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141493+00:00",
+              "published_date": null,
+              "source_hash": "ba5c06723f5aebbac7ae697c2fe2a77d"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. | D-Wave Quantum Inc.",
+              "snippet": "On February 2, 2024, in a filing with the U.S. Securities and Exchange Commission, D-Wave disclosed that the Audit Committee of the Company's Board of Directors \"determined that the Company's (i) audited financial statements included in the Company's Annual Reports on Form 10-K for the periods ended December 31, 2022, 2021, and 2020 (the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141503+00:00",
+              "published_date": null,
+              "source_hash": "a7d7f734c1285e99944257eb65e01beb"
+            },
+            {
+              "url": "",
+              "title": "D-Wave second quantum pioneer warned of possible delisting",
+              "snippet": "The Notice of Non-Compliance - specifically Section 802.01C of the Exchange's Listed Company Manual - hit the business's desk on March 15, the quantum company confirmed late yesterday. This does not mean common stock in D-Wave Quantum will be delisted immediately.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141514+00:00",
+              "published_date": null,
+              "source_hash": "d705ca22c68d28ca196913573542edb4"
+            },
+            {
+              "url": "",
+              "title": "D-Wave second quantum pioneer warned of possible delisting",
+              "snippet": "A community for the academic discussion of quantum computing topics from hardware through algorithms. Posting academic questions, news, and resources is highly welcome. If you're currently researching, working to support, or studying quantum computing, this is the place for you.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141545+00:00",
+              "published_date": null,
+              "source_hash": "418179520bef8ab7a0ead41e98f458b2"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Regains Compliance with NYSE Continued Listing Standards",
+              "snippet": "D-Wave Quantum Inc. announced it has regained compliance with the New York Stock Exchange's minimum share price requirements and will not be delisted. The company received a recompliance notification from the NYSE on November 1, 2024, following an average closing share price above the $1.00 minimum over the 30 trading days ending October 31 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136792+00:00",
+              "published_date": null,
+              "source_hash": "572fc4a0e5af44221d088fa2bc5311be"
+            },
+            {
+              "url": "",
+              "title": "D-Wave's Quantum Computer Courts Controversy - Scientific American",
+              "snippet": "In 2011, D-Wave published evidence for quantum behavior in its 8-qubit chip. Outside the company, the group that has spent the most time on the question is the University of Southern California's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:52.141565+00:00",
+              "published_date": null,
+              "source_hash": "2f2b4fff5a0e9179a9cd0a7b8608e1b2"
+            },
+            {
+              "url": "",
+              "title": "D-Wave - D-Wave Receives Notice of Non-Compliance with NYSE Trading ...",
+              "snippet": "Intends to cure the deficiency and return to compliance with NYSE standard D-Wave Quantum Inc. (NYSE: QBTS) (\"D-Wave\" or the \"Company\"), a leader in quantum computing systems, software, and services and the world's first commercial supplier of quantum computers, today announced that it received notice from the New York Stock Exchange (the \"NYSE\") on October 2, 2024 that it is not ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136740+00:00",
+              "published_date": null,
+              "source_hash": "ceb5498aa07ae7dc1fc8605becca85c9"
+            },
+            {
+              "url": "",
+              "title": "Is D-Wave Quantum Inc. Stock a Buy in 2025?",
+              "snippet": "Recent financial results reveal the early-stage nature of D-Wave's business model. The company's core quantum computing service revenue grew 41% year over year in Q3 2024, highlighting the increasing adoption of its platform. However, total revenue declined 27% to $1.9 million due to timing variations in professional services contracts.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:02.737400+00:00",
+              "published_date": "2025-01-04T12:30:00+00:00",
+              "source_hash": "9ac1182d56e3a56d515b2b35b0e8d670"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum Inc. (QBTS): A Firm Mirror Broader Market Downturn Ahead of 2025",
+              "snippet": "We recently compiled a list of the 10 Firms Mirror Broader Market Downturn Ahead of 2025. In this article, we are going to take a look at where D-Wave Quantum Inc. (NYSE:QBTS) stands against the other firms that mirror broader market downturn ahead of 2025.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:58.639355+00:00",
+              "published_date": "2024-12-31T12:55:00+00:00",
+              "source_hash": "e44c2a1fcf34a3c9b30500d2db7480be"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum: Better Quantum Stocks Out There",
+              "snippet": "Quantum stocks are surging despite a broader market decline, but the rally may cool off. Click here to find out why QBTS stock is a Hold.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:54.647388+00:00",
+              "published_date": "2024-12-30T21:36:00+00:00",
+              "source_hash": "87e948a79ab69c6d72478d00658b3b71"
+            },
+            {
+              "url": "",
+              "title": "Why D-Wave Quantum Inc. (QBTS) Skyrocketed Yesterday",
+              "snippet": "In this article, we are going to take a look at where D-Wave Quantum Inc. (NYSE:QBTS) stands against the other stocks that skyrocketed yesterday. Ten companies\u2014predominantly involved in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:54.647411+00:00",
+              "published_date": "2024-12-27T09:32:00+00:00",
+              "source_hash": "e25428cf5995fcd7e64f1b64f184e4f2"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum (NYSE:QBTS) Shares Gap Down - Here's What Happened",
+              "snippet": "D-Wave Quantum Inc. (NYSE:QBTS - Get Free Report)'s stock price gapped down prior to trading on Monday . The stock had previously closed at $9.91, but opened at $9.17. D-Wave Quantum shares last traded at $8.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. legal disputes",
+              "retrieved_at": "2025-01-06T15:54:54.647441+00:00",
+              "published_date": "2025-01-01T10:37:00+00:00",
+              "source_hash": "bc84240e88c5fd32ef155bc46f13005e"
+            },
+            {
+              "url": "",
+              "title": " Code of Conduct D-wave Quantum Inc. and Wholly-owned Subsidiaries ...",
+              "snippet": "D-WAVE QUANTUM INC. CODE OF CONDUCT Page 2 You can report suspected violations to the Legal Department or for issues involving officers and directors to the Chief Executive Officer or the Chair of the Audit Committee (the \"Audit Committee\") of D-Wave Quantum Inc.'s Board of Directors (the \"Board of Directors\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136709+00:00",
+              "published_date": null,
+              "source_hash": "ce0379fd525dbfae79a0632b6ca3708e"
+            },
+            {
+              "url": "",
+              "title": "D-Wave - Governance Documents - D-Wave Systems",
+              "snippet": "At D-Wave Systems Inc., we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136748+00:00",
+              "published_date": null,
+              "source_hash": "0637c4786c0c13e50aa4e6deecd16dae"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum (QBTS) Faces Volatility and Valuation Concerns Amid ...",
+              "snippet": "D-Wave Quantum Inc. (QBTS) closed at $9.14 on January 3, 2025, experiencing a decline of 4.89% from the previous close. The stock has swung between $8.83 and $10.15, indicating significant intraday volatility. The RSI14 stands at 68, suggesting that the stock is approaching overbought territory, potentially signaling a pullback in the near term.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136755+00:00",
+              "published_date": null,
+              "source_hash": "c0590b90a7b4d885c41b586a42077fda"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum Inc. Charting a Path to Compliance and Innovation in ...",
+              "snippet": "In essence, 2024 marks a critical juncture for D-Wave Quantum Inc. as it opens new doors in compliance, establishes partnerships in defense, and showcases its groundbreaking technologies. As the quantum landscape evolves, D-Wave's strategic maneuvers could very well determine its trajectory and influence in the rapidly developing field of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136761+00:00",
+              "published_date": null,
+              "source_hash": "6cba98af6eba149781ca89e71a831747"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum Inc. (QBTS) Business Profile \u2014 stockrow",
+              "snippet": "D-Wave Quantum Inc. operates across several core business segments, offering a range of products and services designed to harness the power of quantum computing. ... Regulatory and Ethical Concerns: As quantum computing becomes more widespread, it may face increased scrutiny regarding data security and ethical implications. Recent Developments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136766+00:00",
+              "published_date": null,
+              "source_hash": "0fc91d015be869d48de5e6801308bf4f"
+            },
+            {
+              "url": "",
+              "title": "D-Wave - D-Wave Maintains SOC 2 Type 2 Compliance, Reinforcing ...",
+              "snippet": "SOC 2 Type 2 compliance part of company's ongoing efforts to support customers' production deployments of quantum applications D-Wave Quantum Inc. (NYSE: QBTS), a leader in quantum computing systems, software, and services and the world's first commercial supplier of quantum computers, today announced the successful completion of its second SOC 2\u00ae Type 2 audit as of November 25, 2024 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136785+00:00",
+              "published_date": null,
+              "source_hash": "762ba13cbea79463c8fe2e1960070d21"
+            },
+            {
+              "url": "",
+              "title": " D-WAVE QUANTUM INC. CORPORATE GOVERNANCE GUIDELINES I. Board Membership",
+              "snippet": "D-WAVE QUANTUM INC. CORPORATE GOVERNANCE GUIDELINES I. Board Membership 1.ize of Board S . The Board's size is 7 members, but may be adjusted from time to time by the Board in accordance with the requirements of the Company's governing documents. 2. Majority of Independent Directors. The Board will have a majority of directors",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:56.136802+00:00",
+              "published_date": null,
+              "source_hash": "32b325e2aff5188906e274329e550e64"
+            },
+            {
+              "url": "",
+              "title": "Why D-Wave Quantum Inc. (QBTS) Skyrocketed Yesterday",
+              "snippet": "What's Fueling Their Rise. In this article, we are going to take a look at where D-Wave Quantum Inc. (NYSE:QBTS) stands against the other stocks that skyrocketed yesterday. Ten companies\u2014predominantly involved in the quantum computing sector\u2014have taken the spotlight on Thursday,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:02.737537+00:00",
+              "published_date": "2024-12-27T14:41:00+00:00",
+              "source_hash": "cd8cb8d31d6478d6355a88ad46c5baf7"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum to Participate in Fireside Chat at 27th Annual Needham Growth Conference",
+              "snippet": "The fireside chat can be accessed here, and a recording will be available via the D-Wave Investor Relations site . About D-Wave Quantum Inc.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:58.639418+00:00",
+              "published_date": "2025-01-06T12:09:00+00:00",
+              "source_hash": "1956b34308d73731e8af32d2fa91fa30"
+            },
+            {
+              "url": "",
+              "title": "Is D-Wave Quantum Inc. (QBTS) the Best Quantum Computing Stock to Buy According to Hedge Funds?",
+              "snippet": "In this article, we are going to take a look at where D-Wave Quantum Inc. (NYSE:QBTS) stands against the other quantum computing stocks. Quantum computing stocks are once again in focus after ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "D-Wave D-Wave Quantum Inc. ethical concerns",
+              "retrieved_at": "2025-01-06T15:54:58.639441+00:00",
+              "published_date": "2024-12-11T01:14:00+00:00",
+              "source_hash": "eaa3f82c752c24a4552e0de0955886d0"
+            },
+            {
+              "url": "",
+              "title": "Quantum outfit D-Wave goes public via SPAC merger",
+              "snippet": "Quantum computing pioneer D-Wave Systems has completed its planned merger with DPCM Capital, taking the company public on the New York Stock Exchange. D-Wave announced its intention to merge with DPCM Capital, a SPAC or special purpose acquisition company, earlier this year in a deal that would make it a publicly quoted business. It was claimed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126148+00:00",
+              "published_date": null,
+              "source_hash": "f1066f882cd336c0d4d4b4f21b17d64b"
+            },
+            {
+              "url": "",
+              "title": "SPAC deals reign (and make it rain) in quantum, with D-Wave the latest",
+              "snippet": "That's why in addition to D-Wave at least two other quantum computing companies-IonQ and Rigetti Computing-pursued SPAC deals during 2021. IonQ went public last October, while Rigetti, which announced a SPAC merger that same month, is still awaiting its market debut. IonQ reportedly took in a whopping $650 million in proceeds from its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126279+00:00",
+              "published_date": null,
+              "source_hash": "ce1b7b520b49d69955c9a6517c395fc3"
+            },
+            {
+              "url": "",
+              "title": "D-Wave to go public after $1.2 billion merger deal with SPAC",
+              "snippet": "Quantum computer company D-Wave will go public after reaching a deal to merge with the SPAC (special purpose acquisition company) DPCM Capital, in a deal that values the advanced-computing firm at $1.2bn. The private biz will change its name to D-Wave Quantum Inc. and will receive about $340m in funding.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126301+00:00",
+              "published_date": null,
+              "source_hash": "2462dfa50e0fdf7038ff23ae1c46a20c"
+            },
+            {
+              "url": "",
+              "title": "Quantum computing startup D-Wave is going public in a $1.6 billion SPAC ...",
+              "snippet": "After a red hot 2021 SPAC mergers, 2022 is shaping out to be another strong year. Today, Grab becomes the latest in a series of tech companies going public via special purpose acquisition company (SPAC) as investors poured billions of dollars into online delivery startups. Today, Quantum computing startup D-Wave Systems announced it had agreed to",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126317+00:00",
+              "published_date": null,
+              "source_hash": "c978035189f7913362864a30d8759d4b"
+            },
+            {
+              "url": "",
+              "title": "D-Wave regains NYSE listing compliance after stock price rise",
+              "snippet": "The company went public in August 2022 after a SPAC merger with DPCM Capital.. In October 2023, the company was given six months to bring its share price back above a $1 average closing share price over a 30-day period, or face being delisted due to its low stock price.. D-Wave's stock price hit $1 on February 9, 2024, rising to a peak of $2.05 on February 20.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126331+00:00",
+              "published_date": null,
+              "source_hash": "3e47f489a43d0a77dd74521a8efc2d05"
+            },
+            {
+              "url": "",
+              "title": "Quantum Computing Company D-Wave Merging with DPCM Capital in $1.2B ...",
+              "snippet": "D-Wave Systems, a firm engaged in quantum computing systems, software, and services, today announced a definitive transaction agreement with DPCM Capital. The deal values D-Wave at an equity value of approximately $1.2 billion. The transaction also includes an incentive structure in which a bonus pool of 5 million shares will be allocated pro rata to",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126345+00:00",
+              "published_date": null,
+              "source_hash": "1192724a34d5afda13a8ee295eb068cd"
+            },
+            {
+              "url": "",
+              "title": "Quantum Computer Maker D-Wave Reaches $340 Million SPAC Deal",
+              "snippet": "The deal also provides additional funding of $40 million from a private investment in public equity, or PIPE, from investors including Goldman Sachs Group Inc. and Canada's PSP Investments. Shares of the new company, to be called D-Wave Quantum Inc., are expected to trade on the New York Stock Exchange under the symbol QBTS.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126357+00:00",
+              "published_date": null,
+              "source_hash": "28cd99945174718a8b8ce81901c91aa7"
+            },
+            {
+              "url": "",
+              "title": "D-Wave, DPCM announce post-merger board, changed redemption plan",
+              "snippet": "Upon the closing of the transaction, which was announced in early February, shares of D-Wave Quantum Inc., which will serve as the parent company of D-Wave. 888-384-7144 info@insidequantumtechnology.com. ... D-Wave and DPCM have said that they intend to close their \"De-SPAC transaction\" (a merger between a private company and a special ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126369+00:00",
+              "published_date": null,
+              "source_hash": "897532c7e85e4f7b4120c2b34dcb95fa"
+            },
+            {
+              "url": "",
+              "title": "Quantum's SPAC track to success: D-Wave is the latest, probably not the ...",
+              "snippet": "Canada's D-Wave Systems is the latest quantum computing company with plans to go public, following this week's announcement that it is merging with special purpose acquisition company (SPAC) DPCM Capital in a deal that values D-Wave at about $1.2 billion. Again, we are seeing the persuasive power of the SPAC transaction do its magic on",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126380+00:00",
+              "published_date": null,
+              "source_hash": "25dbbdc175eeb861ac6b83e1726fac48"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Systems to go public in US with $1.2bn SPAC merger",
+              "snippet": "D-Wave Systems to go public in US with $1.2bn SPAC merger. Vancouver-based D-Wave Systems, a quantum computing systems, software and services provider, has agreed to go public in the US by merging ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:00.126392+00:00",
+              "published_date": null,
+              "source_hash": "cdfe64a9ce48235d3ff25a7d0efc25f3"
+            },
+            {
+              "url": "",
+              "title": "Why D-Wave Quantum's (QBTS) Shares Are Falling",
+              "snippet": "We recently published a list of 10 Firms Buck Broader Market Optimism. In this article, we are going to take a look at where D-Wave Quantum Inc. (NYSE:QBTS) stands against other firms buck broader market optimism.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:02.737506+00:00",
+              "published_date": "2025-01-04T19:47:22+00:00",
+              "source_hash": "b5b0d131f72b0bf3d4dc3db862230e80"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum Inc (QBTS) Stock's 10.8% Increase This Year: What's the Story?",
+              "snippet": "D-Wave Quantum Inc (QBTS) stock saw a modest uptick, ending the day at $9.91 which represents a slight increase of $0.01 or 0.10% from the prior close of $9.9. The stock opened at $10.14 and touched a low of $9.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:02.737569+00:00",
+              "published_date": "2024-12-30T15:50:00+00:00",
+              "source_hash": "9585e891014f2101e76b1c45bc30604b"
+            },
+            {
+              "url": "",
+              "title": "D-Wave Quantum Shares Are On The Rise Friday: What's Going On?",
+              "snippet": "Why It Matters: D-Wave, which operates within the quantum computing space, may be benefiting from investor speculation that advancements such as Google's Willow could bolster interest and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "D-Wave D-Wave Quantum Inc. SPAC merger controversies",
+              "retrieved_at": "2025-01-06T15:55:02.737593+00:00",
+              "published_date": "2024-12-13T16:26:00+00:00",
+              "source_hash": "ac0217f4d054b77b30cae4061f8d3ca6"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "D-Wave Quantum Inc. legal disputes",
+              "rationale": "Investigate any ongoing or past legal issues that could impact the company's financial stability or reputation.",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "D-Wave Quantum Inc. ethical concerns",
+              "rationale": "Explore any ethical issues related to D-Wave's business practices, including partnerships and customer engagements.",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "D-Wave Quantum Inc. SPAC merger controversies",
+              "rationale": "Examine any controversies or risks associated with D-Wave's SPAC merger and public listing process.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:55:22.102971",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

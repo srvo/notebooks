@@ -1,0 +1,461 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:53:06.700266",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Workday Inc",
+      "symbol": "WDAY",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "AI bias lawsuit (Mobley v. Workday) could set a precedent for AI-related employment discrimination litigation",
+            "Data privacy and security concerns due to cloud-based SaaS model",
+            "High cost and implementation complexity of solutions, particularly for smaller organizations",
+            "Dependence on long-term contracts with large enterprises, making it vulnerable to economic downturns",
+            "Intense competition from established players and emerging SaaS providers"
+          ],
+          "controversies": [
+            "AI bias lawsuit alleging discriminatory practices in AI-powered hiring tools",
+            "Lack of diversity in workforce, particularly among Black employees"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving net-zero carbon emissions by 2050"
+          ],
+          "social_issues": [
+            "Lack of diversity in workforce",
+            "Ethical concerns related to AI bias and employment discrimination"
+          ],
+          "governance_issues": [
+            "Potential reputational risks related to diversity, equity, and inclusion (DEI) practices",
+            "Compliance with global data privacy regulations like GDPR"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Workday must face novel bias lawsuit over AI screening software",
+              "snippet": "The lawsuit claims Workday uses data on a company's existing workforce to train its AI software to screen for the best applicants without accounting for the existing discrimination that it may ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.994387+00:00",
+              "published_date": null,
+              "source_hash": "169c288e435af85b66be245e405884a4"
+            },
+            {
+              "url": "",
+              "title": "Workday accused of facilitating widespread bias in novel AI lawsuit ...",
+              "snippet": "Workday Inc, U.S. District Court for the Northern District of California, No. 3:23-cv-00770. For Mobley: Lee Winston and Roderick Cooks of Winston Cooks For Workday: Julie Totten of Orrick ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.994975+00:00",
+              "published_date": null,
+              "source_hash": "dd8bff9b6ff8f5eedb98c878040e5950"
+            },
+            {
+              "url": "",
+              "title": "Mobley v. Workday: A Potential Shift in Employment Discrimination ...",
+              "snippet": "Workday, Inc.), class-action Plaintiffs allege that Workday's AI screening software tool is biased and that Workday is directly liable for alleged unlawful employment discrimination caused by an employer's use of Workday's AI-powered hiring tools. On July 12, 2024, the court issued a mixed ruling in the closely watched class action case.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530327+00:00",
+              "published_date": null,
+              "source_hash": "164048da3adb0b707c436949d029224b"
+            },
+            {
+              "url": "",
+              "title": "Workday Loses Bid to Toss Bias Claims Over AI Hiring Tools (1)",
+              "snippet": "Workday Inc. must defend against a lawsuit alleging its algorithmic decision-making tools discriminate against job applicants who are Black, over the age of 40, or disabled, according to a federal court opinion on Friday. The lawsuit adequately alleges that Workday is an agent of its client-employers, and thus falls within the definition of an employer for purposes of federal anti ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.995148+00:00",
+              "published_date": null,
+              "source_hash": "47f5518c31f835da5d6c2495d8cb5c7d"
+            },
+            {
+              "url": "",
+              "title": "Algorithmic Bias Discrimination Lawsuit in Mobley vs. Workday",
+              "snippet": "Plaintiff Derek Mobley (\"Mobley\") filed a putative class action lawsuit in February 2023, alleging that his applications for 80-100 jobs with employers who use Workday's screening tools were ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.995156+00:00",
+              "published_date": null,
+              "source_hash": "4d4625874602418fa223e9b1d9a0b395"
+            },
+            {
+              "url": "",
+              "title": "California Court Finds that HR Vendors Using Artificial Intelligence ...",
+              "snippet": "The Northern District of California issued an eagerly awaited decision last month in Mobley v. Workday, Inc., where a job applicant claims that Workday's artificial intelligence (AI) job applicant screening tools violate federal and California anti-discrimination laws.Workday moved to dismiss the claims, on the basis that it is not a covered employer under any of the applicable anti ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.995161+00:00",
+              "published_date": null,
+              "source_hash": "c92f216f0cd6d4416c9dec88a6a9efdc"
+            },
+            {
+              "url": "",
+              "title": "Novel Suit Calling Workday's AI-Driven Hiring Tool Biased Advances ...",
+              "snippet": "AI-powered HR platform Workday must face claims that its algorithmic screening tool was built with biased training data and disproportionately weeds out job applicants who are Black, disabled and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530383+00:00",
+              "published_date": null,
+              "source_hash": "6a6c9c007df55a196b7527b83ff4f4d5"
+            },
+            {
+              "url": "",
+              "title": "EEOC says Workday must face claims that AI software is biased",
+              "snippet": "Workday Inc, U.S. District Court for the Northern District of California, No. 3:23-cv-00770. ... Litigation category Apple to pay $95 million to settle Siri privacy lawsuit January 2, 2025 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.995294+00:00",
+              "published_date": null,
+              "source_hash": "ab65ad3484a6b5c0f7e29ac055cd51cb"
+            },
+            {
+              "url": "",
+              "title": "Workday Defends AI, Software in Unconscious Hiring Bias Lawsuit",
+              "snippet": "Workday Inc. tried to convince a federal judge Tuesday to dismiss a lawsuit alleging the artificial intelligence systems and tools the software company uses to assist businesses in hiring decisions illegally screened out Black, older, and disabled job applicants. The company, which produces financial planning, payroll, and human resources services, argues that plaintiff Derek Mobley's suit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.995301+00:00",
+              "published_date": null,
+              "source_hash": "0cf0ac9061d846186839819e29c08616"
+            },
+            {
+              "url": "",
+              "title": "Court Grants Motion to Dismiss in AI Employment Discrimination Lawsuit",
+              "snippet": "The U.S. District Court for the Northern District of California granted an employer's motion to dismiss a class action lawsuit with leave for the plaintiff to amend the complaint.. This came in Mobley vs. Workday, Inc., a lawsuit alleging that Workday's artificial intelligence (\"AI\") systems and algorithm-based applicant screening tools discriminate against job applicants based on race ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:32.995305+00:00",
+              "published_date": null,
+              "source_hash": "38ddef2862e8b009343b05bffcce0407"
+            },
+            {
+              "url": "",
+              "title": "Judge Grants Workday, Inc.'s Motion to Dismiss in Groundbreaking AI Class Action Lawsuit Mobley v. Workday",
+              "snippet": "In a recent development in Mobley vs. Workday, Inc., the novel class action lawsuit filed in the United States District Court for the Northern District of California alleging that Workday's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:37.020199+00:00",
+              "published_date": "2024-05-13T13:45:00+00:00",
+              "source_hash": "0a85fc3e64a0f30ae1a0974330025425"
+            },
+            {
+              "url": "",
+              "title": "Everyone hates Workday",
+              "snippet": "(\"We believe this lawsuit is ... But Workday's servers belong with its clients, and so it can't (or won't) do this. Does Workday want to carry the liability of a data breach that could damage ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:37.020329+00:00",
+              "published_date": "2024-05-06T10:28:00+00:00",
+              "source_hash": "d49c5c3255c5a9d7ea4e5076c57acd34"
+            },
+            {
+              "url": "",
+              "title": "Workday Inc",
+              "snippet": "Wall Street stocks end lower after inflation data, tech stocks push Nasdaq ... businesses bakes in existing biases. Workday must face novel bias lawsuit over AI screening software Workday shares ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:37.020341+00:00",
+              "published_date": "2024-10-22T00:00:00+00:00",
+              "source_hash": "db61c794d2482e15e99659c87398e813"
+            },
+            {
+              "url": "",
+              "title": "Could Lawsuits Against AI Lead To A Shift In Job Searching?",
+              "snippet": "This isn't the first AI discrimination lawsuit. iTutorGroup Inc., a China-based tutoring ... He claimed that Workday mines data from many job applications. It uses the data to create a pattern ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:52:37.020349+00:00",
+              "published_date": "2024-03-21T15:37:00+00:00",
+              "source_hash": "9e4d8b1fde6e115b2e9e1ecf67d96956"
+            },
+            {
+              "url": "",
+              "title": "Workday admits to Black diversity problem, pledges to improve",
+              "snippet": "Workday drew attention to its low percentage of Black employees this month in an online forum on diversity. The session was prompted by broader racial bias issues raised nationwide. During the forum, the HR software vendor acknowledged that its Black diversity needs work and said that it is developing a plan to address the disparity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530270+00:00",
+              "published_date": null,
+              "source_hash": "602299383b662cbf23315cd250e7ef49"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit alleging Workday's AI tools are discriminatory can ... - HR Dive",
+              "snippet": "UPDATE: July 17, 2024: This story has been updated with a comment from Workday. A lawsuit alleging that Workday's AI screening software tool is biased can move forward, a federal district court ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530339+00:00",
+              "published_date": null,
+              "source_hash": "ff88f911fa684110672b171890a91c26"
+            },
+            {
+              "url": "",
+              "title": "Workday Faces Discrimination Suit Over Biased AI Software",
+              "snippet": "Enforcing the workplace rights of thousands of employees, executives and sales reps for more than 44 years. Workday Faces Discrimination Suit Over Biased AI Software Workday Inc., a software company that produces programs for human resources and labor management purposes, is facing a class action lawsuit due to alleged bias in its artificial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530347+00:00",
+              "published_date": null,
+              "source_hash": "dde0c14d0ff9ed42bf5571e21ea08af1"
+            },
+            {
+              "url": "",
+              "title": "Workday facing discrimination lawsuit over AI hiring software",
+              "snippet": "The complaint argues that Mobley \u2014 described in court documents as a Black man over 40 years old diagnosed with anxiety and depression \u2014 was subject to racism, ageism and ableism via more than 100 job applications he submitted to employers using Workday's hiring software, with the lawsuit seeking restitution in the form of modifications to Workday's software and putting a halt on its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530355+00:00",
+              "published_date": null,
+              "source_hash": "9dd85a9711ab5684cd6a3d47d66b295b"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit Claims Workday's AI And Screening Tools Discriminate Against ...",
+              "snippet": "Lawsuit Claims Workday's AI And Screening Tools Discriminate Against Those Black, Disabled Or Over Age 40 Shanique Yates Mon, Mar 6, 2023, 1:46 PM 2 min read",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530366+00:00",
+              "published_date": null,
+              "source_hash": "a99d8b6eecf432ea7113d092e2c6ee53"
+            },
+            {
+              "url": "",
+              "title": "Workday hit with claims its AI hiring systems are discriminatory",
+              "snippet": "\"Workday, Inc. unlawfully offers an algorithm-based applicant screening system that determines whether an employer should accept or reject an application for employment based on the individual's race, age, and or disability,\" the complaint [PDF] read.. The complaint made no distinction between the use of Workday's systems by individual firms as the systems in question are used by a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530373+00:00",
+              "published_date": null,
+              "source_hash": "92b6148cdb8f1affe974cfa0bbb4d179"
+            },
+            {
+              "url": "",
+              "title": "Mobley v. Workday: Court Holds AI Service Providers Could Be Directly ...",
+              "snippet": "Seyfarth Synopsis: On July 12, 2024, the court issued a mixed ruling in the closely watched Mobley v. Workday putative class action, which claims that Workday, a Human Capital Management platform, is directly liable for alleged unlawful employment discrimination caused by an employer's use of Workday's AI-powered hiring tools. The key issue before the Court was whether Workday could be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530402+00:00",
+              "published_date": null,
+              "source_hash": "f3657c9b6a9141ef1577bc8bf79235bc"
+            },
+            {
+              "url": "",
+              "title": "EEOC says Workday must face claims that AI software is biased",
+              "snippet": "The U.S. Equal Employment Opportunity Commission has told a federal judge that human resources software firm Workday must face a proposed class action alleging that it violated federal anti-bias ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Workday Inc Workday Inc employee diversity controversies",
+              "retrieved_at": "2025-01-06T16:52:38.530410+00:00",
+              "published_date": null,
+              "source_hash": "0443e00247761ead9c638f75bea7160b"
+            },
+            {
+              "url": "",
+              "title": "Workday Reviews: A Comprehensive Guide to Pricing, Pros & Cons - OutSail",
+              "snippet": "Workday pricing models can be complex. Workday typically charges companies on a quarterly or annual subscription basis. Workday is often one of the more expensive option in the marketplace. Workday HCM annual subscriptions historically had a minimum annual contract value (ACV) of $250K, but this is no longer the case. Workday software fees can ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477899+00:00",
+              "published_date": null,
+              "source_hash": "3f06994f4dee5a6915c94f84575abf9a"
+            },
+            {
+              "url": "",
+              "title": "Workday | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Workday filed with BBB. BBB helps resolve disputes with the services or products a business provides. ... Customer Reviews are not used in the calculation of BBB Rating. Reasons ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477934+00:00",
+              "published_date": null,
+              "source_hash": "12ba483b1b0a60b839db172769d03f8e"
+            },
+            {
+              "url": "",
+              "title": "Workday Reviews | Read Customer Service Reviews of workday.com - Trustpilot",
+              "snippet": "Illinois Consumer Rights. 1 review. US. Oct 1, 2024. Applied at WalMart. ... It's Unbelievable how BAD Workday is!!! I rarely write reviews but, after 30mins of frustration using WorkDay this morning it has compelled to write this review. ... Workday, Inc. is an on\u2011demand financial management and human capital management software vendor ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477941+00:00",
+              "published_date": null,
+              "source_hash": "ce98d8a914983e7622c545217d98af4a"
+            },
+            {
+              "url": "",
+              "title": "Workday Review - Workingday",
+              "snippet": "This Workday review provides an in-depth exploration of Workday HCM, a pivotal player in the Human Capital Management (HCM) System sector. ... Pros of Workday Customer Support and Service. Multiple Support Channels: Provides flexibility and accessibility, ... Complexity of Pricing Model: While flexible, the pricing model can be complex, ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477948+00:00",
+              "published_date": null,
+              "source_hash": "152ef739e323fec9fbfb87d2de3e1164"
+            },
+            {
+              "url": "",
+              "title": "Workday Review 2024: Pricing, Pros and Cons - MarketWatch",
+              "snippet": "In our Workday review, we will discuss this popular HR software and its pros, cons, features, plans and more to help you decide if it's a good fit for you. ... Workday Review 2024 (Pricing, Pros ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477952+00:00",
+              "published_date": null,
+              "source_hash": "ae1b0ae7796f8ecaaeca97134c25c462"
+            },
+            {
+              "url": "",
+              "title": "Workday Review 2025: Features, Pros And Cons - Forbes",
+              "snippet": "Workday provides excellent customer service in this regard. The Workday Launch program lets businesses purchase a preconfigured HR package from Workday, or select one of the company's service ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477957+00:00",
+              "published_date": null,
+              "source_hash": "b69cc5f66e1d8fb492fb446ee76635a9"
+            },
+            {
+              "url": "",
+              "title": "As a customer, what do you hate about Workday? : r/workday - Reddit",
+              "snippet": "Notifications: the fact that workday being a cloud company still uses email notifications, in the era or slack, Workday should allow easier integration to notify employees and channels via slack. APIs : Workday has an amazing set of APIs but they are built on SOAP which is a good 15-20 year old technology, Workday needs to seriously up it API ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477961+00:00",
+              "published_date": null,
+              "source_hash": "5d729bc100959f846d30ce0dea727cb1"
+            },
+            {
+              "url": "",
+              "title": "Unpacking Workday's Pricing: What Drives the Costs? - OutSail",
+              "snippet": "Workday's pricing is higher due to several factors, including software fees, implementation costs, ongoing support, configurability, product architecture, user experience, finance capabilities, selection bias, and brand marketing. ... Workday's implementation fees are often higher due to the complexity of the system and the need for extensive ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477965+00:00",
+              "published_date": null,
+              "source_hash": "c127e5db0c32844e806ff0b03b070689"
+            },
+            {
+              "url": "",
+              "title": "Workday Review 2024 Pricing, Features, Shortcomings",
+              "snippet": "Their Workday Financial Management Software debuted in 2007 followed by Workday 10 (talent management and HCM solution) in 2010. The company went public in 2012. Workday also offers Big Data Analytics as well as cloud solutions targeted specifically for Higher Education.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477969+00:00",
+              "published_date": null,
+              "source_hash": "ed9a46d9a95d6cf4907e46324599991b"
+            },
+            {
+              "url": "",
+              "title": "Workday HCM Reviews 2024 - Pros & Cons - SoftwareSuggest",
+              "snippet": "Here's an unbiased review of Workday HCM. Discover how Workday HCM users rate its features, ease of use, customer support, and other aspects that contribute to its overall appeal. 4.2 /5",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Workday Inc Workday Inc customer complaints pricing complexity",
+              "retrieved_at": "2025-01-06T16:52:42.477974+00:00",
+              "published_date": null,
+              "source_hash": "60cf8a99390a9d2491ebc54fa1697fff"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Workday Inc data privacy lawsuits",
+              "rationale": "Investigate legal challenges related to data security and compliance with regulations like GDPR",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Workday Inc employee diversity controversies",
+              "rationale": "Examine any controversies or criticisms regarding diversity and inclusion practices within the company",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Workday Inc customer complaints pricing complexity",
+              "rationale": "Explore customer feedback and legal disputes regarding the high cost and complexity of Workday's solutions",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:53:06.700279",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

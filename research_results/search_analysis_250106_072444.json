@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:24:44.558973",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Rithm Capital Corp",
+      "symbol": "RITM",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Interest rate sensitivity impacting mortgage servicing rights and profitability",
+            "Regulatory risks from stringent mortgage industry regulations",
+            "Market volatility due to cyclical housing market conditions",
+            "Operational complexity in managing large MSR and mortgage loan portfolios",
+            "Legal challenges, including the Sellers v. NewRez case"
+          ],
+          "controversies": [
+            "Workforce reductions at Newrez, raising concerns about employee welfare",
+            "Legal disputes over mortgage servicing practices, such as the Sellers v. NewRez lawsuit"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Workforce reductions at Newrez impacting employee welfare"
+          ],
+          "governance_issues": [
+            "Potential reputational and financial risks from legal disputes and regulatory scrutiny"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Newrez stock offering to drive Rithm's 2025 prospects",
+              "snippet": "Rithm has acquired Sculptor Capital Management and Specialized Loan Servicing, along with an affiliate becoming the external manager of what was formerly known as Great Ajax. Michael Nierenberg, Rithm CEO, chairman and president, told analysts on the company's third quarter earnings call that a Newrez IPO could take place in 2025.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988587+00:00",
+              "published_date": null,
+              "source_hash": "8f6ab8c76288129c514b0584a38b5807"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital - Wikipedia",
+              "snippet": "Rithm Capital Corp. Headquarters at 799 Broadway. Formerly: New Residential Investment Corp. ... Rithm Capital (Rithm) is an ... Newrez a mortgage lending and servicing unit under New Residential agreed to acquire Caliber Home Loans from Lone Star Funds in a $1.675 billion deal. In February 2022, Newrez laid off 386 employees or about 3% of its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988742+00:00",
+              "published_date": null,
+              "source_hash": "5eca3ca3d1ebbe0d383319b1a783557f"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. - AnnualReports.com",
+              "snippet": "Rithm Capital, formerly New Residential Investment Corp., is an asset manager focused on the real estate and financial services sectors. Since inception in 2013, Rithm Capital has grown to approximately $7 billion in equity and $32 billion in assets on balance sheet, distributed over $4.6 billion in dividends, and owns multiple operating companies and a diverse investment portfolio.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988777+00:00",
+              "published_date": null,
+              "source_hash": "b459892011ba1cef7ae35cb4295c1414"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital May Spin Off Mortgage Business - NMP",
+              "snippet": "Rithm Capital rebranded last year, and now the CEO says the company is considering another big change \u2014 spinning off its mortgage operation. The New York-based parent of Newrez LLC and Caliber Home Loans rebranded itself in 2022 from New Residential Investment Corp.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988804+00:00",
+              "published_date": null,
+              "source_hash": "570db4936859fc22c9c1ea452c660913"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital floats separation of mortgage business",
+              "snippet": "Gain on sale on originations was 161 basis points, shrinking from 181 three months earlier. Revenues across all Rithm divisions, including originations and servicing, residential securities, mortgage loans receivable and corporate, added up to $783.4 million, 2.8% higher from $762.4 in the fourth quarter, but down 54.7% from $1.73 billion a year earlier.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988836+00:00",
+              "published_date": null,
+              "source_hash": "191346111111d47712f3c672eb74339f"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital: Wells Fargo's Exit An Opportunity (NYSE:RITM)",
+              "snippet": "Wells Fargo Leaves A Rithm Capital Shaped Hole In The Mortgage Market Jan. 20, 2023 12:25 AM ET Rithm Capital Corp. (RITM) Stock RITM.PR.A , RITM.PR.B , RITM.PR.C , RITM.PR.D , RKT , WFC 47 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988859+00:00",
+              "published_date": null,
+              "source_hash": "f1e491b9235ef218e1d74d016faaa8a8"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital reports first quarterly loss in over a year",
+              "snippet": "Rithm Capital reported its first earnings loss in over a year, taking a hit as falling interest rates led to a writedown of mortgage servicing rights at the end of 2023. But the company also saw some optimism in the year ahead for its mortgage business, as it sought to right-size itself to increase profitability while realigning overall strategy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988880+00:00",
+              "published_date": null,
+              "source_hash": "390cb103a0d015057ab769b1e274e629"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. (RITM) Company Profile & Overview - Stock Analysis",
+              "snippet": "The company was formerly known as New Residential Investment Corp. and changed its name to Rithm Capital Corp. in August 2022. Rithm Capital Corp. was incorporated in 2011 and is based in New York, New York.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988902+00:00",
+              "published_date": null,
+              "source_hash": "4562b21626c18ee3b3e334d1a2b4f1ba"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. Company Profile | New York, NY | Competitors ...",
+              "snippet": "Company Description: Rithm Capital Corp. is an investment manager with a vertically integrated mortgage platform and invests in real estate and related opportunities. It is structured as a real estate investment trust (REIT) for the US federal income tax purposes. Its diversified portfolio includes mortgage servicing rights, mortgage origination, and servicing companies (including ancillary ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988923+00:00",
+              "published_date": null,
+              "source_hash": "7f353a4f25e039668ccb2801770e104f"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corporation (RITM) Stock News & Articles - 24/7 Wall St.",
+              "snippet": "Industry: REAL ESTATE INVESTMENT TRUSTS ... Market Cap: 5,305.82M USD: Shares Outstanding: 483,226,000: Rithm Capital Corporation, previously known as New Residential Investment Corp., is a New ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:11.988946+00:00",
+              "published_date": null,
+              "source_hash": "0e90a59cca18acb0daf8f8834e2f5fd0"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Announces the Closing of Securitized Notes Backed by Mortgage Servicing Rights",
+              "snippet": "NEW YORK--(BUSINESS WIRE)--Rithm Capital Corp. (NYSE: RITM ... and we look forward to extending our leadership across the mortgage industry.\" CAUTIONARY NOTE REGARDING FORWARD-LOOKING ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:14.441448+00:00",
+              "published_date": "2024-11-14T16:15:00+00:00",
+              "source_hash": "a42304b2992fb1d7af2612eab8f83d0c"
+            },
+            {
+              "url": "",
+              "title": "Newrez stock offering to drive Rithm's 2025 prospects",
+              "snippet": "Rithm Capital has been teasing an initial public offering of the mortgage banker for some time, and 2025 is likely to be the year, Keefe, Bruyette & Woods said.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:14.441543+00:00",
+              "published_date": "2024-12-30T21:50:00+00:00",
+              "source_hash": "45515e7035ae8a578f3d4fde540eabb2"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. (NYSE:RITM) is largely controlled by institutional shareholders who own 51% of the company",
+              "snippet": "Using data from analyst forecasts alongside ownership research, one can better assess the future performance of a company To get a sense of who is truly in control of Rithm Capital Corp. (NYSE ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:24.476720+00:00",
+              "published_date": "2025-01-03T13:02:00+00:00",
+              "source_hash": "e62caaac467aefd42bc2c04b81cdac8c"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Breaks Above 200-Day Moving Average - Bullish for RITM",
+              "snippet": "In trading on Friday, shares of Rithm Capital Corp (Symbol: RITM) crossed above their 200 day moving average of $11.10, changing hands as high as $11.15 per share. Rithm Capital Corp shares are ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:14.441598+00:00",
+              "published_date": "2025-01-03T21:04:00+00:00",
+              "source_hash": "6a3e383e28a015265ffc82951ec128e2"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. Declares Fourth Quarter 2024 Common and Preferred Dividends",
+              "snippet": "Rithm's businesses include Sculptor Capital Management, Inc., an alternative asset manager, as well as Newrez LLC and Genesis Capital LLC, leading mortgage origination and servicing platforms.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp regulatory violations mortgage industry",
+              "retrieved_at": "2025-01-06T14:24:14.441621+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "dbfc8cf8675805c343eaf7006c7ca988"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital's Sector Comparative Analysis - Part 2 (RITM)",
+              "snippet": "The focus of this two-part article is to provide a very detailed analysis comparing Rithm Capital Corp. (NYSE:RITM) to 19 other mortgage real estate investment trust (mREIT) peers I currently ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.926949+00:00",
+              "published_date": null,
+              "source_hash": "a29e39e833b28875f0e93c0bdaf66da5"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. (RITM): Among the Cheap REITs with Huge Upside",
+              "snippet": "We recently compiled a list of the 10 Cheap REITs with Huge Upside. In this article, we are going to take a look at where Rithm Capital Corp. (NYSE:RITM) stands against the other Cheap REITs with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927052+00:00",
+              "published_date": null,
+              "source_hash": "152a7d0a5298df65fad9fdaf33f6b539"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital: Hawkish Fed, Strong Yield, Upside Potential In 2025",
+              "snippet": "Rithm Capital offers a sustainable 9% dividend yield, focusing on Mortgage Servicing Rights. Read why RITM stock could be a highly promising investment in 2025.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:24.476602+00:00",
+              "published_date": "2025-01-06T01:06:00+00:00",
+              "source_hash": "ce12f4b8d1d199392976f09995ff5a0d"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital: 9% Yield, 2.2x Dividend Coverage, Upside",
+              "snippet": "Rithm Capital offers a stable 9% yield, a strong dividend coverage profile, and a diversified revenue stream. The REIT has expanded through acquisitions, diversifying its portfolio beyond mortgage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927080+00:00",
+              "published_date": null,
+              "source_hash": "961221f3e6e3880b9aeb33a823738b57"
+            },
+            {
+              "url": "",
+              "title": "KBRA Affirms Issuer Ratings for Rithm Capital Corp and Subsidiary ...",
+              "snippet": "Rithm's interest rate hedging strategy has historically been conducted with a holistic perspective on investment assets. While a refined MSR hedging program - given an almost $9 billion investment in the asset - would be viewed favorably, recent year, mortgage asset hedge positions, have been broadly effective.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927091+00:00",
+              "published_date": null,
+              "source_hash": "5e474ef2075efba6e645690b70eb0026"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. (RITM) Stock Price, Quote & News - Stock Analysis",
+              "snippet": "Rithm Capital Corp. offers a 9% dividend yield with strong coverage and potential upside, performing well in both rising and declining interest rate environments. The company's diversified strategy, i...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927103+00:00",
+              "published_date": null,
+              "source_hash": "4f13f073f03215f33e9ff081dd18b7d8"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Rithm Capital Corp., a global asset manager focused on real estate, credit, and financial services, has released its Form 10-Q report for the third quarter of 2024. The report provides a comprehensive overview of the company's financial performance, business operations, strategic initiatives, and t\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927115+00:00",
+              "published_date": null,
+              "source_hash": "e1deebf7dba4770844988b83ca58a3b2"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. Stock Grades | RITM | Barron's",
+              "snippet": "Rithm Capital Corp. stock grades by Barron's. View RITM fundamental and sentiment analysis powered by MarketGrader. ... Short Interest: 5.11M (12/13/24)Short Interest Change-8.47%: Percent of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927132+00:00",
+              "published_date": null,
+              "source_hash": "7991e4bc4b4347d7ac27b81367cb082f"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital: A Buy Rating with Attractive Valuation and Strong Yield ...",
+              "snippet": "Rithm Capital (RITM) Company Description: New Residential Investment Corp. is a real estate investment trust, which focuses on investing and actively managing, investments related to residential ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927143+00:00",
+              "published_date": null,
+              "source_hash": "2067090cbdc40ce6e68a3216e560bb22"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp (RITM) Q3 2024 Earnings Call Highlights: Strong ...",
+              "snippet": "Rithm Capital Corp maintains a robust balance sheet with $2 billion in cash and liquidity, providing financial stability and flexibility for future investments. Negative Points",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:17.927154+00:00",
+              "published_date": null,
+              "source_hash": "5e42d780b423ad8185786ff9907c3ded"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. stock underperforms Thursday when compared to competitors despite daily gains",
+              "snippet": "The stock's rise snapped a four-day losing streak.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:20.468776+00:00",
+              "published_date": "2025-01-02T22:37:00+00:00",
+              "source_hash": "c99d20a4b9de540f7db9ea95893bc96b"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. 7.125% Series B Fixed-to-Floating Rate Cum. Redeem. Pfd.",
+              "snippet": "Percentage change in short interest from the previous report to the most recent report. Exchanges report short interest twice a month. Percent of Float Total short positions relative to the number ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:20.468803+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "292120f4e99062fb66e8c1ff5bc1ebfe"
+            },
+            {
+              "url": "",
+              "title": "RITM Rithm Capital Corp.",
+              "snippet": "View Rithm Capital Corp. (RITM) current and estimated P/E ratio data provided by Seeking Alpha.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:20.468825+00:00",
+              "published_date": "2024-12-30T00:00:00+00:00",
+              "source_hash": "04bf224d33bda6f70a1c93d721ececd5"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. Declares Fourth Quarter 2024 Common and Preferred Dividends",
+              "snippet": "Rithm Capital seeks to generate attractive risk-adjusted returns across market cycles and interest rate environments. Since inception in 2013, Rithm has delivered approximately $5.6 billion in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp interest rate sensitivity impact",
+              "retrieved_at": "2025-01-06T14:24:20.468845+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "8da6857a21d9de20809ada4e0009e2ee"
+            },
+            {
+              "url": "",
+              "title": "Sellers v. NewRez d/b/a Shellpoint Mortgage Servicing",
+              "snippet": "NewRez d/b/a Shellpoint Mortgage Servicing: Case Number: 8:2025cv00035: Filed: January 3, 2025: Court: US District Court for the District of Maryland: Presiding Judge: Lydia Kay Griggsby ... Corporate Parent Rithm Capital Corp., Corporate Parent Rithm Capital Corp. f/k/a New Residential Investment Corp. for NewRez d/b/a Shellpoint Mortgage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062496+00:00",
+              "published_date": null,
+              "source_hash": "0511cad45132132d1e1349ec4e8144f6"
+            },
+            {
+              "url": "",
+              "title": "Thoughts on RITM? : r/reits - Reddit",
+              "snippet": "I've been investing in Rithm Capital since November 2019. 3.5k shares and plan to continue growing for the foreseeable future. In the last year I've only read one negative article on the company. Anyone have any strong opinions in opposition of the company? ... Correct but Rithm is also a mortgage servicing company, this arm of the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062598+00:00",
+              "published_date": null,
+              "source_hash": "4f37f6c8c8632470f583f897ed9a1903"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital - Wikipedia",
+              "snippet": "Rithm Capital (Rithm) is an ... Citigroup sold $97 billion worth of MSRs to New Residential for $950 million as part of its plan to exit the mortgage servicing ... Daniel Och was not satisfied with Rithm's offer and felt it didn't reflect the full value of the company. [14] In October, Rithm increased its bid to $720 million at $12.70 per share ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062611+00:00",
+              "published_date": null,
+              "source_hash": "d8f92eff50f92fddc28aa4e4b7c016f2"
+            },
+            {
+              "url": "",
+              "title": "Does Rithm's Computershare pick-up impact other deals?",
+              "snippet": "The company is in a bidding war for Sculptor Capital, which in turn is supposed to unlock a spin-out for the mortgage business that this transaction helps build. ... Rithm Capital, already engaged in a takeover battle that could affect a potential mortgage spin-out, ... Shellpoint Mortgage Servicing, a part of Rithm, had the lowest score, at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062620+00:00",
+              "published_date": null,
+              "source_hash": "40c03becb1d45839d43941f42d2589f6"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital May Spin Off Mortgage Business - NMP",
+              "snippet": "Rithm Capital rebranded last year, and now the CEO says the company is considering another big change \u2014 spinning off its mortgage operation. ... Rithm said its total mortgage servicing rights (MSR) portfolio totaled $603 billion in unpaid principal balance (UPB), and that during the first quarter it funded $7 billion in originated loans ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062629+00:00",
+              "published_date": null,
+              "source_hash": "64dc0e88d833b7e31b67b3f5341e7b6d"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital posts $3M loss as it \"right-sizes\" mortgage business",
+              "snippet": "Rithm Capital, formerly known as New Residential Investment, lost $3.3 million in the second quarter, largely due to fees caused by its break from Fortress Investment Group.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062642+00:00",
+              "published_date": null,
+              "source_hash": "455703542631796d63002f98a8e82ea8"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. (LON: 0K76) Company Profile & Overview - Stock Analysis",
+              "snippet": "Company profile for Rithm Capital Corp. (LON: 0K76) with a description, list of executives, contact details and other key facts. ... Its investment portfolio primarily comprises of mortgage servicing rights (MSR), and MSR financing receivables, title, appraisal and property preservation, excess MSRs, and services advance investments; real ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062651+00:00",
+              "published_date": null,
+              "source_hash": "17b9fd0f587a99c6a9c25440521119b8"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital posts profit as questions swirl around possible spinoff",
+              "snippet": "Between April and June of 2022, servicing income came in at $427.2 million, while the loss in originations settled at $21.1 million. Meanwhile, Rithm's mortgage-servicing rights related investments garnered it $52.5 million in profit in the most recent quarter, compared to a $29.7 million loss three months earlier.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062661+00:00",
+              "published_date": null,
+              "source_hash": "07b0e4a2a3d760e4bfc21016c4ea1c8f"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. Completes Acquisition of Computershare Mortgage ...",
+              "snippet": "NEW YORK, May 02, 2024--Rithm Capital Corp. (NYSE: RITM; \"Rithm Capital\") today completed its previously announced acquisition of Computershare Mortgage Services Inc. and certain affiliated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062669+00:00",
+              "published_date": null,
+              "source_hash": "0a2e3087829107511bb5e06a0db73ccb"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Corp. Announces the Closing of Securitized Notes Backed ...",
+              "snippet": "Rithm Capital Corp. announced it has successfully closed NZES 2024-FNT1, a $461 million securitized financing note backed by mortgage servicing rights. Leveraging Rithm's scale, strong servicing performance and high-quality collateral, this first-of-its-kind, single-tranche non-recourse transaction provides fixed financing over the term of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:22.062677+00:00",
+              "published_date": null,
+              "source_hash": "e2718a2584a3725666250c8b5fe1eec7"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital Announces the Closing of Securitized Notes Backed by Mortgage Servicing Rights",
+              "snippet": "NEW YORK--(BUSINESS WIRE)--Rithm Capital Corp. (NYSE: RITM ... a $461 million securitized financing note backed by mortgage servicing rights (\"MSRs\"). Leveraging Rithm's scale, strong ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:24.476670+00:00",
+              "published_date": "2024-11-14T16:15:00+00:00",
+              "source_hash": "b62c3025919eeecea8ea4cc34c895f53"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital (NYSE:RITM) A Bull Case Theory",
+              "snippet": "Rithm Capital (RITM), a REIT operating as a holding company ... a mortgage loans receivable business. SpinCos will include NewRez, a large non-bank residential mortgage origination-servicing ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:24.476698+00:00",
+              "published_date": "2024-08-01T21:17:00+00:00",
+              "source_hash": "482c2ab499053d11763073b11b9c4bca"
+            },
+            {
+              "url": "",
+              "title": "Rithm Capital's Updated Sector Comparative Analysis - Part 1 (Includes Recommendation For 19 Peers As Of 12/6/2024)",
+              "snippet": "The focus of PART 1 of this article is to analyze Rithm Capital Corp ... some details regarding the company's largest current driver of earnings, its mortgage servicing rights (\"MSR ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Rithm Capital Corp Rithm Capital Corp mortgage servicing controversies",
+              "retrieved_at": "2025-01-06T14:24:24.476742+00:00",
+              "published_date": "2024-12-11T12:40:00+00:00",
+              "source_hash": "747f40e31bc0c14b05350543381e7f16"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Rithm Capital Corp regulatory violations mortgage industry",
+              "rationale": "Investigate potential legal and regulatory issues in the mortgage sector",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Rithm Capital Corp interest rate sensitivity impact",
+              "rationale": "Assess the financial risks associated with interest rate fluctuations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Rithm Capital Corp mortgage servicing controversies",
+              "rationale": "Explore any ethical or social concerns related to mortgage servicing practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:24:44.558980",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

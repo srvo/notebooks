@@ -1,0 +1,491 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:47:23.539115",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Maxlinear Inc",
+      "symbol": "MXL",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on third-party manufacturers",
+            "Legal and regulatory challenges, including export control violations and litigation risks",
+            "Financial performance decline and market pressures",
+            "Integration risks from acquisitions"
+          ],
+          "controversies": [
+            "Potential violations of U.S. export control and economic sanctions laws",
+            "Securities lawsuit alleging stock price manipulation during a failed merger"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [
+            "Ethical concerns and investigations into potential securities law violations",
+            "Allegations of unethical business practices and stock price manipulation"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Silicon Labs and MaxLinear Settle Infringement Lawsuits",
+              "snippet": "AUSTIN, Texas & CARLSBAD, Calif.--(BUSINESS WIRE)-- Silicon Labs (NASDAQ: SLAB) and MaxLinear Inc. (NYSE: MXL) today announced a satisfactory settlement of all litigation between the two companies. MaxLinear has granted Silicon Labs a license to its substantial patent portfolio for the accused Silicon Labs products.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347767+00:00",
+              "published_date": null,
+              "source_hash": "097d027da2345bf737e52eae6b01e957"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear Beats Investor Suit on Failed Merger Claims for Now",
+              "snippet": "MaxLinear, Inc. overcame another securities law challenge for now that said its executives artificially inflated the stock price of the company it failed to merge with in 2023, a federal judge ruled. HBK Master Fund LP. and HBK Merger Strategies Master Fund LP. lacked standing to sue because they weren't holding MaxLinear stock\u2014they were holding American Depository Shares of the Taiwan ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536483+00:00",
+              "published_date": null,
+              "source_hash": "09c6941fbfaccfd092d2f323adc7a255"
+            },
+            {
+              "url": "",
+              "title": "HBK Master Fund L.P. et al v. Maxlinear, Inc. et al, No. 3:2024cv01033 ...",
+              "snippet": "MaxLinear could avoid the fee entirely 15 if it could prove that SIMO was in \"material breach\" of the Agreement or faced a \"Material 16 Adverse Effect\" as defined by the same. [See id. \u00b6\u00b6 55, 57-58.] If MaxLinear terminated 17 the deal outside of these narrow circumstances, it would face significantly greater financial 18 penalties.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347891+00:00",
+              "published_date": null,
+              "source_hash": "f4b33500659b8d641dcc100f71e1eff4"
+            },
+            {
+              "url": "",
+              "title": "Silicon Labs and MaxLinear settle their differences - News",
+              "snippet": "Silicon Labs and MaxLinear Inc. have announced a satisfactory settlement of all litigation between the two companies. ... Silicon Laboratories Inc. filed a patent infringement lawsuit against MaxLinear in the Southern District of California, San Diego Division in July 2012. ... Resilinc partners with SEMI on supply chain resilience 10th May 2023;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347905+00:00",
+              "published_date": null,
+              "source_hash": "8adec3227455ac1b00aa30cd1c4fbc5f"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. (Silicon Motion Technology Corporation)",
+              "snippet": "Near the close of trading on July 26, 2023, however, MaxLinear shocked the market by announcing in a press release, as described in a Form 8-K filed with the U.S. Securities and Exchange Commission that day, that MaxLinear was unilaterally terminating the merger. Prior to the market's open on July 27, 2023, Silicon Motion issued a press ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347918+00:00",
+              "published_date": null,
+              "source_hash": "fa5f7ad5f0311899ce73a0f6801e4bfe"
+            },
+            {
+              "url": "",
+              "title": "Kirby McInerney LLP | MaxLinear, Inc. - kmllp.com",
+              "snippet": "The law firm of Kirby McInerney LLP is investigating potential claims against MaxLinear, Inc. (\"MaxLinear\" or the \"Company\") (NASDAQ: MXL). ... A class action is a lawsuit in which a large number of people (the \"class\") have suffered similar harm from the defendant(s)' unlawful conduct and the plaintiff(s), also known as the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347928+00:00",
+              "published_date": null,
+              "source_hash": "58d3668cc5ef3bad5f050718b8e2fbf4"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, Aug. 9, 2024 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of MaxLinear, Inc. (\"MaxLinear\" or the \"Company\") (NASDAQ: MXL).Such investors are advised to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347937+00:00",
+              "published_date": null,
+              "source_hash": "e0515a71a2d598fc51e79e852ab6811c"
+            },
+            {
+              "url": "",
+              "title": "Chip Maker MaxLinear Defeats Investor Suit Over Failed Merger",
+              "snippet": "A recent appeals court decision compels the conclusion that the funds lack standing to sue MaxLinear for securities fraud because they didn't hold its stock during the period of the alleged misrepresentations, Judge Cathy Ann Bencivengo said Wednesday for the US District Court for the Southern District of California. She dismissed the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347947+00:00",
+              "published_date": null,
+              "source_hash": "302d55d19ce55e26ac83fc78bf83afed"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. - Robbins LLP",
+              "snippet": "What Now: Similarly situated shareholders may be eligible to participate in the class action against MaxLinear, Inc. Shareholders who want to act as lead plaintiff for the class must file their motion for lead plaintiff by October 31, 2023.A lead plaintiff is a representative party acting on behalf of other class members in directing the litigation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536506+00:00",
+              "published_date": null,
+              "source_hash": "8bbbc997cef2d7dde0c6663d84650162"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. (MXL) Class Action Notice: Robbins LLP Reminds ...",
+              "snippet": "SAN DIEGO--(BUSINESS WIRE)--Robbins LLP reminds investors of a class action lawsuit against MaxLinear, Inc. (NASDAQ: MXL) on behalf of persons or entities that purchased or otherwise acquired ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc supply chain lawsuits",
+              "retrieved_at": "2025-01-06T19:46:53.347967+00:00",
+              "published_date": null,
+              "source_hash": "542994eed8e9b56a2c0a4f373af23ba0"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear Beats Investor Suit on Failed Merger Claims for Now",
+              "snippet": "MaxLinear, Inc. overcame another securities law challenge for now that said its executives artificially inflated the stock price of the company it failed to merge with in 2023, a federal judge ruled.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:47:03.307250+00:00",
+              "published_date": "2025-01-03T15:22:00+00:00",
+              "source_hash": "ec0b17ff5553244e4f069d0b6966dfd7"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear (NASDAQ:MXL) three-year losses have grown faster than shareholder returns have fallen, but the stock jumps 28% this past week",
+              "snippet": "MaxLinear, Inc. (NASDAQ:MXL) shareholders will doubtless be very grateful to see the share price up 42% in the last quarter. But the last three years have seen a terrible decline. Indeed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:08.311815+00:00",
+              "published_date": "2024-12-06T00:01:00+00:00",
+              "source_hash": "944bf3042fd20a5b2f26b3caf2c3c663"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. Announces Upcoming Financial Conference Participation",
+              "snippet": "CARLSBAD, Calif.--(BUSINESS WIRE)--MaxLinear, Inc. (Nasdaq: MXL), a leading provider of RF, analog, digital and mixed-signal integrated circuits, today announced that it will participate in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:08.311839+00:00",
+              "published_date": "2024-11-19T16:05:00+00:00",
+              "source_hash": "f1d3b9ec7af776c2dbd1c0c88ae5bf36"
+            },
+            {
+              "url": "",
+              "title": "Kirby McInerney LLP | MaxLinear, Inc.",
+              "snippet": "The investigation concerns whether MaxLinear and/or certain of its officers have violated the federal securities laws and/or engaged in other unlawful business practices. On July 24, 2024, MaxLinear issued a press release announcing its second quarter 2024 results, including net revenue for the quarter amounting to just $92 million, down 50% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536377+00:00",
+              "published_date": null,
+              "source_hash": "06ae6f882668ca8e805478a4e4d89a2a"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear Sways Judge to Trim a Count From Comcast Contract Case",
+              "snippet": "Three of four counts in Comcast Cable Communications' third amended complaint in a contract dispute with chip vendor MaxLinear survived a dismissal motion. Joe Raedle/Getty Images . Print Email. Share To: Facebook. LinkedIn. Sept. 20, 2024, 10:19 PM UTC. MaxLinear Sways Judge to Trim a Count From Comcast Contract Case.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536521+00:00",
+              "published_date": null,
+              "source_hash": "6e3c37950b17fd3c88236e476293e2c2"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. - The Law Office of Frank R. Cruz",
+              "snippet": "On this news, MaxLinear's stock price fell $11.45, or 33.7%, over two consecutive trading days, to close at $22.55 per share on July 27, 2023, thereby injuring investors. Then, on October 25, 2023, MaxLinear announced its third quarter 2023 financial results, disclosing net revenue of $135.5 million, which was down 53% year-over-year.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536536+00:00",
+              "published_date": null,
+              "source_hash": "a17279c14170448ea49c85088471a031"
+            },
+            {
+              "url": "",
+              "title": "Bleichmar Fonti & Auld LLP | MaxLinear, Inc - bfalaw.com",
+              "snippet": "The news caused a precipitous decline in the price of MaxLinear stock. The price of the company's stock closed at $22.29 per share on July 24, 2024. Prior to the market open on July 25, 2024, MaxLinear stock was trading in the range of $16.40 per share, a decline of $5.89 per share, or 26%. What are my Rights?",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536548+00:00",
+              "published_date": null,
+              "source_hash": "c7df6c32ac7e2141d115f42636ff5654"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. - Johnson Fistel",
+              "snippet": "Johnson Fistel Announces it has Initiated a Class Action Investigation into MaxLinear Shareholder rights law firm Johnson Fistel, LLP is investigating whether MaxLinear, Inc. (NASDAQ: MXL) or any of its executive officers or others violated securities laws by misrepresenting or failing to timely disclose material, adverse information to investors. The investigation focuses on investors ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536560+00:00",
+              "published_date": null,
+              "source_hash": "5149a357866bb20261522d23e194c705"
+            },
+            {
+              "url": "",
+              "title": "Saxena White Appointed Co-Lead Counsel in MaxLinear, Inc., Securities ...",
+              "snippet": "Saxena White P.A. is pleased to announce that on December 20, 2023, the United States District Court for the Southern District of California appointed the Westchester Funds, the Alpine Funds, the Atlas Fund, and the Kryger Funds as Lead Plaintiffs and Saxena White as Co-Lead Counsel in the securities fraud class action against MaxLinear, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536573+00:00",
+              "published_date": null,
+              "source_hash": "6df7611c8464f7e9c7ef2e84f828fcc5"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. (Silicon Motion Technology Corporation)",
+              "snippet": "Prior to the market's open on July 27, 2023, Silicon Motion issued a press release repudiating MaxLinear's purported reasons for the termination. In response to the news, between the market open on July 26, 2023 and the market close on July 27, 2023, the price of Silicon Motion ADSs declined from $94.20 per ADS to $52.51 per ADS ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536585+00:00",
+              "published_date": null,
+              "source_hash": "62b0638ba1648c235bea1ff1fb7e8b7e"
+            },
+            {
+              "url": "",
+              "title": "Corporate Policies - MaxLinear",
+              "snippet": "On March 18, 2024, the Board of Directors (the \"Board\") of MaxLinear, Inc. (the \"Company\"), upon the recommendation of the Nominating and Corporate Governance Committee of the Board, approved an amended and restated Code of Ethics and Employee Conduct (the \"Code\"). The Code applies to all directors, officers and employees of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:46:59.536597+00:00",
+              "published_date": null,
+              "source_hash": "70556a42f65f8959b09dbbf347f127a2"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. (MXL)",
+              "snippet": "Sustainalytics' Controversies Research identifies companies involved in incidents and events that may negatively impact stakeholders, the environment or the company's operations. Controversies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Maxlinear Inc Maxlinear Inc labor practices controversies",
+              "retrieved_at": "2025-01-06T19:47:03.307346+00:00",
+              "published_date": "2024-12-20T23:41:00+00:00",
+              "source_hash": "3668ee49db952794ea49244b86023a68"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The MaxLinear Global Export Controls & Economic Sanctions Policy (the \"Policy\") reflects that commitment and applies to MaxLinear, Inc. and all of its subsidiaries and affiliates worldwide (collectively, \"MaxLinear\" or the \"Company\") and all of MaxLinear's employees, officers, directors, contractors, and temporary staff (\"MaxLinear",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589197+00:00",
+              "published_date": null,
+              "source_hash": "c10e35956e18b07de13b231bc5c1d636"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. Annual report pursuant to Section 13 and 15(d)",
+              "snippet": "11. Subsequent Events . In the first quarter of 2012, the Company became aware that it may have taken actions that could constitute facilitation (within the meaning of applicable sanctions and export control laws) of shipments of foreign produced products to Iran or taken other actions that may be in violation of U.S. export control and economic sanctions laws.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589298+00:00",
+              "published_date": null,
+              "source_hash": "9fb6ce478cd079a65b70a0e08e3ed0a5"
+            },
+            {
+              "url": "",
+              "title": "US Supplier Releases Update on Disclosure of Potential Export Violation",
+              "snippet": "The March 3 disclosure to BIS includes information on the potential violation \"and other potential export control violations for which we have taken actions to remediate the infractions.\" MaxLinear said BIS is still reviewing the disclosure \"and it is unknown when such review will be completed.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589312+00:00",
+              "published_date": null,
+              "source_hash": "c7c843017c5f9d2fe3c012c2b4c91d70"
+            },
+            {
+              "url": "",
+              "title": "US Company Discloses Potential Entity List Violation",
+              "snippet": "A U.S. hardware supplier said it may have violated U.S. export controls by selling to a Chinese foundry on the Entity List. MaxLinear, which sells highly integrated radio-frequency analog and mixed-signal semiconductor products, disclosed it submitted an \"initial notification\" of voluntary self-disclosure to the Bureau of Industry and Security in October and its sale may have violated the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589322+00:00",
+              "published_date": null,
+              "source_hash": "d968d5f3ad14cf0656b693462995cfb4"
+            },
+            {
+              "url": "",
+              "title": "US Hardware Supplier Receives BIS Warning Letter",
+              "snippet": "8 and was informed by BIS that the agency \"closed out its review of our voluntary self-disclosure without monetary or other penalties.\" MaxLinear disclosed the potential violation last year when it said it may have breached U.S. export licensing requirements by selling to a Chinese foundry on the Entity List (see 2211070014 and 2305020008).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589332+00:00",
+              "published_date": null,
+              "source_hash": "8c4a501800e875296a833c9175771f00"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "On February 7, 2012, MaxLinear, Inc. issued a press release announcing unaudited financial results for the fourth quarter and fiscal year ended December 31, 2011. A copy of the press release is furnished herewith as Exhibit 99.1 to this Current Report on Form 8-K. Item 9.01. Financial Statements and Exhibits. (d) Exhibits Exhibit Description",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589342+00:00",
+              "published_date": null,
+              "source_hash": "3c3f5e6a4c509e14a696e4b1ab0e26ba"
+            },
+            {
+              "url": "",
+              "title": "MXL INVESTIGATION NOTICE: MaxLinear, Inc. is Being - GlobeNewswire",
+              "snippet": "NEW YORK, Sept. 23, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into MaxLinear, Inc. (NASDAQ: MXL) for potential violations of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589351+00:00",
+              "published_date": null,
+              "source_hash": "8507fff3fdafd95399ba02b00fa7ff71"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear and its Customers Prevail Over Cresta Technology in ...",
+              "snippet": "MaxLinear, Inc. announced today that the U.S. International Trade Commission (ITC) has terminated Investigation No. 337-TA-910, requested by Cresta Technology (Cresta). The ITC issued its Final Determination finding that MaxLinear did not violate Section 337 of the Tariff Act of 1930, as amended, a result in favor of MaxLinear and MaxLinear's customers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589360+00:00",
+              "published_date": null,
+              "source_hash": "27afb9493cebe5b130476ee2f399741e"
+            },
+            {
+              "url": "",
+              "title": "Bleichmar Fonti & Auld LLP | MaxLinear, Inc - bfalaw.com",
+              "snippet": "MaxLinear, Inc. (NASDAQ: MXL): MaxLinear is being investigated for violations of the federal securities laws in connection with potential false and misleading statements made to investors and a subsequent significant price decline in the stock. If you incurred losses on your investments in MaxLinear, you are encouraged to submit your information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589368+00:00",
+              "published_date": null,
+              "source_hash": "e9313c3c58651ba9bd923d72a0906411"
+            },
+            {
+              "url": "",
+              "title": "MXL INVESTOR ALERT: MaxLinear, Inc. is Being Investigated for ...",
+              "snippet": "NEW YORK, Aug. 26, 2024 (GLOBE NEWSWIRE) -- Leading securities law firm Bleichmar Fonti & Auld LLP announces an investigation into MaxLinear, Inc. (NASDAQ: MXL) for potential violations of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:05.589388+00:00",
+              "published_date": null,
+              "source_hash": "ddf95c06495343b88262bad3aac8b933"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear, Inc. (MXL)",
+              "snippet": "MaxLinear, Inc. ( NASDAQ:MXL ) shareholders will doubtless ... Increased tariffs and export control amendments, particularly between the U.S. and China, may limit the company's ability to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:08.311706+00:00",
+              "published_date": "2025-01-03T22:22:00+00:00",
+              "source_hash": "192dbd44d7d2f9033de540636bf61c7b"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear Introduces High Performance Quad RS-485 Receivers with Superior ESD and EFT Protection to Facilitate Robust System Design",
+              "snippet": "--(BUSINESS WIRE)--MaxLinear, Inc. (Nasdaq: MXL), a technology leader ... increased tariffs, export controls or imposition of other trade barriers; our ability to obtain or retain government ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:08.311785+00:00",
+              "published_date": "2024-12-05T08:35:00+00:00",
+              "source_hash": "1dfae3635133c18ea210ea4757a510f2"
+            },
+            {
+              "url": "",
+              "title": "MaxLinear and Quanta Cloud Technology Unveil Accelerated Software Defined Storage Solution Optimized for AI and HPC Workloads at SC24",
+              "snippet": "About MaxLinear, Inc. MaxLinear ... authorization to export certain of our products or technology; risks related to the loss of, or a significant reduction in orders from major customers; costs of legal proceedings or potential violations of regulations ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Maxlinear Inc Maxlinear Inc export control violations",
+              "retrieved_at": "2025-01-06T19:47:08.311862+00:00",
+              "published_date": "2024-11-13T00:00:00+00:00",
+              "source_hash": "9932c7cdd0b75ea6909a31f9662ccbdb"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Maxlinear Inc supply chain lawsuits",
+              "rationale": "Investigate legal disputes related to supply chain disruptions or dependencies",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Maxlinear Inc labor practices controversies",
+              "rationale": "Examine potential issues related to labor practices or working conditions in global operations",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Maxlinear Inc export control violations",
+              "rationale": "Assess compliance with U.S. export control regulations, especially given geopolitical risks",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:47:23.539126",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:07:57.427138",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Green Century MSCI Intl Indx Instl",
+      "symbol": "GCIFX",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "ESG Criteria Subjectivity: Reliance on ESG screening introduces subjectivity in company selection, potentially impacting performance and investor confidence.",
+            "Performance Volatility: Exposure to global market risks, including economic downturns, currency fluctuations, and geopolitical instability.",
+            "Greenwashing Concerns: Reputational risks if ESG practices are perceived as insufficiently rigorous or transparent.",
+            "Dependence on MSCI: Vulnerability to inaccuracies or changes in MSCI's methodology."
+          ],
+          "controversies": [
+            "Potential greenwashing accusations due to perceived lack of rigor in ESG practices.",
+            "Debates over inclusion/exclusion decisions based on subjective ESG criteria."
+          ],
+          "environmental_issues": [
+            "Fossil fuel-free focus may limit exposure to certain sectors, potentially impacting diversification."
+          ],
+          "social_issues": [
+            "Subjectivity in ESG screening could lead to social controversies over company selection."
+          ],
+          "governance_issues": [
+            "Reliance on MSCI's ESG data and methodology may introduce governance risks related to data accuracy and transparency."
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "International Index Fund Investor - Green Century",
+              "snippet": "The Green Century MSCI International Index Fund is one of the first fossil fuel free index funds available to U.S. investors. The Green Century MSCI International Index Fund is invested in the stocks of about 175 large- and mid-cap companies headquartered in 22 of the 23 developed markets, including Japan, Germany, France, Canada, Switzerland, and 16 additional countries.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084534+00:00",
+              "published_date": null,
+              "source_hash": "7f3940d7ec747094514c36678baad121"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI Intl Indx Instl - Morningstar",
+              "snippet": "GCIFX - Green Century MSCI Intl Indx Instl - Review the GCIFX stock price, growth, performance, sustainability and more to help you make the best investments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl ESG criteria controversies",
+              "retrieved_at": "2025-01-06T21:07:27.764112+00:00",
+              "published_date": null,
+              "source_hash": "6631d6a3a01b1081a7d8113853baf5d6"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI Intl Indx Instl (GCIFX) - Yahoo Finance",
+              "snippet": "Find the latest Green Century MSCI Intl Indx Instl (GCIFX) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084687+00:00",
+              "published_date": null,
+              "source_hash": "371be4e1082b0b6c857744b382039f06"
+            },
+            {
+              "url": "",
+              "title": "GCINX - Green Century MSCI International Index Fund Individual Investor ...",
+              "snippet": "Analyze the Fund Green Century MSCI International Index Fund Individual Investor having Symbol GCINX for type mutual-funds and perform research on other mutual funds. Learn more about mutual funds at fidelity.com.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084668+00:00",
+              "published_date": null,
+              "source_hash": "2dd1ca85379676097c4bf98439793ede"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI International Index Fund;Investor - MarketWatch",
+              "snippet": "GCINX | A complete Green Century MSCI International Index Fund;Investor mutual fund overview by MarketWatch. View mutual fund news, mutual fund market and mutual fund interest rates.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:07:33.265133+00:00",
+              "published_date": null,
+              "source_hash": "10744701be75287f0bce748dd055c339"
+            },
+            {
+              "url": "",
+              "title": "GCINX Green Century MSCI International Index Fund Investor Class",
+              "snippet": "Green Century MSCI International Index Fund Investor Class (GCINX) - Find objective, share price, performance, ... for ESG criteria generally will underperform the market as a whole or, in the aggregate, will trail returns of other funds screened for ESG criteria. The index provider or advisor's assessment of a company, based on the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl ESG criteria controversies",
+              "retrieved_at": "2025-01-06T21:07:27.764156+00:00",
+              "published_date": null,
+              "source_hash": "f4996fa95c59ce482980c2dcd3121512"
+            },
+            {
+              "url": "",
+              "title": "The Funds - Green Century",
+              "snippet": "The Green Century MSCI International Index Fund is a passively managed mutual fund that invests in companies in all developed markets outside of the U.S. It is one of the first environmentally responsible, fossil fuel free international index funds available to U.S. investors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084717+00:00",
+              "published_date": null,
+              "source_hash": "2554af29a798906e2ece7789d1e38743"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI International Index Fund Individual ... - Google",
+              "snippet": "Get the latest Green Century MSCI International Index Fund Individual Investor (GCINX) real-time quote, historical performance, charts, and other financial information to help you make more ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084658+00:00",
+              "published_date": null,
+              "source_hash": "da1a85046a2611431fcc2c0343bde16d"
+            },
+            {
+              "url": "",
+              "title": "GCINX Mutual Fund Stock Price & Overview - Stock Analysis",
+              "snippet": "Get the latest Green Century MSCI International Index Fund Individual Investor (GCINX) stock price quote with performance, holdings, dividends, charts and more. ... Institutional Class: 0.98%: Top 10 Holdings 28.74% of assets. Name Symbol Weight; ASML Holding N.V. ASML: 4.29%: Novo Nordisk A/S: NOVO.B: 4.18%: Unilever PLC:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084697+00:00",
+              "published_date": null,
+              "source_hash": "04b06b342ed4650e5c351cce2a959102"
+            },
+            {
+              "url": "",
+              "title": "Fund Performance - Green Century",
+              "snippet": "Fund Performance is calculated after fees. The total annual fund operating expense ratios of the Green Century MSCI International Index Fund, the Green Century Equity Fund and the Green Century Balanced Fund, respectively, are 0.98% and 1.28% (Institutional Share Class and Individual Investor Share Class), 0.90% and 1.20% (Institutional Share Class and Individual Investor Share Class) and 1.16 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:07:33.265159+00:00",
+              "published_date": null,
+              "source_hash": "9327414141180b29121e6549716fd9ff"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI Intl Indx Instl",
+              "snippet": "Green Century MSCI Intl Indx Fund earns a Below Average Process Pillar rating. Morningstar's algorithmically assigned Passive Process ratings are first formulated by comparing the historical ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:43.534628+00:00",
+              "published_date": "2024-11-30T00:00:00+00:00",
+              "source_hash": "36e84c4f59d2d5795a294021a2118039"
+            },
+            {
+              "url": "",
+              "title": "MSCI Upgrades Rongsheng Petrochemical's ESG Rating to BBB for Advancing Green Practices",
+              "snippet": "Last week, MSCI, a globally leading index provider ... Petrochemical's significant improvements in ESG management and underscores the international recognition of the Company's efforts in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl ESG criteria controversies",
+              "retrieved_at": "2025-01-06T21:07:31.771471+00:00",
+              "published_date": "2024-12-02T10:50:00+00:00",
+              "source_hash": "9103730c6e9ddab0ce926a021aa651ea"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI Intl Indx Instl (GCIFX)",
+              "snippet": "Take advantage of these top-ranked, best-performing and well-managed mutual funds to maximize your retirement portfolio returns. Take a look at these three top-ranked, best-performing and well-managed mutual funds if you're looking to maximize your ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:43.534709+00:00",
+              "published_date": "2024-12-21T01:01:00+00:00",
+              "source_hash": "38044bd5b6f7fc84cd827c92221cfb03"
+            },
+            {
+              "url": "",
+              "title": "Green Century Equity Institutional",
+              "snippet": "Green Century ... index. The investment strategy as stated in the fund's prospectus is: The investment seeks to achieve long-term total return which matches the performance of the MSCI KLD 400 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:43.534723+00:00",
+              "published_date": "2024-11-30T00:00:00+00:00",
+              "source_hash": "84fa582441b7aea5858f2cfee3a7fc82"
+            },
+            {
+              "url": "",
+              "title": "Green Century Mutual Funds",
+              "snippet": "View all of Green Century's mutual funds and start searching for your next investment. Below are pre-screened investment lists to kickstart the process. All lists can be further sorted by data ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:43.534733+00:00",
+              "published_date": "2024-08-13T14:32:00+00:00",
+              "source_hash": "1cbb5954cb660cf81c948dc05268ba4b"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI Intl Indx Instl - Morningstar",
+              "snippet": "GCIFX - Green Century MSCI Intl Indx Instl - Review the GCIFX stock price, growth, ... And it also exceeded the return of the category benchmark, the MSCI ACWI ex USA Index, by an annualized 35 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084644+00:00",
+              "published_date": null,
+              "source_hash": "7b7c5417d947ad064edcf147fe6101eb"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI Intl Indx Instl (GCIFX) - Yahoo Finance",
+              "snippet": "Find the latest Green Century MSCI Intl Indx Instl (GCIFX) stock quote, history, news and other vital information to help you with your stock trading and investing. ... MPLIX Praxis International ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:07:33.265114+00:00",
+              "published_date": null,
+              "source_hash": "6324162257289b853c62b24c610f707a"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI International Index Fund Individual Investor",
+              "snippet": "Green Century MSCI International Index Fund Individual Investor; Green Century MSCI International Index Fund Individual Investor Fund 14.59 0.03 0.21%. 12/06/2024 12:00 AM NAV.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084708+00:00",
+              "published_date": null,
+              "source_hash": "cc1fb06d4f47b85b4ab75cfb7759d108"
+            },
+            {
+              "url": "",
+              "title": "GCIFX Holdings List - Green Century MSCI International Index Fund ...",
+              "snippet": "A list of holdings for GCIFX (Green Century MSCI International Index Fund Institutional) with details about each stock and its percentage weighting in the fund. ... Green Century MSCI International Index Fund Institutional (GCIFX) NASDAQ \u00b7 Mutual Fund \u00b7 Delayed Price \u00b7 Currency is USD . Watchlist. 14.34-.05 (-0.35%) Dec 13, 2024, 8:01 PM EST.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl regulatory compliance issues",
+              "retrieved_at": "2025-01-06T21:07:33.265178+00:00",
+              "published_date": null,
+              "source_hash": "7d75a135a344985445a72faeb2e70a87"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI International Index Fund;Investor - MarketWatch",
+              "snippet": "Green Century MSCI International Index Fund;Investor. Watch list. GCINX US. Last Updated: Dec 9, 2024 $ 14.56 ... Intl Large-Cap Core: Portfolio Style: International: Fund Family: Green Century:",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084678+00:00",
+              "published_date": null,
+              "source_hash": "f8250526b803227455f6268e102bbed4"
+            },
+            {
+              "url": "",
+              "title": "Green Century MSCI International Index Fund | Investment Profile ...",
+              "snippet": "Green Century MSCI International Index Fund GCIFX has $269,673 invested in fossil fuels, 0.13% of the fund. As You Sow. Invest Your Values. Sign up. Donate. Home. About us. ... Green Century MSCI Intl Indx Instl % of fund assets screened. 94%. Shareclass type. Open-end funds. Fund net assets. $201.14 MILLION. Fund family. Green Century.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Green Century MSCI Intl Indx Instl Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "retrieved_at": "2025-01-06T21:07:40.084726+00:00",
+              "published_date": null,
+              "source_hash": "6b9c668e7b55a585d85fd085c6cd98e8"
+            }
+          ],
+          "queries": [
+            {
+              "category": "ethical_social",
+              "query": "Green Century MSCI Intl Indx Instl ESG criteria controversies",
+              "rationale": "Investigate debates or criticisms regarding the fund's ESG screening process and company exclusions",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Green Century MSCI Intl Indx Instl regulatory compliance issues",
+              "rationale": "Examine any legal or regulatory challenges related to ESG disclosures or fund operations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Green Century MSCI Intl Indx Instl greenwashing allegations",
+              "rationale": "Assess whether the fund has faced accusations of insufficient ESG rigor or transparency",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:07:57.427147",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

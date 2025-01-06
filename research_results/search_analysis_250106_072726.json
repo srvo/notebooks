@@ -1,0 +1,518 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:27:26.182884",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Federal Home Loan Mortgage Corporation",
+      "symbol": "FMCC",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Prolonged conservatorship uncertainty",
+            "Systemic risk due to critical role in U.S. mortgage market",
+            "Regulatory scrutiny and compliance challenges",
+            "Significant credit risk exposure despite CRT programs",
+            "Potential rise in loan delinquencies or housing market downturn"
+          ],
+          "controversies": [
+            "2007 SEC complaint alleging fraudulent conduct",
+            "Criticism over insufficient efforts in addressing affordable housing crisis"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Affordable housing challenges, particularly in high-cost urban areas"
+          ],
+          "governance_issues": [
+            "Ongoing federal conservatorship managed by FHFA",
+            "Potential privatization and its implications on market competition and regulatory changes"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Conservatorship and Receivership - Federal Housing Finance Agency",
+              "snippet": "SUMMARY: The Federal Housing Finance Agency (FHFA) is issuing a final rule to establish a framework for conservatorship and receivership operations for the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal Home Loan Banks, as contemplated by the Housing and Economic Recovery Act of 2008 (HERA). HERA amended the Federal Housing Enterprises ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146827+00:00",
+              "published_date": null,
+              "source_hash": "7f228b5778eafd18f4ea37cd198e51b7"
+            },
+            {
+              "url": "",
+              "title": "U.S. Agency Bonds: What You Should Know | Charles Schwab",
+              "snippet": "Federal Home Loan Mortgage Corporation, or Freddie Mac (FHLMC) ... example, were placed under conservatorship by the U.S. government back in 2008. Both GSEs are public companies, and the conservatorship means that the Federal Housing Finance Agency (its regulator) \"has the powers of the management, boards, and shareholders of Fannie Mae and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146875+00:00",
+              "published_date": null,
+              "source_hash": "71e07d33578677c8006da7cfff9f6a1f"
+            },
+            {
+              "url": "",
+              "title": "Federal Register :: Conservatorship and Receivership",
+              "snippet": "The Federal Housing Finance Agency (FHFA) is issuing a final rule to establish a framework for conservatorship and receivership operations for the Federal National Mortgage Association, the Federal Home Loan Mortgage Corporation, and the Federal Home Loan Banks, as contemplated by the Housing and Economic Recovery Act of 2008 (HERA).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146890+00:00",
+              "published_date": null,
+              "source_hash": "e0979817f340439131d31e245305440d"
+            },
+            {
+              "url": "",
+              "title": "Fannie Mae and Freddie Mac in Conservatorship: Frequently Asked Questions",
+              "snippet": "HUD) were created. Many consider the federal role to be substantial: Fannie Mae, Freddie Mac (which Congress created as the Federal Home Loan Mortgage Corporation in 1970), and Ginnie Mae (officially, the Government National Mortgage Association and part of HUD) guarantee virtually all newly issued mortgage-backed securities (MBSs).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146902+00:00",
+              "published_date": null,
+              "source_hash": "043c169b3f13af04107f4755e05c2106"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "TITLE III\u2014FEDERAL HOME LOAN MORTGAGE CORPORATION SHORT TITLE AND STATEMENT OF PURPOSE SEC. 301. \u00f812 U.S.C. 1451 note\u00bf (a) This title may be cited as the ''Federal Home Loan Mortgage Corporation Act''. (b) It is the purpose of the Federal Home Loan Mortgage Cor-poration\u2014 (1) to provide stability in the secondary market for residen-",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224817+00:00",
+              "published_date": null,
+              "source_hash": "9754d8dcee0b7a2ae57befe8551cfa72"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Its mandate was to act as a secondary mortgage market facility that could purchase, hold, and sell loans insured by the Federal Housing Administration (FHA). By purchasing these FHA-insured loans from private lenders, Fannie Mae provided lenders with cash to fund new home loans, thus injecting liquidity into the mortgage market.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146926+00:00",
+              "published_date": null,
+              "source_hash": "78d2028f701dbf93c869bfee14c82852"
+            },
+            {
+              "url": "",
+              "title": "eCFR :: 12 CFR Part 1237 -- Conservatorship and Receivership",
+              "snippet": "(2) The Federal Home Loan Mortgage Corporation Act, and ( 3 ) The Federal Home Loan Bank Act. Capital distribution has, with respect to a Bank, the definition stated in \u00a7 1229.1 of this chapter , and with respect to an Enterprise, the definition stated in \u00a7 1229.13 of this chapter .",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146937+00:00",
+              "published_date": null,
+              "source_hash": "fb2d0d7187780ce57575f0c8fbf5c5e9"
+            },
+            {
+              "url": "",
+              "title": "What is the Federal Home Loan Mortgage Corporation (FHLMC)?",
+              "snippet": "The terms Federal Home Loan Mortgage Corporation (FHLMC) and Freddie Mac may be interchangeable, but most people refer to this enterprise with the latter term. Even then, it's easy to get Freddie ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146948+00:00",
+              "published_date": null,
+              "source_hash": "ce0092573b91fbef126696c5f144ea25"
+            },
+            {
+              "url": "",
+              "title": "Housing Finance: - U.S. Government Accountability Office (U.S. GAO)",
+              "snippet": "While down from the peak in 2009, in 2017, the federal government directly or indirectly guaranteed about 70 percent of single-family mortgage originations. The Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac)\u2014two government-sponsored enterprises (enterprises) that purchase and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146958+00:00",
+              "published_date": null,
+              "source_hash": "2b49ef91d3feb37498385980ead3e9b2"
+            },
+            {
+              "url": "",
+              "title": "Federal Home Loan Mortgage Corporation (Freddie Mac)",
+              "snippet": "A private corporation founded by Congress, the Federal Home Loan Mortgage corporation's mission is to promote stability and affordability in the housing market by purchasing mortgages from banks and other loan makers. The corporation is currently under conservatorship, under the direction of the Federal Housing Finance Agency.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:54.146970+00:00",
+              "published_date": null,
+              "source_hash": "2e63b1c4bb3e98aae3f18221c77424ef"
+            },
+            {
+              "url": "",
+              "title": "Freddie Mac: Potential Freedom In 2025, But Multifamily Risks Loom",
+              "snippet": "Potential financial benefits for Fannie Mae and Freddie Mac under Trump's administration, but risks remain with potential rise in loan delinquencies",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:56.543307+00:00",
+              "published_date": "2025-01-02T18:43:00+00:00",
+              "source_hash": "dfe623061088895efc7907efaea558d0"
+            },
+            {
+              "url": "",
+              "title": "Keefe, Bruyette & Woods Downgrades Federal Home Loan Mortgage Corporation - Sovereign or Government Agency Debt (FMCKK)",
+              "snippet": "Fintel reports that on November 20, 2024, Keefe, Bruyette & Woods downgraded their outlook for Federal Home Loan Mortgage Corporation - Sovereign or Government Agency Debt (OTCPK:FMCKK ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:06.574324+00:00",
+              "published_date": "2024-12-09T18:30:00+00:00",
+              "source_hash": "4996de402a40b9dee7b34a28bbe5bd8c"
+            },
+            {
+              "url": "",
+              "title": "Freddie Mac",
+              "snippet": "The Federal Home Loan Mortgage Corporation, commonly known as Freddie ... placed Freddie Mac and Fannie Mae under the conservatorship of the federal government, where it remains today.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation conservatorship risks",
+              "retrieved_at": "2025-01-06T14:26:56.543380+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "aeb54925e6b595f2de47e1dd0002b64d"
+            },
+            {
+              "url": "",
+              "title": "Federal Home Loan Mortgage Corp.",
+              "snippet": "\u00a9 2024 Fortune Media IP Limited. All Rights Reserved. Use of this site constitutes acceptance of our Terms of Use and Privacy Policy | CA Notice at Collection and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:06.574426+00:00",
+              "published_date": "2024-08-13T13:17:00+00:00",
+              "source_hash": "84538a97538c37ed665fc88074ad74b4"
+            },
+            {
+              "url": "",
+              "title": "Keefe, Bruyette & Woods Downgrades Federal Home Loan Mortgage Corporation - Preferred Stock (FMCCL)",
+              "snippet": "Fintel reports that on November 20, 2024, Keefe, Bruyette & Woods downgraded their outlook for Federal Home Loan Mortgage Corporation - Preferred Stock (OTCPK:FMCCL) from Outperform to Market Perform.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:02.566325+00:00",
+              "published_date": "2024-12-10T12:49:00+00:00",
+              "source_hash": "646d78742add3574113a3f9ffaca3f17"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Other Key Credit Risk Management Items 17 156, 171 Credit Risk Exposures and Types 18 17, 22, 155, 168, 170, 174, 183, 185 Mortgage Portfolio Geographic Distribution 19 196 Past Due Mortgage Loans 19 160, 169 Allowance for Credit Losses and Charge-Offs 20 171 Contractual Principal Payments Due by Specified Timeframe for Mortgage Loans 20 5 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180887+00:00",
+              "published_date": null,
+              "source_hash": "cfa47dd534008133965d84e9fe8f6540"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "In addition, the Enterprise transfers mortgage credit risk exposure to third-party investors through its Credit Risk Transfer (CRT) programs, which include securities and insurance-based offerings. The Enterprise also invests in mortgage loans and mortgage-related securities. The Enterprise does not originate mortgage loans nor",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180919+00:00",
+              "published_date": null,
+              "source_hash": "2f2ea7678c87ffb6a73faf65c1e4490f"
+            },
+            {
+              "url": "",
+              "title": "Federal Home Loan Bank Stress Tests For Market And Credit Risk",
+              "snippet": "In General. FHFA has developed market and credit risk related macroeconomic scenarios that it provides to the Federal Home Loan Banks (Banks). These scenarios are inputs to financial models that the Banks use to assess the exposure of their entire portfolio to market risk, and the exposure of their mortgage-related assets to credit risk.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180928+00:00",
+              "published_date": null,
+              "source_hash": "4e86cdcfc2c90668a8054828c4bb5d89"
+            },
+            {
+              "url": "",
+              "title": "Federal Home Loan Mortgage Corp - Last10K.com",
+              "snippet": "The following information was filed by Federal Home Loan Mortgage Corp (FMCC) on Wednesday, February 14, 2024 as an 8K 2.02 statement, which is an earnings press release pertaining to results of operations and financial condition. ... Concentration Of Credit Risk - Single-Family Mortgage Portfolio (Details) Concentration Of Credit And Other ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180935+00:00",
+              "published_date": null,
+              "source_hash": "c8f3d69043192a6b3dfba705acf26b18"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "failed, the Federal National Mortgage Association (Fannie Mae) and Federal Home Loan Mortgage Corporation (Freddie Mac) were placed into government conservatorship, and the government provided assistance to American International Group (AIG). Two months earlier, in July, IndyMac, F.S.B., had failed. It was in this context that a systemic risk",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180942+00:00",
+              "published_date": null,
+              "source_hash": "046c538d3f039899e0b9b9637cca7ea2"
+            },
+            {
+              "url": "",
+              "title": "FHFA Releases 2025 Scorecard for Fannie Mae, Freddie Mac, and Common ...",
+              "snippet": "The Federal Housing Finance Agency regulates Fannie Mae, Freddie Mac, and the 11 Federal Home Loan Banks. These government-sponsored enterprises provide more than $8.5 trillion in funding for the U.S. mortgage markets and financial institutions. Additional information is available at www.FHFA.gov, on X @FHFA, YouTube, Facebook, and LinkedIn.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180956+00:00",
+              "published_date": null,
+              "source_hash": "dd7e652d556c9b132b7029db33cd8479"
+            },
+            {
+              "url": "",
+              "title": "FNMA and FHLMC: Benefits Derived From Federal Ties | U.S. GAO",
+              "snippet": "Pursuant to a congressional request, GAO reviewed the Federal National Mortgage Association (Fannie Mae) and the Federal Home Loan Mortgage Corporation (Freddie Mac), focusing on: (1) the most significant benefits of federal sponsorship of these organizations; and (2) the extent to which these organizations are subject to federal laws that affect government entities and their employees.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180962+00:00",
+              "published_date": null,
+              "source_hash": "3a89265bb54125b97eca8aae8b27de31"
+            },
+            {
+              "url": "",
+              "title": "What Is the Federal Home Loan Mortgage Corp. (FHLMC) / Freddie Mac?",
+              "snippet": "The Federal Home Loan Mortgage Corp. (FHLMC), or Freddie Mac, is a stockholder-owned, government-sponsored enterprise (GSE) chartered by Congress in 1970 to keep money flowing to mortgage lenders ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180968+00:00",
+              "published_date": null,
+              "source_hash": "0add0ad2221f8e1dcce0d3c5affaa474"
+            },
+            {
+              "url": "",
+              "title": "Fannie Mae and Freddie Mac: An Overview - Investopedia",
+              "snippet": "The Federal National Mortgage Association, commonly known as \"Fannie Mae,\" and the Federal Home Loan Mortgage Corporation, \"Freddie Mac,\" are the two government-sponsored enterprises (GSEs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:00.180974+00:00",
+              "published_date": null,
+              "source_hash": "50d26825d97699d220931f88cacd1314"
+            },
+            {
+              "url": "",
+              "title": "Federal Home Loan Mortgage Corporation (FMCC)",
+              "snippet": "the Federal National Mortgage Association and Federal Home Loan Mortgage Corporation, respectively \u2014 could go private, exiting government conservatorship during President-elect Donald Trump's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "retrieved_at": "2025-01-06T14:27:02.566294+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "74639a18f8f46b9c6a911a5320592d1a"
+            },
+            {
+              "url": "",
+              "title": "Fed. Home Loan Mortgage Corp.DL-Certs 2020(50) Pool SD8051 Bond",
+              "snippet": "The Federal Home Loan Mortgage Corp.-Bond has a maturity date of 3/25/2050 and offers a coupon of 3.5000%. The payment of the coupon will take place 12.0 times per Coupon Payment at end of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:06.574510+00:00",
+              "published_date": "2024-12-25T00:00:00+00:00",
+              "source_hash": "d499bcd747b35509130d4426ddc1bc3c"
+            },
+            {
+              "url": "",
+              "title": "SEC v. Federal Home Loan Mortgage Corporation, et al. Case No. 07-cv ...",
+              "snippet": "On September 27, 2007, the Commission filed a complaint against Federal Home Loan Mortgage Corporation (\"Freddie Mac\" or the \"Company\"), David W. Glenn (\"Glenn\"), Vaughn A. Clarke (\"Clarke\"), Robert C. Dean (\"Dean\"), and Nazir G. Dossani (\"Dossani\") (collectively, the \"Defendants\"), alleging that the Defendants had engaged in fraudulent conduct that deceived ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224698+00:00",
+              "published_date": null,
+              "source_hash": "5bd9a9c5225ac4d9700778fa788afd70"
+            },
+            {
+              "url": "",
+              "title": "12 USC Ch. 11A: FEDERAL HOME LOAN MORTGAGE CORPORATION - House",
+              "snippet": "Pub. L. 111-203, title XIII, \u00a71304(d), July 21, 2010, 124 Stat. 2134, provided that: \"Any periodic commitment fee or any other fee or assessment paid by the Federal National Mortgage Association or Federal Home Loan Mortgage Corporation to the Secretary of the Treasury as a result of any preferred stock purchase agreement, mortgage-backed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224772+00:00",
+              "published_date": null,
+              "source_hash": "b3fc82b56fe66055150627ff1d226107"
+            },
+            {
+              "url": "",
+              "title": "12 U.S. Code \u00a7 1833e - Equal opportunity | U.S. Code | US Law | LII ...",
+              "snippet": "For purposes of this Act, sections 1 and 2 of Executive Order Numbered 11478, providing for the adoption and implementation of equal employment opportunity, shall apply to the Federal Home Loan Banks, the Federal National Mortgage Association, and the Federal Home Loan Mortgage Corporation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224832+00:00",
+              "published_date": null,
+              "source_hash": "faebb406817a6eb64e548f31e410d448"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "FEDERAL HOME LOAN MORTGAGE CORPORATION, a corporation; FEDERAL HOUSING FINANCE AGENCY, a federal agency, as ... Federal Housing Finance Agency (\"FHFA\") to provide \"general regulatory authority\" over Fannie Mae and Freddie Mac. 12 U.S.C. \u00a7 4511. On September 6, 2008, FHFA imposed itself as the",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224843+00:00",
+              "published_date": null,
+              "source_hash": "23a5636ec100effeaf27c2d37e72de52"
+            },
+            {
+              "url": "",
+              "title": "FEDERAL HOME LOAN MORTGAGE CORPORATION v. LLC LLC (2018)",
+              "snippet": "The economic downturn following the subprime mortgage crisis of 2007 pushed to near default two government-sponsored enterprises that were heavily exposed to the housing market. The Federal National Mortgage Association (\"Fannie Mae\") and the Federal Home Loan Mortgage Corporation (\"Freddie Mac,\" collectively, with Fannie Mae, \"the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224854+00:00",
+              "published_date": null,
+              "source_hash": "6d0852d50c3fd40e14c59580ad8d74a3"
+            },
+            {
+              "url": "",
+              "title": "ABA-Agencies eliminate PSPA restrictions on Fannie Mae, Freddie Mac ...",
+              "snippet": "In 2021, FHFA and the Treasury Department placed limits on the government-sponsored enterprises' ability to acquire loans with higher-risk features that may conflict with ongoing efforts to expand safe and sound affordable housing options. The agencies suspended the changes to the PSPAs after the American Bankers Association and other groups raised concerns about market disruptions caused by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224865+00:00",
+              "published_date": null,
+              "source_hash": "a1473dcfa5ca092d67d5c35c87d65fb4"
+            },
+            {
+              "url": "",
+              "title": "SEC.gov | Federal Home Loan Mortgage Corporation, et al.",
+              "snippet": "On September 27, 2007, the Securities and Exchange Commission filed a settled enforcement action charging the Federal Home Loan Mortgage Corporation (\"Freddie Mac\"), a shareholder-owned government-sponsored enterprise, with securities fraud in connection with improper earnings management that occurred from at least the second quarter of 1998 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224875+00:00",
+              "published_date": null,
+              "source_hash": "caf2274d27cdcd7709728a9008e55789"
+            },
+            {
+              "url": "",
+              "title": "Econ 202 15.6 Flashcards - Quizlet",
+              "snippet": "Study with Quizlet and memorize flashcards containing terms like Two government-sponsored enterprises that stand between investors and banks that grant mortgages are the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation., A newspaper article in the fall of 2007 reported stated that: \"The luxury-home builder Hovnanian Enterprises reported its fourth ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224885+00:00",
+              "published_date": null,
+              "source_hash": "c7c5a884b535d836b9cf9033751a767f"
+            },
+            {
+              "url": "",
+              "title": "What is the Federal Home Loan Mortgage Corporation (FHLMC)?",
+              "snippet": "Commonly known as Freddie Mac, the Federal Home Loan Mortgage Corporation (FHLMC) supports the U.S. housing finance system by helping manage and facilitate affordable mortgage funds for American ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:04.224895+00:00",
+              "published_date": null,
+              "source_hash": "283e06d0036d8079507c2f9d18b97ad3"
+            },
+            {
+              "url": "",
+              "title": "Federal Home Loan Mortgage Corporation (FMCC)",
+              "snippet": "The U.S. Treasury Department and the Federal Housing Finance Agency ... the Federal National Mortgage Association and Federal Home Loan Mortgage Corporation, respectively \u2014 could go private ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:06.574457+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "7ad9b912a3575a8a32f3b4fb4a4a95bc"
+            },
+            {
+              "url": "",
+              "title": "Freddie Mac",
+              "snippet": "The Federal Home Loan Mortgage Corporation, commonly known as Freddie ... In the wake of the 2008 financial crisis, the Federal Housing Finance Agency (FHFA) placed Freddie Mac and Fannie Mae ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Federal Home Loan Mortgage Corporation Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "retrieved_at": "2025-01-06T14:27:06.574487+00:00",
+              "published_date": "2024-12-17T00:00:00+00:00",
+              "source_hash": "69fc0d575fd2adc3adb4fc3b22a6c38c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Federal Home Loan Mortgage Corporation conservatorship risks",
+              "rationale": "Investigate the implications and risks associated with Freddie Mac's prolonged conservatorship under the FHFA.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Federal Home Loan Mortgage Corporation systemic risk exposure",
+              "rationale": "Assess the potential systemic risks posed by Freddie Mac's significant role in the U.S. mortgage market and its financial stability.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Federal Home Loan Mortgage Corporation affordable housing controversies",
+              "rationale": "Explore criticisms and controversies regarding Freddie Mac's efforts and effectiveness in addressing the affordable housing crisis.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:27:26.182896",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

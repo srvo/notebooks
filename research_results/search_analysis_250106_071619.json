@@ -1,0 +1,437 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:16:19.112714",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Radius Recycling",
+      "symbol": "RDUS",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Environmental impact from steel manufacturing operations",
+            "Dependence on global markets and sensitivity to trade tariffs",
+            "Regulatory compliance challenges",
+            "Market volatility tied to manufacturing and construction sectors"
+          ],
+          "controversies": [
+            "Scrutiny over emissions and waste management in steel manufacturing",
+            "Potential operational disruptions due to stricter environmental regulations"
+          ],
+          "environmental_issues": [
+            "Greenhouse gas emissions from operations",
+            "Waste management challenges in recycling processes"
+          ],
+          "social_issues": [
+            "Workplace safety improvements needed despite progress",
+            "Community impact from diverting metals from landfills"
+          ],
+          "governance_issues": [
+            "Compliance with evolving environmental and trade regulations",
+            "Financial challenges amid market volatility"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Radius Recycling Unleashed Fiscal Year 2024 ... - ScrapMonster",
+              "snippet": "The study states that, in compared to the baseline for 2019, the company reduced Scope 1 and Scope 2 greenhouse gas (GHG) emissions at recycling activities by 30%. Additionally, compared to the prior year, it recorded a 16% decrease in the total case incident rate (TCIR) across all of its businesses. 87 percent of Radius Recycling's facilities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.026975+00:00",
+              "published_date": null,
+              "source_hash": "a8f77f2b4dddf01ab86a9483e8af9f40"
+            },
+            {
+              "url": "",
+              "title": " Radius Recycling 2024 Sustainability Report ESG Database",
+              "snippet": "Recycling Facilities 96 94 102 105 104 103 ... Emissions Footprint Total Scope 1+2 GHG Emissions (normalized mtCO2e) 0.036 0.035 0.028 0.028 0.027 0.026 Total Scope 1 (mtCO2e) 159,320 145,467 145,580 154,258 144,040 142,217 ... Radius Recycling 2024 Sustainability Report ESG Database",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027073+00:00",
+              "published_date": null,
+              "source_hash": "3847f5f5ae615d1179f84f788622487a"
+            },
+            {
+              "url": "",
+              "title": " Radius Recycling 2024 Sustainability Report SASB Index",
+              "snippet": "Metals Recycling Business \"Recycling\" / Waste Management % of Emissions 39% The Waste Management industry includes companies that collect, store, dispose of, recycle, or treat various forms of waste from residential, commercial, and industrial clients. Types of waste include municipal solid waste, hazardous waste,",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027088+00:00",
+              "published_date": null,
+              "source_hash": "e1d013db50e2b18533ebad3897ed3cf1"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling fined $575,000 by air district for pollution",
+              "snippet": "Further tests of the equipment in 2022 and 2023 showed that Radius was able to resolve these issues. However, Radius is being fined $575,000 for the emissions control issues. According to the air district, the new equipment has helped clean up Radius' operations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027102+00:00",
+              "published_date": null,
+              "source_hash": "6c82cc0f1119ef48ae8c09be56f84f11"
+            },
+            {
+              "url": "",
+              "title": "Radius publishes FY24 sustainability report - Recycling Today",
+              "snippet": "Radius Recycling Inc. has released its sustainability report for the 2024 fiscal year. The Portland, Oregon-based metals recycler says its report shows progress toward its multiyear sustainability goals, including a 30 percent reduction in greenhouse gas emissions at recycling operations versus its 2019 baseline, a 16 percent year-over-year reduction in total case incident rate and the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249646+00:00",
+              "published_date": null,
+              "source_hash": "a4fbfaf94d09cbe32e2ecc9ca893229f"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling's Commitment to Sustainability in 2024",
+              "snippet": "Specifically, Radius has successfully reduced its greenhouse gas emissions by 30% at its recycling facilities when compared to a 2019 baseline. Additionally, the year saw a commendable year-over-year decline of 16% in total case incident rates, illustrating a commitment to employee safety.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027126+00:00",
+              "published_date": null,
+              "source_hash": "0bf2fc152030ececda598fb081973368"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling, 2 company managers indicted for 2023 fire in Oakland ...",
+              "snippet": "Radius Recycling, 2 company managers indicted for 2023 fire in Oakland, California ... disposal or storage of hazardous waste in a manner causing an unreasonable risk of fire, explosion, serious injury or death. ... state health experts have indicated that LFMs do not pose a human health hazard and there has been no evidence that emissions from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027137+00:00",
+              "published_date": null,
+              "source_hash": "722668028cadeb75b78dd2a3451d0a50"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Releases Fiscal 2024 Sustainability Report ...",
+              "snippet": "Radius Recycling, a leading metals recycling company, has released its Fiscal 2024 Sustainability Report, demonstrating its commitment to a low-carbon future through the recycling of essential ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027147+00:00",
+              "published_date": null,
+              "source_hash": "2da94082b5efc02f1ccf3b7e8bcce9bb"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling",
+              "snippet": "Our sustainability key performance indicators focus on carbon emissions disclosures, energy management, and efficiency, water conservation and quality, resource recovery, and waste diversion. Our 2016 fiscal year (September 1, 2015 through August 31, 2016) represents our third annual year for public disclosure of Scope 1 and 2 greenhouse gas ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027158+00:00",
+              "published_date": null,
+              "source_hash": "deddcf451864065dbf0b5525c9698a66"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling pollutes California waterways, environmental group ...",
+              "snippet": "A California environmental group has sued Radius Recycling , alleging the recycled steel company's operations are polluting the San Francisco Bay and its tributaries with dirty stormwater runoff.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:46.027168+00:00",
+              "published_date": null,
+              "source_hash": "58cf96b573930367f9268e8efc06d388"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Publishes Fiscal Year 2024 Sustainability Report",
+              "snippet": "The Company's report showcases progress towards its multi-year sustainability goals, including a 30% reduction in greenhouse gas emissions at recycling operations ... Oregon. At Radius, we are committed to a future with less waste. We turn the old ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:49.397848+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "7819c62741e412e53075843744fe0e9b"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Releases Fiscal 2024 Sustainability Report Highlighting Commitment to Low-Carbon Future and Environmental Goals",
+              "snippet": "Radius Recycling achieved a 30% reduction in greenhouse gas emissions at its recycling ... for Standardization (ISO)-certified Environmental Management System to encompass 50% of Company facilities.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:49.397981+00:00",
+              "published_date": "2024-12-13T13:41:00+00:00",
+              "source_hash": "2bddae22c84e57f7376f47ee06e76e86"
+            },
+            {
+              "url": "",
+              "title": "Radius publishes FY24 sustainability report",
+              "snippet": "Radius Recycling Inc. has released its sustainability report for the 2024 fiscal year. The Portland, Oregon-based metals recycler says its report shows progress toward its multiyear sustainability goals, including a 30 percent reduction in greenhouse gas ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Radius Recycling Radius Recycling emissions and waste management controversies",
+              "retrieved_at": "2025-01-06T14:15:49.398016+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "a0de412a462e094e83f413c51707395c"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling initiated with a Neutral at Goldman Sachs",
+              "snippet": "Goldman Sachs initiated coverage of Radius Recycling (RDUS) with a Neutral rating and $22 price target The prevailing sentiment towards the U.S. steel industry seems pessimistic given concerns on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radius Recycling Radius Recycling trade tariffs impact on profitability",
+              "retrieved_at": "2025-01-06T14:15:56.219262+00:00",
+              "published_date": "2024-12-02T10:40:00+00:00",
+              "source_hash": "3b6f020fc79ca77ae4e69ffbd7713904"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Publishes Fiscal Year 2024 Sustainability Report",
+              "snippet": "December 16, 2024 /CSRwire/ - Radius Recycling ... and Profit,\" said Tamara Lundgren, Chairman and Chief Executive Officer. \"This framework is the foundation of our sustainability strategy and continues to deliver meaningful impact to all our ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radius Recycling Radius Recycling trade tariffs impact on profitability",
+              "retrieved_at": "2025-01-06T14:15:56.219106+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "48ed3122c0cf31e05053d7b57579578f"
+            },
+            {
+              "url": "",
+              "title": "Radius publishes FY24 sustainability report",
+              "snippet": "Radius Recycling Inc. has ... planet and profit,\" Radius Chairman and CEO Tamara Lundgren says. \"This framework is the foundation of our sustainability strategy and continues to deliver meaningful impact to all our stakeholders. RELATED: Radius posts ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radius Recycling Radius Recycling trade tariffs impact on profitability",
+              "retrieved_at": "2025-01-06T14:15:56.219230+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "af470d98a81beb94f5d97aacbdaa9d4c"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Releases Fiscal 2024 Sustainability Report Highlighting Commitment to Low-Carbon Future and Environmental Goals",
+              "snippet": "Radius Recycling ... Profit,\" said Tamara Lundgren, Chairman and Chief Executive Officer. \"This framework is the foundation of our sustainability strategy and continues to deliver meaningful ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radius Recycling Radius Recycling trade tariffs impact on profitability",
+              "retrieved_at": "2025-01-06T14:15:56.219249+00:00",
+              "published_date": "2024-12-13T13:41:00+00:00",
+              "source_hash": "9d270d694b566b7cd13ad02c7256cf32"
+            },
+            {
+              "url": "",
+              "title": "Navigating the Impact of Rising Tariffs in Modern Trade",
+              "snippet": "as importers typically pass on these costs due to narrow profit margins. The Trump administration's imposition of tariffs on Chinese goods sparked a trade war, adversely affecting the U.S. GDP and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Radius Recycling Radius Recycling trade tariffs impact on profitability",
+              "retrieved_at": "2025-01-06T14:15:56.219272+00:00",
+              "published_date": "2024-11-26T00:00:00+00:00",
+              "source_hash": "e550af29a82ae1a865f2c1e6dd463fb5"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling's Commitment to Sustainability in 2024",
+              "snippet": "This extension not only meets rigorous environmental standards but also showcases the company's dedication to sustainable practices. Community Involvement and Impact. Radius Recycling's annual operations divert millions of tons of ferrous and nonferrous metals from landfills, generating significant environmental benefits.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249495+00:00",
+              "published_date": null,
+              "source_hash": "82a912fd175334106e402ea9b1ee15d7"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Releases Fiscal 2024 Sustainability Report ...",
+              "snippet": "Radius Recycling released its 2024 Sustainability Report, highlighting significant progress in sustainability and ethical practices. Quiver AI Summary. Radius Recycling, a leading metals recycling ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249599+00:00",
+              "published_date": null,
+              "source_hash": "ec2ccf7262e70b1ce9769eda5d93ed37"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling",
+              "snippet": "Community Alliance; For over a century at Radius, we have been creating value from recycling. Through sustainable practices and our commitment to positively impact the communities in which we operate, we are continuing to pioneer ways in which to further advance sustainability, recycling and environmental stewardship. Tamara L. Lundgren",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249614+00:00",
+              "published_date": null,
+              "source_hash": "906ccdade898259564ebf7bbe3d98846"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling",
+              "snippet": "Sustainability is a core value at Radius. Our social, environmental and economic performance is essential to our future growth and success. Awarded \"Scrap Company of the Year\" in 2011 and 2013 by the American Metal Market (AMM) and named a 2015 and 2016 World's Most Ethical Company by the Ethisphere Institute, our commitment to reclaim, recycle and remanufacture scrap metal, safely and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249625+00:00",
+              "published_date": null,
+              "source_hash": "0f51fb281d7fcf1d58cdc22a167fd9e7"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Unleashed Fiscal Year 2024 ... - ScrapMonster",
+              "snippet": "Radius Recycling: Tight Recycled Metals Supply Flows, Wet Winter Weather Impacted Earnings. Over the course of the fiscal year, 4.9 million tons of ferrous and nonferrous metals were recycled as part of its circularity programs. Additionally, 509,000 short tons of completed steel products derived from ferrous metal recycling were sold.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249636+00:00",
+              "published_date": null,
+              "source_hash": "1a800b6420ed552647b63c7c2c719e95"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Publishes Fiscal Year 2024 Sustainability - GlobeNewswire",
+              "snippet": "About Radius Recycling, Inc. Radius Recycling, Inc. (formerly Schnitzer Steel Industries, Inc.) is one of the largest manufacturers and exporters of recycled metal products in North America with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249657+00:00",
+              "published_date": null,
+              "source_hash": "4192a13fa9628c0e8d078df2fa81bc14"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling (Schnitzer Steel): Clean Up or Get Out",
+              "snippet": "Radius Recycling (formerly Schnitzer Steel) is a privately-owned corporation that runs 54 scrap metal recycling plants around the country. Its 26-acre facility on the edge of West Oakland sits within two miles of more than a dozen daycare centers, eight schools, four senior housing facilities, 10 public parks, and at least four healthcare ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249666+00:00",
+              "published_date": null,
+              "source_hash": "add715ef5704be09efbe2f2e4fdef57f"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Publishes Fiscal Year 2024 Sustainability",
+              "snippet": "Radius re-certified as a Great Place to Work\u00ae for the fourth consecutive year. About Radius Recycling, Inc. Radius Recycling, Inc. (formerly Schnitzer Steel Industries, Inc.) is one of the largest manufacturers and exporters of recycled metal products in North America with operating facilities located in 25 states, Puerto Rico, and Western Canada.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249677+00:00",
+              "published_date": null,
+              "source_hash": "956b96dab66c22e7f6ffb1bf6afdaf79"
+            },
+            {
+              "url": "",
+              "title": " Radius Recycling 2023 Sustainability Report",
+              "snippet": "Recycling facilities 96 94 102 105 104 Metals recycling facilities 45 44 52 54 54 Auto parts stores 51 50 50 51 50 Steel facilities 2 2 2 2 2 1 Direct and indirect contributions include our own footprint as well as estimates for our suppliers and re-spending by employees of the U.S. steel industry and U.S. metals recycling industry.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:15:58.249690+00:00",
+              "published_date": null,
+              "source_hash": "057d045de0b92a32eadd7ddf1f5e8c18"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Releases Fiscal 2024 Sustainability Report Highlighting Commitment to Low-Carbon Future and Environmental Goals",
+              "snippet": "Radius Recycling ... practices, including being named one of the world's most sustainable corporations. The report underscores the company's efforts in fostering sustainability, community impact ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:16:01.557476+00:00",
+              "published_date": "2024-12-13T13:41:00+00:00",
+              "source_hash": "fee2a37b3ad05674b80e4c15c085c484"
+            },
+            {
+              "url": "",
+              "title": "Radius publishes FY24 sustainability report",
+              "snippet": "Radius Recycling Inc. has released its sustainability report for ... \"This framework is the foundation of our sustainability strategy and continues to deliver meaningful impact to all our stakeholders. RELATED: Radius posts quarterly loss in summer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:16:01.557632+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "6f1ae1d42f6a8668104a8803cca48e3f"
+            },
+            {
+              "url": "",
+              "title": "Radius Recycling Publishes Fiscal Year 2024 Sustainability Report",
+              "snippet": "December 16, 2024 /CSRwire/ - Radius ... meaningful impact to all our stakeholders.\" The Company's report showcases progress towards its multi-year sustainability goals, including a 30% reduction in greenhouse gas emissions at recycling operations ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Radius Recycling Radius Recycling labor practices and community impact",
+              "retrieved_at": "2025-01-06T14:16:01.557669+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "973e9264058eb33c2937b7aa48227097"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Radius Recycling emissions and waste management controversies",
+              "rationale": "Investigate potential environmental concerns related to emissions and waste management practices in steel manufacturing",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Radius Recycling trade tariffs impact on profitability",
+              "rationale": "Assess the financial risks posed by international trade tariffs and their effect on the company's export revenue",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Radius Recycling labor practices and community impact",
+              "rationale": "Examine potential ethical and social concerns related to labor practices and the company's impact on local communities",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:16:19.112722",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

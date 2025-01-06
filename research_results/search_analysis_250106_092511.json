@@ -1,0 +1,576 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:25:11.635183",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Mongodb Inc",
+      "symbol": "MDB",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Intense competition from established players and emerging NoSQL providers",
+            "Dependence on major cloud providers for MongoDB Atlas service",
+            "Vulnerability to macroeconomic downturns affecting IT spending",
+            "Data security and compliance challenges"
+          ],
+          "controversies": [
+            "Shift from GNU AGPL to Server Side Public License (SSPL) causing open-source community criticism",
+            "Investigation by former Louisiana Attorney General Charles C. Foti, Jr."
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Data breach risks and the need for enhanced security measures"
+          ],
+          "governance_issues": [
+            "Regulatory scrutiny and potential reputational risks from ongoing investigations"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "MongoDB Licensing",
+              "snippet": "mongodb.org supported drivers: Apache License v2.0. Third party drivers: Licenses will vary. Documentation. Documentation: Creative Commons. Licensing Policy. Our goal in selecting the Server Side Public License (SSPL) v1.0, a license introduced by MongoDB, as our license is to require that enhancements to MongoDB be released to the community ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843045+00:00",
+              "published_date": null,
+              "source_hash": "56eb0a5d30edb03a677c3f39ba4c86c6"
+            },
+            {
+              "url": "",
+              "title": "Server Side Public License FAQ - MongoDB",
+              "snippet": "This is a time of incredible opportunity for open source projects, with the potential to foster a new wave of great open source server side software. The reality, however, is that once an open source project becomes interesting, it is too easy for large cloud vendors to capture all the value but contribute nothing back to the community.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843184+00:00",
+              "published_date": null,
+              "source_hash": "338075bbecf5e81e1c877cd0acdc15ee"
+            },
+            {
+              "url": "",
+              "title": "licensing - Can MongoDB, Inc. really licence its wire protocol? - Open ...",
+              "snippet": "Reading through this page on MongoDB website it states: This MongoDB Wire Protocol Specification is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License. You may not use or adapt this material for any commercial purpose, such as to create a commercial database or database-as-a-service offering.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843215+00:00",
+              "published_date": null,
+              "source_hash": "ec369bbc6f5bfeb8714d357c99f0539c"
+            },
+            {
+              "url": "",
+              "title": "MongoDB licensing : r/mongodb - Reddit",
+              "snippet": "A company that offers a publicly available MongoDB as a service must release the software it uses to offer such service under the terms of the SSPL, including the management software, user interfaces, application program interfaces, automation software, monitoring software, backup software, storage software and hosting software, all such that a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843231+00:00",
+              "published_date": null,
+              "source_hash": "00c1f0141a95fc28f212a65199c8122e"
+            },
+            {
+              "url": "",
+              "title": "It's MongoDB's turn to change its open source license - ZDNET",
+              "snippet": "MongoDB is transitioning to a new Server-Side Public License (SSPL) that seeks to plug the gaps with cloud-based services. Why did MongoDB need the new license, and will it avoid the uproar that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843243+00:00",
+              "published_date": null,
+              "source_hash": "d0e947ae5c6c23e1f2b9f58bf96fec37"
+            },
+            {
+              "url": "",
+              "title": "Is MongoDB Open Source? Is Planet Earth Flat?",
+              "snippet": "Whereas many open source software offerings \u2014 like the community version of MySQL \u2014 use the GNU General Public License (GPL), MongoDB has been under the GNU Affero General Public License (AGPL) and more recently under the Server Side Public License (SSPL), introduced by MongoDB itself. Many open source proponents, including the Open Source ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843256+00:00",
+              "published_date": null,
+              "source_hash": "455d225bc7d0fb4fa0a791cfb57620b8"
+            },
+            {
+              "url": "",
+              "title": "MongoDB \"open-source\" Server Side Public License rejected",
+              "snippet": "Red Hat won't use MongoDB in Red Hat Enterprise Linux or Fedora thanks to MongoDB's new Server Side Public License. Written by Steven Vaughan-Nichols, Senior Contributing Editor Jan. 16, 2019 at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843275+00:00",
+              "published_date": null,
+              "source_hash": "30538158f0a9c86d25eeea973284531f"
+            },
+            {
+              "url": "",
+              "title": "Understanding MongoDB's New Copyleft Open Source License",
+              "snippet": "In an apparent response to attempts by users of MongoDB to architect their services so as to avoid the obligation to make their source code modifications available under AGPLv3, MongoDB has created a modified version of AGPLv3 (see here for a redline comparison) with broader disclosure and licensing obligations. The new license is called the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843288+00:00",
+              "published_date": null,
+              "source_hash": "23851a876d5ca0557f1988066b0fb04d"
+            },
+            {
+              "url": "",
+              "title": "About License Restriction - MongoDB Atlas - MongoDB Developer Community ...",
+              "snippet": "will there be any legal problems if I use MongoDB in an open source project with Apache License 2.0? You asked about using MongoDB in an open source project with Apache License 2.0. According to the SSPL FAQs, you won't encounter legal issues if you're using MongoDB in a standard software application.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843299+00:00",
+              "published_date": null,
+              "source_hash": "ad3e6bdcd56d01b22bac7de4dd08402b"
+            },
+            {
+              "url": "",
+              "title": "The Server Side Public License (SSPL): A Polemic License - LinkedIn",
+              "snippet": "Introduced by MongoDB Inc. in 2018, the SSPL was designed to address perceived loopholes in existing open-source licenses concerning the use of software as a service (SaaS).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:41.843311+00:00",
+              "published_date": null,
+              "source_hash": "729953a4993865c6b8dc6ab2c59db05c"
+            },
+            {
+              "url": "",
+              "title": "Why Is MongoDB, Inc. (MDB) Among the Big Data Stocks to Buy According to Hedge Funds?",
+              "snippet": "In this article, we are going to take a look at where MongoDB, Inc. (NASDAQ:MDB ... it was around 2005 when open-source frameworks were created to store and analyze big data sets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:44.262080+00:00",
+              "published_date": "2024-12-03T19:17:00+00:00",
+              "source_hash": "bce4adbeb926b4021c7b8729eaf0b3d8"
+            },
+            {
+              "url": "",
+              "title": "MongoDB, Inc. Announces Third Quarter Fiscal 2025 Financial Results",
+              "snippet": "(a) Direct Sales Customers are customers that were sold through our direct sales force and channel partners. View original content to download multimedia:https://www ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:53.304976+00:00",
+              "published_date": "2024-12-10T07:16:00+00:00",
+              "source_hash": "67de0de75ed1712999e34fb2a9f62b2f"
+            },
+            {
+              "url": "",
+              "title": "MongoDB, Inc. Announces Date of Third Quarter Fiscal 2025 Earnings Call",
+              "snippet": "View original content to download multimedia:https://www.prnewswire.com/news-releases/mongodb-inc-announces-date-of-third-quarter-fiscal-2025-earnings-call-302309005 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:53.305027+00:00",
+              "published_date": "2024-11-18T22:03:00+00:00",
+              "source_hash": "822995fe3e74660a35125a2cc8883f8d"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Is a Leading Document-Based Database Provider",
+              "snippet": "MongoDB has made several acquisitions to help boost its feature roster, including its purchase of open-source mobile database ... are usually sold through license agreements or subscriptions.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:44.262244+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "0f7445a6f5ef3e2418dcbdbb1d8b240e"
+            },
+            {
+              "url": "",
+              "title": "MongoDB, Inc. (MDB) Stock Price, News, Quote & History - Yahoo Finance",
+              "snippet": "Upgrade your Yahoo Finance plan to get complete details for MongoDB, Inc. Get advanced tools and insights to navigate the markets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc open-source licensing controversy",
+              "retrieved_at": "2025-01-06T16:24:44.262266+00:00",
+              "published_date": "2023-03-03T16:15:00+00:00",
+              "source_hash": "55e63d24a7e54765f9fbd0dc4955c541"
+            },
+            {
+              "url": "",
+              "title": "Multi-Cloud Agility | MongoDB",
+              "snippet": "The flip side of data mobility is the risk of becoming too invested in a single cloud provider. There are reasons you might want to get out. For example, the provider starts competing with you; or a business acquisition requires you to use a different provider; or another provider offers technologies or services that your current provider doesn ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750217+00:00",
+              "published_date": null,
+              "source_hash": "45a8005a821c9fcda60c8f278cbff03a"
+            },
+            {
+              "url": "",
+              "title": "Balancing Speed And Risk With A Multi-Cloud Strategy - MongoDB",
+              "snippet": "A smart multi-cloud strategy helps you balance speed and risk. One scenario: Move faster by tapping in to the best tools from each cloud provider; reduce your risk by building in multi-cloud resilience. In this white paper, we explore. What multi-cloud means and its benefits; How a multi-cloud strategy can lead to greater developer speed",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750335+00:00",
+              "published_date": null,
+              "source_hash": "c0e307e8d4a4f0b8652309e1cf508d0c"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Is a Leading Document-Based Database Provider",
+              "snippet": "MongoDB is a document-based database, benefiting from growth in the cloud and the need to consume and use data variants that go beyond typical relational database setups. As technologies like the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750351+00:00",
+              "published_date": null,
+              "source_hash": "f9898870663e6e008b74860734972840"
+            },
+            {
+              "url": "",
+              "title": "[4 Steps] MongoDB, Inc. SWOT Analysis Weighted SWOT Matrix",
+              "snippet": "Reduce Dependence on Cloud Services with Hybrid Solutions: MongoDB can reduce its dependence on cloud services by developing hybrid solutions that combine cloud and on-premise deployments. This approach can provide customers with greater flexibility and control over their data, mitigating risks associated with cloud infrastructure outages and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750364+00:00",
+              "published_date": null,
+              "source_hash": "a6fbe95b4b0f41f26423eccf10ad0540"
+            },
+            {
+              "url": "",
+              "title": "Decoding MongoDB Inc (MDB): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "On December 10, 2024, MongoDB Inc (MDB, Financial) filed its 10-Q report, revealing a detailed financial performance and strategic positioning within the competitive landscape of database technology.Founded in 2007, MongoDB has established itself as a leading document-oriented database provider, serving approximately 33,000 paying customers and over 1.5 million free users.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750374+00:00",
+              "published_date": null,
+              "source_hash": "ffceefc927f95da2805c8d5b54d74415"
+            },
+            {
+              "url": "",
+              "title": "Decoding MongoDB Inc (MDB): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "On March 15, 2024, MongoDB Inc released its 10-K filing, providing a comprehensive overview of its financial performance and strategic positioning.Founded in 2007, MongoDB has established itself ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750389+00:00",
+              "published_date": null,
+              "source_hash": "c235c30cddf0e31d3c9bb9411447d033"
+            },
+            {
+              "url": "",
+              "title": "Decoding MongoDB Inc (MDB): A Strategic SWOT Insight - Yahoo Finance",
+              "snippet": "International operations expose the company to geopolitical risks. On May 31, 2024, MongoDB Inc , a leader in document-oriented database solutions, filed its 10-Q report, revealing a detailed look ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750402+00:00",
+              "published_date": null,
+              "source_hash": "80c02ae8ecfac619703a9789d1bb99e2"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Atlas is the First Cloud Database to Enable Customers to Run ...",
+              "snippet": "Using multi-cloud clusters, customers can easily take advantage of the unique capabilities and reach of different cloud providers. NEW YORK \u2014 October 20, 2020 \u2014 MongoDB, Inc. (NASDAQ: MDB), the leading, modern general purpose database platform, today announced the general availability of multi-cloud clusters for its global cloud database, MongoDB Atlas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750413+00:00",
+              "published_date": null,
+              "source_hash": "7ce47fbf00f15a2173f92b1db49e69a0"
+            },
+            {
+              "url": "",
+              "title": "MongoDB: Decoding Billion-Dollar Cloud Bets & Commitments - Partner Insight",
+              "snippet": "How significant are \ud83d\udcb0 commitments that enterprises make to the cloud? Take MongoDB - it committed hundreds of millions. Here is a breakdown & why this matters if you use cloud marketplaces.Earlier this year, MongoDB disclosed it has over $1B in commitments to \"subscriptions, marketing services, and cloud infrastructure capacity.\" While these cloud commitments are bundled with other services ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750435+00:00",
+              "published_date": null,
+              "source_hash": "3e9ea4ba60f0e9624bd6b1da0f2e61da"
+            },
+            {
+              "url": "",
+              "title": "Decoding MongoDB Inc (MDB): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "On March 15, 2024, MongoDB Inc (MDB, Financial) released its 10-K filing, providing a comprehensive overview of its financial performance and strategic positioning. Founded in 2007, MongoDB has established itself as a leading document-oriented database provider, serving nearly 33,000 paying customers and over 1.5 million free users.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:45.750451+00:00",
+              "published_date": null,
+              "source_hash": "a68cda00124d22580c3c7abd4290305f"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Is a Leading Document-Based Database Provider",
+              "snippet": "We are particularly cognizant of where MongoDB sits in the overall ecosystem, essentially in between clients and the cloud providers as a middleman service provider, while also being dependent on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:49.315053+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "7acd1e5c68afa37ac79e7aa51c95e7c3"
+            },
+            {
+              "url": "",
+              "title": "MongoDB, Inc. Reports Strong Q3 Fiscal 2025 Results",
+              "snippet": "Mongodb, Inc. ( (MDB)) has released its Q3 earnings ... MongoDB also strengthened its partnerships with major cloud providers like AWS and Microsoft, positioning itself as a key player in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:49.315120+00:00",
+              "published_date": "2024-12-10T00:00:00+00:00",
+              "source_hash": "12659187529557186617d33779c325d0"
+            },
+            {
+              "url": "",
+              "title": "Interview: MongoDB cofounder Eliot Horowitz - 'I'd like to see a fair fight with the cloud providers'",
+              "snippet": "MongoDB controversially introduced a new software licence in a bid to tackle the problem, as the firm saw it, of cloud service providers (CSPs) selling hosted versions of its software without ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:49.315148+00:00",
+              "published_date": "2019-09-30T00:00:00+00:00",
+              "source_hash": "9ac6200828aaed733881a3fb76680a8a"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Allies With Alibaba To Bring Database Cloud Service To China",
+              "snippet": "MongoDB has an active partner community of systems integrators like Accenture and Capgemini, ISVs, solution providers and cloud service providers AWS, Microsoft Azure and Google Cloud.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Mongodb Inc MongoDB Inc dependence on cloud providers risks",
+              "retrieved_at": "2025-01-06T16:24:49.315174+00:00",
+              "published_date": "2019-10-30T20:42:00+00:00",
+              "source_hash": "d9a093b91294e6167df38c6d6afefc1b"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Furthers Commitment to Security and Compliance with New ...",
+              "snippet": "NEW YORK\u2014May 23, 2024\u2014MongoDB, Inc. (NASDAQ: MDB) today announced MongoDB Atlas's compliance with four additional security certifications\u2014ISO 9001, TISAX, HDS, and TX-RAMP\u2014which further MongoDB's commitment to safeguarding enterprise and public sector customer data. These latest certifications build upon MongoDB's strong portfolio ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055777+00:00",
+              "published_date": null,
+              "source_hash": "cfa6bb39d9b3f7094205f5a85319d9be"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Data Breach Investigation: Update And Mitigation",
+              "snippet": "MongoDB urges its customers to remain vigilant in the face of potential social engineering and phishing attacks resulting from the information leaked via the MongoDB data breach.. To enhance security measures, the company recommends the implementation of active multi-factor authentication (MFA) and encourages users to regularly update their MongoDB Atlas passwords.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055842+00:00",
+              "published_date": null,
+              "source_hash": "68337411382d55d64fe391aed8f08f34"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Furthers Commitment to Security and Compliance with New ...",
+              "snippet": "NEW YORK, May 23, 2024 /PRNewswire/ -- MongoDB, Inc. (NASDAQ: MDB) today announced MongoDB Atlas's compliance with four additional security certifications\u2014ISO 9001, TISAX, HDS, and TX-RAMP ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055858+00:00",
+              "published_date": null,
+              "source_hash": "a109b51b62b5ce4f4de47ad25f0c69d2"
+            },
+            {
+              "url": "",
+              "title": "Technical And Organizational Security Measures - MongoDB",
+              "snippet": "\"Information Security Program\" means MongoDB's written security program, policies, and procedures that set forth the administrative, technical, and physical safeguards designed to protect Customer Data. 1.5. \"MongoDB Atlas Cluster\" means each replica set or sharded cluster of data-bearing nodes running the MongoDB database software that is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055871+00:00",
+              "published_date": null,
+              "source_hash": "394d08746d3bba5f177d71cd1dd7d168"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Audit Trail: NoSQL Database Compliance and Security",
+              "snippet": "MongoDB audit trail is an essential component of NoSQL database compliance and security. Whether using native tools or third-party solutions like DataSunrise, implementing a robust audit trail helps organizations maintain data integrity, meet regulatory requirements, and enhance overall security.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055883+00:00",
+              "published_date": null,
+              "source_hash": "a45886ad6ee0da312a8751ac2cf0f3a7"
+            },
+            {
+              "url": "",
+              "title": "What MongoDB security issues are still unresolved?",
+              "snippet": "Recently, there was a surge of attacks looking for misconfigured installations of MongoDB on the internet. The attackers were abusing the lack of authentication and remote accessibility to these MongoDB instances by deleting an original database and holding a copy of it for ransom.. These and other MongoDB security misconfigurations and vulnerabilities aren't completely related to patch ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055893+00:00",
+              "published_date": null,
+              "source_hash": "7ca5df05b162cde22d92e5c5701ffe2a"
+            },
+            {
+              "url": "",
+              "title": "7 Best Practices For MongoDB Security",
+              "snippet": "At rest encryption is not available for MongoDB Community Edition; it requires MongoDB Enterprise or MongoDB Atlas. Encrypting data in transit. By default, with MongoDB, all data is encrypted in transit using TLS. 5. Add Extra Encryption for Sensitive Data. A key feature of the MongoDB 4.2 release is client-side field-level encryption.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055904+00:00",
+              "published_date": null,
+              "source_hash": "533597e6bc043a759bfce1cdfff1f748"
+            },
+            {
+              "url": "",
+              "title": "5 Tips for Ensuring MongoDB Security and Compliance - data-expo.nl",
+              "snippet": "A single breach can severely impact a business, leading to data loss, legal issues, financial penalties, and reputational damage. While far from an exhaustive list, this article highlights five essential MongoDB security best practices for developers, DBAs, and security professionals to safeguard an organization's data and reduce potential risks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055914+00:00",
+              "published_date": null,
+              "source_hash": "156cc7e535b4fc59b0ed4ca5f6c50963"
+            },
+            {
+              "url": "",
+              "title": "Data Audit for MongoDB: Ensuring Security and Compliance - DataSunrise",
+              "snippet": "Introduction. The security and integrity of databases are critical, especially for popular NoSQL databases like MongoDB. Over the past decade, news of ransomed exposed databases has become increasingly common. Today, such vulnerabilities account for 65% of attacks on Financial Services.This alarming trend highlights the urgent need for robust data audit for MongoDB environments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055924+00:00",
+              "published_date": null,
+              "source_hash": "1a164321899e24e89decd0bc7949c5ad"
+            },
+            {
+              "url": "",
+              "title": "MongoDB Database Security - Percona Database Performance Blog",
+              "snippet": "MongoDB offers powerful features and scalability, but like any database system, it has security challenges that must be addressed to protect sensitive data as well as comply with regulatory standards like GDPR, HIPAA, PCI DSS, and AM/ATF.A single breach can significantly impact a business, and failure to establish sufficient security measures can result in severe consequences such as data loss ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:51.055934+00:00",
+              "published_date": null,
+              "source_hash": "4bb2ee4f4c98b999ce61d9b77703d67d"
+            },
+            {
+              "url": "",
+              "title": "MONGODB INVESTIGATION INITIATED by Former Louisiana Attorney General: Kahn Swick & Foti, LLC Investigates the Officers and Directors of MongoDB, Inc. - MDB",
+              "snippet": "Former Attorney General of Louisiana, Charles C. Foti, Jr., Esq., a partner at the law firm of Kahn Swick & Foti, LLC (\"KSF\"), announces that KSF",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:53.304831+00:00",
+              "published_date": "2025-01-04T03:22:00+00:00",
+              "source_hash": "378788839955ef945c0a3c4b56d5aa2d"
+            },
+            {
+              "url": "",
+              "title": "MongoDB, Inc. (MDB): A Bull Case Theory",
+              "snippet": "We came across a bullish thesis on MongoDB, Inc. (NASDAQ:MDB) on Substack by Antonio Linares. In this article, we will summarize the bulls' thesis on MDB. MongoDB, Inc. (NASDAQ:MDB)'s share was trading at $245.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:53.304939+00:00",
+              "published_date": "2024-12-23T15:39:00+00:00",
+              "source_hash": "7cc3690ec20c45eaf50f194b4b482a7c"
+            },
+            {
+              "url": "",
+              "title": "MongoDB rallies on upbeat forecast, helped by momentum from new business",
+              "snippet": "The company 'is in a great position to be a central pillar of the emerging AI tech stack,' its CEO says Shares of MongoDB Inc. jumped after hours on Thursday after the data development ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Mongodb Inc MongoDB Inc data security and compliance issues",
+              "retrieved_at": "2025-01-06T16:24:53.305002+00:00",
+              "published_date": "2024-12-09T14:22:00+00:00",
+              "source_hash": "31a2d34cb7a70ca33b7d031c12156aa8"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "MongoDB Inc open-source licensing controversy",
+              "rationale": "Investigate the impact of MongoDB's shift to the Server Side Public License (SSPL) on its reputation and legal standing within the open-source community.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "MongoDB Inc dependence on cloud providers risks",
+              "rationale": "Explore potential risks associated with MongoDB's reliance on major cloud providers like AWS, Azure, and GCP, including competition and partnership stability.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "MongoDB Inc data security and compliance issues",
+              "rationale": "Examine MongoDB's handling of data security, privacy concerns, and compliance with global regulations such as GDPR and CCPA.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:25:11.635194",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

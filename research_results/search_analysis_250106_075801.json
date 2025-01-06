@@ -1,0 +1,541 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:58:01.649317",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Paycom Software Inc",
+      "symbol": "PAYC",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Cybersecurity vulnerabilities leading to data breaches and reputational damage",
+            "Regulatory and compliance issues, including overbilling clients and evolving labor laws",
+            "Competitive pressures in the HCM software market",
+            "Client retention challenges and modest growth in seat additions"
+          ],
+          "controversies": [
+            "Significant data breach in 2023 resulting in a $900,000 settlement",
+            "SEC charge in 2021 for overbilling clients, leading to a $250,000 settlement"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Potential impact on client trust due to cybersecurity incidents"
+          ],
+          "governance_issues": [
+            "Weaknesses in internal controls and financial transparency",
+            "Need for improved governance to address compliance and cybersecurity risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "$900K Settlement Resolves Paycom Payroll Data Breach Lawsuit",
+              "snippet": "A $900,000 settlement has been reached to resolve a proposed class action lawsuit that claimed inadequate cybersecurity on the part of Paycom Payroll resulted in a data breach between May 28 and June 2, 2023. Don't miss the next class action settlement deadline. Sign up for ClassAction.org's free weekly newsletter.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038127+00:00",
+              "published_date": null,
+              "source_hash": "98d35d7cb5e80528dd7701f88d466d02"
+            },
+            {
+              "url": "",
+              "title": "Paycom Payroll Data Breach Lawsuit Claims Hacker Stole Thousands by Re ...",
+              "snippet": "The 49-page Paycom Payroll data breach lawsuit says that the party or parties responsible for infiltrating the online payroll and human resources company's systems \"still have access to Paycom's network\" and thus access to customers' personally identifiable information. Per the case, Paycom services thousands of employers nationwide ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038239+00:00",
+              "published_date": null,
+              "source_hash": "74fe416d25681ec0a880b802d5ac4288"
+            },
+            {
+              "url": "",
+              "title": "2023-07-20 Paycom Software, Inc. Cybersecurity Incident",
+              "snippet": "Paycom Software, Inc. initially disclosed a cybersecurity incident in an SEC 8-K filing on 2023-07-20 17:23:27 EDT. Incident Details Filings 8-K filed on 2023-07-20 Company Information Incident Details Material: Unknown Is Breach: Unknown Records Compromised: Unknown Data Types Impacted: No Data Types Tracked (yet) Compromised Date: Detected Date: Disclosure Date: 2023-05-31 Contained Date ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038258+00:00",
+              "published_date": null,
+              "source_hash": "b7912ec2f75eb3d9651af42e107acaa9"
+            },
+            {
+              "url": "",
+              "title": "Final chance to score $4,200 from $900k data breach settlement - and ...",
+              "snippet": "Paycom will pay out $900,000 to some clients Credit: Getty. Paycom provides payroll and human resources technology to thousands of businesses. Plaintiffs in the suit claimed Paycom failed to protect clients' personal information from being compromised in a 2023 data breach, per a website created for the case.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038272+00:00",
+              "published_date": null,
+              "source_hash": "7b7d0e7ac6b0f75eae6475e56996d326"
+            },
+            {
+              "url": "",
+              "title": "Paycom Data Breach: What & How It Happened? - Twingate",
+              "snippet": "In May 2023, Paycom Payroll, LLC encountered an issue that was identified in July 2023, impacting numerous individuals. This event led to the exposure of certain personal information, prompting investigations and claims.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038286+00:00",
+              "published_date": null,
+              "source_hash": "5b5212ad1b2eb9adc04a9722514799b7"
+            },
+            {
+              "url": "",
+              "title": "Federman & Sherwood Investigates Paycom Payroll, LLC for Data Breach",
+              "snippet": "Paycom Software, Inc. specialises in the development and commercialisation of Cloud-based human resources management software. Net sales break down by activity as follows: - sale of human resources management software (98.3%): software for time and labor management, payroll and benefits management, talent management, etc., dedicated to optimizing all workforce planning processes; - services (1 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038299+00:00",
+              "published_date": null,
+              "source_hash": "9953766ebef2cdf01ca5761f8c8e0d4e"
+            },
+            {
+              "url": "",
+              "title": "Paycom Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "Paycom is a provider of cloud-based human capital management software. The company's software helps organizations manage HR processes, including payroll, benefits, talent acquisition, and time and attendance management. ... Paycom Data Breaches, Cybersecurity Incidents and News. Security incidents, news, and data leaks relating to Paycom ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038313+00:00",
+              "published_date": null,
+              "source_hash": "0b1784d38c367c71c3b48ba393d2eac1"
+            },
+            {
+              "url": "",
+              "title": "Cl0p Claims Paycom Cyber Attack, Motherson, VOSS, Others",
+              "snippet": "Currently there is no indication that Paycom's software application was impacted.\" While VOSS from Germany and Yakult Philippines Incorporated, along with the others, are yet to confirm any cybersecurity incident, ... It read that the security breach compromised the whole university, including faculty, students, and staff. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038325+00:00",
+              "published_date": null,
+              "source_hash": "ae9d70a074b2fb0e4171f04d94e27ea0"
+            },
+            {
+              "url": "",
+              "title": "Lynch Carpenter Investigates Claims in Paycom Payroll, LLC Data Breach",
+              "snippet": "Paycom Payroll, LLC announced that it suffered from a cybersecurity attack, occurring between late May and early June of 2023, which impacted the personal information of thousands of individuals. The information potentially impacted in the breach includes individuals' names, Social Security numbers, dates of birth, passport information, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038337+00:00",
+              "published_date": null,
+              "source_hash": "83ed5e0c3c8c174934eaa5642d798502"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. (Form: 10-K, Received: 02/18/2021 16:09:26)",
+              "snippet": "Paycom Software, Inc. (Exact name of registrant as specified in its charter) Delaware 80-0957485 ... including breaches of data security and privacy leaks, data loss, and business interruptions; ... systems that monitor our infrastructure and alert our continuously staffed security operations center of potential cybersecurity issues, a system ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:26.038350+00:00",
+              "published_date": null,
+              "source_hash": "5f8084fc61d9cbcd1e1958f103c9bae0"
+            },
+            {
+              "url": "",
+              "title": "Here is What to Know Beyond Why Paycom Software, Inc. (PAYC) is a Trending Stock",
+              "snippet": "For the current quarter, Paycom is expected to post earnings of $1.78 per share, indicating a change of +2.9% from the year-ago quarter. The Zacks Consensus Estimate has changed -0.2% over the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:42.622904+00:00",
+              "published_date": "2024-01-31T15:17:00+00:00",
+              "source_hash": "09cdfa674c386464ce24c0449411e02d"
+            },
+            {
+              "url": "",
+              "title": "Is Paycom Software Stock Outperforming the Nasdaq?",
+              "snippet": "Oklahoma City, Oklahoma-based Paycom Software, Inc. (PAYC) provides cloud-based human capital management (HCM) solutions delivered as software-as-a-service for small to mid-sized companies.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:35.169932+00:00",
+              "published_date": "2024-12-30T19:40:00+00:00",
+              "source_hash": "578033969730a6a1a91db7edae188b4f"
+            },
+            {
+              "url": "",
+              "title": "Is Trending Stock Paycom Software, Inc. (PAYC) a Buy Now?",
+              "snippet": "For the current quarter, Paycom is expected to post earnings of $1.78 per share, indicating a change of +2.9% from the year-ago quarter. The Zacks Consensus Estimate remained unchanged over the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:35.170042+00:00",
+              "published_date": "2024-01-17T15:18:00+00:00",
+              "source_hash": "97521092200d660a7e884a52360d5884"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software Inc. stock underperforms Thursday when compared to competitors",
+              "snippet": "Paycom Software Inc. closed $41.34 below its 52-week high ($242.74), which the company achieved on December 11th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:42.622745+00:00",
+              "published_date": "2025-01-02T22:23:00+00:00",
+              "source_hash": "f9c9ff8be410795d6f386bbb535d7033"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software Inc. stock rises Friday, still underperforms market",
+              "snippet": "Shares of Paycom Software Inc. PAYC rose 1.22% to $203.86 Friday, on what proved to be an all-around great trading session for the stock market, with the S&P 500 Index SPX rising 1.26% to 5,942.47 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T14:57:29.241984+00:00",
+              "published_date": "2025-01-03T22:24:00+00:00",
+              "source_hash": "8d73cfbbd0b69fafd0b3b8ea7230b4a5"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. - EY survey: Payroll errors average $291 each ...",
+              "snippet": "Others facing regulatory and compliance issues reported declines in employee morale (41%), fines (15%) and reputational decline (36%). ... Paycom Software Inc. (NYSE:PAYC), has simplified businesses and the lives of their employees through easy-to-use HR and payroll technology to empower transparency and direct access to data.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649536+00:00",
+              "published_date": null,
+              "source_hash": "483aefb3d2117cfce5983b5125cfeaa7"
+            },
+            {
+              "url": "",
+              "title": "SEC Charges Paycom for Overbilling Clients",
+              "snippet": "ADMINISTRATIVE PROCEEDING File No. 3-20443. July 30, 2021 - The Securities and Exchange Commission today announced settled charges against Paycom Software, Inc. for violating the books and records and internal accounting controls provisions of the federal securities laws in connection with its overbilling of clients. Paycom has agreed to pay $250,000 to settle the action.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649622+00:00",
+              "published_date": null,
+              "source_hash": "e90c1eebac4f1a5eb5a347026a3b78ed"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. - Governance - Governance Documents",
+              "snippet": "You can unsubscribe to any investor alert at the \"unsubscribe\" section below. If you experience any issues with this process, please contact us for further assistance. By providing your email address below, you are providing consent to Paycom Software, Inc. to send you the requested Investor Email Alert updates. * Required",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649638+00:00",
+              "published_date": null,
+              "source_hash": "a78c230829c438cc9b73f6875e141713"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Levi & Korsinsky Notifies Paycom Software, Inc ...",
+              "snippet": "NEW YORK, Jan. 9, 2024 /PRNewswire/ -- Levi & Korsinsky, LLP notifies investors in Paycom Software, Inc. (\"Paycom\" or the \"Company\") (NYSE: PAYC) of a class action securities lawsuit.. CLASS ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649650+00:00",
+              "published_date": null,
+              "source_hash": "2e27b1b3d03360a2f794955e5c916e66"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. - SEC.gov",
+              "snippet": "Paycom Software, Inc. ... future regulatory, judicial and legislative changes; how certain factors affecting our performance correlate to improvement or deterioration in the labor market; our plan to open additional sales offices and our ability to effectively execute such plan; the sufficiency of our existing cash and cash equivalents to meet ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649660+00:00",
+              "published_date": null,
+              "source_hash": "16c907e18b72d570daaa56b3182ea43b"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. (Form: 10-K, Received: 02/22/2016 16:40:43)",
+              "snippet": "Paycom Software, Inc. (Exact name of registrant as specified in its charter) ... The regulatory framework for privacy issues worldwide is rapidly evolving and is likely to remain uncertain for the foreseeable future. Many federal, state and foreign government bodies and agencies have adopted or are considering adopting laws and regulations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649699+00:00",
+              "published_date": null,
+              "source_hash": "118333561444a41e4c6aa9a0b21e0488"
+            },
+            {
+              "url": "",
+              "title": "Investors Sue Paycom Software (PAYC) For Concealing the Adverse Impact ...",
+              "snippet": "Paycom Software, Inc. (NYSE: PAYC) Securities Fraud Class Action: The complaint alleges that Paycom made materially false and misleading statements and failed to disclose that: (1) Paycom's Beti ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649709+00:00",
+              "published_date": null,
+              "source_hash": "a925fea387dd0f100392843ca08e5306"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. (Form: 10-K, Received: 02/18/2021 16:09:26)",
+              "snippet": "Paycom Software, Inc. (Exact name of registrant as specified in its charter) ... actionable and real-time analytics and business intelligence and helps clients minimize the risks of compliance errors due to inaccurate or missing information. ... which have become significant issues globally. The regulatory framework for privacy issues is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649719+00:00",
+              "published_date": null,
+              "source_hash": "3d9ca3942b52f2d00674b8fa1fe33799"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Schall Law Firm Encourages Investors in Paycom ...",
+              "snippet": "The article states, \"Paycom's core business revolves around its Beti platform for payroll services. The platform is generally highly regarded, but the efficiency it offers actually seems to be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649729+00:00",
+              "published_date": null,
+              "source_hash": "19c5edd489f78f487606eebfab516f54"
+            },
+            {
+              "url": "",
+              "title": "HR Compliance Simplified - Paycom",
+              "snippet": "With new employment laws being introduced constantly, you need reliable HR and payroll software that helps you comply efficiently and confidently. Paycom automatically updates with many of the latest changes that affect your business while providing the tools and reporting you need to be agile and reduce your compliance exposure.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:32.649738+00:00",
+              "published_date": null,
+              "source_hash": "e7c4fb497e45e7d9e05a910f789ce272"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software Inc. stock rises Friday, still underperforms market",
+              "snippet": "Shares of Paycom Software Inc. PAYC rose 1.22% to $203.86 Friday, on what proved to be an all-around great trading session for the stock market, with the S&P 500 Index SPX rising 1.26% to 5,942.47 and the Dow Jones Industrial Average DJIA rising 0.80% to 42,732.13.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:42.622929+00:00",
+              "published_date": "2025-01-03T22:24:00+00:00",
+              "source_hash": "6f8fc7143eb8c31842674559ddc0f32d"
+            },
+            {
+              "url": "",
+              "title": "Analysts Set Paycom Software, Inc. (NYSE:PAYC) Price Target at $202.56",
+              "snippet": "Paycom Software, Inc. (NYSE:PAYC - Get Free Report) has earned a consensus rating of \"Hold\" from the twelve brokerages that are presently covering the stock, Marketbeat reports. Eleven research analysts have rated the stock with a hold rating and one has assigned a buy rating to the company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Paycom Software Inc Paycom Software Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T14:57:35.170017+00:00",
+              "published_date": "2025-01-01T05:52:00+00:00",
+              "source_hash": "0e6398254c08e8ef7a92c4d62802c108"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software: Analyzing Growth Potential Amid Operational Challenges",
+              "snippet": "Summary. Paycom Software offers a scalable SaaS HCM solution with high margins and strong customer retention, targeting medium to large companies to streamline HR processes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732868+00:00",
+              "published_date": null,
+              "source_hash": "0b8a1b651acbfbb0212e8d84293dd53b"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. - SEC.gov",
+              "snippet": "Paycom Software, Inc. ... This approach often results in challenges with system integration and data integrity, low scalability, high costs and extended delivery times. ... As a part of our client retention effort, a specialist within a dedicated team is assigned to each client to provide industry-leading, personalized service. We have ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732895+00:00",
+              "published_date": null,
+              "source_hash": "838cbb77d7f3c3d88bc24a2e8d502ee1"
+            },
+            {
+              "url": "",
+              "title": "Maintaining Hold on Paycom Software Amid Signs of Slowing Growth and ...",
+              "snippet": "There are also concerns regarding a slight decrease in client retention and a modest 5% growth in seat additions for the year 2023, which indicate that Paycom may be experiencing some challenges ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732901+00:00",
+              "published_date": null,
+              "source_hash": "df5e2a03d26515dc4073b668ef06a660"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software: Despite Short-Term Challenges, Poised For Strong ...",
+              "snippet": "PayCom Software, Inc. (NYSE:PAYC) is a US company specialising in the development of cloud-based human resource management (HRM) and payroll software, whose share price has fallen by around 70% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732905+00:00",
+              "published_date": null,
+              "source_hash": "4a6fd5bce058d1507b2e083fc81c1c54"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. (Form: 10-K, Received: 02/22/2016 16:40:43)",
+              "snippet": "Paycom Software, Inc. (Exact name of registrant as specified in its charter) ... These approaches often result in challenges with system integration, low scalability, high costs, extended delivery times and large up-front capital requirements. ... Our client retention rates may fluctuate as a result of a number of factors, including the level ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732909+00:00",
+              "published_date": null,
+              "source_hash": "20c852fe3e819cbf7d2ec7ad84633989"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. - 10K - Annual Report - February 17, 2022 - Fintel",
+              "snippet": "Paycom Software, Inc. - 10K - Annual Report - February 17, 2022 ... These approaches often result in challenges with system integration and data integrity, low scalability, high costs, extended delivery times and large up-front capital requirements. ... Our client service is ISO 9001:2015 certified and helps support our high client retention rate.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732913+00:00",
+              "published_date": null,
+              "source_hash": "084ebf83b478bf17d98f20cc02aca4fc"
+            },
+            {
+              "url": "",
+              "title": "Decoding Paycom Software Inc (PAYC): A Strategic SWOT Insight",
+              "snippet": "Paycom Software Inc , a leading provider of payroll and human capital management software, has released its 10-Q filing on October 31, 2024. The company continues to demonstrate financial strength ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732917+00:00",
+              "published_date": null,
+              "source_hash": "e2ecc82b6c914a54adb883e916af4644"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Paycom Software, Inc. Common Stock ... scalability and challenges with system integration. According to the International Data Corporation, or IDC, the ... or ISO, certifications. As a part of our client retention effort, a specialist within a dedicated team is assigned to each client to provide industry-leading, personalized service.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732921+00:00",
+              "published_date": null,
+              "source_hash": "17ca167813c5e62a4ecb57c76b61b451"
+            },
+            {
+              "url": "",
+              "title": "Paycom: Revenue Jumps, Margins Tighten | The Motley Fool",
+              "snippet": "Paycom Software (PAYC 1.22%) reported third-quarter earnings on Wednesday, Oct. 30, that topped analysts' consensus estimates. The company reported revenue of $452 million, up 11% year over year ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732926+00:00",
+              "published_date": null,
+              "source_hash": "f0ae991272dc04c28d39b1837f89ff11"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. (PAYC) 10K Annual Reports & 10Q SEC Filings",
+              "snippet": "Inside Paycom Software, Inc.'s 10-K Annual Report: Other - Other Highlight. As we introduce new applications, expand our client base and renew and expand relationships with existing clients, we expect our average funds held for clients balance and, accordingly, interest earned on funds held for clients, will increase; however, the amount of interest we earn can be positively or negatively ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:38.732930+00:00",
+              "published_date": null,
+              "source_hash": "8d49c526b3b59bf357d7ae2851866cba"
+            },
+            {
+              "url": "",
+              "title": "Paycom Stock Rises 22% in 6 Months: What Should Investors Do?",
+              "snippet": "Paycom Software PAYC shares have gained ... This has increased Paycom's client base over the years with an average annual client retention rate above 90% over the past seven years.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:42.622849+00:00",
+              "published_date": "2024-12-10T09:46:00+00:00",
+              "source_hash": "c8a210f6a9985e8933c04d4f4f3bfeb0"
+            },
+            {
+              "url": "",
+              "title": "Paycom Software, Inc. (PAYC): Resilient SaaS Growth Amid Labor Market Fluctuations and Recurring Revenue Strength",
+              "snippet": "The dependence on recurring revenue means that Paycom Software, Inc. (NYSE:PAYC) can rely on customer loyalty provided ... will be a challenge, we believe Paycom remains an advantaged payroll ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Paycom Software Inc Paycom Software Inc client retention challenges",
+              "retrieved_at": "2025-01-06T14:57:42.622878+00:00",
+              "published_date": "2024-12-06T22:17:00+00:00",
+              "source_hash": "bc9d93ccfc851b4ebae98d1d1d97a48b"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Paycom Software Inc cybersecurity breaches",
+              "rationale": "Investigate potential cybersecurity incidents that could impact client trust and legal compliance",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Paycom Software Inc regulatory compliance issues",
+              "rationale": "Examine any legal challenges or penalties related to labor laws and regulations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Paycom Software Inc client retention challenges",
+              "rationale": "Assess customer satisfaction and retention rates to identify potential service quality issues",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:58:01.649327",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

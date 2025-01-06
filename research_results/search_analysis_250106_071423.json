@@ -1,0 +1,498 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:14:23.253021",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Naver Corporation",
+      "symbol": "NHNCF",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Antitrust and regulatory scrutiny from South Korea's Fair Trade Commission",
+            "Data privacy and security issues, including significant data leaks",
+            "Content moderation challenges on platforms like Naver Webtoon",
+            "Heavy dependence on the South Korean market"
+          ],
+          "controversies": [
+            "Fined 26.7 billion won ($23 million) for antitrust violations",
+            "Criticism for collecting and storing sensitive user data without consent",
+            "Backlash over hosting misogynistic and discriminatory content on Naver Webtoon",
+            "Excessive censorship on Naver Webtoon creating a dilemma between creative freedom and harmful content"
+          ],
+          "environmental_issues": [
+            "Commitment to achieving carbon neutrality and addressing climate issues using IT technologies"
+          ],
+          "social_issues": [
+            "Ethical scrutiny over data privacy practices",
+            "Debates about balancing creative expression with social responsibility on Naver Webtoon"
+          ],
+          "governance_issues": [
+            "Ongoing antitrust investigations and potential fines",
+            "Regulatory scrutiny over dominant market position in South Korea"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Naver, Coupang under probe for suspected antitrust violations",
+              "snippet": "Naver and Coupang are two of the leading companies in South Korea, and it was revealed this week that they are under investigation. Based on the reports, the country's Fair Trade Commission (FTC ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452287+00:00",
+              "published_date": null,
+              "source_hash": "5c840fa3eaf218f01c0068d10ee8b1fb"
+            },
+            {
+              "url": "",
+              "title": "Naver faces 26.7b-won fine, accused of manipulating algorithms",
+              "snippet": "SEJONG -- South Korea's antitrust regulator on Tuesday accused Naver Corp., the nation's biggest search engine, of manipulating search algorithms in favor of the company's online shopping site and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452315+00:00",
+              "published_date": null,
+              "source_hash": "c9a81ec1c8a9d10566b0db2ed72f0a1d"
+            },
+            {
+              "url": "",
+              "title": "Naver fined W26.7 bil. for manipulating search algorithm",
+              "snippet": "The Fair Trade Commission (FTC) announced Tuesday that it had fined Korean internet portal giant Naver 26.7 billion won ($23 million) for manipulating its shopping and video services search ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452320+00:00",
+              "published_date": null,
+              "source_hash": "670530af6584c53353d6c599103f0751"
+            },
+            {
+              "url": "",
+              "title": "Coupang, Naver hit by antitrust allegations - The Korea Times",
+              "snippet": "Korea's two IT giants, Coupang and Naver, are under investigation by the Fair Trade Commission (FTC) over allegations that they falsely advertised membership benefits and deceived customers, according to industry watchers, Wednesday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452324+00:00",
+              "published_date": null,
+              "source_hash": "feeb0f2ce86e33a235af9f0c2c2fae3b"
+            },
+            {
+              "url": "",
+              "title": "Naver fined for rigging shopping searches to help itself",
+              "snippet": "Naver was fined 26.7 billion won ($23 million) for changing its algorithm to promote its own services \u2014 such as shopping and Naver videos \u2014 over those of its competitors. It was the first time the Fair Trade Commission (FTC) fined an online platform operator for changing its algorithm to squeeze competitors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452328+00:00",
+              "published_date": null,
+              "source_hash": "039b12fe1f794d7ef9b17dc4091e989f"
+            },
+            {
+              "url": "",
+              "title": "Naver faces antitrust probe over 'discriminatory' e-commerce biz",
+              "snippet": "Naver has been facing an antitrust investigation after eBay Korea filed a complaint over the web portal's online shopping platform, Naver Shopping, industry officials confirmed Tuesday. EBay Korea ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452333+00:00",
+              "published_date": null,
+              "source_hash": "d112528f1052e665222395870432f333"
+            },
+            {
+              "url": "",
+              "title": "Korea's FTC files complaint against Naver founder for violating ...",
+              "snippet": "The Korea Fair Trade Commission filed a complaint with prosecutors against Naver Corp. founder Lee Hae-jin for allegedly violating antitrust laws, according to media reports.. South Korea's antitrust authorities claimed that Lee deliberately withheld information on 20 of Naver's affiliates in 2015, as well as eight affiliates owned by company executives in 2017 and 2018.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452336+00:00",
+              "published_date": null,
+              "source_hash": "519131383c4426db759ac3b45ad61f42"
+            },
+            {
+              "url": "",
+              "title": "Naver faces 26.7 bln-won fine, accused of manipulating algorithms",
+              "snippet": "SEJONG, Oct. 6 (Yonhap) -- South Korea's antitrust regulator on Tuesday accused Naver Corp., the nation's biggest search engine, of manipulating search algorithms in favor of the company's online shopping site and imposed a 26.7 billion-won (US$22.9 million) fine.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452340+00:00",
+              "published_date": null,
+              "source_hash": "d11f099b088793506e2d73b4f9303c49"
+            },
+            {
+              "url": "",
+              "title": "Naver appeals to South Korean Supreme Court over algorithm manipulation ...",
+              "snippet": "Antitrust abuses of data e-Commerce Naver has filed an appeal with South Korea's Supreme Court to overturn a lower court's decision upholding an antitrust decision imposed because of the company's manipulation of search algorithms.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452344+00:00",
+              "published_date": null,
+              "source_hash": "d6d5302aaa9d94e8f6d7e9e9a94ef5cf"
+            },
+            {
+              "url": "",
+              "title": "Naver faces antitrust probe over 'discriminatory' e-commerce biz",
+              "snippet": "Naver has been facing an antitrust investigation after eBay Korea filed a complaint over the web portal's online shopping platform, Naver Shopping, industry officials confirmed Tuesday. EBay Korea said it reported Naver to the Fair Trade Commission last October for its alleged discriminatory measures against online marketplaces that do not sell merchandise that can be purchased with Naver Pay ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:46.452347+00:00",
+              "published_date": null,
+              "source_hash": "fb88daa4cc740c2e557adf2bb6d162db"
+            },
+            {
+              "url": "",
+              "title": "FTC probes antitrust allegations against NHN",
+              "snippet": "The Fair Trade Commission (FTC), the nation's antitrust regulator, is investigating NHN, the operator of dominant portal Naver, for possible unfair business practices, industry officials revealed Tuesday.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:50.587011+00:00",
+              "published_date": "2013-05-14T08:16:00+00:00",
+              "source_hash": "a21602cabb68ec875d6a4bc5ef0f9bb0"
+            },
+            {
+              "url": "",
+              "title": "Line app operator told to rethink ties with S. Korea's Naver",
+              "snippet": "The communications ministry instructed the operator of the Line messaging app to consider reviewing its capital relationship with South Korea's Naver Corp. over a massive leak of personal ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:50.587069+00:00",
+              "published_date": "2024-03-06T17:25:00+00:00",
+              "source_hash": "824ba14b3b39c9adbae514ab2a5d3399"
+            },
+            {
+              "url": "",
+              "title": "Naver partners with Korea Rural Community Corporation to tackle climate issues",
+              "snippet": "Naver and the Korea Rural Community Corporation signed a business agreement on the 16th to introduce various IT technologies to address climate crises and local extinction in rural areas.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Naver Corporation Naver Corporation antitrust investigations South Korea",
+              "retrieved_at": "2025-01-06T14:13:50.587077+00:00",
+              "published_date": "2024-12-17T10:03:00+00:00",
+              "source_hash": "8fe94fca2946f5042ecc39dd9445aa7d"
+            },
+            {
+              "url": "",
+              "title": "Naver Corp. Win in Suit Over Data Collection by Messaging App",
+              "snippet": "South-Korea-based Naver Corp. and a group of affiliated companies won an early victory in a data-privacy lawsuit alleging they collected users' personal information without their consent through a messaging app and a photo-editing app, a federal court ruled.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314398+00:00",
+              "published_date": null,
+              "source_hash": "645b4920386e7dd2be1877ea49d517ce"
+            },
+            {
+              "url": "",
+              "title": "Naver collects sensitive private data without user consent",
+              "snippet": "Naver, the country's leading portal, has been under fire for collecting and storing sensitive customer information including social security numbers and medical history in a backup data storage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314429+00:00",
+              "published_date": null,
+              "source_hash": "291a30cbb4349483a31ae7e7f4674bb2"
+            },
+            {
+              "url": "",
+              "title": "Line app operator told to rethink ties with S. Korea's Naver",
+              "snippet": "A Holdings Corp., an intermediate holding company equally owned by Naver and Softbank, owned 64.5 percent of LY shares as of October. The remaining 35.5 percent was owned by general shareholders ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314435+00:00",
+              "published_date": null,
+              "source_hash": "0938419224d56fa71601c64ae8109475"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "2 \ubaa9\ucc28 1 ceo \uc778\uc0ac\ub9d0 2 \ub124\uc774\ubc84\ub97c \ub458\ub7ec\uc2fc \ud658\uacbd\uc758 \ubcc0\ud654 3 2021\ub144 \ub124\uc774\ubc84 \uac1c\uc778\uc815\ubcf4, \ud504\ub77c\uc774\ubc84\uc2dc \ubcf4\ud638 \ud65c\ub3d9  4 2021\ub144\ub3c4 \ub124\uc774\ubc84\uc758 \uac1c\uc778\uc815\ubcf4\ubcf4\ud638 \uc8fc\uc694 \ud65c\ub3d9 \ubc0f \uc774\uc288",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314439+00:00",
+              "published_date": null,
+              "source_hash": "66a943c1e24f173f7218ead0196d1312"
+            },
+            {
+              "url": "",
+              "title": "Naver AI News Recommendation Sparks Controversy Over Unauthorized Data ...",
+              "snippet": "Naver is facing controversy over allegations that it has been using personal information without consent in its AI-driven news recommendation service.Critics a Naver AI News Recommendation Sparks Controversy Over Unauthorized Data Use and Potential Exploitation of Political Bias < Industries < ENGLISH NEWS < \uae30\uc0ac\ubcf8\ubb38 - \uc0b0\uacbd\ud22c\ub370\uc774",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314443+00:00",
+              "published_date": null,
+              "source_hash": "22c453dddeab6d1b34d91e28dd046ed9"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "NAVER Corporation (referred to as 'NAVER', the'Company', or the 'service organization' hereinafter) was incorporated on June 2, 1999 and the Company listed its shares on the KOSDAQ on October 29, 2002, but later transferred its shares to the KOSPI on November 28, 2008.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314448+00:00",
+              "published_date": null,
+              "source_hash": "0e86a1bf955f0115347f872c940f49b8"
+            },
+            {
+              "url": "",
+              "title": "Privacy Center \u00b7 Understanding the Transparency Report",
+              "snippet": "NAVER Corp. not only safely protects personal information offered by users based on their trust in the company from external threats, but also regularly opens the statistics of personal information provided to LEAs under the relevant laws in order to defend the 'self-determination right to personal information,' which is one of the users' rights under the constitution.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314451+00:00",
+              "published_date": null,
+              "source_hash": "85a811b2d75c4a7bdae8cf1d8d1aba15"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "\uc790\ud68c\uc0ac\uc778 \ub77c\uc778\uc8fc\uc2dd\ud68c\uc0ac(LINE Corp.), \uc2a4\ub178\uc6b0 \uc8fc\uc2dd\ud68c\uc0ac (SNOW Corp.), \ub124\uc774\ubc84 \ub7a9\uc2a4 \uc8fc\uc2dd\ud68c\uc0ac(NAVER LABS Corp.), \ub124\uc774\ubc84\uc6f9\ud230 \uc8fc\uc2dd\ud68c\uc0ac(NAVER Webtoon Corp.) \ub4f1\uc744 \ud1b5\ud574 LINE, \uc2a4\ub178\uc6b0, \ud074\ub85c\ubc14, \ub124\uc774\ubc84 \uc6f9\ud230 \ub4f1 \ub2e4\uc591\ud55c \uae00\ub85c\ubc8c \ubaa8\ubc14\uc77c \uc11c\ube44\uc2a4\ub97c \uc81c\uacf5\ud558\uace0 \uc788\uc2b5\ub2c8\ub2e4. 2 \ub4e4\uc5b4\uac00\uba70",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314455+00:00",
+              "published_date": null,
+              "source_hash": "6c94d7468f834380ad5f349410971e0c"
+            },
+            {
+              "url": "",
+              "title": "NAVER Privacy Policy",
+              "snippet": "NAVER safely stores data within and outside of Korea to continue providing the company's services even in the event of natural disasters and catastrophes. \"NAVER Cloud Corp.\" is an affiliate of NAVER and is subject to the same data protection policy as NAVER.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314458+00:00",
+              "published_date": null,
+              "source_hash": "6916c6b71eee7ce5ddfd15f9516ed0cf"
+            },
+            {
+              "url": "",
+              "title": "Naver collects sensitive private data without user consent",
+              "snippet": "29 votes, 12 comments. 599K subscribers in the korea community. A subreddit for news, culture, and life on the Korean Peninsula. Welcome to everyone\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:53.314461+00:00",
+              "published_date": null,
+              "source_hash": "36dc5a87e467ded0c0111c67ec7ca810"
+            },
+            {
+              "url": "",
+              "title": "Naver Corp",
+              "snippet": "South Korean retailer Shinsegae plans to set up a joint venture with Alibaba International, Shinsegae affiliate E-Mart said on Thursday. South Korea's Shinsegae to set up joint venture with ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation data privacy controversies",
+              "retrieved_at": "2025-01-06T14:13:56.520338+00:00",
+              "published_date": "2024-08-02T00:00:00+00:00",
+              "source_hash": "ffbecd7d0a98e9f121e803394b2ba0d8"
+            },
+            {
+              "url": "",
+              "title": "Naver Webtoon faces backlash over misogynistic, discriminatory content ...",
+              "snippet": "Naver Webtoon, Korea's largest webtoon platform, is facing backlash after controversial works featuring misogynistic and discriminatory content were approved during its screening process, leading ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204904+00:00",
+              "published_date": null,
+              "source_hash": "d4b93e3eaae81101320bde804d90430f"
+            },
+            {
+              "url": "",
+              "title": "\"NAVER Webtoon Caught Between 'Disrupting Immersion vs Neglecting ...",
+              "snippet": "NAVER Webtoon finds itself in a dilemma over content moderation. The platform faces criticism from both sides - those who say excessive censorship makes it imp",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204929+00:00",
+              "published_date": null,
+              "source_hash": "69186344a8e47458b06530b90bf19fd4"
+            },
+            {
+              "url": "",
+              "title": "Naver accused of excessive censorship of webtoons after string of ...",
+              "snippet": "Internet portal site Naver was plagued this summer by a series of scandals concerning violence and sexual references in some of its webtoons, resulting in the removal or re-editing of certain scenes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204934+00:00",
+              "published_date": null,
+              "source_hash": "26cdfeb45955b330e578b6e27649b716"
+            },
+            {
+              "url": "",
+              "title": "NAVER Webtoon faces backlash over content moderation and censorship ...",
+              "snippet": "NAVER Webtoon finds itself in a dilemma over content moderation. The platform faces criticism from both sides - those who say excessive censorship makes it impossible to focus on the works, and others who claim it's neglecting potentially problematic social expressions. This forms the backdrop of the ongoing boycott against NAVER Webtoon. Some argue that NAVER Webtoon's passive response has ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204938+00:00",
+              "published_date": null,
+              "source_hash": "cbafa1c7bcfd64b02b92a87df56d0c08"
+            },
+            {
+              "url": "",
+              "title": "S. Korea: Naver Webtoon faces backlash over ignoring misogynistic ...",
+              "snippet": "The misogyny controversy began on 25 September, when an amateur webtoon \u2026 passed the first round of Naver Webtoon's competition. The title included the term 'Ppongpongnam*, an online derogatory term referring to \u2026 women with extensive dating experience, likening them to dirty dishes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204942+00:00",
+              "published_date": null,
+              "source_hash": "af9e18d13ca3f86b2505832e0caf8964"
+            },
+            {
+              "url": "",
+              "title": "Naver Webtoon promises creative freedom, responsible webtoon platform ...",
+              "snippet": "Naver Webtoon, South Korean tech giant Naver's online platform for comics, manga and webtoons, announced Friday that it will improve policies to create an appropriate environment for its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204947+00:00",
+              "published_date": null,
+              "source_hash": "16a3c66e4b71c2b4eea2dc02bde82c5e"
+            },
+            {
+              "url": "",
+              "title": "Naver Webtoon forms advisory committee to tackle Pong Pong Nam controversy",
+              "snippet": "Naver Webtoon has established an external advisory committee to improve its content policy. Previously, Naver Webtoon faced criticism from internet users for an amateur work titled 'The Otherworld ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204950+00:00",
+              "published_date": null,
+              "source_hash": "ad1e0916aec4aa97e4dcb135b4e2c065"
+            },
+            {
+              "url": "",
+              "title": "Naver Webtoon will file a lawsuit for damages worth a total of 1 ...",
+              "snippet": "The problem of illegal sites that replicate and upload content uploaded to platforms such as Naver Webtoon without permission continues. According to the \"2023 Webtoon Business Survey\" released by the Korea Creative Content Agency, the size of the domestic illegal webtoon market is estimated to reach 721.5 billion won as of 2022.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204953+00:00",
+              "published_date": null,
+              "source_hash": "0366e22c07ce5d441b7ebde9bcd1905e"
+            },
+            {
+              "url": "",
+              "title": "Naver Webtoon Modifies Han Kang Mention Following Controversy",
+              "snippet": "Naver Webtoon adds Nobel laureate Han Kang to its paid content after backlash over her omission. Readers debate censorship and the portrayal of Korean authors on digital platforms. ... Naver Webtoon updated its paid content on 24 October to include acclaimed writer Han Kang's name, ... The simmering controversy burst into flames when fans and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204957+00:00",
+              "published_date": null,
+              "source_hash": "b897ec7c99f8a0623bc1428e9206939a"
+            },
+            {
+              "url": "",
+              "title": "Naver accused of excessive censorship of webtoons after string of ...",
+              "snippet": "Naver accused of excessive censorship of webtoons after string of controversies However, there is one K- word that became widespread online this year that does the opposite: \"K-censorship\" is a derogatory term used to criticize excessive censorship in Korea.Internet portal site Naver was plagued this summer by a series of scandals concerning violence and sexual references in some of its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:13:59.204960+00:00",
+              "published_date": null,
+              "source_hash": "57f16078aa85d7da3816f735d809c629"
+            },
+            {
+              "url": "",
+              "title": "Naver Webtoon faces backlash over misogynistic, discriminatory content",
+              "snippet": "Naver Webtoon, Korea's largest webtoon platform, is facing backlash after controversial works featuring misogynistic and discriminatory content were ... has also stirred controversy for depicting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Naver Corporation Naver Corporation content moderation controversies LINE Webtoon",
+              "retrieved_at": "2025-01-06T14:14:02.638419+00:00",
+              "published_date": "2024-11-13T02:29:00+00:00",
+              "source_hash": "c23f98abe3101eff99e31bc8b33b5b83"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Naver Corporation antitrust investigations South Korea",
+              "rationale": "Investigate legal risks related to market dominance and antitrust concerns",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Naver Corporation data privacy controversies",
+              "rationale": "Explore ethical and social risks tied to user data handling and privacy issues",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Naver Corporation content moderation controversies LINE Webtoon",
+              "rationale": "Assess risks related to content moderation practices on platforms like LINE and Webtoon",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:14:23.253026",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

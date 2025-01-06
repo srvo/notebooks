@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:35:59.322327",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "CareDx Inc",
+      "symbol": "CDNA",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and patent disputes with significant financial implications",
+            "Regulatory and reimbursement risks due to dependency on healthcare policies",
+            "Intense market competition from companies like Natera and Veracyte",
+            "Economic sensitivity to healthcare spending cuts or downturns"
+          ],
+          "controversies": [
+            "Patent litigation with Natera, including a $96.3 million damages award",
+            "Invalidation of three CareDx patents by Natera in a separate lawsuit"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Commitment to privacy and compliance with HIPAA regulations"
+          ],
+          "governance_issues": [
+            "Financial pressures from litigation costs and potential damages",
+            "Reliance on third-party manufacturers and suppliers, introducing supply chain risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "CareDx Issues Statement in Patent Infringement Case",
+              "snippet": "CareDx Found to Have Not Infringed on Patent '180 CareDx Intends to Seek Judicial Review of Decision and Monetary Damages on Patent '544 No Impact to Patient or Physician Access to AlloSure or AlloMap Testing CareDx, Inc. (Nasdaq: CDNA) - The Transplant Company\u2122 focused on the discovery, development, and commercialization of clinically ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907171+00:00",
+              "published_date": null,
+              "source_hash": "5a8ecdb5251e488fa0b2dfc9d8a2b7dd"
+            },
+            {
+              "url": "",
+              "title": "Jury Rules in Favor of Natera in Patent Infringement Lawsuit Against ...",
+              "snippet": "AUSTIN, Texas-(BUSINESS WIRE)- Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA testing, today announced that a jury in the U.S. District Court for the District of Delaware has reached a unanimous verdict in favor of Natera in its patent infringement case against CareDx, Inc. The jury awarded Natera $83.7 million in lost profits and $12.6 million in past royalties after ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724153+00:00",
+              "published_date": null,
+              "source_hash": "853cb65fcbee134159b5b548ed141bc6"
+            },
+            {
+              "url": "",
+              "title": "CareDx owes Natera $96 mln in genetic-testing patent case, US jury says",
+              "snippet": "The case is Natera Inc v. CareDx Inc, U.S. District Court for the District of Delaware, No. 1:20-cv-00038. ... US Supreme Court rebuffs CareDx patent lawsuit over organ-rejection tests.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724170+00:00",
+              "published_date": null,
+              "source_hash": "8c1d29838576f504ad19b30848ea6d8f"
+            },
+            {
+              "url": "",
+              "title": "Jury Rules in Favor of Natera in Patent Infringement Lawsuit Against ...",
+              "snippet": "The jury awarded Natera $83.7 million in lost profits and $12.6 million in past royalties after finding that the accused CareDx products, AlloSure and AlloSeq, infringe one of the two Natera ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724181+00:00",
+              "published_date": null,
+              "source_hash": "3ad5bb523707d4c520f23d1d65185f0c"
+            },
+            {
+              "url": "",
+              "title": "Natera, Inc. | Jury Rules in Favor of Natera in Patent Infringement ...",
+              "snippet": "Liability for future sales to be determined Natera, Inc. (NASDAQ: NTRA), a global leader in cell-free DNA testing, today announced that a jury in the U.S. District Court for the District of Delaware has reached a unanimous verdict in favor of Natera in its patent infringement case against CareDx, Inc. The jury awarded Natera $83.7 million in lost profits and $12.6 million in past royalties ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724191+00:00",
+              "published_date": null,
+              "source_hash": "430557dfea31dea83f07f01893747e56"
+            },
+            {
+              "url": "",
+              "title": "CareDx Issues Statement in Patent Infringement Case",
+              "snippet": "This press release includes forward-looking statements related to CareDx, Inc., including statements regarding the jury verdict in the patent infringement case brought by Natera, the impact of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865842+00:00",
+              "published_date": null,
+              "source_hash": "677ad802a1232c0c3749feaf5ce5ce2f"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc. v. Natera, Inc, No. 22-1027 (Fed. Cir. 2022)",
+              "snippet": "In an infringement action, the district court found the patents ineligible under 35 U.S.C. 101. ... as \"too broad an interpretation of this exclusionary principle could eviscerate patent law.\" Id. Case: 22-1027 CAREDX, INC. Document: 55 v. ... As in each of these cases, CareDx's asserted claims add nothing inventive at step two because ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724213+00:00",
+              "published_date": null,
+              "source_hash": "de9e10d02a429d428c071b1d1db058d0"
+            },
+            {
+              "url": "",
+              "title": "CareDx Files Patent Infringement Lawsuit Against Natera",
+              "snippet": "CareDx protects innovation in transplantation by enforcing patent protection CareDx , Inc. (Nasdaq: CDNA), a leading molecular diagnostics company focused on the discovery, development and commercialization of clinically differentiated, high-value diagnostic solutions for transplant patients, today announced that it has filed a patent infringement suit against Natera, Inc. , in the United ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724223+00:00",
+              "published_date": null,
+              "source_hash": "8fb8300b92da0e039b45252678deec67"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc., et al. v. Natera, Inc., No. 1:2019cv00567 - Justia Law",
+              "snippet": "CareDx, Inc., et al. v. Natera, Inc., No. 1:2019cv00567 - Document 183 (D. Del. 2021) case opinion from the District of Delaware US Federal District Court ... (C.A. No. 19-0567) and Eurofins Viracor, Inc. (C.A. No. 19- 1804) for patent infringement. On December 1, 2020, I denied Natera's and Eurofins's motions for summary judgment of invalidity ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724232+00:00",
+              "published_date": null,
+              "source_hash": "99c913ab5f134e90b22dd2d1b1b032a2"
+            },
+            {
+              "url": "",
+              "title": "US Supreme Court rebuffs CareDx patent lawsuit over organ-rejection ...",
+              "snippet": "CareDx sued Austin, Texas-based Natera and Viracor, a Kansas-based subsidiary of Luxembourg's Eurofins Scientific, in 2019, accusing them of infringing patents related to its AlloSure blood test ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:29.724243+00:00",
+              "published_date": null,
+              "source_hash": "99353692b8dbc629e9032259418b78b8"
+            },
+            {
+              "url": "",
+              "title": "CareDX pares loss, gains after jury awards $96M to Natera in patent dispute (update)",
+              "snippet": "Natera said previously it successfully invalidated all three of CareDx's (CDNA) patents that were asserted by CareDx against Natera in a separate lawsuit. The invalidity of CareDx's patents ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:33.373132+00:00",
+              "published_date": "2024-01-29T16:42:00+00:00",
+              "source_hash": "5fbcd20a4e8e922a3f874f649791478e"
+            },
+            {
+              "url": "",
+              "title": "CareDx: Too Risky For Me",
+              "snippet": "CareDx faces regulatory challenges and lacks a durable competitive advantage in a fragmented and competitive market. Read why CDNA stock is a Sell.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:42.396483+00:00",
+              "published_date": "2024-12-30T05:55:00+00:00",
+              "source_hash": "8d89c15d08a5dfe386961bead2c9f3a6"
+            },
+            {
+              "url": "",
+              "title": "CareDx expands into hematology oncology with new trial",
+              "snippet": "CareDx, Inc. (NASDAQ:CDNA), a $1.29 billion market ... and the withdrawal of patent infringement claims against CareDx's AlloSure testing method by a competitor. CareDx anticipates 17% year ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc patent infringement lawsuits",
+              "retrieved_at": "2025-01-06T16:35:33.373219+00:00",
+              "published_date": "2024-12-11T07:19:00+00:00",
+              "source_hash": "31328e498b4d52be9339568babfeb9ef"
+            },
+            {
+              "url": "",
+              "title": "CareDx Corporate Compliance and Ethics Program",
+              "snippet": "Quality/ Regulatory (QARA) Compliance Program Oversight of interactions with Regulatory agencies such as the FDA, Notified bodies, or other governmental agencies responsible for audits or registrations of products and for CLIA certified/CAP accredited laboratories. ... You may also contact the CareDx Compliance Helpline at 1-877-441-1758, or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865770+00:00",
+              "published_date": null,
+              "source_hash": "05af64511e80f4fd66ea976d028500e5"
+            },
+            {
+              "url": "",
+              "title": "CareDx owes Natera $96 mln in genetic-testing patent case, US jury says",
+              "snippet": "A jury in Delaware federal court has awarded genetic-testing company Natera more than $96.3 million in damages after finding that rival CareDx's AlloSure and AlloSeq kidney-transplant tests ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865825+00:00",
+              "published_date": null,
+              "source_hash": "97639bef7dd4054427e2adb34dda7f70"
+            },
+            {
+              "url": "",
+              "title": "CareDx Issues Statement on Supreme Court Decision Regarding Stanford ...",
+              "snippet": "BRISBANE, Calif.--(BUSINESS WIRE)-- CareDx, Inc. (Nasdaq: CDNA) - The Transplant Company\u2122 focused on the discovery, development, and commercialization of clinically differentiated, high-value healthcare solutions for transplant patients and caregivers - acknowledges the Supreme Court's decision not to review the Federal Circuit's decision on the patent eligibility of three Stanford ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907214+00:00",
+              "published_date": null,
+              "source_hash": "4cd074f0819683e87d79ee8786053d21"
+            },
+            {
+              "url": "",
+              "title": "CareDx organ-transplant patents ineligible, affirms Fed. Circuit",
+              "snippet": "Natera Inc and CareDx Inc v. Eurofins Viracor Inc, U.S. Court of Appeals for the Federal Circuit, Nos. 2022-1027 and 2022-1028. For CareDx: Edward Reines of Weil, Gotshal & Manges",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865848+00:00",
+              "published_date": null,
+              "source_hash": "fc96c0c95d5f5abbbaf079f239b7d4cd"
+            },
+            {
+              "url": "",
+              "title": "CareDx Announces Closure of DOJ Investigation with No Finding of ...",
+              "snippet": "CareDx, Inc., headquartered in Brisbane, California, is a leading precision medicine solutions company focused on the discovery, development, and commercialization of clinically differentiated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865867+00:00",
+              "published_date": null,
+              "source_hash": "f42646229b483ee71810da096be69f36"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc. v. Natera, Inc. - SCOTUSblog",
+              "snippet": "Brief of respondent Eurofins Viracor, Inc. in opposition filed. Aug 09 2023: Brief of respondent Natera, Inc. in opposition filed. Aug 23 2023: DISTRIBUTED for Conference of 9/26/2023. Aug 23 2023: Reply of petitioner CareDx, Inc., and The Board of Trustees of the Leland Stanford Junior University filed. (Distributed) Oct 02 2023: Petition DENIED.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865874+00:00",
+              "published_date": null,
+              "source_hash": "feb1d7228b7efecc16e3bbc4e2fdaaee"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc. Investor News: Robbins LLP is Investigating CareDx, Inc ...",
+              "snippet": "Next Steps: If you acquired shares of CareDx, Inc. (CDNA) common stock between February 24, 2021, and May 5, 2022, you have legal options. Contact Robbins LLP for more information. Contact Robbins ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865881+00:00",
+              "published_date": null,
+              "source_hash": "99b13c5c3cc763ba8feae08c04b05221"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "CAREDX, INC. CODE OF BUSINESS CONDUCT AND ETHICS COMPLIANCE-022 Revision 1 INTRODUCTION CareDx, Inc. and its subsidiaries (the \"Company\"), recognize the importance of conducting business in an ethical, lawful, and socially responsible manner and strive to maintain the highest legal and ethical standards in conducting its business.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:35.865887+00:00",
+              "published_date": null,
+              "source_hash": "404d4f64e67b4552ab60138f3fb24c9b"
+            },
+            {
+              "url": "",
+              "title": "CareDx, JD.com And Other Big Stocks Moving Lower In Tuesday's Pre-Market Session",
+              "snippet": "Shares of CareDx, Inc (NASDAQ:CDNA) fell sharply in today's pre-market trading as the company reported preliminary results for the third quarter. CareDx said it expects third-quarter revenue of $ ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:38.420219+00:00",
+              "published_date": "2024-10-15T13:38:00+00:00",
+              "source_hash": "53e013dbfcb8ca7609311e62f82d18e9"
+            },
+            {
+              "url": "",
+              "title": "TCBP Partners with CareDx to Support ACHIEVE Clinical Trial Using AlloCell for Pharmacokinetic Monitoring of Allogeneic Cell Therapy",
+              "snippet": "today announced a partnership with CareDx, Inc. (NASDAQ: CDNA) The Transplant Company\u2122 who will perform pharmacokinetic analysis using its AlloCell\u2122 solution in the ACHIEVE clinical trial.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:38.420243+00:00",
+              "published_date": "2024-12-11T00:00:00+00:00",
+              "source_hash": "913d95fee84bbbcc41c0603cecd707b3"
+            },
+            {
+              "url": "",
+              "title": "CareDx to Participate in the 43rd Annual J.P. Morgan Healthcare Conference",
+              "snippet": "BRISBANE, Calif., December 18, 2024--(BUSINESS WIRE)--CareDx, Inc. (Nasdaq: CDNA) - The Transplant Company\u2122 \u2014 a leading precision medicine company focused on the discovery, development ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:38.420271+00:00",
+              "published_date": "2024-12-18T00:00:00+00:00",
+              "source_hash": "d5b20cf1ed4d68010f07416560ae1547"
+            },
+            {
+              "url": "",
+              "title": "CareDx: Q3 Earnings Snapshot",
+              "snippet": "BRISBANE, Calif. (AP) \u2014 BRISBANE, Calif. (AP) \u2014 CareDx Inc. (CDNA) on Monday reported a loss of $7.4 million in its third quarter. On a per-share basis, the Brisbane, California-based company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "CareDx Inc CareDx Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T16:35:38.420290+00:00",
+              "published_date": "2024-11-04T00:00:00+00:00",
+              "source_hash": "61d1519994d4236da743c86b2de17b6d"
+            },
+            {
+              "url": "",
+              "title": "Privacy Center | CareDx",
+              "snippet": "Information You Provide.We collect the Personal Information you provide to us when you access or use the CareDx Website, such as when you create an account on the CareDx Website, use a feature on the CareDx Website, contact us with a question, comment, or request in connection with the CareDx Website or our products and services (collectively, the \"Services\"), or interact with us at an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907121+00:00",
+              "published_date": null,
+              "source_hash": "1d9b9b929e0e7852b086f1e839a88457"
+            },
+            {
+              "url": "",
+              "title": "Notice of Privacy Practices - CareDx",
+              "snippet": "CareDx is required by law to maintain the privacy of your PHI and to provide you with this Notice upon request. It describes our legal duties, privacy practices, and your patient rights as determined by the Health Insurance Portability and Accountability Act of 1996 (\"HIPAA\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907159+00:00",
+              "published_date": null,
+              "source_hash": "be9bd70c4e652bfc8109cae97586a9a1"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc. AlloCare App Privacy Policy",
+              "snippet": "The Notice applies to Personal Information that is collected or processed by us through the App, as well as the related products or services owned and operated by CareDx and made available in connection with the App, including wearable devices and digital platforms provided with the App (collectively, the \"App Services\"). CareDx may have other privacy notices or policies that apply to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907166+00:00",
+              "published_date": null,
+              "source_hash": "df3b489101e037ca5d7b343741bd51cb"
+            },
+            {
+              "url": "",
+              "title": "Revere Health | BBB Complaints | Better Business Bureau",
+              "snippet": "View complaints of Revere Health filed with BBB. BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907179+00:00",
+              "published_date": null,
+              "source_hash": "0ec2ff18548fbd8dab882e21052595d7"
+            },
+            {
+              "url": "",
+              "title": "CareDx Issues Statement in Patent Infringement Case",
+              "snippet": "BRISBANE, Calif., January 27, 2024--CareDx, Inc. (Nasdaq: CDNA) - The Transplant Company\u2122 focused on the discovery, development, and commercialization of clinically differentiated, high-value ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907184+00:00",
+              "published_date": null,
+              "source_hash": "5e540e7d49ad542756a9c94342a0ec03"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc. v. Natera, Inc., 1:19-cv-00662, No. 347 (D ... - Docket Alarm",
+              "snippet": "In any event, caredx had good reason not to object at trial: it was entirely appropriate for dr. gauthier, a board-certified nephrologist, to testify to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907199+00:00",
+              "published_date": null,
+              "source_hash": "638c888261af014dd61fef34d81deb66"
+            },
+            {
+              "url": "",
+              "title": "Ongoing Investigation of CareDx Officers and Directors",
+              "snippet": "What legal issues is CareDx currently facing? CareDx is facing a class-action lawsuit for failing to disclose material information and is under investigation by the DOJ and SEC. How can shareholders assist in the investigation? Shareholders can provide information to KSF by calling their toll-free number at 1-877-515-1850.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907204+00:00",
+              "published_date": null,
+              "source_hash": "e3bd06563b595a42d15becc4b1f561e5"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc. v. Natera, Inc., Civil Action 19-662-CFC - Casetext",
+              "snippet": "See Reply Brief for Appellant/Cross-Appellee at 43, CareDx, Inc. v. Natera, Inc., No. 23-2428 (3d Cir. May 1, 2024). But as discussed above, there was record evidence from which a rational juror could have found that this comparison necessarily and falsely implied that the Sigdel and Bloom studies' data were reliably comparable and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:39.907209+00:00",
+              "published_date": null,
+              "source_hash": "a904fb9b2c8062aba846d872e03d05df"
+            },
+            {
+              "url": "",
+              "title": "CareDx: Top Of My Shopping List For 2025",
+              "snippet": "CareDx has shown strong revenue growth and maintains a robust balance sheet. Read why CDNA stock is a prime candidate for my growth portfolio.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:42.396514+00:00",
+              "published_date": "2024-12-25T05:22:00+00:00",
+              "source_hash": "7ba775deca48fec1982bd980b5569a0c"
+            },
+            {
+              "url": "",
+              "title": "CareDx to Participate in the 43rd Annual J.P. Morgan Healthcare Conference",
+              "snippet": "CareDx, Inc. (Nasdaq ... solutions along the pre- and post-transplant patient journey and is the leading provider of genomics-based information for transplant patients. For more information ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:42.396521+00:00",
+              "published_date": "2024-12-18T04:05:00+00:00",
+              "source_hash": "99720009b5409e6fdeb1f3ad049cf34e"
+            },
+            {
+              "url": "",
+              "title": "CareDx Partners with TC BioPharm to Support ACHIEVE Clinical Trial Using AlloCell for Pharmacokinetic Monitoring of Allogeneic Cell Therapy",
+              "snippet": "--(BUSINESS WIRE)--CareDx ... patients. For more information, please visit www.caredx.com. Forward Looking Statements This press release includes forward-looking statements related to CareDx, Inc ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:42.396527+00:00",
+              "published_date": "2024-12-11T07:00:00+00:00",
+              "source_hash": "82160a72b788e57e4a21bb78b0403bf8"
+            },
+            {
+              "url": "",
+              "title": "CareDx, Inc (NASDAQ:CDNA) Short Interest Down 6.6% in December",
+              "snippet": "According to data from ... shares during the period. CareDx, Inc engages in the discovery, development, and commercialization of diagnostic solutions for transplant patients and caregivers in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "CareDx Inc CareDx Inc patient data privacy concerns",
+              "retrieved_at": "2025-01-06T16:35:42.396532+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "e395a898dce33a3630023ed777de1b60"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "CareDx Inc patent infringement lawsuits",
+              "rationale": "Investigate ongoing or past legal disputes related to intellectual property",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "CareDx Inc regulatory compliance issues",
+              "rationale": "Examine any regulatory challenges or non-compliance with FDA or other healthcare regulations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "CareDx Inc patient data privacy concerns",
+              "rationale": "Assess potential controversies or risks related to the handling of patient data in digital health platforms",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:35:59.322335",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

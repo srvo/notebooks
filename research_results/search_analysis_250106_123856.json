@@ -1,0 +1,511 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:38:56.320749",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Sherwin-Williams Co",
+      "symbol": "SHW",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Raw material volatility, particularly for titanium dioxide and other chemicals",
+            "Supply chain disruptions due to global logistics challenges and material shortages",
+            "Compliance with stringent environmental regulations, especially regarding VOC emissions and waste management",
+            "Ongoing litigation, including a $400 million lead paint abatement case in California",
+            "Intense competition from major players like PPG Industries and AkzoNobel"
+          ],
+          "controversies": [
+            "Lead paint litigation with a $400 million abatement case in California",
+            "Settlement of a $3.65 million class-action lawsuit over wage and hour violations",
+            "Ongoing labor strike at the Bedford Heights plant since February 2024"
+          ],
+          "environmental_issues": [
+            "Compliance with environmental regulations on VOC emissions and waste management",
+            "24% of production facilities located in high-water-risk areas"
+          ],
+          "social_issues": [
+            "Labor disputes and ongoing strike at the Bedford Heights plant",
+            "Wage and hour violations leading to a $3.65 million settlement"
+          ],
+          "governance_issues": [
+            "Disputes with insurers over indemnification for lead paint litigation",
+            "Concerns over labor practices and compliance with labor laws"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Sherwin-Williams entitled to coverage in lead paint case",
+              "snippet": "Cleveland-based Sherwin-Williams and two other paint manufacturers were ordered to pay more than $400 million into an abatement fund to be used by California cities and counties to mitigate the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370370+00:00",
+              "published_date": null,
+              "source_hash": "dbbd0a0014078346f5ec56006acdeef8"
+            },
+            {
+              "url": "",
+              "title": "'This Was Not an Accident': Insurers Argue Against Indemnifying Sherwin ...",
+              "snippet": "The Ohio Supreme Court heard oral arguments Tuesday regarding whether insurers have a duty to indemnify Sherwin-Williams Co. after it and others were held liable in underlying California ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370483+00:00",
+              "published_date": null,
+              "source_hash": "52ad4faa9c892906522fb2bdf9b144da"
+            },
+            {
+              "url": "",
+              "title": " Sherwin-Williams Co. v. Certain Underwriters at Lloyd's London",
+              "snippet": "cover Sherwin-Williams' liability arising from litigation in Santa Clara County, California for the abatement of lead paint used in California residences. Sherwin-Williams and two other paint manufacturers, NL Industries, Inc. (\"NL\") and ConAgra Grocery Products Company (\"ConAgra\"), were ordered to pay over $400",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370498+00:00",
+              "published_date": null,
+              "source_hash": "3e35159d72f1210d19a27aaa10349a7b"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Co. v. Certain Underwriters at Lloyd's London",
+              "snippet": "A paint company was sued by Santa Clara County, California, along with other governmental entities, for promoting and selling lead-based paint, which was alleged to have created a public nuisance. The lawsuit sought abatement, not damages, to mitigate the hazards of lead paint. The California trial court ordered the paint companies to pay $1.15 billion into an abatement fund, later reduced to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370512+00:00",
+              "published_date": null,
+              "source_hash": "62c6c7104d26b90cc2075eb0a9d182d6"
+            },
+            {
+              "url": "",
+              "title": "Insurers Dodge Sherwin-Williams' Claim for $102M Lead Paint Abatement ...",
+              "snippet": "News Insurers Dodge Sherwin-Williams' Claim for $102M Lead Paint Abatement Payment, State High Court Rules This week, the Ohio Supreme Court unanimously agreed that the abatement fund payment did ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370524+00:00",
+              "published_date": null,
+              "source_hash": "631f4ebac760dad5413534c6e5cfbbd6"
+            },
+            {
+              "url": "",
+              "title": "Ohio Supreme Court Rules on Behalf of Lloyd's in $102M Coverage ...",
+              "snippet": "The Ohio Supreme Court ruled on December 10, 2024 that Zuckerman Spaeder LLP's clients\u2014Certain Underwriters at Lloyd's, London and eleven other insurers\u2014do not have to indemnify The Sherwin-Williams Company for its liability in, and subsequent settlement of, a lead paint-related public nuisance action brought by California municipalities and counties (the \"Santa Clara Action\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370534+00:00",
+              "published_date": null,
+              "source_hash": "629685ef63cfa1d7a22f5fdbe13e3099"
+            },
+            {
+              "url": "",
+              "title": "$305 million settlement reached for California cities & counties in ...",
+              "snippet": "A $305 million settlement reached today in California resolves nearly 20 years of litigation that found three lead paint companies created a public nuisance by ... creates an abatement fund that will mitigate the harm caused to 10 plaintiff cities and counties by defendants Sherwin-Williams Company, NL Industries, Inc., and ConAgra Grocery ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370551+00:00",
+              "published_date": null,
+              "source_hash": "5832501dc432569d72ceebae8317cb22"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams - Sherwin-Williams and Related Parties Agree to ...",
+              "snippet": "10 California cities and counties, The Sherwin-Williams Company and two other companies have mutually agreed to resolve litigation, subject to approval of the Court. This litigation, which started nearly 20 years ago, challenged the companies' legal advertising of lead-based paints over a century ago when lead-based paints were the \"gold standard\" and specified for use by the federal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370563+00:00",
+              "published_date": null,
+              "source_hash": "515e1106d67fa76e62fcb854335510b1"
+            },
+            {
+              "url": "",
+              "title": "$305M Settlement Reached In California Lead Paint Lawsuit",
+              "snippet": "The three companies are Sherwin-Williams Co.; NL Industries Inc., formerly known as National Lead Industries; and ConAgra Grocery Products Co., which took over the former Fuller paint company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370573+00:00",
+              "published_date": null,
+              "source_hash": "68025414adcdff07e81cd3f654b01085"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Can't Force Insurers to Cover Lead Paint Deal",
+              "snippet": "Sherwin-Williams Co.'s insurers don't have to cover the $100 million-plus the company paid in a lead paint case because that amount doesn't cover damages as defined by its policies, the Ohio Supreme Court ruled Tuesday. ... Litigation. A Sherwin-Williams Co. logo appears on a can of paint at a store in Princeton, Ill.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:25.370582+00:00",
+              "published_date": null,
+              "source_hash": "81510d7d26ad54ff2528e6f18eecbfa9"
+            },
+            {
+              "url": "",
+              "title": "Insurers Dodge Sherwin-Williams' Claim for $102M Lead Paint Abatement Payment, State High Court Rules",
+              "snippet": "Following nearly two decades of the underlying litigation in California, paint companies ConAgra, NL Industries, and Sherwin-Williams agreed ... respectively owed to co-defendants ConAgra and ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:28.800845+00:00",
+              "published_date": "2024-12-12T13:09:00+00:00",
+              "source_hash": "6ab282e29dbb40e19a752e24f50a5fdd"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Company",
+              "snippet": "The Sherwin-Williams Co. engages in the development, manufacture, distribution, and sale of paint and coatings. It operates through the following segments: America Group, Consumer Brands Group ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:28.800950+00:00",
+              "published_date": "2020-08-14T13:39:00+00:00",
+              "source_hash": "76b30f3ab036b5313533c924c1507cbf"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams: Too Rich For Me At Its Current Price",
+              "snippet": "Sherwin-Williams offers diverse paint products and operates in three segments, boasting a market cap near $90B and a 35-year return of over 20,000%. Read more here.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:28.800980+00:00",
+              "published_date": "2025-01-02T09:32:00+00:00",
+              "source_hash": "4213a2b7f729335d38941a3bb853e678"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Co",
+              "snippet": "as the paintmaker was helped by higher prices and increased sales across its paint stores and coating segments. Paintmaker Sherwin-Williams missed Wall Street estimates for first-quarter profit on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:28.801004+00:00",
+              "published_date": "2024-11-01T00:00:00+00:00",
+              "source_hash": "3a808024a5bc33d9bb87075030351601"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Co. stock underperforms Thursday when compared to competitors",
+              "snippet": "Sherwin-Williams Co. closed $54.91 short of its 52-week high ($400.42), which the company achieved on November 27th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co lead paint litigation",
+              "retrieved_at": "2025-01-06T19:38:28.801027+00:00",
+              "published_date": "2024-12-26T21:44:00+00:00",
+              "source_hash": "64b48f814d51e3f8e0e06e49ea326bd1"
+            },
+            {
+              "url": "",
+              "title": "Decoding Sherwin-Williams Co (SHW): A Strategic SWOT Insight",
+              "snippet": "Raw Material Sourcing and Cost Volatility: A significant challenge for Sherwin-Williams Co is the reliance on raw materials that are subject to price fluctuations and availability constraints. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416130+00:00",
+              "published_date": null,
+              "source_hash": "6d1d45e51a58cc6121e593dc156a1986"
+            },
+            {
+              "url": "",
+              "title": " Sherwin-Williams Company \u20142023 SASB Index",
+              "snippet": "Substantive impact related to water issues would depend on how much product is produced or distributed from that facility, the availability and cost of water, and our ability to move production to other regions. According to WRI Aqueduct, 24% of Sherwin-Williams' total production comes from facilities currently in areas of high water risk.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416177+00:00",
+              "published_date": null,
+              "source_hash": "4bff42ea7b614a840d093f7b6ef322a3"
+            },
+            {
+              "url": "",
+              "title": " The Sherwin-Williams Company - 2020 Investor ESG Summary",
+              "snippet": "The Sherwin-Williams Company - 2020 Investor ESG Summary TOPIC METRIC 2018 2019 2020 ... impact, physical and chemical properties, and other information reflecting current best practices. ... Finally, Sherwin-Williams assesses all raw materials used in its formulated products against global regulations for compliance, customer restrictions ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416193+00:00",
+              "published_date": null,
+              "source_hash": "ba9af3e0678cc3176a8ad4cf24cb07fe"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Company: Completing a century and a half of history",
+              "snippet": "Raw materials: Shortages and unexpected increases in the cost of raw materials and energy can have a negative effect on revenues or cash flows. Natural disasters: The company had to temporarily close 225 sales outlets in Florida during Hurricane Milton. Losses are limited, but these recurring events can threaten the Group's profitability.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416203+00:00",
+              "published_date": null,
+              "source_hash": "c2b36cd4c8e84b5b03fb6c7f0683b94b"
+            },
+            {
+              "url": "",
+              "title": "US Sherwin-Williams to emerge stronger from supply crisis - CEO",
+              "snippet": "Along with the raw material scarcity, pricing for materials such as propylene, high-density polyethylene (HDPE), and epoxy resins remains \"highly elevated\", prompting Sherwin to increase its full-year 2021 raw material inflation outlook to be up by \"high-teens\" from 2020, he said.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416211+00:00",
+              "published_date": null,
+              "source_hash": "30cc022fecfa7fc72d17491f3db89248"
+            },
+            {
+              "url": "",
+              "title": " 26 -Apr -2022 The Sherwin -Williams Co. - s2.q4cdn.com",
+              "snippet": "The Sherwin -Williams Co. (SHW ) Q1 2022 Earnings Call Corrected Transcript 26 -Apr -2022 ... remains an area of volatility. ... We do not expect lack of raw materials to have a material impact on sales going forward. To be clear, the",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416220+00:00",
+              "published_date": null,
+              "source_hash": "d232a76dcd6f9d84bd532b6571561ef7"
+            },
+            {
+              "url": "",
+              "title": " 27 -Jan -2022 The Sherwin -Williams Co. - s2.q4cdn.com",
+              "snippet": "The Sherwin -Williams Co. (SHW ) Q4 2021 Earnings Call ... As we described on our January 14 call, raw material availability did not improve as meaningfully as anticipated in ... raw material cost inflation outpacing our price increases near term, and supply chain inefficiencies. SG&A e xpense decreased to 30.2% of",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416228+00:00",
+              "published_date": null,
+              "source_hash": "c57892525fcf3d9b10ad3940dd9593e1"
+            },
+            {
+              "url": "",
+              "title": " 26 -Jan -2023 The Sherwin -Williams Co. - s2.q4cdn.com",
+              "snippet": "The Sherwin -Williams Co. (SHW ) Q4 2022 Earnings Call ... modest sequential decrease in raw material costs for the second quarter in a row. Additionally, we made solid ... unfavorable FX impact. Adjusted segment margin increased 530 basis points to 14.2% of sales. This is the third",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416236+00:00",
+              "published_date": null,
+              "source_hash": "08de157a0e4dc150431f4792e2c880cb"
+            },
+            {
+              "url": "",
+              "title": "Sherwin Williams Co (SHW) 10-K Annual Report February 2022 - Last10K.com",
+              "snippet": "Inside Sherwin Williams Co's 10-K Annual Report: Revenue - Product Highlight. The Company generated $2.245 billion in net operating cash despite ongoing and industry-wide raw material availability issues which negatively impacted total sales and gross margins. M & A - Other Highlight",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416244+00:00",
+              "published_date": null,
+              "source_hash": "13da688e6d4c6823c3e8c2b6522f7522"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Misses Q3 Expectations - The Motley Fool",
+              "snippet": "Sherwin-Williams Q3 earnings fell short of expectations, but strategic growth initiatives continue to show promise. ... Challenges such as currency volatility remained, although raw material costs ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:30.416251+00:00",
+              "published_date": null,
+              "source_hash": "24bd0eb40a9cccc5ce1356f1e315cd8e"
+            },
+            {
+              "url": "",
+              "title": "Here's What to Expect From Sherwin-Williams' Next Earnings Report",
+              "snippet": "The Sherwin-Williams Company (SHW), headquartered in Cleveland, Ohio, develops, manufactures, distributes, and sells paints, coating, and related products. Valued at $83.9 billion by market cap, the company's Sherwin-Williams branded products are sold exclusively through a chain of more than 5,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co raw material price volatility impact",
+              "retrieved_at": "2025-01-06T19:38:33.733903+00:00",
+              "published_date": "2025-01-03T13:44:39+00:00",
+              "source_hash": "f4ae6de056bade9361bdbcec06eae795"
+            },
+            {
+              "url": "",
+              "title": "USW Members Fight For Fair Contract At Sherwin-Williams",
+              "snippet": "Members of Local 14919, who have been on an unfair labor practice strike against Sherwin-Williams since Feb. 5, this month took their fight for a fair contract to the public. The 55 workers, who make spray paint and other products at the company's Bedford Heights, Ohio, aerosol can plant, on March 25 welcomed U.S. Sen. Sherrod Brown to their ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364328+00:00",
+              "published_date": null,
+              "source_hash": "c145dea66c2134879e60f9d1a543598a"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams Retail Workers Finalize $3.7 Million Wage Deal",
+              "snippet": "A federal judge in California signed off on a $3.65 million settlement between Sherwin-Williams Co. and more than 5,700 retail employees, resolving two class actions alleging state wage and breaks violations.. The members of the class, which includes store managers, assistant managers, and sales associates, will split about $2.6 million after certain deductions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364434+00:00",
+              "published_date": null,
+              "source_hash": "7bb8aadcf9749e8ba57246fd1f4a0ca1"
+            },
+            {
+              "url": "",
+              "title": "Sherwin-Williams pays $3.6M to paint over wage and hour claims",
+              "snippet": "The Sherwin-Williams Company will pay $3,650,000 to settle claims brought by its managers and associates that it failed to pay proper overtime and provide all meal periods, among other violations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364450+00:00",
+              "published_date": null,
+              "source_hash": "d4e79f06d505ece47b191d7826d932da"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The Sherwin-Williams Company is an Ohio USA corporation and is a New York stock exchange listed (ticker SHW), publicly traded, multinational company with over 64,000 employees and over USD 23 B in sales. Sherwin-Williams is engaged in the manufacture, distribution and sale of paints, coatings and associated products. Our",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364463+00:00",
+              "published_date": null,
+              "source_hash": "0d9dfeab093807c4de8b5d54184fb29e"
+            },
+            {
+              "url": "",
+              "title": "$3.6 Million Settlement to Resolve Sherwin-Williams Wage and Hour ...",
+              "snippet": "Managers and associates of Sherwin-Williams banded together to file claims against their employer alleging failure to pay overtime, provide required meal breaks and rest periods, and other California labor law violations in Anderson v.The Sherwin-Williams Company No. 5:17-cv-02459 (C.D. Calif. May 12, 2020).As a result, Sherwin-Williams Company will pay $3.65 million to settle the claims.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364474+00:00",
+              "published_date": null,
+              "source_hash": "51f3c6fccd6a95e3ea39c38b1d93ffb7"
+            },
+            {
+              "url": "",
+              "title": "After 200-Plus Days on Strike, UAW Local 171 Wins New Contract",
+              "snippet": "UAW Local 171 members that work at Sherwin-Williams Co. in Williamsport, Maryland, have proven the old labor adage \"One Day Longer\" true once again. After walking the picket lines on strike for over 200 days, workers have won a new agreement with significant contractual gains. The three-year contract includes an increase in starting wages and [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364485+00:00",
+              "published_date": null,
+              "source_hash": "c9a9881dfa7cea5f332377e9ca83f060"
+            },
+            {
+              "url": "",
+              "title": "How is everyone still making it? : r/sherwinwilliams - Reddit",
+              "snippet": "Sherwin is getting my bare minimum because my own well-being takes priority. All time high budget increases with all time low inventory flowing in. We're designed to fail. But you as an individual are not. Change your habits, do what is best for your body and mental.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364501+00:00",
+              "published_date": null,
+              "source_hash": "16f6ac96e5d2706205ff8d5ea8c061fd"
+            },
+            {
+              "url": "",
+              "title": "N.L.R.B. v. Sherwin-Williams Co. - Casetext",
+              "snippet": "Read N.L.R.B. v. Sherwin-Williams Co., 714 F.2d 1095, see flags on bad law, and search Casetext's ... The Board's determination that Sherwin-Williams committed an unfair labor practice was based on its finding that the Company's termination of disability benefits was unlawfully intended to coerce and restrain protected union activity with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364513+00:00",
+              "published_date": null,
+              "source_hash": "abb18371b20d2982f7b9cc8beb23ef7b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "SHERWIN-WILLIAMS COMPANY THE 6 0 2 1 52 31 9 1565 SHERWIN-WILLIAMS COMPANY THE 12 8 3218 12/1/2020 1310 0 1 23 53 257 1283 Y 0 1 6 0 Recertifing at direction of EEOC to correct sstem issue on consoildated report 69 0 66 1145 13 HR P Emploee Relations 0 59 1302 10/4/2021 0 965 185 15 11 1 3 5 135 124 0 37 863 144 141 69 15 38 3 11 0 0",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364524+00:00",
+              "published_date": null,
+              "source_hash": "a6c5c0b09137877c3d46c9b74804e495"
+            },
+            {
+              "url": "",
+              "title": "Working at Sherwin-Williams: 6,794 Reviews | Indeed.com",
+              "snippet": "6,794 reviews from Sherwin-Williams employees about Sherwin-Williams culture, salaries, benefits, work-life balance, management, job security, ... Great co-workers and learning to manage time better. Cons. ... Hardest part of job is dealing with systems and practices that haven't changed over time. Most enjoyable is working with good people.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Sherwin-Williams Co Sherwin-Williams Co labor practices controversies",
+              "retrieved_at": "2025-01-06T19:38:37.364535+00:00",
+              "published_date": null,
+              "source_hash": "700a5a9114de583406cb9f6cec040486"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Sherwin-Williams Co lead paint litigation",
+              "rationale": "Investigate ongoing or historical lawsuits related to lead paint and environmental impact",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Sherwin-Williams Co raw material price volatility impact",
+              "rationale": "Assess how fluctuations in raw material costs affect financial performance and legal risks",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Sherwin-Williams Co labor practices controversies",
+              "rationale": "Explore potential controversies or concerns related to employee treatment and labor practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:38:56.320761",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

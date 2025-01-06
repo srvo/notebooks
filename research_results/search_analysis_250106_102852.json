@@ -1,0 +1,612 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T10:28:52.642245",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Okta Inc",
+      "symbol": "OKTA",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Security breaches and customer trust erosion",
+            "Intense competitive pressures in the IAM market",
+            "Integration challenges with legacy IT systems",
+            "Regulatory and compliance risks"
+          ],
+          "controversies": [
+            "Significant security breach in January 2022 involving a third-party contractor",
+            "2023 breach where a threat actor accessed Okta's support system"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Repeated security breaches testing customer confidence in privacy commitments"
+          ],
+          "governance_issues": [
+            "Challenges in maintaining robust security practices and compliance with data protection regulations"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Okta's Investigation of the January 2022 Compromise",
+              "snippet": "The target did not accept an MFA challenge, preventing access to the Okta account. January 20, 2022, at 23:46 - Okta Security investigated the alert and escalated it to a security incident. January 21, 2022, at 00:18 - The Okta Service Desk was added to the incident to assist with containing the user's account.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532431+00:00",
+              "published_date": null,
+              "source_hash": "dd72d84b5236ecca4bf33066c32c4e80"
+            },
+            {
+              "url": "",
+              "title": "Okta Concludes its Investigation Into the January 2022 Compromise",
+              "snippet": "As Okta first became aware that the threat actor had successfully taken screenshots on March 21, 2022, we responded with transparency, sharing what we knew at the time. On March 22, 2022, we began notifying the maximum number of potentially impacted customers, which we scoped by examining all of the access performed by all Sitel employees to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532664+00:00",
+              "published_date": null,
+              "source_hash": "fc14e87390c8394a2a98b475383b5972"
+            },
+            {
+              "url": "",
+              "title": "Frequently Asked Questions Regarding the January 2022 Compromise - Okta",
+              "snippet": "January 21, 2022, at 18:00 | Okta Security shared indicators of compromise with Sitel. Sitel informed us that they retained outside support from a leading forensic firm. January 21, 2022 to March 10, 2022 | The forensic firm's investigation and analysis of the incident was conducted until February 28, 2022, with its report to Sitel dated ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532714+00:00",
+              "published_date": null,
+              "source_hash": "67c15d6a4368c1f084512d75f8e8eaa2"
+            },
+            {
+              "url": "",
+              "title": "Okta (Okta Inc.) (2022-01-31) Cyber-Attack Hack Breach - The Cyber ...",
+              "snippet": "Okta confirmed the security breach on March 22, 2022, acknowledging that approximately 2.5% of its customers, which amounts to around 375 organizations, were affected by the cyberattack orchestrated by the Lapsus$ group. The incident involved unauthorized access to Okta's systems, and the attackers compromised a laptop belonging to one of Okta ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532740+00:00",
+              "published_date": null,
+              "source_hash": "623161dc5e44c77d81546b159f9efb3f"
+            },
+            {
+              "url": "",
+              "title": "Okta's Costly Cyber Security Failures: A $60 Million Lesson in Transparency",
+              "snippet": "Okta Inc. (OKTA) faced a data breach in early 2022 and a group of hackers obtained sensitive customer data. However, Okta did not disclose the details of the incident on time. When the management finally decided to reveal the extent of this breach to the public, there was a lack of transparency regarding the depth of this issue and the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532779+00:00",
+              "published_date": null,
+              "source_hash": "9a22b4b2d16ec9ba683534f1f931db60"
+            },
+            {
+              "url": "",
+              "title": "Okta ends Lapsus$ hack investigation, says breach lasted just 25 ...",
+              "snippet": "Secure authentication platform Okta has concluded a forensic investigation into a breach by hacking group Lapsus$, finding that the scope of compromised access was far smaller than initially believed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532790+00:00",
+              "published_date": null,
+              "source_hash": "372e23d6e1b828df8dcabaa422d6210b"
+            },
+            {
+              "url": "",
+              "title": "Okta cyberattack: Digital identity firm suffers fourth breach of 2022",
+              "snippet": "How the latest Okta breach occurred. GitHub alerted Okta to suspicious activity on the company's account earlier this month. A security alert sent out by Okta's chief security officer, David Bradbury, and seen by Bleeping Computer confirmed the incident. \"Upon investigation, we have concluded that such access was used to copy Okta code ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532802+00:00",
+              "published_date": null,
+              "source_hash": "6b68047df99529fe03fc8c1bba046556"
+            },
+            {
+              "url": "",
+              "title": "Updated Okta Statement on LAPSUS$",
+              "snippet": "In January 2022, Okta detected an unsuccessful attempt to compromise the account of a customer support engineer working for a third-party provider. As part of our regular procedures, we alerted the provider to the situation, while simultaneously terminating the user's active Okta sessions and suspending the individual's account.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532811+00:00",
+              "published_date": null,
+              "source_hash": "593c6b171be50a58883a3c756b6f67dc"
+            },
+            {
+              "url": "",
+              "title": "Official Okta Statement on LAPSUS$ Claims - Okta Security",
+              "snippet": "In January 2022, Okta detected an unsuccessful attempt to compromise the account of a customer support engineer working for a third-party provider. As part of our regular procedures, we alerted the provider to the situation, while simultaneously terminating the user's active Okta sessions and suspending the individual's account.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532821+00:00",
+              "published_date": null,
+              "source_hash": "f44624769ef256c0e11539d5ab1d20a5"
+            },
+            {
+              "url": "",
+              "title": "Okta Breaches Unveiled: An Extensive Review | Acsense",
+              "snippet": "Lapsus$ Breach: January 2022. In January 2022, Okta fell victim to a breach by the hacking group Lapsus$. The initial compromise occurred through a third-party support vendor, Sitel, and later escalated to a more significant breach within Okta's environment. Second Major Breach: August 2022. A few months later, Okta experienced a second major ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:25.532862+00:00",
+              "published_date": null,
+              "source_hash": "87037e7fa2bee20a2f0174e3941a22a6"
+            },
+            {
+              "url": "",
+              "title": "Okta Overcomes Security Breach To Post Better-Than-Expected Earnings. The Stock Is Soaring.",
+              "snippet": "Okta has been taking multiple steps to recover from a serious security breach that unfolded in 2023. The company said late last year that it discovered that a \"threat actor\" in an October ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:27.958553+00:00",
+              "published_date": "2024-02-29T02:35:00+00:00",
+              "source_hash": "b8cd9330cd98fd29552eee7748d74ead"
+            },
+            {
+              "url": "",
+              "title": "Okta confirms breach of support system, exposing customer files",
+              "snippet": "Identity and access management provider Okta has disclosed ... of credentials. The security breach is the latest in a series of incidents for the company. In December 2022, it disclosed that ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:27.958659+00:00",
+              "published_date": "2024-09-07T12:39:00+00:00",
+              "source_hash": "0a696d256416160ae2c3867064473a51"
+            },
+            {
+              "url": "",
+              "title": "Okta Inc. (OKTA)'s Security Woes Continue to Haunt the Company",
+              "snippet": "In this article, we are going to take a look at where Okta, Inc. (NASDAQ:OKTA ... press reaction has not been favorable given multiple security incidents from Okta in the last couple of years ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:27.958690+00:00",
+              "published_date": "2024-12-09T19:47:00+00:00",
+              "source_hash": "923745e2f5a6198fe1c8455a1d92c60a"
+            },
+            {
+              "url": "",
+              "title": "Okta Discloses Support System Breach Impacting Customer Data",
+              "snippet": "Okta disclosed a data breach Friday for its support case management system, through which an attacker was able to view data from \"certain\" customers. In a post, Okta Chief Security Officer ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:27.958714+00:00",
+              "published_date": "2023-10-20T19:30:00+00:00",
+              "source_hash": "3dd049ccb872df87df017e26e1684658"
+            },
+            {
+              "url": "",
+              "title": "Okta Rises 9% in a Month: Is the Stock a Screaming Buy in 2025?",
+              "snippet": "Okta OKTA shares have appreciated 8.9% in a month, outperforming the broader Zacks Computer & Technology sector's return of 3.5% and the Zacks Internet Software and Services industry's gain of 6.3%. OKTA's portfolio strength is noteworthy,",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc security breach 2022",
+              "retrieved_at": "2025-01-06T17:28:27.958736+00:00",
+              "published_date": "2024-12-23T16:47:00+00:00",
+              "source_hash": "fabece23cd5678e9002b8418ece394bf"
+            },
+            {
+              "url": "",
+              "title": "Privacy - Okta",
+              "snippet": "We do not sell customer data - any and all data uploaded into the Okta service by or on behalf of a customer - and we never will. Okta is built for security and privacy Every product at Okta is designed with privacy and security at the forefront.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583621+00:00",
+              "published_date": null,
+              "source_hash": "a8db8447cf8dcea83a5fdf2eeaf7fc12"
+            },
+            {
+              "url": "",
+              "title": "Okta Privacy Policy",
+              "snippet": "Use of this content by Okta is governed by agreements between Okta and the Customer. For detailed privacy information applicable to situations where an Okta customer (and/or a customer affiliate) who uses Okta's cloud products and services is the controller, please reach out to the respective customer directly.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583730+00:00",
+              "published_date": null,
+              "source_hash": "4294b191a9d8bb7675e9b21c9ca89325"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "updated based on changes in legal and regulatory requirements related to privacy and data security practices and industry standards applicable to the Service. Okta's ISMP is designed to: \u2022 Protect the integrity, availability, and prevent the unauthorized disclosure by Okta or its agents, of Customer Data in Okta's possession or control;",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583743+00:00",
+              "published_date": null,
+              "source_hash": "092da973cafd0f23e13b93a48d483fae"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Okta makes multiple investments to ensure external data is secure and available. External user data, and access to it, is isolated at the customer level within Okta's data layer. Data is stored in an encrypted manner in the Amazon Web Services (AWS). Okta requires that all access to its infrastructure, application, and data be controlled based on",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583758+00:00",
+              "published_date": null,
+              "source_hash": "169a9d1b9d472c30ee215bb8cd9865a7"
+            },
+            {
+              "url": "",
+              "title": "Okta Says Hundreds of Customers May Have Been Exposed by January ... - CNET",
+              "snippet": "In 2021, data breaches jumped 68% year over year to the highest total ever, according to an Identity Theft Resource Center report. On Tuesday, Microsoft confirmed that the Lapsus$ hacking group ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583767+00:00",
+              "published_date": null,
+              "source_hash": "21ebe9e5eb1b64288248ddfc9ebf56f3"
+            },
+            {
+              "url": "",
+              "title": "Data Privacy Policy - Okta",
+              "snippet": "The Okta Community is not part of the Okta Service (as defined in your organization's agreement with Okta). By continuing and accessing or using any part of the Okta Community, you agree to the terms and conditions , privacy policy , and community guidelines",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583786+00:00",
+              "published_date": null,
+              "source_hash": "5424ab26bc843bbd4e94806a07c3a354"
+            },
+            {
+              "url": "",
+              "title": "Okta admits hackers accessed data on all customers during recent breach",
+              "snippet": "In a blog post published on Wednesday, Okta chief security officer David Bradbury said the company has since determined that all of its customers are affected by the breach. Okta spokesperson Cat ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583795+00:00",
+              "published_date": null,
+              "source_hash": "55ba1b176b31d3f925ebadda6f1650c6"
+            },
+            {
+              "url": "",
+              "title": "Happy Data Privacy Week! - Okta",
+              "snippet": "The Okta Community is not part of the Okta Service (as defined in your organization's agreement with Okta). By continuing and accessing or using any part of the Okta Community, you agree to the terms and conditions , privacy policy , and community guidelines",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583803+00:00",
+              "published_date": null,
+              "source_hash": "13cbf2be54ba67389d92697a54149685"
+            },
+            {
+              "url": "",
+              "title": "Data Privacy: Regulations, Tips, and Compliance - Okta",
+              "snippet": "Data privacy involves crafting and enforcing rules about who has access to the data you've stored. Let's give a few examples. Data security breach: Between 2014 and 2018, hackers were buried deep inside Marriott International web servers .",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583814+00:00",
+              "published_date": null,
+              "source_hash": "f4a38a30073bb2312d342b152667759c"
+            },
+            {
+              "url": "",
+              "title": "Okta security breach much worse than originally disclosed - all ...",
+              "snippet": "Bad actors managed to access private customer information through Okta's customer support system. Earlier this month, Okta shared more information about the breach, including a pretty critical detail.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:29.583823+00:00",
+              "published_date": null,
+              "source_hash": "be728ffb0807c4cee53cad64bea50bf1"
+            },
+            {
+              "url": "",
+              "title": "Okta's Breakout Imminent - Wait Out The Near-Term Customer Retention Issues",
+              "snippet": "Discover why OKTA is a promising investment opportunity with growing customer demand and impressive performance metrics. Read my analysis.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:32.039311+00:00",
+              "published_date": "2024-12-30T13:30:00+00:00",
+              "source_hash": "7f58e18f5057528d3b9e13d8a1421715"
+            },
+            {
+              "url": "",
+              "title": "Okta Discloses Support System Breach Impacting Customer Data",
+              "snippet": "The company's CSO says an attacker 'was able to view files uploaded by certain Okta customers as part of recent support cases.' Okta disclosed a data breach Friday for its support case ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:32.039422+00:00",
+              "published_date": "2023-10-20T19:30:00+00:00",
+              "source_hash": "5626a3430baf7c6d5d3cb37e3a76ae8d"
+            },
+            {
+              "url": "",
+              "title": "Okta: Up To 366 Clients Had Data 'Acted Upon' in Lapsus$ Hack",
+              "snippet": "'A small percentage of customers - approximately 2.5 percent - have potentially been impacted and whose data may have been viewed or acted upon,' says Okta Chief Security Officer David Bradbur",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:32.039454+00:00",
+              "published_date": "2022-03-23T06:05:00+00:00",
+              "source_hash": "4bc4ba7500251e7f7af57e35d7c98d91"
+            },
+            {
+              "url": "",
+              "title": "Why Okta Inc. (OKTA) Is Among the Best Cybersecurity Stocks to Buy According to Wall Street Analysts?",
+              "snippet": "In this article, we are going to take a look at where Okta Inc. (NASDAQ ... On the other hand, as AI technology advances, concerns around data privacy and risk management are escalating for ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:32.039479+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "17314f516ed207550cfaf381be67b0c2"
+            },
+            {
+              "url": "",
+              "title": "Okta breach: Hackers attempt to compromise 1Password and Cloudflare using stolen data",
+              "snippet": "Popular password manager 1Password and internet infrastructure provider Cloudflare have joined the list of victims affected by the recent Okta customer ... concerns about the security of data ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Okta Inc Okta Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T17:28:32.039512+00:00",
+              "published_date": "2023-10-25T00:00:00+00:00",
+              "source_hash": "6ac2cb68dd443264e488ecd4d7c1050f"
+            },
+            {
+              "url": "",
+              "title": "Okta Inc Comparisons to its Competitors and Market Share - CSIMarket",
+              "snippet": "Principal competitive factors in our markets include flexibility, independence, product capabilities, total cost of ownership, time to value, scalability, user experience, number of pre-built integrations, customer satisfaction, global reach and ease of integration, management and use. ... Okta Inc lost market share, to approximately 0.45 % ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744241+00:00",
+              "published_date": null,
+              "source_hash": "2b6f5870cf1ee150d5d184b82a485737"
+            },
+            {
+              "url": "",
+              "title": "Okta Inc Market share relative to its competitors, as of Q1 2024 ...",
+              "snippet": "OKTA's vs. Market share relative to its competitors, as of Q1 2024 within the Software & Programming Industry . As of Q1 2024. COMPANY NAME: MARKET SHARE 12 Months Ending Q1 2024: MARKET SHARE 12 Months Ending Q4 2023: MARKET SHARE MRQ Q1 2024: MARKET SHARE Q4 2023: Okta Inc : 0.75%: 0.74%: 0.90 % : 0.31 % : Appian Corporation: 0.21%: 0.22%:",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744377+00:00",
+              "published_date": null,
+              "source_hash": "1308541c605804fc7771b59f504efeff"
+            },
+            {
+              "url": "",
+              "title": "The Competitive Landscape of Okta - CANVAS, SWOT, PESTEL & BCG Matrix ...",
+              "snippet": "[cbm_blg_rlnkng]The competitive landscape of Okta is a dynamic and ever-evolving one, marked by a high level of competition and innovation. ... Okta can reach a wider customer base and increase its market share. Product Innovation: Okta can capitalize on the growing need for advanced cybersecurity solutions by investing in product innovation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744411+00:00",
+              "published_date": null,
+              "source_hash": "960283be0297b11c1ac4758de3a5cf10"
+            },
+            {
+              "url": "",
+              "title": "Okta, Inc. (OKTA): SWOT Analysis [10-2024 Updated] - dcf-fm",
+              "snippet": "Read on to explore the critical factors shaping Okta's business landscape. Okta, Inc. (OKTA) - SWOT Analysis: Strengths Strong revenue growth, with subscription revenue increasing by 17% year-over-year. ... The competitive landscape has intensified, leading to pricing pressures and potential loss of market share. For example, Microsoft's Azure ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744439+00:00",
+              "published_date": null,
+              "source_hash": "4ec93d09deb193510b6d092e055ed258"
+            },
+            {
+              "url": "",
+              "title": "Okta - Market Share, Competitor Insights in Single Sign-On (SSO) - 6sense",
+              "snippet": "Market Share of Okta. Current Customer(s) 9456. Market Share (Est.) 20.89%. Ranking #3. Top Competitors and Alternatives of Okta. The top three of Okta's competitors in the Single Sign-On (SSO) category are OneLogin with 42.28%, OneAll with 22.09%, AWS Single Sign-On with 5.14% market share. Technology Domains Market Share (Est.) Versus page ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744468+00:00",
+              "published_date": null,
+              "source_hash": "c56e32391110adf16b24abbed501b9a3"
+            },
+            {
+              "url": "",
+              "title": "Okta Competitor Analysis - The Strategy Story",
+              "snippet": "Okta, Inc., is a prominent player in the identity and access management (IAM) industry. It provides cloud-based solutions to manage and secure user authentication across applications and devices. Founded in 2009 by Todd McKinnon and Frederic Kerrest, both former executives at Salesforce, Okta was established to help organizations manage access ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744491+00:00",
+              "published_date": null,
+              "source_hash": "0ac50eaabadd5c22e10879d8f82b8f77"
+            },
+            {
+              "url": "",
+              "title": "Okta - Market Share, Competitor Insights in Identity And ... - 6sense",
+              "snippet": "Market Share of Okta. Current Customer(s) 9456. Market Share (Est.) 25.59%. Ranking #2. Top Competitors and Alternatives of Okta. The top three of Okta's competitors in the Identity And Access Management category are OneLogin with 51.81%, DIGIPASS with 4.95%, Gigya with 4.68% market share. Technology Domains Market Share (Est.) Versus page ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744515+00:00",
+              "published_date": null,
+              "source_hash": "af2f8d27fcea01179965db94b6306f78"
+            },
+            {
+              "url": "",
+              "title": "Okta Market Share and Competitor Report - Datanyze",
+              "snippet": "Okta market share is 3.61% with more than 9964 companies using this software ; Datanyze helps you reach more than 36,169,273 contacts that are using Okta , including Amazon Walmart Apple . Find Contacts . Websites Added. 38. Websites Dropped. 9,964. Current Websites. 64. Market Share. 3.61%. ABOUT OKTA.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744538+00:00",
+              "published_date": null,
+              "source_hash": "d793ce4566102f3339b3ac33345dd19d"
+            },
+            {
+              "url": "",
+              "title": "Okta Inc Competition Revenue Growth by Company's Segment - CSIMarket",
+              "snippet": "Comparisons of Okta Inc 's Revenue Growth within Total segment, to it's competitors - CSIMarket . Company Name, Ticker, Customers, else.. HOME; INDUSTRIES; NEWS; MARKETS; ECONOMY; ... Okta Inc Market Share; Okta Inc Competition Performance; Okta Inc Competitors Results; OKTA Competitors Stock Performance;",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744561+00:00",
+              "published_date": null,
+              "source_hash": "5083c817f186cb6f5b76b3fe2e47c118"
+            },
+            {
+              "url": "",
+              "title": "Okta - Market Share, Competitor Insights in Network Security - 6sense",
+              "snippet": "Market Share of Okta. Current Customer(s) 9456. Market Share (Est.) 0.28%. Ranking #4. Top Competitors and Alternatives of Okta. The top three of Okta's competitors in the Network Security category are Cloudflare with 96.11%, Hornetsecurity Spamfilter with 0.70%, OneLogin with 0.57% market share. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:33.744579+00:00",
+              "published_date": null,
+              "source_hash": "98711aafef732f8973d66e924905aed2"
+            },
+            {
+              "url": "",
+              "title": "Okta Inc (OKTA) Stock Price Reaches $80.76: What Factors Are Influencing This Level?",
+              "snippet": "Okta Inc (OKTA) stock saw a modest uptick, ending the day at $80.76 which represents a slight increase of $1.93 or 2.45% from the prior close of $78.83. The stock opened at $79.35 and touched a low of $79.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:36.026303+00:00",
+              "published_date": "2025-01-04T15:29:00+00:00",
+              "source_hash": "134f2e76f4b14bc755bef0e5d7a4927d"
+            },
+            {
+              "url": "",
+              "title": "Why Okta Inc. (OKTA) Is Among the Best Cybersecurity Stocks to Buy According to Wall Street Analysts?",
+              "snippet": "As organizations navigate an increasingly complex cyber threat landscape ... Okta AI. For the third fiscal quarter, Okta Inc. (NASDAQ:OKTA) reported earnings per share of $0.67, surpassing market ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:36.026327+00:00",
+              "published_date": "2024-12-16T20:52:00+00:00",
+              "source_hash": "de455a524a955aa8d804b08b0bfc5afa"
+            },
+            {
+              "url": "",
+              "title": "Okta Inc (OKTA)'s Stock Plunge: What You Need to Know",
+              "snippet": "On Monday, Okta Inc (OKTA) stock saw a decline, ending the day at $79.64 which represents a decrease of $-2.00 or -2.45% from the prior close of $81.64. The stock opened at $80.5 and touched a low of $79.4 during the day, reaching a high of $80.91. The volume of shares traded was 2.70 million falling short of the average volume of 2.91 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:36.026333+00:00",
+              "published_date": "2024-12-31T20:52:00+00:00",
+              "source_hash": "ba6bdae7b2615270782d2991a864b2d5"
+            },
+            {
+              "url": "",
+              "title": "Okta, Inc. (OKTA.MX)",
+              "snippet": "Investing.com -- KeyBanc Capital Markets upgraded Okta Inc ... landscape. Okta (OKTA) received an upgrade from Neutral to Overweight by JPMorgan analysts, maintaining their $100 per share price ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:36.026339+00:00",
+              "published_date": "2024-12-26T18:42:00+00:00",
+              "source_hash": "ad82908fbfd1294297fb2de8323a4a62"
+            },
+            {
+              "url": "",
+              "title": "With 60% Upside Potential, Okta Is A Key 2025 Cybersecurity Pick",
+              "snippet": "Despite declining NRR due to macroeconomic pressures and the competitive landscape, Okta's raised ... in its go-to-market and product strategy to gain market share while unlocking operating ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Okta Inc Okta Inc competitive landscape and market share",
+              "retrieved_at": "2025-01-06T17:28:36.026343+00:00",
+              "published_date": "2024-12-09T09:22:00+00:00",
+              "source_hash": "bbb3674e6dd53a6e047065171199148c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Okta Inc security breach 2022",
+              "rationale": "Investigate the impact and response to the 2022 security incident involving a third-party contractor",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Okta Inc customer data privacy concerns",
+              "rationale": "Explore customer and regulatory concerns regarding data privacy and compliance with GDPR and CCPA",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Okta Inc competitive landscape and market share",
+              "rationale": "Assess the competitive pressures from major players like Microsoft Azure Active Directory and their impact on Okta's market position",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T10:28:52.642252",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

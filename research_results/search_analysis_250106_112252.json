@@ -1,0 +1,469 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:22:52.755306",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Canadian Pacific Kansas City Ltd",
+      "symbol": "CP",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory scrutiny due to merger with KCS, potentially impacting operations and finances",
+            "Labor disputes and union negotiations, risking operational disruptions and increased costs",
+            "Operational integration risks from the KCS merger, affecting efficiency and profitability"
+          ],
+          "controversies": [
+            "Significant regulatory challenges and oversight due to the merger with KCS",
+            "Criticism from environmental groups over fossil fuel transportation"
+          ],
+          "environmental_issues": [
+            "Facing scrutiny for transporting fossil fuels despite commitments to net-zero emissions by 2050"
+          ],
+          "social_issues": [
+            "Ongoing labor negotiations with unions, potentially leading to strikes or higher labor costs"
+          ],
+          "governance_issues": [
+            "Potential governance challenges in aligning operations and cultures post-KCS merger"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "About CPKC",
+              "snippet": "Canadian Pacific (CP) and Kansas City Southern (KCS) were founded in the 1800's. CPKC was established on April 14, 2023, and with the same entrepreneurial spirit that guided these two iconic railways, we continue to create innovative transportation solutions that connect our customers with markets in North America and the world.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490249+00:00",
+              "published_date": null,
+              "source_hash": "a753b6b422b5b0346d459eec784ba5a8"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City - Wikipedia",
+              "snippet": "Canadian Pacific Kansas City Limited, doing business as CPKC (known as Canadian Pacific Railway Limited until 2023), is a Canadian railway holding company.Through its primary operating railroad subsidiaries, Canadian Pacific Railway (CP) and Kansas City Southern Railway (KCS), it operates about 32,000 kilometres (20,000 mi) of rail in Canada, Mexico, and the United States, and is the only ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490447+00:00",
+              "published_date": null,
+              "source_hash": "c00ea9f135f69e42b01c00e7d39c734d"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific and Kansas City Southern combine to create CPKC",
+              "snippet": "CPKC becomes the first and only single-line railway connecting Canada, the U.S. and Mexico . Canadian Pacific (\"CP\") and Kansas City Southern (\"KCS\") today combined to create Canadian Pacific Kansas City (TSX: CP) (NYSE: CP) (\"CPKC\"), as authorized by the U.S. Surface Transportation Board's (\"STB\") March 15, 2023 final decision, creating the first single-line railway ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606172+00:00",
+              "published_date": null,
+              "source_hash": "74cf8a5a115abde3e6da2fe4a18a174c"
+            },
+            {
+              "url": "",
+              "title": "CPKC - Canadian Pacific and Kansas City Southern Agree to Combine to ...",
+              "snippet": "Canadian Pacific Railway Limited (TSX: CP) (NYSE: CP) (\"CP\") and Kansas City Southern (NYSE: KSU) (\"KCS\") today announced they have entered into a merger agreement, under which CP has agreed to acquire KCS in a stock and cash transaction representing an enterprise value of approximately USD$29 billion 1 , which includes the assumption of $3.8 billion of outstanding KCS debt. The transaction ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:25.374571+00:00",
+              "published_date": null,
+              "source_hash": "d1f8a25a911e28d7a46f695ee84c4e23"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific and Kansas City Southern Become CPKC",
+              "snippet": "Canadian Pacific (CP) and Kansas City Southern (KCS) have officially combined to create Canadian Pacific Kansas City (CPKC). This move follows authorisation from the US Surface Transportation Board (STB) for the companies to create the first single-line railway connecting Canada, the US and Mexico.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:25.374585+00:00",
+              "published_date": null,
+              "source_hash": "2f6f8f536fa7fd7c6df9685ceeadcd53"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd | Reuters",
+              "snippet": "Canadian National Railway (CN) lowered its profit forecast for 2024, citing the impact of labor stoppages and wildfires in Alberta. Canadian National lowers 2024 profit forecast due to labor ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:25.374598+00:00",
+              "published_date": null,
+              "source_hash": "141fd2153edbebdbfdf84e3d94d3fabb"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd | Reuters",
+              "snippet": "Canadian Pacific Kansas City , formed in April when Canadian Pacific Railway merged with Kansas City Southern, has been sued by bondholders for failing to repay more than $1 billion after missing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:25.374613+00:00",
+              "published_date": null,
+              "source_hash": "6416804ede0dfe4af10e10f81385d428"
+            },
+            {
+              "url": "",
+              "title": "Decoding Canadian Pacific Kansas City Ltd (CP): A Strategic SWOT Insight",
+              "snippet": "On October 24, 2024, Canadian Pacific Kansas City Ltd filed its 10-Q report, revealing a financial landscape marked by growth and resilience. CP, a Class-1 railroad titan, has expanded its reach ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490477+00:00",
+              "published_date": null,
+              "source_hash": "3847d5b2271f8eb76c5c0f374e681b55"
+            },
+            {
+              "url": "",
+              "title": "Decoding Canadian Pacific Kansas City Ltd (TSX:CP): A Strategic SWOT ...",
+              "snippet": "On April 24, 2024, Canadian Pacific Kansas City Ltd released its 10-Q filing, revealing a company in the midst of a transformative phase post the Kansas City Southern merger. The financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490421+00:00",
+              "published_date": null,
+              "source_hash": "9d5e54b3d023f5377f6630d23872c150"
+            },
+            {
+              "url": "",
+              "title": "Decoding Canadian Pacific Kansas City Ltd (TSX:CP): A Strategic SWOT ...",
+              "snippet": "Canadian Pacific Kansas City Ltd , a leading Class-1 railroad operator, has released its 10-Q filing dated 2024-10-24, providing a comprehensive overview of its financial performance and strategic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:25.374652+00:00",
+              "published_date": null,
+              "source_hash": "ca468477ca3a2ab9b69e6523fe0bec5a"
+            },
+            {
+              "url": "",
+              "title": "Bernstein Issues a Hold Rating on Canadian Pacific Kansas City (CP)",
+              "snippet": "Bernstein analyst David Vernon assigned a Hold rating to Canadian Pacific Kansas City (CP - Research Report) today and set a price target of",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:36.157344+00:00",
+              "published_date": "2025-01-06T12:06:00+00:00",
+              "source_hash": "6f8f5070394ab135a27fcead0508ffa0"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd",
+              "snippet": "Canadian Pacific Kansas City Ltd is a leading freight railway company ... as well as offering intermodal transportation services for retail goods. Headquartered in Calgary, Canada, it plays ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:27.760414+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "7f4e6f9479a0347054e7159e4ea9805c"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Limited profitability improves on higher revenue",
+              "snippet": "Canadian Pacific Kansas City Limited (NYSE ... Of the C$3.5B in sales, the majority came from the transportation of energy, chemicals and plastics (+21%), followed by grain (+24%), intermodal ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:27.760432+00:00",
+              "published_date": "2024-07-30T21:25:00+00:00",
+              "source_hash": "a76f66b425319e9774ed2cceaf54d7de"
+            },
+            {
+              "url": "",
+              "title": "What's in Store for Canadian Pacific Kansas City in Q3 Earnings?",
+              "snippet": "Canadian Pacific Kansas City Limited CP is scheduled to report third-quarter 2024 results on Oct. 23, after market close. Find the latest EPS estimates and surprises on Zacks Earnings Calendar.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:27.760446+00:00",
+              "published_date": "2024-10-17T09:38:00+00:00",
+              "source_hash": "d544803c440183dc8f03bdde1fd49414"
+            },
+            {
+              "url": "",
+              "title": "Outlook for Canadian Pacific Kansas City Stock in 2025",
+              "snippet": "Canadian Pacific purchased Kansas City Southern in late 2021 in a US$31 ... there could be an impact on the volume of goods that get shipped along CPKC's routes. The company is also dealing ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "retrieved_at": "2025-01-06T18:22:27.760460+00:00",
+              "published_date": "2024-12-05T21:19:00+00:00",
+              "source_hash": "e5fae799032bee8975f87e1b804767c2"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific and Kansas City Southern combination approved ... - CPKC",
+              "snippet": "CP reviewing details of 212-page decision authorizing control of KCS on or after April 14. CALGARY, AB and KANSAS CITY, MO, March 15, 2023 /CNW/ - Canadian Pacific (TSX: CP) (NYSE: CP) (\"CP\") and Kansas City Southern (\"KCS\") said today the U.S. Surface Transportation Board (\"STB\") issued a decision approving the CP and KCS joint merger application, subject to certain conditions, thereby ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606208+00:00",
+              "published_date": null,
+              "source_hash": "0e96c04d4e2e042a008ceb3f43a18699"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific and Kansas City Southern officially merge",
+              "snippet": "Canadian Pacific Kansas City, or CPKC, marked its first day as the merged company of CP and KCS on Friday. ... Shareholders of CP and KCS approved the $31 billion merger in December 2021 after both companies filed their merger application with the Surface Transportation Board on Oct. 29, 2021. The board received nearly 2,000 comments from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606222+00:00",
+              "published_date": null,
+              "source_hash": "0df7fdbab3f07cabfeb1f3d38a4a07b8"
+            },
+            {
+              "url": "",
+              "title": "CPKC - Canadian Pacific and Kansas City Southern Execute Agreement to ...",
+              "snippet": "CALGARY, AB and KANSAS CITY, Mo, Sept. 15, 2021 /CNW/ - Canadian Pacific Railway Limited (TSX: CP) (NYSE: CP) (\"CP\") and Kansas City Southern (NYSE: KSU) (\"KCS\") today announced they have entered into a merger agreement, under which CP has agreed to acquire KCS in a stock and cash transaction representing an enterprise value of approximately ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606235+00:00",
+              "published_date": null,
+              "source_hash": "0803cdbfac77b315ea7773f5c607b017"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Railway and Kansas City Southern ... - Financial Post",
+              "snippet": "CP completed its US$31-billion acquisition of KCS in December 2021, but placed the KCS shares into a voting trust, which ensured the U.S. railway operated independently during a regulatory review. The U.S. Surface Transportation Board gave its final approval of the deal last month, clearing the way for the combination.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606246+00:00",
+              "published_date": null,
+              "source_hash": "2719781f5fa2d5990ac00dde3c1473e2"
+            },
+            {
+              "url": "",
+              "title": "CP Rail and KCS officially combine under Canadian Pacific Kansas City ...",
+              "snippet": "Stretching from Vancouver to Saint John, N.B., the 142-year-old Canadian Pacific network will now fasten on to KCS at their meeting point in Kansas City. The merged Canadian Pacific Kansas City ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606257+00:00",
+              "published_date": null,
+              "source_hash": "f633a7f97b798bae2c3649ebf4969387"
+            },
+            {
+              "url": "",
+              "title": "US regulator approves Canadian Pacific purchase of Kansas City Southern",
+              "snippet": "The Surface Transportation Board of the United States said on Wednesday it had approved Canadian Pacific's $31 billion acquisition of railroad company Kansas City Southern with a series of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606268+00:00",
+              "published_date": null,
+              "source_hash": "29292a68cbe05ba0e7bc3c1b1d4885d9"
+            },
+            {
+              "url": "",
+              "title": "CP Rail, Kansas City Southern merger clears path for more cargo, but ...",
+              "snippet": "MONTREAL \u2014 Under the banner of Canadian Pacific Kansas City, the merger of North America's two smallest Class 1 railways became official Friday morning as CEO Keith Creel drove home a platinum spike at a ceremony in Kansas City, Mo. Combining Canadian Pacific Railway Ltd. with Kansas City Southern Railway Co., the fusion creates the [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:29.606278+00:00",
+              "published_date": null,
+              "source_hash": "e97215408e12800168df77f5b1dc0f81"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd. stock rises Friday, still underperforms market",
+              "snippet": "Canadian Pacific Kansas City Ltd. closed C$16.58 short of its 52-week high of C$123.37, which the company reached on March 13th.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "retrieved_at": "2025-01-06T18:22:31.858917+00:00",
+              "published_date": "2025-01-03T21:31:00+00:00",
+              "source_hash": "d9edcc461bd45e86d127ca45b2339692"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd.",
+              "snippet": "The Price to Earnings (P/E) ratio, a key valuation measure, is calculated by dividing the stock's most recent closing price by the sum of the diluted earnings per share from continuing operations ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:36.157445+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "df96265bf7d10038aeb442ef26a23e0c"
+            },
+            {
+              "url": "",
+              "title": "CP Canadian Pacific Kansas City Limited",
+              "snippet": "View Canadian Pacific Kansas City Limited (CP) current and estimated P/E ratio data provided by Seeking Alpha.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:36.157500+00:00",
+              "published_date": "2024-12-31T16:00:00+00:00",
+              "source_hash": "48f0bf7f3fb72ac7f6a1bad73f24551c"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City (NYSE:CP) Lowered to \"Sell\" Rating by StockNews.com",
+              "snippet": "StockNews.com lowered shares of Canadian Pacific Kansas City (NYSE:CP - Free Report) (TSE:CP) from a hold rating to a sell rating in a report released on Wednesday. Other equities research analysts have also recently issued reports about the company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:36.157474+00:00",
+              "published_date": "2024-12-26T06:45:00+00:00",
+              "source_hash": "ed5e8613b6ad457b74b6a8cdf9c6b056"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd | Reuters",
+              "snippet": "The latest international Canadian Pacific Kansas City Ltd news and views from Reuters - one of the world's largest news agencies ... Unifor said on Monday it has initiated labor negotiations with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490387+00:00",
+              "published_date": null,
+              "source_hash": "a685a939504a5546c4d0b2a31c15f7e4"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd Reports Mixed Q4 Results Amidst Growth ...",
+              "snippet": "On January 30, 2024, Canadian Pacific Kansas City Ltd released its 8-K filing, detailing the financial results for the fourth quarter and full year of 2023. The company, a Class-1 railroad ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490499+00:00",
+              "published_date": null,
+              "source_hash": "9660a49f0f43c48c119e2f91f74096a7"
+            },
+            {
+              "url": "",
+              "title": "CPKC penalized for exceeding Canadian grain revenue limit",
+              "snippet": "OTTAWA, Ontario \u2014 Canadian Pacific Kansas City exceeded the allowed revenue for western grain movements by almost Ca$2 million during the 2023-24 crop year, and must pay the overage and a 5% penalty, the Canadian Transportation Agency has determined. In a Dec. 24 decision, the CTA determined that CPKC exceeded the Maximum Revenue Entitlement of $869.9 million by $1,824,083.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490522+00:00",
+              "published_date": null,
+              "source_hash": "6731fa4850b366aa01bac2aefca38af1"
+            },
+            {
+              "url": "",
+              "title": "Unifor files for conciliation in contract talks with Canadian Pacific ...",
+              "snippet": "The union that represents mechanics and labourers at Canadian Pacific Kansas City Ltd. CP-T has filed for conciliation in its contract talks with the railway company. Unifor - which represents ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490561+00:00",
+              "published_date": null,
+              "source_hash": "2914d8f3a8c89195e59b896e103bfb20"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific and Kansas City Southern combine to create CPKC",
+              "snippet": "CPKC becomes the first and only single-line railway connecting Canada, the U.S. and Mexico Canadian Pacific (\"CP\") and Kansas City Southern (\"KCS\") today combined to create Canadian Pacific Kansas City (TSX: CP) (NYSE: CP) (\"CPKC\"), as authorized by the U.S. Surface Transportation Board's (\"STB\") March 15, 2023 final decision, creating the first single-line railway connecting Canada, the U.S ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490591+00:00",
+              "published_date": null,
+              "source_hash": "db50327ed4e4bd57019537b09f4756e0"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City Ltd | Reuters",
+              "snippet": "A federal judge in Canada has ruled that Canadian Pacific Kansas City Ltd was in contempt of court for forcing train crews to work excessively long hours in violation of a court order, the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:33.490614+00:00",
+              "published_date": null,
+              "source_hash": "7ff86489d297c2f6ca0fd6c971c9a92f"
+            },
+            {
+              "url": "",
+              "title": "Canadian Pacific Kansas City exceeded grain revenue limit for 2023-24 crop year, transportation agency says",
+              "snippet": "The Canadian Transportation Agency says Canadian Pacific Kansas City Railway Co. CP-T exceeded its maximum grain revenue entitlements for the 2023 to 2024 crop year. The agency says CPKC's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Canadian Pacific Kansas City Ltd Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "retrieved_at": "2025-01-06T18:22:36.157522+00:00",
+              "published_date": "2024-12-24T00:00:00+00:00",
+              "source_hash": "7d022de467c65e4ef3bcce5e090e9c20"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Canadian Pacific Kansas City Ltd environmental impact of fossil fuel transportation",
+              "rationale": "Assess environmental risks associated with transporting fossil fuels and the company's sustainability initiatives",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Canadian Pacific Kansas City Ltd regulatory challenges post-KCS merger",
+              "rationale": "Investigate ongoing regulatory scrutiny and potential legal risks following the merger with Kansas City Southern",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Canadian Pacific Kansas City Ltd labor disputes and union negotiations",
+              "rationale": "Examine labor relations and potential impacts on operations and costs due to union negotiations or disputes",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:22:52.755329",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

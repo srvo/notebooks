@@ -1,0 +1,594 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:11:33.851807",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Nuscale Power Corp",
+      "symbol": "SMR",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Significant financial instability with a net loss of $45.5 million in Q3 2024 and a 28% workforce reduction",
+            "Project cancellations and delays, including the cancellation of the Carbon Free Power Project (CFPP)",
+            "Regulatory hurdles and potential cost overruns, with historical data showing 175 out of 180 nuclear projects globally exceeding budgets by an average of 117%",
+            "Public skepticism and safety concerns regarding nuclear energy and radioactive waste",
+            "Stiff competition from other SMR developers and alternative clean energy technologies"
+          ],
+          "controversies": [
+            "Cancellation of the flagship Carbon Free Power Project (CFPP)",
+            "Public skepticism and safety concerns related to nuclear energy",
+            "Reliance on government support and partnerships, which could be disrupted"
+          ],
+          "environmental_issues": [
+            "Generation of radioactive waste comparable to traditional nuclear plants"
+          ],
+          "social_issues": [
+            "Public skepticism and safety concerns regarding nuclear energy",
+            "Workforce reduction of 28% impacting employees"
+          ],
+          "governance_issues": [
+            "Financial instability and reliance on external funding and partnerships",
+            "Regulatory hurdles and potential delays in project execution"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Managing NuScale, other SMR waste will be 'roughly comparable' with ...",
+              "snippet": "Commercial nuclear power plants in the U.S. have produced more than 88,000 metric tons of spent nuclear fuel and intermediate and low-level radioactive waste, according to a Stanford study. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129019+00:00",
+              "published_date": null,
+              "source_hash": "e2231eefae1ab425d46a6a311aff91bf"
+            },
+            {
+              "url": "",
+              "title": "The collapse of NuScale's project should spell the end for small ...",
+              "snippet": "A 2014 academic study examined 180 nuclear power projects around the world and found 175 of them exceeded the initial budget by an average of 117% by the time they were completed. They also took ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129101+00:00",
+              "published_date": null,
+              "source_hash": "689f49ef98dae0e2b091c9da322e09fc"
+            },
+            {
+              "url": "",
+              "title": "Report claims 'serious problems' with proposed NuScale SMR",
+              "snippet": "NuScale is among several companies developing SMRs, with the intent of reigniting the country's nuclear power sector. The company touts its reactors as \"smarter, cleaner, safer and cost ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129114+00:00",
+              "published_date": null,
+              "source_hash": "26c4bcd86f93f71946a5a367274de532"
+            },
+            {
+              "url": "",
+              "title": "The Rise and Fall of NuScale: a nuclear cautionary tale - Yahoo News",
+              "snippet": "A decade ago, NuScale, the Oregon-based small modular nuclear company born at Oregon State University, was on a roll. Promising a new era of nuclear reactors that were cheaper, easier to build and safer, their Star Wars-inspired artist renditions of a yet to be built reactor gleamed like a magic bullet. As of last year, [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287172+00:00",
+              "published_date": null,
+              "source_hash": "f05e1962f9f79844f4a80a13c7b39595"
+            },
+            {
+              "url": "",
+              "title": "The Rise and Fall of Oregon's NuScale: a Nuclear Cautionary Tale",
+              "snippet": "A decade ago, NuScale, the Oregon-based small modular nuclear company born at Oregon State University, was on a roll. Promising a new era of nuclear reactors that were cheaper, easier to build and safer, their Star Wars-inspired artist renditions of a yet to be built reactor gleamed like a magic bullet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129133+00:00",
+              "published_date": null,
+              "source_hash": "fa0ed1b1c62941852a725a766e6a6e74"
+            },
+            {
+              "url": "",
+              "title": "Statement from EWG on NuScale decision to pull plug on SMR boondoggle ...",
+              "snippet": "WASHINGTON - On November 8, news broke that NuScale Power, the Utah Associated Municipal Power Systems, or UAMPS, and the U.S. Department of Energy have terminated their disastrous small modular reactor, or SMR, nuclear project. The boondoggle has wasted hundreds of millions in taxpayer money. \"It's about time the plug was pulled on this small modular reactor disaster,\" said ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129141+00:00",
+              "published_date": null,
+              "source_hash": "e93b52761ad66db59b0571e711a0fdd2"
+            },
+            {
+              "url": "",
+              "title": "Is advanced nuclear in trouble? What's next after NuScale cancellation ...",
+              "snippet": "\"The cancellation of the NuScale project proves what a terrible bet nuclear energy is for climate \u2014 one the [Department of Energy] continues to lose on,\" said Tim Judson, executive director ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129150+00:00",
+              "published_date": null,
+              "source_hash": "3e45efa2a4b60fbf154aaf9c706199c2"
+            },
+            {
+              "url": "",
+              "title": "Investors file lawsuit against NuScale after ... - Power Engineering",
+              "snippet": "Additionally, the suit says Standard Power did not have the financial ability to support its agreement with NuScale; and as a result, NuScale's positive statements about the company's business ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129158+00:00",
+              "published_date": null,
+              "source_hash": "1b4b05b2cbd41795710407071b6d74ae"
+            },
+            {
+              "url": "",
+              "title": "Where Will NuScale Power Be in 5 Years? | The Motley Fool",
+              "snippet": "NuScale Power has a long-term plan to build small-scale modular nuclear reactors. The company has strong backers in Fluor and Nucor. NuScale Power management said the company could be ready to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129164+00:00",
+              "published_date": null,
+              "source_hash": "38f65943906084ce74a9c64fd805cddd"
+            },
+            {
+              "url": "",
+              "title": "[UPDATED] Researchers Say SMRs Will Produce More Waste ... - POWER Magazine",
+              "snippet": "SMRs are generally classified as nuclear reactors with a maximum electrical output of 300 MW or less. Many companies, including NuScale Power, GE-Hitachi, Terrestrial Energy, TerraPower, Toshiba ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:10:59.129171+00:00",
+              "published_date": null,
+              "source_hash": "9e71de9306b1b76a7780a0948778ca6e"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Announces Appointment of Diana J. Walters to Board of Directors",
+              "snippet": "NuScale Power Corporation (NuScale or the Company) (NYSE: SMR), the industry-leading provider of proprietary and innovative advanced small modular reactor (SMR) nuclear technology, today (Dec 26, 20.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:11:02.512204+00:00",
+              "published_date": "2025-01-06T13:55:00+00:00",
+              "source_hash": "4732ed01e7b2ba10e15abc8f0308818b"
+            },
+            {
+              "url": "",
+              "title": "Why NuScale Power (NYSE:SMR) Skyrocketed on Friday",
+              "snippet": "We recently published a list of 11 Firms Under Tech, Energy, Aviation Lead Friday Rally. In this article, we are going to take a look at where NuScale Power Corporation (NYSE:SMR) stands against other firms under tech,",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:11:02.512253+00:00",
+              "published_date": "2025-01-04T13:38:07+00:00",
+              "source_hash": "8c6ef463cb4613394453f6da61011643"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Corporation (SMR)",
+              "snippet": "Then came a regulatory wrist slap that briefly stopped the nuclear energy stock rally in its tracks. CORVALLIS, Ore., November 07, 2024--NuScale Power Corporation (NYSE: SMR) today announced ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:11:02.512266+00:00",
+              "published_date": "2025-01-04T00:00:00+00:00",
+              "source_hash": "22afd493718195fc81ef19db4363f254"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Corporation (SMR): A Firm Mirror Broader Market Downturn Ahead of 2025",
+              "snippet": "We recently compiled a list of the 10 Firms Mirror Broader Market Downturn Ahead of 2025. In this article, we are going to take a look at where NuScale Power Corporation (NYSE:SMR) stands against the other firms that mirror broader market downturn ahead of 2025.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:12.742550+00:00",
+              "published_date": "2024-12-31T12:43:54+00:00",
+              "source_hash": "0339d64c3e31e35a596274997fe20b77"
+            },
+            {
+              "url": "",
+              "title": "Oklo, NuScale Power, Nano Nuclear Energy Gain After U.S. Hydrogen Tax-Credit Revision",
+              "snippet": "Shares of Oklo, NuScale Power and Nano Nuclear Energy rose Friday after the Treasury Department and Internal Revenue Service revised rules for hydrogen production tax credits. The three companies all are working on small modular nuclear reactors. Oklo was up 25%, to $27.25, while NuScale gained 17%, to $20.69. Nano rose 13%, to $26.97.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp nuclear waste management concerns",
+              "retrieved_at": "2025-01-06T14:11:02.512284+00:00",
+              "published_date": "2025-01-03T19:35:00+00:00",
+              "source_hash": "e696bf1d56722813835c774fba0a86dc"
+            },
+            {
+              "url": "",
+              "title": "Is advanced nuclear in trouble? What's next after NuScale cancellation ...",
+              "snippet": "But the announcement that NuScale \u2014 the only U.S. developer with a small modular reactor (SMR) design approved by the Nuclear Regulatory Commission \u2014 is scrapping its Carbon Free Power Project ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.151900+00:00",
+              "published_date": null,
+              "source_hash": "5ea1bd414858ddaf29d4b2ad770a6f08"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Corp (SMR) Q3 2024 Earnings Call Highlights: Navigating ...",
+              "snippet": "NuScale reported a significant net loss of $45.5 million for Q3 2024, indicating ongoing financial challenges. Revenue for the quarter was only $0.5 million, a decrease from $7 million in the same ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152013+00:00",
+              "published_date": null,
+              "source_hash": "23ec7ee41c349b290911384e735bd103"
+            },
+            {
+              "url": "",
+              "title": "Where Will NuScale Power Be in 5 Years? | The Motley Fool",
+              "snippet": "NuScale Power is actually pretty far along in the approval process, and management likes to tell investors, \"We are the sole SMR technology approved by the U.S. Nuclear Regulatory Commission.\" In ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152028+00:00",
+              "published_date": null,
+              "source_hash": "ead92f9853ef14377e1bf185f97ee635"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "4 Investment Thesis 1 New Energy Outlook Report published by the International Energy Agency (May 2021) 2 Coping period is defined as time available from loss of all AC power to the safety bus until onset of core damage if no counter measures",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152038+00:00",
+              "published_date": null,
+              "source_hash": "dc557ee43c449c9468cdaec0d0e43267"
+            },
+            {
+              "url": "",
+              "title": "Where Will NuScale Power Be in 5 Years? - Nasdaq",
+              "snippet": "Cost overruns and delays have hurt NuScale. NuScale has had a bumpy ride so far. Last November, the Utah Associated Municipal Power System (UAMPS) terminated its 2015 agreement with the company to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152049+00:00",
+              "published_date": null,
+              "source_hash": "65b524ee373b2e61b2af918626a558a3"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Comments on Inaccurate Short-Seller Report",
+              "snippet": "PORTLAND, Ore. - NuScale Power Corporation (NuScale or the Company) (NYSE: SMR) today issued the following statement in response to a misleading short-seller report on October 19, 2023 (the Report). ... While the CFPP being developed by Utah Associated Municipal Power Systems has its own project challenges not attributable to NuScale's SMR ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152058+00:00",
+              "published_date": null,
+              "source_hash": "5f985be7ff1deb0732780daf8463bb12"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Corp (SMR) Q2 2024 Earnings Call Highlights: Navigating ...",
+              "snippet": "Cash and Equivalents: $136 million at the end of Q2 2024, with $5.1 million restricted, and no debt. Revenue: $1 million for Q2 2024, compared to $5.8 million in Q2 2023. Net Loss: $74.4 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152069+00:00",
+              "published_date": null,
+              "source_hash": "a2ea1658846b6a4f3134f5f310fa24db"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Comments on Short-Seller Report",
+              "snippet": "The company's groundbreaking SMR technology is powered by the NuScale Power Module\u2122, a small, safe, pressurized water reactor that can each generate 77 megawatts of electricity (MWe) or 250 megawatts thermal (gross), and can be scaled to meet customer needs through an array of flexible configurations up to 924 MWe (12 modules) of output.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152077+00:00",
+              "published_date": null,
+              "source_hash": "9cbd5bf5effbc9320c020dcd24eed69c"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Reports First Quarter 2024 Results",
+              "snippet": "The company's groundbreaking SMR technology is powered by the NuScale Power Module\u2122, a small, safe, pressurized water reactor that can each generate 77 megawatts of electricity (MWe) or 250 megawatts thermal (gross), and can be scaled to meet customer needs through an array of flexible configurations up to 924 MWe (12 modules) of output.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152088+00:00",
+              "published_date": null,
+              "source_hash": "37bd0a47bfb47e6c25ecb0ced2edab07"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power to Hold Third Quarter 2024 Earnings Conference Call",
+              "snippet": "CORVALLIS, Ore., October 07, 2024--NuScale Power will host a conference call to review third quarter 2024 results on Thursday, November 7, 2024, at 5:00 p.m. ET.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:04.152098+00:00",
+              "published_date": null,
+              "source_hash": "0dd076ff6fe8d091ed0bac68ab574421"
+            },
+            {
+              "url": "",
+              "title": "Why NuScale Power Stock Slumped Today",
+              "snippet": "NuScale Power Corporation (NYSE ... is \"the first and only SMR to have its design certified by the U.S. Nuclear Regulatory Commission.\" But leaders aren't necessarily winners, and as CNBC reports ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:06.583539+00:00",
+              "published_date": "2024-12-02T17:45:00+00:00",
+              "source_hash": "6689afe33e589797b2dffc3a33fe7722"
+            },
+            {
+              "url": "",
+              "title": "Nuscale Power Corp",
+              "snippet": "NuScale Power to lay off 28% of its workforce to save costs The CEO of NuScale Power Corp defended its small ... change goals but face technical, regulatory and economic hurdles, a report by ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:06.583644+00:00",
+              "published_date": "2024-07-10T00:00:00+00:00",
+              "source_hash": "7c21751ce078eddbb80f57487ac7bfd2"
+            },
+            {
+              "url": "",
+              "title": "Move Over, NuScale Power: This Little-Known Energy Stock Could Be a Better Buy in 2025",
+              "snippet": "Its Bloom Energy server, a solid-oxide fuel cell power ... and NuScale has some hurdles to clear before commercializing its product. For one, it still needs regulatory approval. The company ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:06.583674+00:00",
+              "published_date": "2024-12-23T04:13:00+00:00",
+              "source_hash": "d8b142a1f7ad8652d3b30c1e7a3ebe4d"
+            },
+            {
+              "url": "",
+              "title": "Where Will NuScale Power Stock Be in 10 Years?",
+              "snippet": "NuScale Power (NYSE: SMR) has been a divisive stock ever since it went public by merging with a special purpose acquisition company in May ... from the U.S. Nuclear Regulatory Commission (NRC).",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:06.583699+00:00",
+              "published_date": "2024-12-27T05:45:00+00:00",
+              "source_hash": "9870cb70e2904d8fc72e4d625b63eee2"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Corporation Announces Completion of Redemption of Warrants",
+              "snippet": "NuScale announced the results of its redemption of all outstanding warrants to purchase shares of the Company's common stock.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp regulatory delays and legal challenges",
+              "retrieved_at": "2025-01-06T14:11:06.583721+00:00",
+              "published_date": "2024-12-27T01:16:00+00:00",
+              "source_hash": "519d7e7e10e8155c228559e2476237fb"
+            },
+            {
+              "url": "",
+              "title": "NuScale and its Utah partner cancel their first-of-a-kind nuclear ...",
+              "snippet": "A project to build a first-of-a-kind small modular nuclear reactor power plant was terminated Wednesday, another blow to the Biden administration's clean energy agenda following cancellations last week of two major offshore wind projects. Oregon-based NuScale Power has the only small modular nuclear reactor design certified for use in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287214+00:00",
+              "published_date": null,
+              "source_hash": "ea88a6a4f7d0e25217148c3f493a5bcd"
+            },
+            {
+              "url": "",
+              "title": "The Rise and Fall of NuScale: a nuclear cautionary tale - Yahoo",
+              "snippet": "A decade ago, NuScale, the Oregon-based small modular nuclear company born at Oregon State University, was on a roll. Promising a new era of nuclear reactors that were cheaper, easier to build and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287223+00:00",
+              "published_date": null,
+              "source_hash": "54817a0bdc0bb451744b00bed4871335"
+            },
+            {
+              "url": "",
+              "title": "UPDATE 1-NuScale CEO defends modular nuclear plants after project ...",
+              "snippet": "The CEO of NuScale Power Corp defended its small modular nuclear reactor business on Tuesday, saying work continues in the U.S. and two other countries after the company canceled its first plant ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287230+00:00",
+              "published_date": null,
+              "source_hash": "c5c5f638c2b5fb7c2d10fda39ab5a1e9"
+            },
+            {
+              "url": "",
+              "title": "First-of-a-kind nuclear project is terminated in a blow to ... - Yahoo",
+              "snippet": "A project to build a first-of-a-kind small modular nuclear reactor power plant was terminated Wednesday, another blow to the Biden administration's clean energy agenda following cancellations last ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287236+00:00",
+              "published_date": null,
+              "source_hash": "2ae024dcb268bc7e00fdcdfb35f1e00e"
+            },
+            {
+              "url": "",
+              "title": "Small Nuclear Reactor Contract Fails, Signaling Larger Issues with ...",
+              "snippet": "NuScale Power Cooperation, the first company in the United States to secure approval for the design of a small modular nuclear reactor (SMR), ended its contract with the Utah Associated Municipal Power Systems (UAMPS) on Wednesday. The companies cited rising costs as the reason for terminating the contract.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287241+00:00",
+              "published_date": null,
+              "source_hash": "78f6992cb4a09a7da340b34e81365e80"
+            },
+            {
+              "url": "",
+              "title": "First US Small Nuke Project Canceled After Costs Surge 53% (1)",
+              "snippet": "NuScale Power Corp., the first company with US approval for a small nuclear reactor design, is canceling plans to build a power plant for a Utah provider as costs surge. The move is a major setback to the burgeoning technology that has been heralded as the next era for atomic energy. The company and Utah Associated Municipal Power Systems agreed to cancel the Carbon Free Power Project ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287247+00:00",
+              "published_date": null,
+              "source_hash": "f8720f1758ada5941ffdc92e4e2cfab0"
+            },
+            {
+              "url": "",
+              "title": "Mass Layoffs At Pioneering Nuclear Startup | HuffPost Impact",
+              "snippet": "Until November, NuScale appeared on track to debut the nation's first atomic energy station powered with small modular reactors. But the project to build a dozen reactors in the Idaho desert, and sell the electricity to ratepayers across the Western U.S. through a Utah state-owned utility, was abandoned as rising interest rates made it harder for NuScale to woo investors willing to bet on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287253+00:00",
+              "published_date": null,
+              "source_hash": "8bfcda70cd9e7a7b8b5fb9a8271fc4ce"
+            },
+            {
+              "url": "",
+              "title": "First US Small Nuke Project Canceled After Costs Surge 53%",
+              "snippet": "The company and Utah Associated Municipal Power Systems agreed to cancel the Carbon Free Power Project, according to a statement Wednesday. NuScale shares slumped as much as 42%, the biggest intraday decline since the Portland, Oregon-based firm went public through a 2022 merger with a blank-check company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287258+00:00",
+              "published_date": null,
+              "source_hash": "d059d0e9ea1b5e21bb26047e9361f3f2"
+            },
+            {
+              "url": "",
+              "title": "NuScale Power Positions Company for Next Phase of Growth",
+              "snippet": "Steps Will Reduce Cost Base, Refocus Company Resources on Key Strategic Areas. PORTLAND, Ore. - NuScale Power Corporation (NuScale or the Company) (NYSE: SMR), the industry-leading provider of proprietary and innovative advanced small modular reactor (SMR) nuclear technology, announced certain strategic actions to better position itself commercially, financially, and strategically.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:09.287264+00:00",
+              "published_date": null,
+              "source_hash": "37a7fdb85dffe9138eba04127bf79d7a"
+            },
+            {
+              "url": "",
+              "title": "Move Over, NuScale Power: This Little-Known Energy Stock Could Be a Better Buy in 2025",
+              "snippet": "Last year, NuScale scored a big win when it agreed with Standard Power to develop two facilities in Ohio and Pennsylvania powered by its SMR technology. NuScale plans to offer 24 units of 77 MWe modules, which will produce 1,848 MWe of energy from both sites. However, these facilities likely won't be operational until 2029 at the earliest.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:12.742522+00:00",
+              "published_date": "2024-12-23T09:14:00+00:00",
+              "source_hash": "18210d25ddef9dec0c44e7481c266447"
+            },
+            {
+              "url": "",
+              "title": "Nuscale Stock In Focus As Ceo Bets On Nuclear Growth With Trump's Election Boosting Sector Outlook Despite Q3 Losses",
+              "snippet": "Shares of NuScale Power Corp ... around nuclear energy stocks on Stocktwits as well. However, Trump's support for nuclear energy might run into complications with his well-known opposition ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:12.742557+00:00",
+              "published_date": "2024-11-08T13:59:00+00:00",
+              "source_hash": "069b2bf84374f772f712d4dfc8932b2f"
+            },
+            {
+              "url": "",
+              "title": "How NuScale Power Became The Poster Child For Nuclear Energy",
+              "snippet": "While Oklo and Nano Nuclear are developing their versions of SMRs, NuScale Power is the only publicly listed company to have both regulatory approval and commercial readiness for its SMR.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:12.742566+00:00",
+              "published_date": "2024-12-16T18:14:00+00:00",
+              "source_hash": "8ce50f805dbce99c6e7797b9889611ab"
+            },
+            {
+              "url": "",
+              "title": "Why NuScale Power Stock Slumped Today",
+              "snippet": "NuScale and GE Vernova both aim to develop small modular reactors, but \"small\" is a relative term. If a standard nuclear power plant produces 1,000 megawatts ... Analysts don't expect the company to turn profitable before 2030 at the earliest.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nuscale Power Corp Nuscale Power Corp public opposition to nuclear projects",
+              "retrieved_at": "2025-01-06T14:11:12.742571+00:00",
+              "published_date": "2024-12-02T12:34:00+00:00",
+              "source_hash": "0e85fbecc1cd709916ebecf5030454b4"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Nuscale Power Corp nuclear waste management concerns",
+              "rationale": "Investigate public and regulatory concerns about nuclear waste handling and disposal",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Nuscale Power Corp regulatory delays and legal challenges",
+              "rationale": "Examine potential delays in regulatory approvals and any ongoing legal disputes",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Nuscale Power Corp public opposition to nuclear projects",
+              "rationale": "Assess community and activist resistance to SMR deployments and nuclear energy",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:11:33.851817",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

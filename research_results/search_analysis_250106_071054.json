@@ -1,0 +1,536 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:10:54.954059",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "United States Cellular Corp",
+      "symbol": "USM",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Competitive pressures from larger telecom players like Verizon, AT&T, and T-Mobile",
+            "Regulatory challenges, including spectrum allocation and net neutrality rules",
+            "Inconsistent financial performance with a 6.31% revenue decline in 2023",
+            "Limited nationwide network coverage compared to competitors",
+            "Potential financial liabilities from a class-action lawsuit regarding false statements"
+          ],
+          "controversies": [
+            "Class-action lawsuit alleging false statements about a promotion to reduce customer churn"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "T-Mobile and UScellular, GN Docket No. 24-286",
+              "snippet": "T-Mobile US, Inc. (T-Mobile) and United States Cellular Corporation (UScellular) have announced an agreement for the transfer to T-Mobile of UScellular's wireless operations, customers, and certain spectrum licenses and spectrum leases. According to the parties, UScellular is retaining approximately 70% of its spectrum holdings and all of its approximately 4,400 towers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710821+00:00",
+              "published_date": null,
+              "source_hash": "499c1506e9b2a6939ea94b663e856b00"
+            },
+            {
+              "url": "",
+              "title": " Supreme Court of the United States - Federal Communications Commission",
+              "snippet": "United States Cellular Corporation . Unitel, Inc. Vermont Public Service Board . The Voice on the Net Coalition, Inc. War Telephone LLC . West Carolina Rural Telephone Cooperative, Inc. ... National Association of Regulatory Utility Comm'rs v. FCC, 525 F.2d 630 (D.C. Cir),",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830394+00:00",
+              "published_date": null,
+              "source_hash": "24568714c657e3d4172b2748b22022c6"
+            },
+            {
+              "url": "",
+              "title": "The Competitive Effects of the Proposed T-Mobile/UScellular Transaction ...",
+              "snippet": "The proposed transaction between T-Mobile US Inc. (T-Mobile) and United States Cellular Corporation (UScellular) does not appear to present any significant competitive harms and carries the potential of significant consumer benefits via increased competition among wireless providers. ... that has faced challenges due to its lack of scale and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830399+00:00",
+              "published_date": null,
+              "source_hash": "b05c1bf98dc57d8d980f5a009e6bf677"
+            },
+            {
+              "url": "",
+              "title": " The Competitive Effects of the Proposed T-Mobile/US cellular Merger",
+              "snippet": "tions Commission (FCC) and U.S. Justice Department (DOJ), who will assess its potential impact on competition in the wireless market. While there has been little public opposition to the merger, a July 2024 letter to the DOJ and FCC from several U.S. senators urged the regulators to scrutinize the acquisition in light of previous wireless mergers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830404+00:00",
+              "published_date": null,
+              "source_hash": "b6a74453c2ad8c1599ebebc6087f8f1b"
+            },
+            {
+              "url": "",
+              "title": "T-Mobile Calls on Big Law for $2.4 Billion US Cellular Purchase",
+              "snippet": "Sidley Austin is advising US Cellular and Cravath, Swaine & Moore will guide the company's independent directors. Clifford Chance and Washington, D.C.-founded Wilkinson Barker Knauer will counsel the firm on regulatory matters. The deal will include US Cellular's wireless customers and its retail stores. T-Mobile, advised by Cleary Gottlieb ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830408+00:00",
+              "published_date": null,
+              "source_hash": "9c05fbd9c572c185bd98690d3851dbec"
+            },
+            {
+              "url": "",
+              "title": "GN Docket No. 24-286 Opening PN - Federal Communications Commission",
+              "snippet": "By this Public Notice, the FCC establishes GN Docket No. 24-286, ... this Public Notice, the FCC establishes GN Docket No. 24-286, which is captioned \"Applications of T-Mobile US, Inc. and United States Cellular Corporation For Consent To Transfer Control of Licenses and Authorizations.\" DA/FCC #: DA-24-925. Docket No: 24-286. Files. Primary ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830412+00:00",
+              "published_date": null,
+              "source_hash": "1daa4eebdb810123e48da80ae7c92f49"
+            },
+            {
+              "url": "",
+              "title": "Challenges in U.S. Cellular's Core Business Offset Value in Underlying ...",
+              "snippet": "United States Cellular Corp. USM: XNYS (USA) ... $52.00: None: Poor: Challenges in U.S. Cellular's Core Business Offset Value in Underlying Assets and New Opportunities ... or FCC, distributed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830415+00:00",
+              "published_date": null,
+              "source_hash": "6746995e075e102e73570a7365dc3c88"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corporation - Federal Communications Commission",
+              "snippet": "About the FCC About the FCC . ... Notified United States Cellular Corporation of its Apparent Liability for Forfeiture in the amount of $500,000 for violation of the E911 handset requirements. DA/FCC #: FCC-07-157. FCC Record Citation: 22 FCC Rcd 16424 (21) Files.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830418+00:00",
+              "published_date": null,
+              "source_hash": "a3e1a0dbca12028db729b5441bc4a10c"
+            },
+            {
+              "url": "",
+              "title": " Supreme Court of the United States",
+              "snippet": "The Kansas State Corporation Commission CenturyLink, Inc. Gila River Indian Community Gila River Telecommunications, Inc. Allband Communications Cooperative North County Communications Corporation United States Cellular Corporation PR Wireless, Inc. Docomo Pacific, Inc. Nex-Tech Wireless, LLC Penasco Valley Telephone Cooperative, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830422+00:00",
+              "published_date": null,
+              "source_hash": "13db3a6b2c25f97591527749386d1e64"
+            },
+            {
+              "url": "",
+              "title": "U.S. Cellular Earnings: Another Tough Quarter, but ... - Morningstar",
+              "snippet": "United States Cellular Corp (USM) U.S. Cellular's USM business continued deteriorating in the second quarter, but the stock skyrocketed after the firm announced it was exploring strategic ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:24.830425+00:00",
+              "published_date": null,
+              "source_hash": "fd5d2b4e65d88d91a18d5e3460fdb701"
+            },
+            {
+              "url": "",
+              "title": "Is United States Cellular Corp. (USM) the Best Telecom Stock to Invest In Now?",
+              "snippet": "In this article, we are going to take a look at where United States Cellular Corp. (NYSE ... However, higher frequencies present challenges like atmospheric absorption and interference.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:28.424043+00:00",
+              "published_date": "2024-12-14T00:05:00+00:00",
+              "source_hash": "7c65c2b68aec3db81b8450bcce4266ee"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corporation (USM)",
+              "snippet": "In this article, we are going to take a look at where United States Cellular Corp. (NYSE ... over $1 billion from spectrum sales, despite challenges in service revenue and competitive pressures.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:28.424546+00:00",
+              "published_date": "2024-12-31T21:00:00+00:00",
+              "source_hash": "b65ef22bae7242a65df64579c1018b97"
+            },
+            {
+              "url": "",
+              "title": "Can United States Cellular Ride Higher on Its Spectrum Strategy?",
+              "snippet": "United States Cellular Corporation (NYSE: USM) has seen its share price rise substantially in 2024, up nearly 53%. However, it hasn't been doing so by massively increasing the number of people ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:38.325511+00:00",
+              "published_date": "2024-11-14T12:15:00+00:00",
+              "source_hash": "a118932b4ef8b7e030da88857400d44e"
+            },
+            {
+              "url": "",
+              "title": "Can United States Cellular Ride Higher on Its Spectrum Strategy?",
+              "snippet": "United States Cellular Corporation (NYSE ... The deal is expected to close in mid-2025, pending regulatory approval. Because spectrum is a finite resource and businesses demand it for various ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:28.424586+00:00",
+              "published_date": "2024-11-16T17:40:00+00:00",
+              "source_hash": "a33a77c5d2cc8592373abfde257fc757"
+            },
+            {
+              "url": "",
+              "title": "Barclays PLC Has $1.35 Million Holdings in United States Cellular Co. (NYSE:USM)",
+              "snippet": "United States Cellular Corporation provides wireless telecommunications services in the United States. The company offers wireless services, including voice, messaging, and data services.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp regulatory challenges FCC",
+              "retrieved_at": "2025-01-06T14:10:28.424595+00:00",
+              "published_date": "2024-12-28T23:59:00+00:00",
+              "source_hash": "8e7d0e316acbbef688b582fa38c8d293"
+            },
+            {
+              "url": "",
+              "title": "UScellular - Financials - Annual Reports & Proxy",
+              "snippet": "At U.S. Cellular, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672377+00:00",
+              "published_date": null,
+              "source_hash": "fb472767e185b5246528fd359fb2356e"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular (USM) Financials - Stock Analysis",
+              "snippet": "Detailed annual and quarterly income statement for United States Cellular (USM). See many years of revenue, expenses and profits or losses. ... Stock Analysis Pro. Watchlist. Collapse. United States Cellular Corporation (USM) NYSE: USM \u00b7 Real-Time Price \u00b7 USD. Watchlist Compare. 62.66-.68 (-1.07%) Jan 3, 2025, 4:00 PM EST - Market closed.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672442+00:00",
+              "published_date": null,
+              "source_hash": "33758e04242212017549f0d094ec400f"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corporation (USM) - Stock Analysis",
+              "snippet": "Get a real-time United States Cellular Corporation (USM) stock price quote with breaking news, financials, statistics, charts and more. ... Stock Analysis Pro. Watchlist. Collapse. United States Cellular Corporation (USM) ... Financial Performance. In 2023, United States Cellular's revenue was $3.91 billion, a decrease of -6.31% compared to the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672457+00:00",
+              "published_date": null,
+              "source_hash": "6d364cac815f70c89b016df220e19af9"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corporation (USM) - Yahoo Finance",
+              "snippet": "Get the detailed quarterly/annual income statement for United States Cellular Corporation (USM). Find out the revenue, expenses and profit or loss over the last fiscal year.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672467+00:00",
+              "published_date": null,
+              "source_hash": "706a2e8b1625eeda6de4efa63b5f2380"
+            },
+            {
+              "url": "",
+              "title": "UScellular reports fourth quarter and full year 2022 results",
+              "snippet": "As previously announced, UScellular will hold a teleconference on February 17, 2023 at 9:00 a.m. CST. Listen to the call live via the Events Presentations page of investors.uscellular.com. United States Cellular Corporation (NYSE:USM) reported total operating revenues of $1,048 million for the fourth quarter of 2022, versus $1,068 million for the same period one year ago. Net income (loss ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672476+00:00",
+              "published_date": null,
+              "source_hash": "980fd8bb5de1a71cdb50834316286514"
+            },
+            {
+              "url": "",
+              "title": "UScellular reports third quarter 2024 results - Yahoo Finance",
+              "snippet": "United States Cellular Corporation provides a comprehensive range of wireless products and services, excellent customer support, and a high-quality network to customers with 4.5 million retail ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672484+00:00",
+              "published_date": null,
+              "source_hash": "2c7ae4c3e428be3d0e9dc8162b223788"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corp (USM) 10K Annual Reports & 10Q SEC Filings",
+              "snippet": "Inside United States Cellular Corp's 10-K Annual Report: Revenue - Product Highlight. Advances or changes in technology could render certain technologies used by UScellular obsolete, could put UScellular at a competitive disadvantage, could reduce UScellular's revenues or could increase its costs of doing business. Revenue - Product Highlight",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672493+00:00",
+              "published_date": null,
+              "source_hash": "e56a4a6329bfe15323386b13f60b9856"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corp (USM) Reports Mixed 2023 Results and ...",
+              "snippet": "On February 16, 2024, United States Cellular Corp released its 8-K filing, detailing its financial performance for the fourth quarter and full year of 2023, and providing guidance for the upcoming ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672501+00:00",
+              "published_date": null,
+              "source_hash": "3fd44cf775740cbe78d053667f85e8b3"
+            },
+            {
+              "url": "",
+              "title": "UScellular reports third quarter 2024 results | Morningstar",
+              "snippet": "United States Cellular Corporation. Financial Measures (Unaudited) Free Cash Flow. Three Months Ended. September 30, Nine Months Ended. September 30, UScellular. 2024. 2023. 2024. 2023 (Dollars in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672508+00:00",
+              "published_date": null,
+              "source_hash": "df19793339c2391816af0568af620f18"
+            },
+            {
+              "url": "",
+              "title": "2024-11-01 | UScellular reports third quarter 2024 results - Stockhouse",
+              "snippet": "United States Cellular Corporation provides a comprehensive range of wireless products and services, excellent customer support, and a high-quality network to customers with 4.5 million retail connections in 21 states. The Chicago-based company had 4,200 full- and part-time associates as of September 30, 2024. At the end of the third quarter of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:30.672515+00:00",
+              "published_date": null,
+              "source_hash": "01b0b1a17afb5455bcce4bbb9fbc83aa"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corp",
+              "snippet": "We also respect individual opinions--they represent the unvarnished thinking of our people and exacting analysis of our research processes. Our authors can publish views that we may or may not ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:33.170757+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "9c4d1e2a122cdad8a2bbd6b636e5bb54"
+            },
+            {
+              "url": "",
+              "title": "Is United States Cellular Corp. (USM) the Best Telecom Stock to Invest In Now?",
+              "snippet": "Furthermore, United States Cellular Corp. (NYSE:USM) demonstrates strong wireless performance with improved subscriber metrics, such as a 20,000 year-over-year reduction in retail net losses ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:33.170841+00:00",
+              "published_date": "2024-12-14T00:05:00+00:00",
+              "source_hash": "9e5e29f1d3e13ac50178aae1f5af1298"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corporation (USM)",
+              "snippet": "In this article, we are going to take a look at where United States Cellular Corp. (NYSE ... USM ) Third Quarter 2024 Results Key Financial Results Revenue: US$922.0m (down 4.3% from...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:33.170859+00:00",
+              "published_date": "2024-12-31T21:00:00+00:00",
+              "source_hash": "2288c7bb35d7665b6d405baba3fd906e"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular Corporation Common Stock (USM) SEC Filings",
+              "snippet": "There are no SEC filings that match your filter(s), please update your selections to return more records. Nasdaq provides company's SEC filings, which are financial statements and reports filed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:33.170872+00:00",
+              "published_date": "2017-04-28T01:38:00+00:00",
+              "source_hash": "3bf325a66b5cd6c2b5bea518711e8331"
+            },
+            {
+              "url": "",
+              "title": "United States Cellular (NYSE:USM) Stock, Insider Trading Activity",
+              "snippet": "Insiders' buy and sell transactions provide valuable insights into their confidence in the company's future performance. Insider trading is legal so long as the insiders report those trades to the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "United States Cellular Corp United States Cellular Corp financial performance analysis",
+              "retrieved_at": "2025-01-06T14:10:33.170885+00:00",
+              "published_date": "2024-10-21T12:19:00+00:00",
+              "source_hash": "1adb1924170d5ce2b8999ff0f9e297b4"
+            },
+            {
+              "url": "",
+              "title": "UScellular Must Face Class Suit Over Voluntary Churn Statements",
+              "snippet": "United States Cellular Corp., two of its officers, and its majority owner, Telephone and Data Systems Inc., failed to convince a federal court to dismiss a class action alleging that they made false statements about a promotion to combat voluntary churn of its products. Howard M. Rensin sufficiently pleaded that the officers said that they were satisfied with the 2022 promotion, even though ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710107+00:00",
+              "published_date": null,
+              "source_hash": "96884dca48aefd5c14a56f8b79f4d084"
+            },
+            {
+              "url": "",
+              "title": "U.S. Cellular - Complaints Department",
+              "snippet": "U.S. Cellular on Twitter. @ckstuckey Your service is essential to us. ... U.S. Cellular. United States Cellular Corporation, doing business as U.S. Cellular, is a regional carrier which owns and operates the fifth-largest wireless telecommunications network in the United States, serving 4.9 million customers in 426 markets in 23 U.S. states as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710797+00:00",
+              "published_date": null,
+              "source_hash": "801b33cf623b031842c325cda7574bb3"
+            },
+            {
+              "url": "",
+              "title": "Rensin v. United States Cellular Corp. - Casetext",
+              "snippet": "United States Cellular Corp., 1:23-cv-02764-MMR, see flags on bad law, and search Casetext's comprehensive legal database ... Approximately 90 percent of UScellular's individual lines of service are postpaid. Id. \u00b6\u00b6 45-46. Postpaid services are those for which a customer is billed in monthly installments, typically a month in advance ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710808+00:00",
+              "published_date": null,
+              "source_hash": "7f1c97511dd52b8ac81086b33a5a566f"
+            },
+            {
+              "url": "",
+              "title": "UScellular, Execs Misled Investors on Profitability, Suit Says",
+              "snippet": "United States Cellular Corp. and some of its executives falsely touted the company's ability to counteract a decline in customers, an investment fund's trustee alleges in a proposed class securities suit. The common stock of UScellular's parent company, Telephone and Data Systems Inc., lost more than a quarter of its value when the poor financial results were disclosed, Howard Rensin ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710813+00:00",
+              "published_date": null,
+              "source_hash": "f4454d91373733593bc0353e76c70fbb"
+            },
+            {
+              "url": "",
+              "title": "State of Iowa v. United States Cellular Corp. - Casetext",
+              "snippet": "ROBERT W. PRATT, UNITED STATES DISTRICT JUDGE . This matter comes before the Court on a Motion to Dismiss, Transfer, or Stay filed by Defendant, United States Cellular Corportation (\"US Cellular\")on May 2, 2000. On May 18, Plaintiff, State of Iowa (\"the State\"), filed a brief in Resistance to Defendant's Motion to Dismiss, Transfer, or Stay.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710817+00:00",
+              "published_date": null,
+              "source_hash": "6c291bbd2384479bf50828f782d5d324"
+            },
+            {
+              "url": "",
+              "title": "US Cellular | BBB Business Profile | Better Business Bureau",
+              "snippet": "United States Cellular Corp. Related Businesses: US Cellular ... Customer Contacts Mr. John Heimsch, Director of Sales ... Tablet Equipment, Long Distance Phone Service, Cell Phone Equipment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710835+00:00",
+              "published_date": null,
+              "source_hash": "7bd58eaf2d6557e47b70bd059bd7b27a"
+            },
+            {
+              "url": "",
+              "title": "Blazek v. U.S. Cellular Corp., 937 F. Supp. 2d 1003 - Casetext",
+              "snippet": "The defendants assert, in a footnote in their Memorandum In Support Of Defendants' Motion To Dismiss (docket no. 17-1), 2 n. 1, that, upon receiving the original Complaint, which named only United States Cellular Corporation as a corporate defendant, their counsel notified Blazek's counsel that Blazek's prior employer was USCC Payroll ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710847+00:00",
+              "published_date": null,
+              "source_hash": "9f2b743639206d1100be79f058fc9c2b"
+            },
+            {
+              "url": "",
+              "title": "Business Profile for U.S. Cellular - Better Business Bureau",
+              "snippet": "All customer reviews are handled by the BBB where the company is Headquartered or a central customer review processing location. Average of 246 Customer Reviews Read HQ Reviews Start a Review",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710851+00:00",
+              "published_date": null,
+              "source_hash": "5a9c11d800953e62d1748b04334a5b1f"
+            },
+            {
+              "url": "",
+              "title": "U.S. Cellular - Wikipedia",
+              "snippet": "United States Cellular Corporation (doing business as UScellular and formerly known as U.S. Cellular) is an American mobile network operator.Its stock is publicly traded, but Telephone and Data Systems Inc. owns a controlling stake (83% economic and 96% voting power). The company was formed in 1983 and is headquartered in Chicago, Illinois.UScellular is the fifth largest wireless carrier in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "United States Cellular Corp United States Cellular Corp customer service controversies",
+              "retrieved_at": "2025-01-06T14:10:34.710854+00:00",
+              "published_date": null,
+              "source_hash": "27eb8ad8ba707f9fb4a783347419e3c9"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "United States Cellular Corp regulatory challenges FCC",
+              "rationale": "Investigate potential legal and regulatory issues with the FCC that could impact operations",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "United States Cellular Corp financial performance analysis",
+              "rationale": "Examine recent financial performance to identify trends and potential risks",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "United States Cellular Corp customer service controversies",
+              "rationale": "Explore any known customer service issues or controversies that could affect reputation",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:10:54.954070",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

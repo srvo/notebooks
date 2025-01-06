@@ -1,0 +1,530 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:03:05.187771",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Tyler Technologies Inc",
+      "symbol": "TYL",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Cybersecurity vulnerabilities, including a significant ransomware attack and potential reputational damage",
+            "Dependence on public sector spending, making the company vulnerable to economic downturns and political shifts",
+            "Integration challenges from acquisitions, potentially affecting customer satisfaction and operational efficiency",
+            "Legal and ethical concerns, including lawsuits over overtime pay and software quality issues"
+          ],
+          "controversies": [
+            "Ransomware attack leading to a class-action lawsuit and potential financial liabilities",
+            "Legal disputes over breach of contract and overtime pay, resulting in a $3 million settlement"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Failure to pay overtime wages, impacting employee morale and labor practices",
+            "Complaints about software quality and performance from public sector clients"
+          ],
+          "governance_issues": [
+            "Challenges in integrating acquired companies and maintaining service quality",
+            "Ongoing legal disputes and potential financial liabilities"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "The Tyler Technology Ransomware Attack Overview - Heimdal Security",
+              "snippet": "The Tyler Technologies ransomware attack happened on September 23 when the threat actors breached the network of the company and managed to deploy the malware. In response, the company acted quickly and notified law enforcement, whilst also hiring a forensics firm to investigate the incident and discover the extent of the situation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178128+00:00",
+              "published_date": null,
+              "source_hash": "869547925eb973c2deb80aaab19c4f25"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies finally paid the ransom to receive the decryption ...",
+              "snippet": "Tyler Technologies, Inc. is the largest provider of software to the United States public sector. At the end of September, the company disclosed a ransomware attack and its customers reported finding suspicious logins and previously unseen remote access tools on their networks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178232+00:00",
+              "published_date": null,
+              "source_hash": "cf025d7be62412960b3689a6ba5d0e88"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Data Breach Class Action Lawsuit Investigation",
+              "snippet": "Cybersecurity experts say Tyler Technologies suffered an attack by the RansomExx ransomware group, a rebranded version of the Defray777 ransomware group. On April 19th, Tyler confirmed that information allegedly stolen from their network was leaked online. ... Contact our data breach lawyers to discuss joining the Tyler Technologies data breach ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178246+00:00",
+              "published_date": null,
+              "source_hash": "8688a6c6b9840e686421c4db117d11f8"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Security Rating, Vendor Risk Report, and Data Breaches",
+              "snippet": "Learn about data breaches, cyber attacks, and security incidents involving Tyler Technologies. Shape your 2025 cyber GRC strategy with a complimentary Gartner report. Download Now. ... Control third-party vendor risk and improve your cyber security posture. Overview. ... Tyler Technologies Data Breaches, Cybersecurity Incidents and News. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178256+00:00",
+              "published_date": null,
+              "source_hash": "f4eb5ddb24c1e5ff4e30fc6e2b3f593c"
+            },
+            {
+              "url": "",
+              "title": "Ransomware Gang Leaks Data Allegedly Stolen From Government Contractor",
+              "snippet": "The attack, Tyler pointed out, was unrelated to a 2020 ransomware attack that impacted its internal corporate network and phone systems and forced it to shut down various systems, including its website.. The Texas-based Tyler Technologies provides property tax lifecycle management solutions, civic services solutions, a secure system for accessing official records, regulatory solutions, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178266+00:00",
+              "published_date": null,
+              "source_hash": "f3b5d50d4ef52e52f6434842cfc89bb0"
+            },
+            {
+              "url": "",
+              "title": "Government software provider Tyler Technologies hit by ransomware",
+              "snippet": "With a forecasted $1.2 billion in revenue for 2020 and 5,500 employees, Tyler Technologies provides technical services for local governments in many states in the USA.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178277+00:00",
+              "published_date": null,
+              "source_hash": "62099e56c549d59f2c59891d5c28aae3"
+            },
+            {
+              "url": "",
+              "title": "Hacked software provider acknowledges ransomware attack",
+              "snippet": "The sign for Tyler Technologies is seen outside the company's offices, Thursday, Sept. 24, 2020, in Plano, Texas. ... The FBI has declined to comment on the breach. Tyler provides software services to local and state governments across the country for everything from jail and court management systems to payroll, human resources, tax and bill ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178287+00:00",
+              "published_date": null,
+              "source_hash": "62bab9f1e93ceb377fc8e8b814d3f53f"
+            },
+            {
+              "url": "",
+              "title": "Government Software Provider Tyler Technologies Confirms Ransomware ...",
+              "snippet": "Tyler Technologies, a major provider of software and services for state and local governments in the United States, has confirmed that the recently disclosed cybersecurity incident involved ransomware.. Tyler this week shut down its website and started informing customers via email that its internal phone and IT systems were accessed without authorization by an unknown third party.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178296+00:00",
+              "published_date": null,
+              "source_hash": "c0ff5ce49da349074bfeb9d75d5eeab8"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Suffers Apparent Ransomware Attack - CRN",
+              "snippet": "In an August 2019 earnings call, Tyler's CEO Lynn Moore said the company's acquisition in 2018 of Sage Data Systems, a cybersecurity company, positions the company well to sell into municipal ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178306+00:00",
+              "published_date": null,
+              "source_hash": "7737097360117d5692ec74c755045412"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies (Tyler) (2020-09-23) Cyber-Attack Hack Breach - The ...",
+              "snippet": "The RansomExx group's choice to target Tyler Technologies, a major government technology services provider, underscores the evolving threat landscape in the cybersecurity realm. Criminal organizations are increasingly targeting high-profile targets that have the potential for substantial financial gains or broader disruption.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc cybersecurity breaches",
+              "retrieved_at": "2025-01-06T19:02:37.178315+00:00",
+              "published_date": null,
+              "source_hash": "d2118c5339979d85af7dfc057bbd709b"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies faces complaints over bad software - Axios",
+              "snippet": "State of play: Tyler was founded in 1966 and has exclusively worked in the public sector since 1998. The company's North Texas clients include DFW Airport, Dallas County and the city of Fort Worth. The city of Dallas has paid Tyler at least $1.8 million since 2019 for police, court and communications services, city records show.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983442+00:00",
+              "published_date": null,
+              "source_hash": "ad6c92b4976fb206cfc0f29a04c21b56"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Misses Quarterly Revenue Estimates on Weak IT Spending",
+              "snippet": "Tyler Technologies provides integrated information management solutions and services for the public sector and professional IT services to clients, including software and hardware installation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983500+00:00",
+              "published_date": null,
+              "source_hash": "671a78a71fff9eab40a04b41202ac1e5"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies - Wikipedia",
+              "snippet": "Tyler Technologies, Inc., based in Plano, Texas, is a provider of software to the United States public sector. Tyler Technologies has offices in 17 states and one in Toronto, Ontario, Canada. [2] History. ... Controversies. In 2014 people in Marion County, ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983514+00:00",
+              "published_date": null,
+              "source_hash": "2345fe17f6febada859f4eb7e4ebf4fb"
+            },
+            {
+              "url": "",
+              "title": "Decoding Tyler Technologies Inc (TYL): A Strategic SWOT Insight",
+              "snippet": "On February 21, 2024, Tyler Technologies Inc filed its annual 10-K report, providing a comprehensive overview of its financial performance and strategic positioning. As a leading provider of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983525+00:00",
+              "published_date": null,
+              "source_hash": "b0cc53e6296ed7fd0f0bcc49e70785c1"
+            },
+            {
+              "url": "",
+              "title": "Buy Rating for Tyler Technologies: Promising Outlook Despite Cloud ...",
+              "snippet": "Tyler Technologies, Inc. engages in the provision of integrated technology and management solutions and services for public sector with a focus on local governments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983534+00:00",
+              "published_date": null,
+              "source_hash": "54a7bffc9d017477bbec866ab81d95cb"
+            },
+            {
+              "url": "",
+              "title": "How Tyler Tech's Odyssey Software Hooked Local Governments: CityLab ...",
+              "snippet": "What these issues all have in common: Authorities blame defects in a computer system developed by Tyler Technologies Inc., a little-known firm with a big footprint in the local government software ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983545+00:00",
+              "published_date": null,
+              "source_hash": "e11aca5b5948bda8577c90e8a427d7b0"
+            },
+            {
+              "url": "",
+              "title": "Decoding Tyler Technologies Inc (TYL): A Strategic SWOT Insight",
+              "snippet": "On October 23, 2024, Tyler Technologies Inc , a leading provider of software solutions and services for public sector entities, released its 10-Q filing, offering a detailed view of its financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983555+00:00",
+              "published_date": null,
+              "source_hash": "3e0f2263311e804882a3a75f2cc3e938"
+            },
+            {
+              "url": "",
+              "title": "Decoding Tyler Technologies Inc (TYL): A Strategic SWOT Insight",
+              "snippet": "Market Leadership in Public Sector Software: Tyler Technologies Inc has established itself as a market leader in providing software solutions to the public sector. Its core products, including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983564+00:00",
+              "published_date": null,
+              "source_hash": "c4911c9d85b29a5ada79e54d66272a23"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies, Inc. - Investor Overview",
+              "snippet": "Clear public sector market leader with deep competitive advantages and domain expertise. Enabling digital government and greater citizen transparency. ... At Tyler Technologies, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983575+00:00",
+              "published_date": null,
+              "source_hash": "7420dd7dbc7153f99c60a21afe88cf50"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies: Strategic Growth in Public Sector Software with ...",
+              "snippet": "Tyler Technologies, Inc. engages in the provision of integrated technology and management solutions and services for public sector with a focus on local governments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:40.983585+00:00",
+              "published_date": null,
+              "source_hash": "5898ed39fede144c6f670e889727fdbf"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies pays $3 million to settle claims it stiffed employees",
+              "snippet": "Based in Plano, Texas, Tyler Technologies is a dominant contender for public-sector contracts, raking in over $1 billion ... most recently the Kansas-based software provider NIC Inc., acquired in April for $2.3 billion \u2014 likely the largest government ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:43.479180+00:00",
+              "published_date": "2021-11-23T00:00:00+00:00",
+              "source_hash": "2bd986a4578c2c84d0f5d24031079201"
+            },
+            {
+              "url": "",
+              "title": "Should You Worry About Tyler Technologies (TYL)?",
+              "snippet": "(see more details here). Tyler Technologies, Inc. (NYSE:TYL) is a software company that allows public sector entities such as schools, courts, and governments to manage their payments, billings ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:43.479293+00:00",
+              "published_date": "2024-12-17T14:42:00+00:00",
+              "source_hash": "408b6ee2245dcff07c0ef5f343bf6428"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies, Inc. (NYSE:TYL) Shares Acquired by Public Sector Pension Investment Board",
+              "snippet": "Public Sector Pension Investment Board lifted its stake in shares of Tyler Technologies, Inc. (NYSE:TYL - Free Report) by 18.4% in the 3rd quarter, HoldingsChannel reports. The institutional ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:43.479322+00:00",
+              "published_date": "2024-12-08T00:00:00+00:00",
+              "source_hash": "3f710d4606d85108d69ae36a252d7c91"
+            },
+            {
+              "url": "",
+              "title": "Is Tyler Technologies Stock Outperforming the S&P 500?",
+              "snippet": "Tyler Technologies, Inc. (TYL), headquartered in Plano ... Tyler is positioned to further expand in the public sector market, which has ample room for growth as organizations transition to ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:43.479349+00:00",
+              "published_date": "2024-12-23T21:17:00+00:00",
+              "source_hash": "f3ddb81f8750184b0f68ce1830637c91"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Inc. stock underperforms Friday when compared to competitors",
+              "snippet": "This was the stock's second consecutive day of losses.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc public sector spending controversies",
+              "retrieved_at": "2025-01-06T19:02:43.479372+00:00",
+              "published_date": "2024-12-27T22:08:00+00:00",
+              "source_hash": "9aa1a11f8193479b6f09a66cfa8d1687"
+            },
+            {
+              "url": "",
+              "title": "Harrison v. Tyler Technologies, Inc., No. 4:2021cv00607 - Justia Law",
+              "snippet": "Tyler Techs., No. 3:19-CV-7647, 2021 WL 5356724 (N.D. Cal. Nov. 17, 2021). In these lawsuits, Tyler was sued by former employees that made the same claim as Harrison\u2014failure to receive overtime pay. Tyler alleged the same defense as it alleges here, that each of those employees was exempt from receiving overtime pay under the FLSA.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061447+00:00",
+              "published_date": null,
+              "source_hash": "04e128c28002a4a2552e6ba86287c14d"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies, Inc v New York State Department of ... - UniCourt",
+              "snippet": "On August 23, 2022, Tyler Technologies, Inc. (\"Plaintiff\"), represented by Tara L. Pehush of K & L Gates LLP filed a contract lawsuit against New York State Department of Taxation and Finance and New York State Office of Information Technology Services (collectively, \"Defendants\"), seeking damages for Defendant's alleged breach of contract and unjust enrichment.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061505+00:00",
+              "published_date": null,
+              "source_hash": "d6fdd43742d4c895b1d12a43c2f61f79"
+            },
+            {
+              "url": "",
+              "title": "Cobb County, Georgia v. Tyler Technologies, Inc.",
+              "snippet": "Filing 15 ORDER granting #14 Motion for Extension of Time for Tyler Technologies, Inc. to Respond to #10 Amended Complaint through and until 3/1/2024. Signed by Judge Leigh Martin May on 2/5/2024. Signed by Judge Leigh Martin May on 2/5/2024.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061523+00:00",
+              "published_date": null,
+              "source_hash": "21e6190952521e8cd8e1e4f3c82a93e5"
+            },
+            {
+              "url": "",
+              "title": "Harrison v. Tyler Technologies, Inc. 4:2021cv00607 | US District Court ...",
+              "snippet": "Filing 1 COMPLAINT against Tyler Technologies, Inc. ( Filing fee $ 402 receipt number 0540-8520672.), filed by Talia N. Harrison. (Attachments: #1 Civil Cover Sheet)(Arbuckle, Melinda) August 3, 2021: In accordance with the provisions of 28 USC Section 636(c), you are hereby notified that a U.S. Magistrate Judge of this district court is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061536+00:00",
+              "published_date": null,
+              "source_hash": "8e0884225e69676a69d6b9b8efa93c4c"
+            },
+            {
+              "url": "",
+              "title": "Lawsuit alleges glitches in North Carolina court filing system caused ...",
+              "snippet": "FILE - A sign for Tyler Technologies stands outside the company's offices on Sept. 24, 2020, in Plano, Texas. A federal lawsuit filed Tuesday, May 23, 2023, in North Carolina alleges an electronic state court records system rolled out this year in four counties has caused some people to be arrested multiple times on the same warrant and has delayed the release of others from custody.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061548+00:00",
+              "published_date": null,
+              "source_hash": "0df78847832b105d9f486fa28d04a076"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "the Lawsuit. Tyler's records indicate that you are a member of the California Rule 23 Class (i.e., a \"Class Member\"). Although Tyler disputes the claims asserted in the Laws uit, both Plaintiff and Tyle r recognize the costs and risks of litigation, and believe that the proposed settlement is a fair and reasonable resolution. The Lawsuit",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061560+00:00",
+              "published_date": null,
+              "source_hash": "5394aac9b56acf28173eb67229483b4b"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies, Inc. v. Lexington County, South Carolina - UniCourt",
+              "snippet": "On 06/23/2022 Tyler Technologies, Inc filed a Contract - Other Contract lawsuit against Lexington County, South Carolina. This case was filed in U.S. District Courts, South Carolina District Court. ... Docket (#7) WAIVER OF SERVICE by Tyler Technologies, Inc.. Lexington County, South Carolina waiver executed on 6/30/2022, answer due 8/29/2022 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061573+00:00",
+              "published_date": null,
+              "source_hash": "90bf8c56cea6f148647a4aafdb298585"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies, Inc. | The ClassAction.org Legal News Wire ...",
+              "snippet": "Lawsuit Filings Class Action Says North Carolina's Upgrade to 'eCourts' Led to Illegal Detentions June 1, 2023 Tyler Technologies and two North Carolina sheriffs face class action that says hundreds have been wrongly detained amid the state court system's move from paper to digital.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061585+00:00",
+              "published_date": null,
+              "source_hash": "f9f7ebcedfc0ae232640863f81195dd5"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Inc. (NYSE:TYL) : Cases - Law360",
+              "snippet": "The latest litigation cases involving the company Tyler Technologies Inc. (NYSE:TYL) ... Media & Entertainment Mergers & Acquisitions Michigan Native American New Jersey New York ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061596+00:00",
+              "published_date": null,
+              "source_hash": "2d8c6aec03d60a80b2905139ec56d51b"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies, Inc. v. Lexington County, South Carolina",
+              "snippet": "MOTION to Appear Pro Hac Vice by Beth W. Petronio ( Filing fee $ 350 receipt number ASCDC-10584540) by Tyler Technologies, Inc.. Response to Motion due by 7/25/2022. Add an additional 3 days only if served by mail or otherwise allowed under Fed. R. Civ. P. 6 or Fed. R. Crim. P. 45.Proposed order is being emailed to chambers with copy to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:45.061607+00:00",
+              "published_date": null,
+              "source_hash": "184dacae0ebb7be771bc6a28a4ce2423"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Paying $185M To Buy Va.-Based Software Firm",
+              "snippet": "Tyler Technologies, the public sector juggernaut ... [RELATED: Tyler Scoops Up MobileEyes In Latest Acquisition] In MicroPact, a 22-year-old company that boasts deals with 98 percent of federal ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:48.637065+00:00",
+              "published_date": "2019-02-01T21:13:00+00:00",
+              "source_hash": "ea977fd647dcdf041437e4e53d9ea464"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies Acquires Environmental Health Software Provider To Boost Government Sales",
+              "snippet": "Tyler Technologies has purchased Charlotte ... The DHD deal is Tyler's fifth acquisition since May 2015, over which time it has purchased $10 million solution provider Brazos Technology Corp ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:48.637171+00:00",
+              "published_date": "2017-08-02T22:20:00+00:00",
+              "source_hash": "53dad50cd57026f95daa00b6974a250e"
+            },
+            {
+              "url": "",
+              "title": "Tyler Technologies: Strong Cloud Transition and Strategic Acquisitions Driving Confidence in Financial Targets",
+              "snippet": "Additionally, Tyler's acquisition of NIC has ... TipRanks Premium journey today. Tyler Technologies (TYL) Company Description: Tyler Technologies, Inc. engages in the provision of integrated ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Tyler Technologies Inc Tyler Technologies Inc acquisition integration lawsuits",
+              "retrieved_at": "2025-01-06T19:02:48.637204+00:00",
+              "published_date": "2024-12-05T11:23:00+00:00",
+              "source_hash": "b81d5005b72dd72f211905d836afed9c"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Tyler Technologies Inc cybersecurity breaches",
+              "rationale": "Investigate potential data security incidents and their legal implications",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Tyler Technologies Inc public sector spending controversies",
+              "rationale": "Examine any ethical concerns related to reliance on government budgets and spending",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Tyler Technologies Inc acquisition integration lawsuits",
+              "rationale": "Identify legal challenges or disputes arising from the integration of acquired companies",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:03:05.187783",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,521 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:11:22.270605",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Algoma Steel Group Inc.",
+      "symbol": "ASTL",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Environmental impact due to high greenhouse gas emissions",
+            "Market volatility and cyclical demand in the steel industry",
+            "Potential disruptions from labor disputes",
+            "Dependence on global economic conditions and trade policies"
+          ],
+          "controversies": [
+            "Ongoing regulatory and societal pressure to reduce carbon footprint",
+            "Financial losses reported in recent quarters due to market challenges"
+          ],
+          "environmental_issues": [
+            "Significant greenhouse gas emissions from steel production",
+            "High energy consumption in operations"
+          ],
+          "social_issues": [
+            "Potential labor disputes affecting 2,840 employees",
+            "Impact of operational disruptions on local communities"
+          ],
+          "governance_issues": [
+            "Complex and costly transition to electric arc furnace technology",
+            "Dependence on raw material suppliers and supply chain risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Algoma Steel Issues 2024 ESG Annual Report | Algoma Steel Inc.",
+              "snippet": "SAULT STE. MARIE, Ontario, Aug. 12, 2024 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold rolled steel sheet and plate products, today announced the publication of its second annual Environmental, Social, and Governance (\"ESG\") report (the \"Report\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155732+00:00",
+              "published_date": null,
+              "source_hash": "a320b0aa1ae815b75c11451da5040478"
+            },
+            {
+              "url": "",
+              "title": "Environment | Algoma Steel Inc.",
+              "snippet": "Algoma is a demonstrated partner in Canada's commitment to the global reduction of greenhouse gases with a proven track record for reducing carbon emissions. Since 1993 we have reduced our greenhouse gas emissions by 17%, even while increasing production 19%.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160471+00:00",
+              "published_date": null,
+              "source_hash": "95f26fe35d7943797214aaba4e1ba6b5"
+            },
+            {
+              "url": "",
+              "title": "Algoma | Your Partner in Steel. Since 1901. - Algoma Steel Inc.",
+              "snippet": "Tuesday 12th September 2023. PDF version. SAULT STE. MARIE, Ontario, Sept. 12, 2023 (GLOBE NEWSWIRE) \u2014 Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or the \"Company\"), a leading Canadian producer of hot and cold rolled steel sheet and plate products, today issued its first annual environmental, social and governance (\"ESG\") report (the \"Report\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160491+00:00",
+              "published_date": null,
+              "source_hash": "6a49bd31c8a05b07dec2b910e7616864"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Issues Inaugural Annual ESG Report",
+              "snippet": "About Algoma Steel Group Inc. Based in Sault Ste. Marie, Ontario, Canada, Algoma is a fully integrated producer of hot and cold rolled steel products including sheet and plate. Driven by a purpose to build better lives and a greener future, Algoma is positioned to deliver responsive, customer-driven product solutions to applications in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160512+00:00",
+              "published_date": null,
+              "source_hash": "56d805d11da7e650e8491761203421b5"
+            },
+            {
+              "url": "",
+              "title": "Energy - Algoma Steel Inc.",
+              "snippet": "Since 1993, Algoma Steel has reduced CO2 emissions by 54% per tonne of shipped steel and the Company continues to identify and implement opportunities to reduce our carbon footprint. In June 2009, Algoma commissioned a 70 MW combined heat and power cogeneration facility, fueled with cleaned by-product gases from our ironmaking and cokemaking ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160527+00:00",
+              "published_date": null,
+              "source_hash": "b3b554b98265c749d7c216f3d5f3390b"
+            },
+            {
+              "url": "",
+              "title": "Steel mill reports huge losses in second quarter",
+              "snippet": "Algoma Steel Group Inc. has tonight reported a net loss of $106.6 million during its 2025 fiscal second quarter ended Sept. 30. That compares to a profit of $31.1 million during the same period ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160539+00:00",
+              "published_date": null,
+              "source_hash": "e9f0739d7ce935c62abe3c52d6285555"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Provides Guidance for the Quarter Ended December 31, 2024 ...",
+              "snippet": "We continue to make significant progress in our strategic transformation to become one of North America's leading low-carbon steel producers, setting the stage for an exciting 2025.\" About Algoma Steel Group Inc. Based in Sault Ste. Marie, Ontario, Canada, Algoma is a fully integrated producer of hot and cold rolled steel products including ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160552+00:00",
+              "published_date": null,
+              "source_hash": "4d4188b2e45f75bd13a496a99efdde8c"
+            },
+            {
+              "url": "",
+              "title": "Environmental group opposes renewal of emissions exemption for Algoma ...",
+              "snippet": "An environmental group is asking members of the public to oppose a request from Algoma Steel which would allow it to temporarily exceed provincial emissions standards. Since 2021, Algoma Steel has ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160565+00:00",
+              "published_date": null,
+              "source_hash": "10e6acc7485b3277a0a8dcd50b4f8d04"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Announces Final Investment Decision for Electric Arc ...",
+              "snippet": "MARIE, Ontario (GLOBE NEWSWIRE) \u2014 Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or the \"Company\"), a leading Canadian producer of hot and cold rolled steel sheet and plate products, announced that its Board of Directors has authorized the Company to construct two new state-of-the-art electric-arc-furnaces (EAF) to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160577+00:00",
+              "published_date": null,
+              "source_hash": "3215c64c215134f523b0009aa729b4a5"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Pursues Green Transformation Amid Challenges",
+              "snippet": "Algoma Steel Group anticipates steel shipments of up to 550,000 tons for the quarter ended December 31, 2024, with an expected adjusted EBITDA loss between $55 million and $65 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:52.160591+00:00",
+              "published_date": null,
+              "source_hash": "bf2ee59e801789d186ba0e267b624b8e"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. Provides Q4 2024 Guidance Amid Market Challenges and Progress on Electric Arc Furnace Project",
+              "snippet": "MARIE, Ontario, Jan. 02, 2025 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc ... significant progress in our strategic transformation to become one of North America's leading low-carbon steel ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:54.756647+00:00",
+              "published_date": "2025-01-02T22:40:00+00:00",
+              "source_hash": "bfc9033fcc12cda3cf2df2df085e6502"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel sees Q4 adjusted EBITDA -C$55M to -C$65M; total steel shipments of 545K-550K tons",
+              "snippet": "Algoma Steel (ASTL) -2.78% in Friday's premarket trading after issuing guidance for FQ4 ending December 31 total steel shipments of 545K-550K tons",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:11:00.758795+00:00",
+              "published_date": "2025-01-03T07:06:35+00:00",
+              "source_hash": "8fe84c1c360efa4a4eca23e77f390319"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group revenue declines in its fiscal Q2, posts consolidated loss",
+              "snippet": "Lower steel shipments and realized prices contributed to the company's quarterly results, which were in line with its expectations; EAF commissioning to begin soon. Logo courtesy of Algoma Steel Group Inc. Ontario ... its annual carbon emissions by ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. carbon emissions reduction progress",
+              "retrieved_at": "2025-01-06T18:10:54.756779+00:00",
+              "published_date": "2024-11-08T00:00:00+00:00",
+              "source_hash": "f4d7a518a4574aa6da0e1fcc2a33def8"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Issues Guidance for December Quarter",
+              "snippet": "Algoma Steel Group Inc. ASTL has released guidance for the quarter ended Dec. 31, 2024. Total steel shipments for the quarter are projected to be between 545,000 and 550,000 tons, with adjusted earnings before interest,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:06.661429+00:00",
+              "published_date": "2025-01-03T13:27:00+00:00",
+              "source_hash": "391816bed6a97d019a79f5d257b87870"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group (NASDAQ:ASTL) Shares Gap Down - Here's Why",
+              "snippet": "Shares of Algoma Steel Group Inc. (NASDAQ:ASTL - Get Free Report) gapped down before the market opened on Friday . The stock had previously closed at $9.70, but opened at $9.30. Algoma Steel Group shares last traded at $9.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:06.661309+00:00",
+              "published_date": "2025-01-05T08:17:00+00:00",
+              "source_hash": "94a84d6979ff53f8a92a36263f72699c"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Provides Guidance for the Quarter Ended December 31, 2024",
+              "snippet": "SAULT STE. MARIE, Ontario, Jan. 02, 2025 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246037+00:00",
+              "published_date": null,
+              "source_hash": "c76817e23c15a0fcf2be8c68491d9d74"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. Provides Q4 2024 Guidance Amid Market ... - Nasdaq",
+              "snippet": "Algoma Steel forecasts 545,000-550,000 tons of steel shipments and an Adjusted EBITDA loss of $55-$65 million for Q4 2024. Quiver AI Summary. Algoma Steel Group Inc. has announced its guidance for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155656+00:00",
+              "published_date": null,
+              "source_hash": "854f0af9ba94fe212ca592dbc91fd198"
+            },
+            {
+              "url": "",
+              "title": "Investor Relations | Algoma Steel Inc.",
+              "snippet": "The Investor Relations website contains information about Algoma Steel Inc.'s business for stockholders, potential investors, and financial analysts. ... Algoma Steel Group to Participate in the Inaugural B. Riley Securities Energy Convergence Conference. ... Q2 FY2025 Management Discussion and Analysis 252.7 KB. News Releases. Jan 2, 2025 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155675+00:00",
+              "published_date": null,
+              "source_hash": "b913626ab51c5de76deaa6c50f603ed5"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. (TSX: ASTL) - Stock Analysis",
+              "snippet": "About Algoma Steel Group. Algoma Steel Group Inc. produces and sells steel products primarily in North America. The company provides flat/sheet steel products, including temper rolling, cold rolled, hot-rolled pickled and oiled products, floor plate, and cut-to-length products for the automotive industry, hollow structural product manufacturers, and the light manufacturing and transportation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155691+00:00",
+              "published_date": null,
+              "source_hash": "921c5273d086cf118c38b4d9443e3294"
+            },
+            {
+              "url": "",
+              "title": "ASTL.OQ - | Stock Price & Latest News | Reuters",
+              "snippet": "Get Algoma Steel Group Inc (ASTL.OQ) real-time stock quotes, news, price and financial information from Reuters to inform your trading and investments ... Boards, Policy & Regulation; Climate ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155705+00:00",
+              "published_date": null,
+              "source_hash": "38d1c84498f89d63a35d213b48234502"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Company Description - Stock Analysis",
+              "snippet": "Algoma Steel Group Inc. produces and sells steel products primarily in North America. The company provides flat/sheet steel products, including temper rolling, cold rolled, hot-rolled pickled and oiled products, floor plate, and cut-to-length products for the automotive industry, hollow structural product manufacturers, and the light manufacturing and transportation industries; and plate steel ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155719+00:00",
+              "published_date": null,
+              "source_hash": "8ca8765c8a304ab68cad24ed319db97e"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. (ASTL) Company Profile & Overview - Stock Analysis",
+              "snippet": "Algoma Steel Group Inc. produces and sells steel products primarily in North America. The company provides flat/sheet steel products, including temper rolling, cold rolled, hot-rolled pickled and oiled products, floor plate, and cut-to-length products for the automotive industry, hollow structural product manufacturers, and the light manufacturing and transportation industries; and plate steel ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155754+00:00",
+              "published_date": null,
+              "source_hash": "eee2dc32e708e2693af7d3348045923f"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Reports Fiscal Second Quarter 2025 Financial Results",
+              "snippet": "MARIE, Ontario, Nov. 06, 2024 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold rolled steel ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:10:58.155768+00:00",
+              "published_date": null,
+              "source_hash": "37f9dcf282298210a0da201515c7d88d"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Reports Fiscal First Quarter 2025 Financial Results",
+              "snippet": "SAULT STE. MARIE, Ontario, Aug. 13, 2024 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold rolled steel sheet and plate products, today announced results for its fiscal first quarter ended June 30, 2024.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246108+00:00",
+              "published_date": null,
+              "source_hash": "ee32559496bf634514b51e704ca73fbd"
+            },
+            {
+              "url": "",
+              "title": "Why Did Stifel Give Algoma Steel Group Inc (ASTL) Stock Buy Rating?",
+              "snippet": "On Friday, Algoma Steel Group Inc (ASTL) stock saw a decline, ending the day at $8.94 which represents a decrease of $-0.76 or -7.84% from the prior close of $9.7. The stock opened at $9.3 and touched a low of $8.89 during the day, reaching a high of $9.37. The volume of shares traded was 2.56 million exceeding the average volume of 0.52 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:11:00.758825+00:00",
+              "published_date": "2025-01-04T22:59:00+00:00",
+              "source_hash": "bc032b7400a100000d8afc2015cc11b0"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. Provides Q4 2024 Guidance Amid Market Challenges and Progress on Electric Arc Furnace Project",
+              "snippet": "MARIE, Ontario, Jan. 02, 2025 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ ... be considered in isolation nor as a substitute for analysis of our financial information reported under ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. trade policy impact analysis",
+              "retrieved_at": "2025-01-06T18:11:00.758873+00:00",
+              "published_date": "2025-01-02T22:40:00+00:00",
+              "source_hash": "ee9616506e36be6016efaf9f94dddb88"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel reports revenue growth, but income decline",
+              "snippet": "The CEO of Algoma Steel says he expects \"further recovery in steel demand and pricing\" if auto sector labor-management disputes have been settled. Photo courtesy of Algoma Steel Group Inc. Brian Taylor, Senior Editor. Published November 06, 2023 | Updated November 07, 2023 Algoma Steel Group Inc., a steel producer based in Sault Ste. Marie ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.245931+00:00",
+              "published_date": null,
+              "source_hash": "9b65dd2a9f13a607ad002e5401b4d577"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group employees 2023 - Statista",
+              "snippet": "The employees of Algoma Steel Group with headquarters in Canada amounted to 2.84 thousand in 2023. The reported fiscal year ends on March 31. ... Working days lost due to labor disputes South ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246011+00:00",
+              "published_date": null,
+              "source_hash": "53e4cd655cf54922c9d3dd9b377b0fac"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Algoma Steel Group Inc. (\"Algoma\") has been a mainstay of the North American steel industry for over 120 years. As a fully integrated steel producer of hot and cold rolled steel products including sheet and plate, we produce some of the highest quality, most consistent light gauge steel in North America.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246026+00:00",
+              "published_date": null,
+              "source_hash": "f3eed4d41af5666fe9ce2f76097be40b"
+            },
+            {
+              "url": "",
+              "title": "Investor Relations | Algoma Steel Inc.",
+              "snippet": "For more information please contact: Michael Moraca Vice President - Corporate Development and Treasurer Tel: 1.705.945.3300 E-mail: IR@algoma.com",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246047+00:00",
+              "published_date": null,
+              "source_hash": "bb62de947e3124ec7a5a366f870ec811"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Reports Fiscal Fourth Quarter and Full Year 2024 ...",
+              "snippet": "SAULT STE. MARIE, Ontario, June 20, 2024 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246058+00:00",
+              "published_date": null,
+              "source_hash": "a39f9b096896f86037778454b1983de5"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. (TSX: ASTL) Company Profile & Overview - Stock ...",
+              "snippet": "Algoma Steel Group Inc. produces and sells steel products primarily in North America. The company provides flat/sheet steel products, including temper rolling, cold rolled, hot-rolled pickled and oiled products, floor plate, and cut-to-length products for the automotive industry, hollow structural product manufacturers, and the light manufacturing and transportation industries; and plate steel ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246069+00:00",
+              "published_date": null,
+              "source_hash": "06604959e0546db100c4393a9353fbda"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group down $20.4 million in Q4 amid lower steel prices ...",
+              "snippet": "SAULT STE. MARIE, Ont. \u2014 Algoma Steel Group Inc. says its net loss for the fourth quarter was $20.4 million, compared with earnings of $242.9 million a year earlier. Net loss per diluted share was 19 cents, down from earnings of $1.45 the same quarter last year. The Sault Ste. Marie, Ont.-based steel producer says [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246080+00:00",
+              "published_date": null,
+              "source_hash": "f019641b163a1c466d79832b4b7b079e"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Reports Fiscal Second Quarter 2025 Financial Results",
+              "snippet": "SAULT STE. MARIE, Ontario, Nov. 06, 2024 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:04.246098+00:00",
+              "published_date": null,
+              "source_hash": "2141d630b20ee97a953dc4e60c47adc2"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. Provides Q4 2024 Guidance Amid Market Challenges and Progress on Electric Arc Furnace Project",
+              "snippet": "SAULT STE. MARIE, Ontario, Jan. 02, 2025 (GLOBE NEWSWIRE) -- Algoma Steel Group Inc. (NASDAQ: ASTL; TSX: ASTL) (\"Algoma\" or \"the Company\"), a leading Canadian producer of hot and cold ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:06.661405+00:00",
+              "published_date": "2025-01-02T22:40:00+00:00",
+              "source_hash": "541b1fb88faf63a4edd982947a82b520"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group revenue declines in its fiscal Q2, posts consolidated loss",
+              "snippet": "Logo courtesy of Algoma Steel Group Inc. Ontario-based Algoma Steel Group Inc., a producer of hot- and cold-rolled steel sheet and plate products, has announced results for its fiscal second quarter, ended Sept. 30, that include consolidated revenue of CA$ ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:06.661448+00:00",
+              "published_date": "2024-11-08T00:00:00+00:00",
+              "source_hash": "3524e20b53717963c63d536b9bae979e"
+            },
+            {
+              "url": "",
+              "title": "Algoma Steel Group Inc. (NASDAQ:ASTL) Short Interest Update",
+              "snippet": "Algoma Steel Group Price Performance NASDAQ:ASTL opened at $9.67 on Tuesday. The stock has a market capitalization of $1.01 billion, a PE ratio of -7.61 and a beta of 1.47. Algoma Steel Group has ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Algoma Steel Group Inc. Algoma Steel Group Inc. labor disputes and relations",
+              "retrieved_at": "2025-01-06T18:11:06.661465+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "be8f2b83bb506874d933c325524d40d5"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Algoma Steel Group Inc. carbon emissions reduction progress",
+              "rationale": "Assess the company's progress and challenges in meeting its sustainability goals, particularly in reducing greenhouse gas emissions.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Algoma Steel Group Inc. trade policy impact analysis",
+              "rationale": "Investigate how recent changes in trade policies, including tariffs and trade agreements, have affected Algoma's market competitiveness and financial performance.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Algoma Steel Group Inc. labor disputes and relations",
+              "rationale": "Examine recent labor disputes, union relations, and their impact on Algoma's operational continuity and public image.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:11:22.270612",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

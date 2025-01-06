@@ -1,0 +1,407 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T11:54:09.271633",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Stepan Co",
+      "symbol": "SCL",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Environmental and regulatory compliance issues",
+            "Financial performance concerns",
+            "Dependence on petrochemicals",
+            "Intense competition"
+          ],
+          "controversies": [
+            "Misbranded pesticides settlement with EPA",
+            "Involvement in Maywood Chemical Company Superfund Site cleanup"
+          ],
+          "environmental_issues": [
+            "Misbranded pesticides violation",
+            "Superfund site cleanup obligations"
+          ],
+          "social_issues": [],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Stepan Company Federal Insecticide, Fungicide, and Rodenticide Act ...",
+              "snippet": "CHICAGO (July 24, 2019) - Today, U.S. Environmental Protection Agency (EPA) announced an agreement with the Stepan Co. of Northfield, Illinois, resolving allegations that the company - through a distribution agreement with the Spartan Chemical Co. - violated the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) on 89 occasions by selling or distributing a misbranded pesticide.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.756954+00:00",
+              "published_date": null,
+              "source_hash": "331b1cb5635b504df639858d565ea97a"
+            },
+            {
+              "url": "",
+              "title": "EPA Settles Case Against Stepan Company for Selling Misbranded ...",
+              "snippet": "For Immediate Release No. 19-OPA052. CHICAGO (July 24, 2019) - Today, U.S. Environmental Protection Agency (EPA) announced an agreement with the Stepan Co. of Northfield, Illinois, resolving allegations that the company - through a distribution agreement with the Spartan Chemical Co. - violated the Federal Insecticide, Fungicide, and Rodenticide Act (FIFRA) on 89 occasions by selling or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757090+00:00",
+              "published_date": null,
+              "source_hash": "6453a9995f308fa0f46d762d3ec7bae5"
+            },
+            {
+              "url": "",
+              "title": "EPA strikes cleanup deal 36 years after informing polluter about toxic ...",
+              "snippet": "The U.S. Environmental Protection Agency (EPA) announced a proposed settlement with Stepan Company to address contaminated soil at the Maywood Chemical Company Superfund Site in Bergen County, New Jersey. Under the proposed agreement, Stepan Company, a potentially responsible party for the site, will be required to remove and dispose of contaminated soil from several non-residentialContinue ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152341+00:00",
+              "published_date": null,
+              "source_hash": "85cc59eb2f7a14dccfb33d1ea833e8a0"
+            },
+            {
+              "url": "",
+              "title": "Attorney General Raoul announces over $360,000 settlement with Stepan ...",
+              "snippet": "Attorney General Raoul's office filed a complaint on June 24, 2022 against Stepan Company (Stepan), which manufactures specialty organic chemicals such as emulsifiers and detergent bases.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757104+00:00",
+              "published_date": null,
+              "source_hash": "9d9c8fa37b5c50fff04550b41ffb2770"
+            },
+            {
+              "url": "",
+              "title": "EPA and State of New Jersey Propose Settlement with Stepan Company for ...",
+              "snippet": "NEW YORK - The U.S. Environmental Protection Agency (EPA) announced a proposed settlement with Stepan Company to address contaminated soil at the Maywood Chemical Company Superfund Site in Bergen County, New Jersey.Under the proposed agreement, Stepan Company, a potentially responsible party for the site, will be required to remove and dispose of contaminated soil from several non ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152366+00:00",
+              "published_date": null,
+              "source_hash": "105bb60d6a2c4c36ad478d490f1a8d20"
+            },
+            {
+              "url": "",
+              "title": "Epa Strikes Cleanup Deal 36 Years After Informing Polluter About Toxic ...",
+              "snippet": "The proposal suggests that the potentially responsible party, Stepan Company, remove and dispose of the contaminated soil from several non-residential properties at the Maywood Chemical Company Superfund Site. The estimated cost of this cleanup is $8.6 million. Maywood Chemical Company processed radioactive thorium ore on site from 1916 through ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152377+00:00",
+              "published_date": null,
+              "source_hash": "52e6e5f574a8bcf95a630914a91ecbac"
+            },
+            {
+              "url": "",
+              "title": "Pfizer Fails to Fight Off New Jersey Chemical Waste Lawsuit (1)",
+              "snippet": "An N.J. federal judge mostly denied the pharmaceutical company's motion to dismiss a lawsuit filed against the pharmaceutical giant by Stepan Co., which seeks an order compelling Pfizer to cover costs the chemical company incurred from past and future cleanup of gypsum waste left at the Maywood Chemical Co. Superfund site. But Stepan cannot ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152390+00:00",
+              "published_date": null,
+              "source_hash": "6f349cb86e83a8e1d543bda8b421bab7"
+            },
+            {
+              "url": "",
+              "title": "EPA and State of New Jersey Propose Settlement with Stepan Company for ...",
+              "snippet": "Stepan Company has agreed to carry out EPA's chosen cleanup plan for a part of the site known as Operable Unit 1 (OU1). This plan aims to address the soil contamination by various chemicals and waste, such as metals, VOCs and SVOCs, at several site properties. Under the plan, the company will:",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152400+00:00",
+              "published_date": null,
+              "source_hash": "17e6fc76378bdfb9681604d68addefc8"
+            },
+            {
+              "url": "",
+              "title": "Stepan Co. v. Pollution Control Board - Casetext",
+              "snippet": "Waste Management of Illinois, Inc. v. Pollution Control Board ( Illinois State Chamber of Commerce v. ... Illinois Environmental Protection Act (the Act) (Ill. Rev. Stat. 1987, ch. 111 1/2, pars. 1029, 1041), appellant Stepan Chemical Company (Stepan) seeks administrative review of the November 25, 1987, final order of the Illinois Pollution ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152412+00:00",
+              "published_date": null,
+              "source_hash": "7831ef5790ffaff67c5124238ef90b28"
+            },
+            {
+              "url": "",
+              "title": "Pfizer's Hazardous Waste Lawsuit - Pro Pharma News",
+              "snippet": "Stepan Co., another entity involved in the pharmaceutical and chemical industries, filed a lawsuit against Pfizer. The lawsuit alleges that Pfizer should bear the financial burden of cleaning up gypsum waste at the Superfund site. While the court mostly denied Pfizer's motion to dismiss the lawsuit, it clarified that Stepan cannot pursue a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:44.152423+00:00",
+              "published_date": null,
+              "source_hash": "0d23c62778c456059afa78f406eccedc"
+            },
+            {
+              "url": "",
+              "title": "Stepan Co. (SCL) Q4 Earnings and Revenues Miss Estimates",
+              "snippet": "Over the last four quarters, the company has not been able to surpass consensus EPS estimates. Stepan Co., which belongs to the Zacks Chemical ... mostly depend on management's commentary ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Stepan Co Stepan Co chemical waste management controversies",
+              "retrieved_at": "2025-01-06T18:53:47.356585+00:00",
+              "published_date": "2024-02-20T14:39:00+00:00",
+              "source_hash": "b5a5505ce080630a85c5cc8d41aa74b4"
+            },
+            {
+              "url": "",
+              "title": "stepan | Violation Tracker - Good Jobs First",
+              "snippet": "Links: For a summary of this company's regulatory penalties in more than 50 other countries, ... Stepan Co. pesticide violation: 2019: EPA $612,718: STEPAN COMPANY: environmental violation: 2019: EPA (*) Penalty amounts marked by an asterisk are ones announced by more than one agency. Parent penalty totals are adjusted to avoid double-counting.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757070+00:00",
+              "published_date": null,
+              "source_hash": "20f4e7eb23fa1805cabe8d815d1b4d20"
+            },
+            {
+              "url": "",
+              "title": "Stepan Company v. Callahan Company - Casetext",
+              "snippet": "Stepan also argues that federal antitrust remedies are not inalienable benefits. To support this, Stepan cites In re Fine Paper Litigation State of Washington as holding that assignments of claims under the Sherman and Clayton Acts are valid. 632 F.2d 1081, 1090 (3d Cir. 1980). However, at the time of, and in connection with, the sales of the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757117+00:00",
+              "published_date": null,
+              "source_hash": "dd11e64294aa78571eeeee4f73e05754"
+            },
+            {
+              "url": "",
+              "title": "The Stepan Company Groundwater Pollution Settlement",
+              "snippet": "Wilmington, DE: (Feb-08-07) The Stepan Company, one of the largest manufacturers of solvents used in cleaning solvents and fluids, a former owner of the now defunct chemical plant on Eames Street ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757129+00:00",
+              "published_date": null,
+              "source_hash": "ca631883c1cb12b2dfa2af08e8cdd1cd"
+            },
+            {
+              "url": "",
+              "title": "STEPAN CO SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Stepan Co, a leading manufacturer in the chemical industry, has released its Form 10-Q report for the third quarter of 2023. ... Regulatory Risks: Compliance with Laws: The company must comply with environmental, health and safety, product registration, and anti-corruption laws. Non-compliance could result in fines, investigations, enforcement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757141+00:00",
+              "published_date": null,
+              "source_hash": "b0c1d77befd2b6b483e93d68aa7cc9c3"
+            },
+            {
+              "url": "",
+              "title": "STEPAN COMPANY v. PFIZER, INC. - Justia Dockets & Filings",
+              "snippet": "Filing 3 Corporate Disclosure Statement by STEPAN COMPANY. (RICHMAN-LA LONDE, ALEXA) March 27, 2023: Filing 2 SUMMONS ISSUED as to PFIZER, INC.. Attached is the official court Summons, please fill out Defendant and Plaintiffs attorney information and serve.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757161+00:00",
+              "published_date": null,
+              "source_hash": "cab0bfd8b8044e386c21b26a79794e0d"
+            },
+            {
+              "url": "",
+              "title": "In re: Stepan Co., No. 16-1811 (Fed. Cir. 2017) :: Justia",
+              "snippet": "Stepan's application is directed to herbicidal formulations containing glyphosate salt with a surfactant system. Surfactants can enhance glyphosate's effectiveness as an herbicide by providing better leaf-adherence, enhancing penetration; the \"invention is based on the unexpected discovery that surfactant systems comprising dialkoxylated alkylamine, water miscible solubilizer and amine ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757176+00:00",
+              "published_date": null,
+              "source_hash": "02dd2d5a146580f270140b3785a2b8fd"
+            },
+            {
+              "url": "",
+              "title": "Bulk Manufacturer of Controlled Substances Application: Stepan Company",
+              "snippet": "In accordance with 21 CFR 1301.33(a), this is notice that on January 26, 2024, Stepan Company, 100 West Hunter Avenue, Maywood, New Jersey 07607-1021, applied to be registered as a bulk manufacturer of the following basic class(es) of controlled substance(s):",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Stepan Co Stepan Co regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T18:53:48.757188+00:00",
+              "published_date": null,
+              "source_hash": "fc7cee79d8b91c7fbe97f50c072694be"
+            },
+            {
+              "url": "",
+              "title": "Performance with Integrity - Stepan Company",
+              "snippet": "Stepan is fully committed to fostering safety, supporting employee well-being and creating a workplace that encourages professional growth and development. Our company policies align with the International Labor Organization (ILO) Declaration on the Fundamental Principles and Rights at Work, and we work to promote security and opportunity for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827470+00:00",
+              "published_date": null,
+              "source_hash": "71bccf824e5b7d78174e009c66ce306b"
+            },
+            {
+              "url": "",
+              "title": "Responsible Practices - Stepan Company",
+              "snippet": "Across our global facilities, employees are trained on ethics and compliance related issues, including those defined in our company Code of Conduct, and on the importance of speaking up to communicate any concerns. In addition, Stepan participates in voluntary frameworks that evaluate performance related to environmental issues, human and labor ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827582+00:00",
+              "published_date": null,
+              "source_hash": "b04a0af3a55700aff4d184479d0e65aa"
+            },
+            {
+              "url": "",
+              "title": "Environmental Health & Safety - Stepan Company",
+              "snippet": "At Stepan, our operations are guided by a strong commitment to safety. We put health, safety and security first, recognizing that the people who enable our business are our top priority. We take the well-being of our employees, customers, visitors and communities in which we operate into consideration for everything decision we make.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827598+00:00",
+              "published_date": null,
+              "source_hash": "a866e757c8f290f452ffa57a86e4d819"
+            },
+            {
+              "url": "",
+              "title": "Stepan Transforms Safety Culture with Safe Start Program",
+              "snippet": "Today, there are eight SafeStart-certified, in-house trainers who train the company on safety practices that have created a significant impact on productivity and quality within the organization. Since starting the program, Stepan has reduced its rolling recordable incidents rate from 1.6 to 0.6 percent.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827611+00:00",
+              "published_date": null,
+              "source_hash": "4b2e41c8de2b6c120eb47f462f2b9356"
+            },
+            {
+              "url": "",
+              "title": "THIRD PARTY CODE OF CONDUCT - Stepan Company",
+              "snippet": "STEPAN COMPANY At Stepan we believe that chemistry can provide solutions to benefit the environment, promote human well-being, and meet the needs of a growing population. We take seriously our responsibility to operate in a manner that ensures the safety, security, and well-being of our people and the communities in which we operate.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827622+00:00",
+              "published_date": null,
+              "source_hash": "9626f6501f43e8be282ff53d203a4a2c"
+            },
+            {
+              "url": "",
+              "title": "Stepan Mission, Benefits, and Work Culture | Indeed.com",
+              "snippet": "Stepan performed especially well in categories related to Business Ethics and Labor and Human Rights, demonstrating the company's commitment to ethical, responsible and sustainable business practices as well as workplace safety and employee well-being.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827633+00:00",
+              "published_date": null,
+              "source_hash": "d29f7cf4341c3ef51dcc472c6632c082"
+            },
+            {
+              "url": "",
+              "title": "Working at Stepan: 107 Reviews | Indeed.com",
+              "snippet": "107 reviews from Stepan employees about Stepan culture, salaries, benefits, work-life balance, management, job security, ... They preach safety and family but in the same breath give you sub par equipment and expect everything. ... Company is poorly managed and in massive employee turnover/exodus. Also the HR department is incompetent and very ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827644+00:00",
+              "published_date": null,
+              "source_hash": "4830deb4170921b52815e006c9b7e82a"
+            },
+            {
+              "url": "",
+              "title": "Working at Stepan: Employee Reviews about Pay & Benefits - Indeed",
+              "snippet": "They preach safety and family but in the same breath give you sub par equipment and expect everything. ... Constant issues between management / hourly employees. Maintenance / Engineering Facility Manager (Former Employee) ... Stepan is a good Company to work for, enjoyable people to work with, Good benefits and pay, profit sharing with bonus ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827655+00:00",
+              "published_date": null,
+              "source_hash": "8e7094bbe5c16c2e79035721da7ac008"
+            },
+            {
+              "url": "",
+              "title": " Performance With Integrity - Stepan Company",
+              "snippet": "Employee Responsibilities Leadership Responsibilities Making Ethical Decisions Speaking Up - Sharing Concerns Zero Retaliation Workplace 12 Respect and Diversity 13 Harassment-free Environment 14 Health, Safety, and Security 15 Recordkeeping 16 Audits and Government Investigations 17 Company Assets 19 Cybersecurity",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827666+00:00",
+              "published_date": null,
+              "source_hash": "7d5eb7009180605da6616c5190284c77"
+            },
+            {
+              "url": "",
+              "title": "Working at Stepan - Glassdoor",
+              "snippet": "Stepan performed especially well in categories related to Business Ethics and Labor and Human Rights, demonstrating the company's commitment to ethical, responsible and sustainable business practices as well as workplace safety and employee well-being.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Stepan Co Stepan Co labor practices and employee safety concerns",
+              "retrieved_at": "2025-01-06T18:53:52.827676+00:00",
+              "published_date": null,
+              "source_hash": "323013b746cdc1d21c3c5c508d3ca92b"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Stepan Co chemical waste management controversies",
+              "rationale": "Investigate potential issues related to waste disposal and environmental impact",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Stepan Co regulatory fines or lawsuits",
+              "rationale": "Identify any legal or financial penalties related to non-compliance with chemical safety regulations",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Stepan Co labor practices and employee safety concerns",
+              "rationale": "Assess potential controversies related to workplace safety and employee treatment",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T11:54:09.271640",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

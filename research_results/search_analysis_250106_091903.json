@@ -1,0 +1,496 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:19:03.620085",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Blackbaud Inc",
+      "symbol": "BLKB",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Cybersecurity and data breach vulnerabilities",
+            "Regulatory and compliance challenges",
+            "Customer complaints and operational inefficiencies",
+            "Competitive pressures in the nonprofit software sector"
+          ],
+          "controversies": [
+            "Significant data breach in 2020 exposing sensitive customer and donor data",
+            "Regulatory scrutiny and settlements with the FTC",
+            "Class-action lawsuits related to the 2020 data breach",
+            "Criticism for lax security practices and delayed breach notifications"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Customer dissatisfaction with software usability and support responsiveness",
+            "Concerns over data protection practices and customer trust"
+          ],
+          "governance_issues": [
+            "Leadership changes introducing uncertainty and execution risks",
+            "Ongoing compliance with evolving data protection regulations"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "In re Blackbaud, Inc., Customer Data Beach Litig. - Casetext",
+              "snippet": "Plaintiffs argue that they have satisfied Rule 23(a)'s requirements because: (1) millions of individuals' data was exposed in the breach, satisfying the numerosity requirement; (2) many common questions of law and fact are raised regarding Blackbaud's data management and security practices, the materiality of its post-breach representations ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000706+00:00",
+              "published_date": null,
+              "source_hash": "0299d5cef16ccdf4683593ec418712fc"
+            },
+            {
+              "url": "",
+              "title": "FTC Finalizes Order with Blackbaud Related to Allegations the Firm's ...",
+              "snippet": "The Federal Trade Commission has finalized an order against Blackbaud Inc. settling allegations that its lax security practices allowed a hacker to breach the company's network and access the personal data of millions of consumers including Social Security and bank account numbers.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000818+00:00",
+              "published_date": null,
+              "source_hash": "ea647d1f8fd99f89b32201bc14c2e418"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Defeats Class Certification in Data Breach Lawsuit",
+              "snippet": "A federal court rejected class certification in a consolidated lawsuit alleging cloud-services provider Blackbaud Inc. failed to protect the personal information of more than 1.5 billion people that was exposed in a 2020 data breach and ransomware attack.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000833+00:00",
+              "published_date": null,
+              "source_hash": "f27f5e6886a2cd41378650a4949fca42"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud to pay $6.75M to resolve California data breach claims",
+              "snippet": "On June 13, Blackbaud Inc. agreed to pay $6.75 million to the state of California to resolve 2020 data breach claims brought by the state's attorney general. California was the only state to sit out of a $49.5 million settlement reached with 49 states and the District of Columbia to resolve the claims in 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000847+00:00",
+              "published_date": null,
+              "source_hash": "1a6f00092dad68a1dbe7217d9117d57f"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud To Face Data Breach Class Action Lawsuit, Judge Rules",
+              "snippet": "In addition, consumers alleged in multiple class action lawsuits that Blackbaud had failed to secure its data from ransomware attacks. The claims were consolidated in South Carolina federal court and the multidistrict litigation includes more than 30 plaintiffs from 20 states that allege the Blackbaud data breach exposed personal, educational ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000858+00:00",
+              "published_date": null,
+              "source_hash": "267125b3056300471f3bb87fdbe401a9"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Hit with Class Action Over Data Breach Stemming from Three ...",
+              "snippet": "Blackbaud, Inc. faces at least one other proposed class action over its alleged failure to properly secure and safeguard customers' personally identifiable information.. The suit, filed September 4 in South Carolina federal court, claims sensitive information provided to the cloud-based software and data intelligence company by its customers\u2014nonprofits, foundations, educational ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000868+00:00",
+              "published_date": null,
+              "source_hash": "9706b230ae57330ba645d5878c8acdc3"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Again Defeats Class Certification in Data Breach Suit",
+              "snippet": "A federal judge denied plaintiffs' request for leave to file a second attempt for class certification in a consolidated lawsuit against cloud-services provider Blackbaud Inc. \"Ultimately, the Court finds that allowing successive argument on class certification based on an unchanged record this ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000884+00:00",
+              "published_date": null,
+              "source_hash": "86643a1af074a5d3c49230fe00bc94d2"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Data Breach Class Action Trimmed, Claims Co Misrepresented ...",
+              "snippet": "Blackbaud Data Breach Class Action Lawsuit Overview: Who: A federal judge dismissed a handful of claims in consolidated class action lawsuits filed in the aftermath of the massive 2020 Blackbaud data breach. Why: While the judge trimmed some state law claims, Blackbaud Inc still faces allegations it should have done more to prevent a 2020 ransomware attack that exposed millions of users ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000894+00:00",
+              "published_date": null,
+              "source_hash": "92b68c92a9bcc08bb7344384641afca4"
+            },
+            {
+              "url": "",
+              "title": "In re Blackbaud, Inc. Customer Data Security Breach Litigation",
+              "snippet": "In July 2020, Blackbaud, a South Carolina-based software company, revealed that a hacker had breached its network in May 2020. Initially, the company claimed no consumer personal data had been accessed, but later it was discovered that sensitive information, including Social Security and bank account numbers, were compromised.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000905+00:00",
+              "published_date": null,
+              "source_hash": "b856daebe034b061e9dca2746437da9e"
+            },
+            {
+              "url": "",
+              "title": "Nonprofit service provider Blackbaud settles data breach case for $49 ...",
+              "snippet": "Fundraising software company Blackbaud agreed Thursday to pay $49.5 million to settle claims brought by the attorneys general of 49 states and Washington, D.C., related to a 2020 data breach that exposed sensitive information from 13,000 nonprofits.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:34.000915+00:00",
+              "published_date": null,
+              "source_hash": "20a89694d16ab0402ccdfe8aa5c8aa42"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Again Defeats Class Certification in Data Breach Suit",
+              "snippet": "A federal judge denied plaintiffs' request for leave to file a second attempt for class certification in a consolidated lawsuit against cloud-services provider Blackbaud Inc.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:45.440151+00:00",
+              "published_date": "2024-12-31T17:26:00+00:00",
+              "source_hash": "838070f4fbfd46e2aed28a20f2e79b71"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud hit with new federal mandates following 2020 data breach",
+              "snippet": "Further, Blackbaud is now required to notify the FTC of any further data ... class-action lawsuit against the company for what they were calling poor security and handling of the breach.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:36.471756+00:00",
+              "published_date": "2024-05-22T16:50:00+00:00",
+              "source_hash": "5f4f858c1fd50857815770e1a4843e32"
+            },
+            {
+              "url": "",
+              "title": "Defending Data Breach Class Actions",
+              "snippet": "An example is In re Blackbaud, Inc., Customer Data Breach Litig., 567 F. Supp. 3d 667, 674 (D.S.C. 2021), an MDL proceeding arising from a ransomware attack against Blackbaud. The court determined ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:36.471785+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "27d29231af59bb39ad6f295d18f96aea"
+            },
+            {
+              "url": "",
+              "title": "Save the Children Statement on Blackbaud Security Breach",
+              "snippet": "Blackbaud subsequently paid a ransom to the hacker to have them delete the data. Unfortunately, Save the Children was one of a number of organizations impacted by this security breach. Additional information on the incident is available on Blackbaud's website.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:36.471814+00:00",
+              "published_date": "2020-08-14T02:20:00+00:00",
+              "source_hash": "bfcef2a232d71cf97919a8539a23caec"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud: Bank details and passwords at risk in giant charities hack",
+              "snippet": "Blackbaud's software is used by non-profit organisations to help obtain donations Bank account information and users' passwords are among details feared stolen by hackers in a security breach at a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc data breach lawsuits",
+              "retrieved_at": "2025-01-06T16:18:36.471839+00:00",
+              "published_date": "2020-10-01T00:00:00+00:00",
+              "source_hash": "36cda3fbed9abfa47dc8f62afb3c5b3b"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud, Inc. | BBB Complaints | Better Business Bureau",
+              "snippet": "On December 7, 2022 MED13L, a nonprofit charity benefiting children affected with MED13L syndrome, entered into a contract with Blackbaud, Inc. (the \"Contract\") for Blackbaud, Inc.'s Raiser's Edge ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915489+00:00",
+              "published_date": null,
+              "source_hash": "1daaf1017cac55d6d06af23ac85441ff"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud, Inc. | Complaints | Better Business Bureau\u00ae Profile",
+              "snippet": "View customer complaints of Blackbaud, Inc., BBB helps resolve disputes with the services or products a business provides.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915597+00:00",
+              "published_date": null,
+              "source_hash": "825124422d482258e781f01ce86c2918"
+            },
+            {
+              "url": "",
+              "title": " Complaint - Federal Trade Commission",
+              "snippet": "1. Respondent Blackbaud, Inc. is a Delaware corporation with its principal place of business at 65 Fairchild Street, Charleston, South Carolina 29492. 2. The acts and practices of Blackbaud alleged in this complaint have been in or affecting commerce, as \"commerce\" is defined in Section 4 of the Federal Trade Commission Act, and constitute ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915630+00:00",
+              "published_date": null,
+              "source_hash": "801bc7d4f84464569932cfbfeefd4d6f"
+            },
+            {
+              "url": "",
+              "title": "New FTC Cyber Complaint Shows New Approach - Thompson Coburn LLP",
+              "snippet": "The Federal Trade Commission on Feb. 1 entered a consent order to resolve a complaint alleging unfair and deceptive practices by Blackbaud, Inc. relating to a well-publicized data breach at the company. While most of the FTC complaint trods familiar ground, paragraphs 29-31 allege that Blackbaud's failure to delete records in accordance with the company's records retention policy ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915644+00:00",
+              "published_date": null,
+              "source_hash": "55b575c6e761f85b43f5d63b0afd2358"
+            },
+            {
+              "url": "",
+              "title": "Read Customer Service Reviews of blackbaud.com - Trustpilot",
+              "snippet": "Blackbaud Reviews 4 \u2022 Poor. 2.6. In ... We had great customer service but there were minor errors with incorrect URLs and it taking a bit longer than expected. Luckily the chat support helped fix the majority of our problems within a day. ... Blackbaud Inc. is a supplier of software and services specifically designed for nonprofit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915655+00:00",
+              "published_date": null,
+              "source_hash": "c646ae8933999320e34dd6aec7fca1b3"
+            },
+            {
+              "url": "",
+              "title": "FTC Finalizes Order Against Blackbaud Over Data Breach - MSN",
+              "snippet": "The FTC first announced the complaint in February 2024. It charged that Blackbaud, a South Carolina firm providing data services and financial, fundraising, and administrative software to various ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915672+00:00",
+              "published_date": null,
+              "source_hash": "a3ff4d9e3249dc6ccf2c0a6eac4a3e32"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Reviews, Complaints, Customer Service - Revdex.com",
+              "snippet": "Blackbaud, reaches out well in advance of the contract renewal date to make you aware of the upcoming renewal and invite you to evaluate it and make changes to it if necessary. Most recently, renewal reminders were sent on 9/26/17 and 9/20/16 for the 2016 and 2017 renewals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915682+00:00",
+              "published_date": null,
+              "source_hash": "2e981fd07e4c52372724a4206ef19455"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Merchant Services Reviews & Complaints - CardPaymentOptions.com",
+              "snippet": "Blackbaud Customer Support Options. Blackbaud provides customer support options including a dedicated phone number and chat support, offering service levels that are in line with top-rated credit card processors known for excellent customer service. Blackbaud Customer Service Numbers (800) 443-9441 - Toll-Free Customer Support (843) 216-6111 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915693+00:00",
+              "published_date": null,
+              "source_hash": "87ef742f5649f1ef93861127c5eb691b"
+            },
+            {
+              "url": "",
+              "title": "1310 Blackbaud Customer Reviews & References | FeaturedCustomers",
+              "snippet": "Learn more about Blackbaud - use cases, approaches, & end results from real customers; read customer reviews including 1310 testimonials, videos, and case studies. Software. Accounting Software ... and watch 35 customer videos to see why companies chose Blackbaud as their Grant Management Software. About Blackbaud. Blackbaud is the world's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915704+00:00",
+              "published_date": null,
+              "source_hash": "42c5623513bbb0d9cdee09aa31c32f5d"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud Again Defeats Class Certification in Data Breach Suit",
+              "snippet": "Software Updates; Manage Contracts and Orders; Support . Americas +1 212 318 2000 . EMEA +44 20 7330 7500 . Asia Pacific +65 6212 1000 . News Podcasts . Research Tools . ... for leave to file a second attempt for class certification in a consolidated lawsuit against cloud-services provider Blackbaud Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Blackbaud Inc Blackbaud Inc customer complaints software usability",
+              "retrieved_at": "2025-01-06T16:18:37.915714+00:00",
+              "published_date": null,
+              "source_hash": "d9527465406c06915b769d8a65f5d190"
+            },
+            {
+              "url": "",
+              "title": "General Data Protection Regulation - Blackbaud",
+              "snippet": "Data protection laws across Europe are undergoing their first substantial changes in approximately 20 years. The General Data Protection Regulation (GDPR), due to come into law on May 25, 2018 is at the center of the change and has received intense coverage across the non-profit sector and mainstream press.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.952999+00:00",
+              "published_date": null,
+              "source_hash": "505756067574ee1e2e28474e5095b2c0"
+            },
+            {
+              "url": "",
+              "title": "Governance and Data Responsibility - Blackbaud",
+              "snippet": "At Blackbaud, we're powered by purpose. Explore how we're delivering on our commitment to social responsibility. ... compliance regulations, privacy requirements, and best practices, including: NIST CSF, PCI DSS, SOC 1, SOC 2, GDPR, and Cloud Security Alliance; Product security: Our development teams take part in regular training and use ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953109+00:00",
+              "published_date": null,
+              "source_hash": "60020d2d4d0fd89c6e229b902b9e817c"
+            },
+            {
+              "url": "",
+              "title": "Compliance & Certifications - Blackbaud",
+              "snippet": "Validation of compliance is performed annually, either by an external qualified security assessor (QSA) or by a firm-specific internal security assessor (ISA) who creates a report on compliance (ROC) for organizations handling large volumes of transactions or by self-assessment questionnaire (SAQ) for companies handling smaller volumes.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953124+00:00",
+              "published_date": null,
+              "source_hash": "c81722e2728c989ec0a59b1a199f3371"
+            },
+            {
+              "url": "",
+              "title": "Security - Blackbaud",
+              "snippet": "Learn more about Blackbaud's GDPR compliance; ... In some instances, Customer Data will be maintained to comply with legal and regulatory obligations. Blackbaud may also keep Customer Data to assist with fraud monitoring, detection, and prevention activities and to comply with tax, accounting, and financial reporting obligations. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953136+00:00",
+              "published_date": null,
+              "source_hash": "f0e48ec00a3616f00d3a10de4e4284b5"
+            },
+            {
+              "url": "",
+              "title": "Claims under CCPA survive motion to dismiss | Thompson Coburn LLP",
+              "snippet": "In further support of its finding that Blackbaud could be a CCPA \"business,\" the court also pointed out that Blackbaud is registered as a \"data broker\" in California, and that \"Cal. Civ. Code \u00a7 1798.99.80 provides that a 'data broker' is a 'business that knowingly collects and sells to third parties the personal information of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953145+00:00",
+              "published_date": null,
+              "source_hash": "faf87350e5c7715180265b3a83655436"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Blackbaud provides PA-DSS and PCI-DSS attestations of compliance to Blackbaud Internet Services and Blackbaud Payment Solutions. Blackbaud also leverages the Cloud Security Alliance's Consensus Assessments Initiative Questionnaire (CAIQ) assessment questionnaires to provide transparency regarding the adherence of our products to the CSA",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953158+00:00",
+              "published_date": null,
+              "source_hash": "335bdbd8ab97d5de9a627d9eab4a408a"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "compliant with GDPR \u2022 Blackbaud GDPR Product Documentation \u2022 Health Insurance Portability and Accountability Act (HIPAA): A U.S. law that provides data privacy and security provisions for safeguarding Protected Health Information (PHI). \u2022 Blackbaud regularly performs assessments for our compliance with industry-standard data protection ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953168+00:00",
+              "published_date": null,
+              "source_hash": "3ed107d8f16edef4fb134a1666ca3ba3"
+            },
+            {
+              "url": "",
+              "title": "Blackbaud - firm that paid off crooks after 2020 ransomware attack ...",
+              "snippet": "US district judge J Michelle Childs said in a 33-page ruling [] that \"Blackbaud's alleged registration as a 'data broker' suggests that it is also a 'business' under the CCPA.\"The firm had previously argued it did not qualify as a \"business\" regulated by the CCPA, California's GDPR-ish data privacy regulations that came into effect in July 2020.. The CCPA claim, if successful, could net ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953180+00:00",
+              "published_date": null,
+              "source_hash": "0c93751c12ce2263e36c1af6040c35f4"
+            },
+            {
+              "url": "",
+              "title": "General Data Protection Regulation - Blackbaud",
+              "snippet": "The UK GDPR absorbs the privacy compliance requirements of the EU GDPR and sits alongside the UK's Data Protection Act 2018. All references to \"the GDPR\" in this resource refer to both the EU GDPR and the UK GDPR. At Blackbaud, data protection and privacy are a priority.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953190+00:00",
+              "published_date": null,
+              "source_hash": "e90488b7aac56616f3ffce2bc7c9b6d7"
+            },
+            {
+              "url": "",
+              "title": "What is GDPR? - Blackbaud",
+              "snippet": "What is GDPR? The General Data Protection Regulation (GDPR) is an EU law that will be enforceable from 25th May 2018, and in the UK will replace the ageing Data Protection Act. Answer: Note: Though the UK left the EU, the GDPR is retained in UK domestic law. The UK GDPR absorbs the privacy requirements of the EU GDPR and sits alongside the UK ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Blackbaud Inc Blackbaud Inc regulatory compliance GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:18:41.953201+00:00",
+              "published_date": null,
+              "source_hash": "a87f70eab18e7f7fba1e25e53c43e572"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Blackbaud Inc data breach lawsuits",
+              "rationale": "Investigate legal repercussions and settlements from the 2020 cybersecurity incident",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Blackbaud Inc customer complaints software usability",
+              "rationale": "Explore user feedback on software usability and customer support issues",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Blackbaud Inc regulatory compliance GDPR CCPA",
+              "rationale": "Assess the company's adherence to data privacy regulations and potential legal risks",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:19:03.620092",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

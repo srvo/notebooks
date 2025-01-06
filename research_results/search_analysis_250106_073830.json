@@ -1,0 +1,480 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T07:38:30.942195",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Armstrong World Industries Inc",
+      "symbol": "AWI",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Supply chain vulnerabilities due to raw material shortages, price volatility, and logistics disruptions",
+            "Economic sensitivity tied to the cyclical construction industry",
+            "Environmental concerns related to manufacturing processes",
+            "Competitive pressures in the building products market"
+          ],
+          "controversies": [
+            "Scrutiny over environmental impact of manufacturing processes",
+            "Potential labor relations issues in non-union plants"
+          ],
+          "environmental_issues": [
+            "Energy consumption and waste generation in manufacturing processes"
+          ],
+          "social_issues": [
+            "Maintaining positive labor relations, particularly in non-union plants"
+          ],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. - Newsweek Names Armstrong World ...",
+              "snippet": "About Armstrong World Industries. Armstrong World Industries, Inc. (AWI) is a leader in the design and manufacture of innovative ceiling and wall solutions in the Americas. With $1.3 billion in revenue in 2023, AWI has approximately 3,500 employees and a manufacturing network of 19 facilities, plus seven facilities dedicated to its WAVE joint ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.715971+00:00",
+              "published_date": null,
+              "source_hash": "dd617e763c8b476f764a349a2f701c80"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries - Wikipedia",
+              "snippet": "Armstrong World Industries, Inc. is a Pennsylvania corporation incorporated in 1891. [2] It is an international designer and manufacturer of wall and ceiling building materials. Based in Lancaster, Pennsylvania, AWI has a global manufacturing network of 26 facilities, including nine plants dedicated to its WAVE joint venture. [3]The company filed for reorganization December 6, 2000 [4] and it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.715987+00:00",
+              "published_date": null,
+              "source_hash": "262b69048cfaa97011cfc135963f6e38"
+            },
+            {
+              "url": "",
+              "title": "About Us - Armstrong World Industries",
+              "snippet": "Armstrong World Industries, Inc. (AWI) is a trusted leader in the design and manufacture of ceiling and wall system solutions in the Americas committed to building a better future. AWI's broad product portfolio provides innovative solutions that leverage science, design and sustainability to support industry needs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716018+00:00",
+              "published_date": null,
+              "source_hash": "81e937756dff6ba10901480114157862"
+            },
+            {
+              "url": "",
+              "title": "AWI | One of America's Greenest Companies - Armstrong World Industries",
+              "snippet": "In alignment with its commitment to sustainability and corporate responsibility, Armstrong World Industries' 2024 Sustainability Report highlights key initiatives and progress around the company's core sustainability pillars: Healthy and Circular Products, Healthy Planet and Thriving People and Communities. Key areas of focus include ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:00.055334+00:00",
+              "published_date": null,
+              "source_hash": "43da94201fecde8c992e018993cc175c"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. - Investor Relations - Armstrong Ceiling S",
+              "snippet": "Armstrong World Industries is a leader in the design, innovation and manufacture of innovative ceiling and wall system solutions in the Americas. For over 160 years, Armstrong has delivered products and services to our customers that can transform how people design, build and experience spaces with aesthetics, acoustics, wellbeing and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716007+00:00",
+              "published_date": null,
+              "source_hash": "95638552a964ac1df7b5b7bbae33d801"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Earns Spot Among America's Most Responsible ...",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. (NYSE: AWI) has been recognized as one of America's Most Responsible Companies by Newsweek for the third consecutive year. This distinction ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:00.055354+00:00",
+              "published_date": null,
+              "source_hash": "38538e9d8d0c00d448a03675f254048e"
+            },
+            {
+              "url": "",
+              "title": "Newsweek Names Armstrong World Industries One of America's Most ...",
+              "snippet": "About Armstrong World Industries Armstrong World Industries, Inc. (AWI) is a leader in the design and manufacture of innovative ceiling and wall solutions in the Americas.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716040+00:00",
+              "published_date": null,
+              "source_hash": "fa824d1c073d51aff31db8cdc8f1e321"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. - turf.design",
+              "snippet": "About Armstrong World Industries Armstrong World Industries, Inc. (AWI) is a leader in the design and manufacture of innovative commercial and residential ceiling, wall and suspension system solutions in the Americas. With over $1 billion in revenue in 2019, AWI has approximately 2,500 employees and a manufacturing network of 13 facilities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:00.055378+00:00",
+              "published_date": null,
+              "source_hash": "fdc5b85aece78b98173a9cf5e2b21323"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Celebrated as One of America's Greenest ...",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. has been recognized by Newsweek as one of America's Greenest Companies for 2025, highlighting its steadfast commitment to sustainability and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:00.055387+00:00",
+              "published_date": null,
+              "source_hash": "406891321c525ac2d3876abccbd8b9f1"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. - Dun & Bradstreet",
+              "snippet": "Company Description: Armstrong World Industries (AWI) is a leading producer of ceiling systems for use in the construction and renovation of commercial and residential buildings. It designs, manufactures, sources, and sells ceiling and wall systems (primarily mineral fiber, fiberglass wool, metal, wood, wood fiber, glass-reinforced gypsum, and felt).",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:00.055397+00:00",
+              "published_date": null,
+              "source_hash": "a65666c86a12b8bafa462ad9f5d16c09"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc.",
+              "snippet": "Armstrong World Industries, Inc. engages in the design ... The Mineral Fiber segment involves the production of suspended and soft fiber ceiling systems. The Architectural Specialties segment ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:03.369325+00:00",
+              "published_date": "2023-12-22T06:29:00+00:00",
+              "source_hash": "c69348969e45dcccef198d7ffde8b6b3"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Acquires 3form, Broadening Design and Sustainability Offerings",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. (NYSE: AWI ... Hunter Douglas Group since its founding in 2002, boasts three production and design facilities and approximately 390 employees.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:03.369417+00:00",
+              "published_date": "2024-05-08T00:02:00+00:00",
+              "source_hash": "fd84da0cb5cd6e04d4b40633c1c008fc"
+            },
+            {
+              "url": "",
+              "title": "Principal Financial Group Inc. Has $27.10 Million Stock Holdings in Armstrong World Industries, Inc. (NYSE:AWI)",
+              "snippet": "Armstrong World Industries, Inc, together with its subsidiaries, engages in the design, manufacture, and sale of ceiling and wall solutions in the Americas. It operates through Mineral Fiber and Architectural Specialties segments. The company offers ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:03.369445+00:00",
+              "published_date": "2024-12-25T00:00:00+00:00",
+              "source_hash": "4334ccff9dee2487f8ea4cad821b968b"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Earns Spot Among America's Most Responsible Companies",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. (NYSE ... strive to make a positive impact on our customers and communities.\" Armstrong, a leader in innovative ceiling and wall solutions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc environmental impact of ceiling production",
+              "retrieved_at": "2025-01-06T14:38:03.369460+00:00",
+              "published_date": "2024-12-18T10:06:00+00:00",
+              "source_hash": "666f62715adc47b87b49d375a63b1afb"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc.'s (NYSE:AWI) Stock's On An Uptrend: Are Strong Financials Guiding The Market?",
+              "snippet": "Most readers would already be aware that Armstrong World Industries' (NYSE:AWI) stock increased significantly by 30% over the past three months. Given the company's impressive performance ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:09.113182+00:00",
+              "published_date": "2024-12-09T10:07:00+00:00",
+              "source_hash": "cf03d448a375ff9b32e951ae07de525d"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. (AWI) - Yahoo Finance",
+              "snippet": "Find the latest Armstrong World Industries, Inc. (AWI) stock quote, history, news and other vital information to help you with your stock trading and investing. 500 Failed to fetch",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:06.647747+00:00",
+              "published_date": null,
+              "source_hash": "f21f03b297cefe56de7c3d1ad6f1e745"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Inc. - The New York Times",
+              "snippet": "News about Armstrong World Industries Inc., including commentary and archival articles published in The New York Times. ... files lawsuit against Joseph F Rice and his firm, Motley Rice, alleging ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:06.647757+00:00",
+              "published_date": null,
+              "source_hash": "b8fc369071f13beae2e55474fdfb9052"
+            },
+            {
+              "url": "",
+              "title": "AWI.N - | Stock Price & Latest News | Reuters",
+              "snippet": "Armstrong World Industries, Inc. designs, innovates, and manufactures ceiling and wall system solutions. The Company manufactures and sources products made of numerous materials, including mineral ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:06.647773+00:00",
+              "published_date": null,
+              "source_hash": "18bfb450b21dd4eb31c086ae5d654b35"
+            },
+            {
+              "url": "",
+              "title": "Newsweek Names Armstrong World Industries One of America's Most ...",
+              "snippet": "About Armstrong World Industries. Armstrong World Industries, Inc. (AWI) is a leader in the design and manufacture of innovative ceiling and wall solutions in the Americas. With $1.3 billion in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:06.647781+00:00",
+              "published_date": null,
+              "source_hash": "08ae817011412b75d5fd11d5bfe04b3b"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries | AWI Stock Price, Company Overview & News",
+              "snippet": "Armstrong World Industries, Inc. engages in the design, manufacture, and trade of commercial and residential ceiling, wall, and suspension system solutions. Subscribe To Newsletters PROFILE",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:06.647788+00:00",
+              "published_date": null,
+              "source_hash": "1777a36f7ee2c0606b7b00b2e48292ce"
+            },
+            {
+              "url": "",
+              "title": "AWI - | Stock Price & Latest News | Reuters",
+              "snippet": "About Armstrong World Industries Inc (AWI) Company Information Armstrong World Industries, Inc. designs, innovates, and manufactures ceiling and wall system solutions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:06.647800+00:00",
+              "published_date": null,
+              "source_hash": "9087b933679f0911b699e843d0bce5ce"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc.",
+              "snippet": "Armstrong World Industries, Inc. engages in the design, manufacture, and trade of commercial and residential ceiling, wall, and suspension system solutions. It operates through the following ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:09.113094+00:00",
+              "published_date": "2023-12-22T06:29:00+00:00",
+              "source_hash": "d3e937a61b53665168bb2ca12110ab03"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Acquires 3form, Broadening Design and Sustainability Offerings",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. (NYSE: AWI) recently announced the acquisition of 3form, LLC, a Salt Lake City-based designer and manufacturer of architectural resins and glass.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:14.192051+00:00",
+              "published_date": "2024-05-08T00:02:00+00:00",
+              "source_hash": "0d57591961fce618533d1b39daee99d9"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Partners with Augmentir to Boost Workforce Safety and Productivity",
+              "snippet": "HORSHAM, PA \u2014 Armstrong World Industries, Inc. (AWI) has announced its selection of Augmentir's connected worker platform to enhance the safety, productivity, and efficiency of its workforce.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:09.113193+00:00",
+              "published_date": "2024-12-11T07:03:00+00:00",
+              "source_hash": "03eb8485e5ed0e974f665bffde0aec3b"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. Selects Augmentir's Connected Worker Platform to Enhance Workforce Productivity and Safety",
+              "snippet": "is proud to announce that Armstrong World Industries, Inc. (AWI) has selected Augmentir's connected worker platform to further enhance the lives, safety, and productivity of its workforce.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T14:38:09.113205+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "47a897f4e7ee13fc08ff3e339961e944"
+            },
+            {
+              "url": "",
+              "title": "Safe and Healthy Employees | Armstrong World Industries",
+              "snippet": "Safety is the bedrock of Armstrong, and employee well-being - from a physical, mental and social perspective - is an important part of our commitment to our employees. ... Regular positive relations training with a component of National Labor Relations Board training at non-union plants; Other feedback mechanisms, including suggestion boxes ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.715919+00:00",
+              "published_date": null,
+              "source_hash": "b83e22916337aa8b20ed60fb69379ca7"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Information - RocketReach",
+              "snippet": "Armstrong World Industries, Inc. (AWI) is a leader in the design and manufacture of innovative ceiling and wall system solutions in the Americas. With $1.3 billion in revenue in 2023, AWI has approximately 3,500 employees and a manufacturing network of 19 facilities, plus seven facilities dedicated to its WAVE joint venture.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716029+00:00",
+              "published_date": null,
+              "source_hash": "d962df7732d0cb639bacf41f8305d8e5"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries - Overview, News & Similar ... - ZoomInfo",
+              "snippet": "Armstrong World Industries Schedules Second Quarter 2024 Earnings Release and Conference Call LANCASTER, Pa.--(BUSINESS WIRE)--Armstrong World Industries, Inc. (NYSE:AWI), a leader in the design, innovation and manufacture of ceiling and wall solutions in the Americas, will release its second-quarter 2024 results before the market opens on Tuesday, July 30 and host a conference call to discuss ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716050+00:00",
+              "published_date": null,
+              "source_hash": "7120ba04e48e9d80b81cf39caacac30a"
+            },
+            {
+              "url": "",
+              "title": " Newsweek Names Armstrong World Industries One of the World's Most ...",
+              "snippet": "A full list of the World's Most Trustworthy Companies can be found here. About Armstrong World Industries Armstrong World Industries, Inc. (AWI) is a leader in the design and manufacture of innovative commercial ceiling and wall solutions in the Americas. With $1.2 billion in",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716060+00:00",
+              "published_date": null,
+              "source_hash": "df2bc05fda9147015a9cd2e1253bae71"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries, Inc. - Armstrong World Industries ...",
+              "snippet": "LANCASTER, Pa., Sept. 28, 2023 (GLOBE NEWSWIRE) - Armstrong World Industries, Inc. (NYSE:AWI), a leader in the design, innovation and manufacture of ceiling and wall solutions, announced today that it has been named to U.S. News World Report's list of America's Best Companies to Work For in the Construction and Materials industry. \"We are honored to be named to the inaugural U.S. News ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:10.716070+00:00",
+              "published_date": null,
+              "source_hash": "5135a19c473a490d92e1f7e93a37108d"
+            },
+            {
+              "url": "",
+              "title": "Principal Financial Group Inc. Has $27.10 Million Stock Holdings in Armstrong World Industries, Inc. (NYSE:AWI)",
+              "snippet": "Principal Financial Group Inc. lessened its stake in shares of Armstrong World Industries, Inc. (NYSE:AWI - Free Report) by 4.1% during the third quarter, according to its most recent filing with the Securities and Exchange Commission (SEC). The ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:14.191997+00:00",
+              "published_date": "2024-12-25T00:00:00+00:00",
+              "source_hash": "c4700f562e050a8c8070ed39f50b61af"
+            },
+            {
+              "url": "",
+              "title": "Is Armstrong World Industries (AWI) Stock Outpacing Its Construction Peers This Year?",
+              "snippet": "For those looking to find strong Construction stocks, it is prudent to search for companies in the group that are outperforming their peers. Is Armstrong World Industries (AWI) one of those stocks right now?",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:14.192041+00:00",
+              "published_date": "2024-12-24T14:40:13+00:00",
+              "source_hash": "30d4e15db9380b7408b08d00faae30c0"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Acquires A. Zahner Company to Expand Architectural Metal Solutions",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. (NYSE: AWI) has announced its acquisition of A. Zahner Company, a Kansas City-based leader in the design, engineering, and fabrication of complex ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:14.192062+00:00",
+              "published_date": "2024-12-12T05:03:00+00:00",
+              "source_hash": "d59e96b81164fbdcdbdb0c5ba41b777e"
+            },
+            {
+              "url": "",
+              "title": "Armstrong World Industries Earns Spot Among America's Most Responsible Companies",
+              "snippet": "LANCASTER, PA \u2014 Armstrong World Industries, Inc. (NYSE: AWI ... company's commitment to sustainability and ethical business practices. The annual rankings, compiled by Newsweek in partnership ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Armstrong World Industries Inc Armstrong World Industries Inc labor practices and employee relations",
+              "retrieved_at": "2025-01-06T14:38:14.192070+00:00",
+              "published_date": "2024-12-18T10:06:00+00:00",
+              "source_hash": "d5dee57c4a4cf35202c1772c939fc314"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "Armstrong World Industries Inc environmental impact of ceiling production",
+              "rationale": "Assess the environmental footprint of AWI's manufacturing processes and materials",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Armstrong World Industries Inc lawsuits or legal disputes",
+              "rationale": "Identify any ongoing or past legal issues that could impact the company's financial stability or reputation",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Armstrong World Industries Inc labor practices and employee relations",
+              "rationale": "Evaluate the company's treatment of workers and any controversies related to labor practices",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T07:38:30.942206",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,410 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:01:56.034497",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Informatica Inc.",
+      "symbol": "INFA",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and financial risks from settlements and ongoing litigation",
+            "Intense competition from cloud-native and established players",
+            "Customer retention challenges during transition to cloud-first model",
+            "Economic sensitivity due to reliance on enterprise IT spending",
+            "Regulatory compliance risks related to data privacy and security"
+          ],
+          "controversies": [
+            "$21.57 million settlement for misleading GSA contract negotiations",
+            "Ongoing lawsuit filed by Data Resonance LLC"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Potential ethical concerns due to past misleading business practices"
+          ],
+          "governance_issues": [
+            "Ethical lapses in business practices highlighted by the GSA settlement",
+            "Post-IPO financial performance showing widening net losses"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Informatica Agrees to Pay $21.57 Million for Alleged False Claims ...",
+              "snippet": "Informatica LLC f/k/a Informatica Corporation has agreed to pay $21.57 million to resolve allegations that it caused the government to be overcharged by providing misleading information about its commercial sales practices that was used in General Services Administration (\"GSA\") contract negotiations, the Justice Department announced today ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814507+00:00",
+              "published_date": null,
+              "source_hash": "da441900f863ad4787cd1fe33cd160d6"
+            },
+            {
+              "url": "",
+              "title": "Data Resonance LLC v. Informatica Inc. (1:23-cv-01473), Delaware ...",
+              "snippet": "Data Resonance LLC v. Informatica Inc. (1:23-cv-01473), Delaware District Court, Filed: 12/28/2023 - PacerMonitor Mobile Federal and Bankruptcy Court PACER Dockets ... Informatica Inc. answer due 3/11/2024). Ordered by Judge Jennifer L. Hall on 1/23/2024. (ceg) Related: [-] Monday, January 22, 2024: 10 10 motion Extension of Time to File Answer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814562+00:00",
+              "published_date": null,
+              "source_hash": "4fbd309e2280aa6b769fef13898241f0"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. | Informatica, Inc. - bespc.com",
+              "snippet": "On or around October 27, 2021, Informatica conducted its initial public offering (\"IPO\"), issuing 29,000,000 shares priced at $29.00 per share. Then, on February 16, 2022, the Company reported a net loss that widened to $66.3 million, or 25 cents a share, from $32.8 million, or 13 cents a share, in the year-ago period.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814590+00:00",
+              "published_date": null,
+              "source_hash": "c354de3fafb2c7b31f50a308f81ed009"
+            },
+            {
+              "url": "",
+              "title": "INFORMATICA ALERT: Bragar Eagel & Squire, P.C. is Investigating ...",
+              "snippet": "INFORMATICA ALERT: Bragar Eagel & Squire, P.C. is Investigating Informatica Inc. on Behalf of Informatica Stockholders and Encourages Investors to Contact the Firm February 24, 2022 09:00 PM ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814600+00:00",
+              "published_date": null,
+              "source_hash": "a7fad1565a5d8578c7e25d2541319515"
+            },
+            {
+              "url": "",
+              "title": "Software company agrees to settle FCA allegations for $22M",
+              "snippet": "Informatica reached a settlement where they agreed to pay just under $22 million to settle this whistleblower case. The settlement also resolved allegations that Informatica caused certain sales to the United States in violation of the Trade Agreement Act, which restricts the country of origin for goods purchased by the government.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814608+00:00",
+              "published_date": null,
+              "source_hash": "830efbb9a2b8e712a7d16672b1e6986e"
+            },
+            {
+              "url": "",
+              "title": "Informatica Corporation Settles Qui Tam Claim For Over $21 Million",
+              "snippet": "Informatica recently agreed to settle a qui tam claim for over $21 million, resolving allegations that the company lied to the federal government about its commercial sales practices for the General Services Administration (GSA).. Informatica Corporation LLC is a software development company that sells tools that are used to establish and maintain data warehouses.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500808+00:00",
+              "published_date": null,
+              "source_hash": "32e0c6aa651c6d0d83efb42df79ceec1"
+            },
+            {
+              "url": "",
+              "title": "Donaldson v. Informatica Corp.. | 792 F.Supp.2d 850 - CaseMine",
+              "snippet": "On or about May 5, 2008, Donaldson filed a Complaint against Informatica in this Court (the \"First Lawsuit\"), alleging several claims including an alleged violation of the Pennsylvania Wage Payment and Collection Law arising out of a commission dispute over a sale to Dell, Inc. that closed in March 2008.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814625+00:00",
+              "published_date": null,
+              "source_hash": "df980fae2d39288fa35f2aba05215cb9"
+            },
+            {
+              "url": "",
+              "title": "Bragar Eagel & Squire, P.C. Is Investigating Informatica, - GlobeNewswire",
+              "snippet": "NEW YORK, Feb. 27, 2022 (GLOBE NEWSWIRE) -- Bragar Eagel & Squire, P.C., a nationally recognized shareholder rights law firm, is investigating...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814633+00:00",
+              "published_date": null,
+              "source_hash": "5b9e024fc5f7ddad0fb5f880543d1f48"
+            },
+            {
+              "url": "",
+              "title": "Informatica, Customer in Legal Fray Over License Audit",
+              "snippet": "Data-integration vendor Informatica and a customer are embroiled in a legal dispute over US$6.3 million in license fees that Informatica says it is owed due to noncompliance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500866+00:00",
+              "published_date": null,
+              "source_hash": "a281611ced64fa9196362ade0747da35"
+            },
+            {
+              "url": "",
+              "title": "Data Resonance LLC v. Informatica Inc. | Law.com Radar",
+              "snippet": "Informatica Inc. was hit with a patent infringement lawsuit on Dec. 28 in Delaware District Court. ... The case is 1:23-cv-01473, Data Resonance LLC v. Informatica Inc. Technology. December 28 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. data privacy lawsuits",
+              "retrieved_at": "2025-01-06T16:01:25.814646+00:00",
+              "published_date": null,
+              "source_hash": "ce085197da494edf35c40804bd7c9adb"
+            },
+            {
+              "url": "",
+              "title": "Informatica Agrees to Pay $21.57 Million for Alleged False Claims ...",
+              "snippet": "Informatica LLC f/k/a Informatica Corporation has agreed to pay $21.57 million to resolve allegations that it caused the government to be overcharged by providing misleading information about its commercial sales practices that was used in General Services Administration (\"GSA\") contract negotiations, the Justice Department announced today.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500674+00:00",
+              "published_date": null,
+              "source_hash": "c908e12ccd7b12966198eab936814e21"
+            },
+            {
+              "url": "",
+              "title": "Software company agrees to settle FCA allegations for $22M",
+              "snippet": "Informatica Corp., Case No. 15-0716 (D.D.C.) that the government overpaid for Informatica's software products based upon misleading information Informatica disclosed about its commercial sales practices that were ultimately used in General Services Administration (\"GSA\") contract negotiations. Informatica reached a settlement where they ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500782+00:00",
+              "published_date": null,
+              "source_hash": "b2177f1140318077c40c098bbc01dd03"
+            },
+            {
+              "url": "",
+              "title": "Violation Tracker",
+              "snippet": "Penalty: $21,570,000 Year: 2019 Date: May 13, 2019 Offense Group: government-contracting-related offenses Primary Offense: False Claims Act and related Violation Description: Informatica LLC f/k/a Informatica Corporation agreed to pay $21.57 million to resolve allegations that it caused the government to be overcharged by providing misleading information about its commercial sales practices ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500797+00:00",
+              "published_date": null,
+              "source_hash": "6d0b00bba78c067b7c32cfec2ff8814d"
+            },
+            {
+              "url": "",
+              "title": "Zimmer, Inc. v. Informatica Corp. - Casetext",
+              "snippet": "With respect to these allegations, Informatica provides the following defense: Informatica acknowledges that \u00a7 4 of the Global Unique Device Identification Database (GUDID), Guidance for Industry and Food and Drug Administration Staff (Jun. 27, 2014) (GUDID Guidance), provides that \"[i]t is the legal responsibility of the labeler (or data ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500820+00:00",
+              "published_date": null,
+              "source_hash": "20cad81de449c3338b88e19baf1d184a"
+            },
+            {
+              "url": "",
+              "title": "Informatica to pay $21.57M in False Claims Act case",
+              "snippet": "The Department of Justice says Informatica will pay over $21 million stemming from a False Claims Act investigation. ... A subsidiary of McKinsey & Co. will pay nearly $123 million to the Department of Justice to settle allegations that it bribed officials in South Africa to win consulting contracts. ... Ex-Albemarle CCO shares drivers behind ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500834+00:00",
+              "published_date": null,
+              "source_hash": "4db23fe0158cb6e447fe2585960fd973"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "30. Informatica denies the allegations in paragraph 30. 31. Informatica denies the allegations in paragraph 31. 32. Informatica denies the allegations in paragraph 32. 33. Informatica is without knowledge or information sufficient to form a belief about the truth of the allegations in paragraph 33 and on that basis denies the same. II.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500845+00:00",
+              "published_date": null,
+              "source_hash": "7dc68ab015d4a2e1312629785554efb9"
+            },
+            {
+              "url": "",
+              "title": "Donaldson v. Informatica Corp., Civil Action No. 08-605 - Casetext",
+              "snippet": "DONETTA AMBROSE, District Judge . This is a diversity case in which Plaintiffs have brought state law claims against Defendant Informatica Corporation (\"Informatica\") alleging: breach of contract, detrimental reliance, quantum meruit, violation of Pennsylvania's Wage Payment and Collection Law (\"WPCL\"), 43 Pa. Stat. \u00a7 260.1, et seq., and defamation per se in violation of 42 Pa. Stat. \u00a7 8343(a).",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500854+00:00",
+              "published_date": null,
+              "source_hash": "fe62c78df782bae3b85118088e499348"
+            },
+            {
+              "url": "",
+              "title": "INFORMATICA ALERT: Bragar Eagel & Squire, P.C. is Investigating ...",
+              "snippet": "Bragar Eagel & Squire, P.C., a nationally recognized stockholder rights law firm, is investigating potential claims against Informatica Inc. on behalf of Informatica stockholders. Our investigation...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Informatica Inc. Informatica Inc. customer data misuse allegations",
+              "retrieved_at": "2025-01-06T16:01:30.500877+00:00",
+              "published_date": null,
+              "source_hash": "974819147e3c3db1bc3500d3f52b4b36"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Compliance Management | Informatica",
+              "snippet": "Help ensure your data is trusted for data democratization with regulatory compliance using Informatica Data Governance solutions. ... automated regulatory compliance solution integrates flexible data transparency and protection controls so you can adapt to regulations without rip-and-replace. ... The \"New Normal\" in Business and CCPA ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.430973+00:00",
+              "published_date": null,
+              "source_hash": "940ac6b85c50c29a55cacf67ff026a06"
+            },
+            {
+              "url": "",
+              "title": "Operationalize for GDPR Compliance - Informatica",
+              "snippet": "The GDPR mandates personal data protection and transparency, affecting businesses that acquire, store, or process data in the EU and EEA\u2014plus outside transfer. However, it is an opportunity for intelligent, automated, governance to enable safer data exposure.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431031+00:00",
+              "published_date": null,
+              "source_hash": "ad54969f5e08f47af6db5e875bd61dc5"
+            },
+            {
+              "url": "",
+              "title": "Regulatory Compliance Management | Informatica",
+              "snippet": "Help ensure your data is trusted for data democratization with regulatory compliance using Informatica Data Governance solutions.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431049+00:00",
+              "published_date": null,
+              "source_hash": "8e5072f4d8f76fd316acf3bc6e35acc7"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "\u2022 Regulatory Compliance: Adhering to regulations like GDPR and CCPA is crucial for AI systems that handle personal data. Data governance frameworks provide the necessary guidelines to ensure compliance with these laws, helping organizations avoid legal pitfalls and potential fines.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431061+00:00",
+              "published_date": null,
+              "source_hash": "a9f8a817e64d85eebca4377576e35774"
+            },
+            {
+              "url": "",
+              "title": "Solution Accelerator: General Data Protection Regulation - Informatica",
+              "snippet": "What is GDPR? GDPR is a regulation that requires businesses to protect the personal data and privacy of individuals in EU member states. And non-compliance could cost companies dearly. Companies that collect, store, or use data on individuals in the European Union (EU) countries need to comply with strict new rules around protecting customer data.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431073+00:00",
+              "published_date": null,
+              "source_hash": "fb8b6b83eb0782762298caa30fee2dc8"
+            },
+            {
+              "url": "",
+              "title": "Compliance - Informatica",
+              "snippet": "Informatica's Compliance Program is designed to mitigate risks, promote a culture of accountability, and safeguard the interests of our stakeholders. It supports building and operating our innovative products and services backed by regulatory and compliance industry certi\ufb01cations our customers can rely upon.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431084+00:00",
+              "published_date": null,
+              "source_hash": "001acc1e7347039d1dfda99c4478783b"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "that could jeopardize compliance. The GDPR, enforceable as of May 25, 2018, was adopted with the intent to strengthen and unify data protection for all individuals within the European Union, thereby simplifying the regulatory environment for international business. Many businesses have not yet fully prepared for this",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431096+00:00",
+              "published_date": null,
+              "source_hash": "684eaa23fcdb1dcdc65e6f5f43f7a286"
+            },
+            {
+              "url": "",
+              "title": "Role of Informatica CDGC in data governance - Mastech InfoTrellis",
+              "snippet": "Improved regulatory compliance: CDGC helps ensure adherence to data privacy regulations like GDPR and CCPA by providing a clear audit trail for data policy alignment and enforcement. Boosted data security: Data governance strengthens data security posture by minimizing unauthorized access and protecting sensitive information.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431107+00:00",
+              "published_date": null,
+              "source_hash": "60947a6b85231b84b16ce9a999c3e014"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "\u2022 Meet your regulatory compliance obligations, such as ESG Sustainability Reporting, Anti Money Laundering & Financial Crime Risk as well as Operational Resilience \u2022 Hear use cases of how organisations have successfully increased business value through data governance strategies.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431123+00:00",
+              "published_date": null,
+              "source_hash": "01a613ee817c66c6c24f88a2913098aa"
+            },
+            {
+              "url": "",
+              "title": "Informatica Showcases Industry's Most Comprehensive Solution for Data ...",
+              "snippet": "Informatica to Highlight AI-Powered Capabilities to Deliver Trusted Data for Data Democratization and Business Value at Free Virtual Summit on July 14 ... (CCPA) and GDPR. ... regulatory compliance acceleration, the new normal of remote workforces, and evolving supply chains have created a fresh set of challenges for businesses striving to be ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Informatica Inc. Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:01:34.431134+00:00",
+              "published_date": null,
+              "source_hash": "89dad244020193f196218fe62653ea9d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Informatica Inc. data privacy lawsuits",
+              "rationale": "Investigate legal challenges related to data privacy and security, given the sensitive nature of the data managed by Informatica",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Informatica Inc. customer data misuse allegations",
+              "rationale": "Explore any controversies or allegations regarding misuse of customer data, which could impact trust and reputation",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Informatica Inc. regulatory compliance issues GDPR CCPA",
+              "rationale": "Examine compliance with stringent data protection regulations like GDPR and CCPA, which are critical for Informatica's operations",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:01:56.034510",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

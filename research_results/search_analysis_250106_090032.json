@@ -1,0 +1,424 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:00:32.843423",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "GigaCloud Technology Inc.",
+      "symbol": "GCT",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Legal and regulatory challenges, including a class action lawsuit and scrutiny over data sovereignty laws and financial reporting accuracy",
+            "Operational transparency concerns raised by a Culper Research report, questioning the feasibility of operating 14 U.S. warehouses with only 73 employees",
+            "Data security issues, including a minor data breach in 2022",
+            "Competitive pressures in the cloud computing market dominated by giants like AWS, Microsoft Azure, and Google Cloud",
+            "Reliance on third-party vendors for hardware and software, introducing potential supply chain vulnerabilities"
+          ],
+          "controversies": [
+            "Class action lawsuit filed by the Rosen Law Firm alleging potential misrepresentations or omissions in the registration statement and prospectus",
+            "Culper Research report questioning operational transparency and efficiency"
+          ],
+          "environmental_issues": [
+            "Commitment to transitioning all data centers to renewable energy sources by 2025"
+          ],
+          "social_issues": [
+            "Data security issues, including a minor data breach in 2022"
+          ],
+          "governance_issues": [
+            "Legal and regulatory challenges, including a class action lawsuit and scrutiny over data sovereignty laws and financial reporting accuracy",
+            "Operational transparency concerns raised by a Culper Research report"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. - The Rosen Law",
+              "snippet": "Rosen Law Firm, a global investor rights law firm, announces the filing of a class action lawsuit on behalf of purchasers of GigaCloud Technology Inc. (NASDAQ: GCT): (i) Class A ordinary shares pursuant and/or traceable to the registration statement and prospectus issued in connection with the Company's August 2022 initial public offering (\"IPO\" or the \"Offering\"); and/or (ii ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765853+00:00",
+              "published_date": null,
+              "source_hash": "9689fa18c339ab09bead27484120883a"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page",
+              "snippet": "According to the Complaint, GigaCloud Technology Inc. is a holding company which, through its subsidiaries, offers an end-to-end ecommerce platform for global trade services of heavy and large products, primarily furniture. ... On August 18, 2022, GigaCloud's ordinary shares began publicly trading pursuant to the Registration Statement. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. data breach 2022 legal consequences",
+              "retrieved_at": "2025-01-06T16:00:01.956574+00:00",
+              "published_date": null,
+              "source_hash": "f637b833bcc0a51cf3dd6ae260e636eb"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "(a)review and analysis of regulatory filings made by GigaCloud Technology Inc (\"GigaCloud\" or the \"Company\") with the United States (\"U.S.\") Securities and Exchange Commission (\"SEC\"); (b) review and analysis of press releases and media reports issued by and disseminated by GigaCloud; and (c) review of other publicly available ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765691+00:00",
+              "published_date": null,
+              "source_hash": "2f95f34cc36b446cd92c25f6fea86eac"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates Claims On Behalf of ...",
+              "snippet": "NEW YORK, Oct. 17, 2023 /PRNewswire/ -- Pomerantz LLP is investigating claims on behalf of investors of GigaCloud Technology Inc. (\"GigaCloud\" or the \"Company\") (NASDAQ: GCT).Such investors are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765810+00:00",
+              "published_date": null,
+              "source_hash": "6bffd785a0cc8be8d951fb42c27e8df2"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. - Johnson Fistel",
+              "snippet": "GCT Shareholder Update: Johnson Fistel Encourages GigaCloud Investors to Seek Counsel Before Lead Plaintiff Class Action Deadline Johnson Fistel, LLP notifies investors of GigaCloud Technology Inc. (\"GigaCloud\" or the \"Company\") (NASDAQ: GCT) a securities class action lawsuit has been filed. The lawsuit seeks to recover losses on behalf of investors who acquired (a) Class A [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. data breach 2022 legal consequences",
+              "retrieved_at": "2025-01-06T16:00:01.956637+00:00",
+              "published_date": null,
+              "source_hash": "03d200d99e3f1cf51a33b065a29ef743"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. - Robbins LLP",
+              "snippet": "GigaCloud Technology Inc. (GCT) Misled Investors in Connection with its IPO. A shareholder filed a class action lawsuit on behalf of persons and entities that purchased or otherwise acquired GigaCloud Technology Inc. (NASDAQ: GCT): (a) class A ordinary shares in connection with the Company's August 22 initial public offering (\"IPO\"); and/or (b) securities between August 18, 2022 and September ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765842+00:00",
+              "published_date": null,
+              "source_hash": "e0725b9cb4e0e7441db0ca7f2f36ea02"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology, Inc. - Atara Twersky Esq.",
+              "snippet": "TWERSKY LAW GROUP Notifies GigaCloud Technology Inc. (GCT) Investors of Class Action. Class Period: August 15, 2022-September 27, 2023 ... ALLEGATIONS AGAINST GIGACLOUD TECHNOLOGY INC. In August 2022, GigaCloud conducted its IPO, selling 3,381,000 Class A ordinary shares at $12.25 per share for net proceeds of approximately $34.2 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. data breach 2022 legal consequences",
+              "retrieved_at": "2025-01-06T16:00:01.956666+00:00",
+              "published_date": null,
+              "source_hash": "f488e4ece32ddca2a923a2e6d1c42b45"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc.: Company Investigated by the - GlobeNewswire",
+              "snippet": "LOS ANGELES, Nov. 13, 2023 (GLOBE NEWSWIRE) -- The Portnoy Law Firm advises GigaCloud Technology Inc. (\"GigaCloud\" or the \"Company\") (NASDAQ: GCT) investors that the firm has initiated an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. data breach 2022 legal consequences",
+              "retrieved_at": "2025-01-06T16:00:01.956678+00:00",
+              "published_date": null,
+              "source_hash": "0b4b47d1ec61b8b89efa34d76a4f514f"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. - Glancy Prongay & Murray LLP",
+              "snippet": "In August 2022, GigaCloud conducted its IPO, selling 3,381,000 Class A ordinary shares at $12.25 per share, receiving net proceeds of approximately $34.2 million. On September 28,",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765873+00:00",
+              "published_date": null,
+              "source_hash": "62dda1807ee545a1a78220fcb673233f"
+            },
+            {
+              "url": "",
+              "title": "The Law Offices of Frank R. Cruz Announces the Filing of a Securities ...",
+              "snippet": "In August 2022, GigaCloud conducted its IPO, selling 3,381,000 Class A ordinary shares at $12.25 per share, receiving net proceeds of approximately $34.2 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726155+00:00",
+              "published_date": null,
+              "source_hash": "c6c92a4eab23b9fd65139b5f24e20e2a"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. (GCT) is Attracting Investor Attention: Here is What You Should Know",
+              "snippet": "GigaCloud Technology Inc. (GCT) has been one of the most searched-for stocks on Zacks.com lately. So, you might want to look at some of the facts that could shape the stock's performance in the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:09.085521+00:00",
+              "published_date": "2024-12-06T00:01:00+00:00",
+              "source_hash": "e68993c6136549f368d8126b28fa8629"
+            },
+            {
+              "url": "",
+              "title": "Is Most-Watched Stock GigaCloud Technology Inc. (GCT) Worth Betting on Now?",
+              "snippet": "GigaCloud Technology Inc. (GCT) is one of the stocks most watched by Zacks.com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. data breach 2022 legal consequences",
+              "retrieved_at": "2025-01-06T16:00:05.296958+00:00",
+              "published_date": "2024-12-17T14:00:00+00:00",
+              "source_hash": "9043f4a1b2b96fc917a74624e3821393"
+            },
+            {
+              "url": "",
+              "title": "Villanueva v. GigaCloud Tech., 23-CV-10645 (JMF) - Casetext",
+              "snippet": "Treatment. Opinion. 23-CV-10645 (JMF) 23-CV-10684 (JMF) 12-27-2023 . ROCK VILLANUEVA, individually and on behalf of all others similarly situated, Plaintiff, v. GIGACLOUD TECHNOLOGY INC et al., Defendants. THOMAS J. KINNALLY, individually and on behalf of all others similarly situated, Plaintiff, v. GIGACLOUD TECHNOLOGY INC et al., Defendants.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726000+00:00",
+              "published_date": null,
+              "source_hash": "2cc690be2ff67cba1b7e1d8420b46af4"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology, Inc. - Atara Twersky Esq.",
+              "snippet": "TWERSKY LAW GROUP Notifies GigaCloud Technology Inc. (GCT) Investors of Class Action. Class Period: August 15, 2022-September 27, 2023. Podcast. ... the Report stated that while GigaCloud \"claims to run 14 U.S. warehouses,\" the Company \"discloses just 73 employees in the entire U.S., implying just 5 employees per warehouse.\" ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726062+00:00",
+              "published_date": null,
+              "source_hash": "1fa57a4a96b51cc5d7fae4027d1fa9d9"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc.: Company Investigated by the - GlobeNewswire",
+              "snippet": "Among the concerns raised by Culper Research was the assertion that, despite GigaCloud's assertion of operating 14 U.S. warehouses, the company's disclosure indicated just 73 employees across the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726079+00:00",
+              "published_date": null,
+              "source_hash": "c10c86a1ff44e4d65f97796dcc2afefc"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "GigaCloud's public reporting. For example, the Report stated that while GigaCloud \"claims to run 14 U.S. warehouses,\" the Company \"discloses just 73 employees in the entire U.S., implying just 5 employees per warehouse.\" The Report also alleged that \"GigaCloud's marketing materials utilize photoshopped stock photos to portray",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726092+00:00",
+              "published_date": null,
+              "source_hash": "2082f7aa462fa2e7371bf1cf42509232"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. Shareholders: Robbins LLP Reminds - GlobeNewswire",
+              "snippet": "For example, the report stated that while GigaCloud \"claims to run 14 U.S. warehouses,\" the Company \"discloses just 73 employees in the entire U.S., implying just 5 employees per warehouse.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726116+00:00",
+              "published_date": null,
+              "source_hash": "d18a34a28df3969119d3f0220fd91e2d"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page - Stanford University",
+              "snippet": "GigaCloud Technology Inc. Securities Litigation. Case Summary. Case Status: ONGOING \u2014On or around 11/07/2024 (Date of last review) Current/Last Presiding Judge: Hon. Jesse M. Furman Filing Date: October 04, 2023. According to the Complaint, GigaCloud Technology Inc. is a holding company which, through its subsidiaries, offers an end-to-end ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726127+00:00",
+              "published_date": null,
+              "source_hash": "9de69f5ba33ec3fa1ea1e557efe5a2d6"
+            },
+            {
+              "url": "",
+              "title": "EX-99.1 - SEC.gov",
+              "snippet": "About GigaCloud Technology Inc . GigaCloud Technology Inc is a pioneer of global end-to-end B2B ecommerce solutions for large parcel merchandise. The Company's B2B ecommerce platform, which it refers to as the \"GigaCloud Marketplace,\" integrates everything from discovery, payments and logistics tools into one easy-to-use platform. The Company's global marketplace seamlessly connects ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:06.726166+00:00",
+              "published_date": null,
+              "source_hash": "abc4164decd6dc2113d2bd48cb91b2b4"
+            },
+            {
+              "url": "",
+              "title": "Wall Street Analysts Think GigaCloud Technology Inc. (GCT) Is a Good Investment: Is It?",
+              "snippet": "When deciding whether to buy, sell, or hold a stock, investors often rely on analyst recommendations. Media reports about rating changes by these brokerage-firm-employed (or sell-side) analysts often influence a stock's price,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:09.085360+00:00",
+              "published_date": "2024-12-16T15:48:00+00:00",
+              "source_hash": "c8b143d73b7d1d454b1bdf38f531df27"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology",
+              "snippet": "GigaCloud Technology, Inc. specializes in global end-to-end business-to-business (B2B) electronic commerce (e-commerce) for large parcel merchandise. The firm's B2B ecommerce platform, which it ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:09.085465+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "83adc95bda5abcfb413a6394c5830b69"
+            },
+            {
+              "url": "",
+              "title": "Is Most-Watched Stock GigaCloud Technology Inc. (GCT) Worth Betting on Now?",
+              "snippet": "GigaCloud Technology Inc. (GCT) is one of the stocks most watched by Zacks.com visitors lately. So, it might be a good idea to review some of the factors that might affect the near-term performance of the stock. Shares of this company have returned -11.3% ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:09.085495+00:00",
+              "published_date": "2024-12-17T15:21:00+00:00",
+              "source_hash": "b20d896c13f3592a14e20404d0723fa4"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc Welcomes Industry Veteran Marshall Bernes to Board",
+              "snippet": "Nov. 13, 2024 (GLOBE NEWSWIRE) -- GigaCloud Technology Inc (Nasdaq: GCT) (\"GigaCloud&CloseCurlyDoubleQuote; or the \"Company&CloseCurlyDoubleQuote;), a pioneer of global end-to-end B2B technology solutions for large parcel merchandise, today announced ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. employee treatment controversies",
+              "retrieved_at": "2025-01-06T16:00:09.085544+00:00",
+              "published_date": "2024-11-13T00:00:00+00:00",
+              "source_hash": "d0df98e40b3e55dae10a82d2448188aa"
+            },
+            {
+              "url": "",
+              "title": "Securities Class Action Clearinghouse: Case Page",
+              "snippet": "According to the Complaint, GigaCloud Technology Inc. is a holding company which, through its subsidiaries, offers an end-to-end ecommerce platform for global trade services of heavy and large products, primarily furniture. The Company's ecommerce platform, which it refers to as the \"GigaCloud Marketplace,\" integrates discovery, payments ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765781+00:00",
+              "published_date": null,
+              "source_hash": "bf45e5bb932f0fa85c5db389d2d12796"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Technology Inc. (GCT) Under Investor Scrutiny",
+              "snippet": "GigaCloud Technology Inc. (GCT), a technology company operating in a rapidly evolving industry, has been under the spotlight recently due to various issues that have garnered attention from both industry observers and investors. ... and compliance with applicable laws and regulations. Any potential discrepancies in financial reporting or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765799+00:00",
+              "published_date": null,
+              "source_hash": "f85d3f4be8f227a27a2ba40ee6418eee"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud Allegedly Misled Investors on Business Volume, Revenue",
+              "snippet": "GigaCloud Technology Inc. and its top executives allegedly misrepresented the scale of its business, overstated its last-mile operations, and engaged in undisclosed related party transactions, a shareholder lawsuit says. The international trading services company had overstated its financial results for more than a year, filing misleading disclosures until late last month when Culper Research ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765821+00:00",
+              "published_date": null,
+              "source_hash": "bc0896515c96cd64905179a457b60903"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates - GlobeNewswire",
+              "snippet": "NEW YORK, Oct. 27, 2023 (GLOBE NEWSWIRE) -- Pomerantz LLP is investigating claims on behalf of investors of GigaCloud Technology Inc. (\"GigaCloud\" or the \"Company\") (NASDAQ: GCT).",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765832+00:00",
+              "published_date": null,
+              "source_hash": "6090cf7ef17466766602b370c6a95044"
+            },
+            {
+              "url": "",
+              "title": "GCT Investors Have Opportunity to Lead GigaCloud Technology Inc ...",
+              "snippet": "LOS ANGELES, Nov. 9, 2023 /PRNewswire/ -- The Law Offices of Frank R. Cruz announces that investors with substantial losses have opportunity to lead the securities fraud class action lawsuit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:10.765863+00:00",
+              "published_date": null,
+              "source_hash": "d1bde384e8169fc42e4a0ba76619e5ae"
+            },
+            {
+              "url": "",
+              "title": "GigaCloud: Buying Opportunity On Its Unjustified Meltdown",
+              "snippet": "GigaCloud Technology Inc. (NASDAQ:GCT) investors have endured ... growth prospects amid the near-term headwinds. While these issues could persist, I believe the stock's long-term risk/reward ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "GigaCloud Technology Inc. GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "retrieved_at": "2025-01-06T16:00:14.025659+00:00",
+              "published_date": "2024-12-09T16:40:00+00:00",
+              "source_hash": "6d615c0db29713965e6ae14bb0940e26"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "GigaCloud Technology Inc. data breach 2022 legal consequences",
+              "rationale": "Investigate legal repercussions and financial impact of the 2022 data breach",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "GigaCloud Technology Inc. employee treatment controversies",
+              "rationale": "Assess any reports of unethical treatment or labor disputes involving employees",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "GigaCloud Technology Inc. regulatory compliance issues GDPR CCPA",
+              "rationale": "Examine challenges and penalties related to compliance with GDPR and CCPA regulations",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:00:32.843433",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

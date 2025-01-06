@@ -1,0 +1,464 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:03:50.967976",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "First Industrial Realty Trust Inc",
+      "symbol": "FR",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Economic Sensitivity: Performance is highly dependent on macroeconomic conditions, including potential recessions or trade disruptions.",
+            "Interest Rate Risk: Rising interest rates could increase borrowing costs, negatively impacting profitability and development projects.",
+            "Competition: The industrial real estate market is highly competitive, potentially pressuring margins."
+          ],
+          "controversies": [
+            "Environmental, Social, and Governance (ESG) Concerns: Scrutiny over environmental impact, particularly regarding energy usage and carbon emissions from its properties."
+          ],
+          "environmental_issues": [
+            "Energy usage and carbon emissions from properties, despite ongoing sustainability initiatives."
+          ],
+          "social_issues": [],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "First Industrial Realty Trust Inc is a real estate investment trust that owns, manages, acquires, sells, develops, and redevelops industrial real estate. First Industrial's real estate portfolio is comprised of light industrial properties, which are split between industrial and office space, and bulk warehouse properties generally located in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170402+00:00",
+              "published_date": null,
+              "source_hash": "96f9948da163dfd8d4c04ae94e8bff96"
+            },
+            {
+              "url": "",
+              "title": "FIRST INDUSTRIAL REALTY TRUST, INC. - Dun & Bradstreet",
+              "snippet": "Find company research, competitor information, contact details & financial data for FIRST INDUSTRIAL REALTY TRUST, INC. of West Chester, PA. Get the latest business insights from Dun & Bradstreet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119823+00:00",
+              "published_date": null,
+              "source_hash": "09b890dccb4f3d3a1a29c8256601c045"
+            },
+            {
+              "url": "",
+              "title": "Responsibility | First Industrial Realty Trust",
+              "snippet": "Through our development program, we invest in state-of-the-art facilities that incorporate energy and water efficient features. Here are some of the sustainable features First Industrial integrates across our portfolio: Energy-efficient lighting; LED lighting in 100% of new developments; High performance heating/cooling systems and cool roofs",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170490+00:00",
+              "published_date": null,
+              "source_hash": "34f4281aaa21e8469a456fb90107dff4"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Inc, FR:NYQ profile - FT.com",
+              "snippet": "First Industrial Realty Trust, Inc. is a self-administered and fully integrated real estate company. The Company owns, manages, acquires, sells, develops, and redevelops industrial real estate. Through its fully integrated operating and investing platform, the Company provides facilities and customer service to multinational corporations and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170504+00:00",
+              "published_date": null,
+              "source_hash": "1f0c47fad1d6f1505670f53a2420e731"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. - Fitch Ratings",
+              "snippet": "U.S. Office & Industrial REITs \u2014 Relative Credit Analysis; First Industrial Realty Trust, Inc. Fitch Affirms First Industrial Realty's IDR at 'BBB'; Outlook to Positive; U.S. Real Estate \u2014 Equity REITs Outlook 2024; U.S. Real Estate \u2014 Equity REITs Outlook 2024; Fitch Affirms First Industrial Realty's IDR at 'BBB'; Outlook Stable",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170517+00:00",
+              "published_date": null,
+              "source_hash": "914f39f894e81b1dd10169f5d1d4205d"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. - Fitch Ratings",
+              "snippet": "The rating on First Industrial Realty Trust, Inc. (FR) reflects the company's solid, geographically diverse portfolio; sound financial policies; and unsecured debt capital access. The ratings also reflect FR's healthy liquidity position, supported by its measured approach to development risk and adequate unencumbered asset coverage of unsecured ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119844+00:00",
+              "published_date": null,
+              "source_hash": "18db668180b1be7663c6d9abcd9e25d2"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. - Dun & Bradstreet",
+              "snippet": "Company Description: First Industrial Realty Trust is a self-administered and fully integrated real estate company which owns, manages, acquires, sells, develops, and redevelops industrial real estate. Its portfolio consists of around 420 industrial properties spanning approximately 64.9 million sq. ft. of leasable space in roughly 20 states.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278944+00:00",
+              "published_date": null,
+              "source_hash": "81f6a27a1af645d813c0c134212d35fc"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Inc. Credit Rating - Moody's",
+              "snippet": "moody's assigns ratings to shelf of first industrial, l.p. (senior long-term debt at (p)baa2) and assigns \"baa3\" rating to series a cumulative preferred stock of first industrial realty trust, inc. Moody's Investors Service",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170558+00:00",
+              "published_date": null,
+              "source_hash": "3df2498ee8445fcd161ce720c8e0c3ed"
+            },
+            {
+              "url": "",
+              "title": "What Analysts Are Saying About First Industrial Realty Stock",
+              "snippet": "First Industrial Realty Trust Inc is a real estate investment trust that owns, manages, acquires, sells, develops, and redevelops industrial real estate. First Industrial's real estate portfolio ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170570+00:00",
+              "published_date": null,
+              "source_hash": "4b467eb07853ff2338b7df954950a570"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust (FR) Earnings Date and Reports 2025",
+              "snippet": "First Industrial Realty Trust released Q3 2024 earnings on October 16, 2024, reporting an EPS of $0.75, which beat analysts' consensus estimates of $0.67 by $0.08.Quarterly revenue rose 8.1% year-over-year to $167.60 million, above the consensus estimate of $164.01 million.With a trailing EPS of $2.33 and a P/E Ratio of 21.55, First Industrial Realty Trust's earnings are expected to grow 9.13% ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:23.170582+00:00",
+              "published_date": null,
+              "source_hash": "be4d00e0cf26a43e0326dbce0b261a62"
+            },
+            {
+              "url": "",
+              "title": "How Does First Industrial Realty Trust Inc (FR) Stack Up Against Its Industry Peers?",
+              "snippet": "KeyBanc Capital Markets has recently raised First Industrial Realty Trust Inc (FR) stock to Sector Weight rating, as announced on December 17, 2024, according to Finviz. Earlier, on August 13, 2024, Wolfe Research had raised the stock from a Peer Perform to Outperform,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:35.758364+00:00",
+              "published_date": "2024-12-31T16:38:00+00:00",
+              "source_hash": "a3ca9db818b4f4c4016c4d7f56ee9745"
+            },
+            {
+              "url": "",
+              "title": "FR First Industrial Realty Trust, Inc.",
+              "snippet": "View First Industrial Realty Trust, Inc. (FR) current and estimated P/E ratio data provided by Seeking Alpha.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:35.758503+00:00",
+              "published_date": "2024-12-20T16:00:00+00:00",
+              "source_hash": "b53b3cd19ebcd09a8dcca852596f0307"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. (NYSE:FR) to Issue $0.37 Quarterly Dividend",
+              "snippet": "First Industrial Realty Trust, Inc. (NYSE:FR - Get Free Report) announced a quarterly dividend on Wednesday, October 30th,Zacks Dividends reports. Investors of record on Tuesday, December 31st will be given a dividend of 0.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:35.758470+00:00",
+              "published_date": "2024-12-29T11:30:00+00:00",
+              "source_hash": "fe9c7f4515dd8887bafb7c1cc53254f8"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. (NYSE:FR) Receives $57.83 Consensus Price Target from Brokerages",
+              "snippet": "First Industrial Realty Trust has a 12 month low of $45.10 and a 12 month high of $57.35. The company has a market capitalization of $6.71 billion, a P/E ratio of 21.77 and a beta of 1.07.",
+              "domain": "",
+              "source_type": "news",
+              "category": "environmental_safety",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "retrieved_at": "2025-01-06T15:03:25.612063+00:00",
+              "published_date": "2024-12-22T00:00:00+00:00",
+              "source_hash": "2ac80e07705e0e41822a4b4779254cfd"
+            },
+            {
+              "url": "",
+              "title": "All You Need to Know About First Industrial Realty Trust (FR) Rating Upgrade to Buy",
+              "snippet": "First Industrial Realty Trust (FR) could be a solid choice for investors given its recent upgrade to a Zacks Rank #2 (Buy). This rating change essentially reflects an upward trend in earnings estimates -- one of the most powerful forces impacting stock prices.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:35.758550+00:00",
+              "published_date": "2024-12-30T18:11:00+00:00",
+              "source_hash": "6dcbf6979fdea061bbba3dec6c012cd5"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Inc. - AnnualReports.com",
+              "snippet": "First Industrial Realty Trust, Inc. is a leading owner and operator of industrial real estate and provider of supply chain solutions to multinational corporations and regional customers. Visit website. REPORT RATINGS. 4.8 / 5.0 (92) First Industrial Realty Trust Inc. reports have an aggregate usefulness score of 4.8 based on 92 reviews ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119629+00:00",
+              "published_date": null,
+              "source_hash": "712cf4ea20a2a1fa0f3c080cdb8df65c"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. -- Company History",
+              "snippet": "First Industrial Realty Trust, Inc. (FIRT) is a real estate investment trust (REIT) based in Chicago, Illinois, focusing on the acquisition, development, and management of industrial properties in the top 25 industrial markets in the United States. At the close of 2003, FIRT's portfolio included 423 light industrial properties, 163 research and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119743+00:00",
+              "published_date": null,
+              "source_hash": "419c052978364e0af7859b1ee1af0090"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust - Overview, News & Similar ... - ZoomInfo",
+              "snippet": "CHICAGO, May 30, 2024 /PRNewswire/ -- First Industrial Realty Trust, Inc. (NYSE: FR), a leading fully integrated owner, operator and developer of logistics real estate, will present at Nareit's REITWeek 2024 Investor Conference on Tuesday, June 4, 2024 at 3:00 PM EDT (2:00 PM CDT). A...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119762+00:00",
+              "published_date": null,
+              "source_hash": "ad512bb77cf0c6a092e59a85bed57032"
+            },
+            {
+              "url": "",
+              "title": "Company First Industrial Realty Trust, Inc. - MarketScreener.com",
+              "snippet": "First Industrial Realty Trust, Inc. is a self-administered and fully integrated real estate company. The Company owns, manages, acquires, sells, develops, and redevelops industrial real estate. Through its fully integrated operating and investing platform, the Company provides facilities and customer service to multinational corporations and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278912+00:00",
+              "published_date": null,
+              "source_hash": "d786068c51f8fb385f0f3134bc9af1a0"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Inc: Overview - GlobalData",
+              "snippet": "First Industrial Realty Trust Inc (First Industrial) is a real estate investment trust. It offers real estate services through property leasing, property management, sale of the property, asset management, acquisition and real estate development.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119788+00:00",
+              "published_date": null,
+              "source_hash": "6ecbfb32893c047cfe1f5bb41922261e"
+            },
+            {
+              "url": "",
+              "title": "fr-20211231 - SEC.gov",
+              "snippet": "First Industrial Realty Trust, Inc. is a self-administered and fully integrated real estate company which owns, manages, acquires, sells, develops and redevelops industrial real estate. The Company is a Maryland corporation organized on August 10, 1993 and a real estate investment trust (\"REIT\") as defined in the Internal Revenue Code of 1986 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278902+00:00",
+              "published_date": null,
+              "source_hash": "87c90bf38410c5e21855774aabb37212"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. - Fitch Ratings",
+              "snippet": "First Industrial Realty Trust, Inc. - Ratings Navigator. Non-Rating Action Commentary / Thu 07 Jan, 2016. Fitch Publishes REIT Report Quarterly for 4Q'15. Special Report / Thu 07 Jan, 2016. REIT Report Quarterly (4Q15) Non-Rating Action Commentary / Fri 02 Oct, 2015.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119811+00:00",
+              "published_date": null,
+              "source_hash": "37d43f00acccee9305716f3acfe861b4"
+            },
+            {
+              "url": "",
+              "title": "Governance First Industrial Realty Trust, Inc. - MarketScreener.com",
+              "snippet": "First Industrial Realty Trust, Inc. is a self-administered and fully integrated real estate company. The Company owns, manages, acquires, sells, develops, and redevelops industrial real estate. Through its fully integrated operating and investing platform, the Company provides facilities and customer service to multinational corporations and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:29.119833+00:00",
+              "published_date": null,
+              "source_hash": "b4200cebccfe682f3c10db2dadb9b7c9"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust (FR) Passes Through 3% Yield Mark",
+              "snippet": "Looking at the universe of stocks we cover at Dividend Channel, in trading on Friday, shares of First Industrial Realty Trust Inc (Symbol: FR) were yielding above the 3% mark based on its ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:31.703170+00:00",
+              "published_date": "2025-01-03T20:39:00+00:00",
+              "source_hash": "7bd9356e6e60e8941427ff0cdc9885b6"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. (FR)",
+              "snippet": "First Industrial Realty Trust, Inc. (NYSE: FR), a leading fully integrated owner, operator and developer of industrial real estate, today announced that its board of directors declared a common ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "retrieved_at": "2025-01-06T15:03:31.703197+00:00",
+              "published_date": "2024-12-13T23:01:00+00:00",
+              "source_hash": "af1ef51ff83199899088b397ddcba895"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Reports Third Quarter 2024 Results ...",
+              "snippet": "CHICAGO, Oct. 16, 2024 /PRNewswire/ -- First Industrial Realty Trust, Inc. (NYSE: FR), a leading ... Third quarter 2024 FFO per share/unit and EPS includes a $0.01 reduction related to the net impact of the write-off of a deferred rent receivable and the accelerated recognition of a tenant improvement reimbursement all related to a tenant that ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278747+00:00",
+              "published_date": null,
+              "source_hash": "1ea10ba1e5b634081d8862b0a746595e"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Inc. - AnnualReports.com",
+              "snippet": "First Industrial Realty Trust, Inc. is a leading owner and operator of industrial real estate and provider of supply chain solutions to multinational corporations and regional customers. Visit website. REPORT RATINGS. 4.8 / 5.0 (92) First Industrial Realty Trust Inc. reports have an aggregate usefulness score of 4.8 based on 92 reviews. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278862+00:00",
+              "published_date": null,
+              "source_hash": "13fd5435a40f25520e37626a17bdb796"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust Inc (FR) Q3 2024 Earnings Call Highlights ...",
+              "snippet": "First Industrial Realty Trust Inc reported a strong quarter with solid operating metrics and significant new leases. The company achieved a cash rental rate increase of 51% on 2024 lease ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278879+00:00",
+              "published_date": null,
+              "source_hash": "6432ca0d4ecd6cb7e883d1e836e2260a"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust, Inc. (FR) Company Profile & Overview ...",
+              "snippet": "First Industrial Realty Trust, Inc. (NYSE: FR) is a leading U.S.-only owner, operator, developer and acquirer of logistics properties. Through our fully integrated operating and investing platform, we provide high quality facilities and industry-leading customer service to multinational corporations and regional firms that are essential for their supply chains.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278891+00:00",
+              "published_date": null,
+              "source_hash": "e4438732134a5c0efc0e45a294a6d9f6"
+            },
+            {
+              "url": "",
+              "title": "Jul 21, 2021 First Industrial Realty Trust Reports Second",
+              "snippet": "First Industrial Realty Trust, Inc. (NYSE: FR), a leading fully integrated owner, operator and developer of industrial real estate, today announced results for the second quarter of 2021. ... Tenant retention by square footage was 71.1% and leasing costs were $3.28 per square foot. ... the uncertainty and economic impact of pandemics, epidemics ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278923+00:00",
+              "published_date": null,
+              "source_hash": "0320ae7590b8857d1fe8e988cd450e68"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust - Overview, News & Similar ... - ZoomInfo",
+              "snippet": "CHICAGO, April 30, 2024 /PRNewswire/ -- First Industrial Realty Trust, Inc. (NYSE: FR), a leading fully integrated owner, operator and developer of industrial real estate, today announced that its board of directors declared a common stock dividend of $0.37 per share/unit for the quarter...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278933+00:00",
+              "published_date": null,
+              "source_hash": "fd9c819bc94318a743d4be516fc0e5f6"
+            },
+            {
+              "url": "",
+              "title": "FIRST INDUSTRIAL REALTY TRUST, INC. - Dun & Bradstreet",
+              "snippet": "Find company research, competitor information, contact details & financial data for FIRST INDUSTRIAL REALTY TRUST, INC. of Middletown, PA. Get the latest business insights from Dun & Bradstreet.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:33.278953+00:00",
+              "published_date": null,
+              "source_hash": "9c2895a3be704c1f918be762d60e7816"
+            },
+            {
+              "url": "",
+              "title": "First Industrial Realty Trust's SWOT analysis: industrial REIT stock poised for growth",
+              "snippet": "First Industrial Realty Trust, Inc. (NYSE:FR), a prominent player in ... First Industrial to tailor its portfolio to meet evolving tenant needs, potentially commanding premium rents and attracting ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "First Industrial Realty Trust Inc First Industrial Realty Trust Inc tenant controversies or community impact",
+              "retrieved_at": "2025-01-06T15:03:35.758527+00:00",
+              "published_date": "2024-12-18T04:15:00+00:00",
+              "source_hash": "bcd222159a1919c9c82cc8087c8428c0"
+            }
+          ],
+          "queries": [
+            {
+              "category": "environmental_safety",
+              "query": "First Industrial Realty Trust Inc carbon emissions and energy usage",
+              "rationale": "Assess environmental impact and compliance with sustainability goals",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "First Industrial Realty Trust Inc lawsuits or legal disputes",
+              "rationale": "Identify potential legal risks or financial liabilities",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "First Industrial Realty Trust Inc tenant controversies or community impact",
+              "rationale": "Evaluate social responsibility and community relations",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:03:50.967983",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

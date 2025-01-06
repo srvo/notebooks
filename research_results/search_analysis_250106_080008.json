@@ -1,0 +1,558 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:00:08.938539",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "KDDI CORP",
+      "symbol": "KDDIF",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Regulatory and competitive pressures in Japan's telecommunications sector",
+            "Cybersecurity vulnerabilities and data breaches",
+            "Network outages and service disruptions",
+            "Supply chain dependencies and geopolitical risks",
+            "Legal and compliance issues, including regulatory scrutiny"
+          ],
+          "controversies": [
+            "Major data breach affecting 4 million customer details",
+            "Significant network failure in July 2023 affecting 40 million lines",
+            "Regulatory scrutiny for improper terminal discounts and benefits"
+          ],
+          "environmental_issues": [
+            "Commitment to carbon neutrality by 2050, but reliance on global supply chains poses sustainability challenges"
+          ],
+          "social_issues": [
+            "Customer trust erosion due to recurring service disruptions and data breaches",
+            "Insider threats and blackmail attempts highlighting internal vulnerabilities"
+          ],
+          "governance_issues": [
+            "Regulatory violations under Japan's Telecommunications Business Act",
+            "Ongoing industry debates and opposition to the NTT Law impacting strategic positioning"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "KDDI, SoftBank Corp. and Rakuten Mobile Announce Views ... - KDDI News Room",
+              "snippet": "About \"KDDI, SoftBank Corp. and Rakuten Mobile Announce Views on NTT Law (2)\". Newsroom offers the latest information about KDDI. ... may not be effective on its own due to concerns related to regulatory evasion. ... the signatories believe that the entire industry can hold positive discussions on the future of Japan's telecommunications ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774584+00:00",
+              "published_date": null,
+              "source_hash": "89afd445d51314ad9e3ba9c5cbe061db"
+            },
+            {
+              "url": "",
+              "title": "SoftBank Corp., KDDI and Rakuten Mobile Hold Press Conference to Oppose ...",
+              "snippet": "In 1984, the NTT Law was enacted to foster a vibrant private sector in Japan's telecommunications industry, which was previously a centralized monopoly under the former state-owned Nippon Telegraph and Telephone Public Corporation. ... KDDI Corporation, SoftBank Corp. (TOKYO: 9434) and Rakuten Mobile, Inc., held a press conference to explain ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774690+00:00",
+              "published_date": null,
+              "source_hash": "fafe6b840ccd42db2848eeb0c8a3bb2c"
+            },
+            {
+              "url": "",
+              "title": "Guidance to KDDI Corporation and 26 Dealers for KDDI Corporation ...",
+              "snippet": "Those commissioned by KDDI Corporation (Makoto Takahashi, President, Representative Director) to provide brokerage and other services were found to have made improper terminal discounts and offered additional benefits to customers. Their acts violated the Telecommunications Business Act (Law No. 86 of 1984). Therefore, the Ministry of Internal Affairs and Communications (MIC) today instructed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774703+00:00",
+              "published_date": null,
+              "source_hash": "f2d6c79ad230296f5011484f30e44361"
+            },
+            {
+              "url": "",
+              "title": "Japan's Telecommunications Carriers Join Forces to Strengthen Disaster ...",
+              "snippet": "Tokyo, December 18, 2024 - Japan's eight telecommunications companies - Nippon Telegraph and Telephone Corporation, NTT East, NTT West, NTT DOCOMO and NTT Communications (the NTT Group), KDDI Corporation, SoftBank Corp. and Rakuten Mobile - today announced the launch of a new cooperative framework aimed at ensuring the rapid restoration ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774714+00:00",
+              "published_date": null,
+              "source_hash": "165be415a8a6938c08af735fc6c995aa"
+            },
+            {
+              "url": "",
+              "title": "Japan Telecoms Infrastructure, Operators, Regulations Statistics and ...",
+              "snippet": "3.2 Regulatory authority ... 4.1 NTT Corporation 4.2 KDDI Corporation 5 Softbank Corporation. 5.1 Internet Initiative Japan (IIJ) 6 Telecommunications infrastructure.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774723+00:00",
+              "published_date": null,
+              "source_hash": "3e8f958ba2af65819e17fe0a68d1ca05"
+            },
+            {
+              "url": "",
+              "title": "KDDI failure highlights vulnerabilities of Japan's networks",
+              "snippet": "Telecom giant KDDI Corp.'s large-scale network failure is raising questions about what kind of backstops carriers should have in place if their systems should fail.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774732+00:00",
+              "published_date": null,
+              "source_hash": "7396209700b5561c1a140f52674dfd81"
+            },
+            {
+              "url": "",
+              "title": "KDDI, SoftBank Corp. and Rakuten Mobile - \u30bd\u30d5\u30c8\u30d0\u30f3\u30af",
+              "snippet": "KDDI, SoftBank Corp. and Rakuten Mobile Announce Views on NTT Law (2) Amendments to Telecommunications Business Act cannot adequately address regulations stipulated in NTT Law (Reference Translation *1) November 14, 2023 KDDI CORPORATION SoftBank Corp. Rakuten Mobile, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774742+00:00",
+              "published_date": null,
+              "source_hash": "29f6a0a262421fbe225256daafe245e0"
+            },
+            {
+              "url": "",
+              "title": "KDDI, SoftBank Corp. and Rakuten Mobile Announce Views on NTT Law (2)",
+              "snippet": "Tokyo, November 15, 2023 - KDDI CORPORATION, SoftBank Corp., and Rakuten Mobile, Inc. (\"the three companies\") today announced their views on the \"The NTT Law: Our Perspective (2)\" (\"NTT's Perspective (2)\") document issued by Nippon Telegraph and Telephone Corporation (\"NTT\")* 2 on November 7, 2023. NTT's Perspective (2) suggests that the current regulations stipulated in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774756+00:00",
+              "published_date": null,
+              "source_hash": "90e56738480ea7f0b86c3987030b1f76"
+            },
+            {
+              "url": "",
+              "title": "The Japanese Telecommunications Market and KDDI",
+              "snippet": "The Japanese market for mobile telecommunications is characterized by the advancement of LTE networks, which enable high-speed data communications, leading to the creation of communications environments that facilitate diverse services and are independent of handset and location. ... The KDDI Corporation was established in October 2000 through ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774768+00:00",
+              "published_date": null,
+              "source_hash": "42be280967f74c119424e8bbc670f057"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "The Japanese Telecommunications Market and KDDII ns StatusKDDI' Source: Prepared by KDDI based on Telecommunications Carriers Association's data *8 Share among NTT DOCOMO, INC. (NTT DOCOMO), SoftBank Mobile Corp. (SOFTBANK MOBILE), and KDDI Source: Prepared by KDDI based on Ministry of Internal Affairs and Communication's data",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:34.774777+00:00",
+              "published_date": null,
+              "source_hash": "8149ca73f9a77997937ae0e3f6ad3146"
+            },
+            {
+              "url": "",
+              "title": "KDDI to jointly operate Lawson with Mitsubishi after tender offer",
+              "snippet": "Mobile carrier KDDI Corp. will acquire a 50-percent stake ... \"The (capital alliance) proposal from KDDI, which possesses telecommunications and digital technologies, will give significant ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:37.380358+00:00",
+              "published_date": "2024-02-07T14:07:00+00:00",
+              "source_hash": "a50c0bb270937efedb3ba535b20f126c"
+            },
+            {
+              "url": "",
+              "title": "Up to 40 million lines affected by KDDI's glitch in communications",
+              "snippet": "Cellphone carrier KDDI Corp. said July 3 that nearly 40 million ... that surfaced in the early hours of the previous day. \"As a telecommunications company dedicated to supporting social ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:37.380399+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "c7935750fd33c252f6c592ac11606a5b"
+            },
+            {
+              "url": "",
+              "title": "Japanese Kyocera intends to sell shares of KDDI operator in the amount of $ 10.4 billion",
+              "snippet": "Kyocera Corp., a Japanese semiconductor materials manufacturer, plans to sell a stake in Japanese telecommunications operator KDDI Corp. for five years. This is reported in the Kyocera press release. Kyocera owns 15.3% of KDDI shares worth 1.6 trillion yen ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:37.380407+00:00",
+              "published_date": "2024-12-13T11:39:00+00:00",
+              "source_hash": "76c081c2bfde19f7bced22a7b14bfc8b"
+            },
+            {
+              "url": "",
+              "title": "Lawson to work with KDDI, M'bishi Corp. to open 'convenience stores of the future' in Japan",
+              "snippet": "TOKYO -- Major Japanese convenience store operator Lawson Inc., telecommunications giant KDDI Corp. and Lawson's parent company Mitsubishi Corp. declared at a press conference in Tokyo on Sept.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:37.380414+00:00",
+              "published_date": "2024-09-21T22:43:00+00:00",
+              "source_hash": "adee2184b7d73b8a7164fbed8b4a5806"
+            },
+            {
+              "url": "",
+              "title": "Japan's telecommunications carriers join forces to strengthen disaster response",
+              "snippet": "Tokyo, Japan - Japan's eight telecommunications companies - Nippon Telegraph and Telephone Corporation, NTT East, NTT West, NTT DOCOMO and NTT Communications (the NTT Group), KDDI Corporation, SoftBank Corp. and Rakuten Mobile - today announced the ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP regulatory fines Japan telecommunications",
+              "retrieved_at": "2025-01-06T14:59:37.380419+00:00",
+              "published_date": "2024-12-18T09:55:00+00:00",
+              "source_hash": "17cbebe61a9ce4f487dee418b76b7cc1"
+            },
+            {
+              "url": "",
+              "title": "4M customer details exposed: data leak at Japan's KDDI",
+              "snippet": "Insiders have stolen a database containing the private details of customers from Japan's second-largest mobile phone operator. Two of their accomplices, who tried to blackmail KDDI by threatening to reveal the breach before a major shareholder meeting, have been arrested by Tokyo police. According to experts at InfoWatch, KDDI reacted properly to the blackmail threats, but the corporation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.955946+00:00",
+              "published_date": null,
+              "source_hash": "50c5090a91487e2d8bd207f783b5f2eb"
+            },
+            {
+              "url": "",
+              "title": "KDDI suffers massive data breach - Computerworld",
+              "snippet": "Personal data on almost 4 million customers of Japanese telecom carrier KDDI Corp. has been breached, the company said Tuesday. The carrier became aware of the leak when it received a phone call ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956109+00:00",
+              "published_date": null,
+              "source_hash": "7c2ab15d4d694e5d6134953d2da3c29b"
+            },
+            {
+              "url": "",
+              "title": "Cyber Security and Privacy Protection | Sustainability | KDDI CORPORATION",
+              "snippet": "To ensure that it uses personal data while protecting privacy, KDDI has published its privacy policy and its handling of personal information, including types of information to collect, purpose of use and the requirement of a customer's consent, and thus completely protects such personal information based on a zero-tolerance policy.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956130+00:00",
+              "published_date": null,
+              "source_hash": "732ae895b2d51ec4d1403f558e9440ec"
+            },
+            {
+              "url": "",
+              "title": "Security Policy | Released Information | KDDI CORPORATION",
+              "snippet": "KDDI, having a mission to provide telecommunication services in a safe and stable manner, shall strive to earn the trust of its customers and related parties by handling of customer information and confidential corporate information securely as well as consistently taking appropriate precautionary measures against information leak risks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956145+00:00",
+              "published_date": null,
+              "source_hash": "e4088d5081b98638080422ea39b7e4e4"
+            },
+            {
+              "url": "",
+              "title": "KDDI's Material Sustainability Issues: Cyber Security and Privacy ...",
+              "snippet": "As a telecommunications operator, KDDI complies in protecting the confidentiality of communications. At the same time, to protect customer information, we have established an Information Security Committee charged with preventing internal information leaks, and are also working to formulate and implement company-wide countermeasures to prevent unauthorized intrusions from external networks.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956159+00:00",
+              "published_date": null,
+              "source_hash": "d53fbb793699429ac0c662eb963fdf89"
+            },
+            {
+              "url": "",
+              "title": "List of data breaches - Wikipedia",
+              "snippet": "1 List of data breaches involving a government or public entity. 2 List of data breaches involving companies. 3 See also. ... 2,200,000 customer's data, including names, Social Security numbers, physicians, diagnoses, insurance information ... KDDI: 2006 4,000,000: telecoms: hacked [421] KitchenPal (iCuisto) 2023 100,000 web hacked [422] KM.RU ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956172+00:00",
+              "published_date": null,
+              "source_hash": "0b1610fcada46cf1fd42dde0cd2a3892"
+            },
+            {
+              "url": "",
+              "title": "KDDI's Privacy Policy | Released Information | KDDI CORPORATION",
+              "snippet": "To make a request for revision of personal information, contact the KDDI Corporation Personal Data Disclosure Consultation Office above (2). For other changes or revisions to customer subscription information, contact the KDDI Customer Service Center or the UQ mobile Customer Service Center, according to the telecommunications service you are ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956186+00:00",
+              "published_date": null,
+              "source_hash": "9f4ede6041d3b9d08f5da4ff4ce78d6a"
+            },
+            {
+              "url": "",
+              "title": "KDDI Indonesia Data Breach in 2023 - breachsense.com",
+              "snippet": "Learn everything about the KDDI Indonesia data breach in 2023 Data Breach Report Victim id.kddi.com Threat Actor ALPHV Date Discovered May 08, 2023 Description KDDI Indonesia is a subsidiary of KDDI Corporation, a Japanese telecommunication company, one of the world's largest telecom companies (US$36 billion turnover, 20,000 staff worldwide ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956198+00:00",
+              "published_date": null,
+              "source_hash": "09526ec689b996cbb8be72fe57147034"
+            },
+            {
+              "url": "",
+              "title": "Privacy Portal | Released Information | KDDI CORPORATION - KDDI\u682a\u5f0f\u4f1a\u793e",
+              "snippet": "When providing data to Group or partner companies, KDDI ensures proper management of data, including anonymization and statistical processing of data and obtaining prior consent. KDDI amends this Basic Policy for Data Utilization as clear guiding principles as necessary to keep meeting customers' and society's expectations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956208+00:00",
+              "published_date": null,
+              "source_hash": "12e6e51ac8ead186d79656ca7d6f845c"
+            },
+            {
+              "url": "",
+              "title": "A massive, global cyberattack has reached Utah, so how can ... - KSL News",
+              "snippet": "A massive data breach that initially exposed the personal details of millions of people in Oregon and Louisiana, has now reached Utah.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:38.956226+00:00",
+              "published_date": null,
+              "source_hash": "eb9141101a7d9b85a1391e07bdb276a5"
+            },
+            {
+              "url": "",
+              "title": "Up to 40 million lines affected by KDDI's glitch in communications",
+              "snippet": "Cellphone carrier KDDI Corp. said July 3 that nearly 40 million ... KDDI said earlier that a failure in part of its system to convert voice to data was responsible for the outage.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:42.408115+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "061967fcb14446a08c8a39c0f2537e19"
+            },
+            {
+              "url": "",
+              "title": "KDDI users still affected by major network failure two days later",
+              "snippet": "More than two days after a large-scale network failure, many KDDI Corp. customers were still experiencing ... announced that it had largely restored its internet and data communications services ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "KDDI CORP KDDI CORP customer data privacy breaches",
+              "retrieved_at": "2025-01-06T14:59:42.408239+00:00",
+              "published_date": "2022-07-04T15:46:00+00:00",
+              "source_hash": "53e303aa222ccddcb13828b66b3a4c42"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "based on this policy to the entire KDDI supply chain. Additionally, KDDI investigates the scale, background, credibility, business conditions, financial conditions, etc. of potential business partners, and if they meet a predetermined standard, we open business with them. KDDI Guidelines for CSR in Supply Chain and CSR Procurement Promotion System",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038004+00:00",
+              "published_date": null,
+              "source_hash": "f37a8f093a60393245ad442ae73510cc"
+            },
+            {
+              "url": "",
+              "title": "Managing Supply Chain Disruption in an Era of Geopolitical Risk",
+              "snippet": "The supply chain disruptions are even greater in Europe than the United States. European governments and companies are struggling to replace Russian oil and gas supplies, ... They must ensure that senior management understands the existing supply chain in the context of geopolitical risk, and know if they are sourcing materials from XUAR or ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038039+00:00",
+              "published_date": null,
+              "source_hash": "fed7469653ff7168c816ffc5e29e3cd1"
+            },
+            {
+              "url": "",
+              "title": "Sustainable Procurement Activity Results (FY 2023) | Supply Chain ...",
+              "snippet": "The survey conducted with KDDI Group's key primary suppliers achieved a high response rate of 95% against a target collection rate of 90%, aiding in understanding the supply chain situation and analyzing risks. Additionally, we issue feedback sheets to all respondents, including scores and corrective comments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038055+00:00",
+              "published_date": null,
+              "source_hash": "a31156d159a3a34977f29ac6a41025d1"
+            },
+            {
+              "url": "",
+              "title": "Addressing Supply Chain Challenges Amid Rising Geopolitical ... - Magazine",
+              "snippet": "Dedicated Supply Chain Oversight. As a malfunctioning supply chain poses existential risks to a company's economic viability, C-suites and boards are increasingly concerned about supply chain resilience. \"That is a notable difference from a decade ago, when supply chain management was largely relegated to the procurement and logistics ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038066+00:00",
+              "published_date": null,
+              "source_hash": "fd6907de3de80140a6dd35ab1291aa9d"
+            },
+            {
+              "url": "",
+              "title": "Three strategies to de-risk supply chains amid soaring geopolitical ...",
+              "snippet": "Three strategies to de-risk supply chains amid soaring geopolitical tensions. by Carlos Cordon Published 4 October 2023 in Supply chain \u2022 6 min read. ... Vertical integration enables companies to mitigate risks related to supply chain disruptions or changes in market conditions. It also helps firms extract value from their supply chains ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038071+00:00",
+              "published_date": null,
+              "source_hash": "ab7a0fce87f0caa3816f72712929fefe"
+            },
+            {
+              "url": "",
+              "title": "[BAROMETER] Geopolitical Crises, Climate Change, Shortages: The 10 ...",
+              "snippet": "According to the authors of the 2024 supply chain risks barometer, this growing instability is already impacting international trade. There was a significant decrease (-4%) in transactions between geopolitical blocs from the first quarter of 2022 to the third quarter of 2023. This trend could persist and even intensify this year, warn the authors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038081+00:00",
+              "published_date": null,
+              "source_hash": "ea3513ab5af3b6b3d749d00886ec9bbd"
+            },
+            {
+              "url": "",
+              "title": "KDDI Corporation SWOT and Financial Analysis Quaintel Research",
+              "snippet": "Figure 1: KDDI Corporation - Head Office - Country Figure 2: KDDI Corporation - Key Subsidiaries Figure 3: KDDI Corporation - SWOT Analysis Figure 5: KDDI Corporation - Average Share Price Trend Figure 6: KDDI Corporation - Profit and Loss Statement Figure 7: KDDI Corporation - Balance Sheet Figure 8: KDDI Corporation - Cash Flow Statement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038095+00:00",
+              "published_date": null,
+              "source_hash": "4e5ec05217a4f7f6570305412006ac2f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "a higher standard and avoid procurement risk in the supply chain as far as possible, amid concerns about growing risk with the increasing globalization of business, KDDI established the KDDI CSR Procurement Policy in February 2014 and began consolidating our grasp and management of risk in the entire supply chain.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038100+00:00",
+              "published_date": null,
+              "source_hash": "6ec793aa9d5e3786552ec8bca53377f1"
+            },
+            {
+              "url": "",
+              "title": "Geopolitical readiness in supply chains: Strategic challenges for ...",
+              "snippet": "In the early years of this decade, supply chains have been plunged into the spotlight, facing unprecedented pressure from geopolitical upheavals and global disruptions.The COVID-19 pandemic, trade wars, and political tensions have created a complex environment where supply chains must adapt and become anti-fragile\u2014embracing adversity and growing stronger.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038114+00:00",
+              "published_date": null,
+              "source_hash": "43ed0e64f6b8fbab6910596ff6505814"
+            },
+            {
+              "url": "",
+              "title": "Supply Chain Disruptions 2024: A Comprehensive Year in Review",
+              "snippet": "From geopolitical tension to climate-related challenges, this year underlined a number of vulnerabilities that imparted critical lessons to the industry. The following article summarizes the top 8 supply chain disruptions for 2024, including their causes, effects, and business strategies used to deal with them.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:44.038120+00:00",
+              "published_date": null,
+              "source_hash": "afbc0596f3a6dfa73a35e15619ceeb4c"
+            },
+            {
+              "url": "",
+              "title": "KDDI apologizes for yet another network service disruption",
+              "snippet": "Major mobile carrier KDDI ... disruption from happening again. But this time, the outage was not as bad, and the company was not alone in the spotlight. Nippon Telegraph and Telephone West Corp ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:47.302932+00:00",
+              "published_date": "2022-08-26T19:05:00+00:00",
+              "source_hash": "d149a1aa99fad6a4bd7758e8b98c1d2f"
+            },
+            {
+              "url": "",
+              "title": "KDDI users still affected by major network failure two days later",
+              "snippet": "More than two days after a large-scale network failure, many KDDI Corp. customers were still ... causing a country-wide network jam. The disruption led to a chain of breakdowns, forcing KDDI ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:47.303040+00:00",
+              "published_date": "2022-07-04T15:46:00+00:00",
+              "source_hash": "a512bb830a48ff1eaac51cb12d7cb7ce"
+            },
+            {
+              "url": "",
+              "title": "EDITORIAL: KDDI needs to answer the call to be a vital part of infrastructure",
+              "snippet": "It took KDDI Corp. nearly three days to bring its service back to the state of being \"almost restored\" after a large-scale telecommunications network failure. The disruption of KDDI's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "KDDI CORP KDDI CORP supply chain disruptions geopolitical risks",
+              "retrieved_at": "2025-01-06T14:59:47.303070+00:00",
+              "published_date": "2022-07-05T12:55:00+00:00",
+              "source_hash": "da97ddcba50543a46d03c33d2a9f393f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "KDDI CORP regulatory fines Japan telecommunications",
+              "rationale": "Investigate potential legal or financial penalties due to regulatory non-compliance in Japan's telecommunications sector",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "KDDI CORP customer data privacy breaches",
+              "rationale": "Assess risks related to cybersecurity and customer data protection, given the company's reliance on digital services",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "KDDI CORP supply chain disruptions geopolitical risks",
+              "rationale": "Examine vulnerabilities in KDDI's global supply chain, particularly for critical telecommunications equipment",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:00:08.938548",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

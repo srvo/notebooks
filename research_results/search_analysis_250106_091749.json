@@ -1,0 +1,526 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:17:49.383400",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Fastly Inc",
+      "symbol": "FSLY",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Service reliability concerns due to major outage in June 2021",
+            "Customer concentration risk with 92% of revenue from enterprise clients",
+            "Intense competition from established players like Akamai and Cloudflare",
+            "Regulatory and compliance challenges, including GDPR and data privacy laws"
+          ],
+          "controversies": [
+            "June 2021 outage affecting high-profile clients and damaging reputation",
+            "Leadership changes with departure of former CEO Joshua Bixby"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [
+            "Leadership changes introducing uncertainty during a critical period"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "What Is Fastly and Why a Slew of Websites Went Offline - Yahoo Finance",
+              "snippet": "Major sites began reporting problems around 10:30 a.m. U.K. time on Tuesday, according to Downdetector, which tracks service interruptions. In a summary of the events that unfolded, the company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960284+00:00",
+              "published_date": null,
+              "source_hash": "68dd99702f5776c564beeee2f16ed7f8"
+            },
+            {
+              "url": "",
+              "title": "What is Fastly and why did it cause an outage for major websites?",
+              "snippet": "A slew of major websites including Amazon, Reddit and news publishers like The New York Times were affected by a massive internet outage Tuesday.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960370+00:00",
+              "published_date": null,
+              "source_hash": "1d877c2f50de136e66cadf6f6974cc30"
+            },
+            {
+              "url": "",
+              "title": "Fastly Web Outage: 10 Questions for Critical Suppliers - Prevalent",
+              "snippet": "Fastly, a content delivery network service widely used by web publishers, experienced an outage on June 8, 2021 that had global consequences with major news sites, Amazon, and even the United Kingdom's government websites impacted. Although not cybersecurity related, this outage still provides an example of why organizations that rely on third parties to deliver critical services should ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960384+00:00",
+              "published_date": null,
+              "source_hash": "3f96e2d87a65eae899e4cc88eda01c56"
+            },
+            {
+              "url": "",
+              "title": "Inside the Fastly Outage: Analysis and Lessons Learned - ThousandEyes",
+              "snippet": "While Fastly has not identified the configuration that triggered the outage (as of June 10, 2021), the impact\u201485% of their service, according to Fastly\u2014was felt globally. Figure 1. Fastly's CDN service goes down for ~1 hour between 9:50-10:50 UTC.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960395+00:00",
+              "published_date": null,
+              "source_hash": "0b11df9250a261bfda133cd24da226a9"
+            },
+            {
+              "url": "",
+              "title": "Fastly internet outage: How it happened and what companies it impacted",
+              "snippet": "Scores of popular websites, apps and news outlets worldwide were unavailable for nearly an hour early Tuesday after an outage at Fastly, a major content delivery service. During the outage, web ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960410+00:00",
+              "published_date": null,
+              "source_hash": "a9260de91225e0c835ae206530ee921e"
+            },
+            {
+              "url": "",
+              "title": "How Major Fastly Outage Brought Down the Internet - Newsweek",
+              "snippet": "Shares in Fastly (FSLY) are at time of writing priced at around $49.80 in pre-market trading, down 1.78 percent from Monday's close. The company is valued at around $5.8 billion.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960419+00:00",
+              "published_date": null,
+              "source_hash": "862c5ad1c590c4e208bcf821d11ec8b5"
+            },
+            {
+              "url": "",
+              "title": "Fastly internet outage: What happened? Will it happen again ...",
+              "snippet": "Will it happen again? Fastly is one of a small number of cloud computing companies that provide essential internet services. Other services \u2014 like Cloudflare and Amazon Web Services \u2014 have experienced similar outages, The Washington Post reported.. The pandemic-led shift to online work, school, health care and even grocery shopping has increased the risk of internet outages having serious ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960427+00:00",
+              "published_date": null,
+              "source_hash": "59dcfcba48dadbce8c6777588345ef77"
+            },
+            {
+              "url": "",
+              "title": "Fastly claims single customer responsible for widespread internet outage",
+              "snippet": "A bug with the service Fastly knocked major websites offline on June 8 \u2014 from Amazon to The New York Times \u2014 for about an hour. Now the company is claiming a bug, and one unnamed customer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960440+00:00",
+              "published_date": null,
+              "source_hash": "8a5b403dc43d1a655081b0b64650adb7"
+            },
+            {
+              "url": "",
+              "title": "Fastly Says It Fixed Outage That Took Down Swath of Internet",
+              "snippet": "(Bloomberg) -- Websites across the internet were temporarily unavailable on Tuesday, including the New York Times, Bloomberg News, Reddit Inc., and the U.K. government, after services from content ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960450+00:00",
+              "published_date": null,
+              "source_hash": "adac98540715e4cd53e15cd9cc076f27"
+            },
+            {
+              "url": "",
+              "title": "Fastly's Tuesday Morning Outage: The Good, the Bad, and the Ugly",
+              "snippet": "Content delivery expert Fastly suffered a rare global outage on the morning of Tuesday, June 8. A bad \"service configuration\" caused disruptions across the company's global network of content ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc service outage 2021 legal consequences",
+              "retrieved_at": "2025-01-06T16:17:17.960458+00:00",
+              "published_date": null,
+              "source_hash": "7029a91d08825db8dea0a4ca4b6d8b9f"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "Fastly, Inc. (FSLY) Q2 2024 Earnings Call Corrected Transcript 07-Aug-2024 ... concentration risk over time. The success in this transformation will continue to drive top line revenue growth and ... approach will significantly enhance our customer retention and create efficiencies for Fastly in supporting our customer success. Last quarter, we ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.162970+00:00",
+              "published_date": null,
+              "source_hash": "b0a7703e1a49f4a066450a7519609f16"
+            },
+            {
+              "url": "",
+              "title": "Fastly: Another Quarter, Same Issues - Seeking Alpha",
+              "snippet": "Customer concentration continues to be an issue for Fastly, and if anything, this problem has increased over the past few quarters. Enterprise customers accounted for 92% of total revenue on an ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163033+00:00",
+              "published_date": null,
+              "source_hash": "4249bf7bc1f0e93180d0823fa7c59ce4"
+            },
+            {
+              "url": "",
+              "title": "Fastly Q1: Market's Concerns Were Valid (NYSE:FSLY)",
+              "snippet": "The decline in revenue growth, exacerbated by reduced spending from key customers, highlights the pressing need for Fastly to address its customer concentration risk and pursue strategies for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163050+00:00",
+              "published_date": null,
+              "source_hash": "7cd6d3003ac9b1058ec560f187102dbf"
+            },
+            {
+              "url": "",
+              "title": "Fastly: Watch Out, Enterprise Customers Are Leaving (Rating Downgrade)",
+              "snippet": "Fastly is boasting that its revenue concentration in its top 10 clients has dropped to 33%, down from 40% last year. ... Fastly's total customer count grew to 3,638 (up ~400 customers in the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163063+00:00",
+              "published_date": null,
+              "source_hash": "12395febf22b0f4b6bd61ce28dd53f3f"
+            },
+            {
+              "url": "",
+              "title": "Fastly Has 'Magic Of Possibility,' Says Analyst ... - Markets Insider",
+              "snippet": "\"While customer concentration remains a concern, 50% of Y/Y growth is coming from non-Top 10 enterprises, nearly half of incremental internet traffic is driven by a handful of Fastly's largest ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163074+00:00",
+              "published_date": null,
+              "source_hash": "3ae26a460e404eec43707aaae02fb776"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "One of the things that we really differentiate on at Fastly, is customer satisfaction. If you look at our NPS scores, if you look at our customer sat and probably most ... All right. Looking at our next 12, 18 months, you do expect customer concentration to smooth out a bit, what could kind of help with that to drive some more consistent ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163086+00:00",
+              "published_date": null,
+              "source_hash": "eeec5e220cf14a1c09fab4872cfa8647"
+            },
+            {
+              "url": "",
+              "title": "Fastly's Near-Term Risks Include Challenges with Top ... - Benzinga",
+              "snippet": "B of A Securities analyst Tal Liani downgraded Fastly Inc FSLY from Buy to Underperform and lowered the price target from $18 to $8.. On Wednesday, Fastly reported quarterly sales of $133.52 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163098+00:00",
+              "published_date": null,
+              "source_hash": "1d6f8068f98526749563310e2da435a0"
+            },
+            {
+              "url": "",
+              "title": "Fastly's Reliance on Content Delivery vs. More Valuable Security and ...",
+              "snippet": "Fastly is designed to serve its customer at its edge servers and avoid requiring trips to the origin servers as much as possible. ... Fastly also has risk stemming from its ability to attract top ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163109+00:00",
+              "published_date": null,
+              "source_hash": "cfcc162e5b0520f8d2edd3198ece6015"
+            },
+            {
+              "url": "",
+              "title": "Fastly's Near-Term Risks Include Challenges with Top Customers, Analyst ...",
+              "snippet": "B of A Securities analyst Tal Liani downgraded Fastly Inc (NYSE:FSLY) from Buy to Underperform and lowered the price target from $18 to $8.. On Wednesday, Fastly reported quarterly sales of $133. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163119+00:00",
+              "published_date": null,
+              "source_hash": "48d982e49089ebfb2a8f7392bea6344d"
+            },
+            {
+              "url": "",
+              "title": "The Race to Adapt: Fastly Research Reveals Businesses Lost Almost 10% ...",
+              "snippet": "With world-class support that achieves 95%+ average annual customer satisfaction ratings, Fastly's beloved suite of edge compute, delivery, security and observability offerings has been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:22.163130+00:00",
+              "published_date": null,
+              "source_hash": "ef8ad48bec252675beaa75a988fc99f9"
+            },
+            {
+              "url": "",
+              "title": "Why Did Fastly Inc (FSLY) Stock See 29.76% Surge in the Last 90 Days?",
+              "snippet": "Fastly Inc (FSLY) stock saw a modest uptick, ending the day at $9.55 which represents a slight increase of $0.34 or 3.69% from the prior close of $9.21. The stock opened at $9.42 and touched a low of $9.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:30.528701+00:00",
+              "published_date": "2025-01-04T14:39:00+00:00",
+              "source_hash": "061abf628d7a1b20b8746cf069a52a7e"
+            },
+            {
+              "url": "",
+              "title": "Fastly Inc (FSLY) Stock: More Strategic Than Meets the Eye",
+              "snippet": "Fastly Inc (FSLY) stock saw a decline, ending the day at $10.04 which represents a decrease of $-0.13 or -1.28% from the prior close of $10.17. The stock opened at $10.15 and touched a low of $10 during the day,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:25.541592+00:00",
+              "published_date": "2024-12-25T21:35:00+00:00",
+              "source_hash": "9d5c772948d06561dbe3cc2094081a72"
+            },
+            {
+              "url": "",
+              "title": "Fastly, Inc. Reports Q3 2024 Financial Results",
+              "snippet": "Fastly, Inc ( (FSLY)) has released its Q3 earnings ... The company's enterprise customer count decreased slightly, but total customer count rose, indicating broader market penetration.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:25.541631+00:00",
+              "published_date": "2024-11-07T08:45:00+00:00",
+              "source_hash": "8572d846379d6a3c7f76804d4a87f3f9"
+            },
+            {
+              "url": "",
+              "title": "Fastly (FSLY) Benefits from Edgio Bankruptcy: Analysts See Strong Growth Ahead",
+              "snippet": "The acceleration in growth outside the top 10 was stronger than expected and Fastly, Inc. (NYSE:FSLY) believes this growth to be sustainable. The company targets to bring the top 10 concentration ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Fastly Inc Fastly Inc customer concentration risk",
+              "retrieved_at": "2025-01-06T16:17:25.541659+00:00",
+              "published_date": "2024-11-28T07:13:00+00:00",
+              "source_hash": "7ba2cb72436f62ed102e7db1fb09a878"
+            },
+            {
+              "url": "",
+              "title": "The Fastly Inc Enigma: What's Causing the Wild Swings in FSLY Stock?",
+              "snippet": "Fastly Inc (FSLY) stock saw a modest uptick, ending the day at $9.44 which represents no change from the prior close of of $9.44. The stock opened at $9.52 and touched a low of $9.33 during the day, reaching a high of $9.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:30.528766+00:00",
+              "published_date": "2025-01-01T21:05:00+00:00",
+              "source_hash": "c960411519affa871d95abf96c138a6d"
+            },
+            {
+              "url": "",
+              "title": "PESTEL Analysis of Fastly, Inc. (FSLY) - dcf-fm",
+              "snippet": "Fastly faces significant regulatory compliance challenges across different regions. With operations in the U.S., Europe, and Asia, the company must navigate a complex web of regulations. For example, compliance with the General Data Protection Regulation (GDPR) in Europe requires substantial investment in data privacy measures.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932433+00:00",
+              "published_date": null,
+              "source_hash": "5ad89a59bea02d38fac2b0825acd0563"
+            },
+            {
+              "url": "",
+              "title": "Compliance | Fastly",
+              "snippet": "ISO/IEC 27001:2013: Fastly is certified to the ISO/IEC 27001:2013 standard for its Information Security Management System (ISMS).You can view our certificate here.. SOC 2 Type 2: Fastly is audited against the Trust Service Criteria for Security and Availability as established by the AICPA. GDPR: Fastly is audited against key articles of the General Data Protection Regulation, mapped to data ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932548+00:00",
+              "published_date": null,
+              "source_hash": "09a9bb8067c0bca16a127cf831055cef"
+            },
+            {
+              "url": "",
+              "title": "Fastly's Compliance and Privacy Terms | Fastly",
+              "snippet": "To learn more about Fastly's security and compliance, legal terms, privacy, and corporate values and ethics, please visit the resources below. Security & Compliance. Summary of Security Measures. Security Advisories. Single Compliant Platform. Compliance. Compliance and Law FAQ. Report a Security Issue.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932604+00:00",
+              "published_date": null,
+              "source_hash": "30e92336d9df9df60f59bceda65a0b98"
+            },
+            {
+              "url": "",
+              "title": "Fastly Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Regulatory Challenges: As data privacy regulations become more stringent globally, Fastly may face challenges in complying with various laws, impacting its operations. ... Fastly Inc. is a cloud services provider that specializes in edge cloud computing and content delivery services, focusing on optimizing performance and security for digital ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932617+00:00",
+              "published_date": null,
+              "source_hash": "af0b667d5c21d9fab92307db35b77597"
+            },
+            {
+              "url": "",
+              "title": "Compliance Frequently Asked Questions | Fastly",
+              "snippet": "Details about how we retain and use data can be found in our Compliance documentation. Fastly's security services collect data insights from anomalous activity and suspicious behavior detected by the services. Fastly uses these data insights to further protect its customers and improve Fastly products.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932626+00:00",
+              "published_date": null,
+              "source_hash": "0d5b70c3e62206b570e4dcd5d2087be5"
+            },
+            {
+              "url": "",
+              "title": "Five things we know about Fastly, the company that brought down the ...",
+              "snippet": "Fastly noted in a regulatory filing that it \"has not developed redundancies for all aspects\" of its platform, and warned that there could be risk of interruptions or performance issues. Fastly said it previously experienced a platform interruption affecting some customers in January 2021. The company did not disclose which customers were ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932636+00:00",
+              "published_date": null,
+              "source_hash": "c49f30ee0d7254c51c04d49baacbcc6d"
+            },
+            {
+              "url": "",
+              "title": "Governance documents - Fastly",
+              "snippet": "At Fastly, we promise to treat your data with respect and will not share your information with any third party. You can unsubscribe to any of the investor alerts you are subscribed to by visiting the 'unsubscribe' section below. If you experience any issues with this process, please contact us for further assistance.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932645+00:00",
+              "published_date": null,
+              "source_hash": "82f6405ec8751f37e81b94e7e2034e58"
+            },
+            {
+              "url": "",
+              "title": "Fastly, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "Fastly is in far fewer sites than traditional CDNs, but it houses servers in the most network-dense data centers. Instead of simply storing static content, it allows its customers to program on its platform, enabling edge computing and better service of the more dynamic content that was traditionally not well served by CDNs.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932654+00:00",
+              "published_date": null,
+              "source_hash": "f4d8ab8ab17aad8b35cea0d629209349"
+            },
+            {
+              "url": "",
+              "title": "Company Report: Fastly Inc - Platform Executive",
+              "snippet": "Fastly Inc is also facing increasing competition from big players such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform. 3. Regulatory threats: Fastly Inc is subject to a wide range of regulations and compliance requirements, such as GDPR and the CCPA, which can significantly impact its operations and profits.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932663+00:00",
+              "published_date": null,
+              "source_hash": "63976060d6f036b5cc0ad6ab4b8b1872"
+            },
+            {
+              "url": "",
+              "title": "Rampant API Growth Causing Cybersecurity Risks for Businesses - Fastly",
+              "snippet": "LONDON--(BUSINESS WIRE)-- A recent survey of 235 IT and cybersecurity decision-makers commissioned by Fastly, Inc. (NYSE: FSLY), one of the world's fastest edge cloud platforms, has found that - despite the critical role of APIs - the vast majority of commercial decision-makers are ignoring the burgeoning security risk for businesses.Application Programming Interfaces (APIs) have long been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:26.932672+00:00",
+              "published_date": null,
+              "source_hash": "fdf1917bf0e1c4739819f62707b36b54"
+            },
+            {
+              "url": "",
+              "title": "Fastly AI Accelerator Helps Developers Unleash the Power of Generative AI",
+              "snippet": "Fastly Inc. (NYSE: FSLY), a global leader in edge cloud platforms, today announced the general availability of Fastly AI Accelerator. A semantic caching solution created to address the critical performance and cost challenges faced by developers with Large ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:30.528795+00:00",
+              "published_date": "2024-12-16T14:22:00+00:00",
+              "source_hash": "629b332a1467b8f9c90bad3e50181c6b"
+            },
+            {
+              "url": "",
+              "title": "Fastly Inc. (FSLY): Transforming Digital Experiences with Edge Cloud Innovation and AI Acceleration",
+              "snippet": "In this article, we are going to take a look at where Fastly Inc. (NYSE:FSLY ... that legislators often become bogged down in daily issues and fail to consider the long-term implications of ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:30.528819+00:00",
+              "published_date": "2024-12-04T11:47:00+00:00",
+              "source_hash": "0a69ec85dbebaa4332c0671a700befe5"
+            },
+            {
+              "url": "",
+              "title": "What's Behind the -1.67% Drop in Fastly Inc (FSLY) Stock? Find Out Now!",
+              "snippet": "On Monday, Fastly Inc (FSLY) stock saw a decline, ending the day at $9.44 which represents a decrease of $-0.16 or -1.67% from the prior close of $9.6. The stock opened at $9.45 and touched a low of $9.3 during the day, reaching a high of $9.57. The volume of shares traded was 2.06 million falling short of the average volume of 3.18 million.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Fastly Inc Fastly Inc regulatory compliance challenges",
+              "retrieved_at": "2025-01-06T16:17:30.528841+00:00",
+              "published_date": "2024-12-31T20:02:00+00:00",
+              "source_hash": "6b72beef557ebd1ff4c795101f2f2836"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Fastly Inc service outage 2021 legal consequences",
+              "rationale": "Investigate potential legal repercussions from the 2021 service outage",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Fastly Inc customer concentration risk",
+              "rationale": "Assess the impact of reliance on a small number of large customers",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Fastly Inc regulatory compliance challenges",
+              "rationale": "Explore regulatory risks related to data privacy and security",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:17:49.383410",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

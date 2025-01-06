@@ -1,0 +1,435 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:16:09.065467",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Brown & Brown",
+      "symbol": "BRO",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Legal disputes and financial settlements",
+            "Toxic work culture and high employee turnover",
+            "Regulatory compliance challenges",
+            "Economic sensitivity and integration risks from acquisitions"
+          ],
+          "controversies": [
+            "Multi-seven-figure settlement payment to FRP in 2022",
+            "Ongoing litigation with former executives",
+            "Employee complaints about favoritism and lack of recognition"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Toxic work culture with high turnover and low morale",
+            "Lack of employee recognition and inadequate HR support"
+          ],
+          "governance_issues": [
+            "Internal conflicts and reputational risks from legal disputes",
+            "Focus on revenue growth at the expense of employee well-being"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Brown & Brown Agrees to Pay FRP a Multi Seven-Figure Settlement Payment ...",
+              "snippet": "In December of 2022, the court determined that the executives were entitled to recover the amount of their attorneys' fees and costs from Brown, which lead to Brown paying a multi-seven-figure-dollar payment to FRP. Brown appealed the court's rulings, but in June of this year, they offered to pay rather than continue the fight.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773648+00:00",
+              "published_date": null,
+              "source_hash": "0da0dd67d863b657eb7f0d502a51d66b"
+            },
+            {
+              "url": "",
+              "title": "Judge dismisses Brown & Brown 'betrayal' complaints against rival ...",
+              "snippet": "FRP, headed by ex- Brown & Brown regional president Charlie Lydecker, filed its own lawsuit against Brown & Brown, as well as a separately-filed motion to dismiss the earlier claims.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773752+00:00",
+              "published_date": null,
+              "source_hash": "b52cac8985a7bf20b7416809eb527bd6"
+            },
+            {
+              "url": "",
+              "title": "Ex-employees refute Brown & Brown's 'betrayal' accusations",
+              "snippet": "Brown & Brown's lawsuit, filed Oct. 11, accused Lydecker, Tinsley and several other former Brown & Brown executives of conspiring to create a competing insurance agency while still employed at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773770+00:00",
+              "published_date": null,
+              "source_hash": "84488f07c24c76f4262400c934ef023b"
+            },
+            {
+              "url": "",
+              "title": "Daytona's Brown & Brown settles legal battle with crosstown rival FRP",
+              "snippet": "Brown & Brown in 2022 saw its revenues increase 17% year-over-year to a record $3.57 billion just 11 years after topping the $1 billion mark for the first time ever in 2011.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773784+00:00",
+              "published_date": null,
+              "source_hash": "3ed6bf0546fdb49c7790318bafdbc62d"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Won't Get Change of Venue in Coverage Gap Lawsuit by ...",
+              "snippet": "The Brown & Brown dispute stems from a 2016 fatal shooting at Kings Trail Apartments in Jacksonville, Florida. The complex was owned by Tzadik Acquisitions LLC, based in Miami.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773797+00:00",
+              "published_date": null,
+              "source_hash": "a8afe230ec68c8f9505b9fd459889a30"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Gets Record $20M as Part of Settlement with ...",
+              "snippet": "Brown & Brown Inc. received what their attorney called a record $20 million settlement this week in a lawsuit it filed accusing rival company AssuredPartners Inc. of taking the Daytona Beach insurance giant's employees, and then some of its customers. The settlement appears to be the largest ever paid in an insurance industry case involving\u2026 Continue reading Brown & Brown Gets Record $20M ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773809+00:00",
+              "published_date": null,
+              "source_hash": "e8abab54c6911980871461db03bf3b30"
+            },
+            {
+              "url": "",
+              "title": "Ex-Brown & Brown execs sue former company - Daytona Beach News-Journal",
+              "snippet": "Brown & Brown is the nation's sixth-largest independent insurance brokerage with more than 240 offices in 40 states and annual revenues that totaled $1.88 billion in 2017 and are expected to top ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773826+00:00",
+              "published_date": null,
+              "source_hash": "25fb5745ae60fdecc8a2dc24436eabd4"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown faces off against its former executives in legal dispute",
+              "snippet": "The lawsuit's claims read like a spy novel, with the then-Brown & Brown employees allegedly using burner phones, secretly taping a talk that Brown & Brown chairman Hyatt Brown gave to employees ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773839+00:00",
+              "published_date": null,
+              "source_hash": "3a14153d4b6a8360d836bfd41704cc5e"
+            },
+            {
+              "url": "",
+              "title": "FRP founders defeat Brown & Brown in court over $145mn employment ...",
+              "snippet": "Key executives of Foundation Risk Partners (FRP) have won a long-running court battle with their former employer Brown & Brown, which had sued for $145mn in damages in relation to allegations of employment contract breaches when they left to found the firm.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773851+00:00",
+              "published_date": null,
+              "source_hash": "cc7a15f1caa372fd3c6365e51dff04fc"
+            },
+            {
+              "url": "",
+              "title": "Brown and Brown settles suit against ex-execs who left to launch rival",
+              "snippet": "DAYTONA BEACH, Fla.\u2014Brown & Brown Inc. settled its lawsuit this week against several of its former high-ranking employees whom the company accused of using confidential trade secrets to start a\u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown regulatory fines or lawsuits",
+              "retrieved_at": "2025-01-06T19:15:43.773864+00:00",
+              "published_date": null,
+              "source_hash": "ba65659a4e9b052e3d68b95caea329d3"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Insurance Culture reviews - Indeed",
+              "snippet": "Termination of Employees is revealing of toxic work culture. HR dept is non existent. No employee incentives and or recognition. Absent Leadership. Employees carry the responsibility of keeping a high morale. Training, coaching and employee development are non existent. Incrrease in Revenue is the only concern in this Company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870274+00:00",
+              "published_date": null,
+              "source_hash": "efe13cf102e99ae719c07538b070d6a8"
+            },
+            {
+              "url": "",
+              "title": "Working at Brown & Brown Insurance: 423 Reviews | Indeed.com",
+              "snippet": "423 reviews from Brown & Brown Insurance employees about Brown & Brown Insurance culture, salaries, benefits, work ... Termination of Employees is revealing of toxic work culture. HR dept is non existent. No employee incentives and or recognition. ... Phone system they used continuously had issues - glitches, freezing up, knocking me offline ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870387+00:00",
+              "published_date": null,
+              "source_hash": "0d70e7ef405cd0f27f776b6c84347117"
+            },
+            {
+              "url": "",
+              "title": "What's working at brown and brown like? : r ... - Reddit",
+              "snippet": "Depends on role and location. B&B under pays employees but has really great benefits. Mental health was especially good as I saw a therapist and psychiatrist for $0. They also offer a good 401k match and stock program. Culture at my office was pretty bad. Management HR scandals, favoritism and high turnover.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870406+00:00",
+              "published_date": null,
+              "source_hash": "425e036c7efc4a0c359fa37162da2f34"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Insurance Employee Reviews - Comparably",
+              "snippet": "Out of 114 Brown & Brown Insurance employee reviews, 87% were positive. The remaining 13% were constructive reviews with the goal of helping Brown & Brown Insurance improve their work culture. The Sales team, with 100% positive reviews, reports the best experience at Brown & Brown Insurance compared to all other departments at the company.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870422+00:00",
+              "published_date": null,
+              "source_hash": "ba3b4c80eb14155bf60fbda9c60731a9"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Insurance Reviews & Ratings by 15 Employees",
+              "snippet": "How satisfied are employees working at Brown & Brown Insurance? 60% of employees would recommend working at Brown & Brown Insurance with the overall rating of 3.3 out of 5. Employees also rated Brown & Brown Insurance 3.6 out of 5 for Company Culture, 3.2 for Rewards You Receive, 2.9 for Growth Opportunities and 2.9 for support you get.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870436+00:00",
+              "published_date": null,
+              "source_hash": "c91e8d8003baa4d8e78e07e2ba03c5d5"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Insurance - Toxic Environment - Glassdoor",
+              "snippet": "Benefits are competitive, especially their Employee Stock Plan.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870448+00:00",
+              "published_date": null,
+              "source_hash": "f3fe712ef3cabb3e9fd9358b53e3d4d4"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Insurance - Silos and toxic old boys club mentality",
+              "snippet": "There is always work. The team in the compensation consulting area is highly skilled, knowledgeable, communicative, and demonstrate the culture that Brown & Brown should strive to achieve throughout the organization.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870462+00:00",
+              "published_date": null,
+              "source_hash": "4b952b0789080f3219d09c60d9fe8ded"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown Insurance Culture - Comparably",
+              "snippet": "Working at Brown & Brown Insurance. Working at Brown & Brown Insurance is rated highly by 103 employees, across various culture dimensions. Brown & Brown Insurance employees are most satisfied about CEO Rating, Executive Team, and Meetings categories, putting Brown & Brown Insurance's culture in the Top 15% compared to similar sized companies on Comparably and in the Top 10% compared to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870473+00:00",
+              "published_date": null,
+              "source_hash": "328183433eca3103b8fd96a3fe057201"
+            },
+            {
+              "url": "",
+              "title": "Working at Brown & Brown Insurance: 81 Reviews | Indeed.com",
+              "snippet": "81 reviews from Brown & Brown Insurance employees about Brown & Brown Insurance culture, salaries, benefits, work-life balance, management, job security, and more. ... Many complaints to corporate about leadership's lack of support of the culture and behavioral issues but they let it go and label those who speak up as trouble makers or just ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870488+00:00",
+              "published_date": null,
+              "source_hash": "238371550ffaa9e465e6bc89504f073a"
+            },
+            {
+              "url": "",
+              "title": "Working at Brown & Brown Insurance: 33 Reviews - Indeed",
+              "snippet": "Reviews from Brown & Brown Insurance employees about Brown & Brown Insurance culture, salaries, benefits, work-life balance, management, job security, and more. ... Many complaints to corporate about leadership's lack of support of the culture and behavioral issues but they let it go and label those who speak up as trouble makers or just ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Brown & Brown Brown & Brown employee controversies or workplace culture issues",
+              "retrieved_at": "2025-01-06T19:15:47.870501+00:00",
+              "published_date": null,
+              "source_hash": "388be90ea2d8eb1a9a3b5799d8ce4be6"
+            },
+            {
+              "url": "",
+              "title": "Acquisition Strategy | Brown & Brown",
+              "snippet": "With more than 80 years of proven success, Brown & Brown is one of the insurance industry's most powerful and influential leaders. Top ten largest insurance brokerages in the world; $4+ billion in annual revenue; 500+ locations globally, and growing; 16,000+ teammates; Traded on the New York Stock Exchange (NYSE: BRO) Teammate ownership of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075562+00:00",
+              "published_date": null,
+              "source_hash": "5c10923f6e163ae2dfc2c5131ccd92e4"
+            },
+            {
+              "url": "",
+              "title": "Private Equity/Mergers & Acquisition Insurance | Brown & Brown",
+              "snippet": "Private Equity Funds, Family Offices and Strategic Acquirers, face a specific set of risks arising from their merger and acquisition (M&A) activity. While the nature of these risks varies depending on the industry, size of an acquisition, investment thesis, loss history and many other unique factors, there are risk management tools, techniques ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075678+00:00",
+              "published_date": null,
+              "source_hash": "0287f6b56a5f240bb4f86f02bec0273f"
+            },
+            {
+              "url": "",
+              "title": "M&A Due Diligence for Private Equity | Brown & Brown",
+              "snippet": "Brown & Brown works with companies to understand the implications of proposed or impending mergers or acquisitions and how to identify ways to navigate them from a benefits perspective. From due diligence to understanding the downstream effect of new populations, our team works closely to understand the goals, help eliminate obstacles and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075697+00:00",
+              "published_date": null,
+              "source_hash": "8fa59b7ea37ca18b62a81d18066cd3aa"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown, Inc. enters into agreement to acquire BdB Limited ...",
+              "snippet": "Click to read the official press release on investor.bbinsurance.com. DAYTONA BEACH, Fla., Feb. 07, 2022 (GLOBE NEWSWIRE) \u2014 J. Scott Penny, chief acquisitions officer of Brown & Brown, Inc. (NYSE:BRO), and the management ownership team of the BdB Limited companies (\"BdB\"), today announced that Brown & Brown, Inc. (Brown & Brown) has entered into an agreement to acquire the general ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075711+00:00",
+              "published_date": null,
+              "source_hash": "06c77c63aa23dd4ac7f54899908907cd"
+            },
+            {
+              "url": "",
+              "title": "Insurance Mergers & Acquisitions (M&A) - Brown & Brown Insurance",
+              "snippet": "Partnering with Brown & Brown is by far one of the best decisions we ever made. It provided my family with financial independence, while at the same time, delivered access to resources that allowed TSG to continue to grow and acquire other businesses. The Brown & Brown culture is a great fit for our team!\" Thomas Contreras (Acquired in 2012)",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075731+00:00",
+              "published_date": null,
+              "source_hash": "312a3b56c4381b48080a4ddab08dfab8"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Brown & Brown's experienced leadership team, with deep industry knowledge and expertise, guides the company's strategic direction and operational excellence. Weaknesses 1. Dependence on Acquisitions. While acquisitions have fueled growth, an over-reliance on this strategy may expose Brown & Brown to integration risks and potential cultural ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075744+00:00",
+              "published_date": null,
+              "source_hash": "6f9b01af276e749512a00be0eaf8a701"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown to Acquire Quintes - Investor Presentation",
+              "snippet": "to the following items: the Company's consummation and integration of the acquisition of the insurance operations of Quintes Holding B.V. (\"Quintes\"), including adequately addressing any matters analyzed in the due diligence process, and material adverse changes in the business and financial condition of Quintes, the Company, or both, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075756+00:00",
+              "published_date": null,
+              "source_hash": "700234ba15573afd1c29d112c8203992"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown, Inc. announces the asset acquisition of Corporate ...",
+              "snippet": "Brown & Brown's capabilities in terms of scope of offerings, deeper bench strength and enhanced geographic footprint are a perfect complement for our customers in light of the ever-changing business world regarding risk and variable assumptions of risk. We believe joining Brown & Brown will enable us to provide even better results.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075768+00:00",
+              "published_date": null,
+              "source_hash": "bb30a8059d480ccb2c5e710d94ecf048"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown, Inc. Announces the Asset Acquisition of Axia Strategies ...",
+              "snippet": "Brown & Brown, Inc. Announces the Asset Acquisition of Axia Strategies, Inc. May 14, 2014 DAYTONA BEACH, FL and TAMPA, FL -- (Marketwired ) -- 05/14/14 -- J. Scott Penny , Regional President and Chief Acquisitions Officer of Brown & ... include those factors relevant to Brown & Brown's consummation and integration of the announced acquisition ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075781+00:00",
+              "published_date": null,
+              "source_hash": "6c49d8dd0305d47e35115e7d87688d6e"
+            },
+            {
+              "url": "",
+              "title": "Brown & Brown: Continued Acquisition-Fueled Growth - Seeking Alpha",
+              "snippet": "Brown & Brown (NYSE:BRO) has been on a roll over the past few years, as it grows its brands through multiple acquisitions, roughly 2-3 each month.These acquisitions have been strategic in both the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Brown & Brown Brown & Brown acquisition integration challenges",
+              "retrieved_at": "2025-01-06T19:15:52.075794+00:00",
+              "published_date": null,
+              "source_hash": "2d783d691cce9878aa976abf86200be7"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Brown & Brown regulatory fines or lawsuits",
+              "rationale": "Investigate potential legal or regulatory issues impacting the company",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Brown & Brown employee controversies or workplace culture issues",
+              "rationale": "Assess risks related to employee relations and corporate culture",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Brown & Brown acquisition integration challenges",
+              "rationale": "Evaluate risks associated with rapid growth through acquisitions",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:16:09.065474",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

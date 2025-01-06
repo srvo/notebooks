@@ -1,0 +1,528 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T12:35:40.849273",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Nkarta Inc",
+      "symbol": "NKTX",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Regulatory and clinical trial risks, including potential delays or rejections in clinical trials and product approvals",
+            "Financial sustainability concerns due to reliance on external funding and lack of revenue-generating products",
+            "Intense competition in the cell therapy market impacting market potential and funding opportunities",
+            "Operational challenges, including recent layoffs and potential internal restructuring"
+          ],
+          "controversies": [
+            "Mixed clinical trial results for NKX101 in AML leading to a 40% stock drop",
+            "Layoffs despite positive developments, raising questions about workforce stability"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical concerns regarding workforce stability and management practices due to layoffs"
+          ],
+          "governance_issues": [
+            "Potential governance issues related to internal restructuring and cost-cutting measures"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Nkarta moves cell therapy into autoimmune trials, lays off staff",
+              "snippet": "After Nkarta said Oct. 17 that the FDA is allowing a human test of NKX019 in lupus nephritis, the company's stock rose from $1.47 per share at market open to $3.14 by the end of the day. The ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076021+00:00",
+              "published_date": null,
+              "source_hash": "ef318a6c2aae807ce5a1998298cd6d17"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Receives FDA Clearance of IND Application for NKX019 in Lupus ...",
+              "snippet": "SOUTH SAN FRANCISCO, Calif., Oct. 17, 2023 (GLOBE NEWSWIRE) -- Nkarta, Inc. (Nasdaq: NKTX), a biopharmaceutical company developing engineered natural killer (NK) cell therapies, today announced ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:11.857160+00:00",
+              "published_date": null,
+              "source_hash": "0c62e42acc58f89faa55f63cec66de11"
+            },
+            {
+              "url": "",
+              "title": "Correction: Nkarta Reports Second Quarter 2024 Financial Results and ...",
+              "snippet": "Nkarta, Inc. Enrollment expected to initiate by year-end 2024 in second clinical trial of NKX019 in autoimmune disease, Ntrust-2, for treatment of systemic sclerosis, myositis and vasculitis",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076126+00:00",
+              "published_date": null,
+              "source_hash": "feeb113fd77dbedb4b2771503bc1a990"
+            },
+            {
+              "url": "",
+              "title": "Nkarta's Stock Climbs 28% After FDA Approves Drug Application",
+              "snippet": "Nkarta, Inc. Appoints George Vratsanos as Board of Directors Jun. 13: CI Certain Common Stock of Nkarta, Inc. are subject to a Lock-Up Agreement Ending on 25-MAY-2024. May. 24: CI Certain Pre-Funded Warrants of Nkarta, Inc. are subject to a Lock-Up Agreement Ending on 25-MAY-2024.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:11.857185+00:00",
+              "published_date": null,
+              "source_hash": "e84437b86c28ffbfe7b2e7ab642ca80c"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Reports Third Quarter 2024 Financial Results and Corporate ...",
+              "snippet": "Nkarta, Inc. First patient dosed in each of Ntrust-1 and investigator-sponsored clinical trial (IST) of NKX019; enrollment ongoing in both studies Enrollment in Ntrust-2 expected to initiate by ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:11.857198+00:00",
+              "published_date": null,
+              "source_hash": "88c3a9e1e996434487bb17f0bde24e8a"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Says FDA Clears IND Application For NKX019 To Treat Lupus ...",
+              "snippet": "(RTTNews) - Biopharmaceutical company Nkarta, Inc. (NKTX) announced Tuesday the clearance of an Investigational New Drug (IND) application by the U.S. Food and Drug Administration (FDA) to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:11.857208+00:00",
+              "published_date": null,
+              "source_hash": "91433c50371ac012ea34c540cc141fb1"
+            },
+            {
+              "url": "",
+              "title": "Nkarta gets FDA green light to test NKX019 cell therapy in AAV",
+              "snippet": "This marks Nkarta's second investigational new drug (IND) application of NKX019 to be cleared by the FDA. The first allowed the launch of Ntrust-1, a U.S.-based trial testing the therapy in people with treatment-resistant lupus nephritis, a type of kidney inflammation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:11.857218+00:00",
+              "published_date": null,
+              "source_hash": "31e8089c5004eeadcdc0752ef7f48f01"
+            },
+            {
+              "url": "",
+              "title": "Nkarta: Catalysts Ahead, But Competition In Cell Therapy Too (NKTX)",
+              "snippet": "Summary. Nkarta is set to report data from its CAR-NK cell therapy, NKX019, used in a compressed dosing regime in lymphoma patients, in late 2024, possibly with Q3'24 earnings.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076117+00:00",
+              "published_date": null,
+              "source_hash": "9599def08080d4029e22b728b137430b"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Receives FDA Clearance of IND Application for NKX019 in ... - Nasdaq",
+              "snippet": "--Nkarta, Inc., a biopharmaceutical company developing engineered natural killer cell therapies, today announced the clearance of an Investigational New Drug application by the U.S. Food and Drug ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:11.857240+00:00",
+              "published_date": null,
+              "source_hash": "c2b6b60d1c6f18fa12865b6958d28f18"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down Nkarta, Inc. (NKTX) Financial Health: Key Insights for ...",
+              "snippet": "A Deep Dive into Nkarta, Inc. (NKTX) Profitability A Deep Dive into Nkarta, Inc.'s Profitability. Gross Profit Margin: For the nine months ended September 30, 2024, the gross profit margin was not explicitly reported due to the absence of revenue. However, total operating expenses were $97.3 million for the same period .. Operating Profit Margin: The loss from operations for the nine months ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875672+00:00",
+              "published_date": null,
+              "source_hash": "66d883402e7e887b188ab1755845f229"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc.: Trying To Find Space In A Crowded Place",
+              "snippet": "Nkarta focuses on autoimmune diseases, with $402.5M in cash. Read why NKTX stock, currently undervalued, offers multiple opportunities despite market risks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:23.426305+00:00",
+              "published_date": "2025-01-02T20:22:00+00:00",
+              "source_hash": "e941c9778465e241128fc7b76631cc0a"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Announces IND Clearance of Investigator-Sponsored Trial in Myasthenia Gravis and Opening of Enrollment for Ntrust-2",
+              "snippet": "Dec. 05, 2024 (GLOBE NEWSWIRE) -- Nkarta, Inc. (Nasdaq: NKTX), a biopharmaceutical ... trial that builds on academic studies of durable, drug-free remissions in patients with autoimmune disease ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:15.333591+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "dd3a5d6900b6fc63536b6a2dcdb36e1a"
+            },
+            {
+              "url": "",
+              "title": "Nkarta's SWOT analysis: NK cell therapy stock's potential in cancer treatment",
+              "snippet": "Nkarta Inc. (NASDAQ ... sector is often longer than initially anticipated. Delays in patient recruitment, unexpected safety concerns, or regulatory hurdles could push back the expected data ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:15.333625+00:00",
+              "published_date": "2024-12-10T03:22:00+00:00",
+              "source_hash": "116e98da3d88dda236d97c06df93c1a9"
+            },
+            {
+              "url": "",
+              "title": "Nkarta's SWOT analysis: cell therapy innovator's stock faces pivotal phase",
+              "snippet": "Nkarta Inc. (NASDAQ:NKTX), a biotechnology company specializing in ... allowing for immediate use when needed and potentially reducing treatment delays. 4. Outpatient administration: The therapy's safety profile and off-the-shelf nature may enable ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc regulatory delays FDA",
+              "retrieved_at": "2025-01-06T19:35:15.333652+00:00",
+              "published_date": "2024-12-17T09:38:00+00:00",
+              "source_hash": "bd408ca260e115fb8a2cc6d6262f62c4"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Inc: Business Model, SWOT Analysis, and Competitors 2024",
+              "snippet": "Insights into the future outlook for Nkarta Inc as it navigates the challenges and opportunities in the biotechnology industry. Nkarta Inc's Business Model. ... The primary sources of revenue for Nkarta include: Grants and Funding: Research grants from government agencies and non-profit organizations.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875528+00:00",
+              "published_date": null,
+              "source_hash": "65420cfc87382a290c28f787f7a2aebd"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc. SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Nkarta, Inc., a clinical-stage biopharmaceutical company focused on developing genetically-engineered human cells as therapeutics, has released its Form 10-Q report for the third quarter of 2024. The report provides a comprehensive overview of the company's financial performance, business operations, strategic initiatives, and the challenges it ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875646+00:00",
+              "published_date": null,
+              "source_hash": "41cbf9613f5fb23aecdf3987612d23b3"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Reports Third Quarter 2024 Financial Results and - GlobeNewswire",
+              "snippet": "November 07, 2024 16:02 ET | Source: Nkarta, Inc. Nkarta, Inc. First patient dosed in each of Ntrust-1 and investigator-sponsored clinical trial (IST) of NKX019; enrollment ongoing in both studies",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875685+00:00",
+              "published_date": null,
+              "source_hash": "4fd1ae3a9fd41dbea0edd7dea7709aec"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Therapeutics - Crunchbase Company Profile & Funding",
+              "snippet": "When was the last funding round for Nkarta Therapeutics? Nkarta Therapeutics closed its last funding round on Mar 25, 2024 from a Post-IPO Equity round. Who are Nkarta Therapeutics 's competitors? Alternatives and possible competitors to Nkarta Therapeutics may include Cellino, VectorBuilder, and Entrada Therapeutics.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875695+00:00",
+              "published_date": null,
+              "source_hash": "f76a0d0fa7f00ca6a24771f1ad3e937c"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Stock Price, Funding, Valuation, Revenue & Financial Statements",
+              "snippet": "Funding, Valuation & Revenue. 5 Fundings. Nkarta has raised $114M over 5 rounds. Nkarta's latest funding round was a IPO for $252M on July 10, 2020. Nkarta's latest post-money valuation is from July 2020. Sign up for a free demo to see Nkarta's valuations in July 2020 and more.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875705+00:00",
+              "published_date": null,
+              "source_hash": "456fdc3f437eca872dee58eba3d80f3c"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Inc NKTX Overview - U.S. News",
+              "snippet": "Nkarta, Inc. is a biopharmaceutical company, which engages in the discovery, development, and commercialization of natural killer cell therapies for the treatment of cancer. The firm's product ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875715+00:00",
+              "published_date": null,
+              "source_hash": "4b2d562cfaf848d913c0a2c89c5b3d13"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc. - AnnualReports.com",
+              "snippet": "Nkarta is a clinical-stage biotechnology company advancing the development of allogeneic, off-the-shelf natural killer (NK) cell therapies. By combining its cell expansion and cryopreservation platform with proprietary cell engineering technologies and CRISPR-based genome engineering capabilities, Nkarta is building a pipeline of future cell therapies engineered for deep anti-tumor activity \u2026",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875725+00:00",
+              "published_date": null,
+              "source_hash": "8aefb0fc5cc20cfa401044519ebdc31a"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc.: Trying To Find Space In A Crowded Place",
+              "snippet": "Nkarta, Inc. (NASDAQ:NKTX) is a cell therapy developer based out of San Francisco that has been running trials in oncology and autoimmune disease.When I last wrote about NKTX in October 2024, the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875737+00:00",
+              "published_date": null,
+              "source_hash": "01c6b606fbe47be8ccb6416406e95a1a"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Reports Second Quarter 2024 Financial Results and Corporate ...",
+              "snippet": "Nkarta had cash, cash equivalents, restricted cash, and investments in marketable securities of $426.7 million as of June 30, 2024. Research and development (R&D) expenses were $23.1 million for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:16.875746+00:00",
+              "published_date": null,
+              "source_hash": "c5fe6b2da52ee8f7a70779cc66fcce7c"
+            },
+            {
+              "url": "",
+              "title": "Nkarta's SWOT analysis: cell therapy innovator's stock faces pivotal phase",
+              "snippet": "Nkarta Inc. (NASDAQ:NKTX), a biotechnology company ... it still faces significant challenges in establishing its position in the market. The potential of NKX019 in autoimmune diseases is ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:19.263319+00:00",
+              "published_date": "2024-12-17T04:38:00+00:00",
+              "source_hash": "cfe6201fc73896c53f132c28a76779e2"
+            },
+            {
+              "url": "",
+              "title": "Barclays PLC Has $1.05 Million Stake in Nkarta, Inc. (NASDAQ:NKTX)",
+              "snippet": "Barclays PLC lifted its position in Nkarta, Inc. (NASDAQ:NKTX - Free Report) by 161.4% in the third quarter, according to its most recent Form 13F filing with the Securities and Exchange Commission.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:19.263325+00:00",
+              "published_date": "2024-12-31T00:00:00+00:00",
+              "source_hash": "4f5bcee9ec47b79a74d172ab56d8cb4a"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc. (NASDAQ:NKTX) Receives Consensus Recommendation of \"Buy\" from Analysts",
+              "snippet": "Shares of Nkarta, Inc. (NASDAQ:NKTX - Get Free Report) have been given a consensus rating of \"Buy\" by the seven brokerages that are presently covering the firm, MarketBeat reports. Five analysts have rated the stock with a buy rating and two have assigned a strong buy rating to the company.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:19.263330+00:00",
+              "published_date": "2024-12-23T06:52:00+00:00",
+              "source_hash": "7a92226b91a5ee7d1897c9c18d258c66"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Announces IND Clearance of Investigator-Sponsored Trial in Myasthenia Gravis and Opening of Enrollment for Ntrust-2",
+              "snippet": "Dec. 05, 2024 (GLOBE NEWSWIRE) -- Nkarta, Inc. (Nasdaq: NKTX), a biopharmaceutical company ... s ability to raise additional funding to complete the development and any commercialization of its product candidates; Nkarta&CloseCurlyQuote;s dependence ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nkarta Inc Nkarta Inc funding challenges",
+              "retrieved_at": "2025-01-06T19:35:19.263335+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "879293c6c79be058983e67dc3682608a"
+            },
+            {
+              "url": "",
+              "title": "With new data, Nkarta battles doubts facing 'off-the-shelf' cell ...",
+              "snippet": "Dive Brief: Shares of cell therapy developer Nkarta fell nearly 40% on Tuesday after the company reported its latest results from an early-stage study of an experimental leukemia treatment harnessing natural killer cells.; Nkarta said that three of six acute myeloid leukemia patients who received its cell therapy and a newer chemotherapy regimen meant to prepare them for treatment were driven ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076092+00:00",
+              "published_date": null,
+              "source_hash": "70e33ff9e148f1ca139e40c735c9e30b"
+            },
+            {
+              "url": "",
+              "title": "Nkarta plans its comeback | ApexOnco - Clinical Trials news and analysis",
+              "snippet": "Trial results. Nkarta plans its comeback. 27 June 2023 ... It was just over a year ago that Nkarta had boasted of a major clinical success with NKX101, an allogeneic NK cell therapy expressing a Car against NKG2D ligands in AML, reporting five remissions among 17 patients, and raising $230m on the strength of the data. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076106+00:00",
+              "published_date": null,
+              "source_hash": "374f328ecd22e18759b4e36a32f1e9d9"
+            },
+            {
+              "url": "",
+              "title": "Clinical trial of natural killer cell therapy set for lupus...",
+              "snippet": "The U.S. Food and Drug Administration (FDA) has approved Nkarta's request to launch a clinical trial in the U.S. to test its experimental therapy NKX019 in people with lupus nephritis, a lupus complication marked by kidney inflammation and damage.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076135+00:00",
+              "published_date": null,
+              "source_hash": "0136988f00046601134d1e81d8d52cf3"
+            },
+            {
+              "url": "",
+              "title": "Nkarta (NKTX) Investment Thesis : r/Market_Mages - Reddit",
+              "snippet": "This trajectory is common in the biotech sector, where companies undergo years of research, development, and clinical trials before potentially achieving a marketable product. Given these financials, the investment merit in Nkarta Inc. would largely depend on the clinical success of its product candidates and the strategic partnerships it can form.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076145+00:00",
+              "published_date": null,
+              "source_hash": "2977451070f58b013b75028b112c046d"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Announces Initiation of Investigator-Sponsored Clinical Trial ...",
+              "snippet": "Nkarta Announces Initiation of Investigator-Sponsored Clinical Trial Evaluating NKX019 for Systemic Lupus Erythematosus Nkarta, Inc. Wed, Jul 24, 2024, 6:00 AM 5 min read",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076156+00:00",
+              "published_date": null,
+              "source_hash": "d231102e9a5dbea8981c1fa9b9a6d7a5"
+            },
+            {
+              "url": "",
+              "title": "Buy Rating on Nkarta's Stock Amid Encouraging Clinical Trial Results ...",
+              "snippet": "Salim Syed's Buy rating for Nkarta's stock is influenced by recent positive developments in the company's clinical trials. Specifically, follow-up data from the American Society of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076164+00:00",
+              "published_date": null,
+              "source_hash": "88c08972215fe73285d37205f4077337"
+            },
+            {
+              "url": "",
+              "title": "FDA clears Nkarta's IND for trial of lupus nephritis therapy",
+              "snippet": "The US Food and Drug Administration (FDA) has granted clearance to Nkarta's investigational new drug (IND) application, enabling the initiation of a clinical trial of NKX019 to treat lupus nephritis (LN).. The dose escalation, open-label, multi-centre trial is designed to evaluate the clinical activity and safety of the allogeneic, CD19-directed CAR NK cell therapy NKX019 in patients with ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:21.076173+00:00",
+              "published_date": null,
+              "source_hash": "146014e74ba384fd80d3b98a63fa5091"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc. (NASDAQ:NKTX) Receives Consensus Recommendation of \"Buy\" from Analysts",
+              "snippet": "Shares of Nkarta, Inc. (NASDAQ:NKTX - Get Free Report ... targeting the CD19 antigen that is in Phase 1 clinical trial for the treatment of relapsed/refractory (r/r) non-hodgkin lymphoma ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:23.426406+00:00",
+              "published_date": "2024-12-23T00:01:00+00:00",
+              "source_hash": "a6e1ed002f002b4b16fb6a731a2dd1a8"
+            },
+            {
+              "url": "",
+              "title": "Nkarta's SWOT analysis: cell therapy innovator's stock faces pivotal phase",
+              "snippet": "through clinical trials for cancer and autoimmune diseases, investors are weighing the company's potential against the inherent risks of biotechnology development. Nkarta Inc., headquartered in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:23.426436+00:00",
+              "published_date": "2024-12-17T04:38:00+00:00",
+              "source_hash": "b3668ccb54b1c389fecfafc67865839e"
+            },
+            {
+              "url": "",
+              "title": "Nkarta, Inc. (NKTX)",
+              "snippet": "Ntrust-2 open to enroll patients with systemic sclerosis, myositis and ANCA-associated vasculitis across three parallel cohorts Investigator-Sponsored Trial ... Nkarta, Inc. (Nasdaq: NKTX), a ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:23.426461+00:00",
+              "published_date": "2024-12-27T23:14:00+00:00",
+              "source_hash": "368aa0ca7727e56def50d21743e16df7"
+            },
+            {
+              "url": "",
+              "title": "Nkarta Announces IND Clearance of Investigator-Sponsored Trial in Myasthenia Gravis and Opening of Enrollment for Ntrust-2",
+              "snippet": "Dec. 05, 2024 (GLOBE NEWSWIRE) -- Nkarta, Inc. (Nasdaq: NKTX), a biopharmaceutical company ... Ntrust-2, a multi-center clinical trial, will evaluate NKX019 across three parallel cohorts, including patients with systemic sclerosis (SSc, scleroderma ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nkarta Inc Nkarta Inc clinical trial controversies",
+              "retrieved_at": "2025-01-06T19:35:23.426483+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "7ea0322b388146afb2a4516e8f5d85eb"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Nkarta Inc regulatory delays FDA",
+              "rationale": "Investigate potential delays or issues with FDA approvals for Nkarta's clinical trials and product candidates",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Nkarta Inc funding challenges",
+              "rationale": "Explore concerns about Nkarta's reliance on external funding and its impact on financial sustainability",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Nkarta Inc clinical trial controversies",
+              "rationale": "Examine any ethical or social concerns related to Nkarta's clinical trials, including patient safety and trial transparency",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T12:35:40.849281",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

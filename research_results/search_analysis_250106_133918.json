@@ -1,0 +1,577 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T13:39:18.581467",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "nCino Inc",
+      "symbol": "NCNO",
+      "analysis": {
+        "historical": {
+          "risk_score": 50,
+          "key_risks": [
+            "Dependence on third-party platforms like Salesforce and AWS, leading to potential vendor lock-in, cost escalation, and operational disruptions",
+            "Economic sensitivity tied to the health of the banking sector, making the company vulnerable to downturns and reduced IT spending",
+            "Integration challenges with legacy systems, potentially hindering customer adoption and satisfaction",
+            "Intense competition from established players and emerging FinTech startups, pressuring margins and market share"
+          ],
+          "controversies": [
+            "McAlear v. nCino Settlement: $2.19 million paid to settle a class-action lawsuit alleging anti-competitive 'no-poaching' agreements",
+            "Federal investigation in 2021, with subpoenas issued, though the investigation has since concluded"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Privacy and data security concerns due to reliance on third-party platforms like Salesforce, introducing potential vulnerabilities"
+          ],
+          "governance_issues": [
+            "Legal liabilities and compliance concerns stemming from the McAlear settlement and federal investigation",
+            "Executive compensation alignment efforts, indicating ongoing governance improvements"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 75
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "FAQ | McAlear v. nCino, Inc., et al.",
+              "snippet": "The Notice package explains the lawsuit, the settlement, legal rights, what benefits are available, who is eligible for them, and how to get them. The Court in charge of the case is the United States District Court for the Eastern District of North Carolina, and the case is known as McAlear v. nCino, Case No. 21-cv-00047.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287590+00:00",
+              "published_date": null,
+              "source_hash": "45a1e31f5f5919b89c8c9130bad2f977"
+            },
+            {
+              "url": "",
+              "title": "Home | McAlear v. nCino, Inc., et al.",
+              "snippet": "nCino has agreed to pay $2.19 million to resolve claims of a class of employees who worked for nCino, Live Oak Bank, or Apiture in North Carolina from January 27, 2017 to March 31, 2021. The settlement resolves a class action lawsuit alleging that nCino, Live Oak, and Apiture agreed not to hire, recruit, or poach one another's employees, in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287642+00:00",
+              "published_date": null,
+              "source_hash": "fa3bb08308b76051ebed55ee6a247aa4"
+            },
+            {
+              "url": "",
+              "title": "Federal investigation into nCino wraps up while lawsuit remains open",
+              "snippet": "On Feb. 24, 2021, nCino disclosed in a filing with the U.S. Securities and Exchange Commission that the company, its officers and other employees had been served with subpoenas seeking information ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553808+00:00",
+              "published_date": null,
+              "source_hash": "151c9e53e3b9b49fba6bf2c68a82e968"
+            },
+            {
+              "url": "",
+              "title": "$4.65M settlement agreement at hand in Live Oak Bank, nCino no-hire ...",
+              "snippet": "The lawsuit was presaged by McAlear's introduction at a conference to an nCino recruiter, from whom he allegedly learned that Live Oak Bank and nCino \u2014 founded in part by Live Oak executives ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287664+00:00",
+              "published_date": null,
+              "source_hash": "50c1388e02b581f4b318f2e433aa74c9"
+            },
+            {
+              "url": "",
+              "title": "nCino agrees to settle antitrust suit for $2.2M, denies claims of ...",
+              "snippet": "nCino agreed Aug. 21 to settle for $2.2 million after ongoing discussions with plaintiffs in a class action suit that alleged the three financial tech businesses had a \"gentlemen's agreement ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287676+00:00",
+              "published_date": null,
+              "source_hash": "bd6146826cf7b5f9c45d226ebffb6bac"
+            },
+            {
+              "url": "",
+              "title": " In the United States District Court for The Eastern District of North ...",
+              "snippet": "the median compensation in Wilmington. nCino's compensation in 2020 was roughly. double. that in the Wilmington labor market. This, in part, explains nCino's consistently high employee satisfaction ratings and the many employer awards it has received. 4. nCino is differently and more favorably situated than Live Oak Bank and Apiture. a.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287685+00:00",
+              "published_date": null,
+              "source_hash": "b68a940162a40755d3b2e97b558b8701"
+            },
+            {
+              "url": "",
+              "title": " EASTERN DISTRICT OF NORTH CAROLINA SOUTHERN DIVISION CASE NO. 7:21-cv ...",
+              "snippet": "superior to the alternative of no remedy or duplicative individual lawsuits. Fed. R. Civ. P. 23(e)(1)(B)(ii). II. STATEMENT OF FACTS A. Procedural Background Plaintiff filed the complaint on March 12, 2021 alleging that Live Oak Bancshares (\"Live Oak\"), nCino, and Apiture (hereinafter, the \"Defendants\") conspired to restrain competition and",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287695+00:00",
+              "published_date": null,
+              "source_hash": "0abeb24aef77a229e0ee335cfddb06ae"
+            },
+            {
+              "url": "",
+              "title": "Cloud-banking vendor nCino settles 'no-poaching' antitrust claims",
+              "snippet": "Cloud-banking software company nCino has agreed to pay $2.2 million to resolve claims that it conspired with other financial technology companies to restrict employee hiring in violation of U.S ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222110+00:00",
+              "published_date": null,
+              "source_hash": "95c899ba550d24670dbff0150631378b"
+            },
+            {
+              "url": "",
+              "title": "Antitrust Lawsuit Alleges nCino, Live Oak Bank Agreed Not to Hire Each ...",
+              "snippet": "The 19-page lawsuit, filed in North Carolina federal court by a former Apiture vice president, claims the apparent no-hire agreement among the parties pertains to all Wilmington-area employees of nCino, a provider of cloud-based operating systems, and Apiture, in addition to workers in Live Oak Bank's software engineering department, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287712+00:00",
+              "published_date": null,
+              "source_hash": "9fd72f657d650986311ce36505c0b2fe"
+            },
+            {
+              "url": "",
+              "title": "nCino agrees to settle civil lawsuit over hiring practices - WECT TV6",
+              "snippet": "Wilmington-based financial technology company nCino has agreed to settle a class-action lawsuit brought by its employees and employees of two other locally-based companies: Live Oak Bank and Apiture. ... show that the Department of Justice opened an investigation into the hiring practices of Apiture, Live Oak Bank, and nCino after the lawsuit ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:49.287720+00:00",
+              "published_date": null,
+              "source_hash": "6c8bf99882e6c053b11960a8ebbb9661"
+            },
+            {
+              "url": "",
+              "title": "nCino Revises Executive Agreements for Market Alignment",
+              "snippet": "nCino, Inc. has updated the employment agreements for its executive leadership team, including CEO Pierre Naud\u00e9, to reflect current compensation levels and better align with market practices.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:51.711641+00:00",
+              "published_date": "2024-12-19T21:30:00+00:00",
+              "source_hash": "0f886a0993cae90bb78c66931ebda3fe"
+            },
+            {
+              "url": "",
+              "title": "nCino, Inc. (NCNO)",
+              "snippet": "nCino, Inc. ( NASDAQ:NCNO ) is possibly approaching a major achievement in its business, so we would like to shine some... nCino (NCNO) has become technically an oversold stock now, which implies ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:51.711708+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "a7c5624d48992f9761249867fd9fa530"
+            },
+            {
+              "url": "",
+              "title": "KBW bullish on nCino stock, flags revenue acceleration potential despite near-term risks",
+              "snippet": "On Monday, Keefe, Bruyette & Woods, a financial services firm, announced an increase in the price target for nCino Inc. (NASDAQ ... In terms of legal affairs, the Delaware Supreme Court affirmed ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:51.711737+00:00",
+              "published_date": "2024-12-02T07:37:00+00:00",
+              "source_hash": "dbbc5754831dd0264a7f519ffc68f641"
+            },
+            {
+              "url": "",
+              "title": "Ncino Q3 Earnings Assessment",
+              "snippet": "Ncino NCNO just disclosed its Q3 earnings on Wednesday, December 4, 2024 at 04:05 PM. Here's a brief overview of the earnings report. Ncino beat estimated earnings by 31.0%, reporting an EPS of $0 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:51.711761+00:00",
+              "published_date": "2024-12-04T16:35:00+00:00",
+              "source_hash": "10822f6145398a921f042cffbba586eb"
+            },
+            {
+              "url": "",
+              "title": "Habib Bank Zurich plc Partners with nCino to Power an Enhanced Digital Experience for its Buy-to-Let Lending Business",
+              "snippet": "WILMINGTON, N.C., Dec. 11, 2024 (GLOBE NEWSWIRE) -- nCino, Inc. (NASDAQ: NCNO), the leading provider of intelligent, best-in-class banking solutions, today announced ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc legal disputes or lawsuits",
+              "retrieved_at": "2025-01-06T20:38:51.711782+00:00",
+              "published_date": "2024-12-11T07:30:00+00:00",
+              "source_hash": "411a7df8758da1ee92dd67ac909f97b3"
+            },
+            {
+              "url": "",
+              "title": "Compliance in the Digital Era - nCino",
+              "snippet": "The appropriate employees at the FI have access to compliance-ready information, including detailed dashboards and reporting. By leveraging nCino, FIs can assist in creating institutional transparency for the board, C-Suite, and executive management, who can then more easily manage critical regulatory concerns like capital requirements ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222125+00:00",
+              "published_date": null,
+              "source_hash": "937583c58420f0674a4a70d4e1a73427"
+            },
+            {
+              "url": "",
+              "title": "Positive Report for nCino (NCNO) from Barclays - Markets Insider",
+              "snippet": "Ncino Inc is a provider of cloud based software for financial institutions. ... open deposit and other accounts and manage regulatory compliance. The company caters to global financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222136+00:00",
+              "published_date": null,
+              "source_hash": "fc65c60a3e7416775370402550f53041"
+            },
+            {
+              "url": "",
+              "title": "nCino, Inc. - SEC Filing",
+              "snippet": "Environmental Compliance. 67: 5.10: Insurance. 67: 5.11: Taxes. 67: 5.12: ERISA Compliance. 67: 5.13: Margin Regulations; Investment Company Act. ... a Delaware corporation (the \"Borrower\"), NCINO, INC., ... any state thereof or the District of Columbia, and is a member of the Federal Reserve System, (ii) issues (or the parent of which ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222145+00:00",
+              "published_date": null,
+              "source_hash": "16fa7a05ca2288e68d3d05046aaa017e"
+            },
+            {
+              "url": "",
+              "title": "NCINO, INC. CORPORATE GOVERNANCE GUIDELINES (Adopted as of November 22 ...",
+              "snippet": "NCINO, INC. CORPORATE GOVERNANCE GUIDELINES (Adopted as of November 22, 2022) _____ The board of directors of nCino, Inc. (the \"Board,\" and such company together with its subsidiaries, the \"Company\") has adopted the following Corporate Governance Guidelines (the \"Guidelines\") to assist the Board in exercising its responsibilities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222154+00:00",
+              "published_date": null,
+              "source_hash": "d68526a9c043760e646bc8e9919d445a"
+            },
+            {
+              "url": "",
+              "title": "nCino, Inc. - FAQs",
+              "snippet": "The nCino Bank Operating System is a single, multi-tenant cloud platform that digitizes client onboarding, loan origination and deposit account opening across commercial, small business and retail lines of business. ... efficiency, transparency and regulatory compliance across the front, middle and back office of a financial institution. Press ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222163+00:00",
+              "published_date": null,
+              "source_hash": "3d1f05a33c2f767c8d6a7428413d231b"
+            },
+            {
+              "url": "",
+              "title": "Fundingo vs nCino Best Practices for Enhanced Compliance",
+              "snippet": "Fundingo vs. nCino: Best Practices for Enhanced Compliance Introduction In the competitive landscape of loan servicing and mortgage management, nCino has established itself as a recognized software provider, offering solutions that cater to various financial institutions. However, many users encounter significant challenges when using their platform. From limited flexibility to cumbersome ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222172+00:00",
+              "published_date": null,
+              "source_hash": "162f8ab422864d648c4b9ad57134a62a"
+            },
+            {
+              "url": "",
+              "title": "nCino, Inc. ESG Risk Rating - Sustainalytics",
+              "snippet": "Ncino Inc is a provider of cloud-based software for financial institutions. Its software solution digitizes, automates, and streamlines inefficient and complex processes & workflow and utilizes data analytics & artificial intelligence that enables financial institutions to onboard new clients, make loans and manage the entire loan life cycle, open deposits, and other accounts and manage ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222181+00:00",
+              "published_date": null,
+              "source_hash": "7ecdaf1e11e4963a86b0546349381061"
+            },
+            {
+              "url": "",
+              "title": "Comparing Fundingo and nCino The Best Loan Software for Compliance",
+              "snippet": "Comparing Fundingo and nCino: The Best Loan Software for Compliance Introduction In the competitive landscape of loan servicing software, nCino stands out as a recognized provider known for its robust mortgage management capabilities. However, many users encounter common challenges that can hinder efficiency and compliance in their operations. Issues such as inflexible loan product offerings",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:53.222190+00:00",
+              "published_date": null,
+              "source_hash": "b8f545e0f1a3b2f67f78af99c90ea7da"
+            },
+            {
+              "url": "",
+              "title": "Positive Report for nCino (NCNO) from Barclays",
+              "snippet": "In a report released today, Saket Kalia from Barclays upgraded nCino (NCNO - Research Report) to a Buy, with a price target of $44.00. The",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:56.032053+00:00",
+              "published_date": "2025-01-06T08:26:00+00:00",
+              "source_hash": "bcff6659e216e6b08d051e38f9b81818"
+            },
+            {
+              "url": "",
+              "title": "nCino Inc",
+              "snippet": "nCino, Inc. engages in the provision of cloud ... open deposit and other accounts, and manage regulatory compliance. The firm's nCino IQ is an application suite that utilizes data analytics ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:56.032121+00:00",
+              "published_date": "2021-01-20T04:08:00+00:00",
+              "source_hash": "b28478506e3763f218216e33e769a43a"
+            },
+            {
+              "url": "",
+              "title": "Cautious Optimism: nCino's Hold Rating Amid Mortgage Segment Slowdown and Execution Challenges",
+              "snippet": "nCino (NCNO) Company Description: Ncino Inc is a provider of cloud based ... open deposit and other accounts and manage regulatory compliance. The company caters to global financial institutions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:56.032154+00:00",
+              "published_date": "2024-12-05T11:42:00+00:00",
+              "source_hash": "6d1469f122a89cd91b5590210a5f14a1"
+            },
+            {
+              "url": "",
+              "title": "nCino's SWOT analysis: cloud software stock faces growth challenges",
+              "snippet": "nCino, Inc. (NASDAQ:NCNO), a provider of cloud-based ... Additionally, different regulatory environments and banking practices across countries may create opportunities for nCino to develop ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:56.032180+00:00",
+              "published_date": "2024-12-17T02:02:00+00:00",
+              "source_hash": "7828c5ac347049f5dd17ea2fd49f4715"
+            },
+            {
+              "url": "",
+              "title": "Challenges in Mortgage Segment Hurt nCino, Analyst Downgrades Stock",
+              "snippet": "Piper Sandler downgraded nCino to Neutral, lowering 2025 revenue estimates by $20M due to slowing mortgage volumes. Analyst predicts slower growth in Q4 mortgage segment and modest recovery in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "nCino Inc nCino Inc regulatory compliance issues",
+              "retrieved_at": "2025-01-06T20:38:56.032203+00:00",
+              "published_date": "2024-12-05T15:16:00+00:00",
+              "source_hash": "5a26e91415967200b62e14e6f84117b3"
+            },
+            {
+              "url": "",
+              "title": "nCino's Privacy Statement",
+              "snippet": "nCino's Modern Slavery Statement nCino is a pioneer in cloud banking and digital transformation solutions for the global financial services industry. We are committed to the highest standards of business conduct in our relationships with each other, with companies with which we do business, and with our stockholders and others.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553680+00:00",
+              "published_date": null,
+              "source_hash": "efff3c890563d104ba576af852380f87"
+            },
+            {
+              "url": "",
+              "title": "nCino Trust",
+              "snippet": "Sub-processors of nCino required to adhere to written agreements with privacy, data protection, and data security obligations that are regularly audited Security & Reliability nCino has applied overarching security best practices in alignment with Operational Excellence and threat intelligence, automating security processes to scale security ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553784+00:00",
+              "published_date": null,
+              "source_hash": "20bae5c426acaf58620eac18ef40f19d"
+            },
+            {
+              "url": "",
+              "title": "Opt-in/Opt-out of Privacy Policies - nCino Mortgage Help",
+              "snippet": "It also establishes boundaries for data usage, safeguarding users' privacy and security. Furthermore, it provides a legal framework for resolving disputes and maintaining accountability in case of any issues.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553798+00:00",
+              "published_date": null,
+              "source_hash": "5e8b6fb2aed365598dc1bfc5a8be70b6"
+            },
+            {
+              "url": "",
+              "title": "Christopher Fipps - Senior Data Integration Specialist - nCino, Inc ...",
+              "snippet": "Senior Data Integration Specialist at nCino, Inc. \u00b7 \u2022 Certified Salesforce Administrator, Salesforce App Builder and Informatica Cloud Data Integration Specialist.<br>\u2022 Highly committed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553817+00:00",
+              "published_date": null,
+              "source_hash": "f041dbb7b4f76b506e13752121d7d969"
+            },
+            {
+              "url": "",
+              "title": "nCino, Security Rating, Vendor Risk Report, and Data Breaches - UpGuard",
+              "snippet": "nCino is a US-based software company that provides cloud-based banking software for financial institutions. They offer a comprehensive platform that enables banks to improve efficiency, increase transparency, and enhance compliance through automation of the bank operating process, such as loan origination, deposit account opening, and customer ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553832+00:00",
+              "published_date": null,
+              "source_hash": "16d56b58e52cc3aebca335c77c6a8e23"
+            },
+            {
+              "url": "",
+              "title": "nCino - Wikipedia",
+              "snippet": "nCino was originally founded as a majority-owned subsidiary of Live Oak Bancshares, a bank holding company. [19] [20] [21]In 2013, nCino raised $9 million in investment funding from a group of investors. [22] In 2014, nCino received its Series A investment, a $10 million round, from Wellington Management Company. [23] In February 2015, nCino secured an additional $29 million in a Series B ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553843+00:00",
+              "published_date": null,
+              "source_hash": "068af8e44196b5862c7ed2f0e8ef22c0"
+            },
+            {
+              "url": "",
+              "title": "nCino Inc - Company Profile - Market Research Reports & Consulting ...",
+              "snippet": "Gain a 360-degree view of nCino and make more informed decisions for your business. Our Sales Intelligence Solution is a critical source of information for anyone involved in: Business Development. Enhance your sales strategy and increase your chances of success; Understand nCino's position in the market and identify potential areas for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553852+00:00",
+              "published_date": null,
+              "source_hash": "d0baf26abc5f86ae8301fb1f0221b40d"
+            },
+            {
+              "url": "",
+              "title": "nCino, Inc. - AnnualReports.com",
+              "snippet": "nCino (NASDAQ: NCNO) is the worldwide leader in cloud banking. Through its single software-as-a-service (SaaS) platform, nCino helps financial institutions serving corporate and commercial, small business, consumer, and mortgage customers modernize and more effectively onboard clients, make loans, manage the loan lifecycle, and open accounts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553861+00:00",
+              "published_date": null,
+              "source_hash": "3af5f79d95abca7371b95ea7f2c1679e"
+            },
+            {
+              "url": "",
+              "title": "nCino climbs following upgrade to Overweight by Barclays",
+              "snippet": "More on nCino. NCino's Plunge Was Wholly Justified Despite Exceeding Analysts' Forecasts; nCino, Inc. (NCNO) Q3 2025 Earnings Call Transcript; nCino, Inc. 2025 Q3 - Results - Earnings Call ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:38:57.553871+00:00",
+              "published_date": null,
+              "source_hash": "3894fee58e5114cf96d459d19cbe3368"
+            },
+            {
+              "url": "",
+              "title": "nCino's path to profits: Niche fintech with strong prospects",
+              "snippet": "While MoneyLion and companies like SoFi Technologies Inc. (NASDAQ: SOFI) are primarily consumer-focused, nCino takes a business-to-business approach. Its banking customers are not fintech ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:39:00.217139+00:00",
+              "published_date": "2024-01-22T15:22:00+00:00",
+              "source_hash": "6e41a5e66239c0052de4415ccce0e439"
+            },
+            {
+              "url": "",
+              "title": "nCino, Inc.: Habib Bank Zurich plc Partners with nCino to Power an Enhanced Digital Experience for its Buy-to-Let Lending Business",
+              "snippet": "Collectively, HBZ UK will deliver modern convenience and trusted experiences to its customers ... privacy and data security matters. Additional risks and uncertainties that could affect nCino's ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:39:00.217204+00:00",
+              "published_date": "2024-11-12T08:46:00+00:00",
+              "source_hash": "47689e6f1b82b635d777769e522d5b12"
+            },
+            {
+              "url": "",
+              "title": "nCino Revises Executive Agreements for Market Alignment",
+              "snippet": "The latest announcement is out from nCino ( (NCNO) ).",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:39:00.217233+00:00",
+              "published_date": "2024-12-19T21:30:00+00:00",
+              "source_hash": "376fb5d402d55436f71efc9eee758da8"
+            },
+            {
+              "url": "",
+              "title": "nCino Announces Timing of its Third Quarter Fiscal Year 2025 Financial Results Conference Call",
+              "snippet": "WILMINGTON, N.C., Nov. 14, 2024 (GLOBE NEWSWIRE) -- nCino, Inc. (NASDAQ ... and elevate customer satisfaction by cohesively bringing together people, AI and data. For more information, visit ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:39:00.217255+00:00",
+              "published_date": "2024-11-14T16:05:00+00:00",
+              "source_hash": "84679f4e8c7e9fac9034fbf3bc10e424"
+            },
+            {
+              "url": "",
+              "title": "nCino Inc",
+              "snippet": "nCino, Inc. engages in the provision of ... The firm's nCino IQ is an application suite that utilizes data analytics and AI/ML to provide its customers with automation and insights into their ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "nCino Inc nCino Inc customer data privacy concerns",
+              "retrieved_at": "2025-01-06T20:39:00.217277+00:00",
+              "published_date": "2024-01-10T22:54:00+00:00",
+              "source_hash": "c04225525b38a476b42b5eda8a6e41ef"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "nCino Inc legal disputes or lawsuits",
+              "rationale": "Investigate potential legal challenges or disputes that could impact the company's financial stability or reputation.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "nCino Inc regulatory compliance issues",
+              "rationale": "Examine any regulatory challenges or compliance issues that nCino may face, particularly in the highly regulated financial services sector.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "nCino Inc customer data privacy concerns",
+              "rationale": "Assess any controversies or concerns related to customer data privacy and security, given the sensitive nature of financial data handled by nCino.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T13:39:18.581474",
+        "data_confidence": 75,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

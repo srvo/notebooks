@@ -1,0 +1,516 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:48:08.585687",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Quidelortho Corp",
+      "symbol": "QDEL",
+      "analysis": {
+        "historical": {
+          "risk_score": 65,
+          "key_risks": [
+            "Post-pandemic revenue decline due to reduced demand for COVID-19 testing",
+            "Regulatory and legal challenges, including withdrawn FDA submissions and securities class action lawsuits",
+            "Supply chain vulnerabilities affecting production and distribution",
+            "Integration risks from the 2022 merger with Ortho Clinical Diagnostics",
+            "Leadership and strategic uncertainty following CEO termination and significant stock sales"
+          ],
+          "controversies": [
+            "Withdrawal of FDA 510(k) submission for Savanna RVP4 Test",
+            "Securities class action lawsuit alleging violations of the Securities Exchange Act"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [
+            "Leadership changes and strategic uncertainty",
+            "Potential vulnerability to activist investors or takeover bids"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Bristol County Retirement System v. QuidelOrtho Corporation f/k/a ...",
+              "snippet": "Back to Status. Ongoing. ... QuidelOrtho announced that it had withdrawn its FDA 510(k) submission for approval to sell the Savanna RVP4 Test in the United States after recent data did not meet expectations, leading to further declines in the price of its stock. The case is Bristol County Retirement System v. QuidelOrtho Corporation f/k/a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.578792+00:00",
+              "published_date": null,
+              "source_hash": "0130d6f3980b66e7c2d6cb04a2343fd0"
+            },
+            {
+              "url": "",
+              "title": "Navigating Innovation Amid Financial Challenges QuidelOrtho ... - CSIMarket",
+              "snippet": "SAN DIEGO QuidelOrtho Corporation (Nasdaq: QDEL) (QuidelOrtho) has recently achieved a significant regulatory milestone that could enhance its position in the healthcare diagnostics market. The company received U.S. Food and Drug Administration (FDA) 510(k) clearance for its VITROS Syphilis Assay. This approval allows the syphilis assay to be included in the diagnostic testing menu of its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.578953+00:00",
+              "published_date": null,
+              "source_hash": "1f3207a85544fd70c638a9e803dfb6d2"
+            },
+            {
+              "url": "",
+              "title": "Labaton Keller Sucharow LLP Announces Securities Class Action Lawsuit ...",
+              "snippet": "QuidelOrtho Corporation, No. 24-cv-02804 (S.D.N.Y. Apr. 12, 2024), asserts claims under Sections 10(b) and 20(a) of the Securities Exchange Act of 1934, and U.S. Securities and Exchange Commission Rule 10b-5 promulgated thereunder, on behalf of all persons or entities who purchased or otherwise acquired QuidelOrtho common stock between February ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571256+00:00",
+              "published_date": null,
+              "source_hash": "8a7a320786bd99f16f18986482adb8af"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's (QDEL) Rapid Antigen Test Gets De Novo FDA Approval",
+              "snippet": "QuidelOrtho's (QDEL) receipt of the FDA's De Novo approval is expected to enable it to provide the test as an aid in the diagnosis of SARS-CoV-2 infections in symptomatic individuals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.578990+00:00",
+              "published_date": null,
+              "source_hash": "a5d27e03dac37f56faf6787eb9d097b0"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's Uncertain Outlook Prompts Sell Rating Amidst Guidance ...",
+              "snippet": "J.P. Morgan analyst Casey Woodring maintained a Sell rating on QuidelOrtho (QDEL - Research Report) yesterday and set a price target of $37.00.. Casey Woodring has given his Sell rating due to a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.579003+00:00",
+              "published_date": null,
+              "source_hash": "6ab8281f45796aeb7e228affc16b5ba7"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Corporation (QDEL) Investor Notice: Robbins LLP Reminds ...",
+              "snippet": "On April 2, 2024, after QuidelOrtho announced it had withdrawn its FDA 510(k) submission for approval to sell Savanna PVPR Test in the U.S., the Company's stock dropped $4.85, or more than 10%, to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.579016+00:00",
+              "published_date": null,
+              "source_hash": "07fe51922386560bad541f6424e9c8fc"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Reports Third Quarter 2024 Financial Results",
+              "snippet": "New QuidelOrtho branding may not be available in all markets, subject to country specific regulatory approval. Please be aware that we do not take any responsibility for your accessing such information that may not comply with any legal process, regulation, registration, or usage in the country of your origin. \u00a92024 QuidelOrtho Corporation.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.579031+00:00",
+              "published_date": null,
+              "source_hash": "6f2ddaaad50d81d631baf942892a22ff"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "15. QuidelOrtho is a Delaware corporation with its principal executive offices located at 9975 Summers Ridge Road, San Diego, California 92121. The Company's common stock is listed on the NASDAQ under the ticker symbol \"QDEL.\" 16. Defendant Bryant was QuidelOrtho's President and CEO as well as a Director on",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.579046+00:00",
+              "published_date": null,
+              "source_hash": "d32e569bdeb863826cb8b20892bd8de2"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's (QDEL) QuickVue Gets FDA Nod for COVID Testing",
+              "snippet": "QuidelOrtho Corporation QDEL recently announced the FDA 510(k) clearance for its QuickVue COVID-19 test.With CLIA certificates of waiver, this approval permits the test to be used accurately and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.579058+00:00",
+              "published_date": null,
+              "source_hash": "d9774db36d81ccd0efd2dcec997ef5e4"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho gains FDA approval for syphilis test - Investing.com",
+              "snippet": "As QuidelOrtho Corporation (NASDAQ:QDEL) secures FDA clearance for its new syphilis assay, the company's financial health and market position become increasingly relevant to investors and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:38.579069+00:00",
+              "published_date": null,
+              "source_hash": "a5ba1e895833dee0f4b37a664e9e70ad"
+            },
+            {
+              "url": "",
+              "title": "Reasons to Retain QuidelOrtho Stock in Your Portfolio for Now",
+              "snippet": "QuidelOrtho Corporation QDEL is well-poised for growth ... including pre-eclampsia. The latest regulatory approval is likely to significantly boost QuidelOrtho's Point of Care business.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:41.062762+00:00",
+              "published_date": "2024-09-03T14:54:00+00:00",
+              "source_hash": "bd148f7a0a9f34eb6ad76f029fadc8af"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho may be takeover, activist target with CEO exit, share slump - analyst",
+              "snippet": "QuidelOrtho Corp. (NASDAQ:QDEL) may be a takeover target or candidate for an activist investor as the company terminated its CEO. QuidelOrtho rose 2.6%. Quidel on Wednesday announced Douglas ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:50.969617+00:00",
+              "published_date": "2024-02-21T16:10:00+00:00",
+              "source_hash": "a142dae7b534dc624039feafa744962a"
+            },
+            {
+              "url": "",
+              "title": "Quidelortho Corp",
+              "snippet": "Activist investor Jana cuts Frontier bet, liquidates QuidelOrtho, BlackLine November ... according to a regulatory filing on Wednesday. Activist investor Jana built stake in BlackLine Systems ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:41.062879+00:00",
+              "published_date": "2024-11-14T22:11:00+00:00",
+              "source_hash": "5f995562ee66d1d4156dc2bd5e739742"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Faces Strategic Shifts Amid Share Sale",
+              "snippet": "QuidelOrtho ( (QDEL)) has shared an update. QuidelOrtho Corporation is in the spotlight as Carlyle Group's affiliated stockholder sells over 8 million shares in a secondary offering priced at $ ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:50.969718+00:00",
+              "published_date": "2024-11-21T22:01:00+00:00",
+              "source_hash": "5dbf549f9c0a8666b1e953bfb29d6756"
+            },
+            {
+              "url": "",
+              "title": "Insider Buying: QuidelOrtho President Bought US$250k Of Shares",
+              "snippet": "Investors who take an interest in QuidelOrtho Corporation (NASDAQ:QDEL) should definitely note that the President, Brian Blaser, recently paid US$41.42 per share to buy US$250k worth of the stock.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp regulatory approval delays",
+              "retrieved_at": "2025-01-06T15:47:41.062924+00:00",
+              "published_date": "2024-12-19T00:00:00+00:00",
+              "source_hash": "f243a3556951533f2670b763dc12795a"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Reports Third Quarter 2024 Financial Results",
+              "snippet": "QuidelOrtho Corporation (Nasdaq: QDEL) is a world leader in in-vitro diagnostics, developing and manufacturing intelligent solutions that transform data into understanding and action for more people in more places every day. ... supply chain, production, logistics, distribution and labor disruptions and challenges; the challenges and costs of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571079+00:00",
+              "published_date": null,
+              "source_hash": "3acb9ef73210c220e4ef3114f0b4a57b"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Reports First Quarter 2024 Financial Results",
+              "snippet": "QuidelOrtho Corporation today announced financial results for the first quarter ended March 31, 2024. ... supply chain, production, logistics, distribution and labor disruptions and challenges; the challenges and costs of integrating, restructuring and achieving anticipated synergies as a result of the business combination of Quidel Corporation ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571188+00:00",
+              "published_date": null,
+              "source_hash": "40ac47ce5062e68aed259ccacab0e9ef"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "QuidelOrtho Corporation (QuidelOrtho), following the business combination of Quidel Corporation (Quidel) and Ortho Clinical Diagnostics Holdings plc (Ortho) on May 27, ... risks, supply chain disruptions, EHS and regulatory compliance Together, we are passionately pursuing the unknown to drive a healthier future from home to hospital, lab to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571204+00:00",
+              "published_date": null,
+              "source_hash": "196d582c005bc7b6433c6409e46c4bfc"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Corporation - QuidelOrtho Reports Fourth Quarter and Full ...",
+              "snippet": "SAN DIEGO--(BUSINESS WIRE)-- QuidelOrtho Corporation (Nasdaq: QDEL) (the \"Company\" or \"QuidelOrtho\"), a global provider of innovative in vitro diagnostic technologies designed for point-of-care settings, clinical labs and transfusion medicine, today announced financial results for the fourth quarter and full-year ended December 31, 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571216+00:00",
+              "published_date": null,
+              "source_hash": "0fecf1f95954ec4d21d4f1665589f7dc"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Continues to See Supply Chain Impacts; Combined Q3 ... - 360Dx",
+              "snippet": "A global shortage of microprocessors continues to impact companies across the diagnostics industry, and on a call with investors to discuss QuidelOrtho's financial results for the third quarter, company CEO Douglas Bryant said the firm has addressed its supply chain challenge by bringing on more suppliers of semiconductor chips and growing its ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571226+00:00",
+              "published_date": null,
+              "source_hash": "601143f87b279aea2e310ac951d227d6"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "restructuring and achieving anticipated synergies as a result of the business combination of Quidel Corporation and Ortho Clinical Diagnostics Holdings plc; and other macroeconomic, geopolitical, market, business, competitive and/or regulatory factors affecting the business of QuidelOrtho generally, including those discussed in QuidelOrtho's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571237+00:00",
+              "published_date": null,
+              "source_hash": "acbf1a296ff027b38b3c88a5ee040304"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Reports Third Quarter 2024 Financial Results - Yahoo Finance",
+              "snippet": "SAN DIEGO, November 07, 2024--QuidelOrtho Corporation (Nasdaq: QDEL) (the \"Company\" or \"QuidelOrtho\"), a global provider of innovative in-vitro diagnostic technologies designed for point-of-care ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571247+00:00",
+              "published_date": null,
+              "source_hash": "4762aa2590179ebb5de32455903bafe6"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Reports Third Quarter 2024 Financial Results",
+              "snippet": "About QuidelOrtho Corporation. QuidelOrtho Corporation ... supply chain, production, logistics, distribution and labor disruptions and challenges; ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571266+00:00",
+              "published_date": null,
+              "source_hash": "54c2c701724b276d78b9def4e6cb4a9d"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's SWOT analysis: stock upgrade amid cost cuts, product ...",
+              "snippet": "QuidelOrtho Corporation (NASDAQ:QDEL), a player in the Life Science Tools, Diagnostics, and MedTech sectors with a market capitalization of $2.95 billion, has recently garnered attention from ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:42.571275+00:00",
+              "published_date": null,
+              "source_hash": "8937833e8a38c43e41f536df8b8c38f6"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's SWOT analysis: stock upgrade amid cost cuts, product launch",
+              "snippet": "QuidelOrtho Corporation (NASDAQ ... strategy is particularly significant given the inflationary pressures and supply chain challenges that have affected many companies in the healthcare sector.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:45.987675+00:00",
+              "published_date": "2024-12-17T08:36:00+00:00",
+              "source_hash": "6510bdd7531aebed5b8e539cbe78eb1c"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's SWOT analysis: stock outlook amid strategic shifts, market challenges",
+              "snippet": "QuidelOrtho Corporation (NASDAQ:QDEL), a prominent player in the ... clarity on the company's short to medium-term expectations. Ongoing inflation and supply chain challenges pose significant risks to QuidelOrtho's operational efficiency and profit margins.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Quidelortho Corp Quidelortho Corp supply chain disruptions",
+              "retrieved_at": "2025-01-06T15:47:45.987848+00:00",
+              "published_date": "2024-12-10T14:02:00+00:00",
+              "source_hash": "df1519f16b7f203c1215b306b5028111"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho CEO Excels at Overcoming Challenges",
+              "snippet": "Douglas Bryant has served as president and CEO of Quidel Corporation since 2009, leading the company through its most transformative years, including its stellar response to the COVID-19 pandemic and through last year's acquisition of Ortho Clinical Diagnostics that ushered in the company's next phase of innovation as QuidelOrtho. San Diego Business Journal has named [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384183+00:00",
+              "published_date": null,
+              "source_hash": "f338a23922e54fe3b0370eaf90aacbb6"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's SWOT analysis: stock outlook amid strategic shifts ...",
+              "snippet": "QuidelOrtho Corporation (NASDAQ:QDEL), a prominent player in the Life Science Tools, Diagnostics, and MedTech sectors with a market capitalization of $2.7 billion, is navigating a complex landscape of strategic initiatives and market challenges. According to InvestingPro analysis, the company is ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384301+00:00",
+              "published_date": null,
+              "source_hash": "9c10c4a27e710bdc371cb3b98e653798"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Corp (QDEL) Q3 2024 Earnings Call Highlights: Strategic ...",
+              "snippet": "Release Date: November 07, 2024. For the complete transcript of the earnings call, please refer to the full earnings call transcript.. Positive Points. QuidelOrtho Corp (NASDAQ:QDEL) reported Q3 revenue of $727 million, demonstrating solid progress in executing business improvement initiatives.The company achieved adjusted EBITDA of $171 million, marking the first quarter in nine quarters to ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384320+00:00",
+              "published_date": null,
+              "source_hash": "7fd3e2b3bb73ddb107110f7adb05db7e"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Corporation - QuidelOrtho Appoints Lee Bowman as Chief ...",
+              "snippet": "QuidelOrtho Corporation (Nasdaq: QDEL) is pleased to announce the appointment of Lee Bowman as Chief Human Resources Officer (CHRO). In this pivotal role, Bowman leads QuidelOrtho's human resources strategy, driving initiatives that bolster a dynamic and inclusive workplace culture. Bowman reports to Brian Blaser, President and Chief Executive Officer. Lee Bowman, Chief Human Resources ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384334+00:00",
+              "published_date": null,
+              "source_hash": "8274a6385a854120b0ef5b26ccd57f6e"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho's stock loses about a third of its value after earnings ...",
+              "snippet": "QuidelOrtho Corp.'s stock lost about a third of its value Wednesday after the diagnostic-products manufacturer missed its fourth-quarter profit estimate, announced job cuts, and sustained at least ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384349+00:00",
+              "published_date": null,
+              "source_hash": "0e2528ec3200c1f0a98f0003f49127b2"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Leaders Allegedly Misled on Test Revenue, Outlook",
+              "snippet": "QuidelOrtho Corp.'s former CEO and other members of leadership breached their duties to the company when they concealed diminishing Covid-19 test revenue and setbacks for a viral test under development, an investor alleges. The inflated stock price caused QuidelOrtho to overpay for stock repurchases, and stock drops after the company's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384362+00:00",
+              "published_date": null,
+              "source_hash": "dbd6f1d3a2adbc2babbb225f18317764"
+            },
+            {
+              "url": "",
+              "title": "Q&A: Bryant's 'Two, Three Things' Drives QuidelOrtho Success",
+              "snippet": "Douglas Bryant has led QuidelOrtho as CEO through a remarkable period of growth. He led the company through the acquisition of Abbott Laboratories' Triage business in 2017, which doubled revenue. And in response to the COVID pandemic, Quidel was the first to receive FDA Emergency Use Authorization for its rapid antigen SARS-CoV-2 test, leading to [\u2026]",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384377+00:00",
+              "published_date": null,
+              "source_hash": "4c0d7c21e2ca82197ed051aac851f6e8"
+            },
+            {
+              "url": "",
+              "title": "Working at QuidelOrtho Corporation: 21 Reviews - Indeed",
+              "snippet": "Reviews from QuidelOrtho Corporation employees about QuidelOrtho Corporation culture, salaries, benefits, work-life ... Find salaries. Sign in. Sign in. Employers / Post Job. 1 new update. Start of main content. QuidelOrtho Corporation. Work wellbeing score is 69 out of 100. 69. 3.4 out of ... Ortho is a wonderful company with many challenges ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384391+00:00",
+              "published_date": null,
+              "source_hash": "9d5f929cefa0fc90c3ae305040894a94"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Reports Third Quarter 2024 Financial Results",
+              "snippet": "SAN DIEGO--(BUSINESS WIRE)-- QuidelOrtho Corporation (Nasdaq: QDEL) (the \"Company\" or \"QuidelOrtho\"), a global provider of innovative in-vitro diagnostic technologies designed for point-of-care settings, clinical labs, and transfusion medicine, today announced financial results for the third quarter ended September 29, 2024. \"We delivered solid third quarter results, giving us ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384403+00:00",
+              "published_date": null,
+              "source_hash": "8d28a47b2ca3b7444ae88bbdaf91700c"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Corporation Job Security & Advancement reviews - Indeed",
+              "snippet": "151 reviews from QuidelOrtho Corporation employees about Job Security ... Lack of direction and layoffs post merger. Financial Analyst (Former Employee) - San ... I spent most of my days dealing with product quality issues which makes establishing long term customer loyalty a challenge. However, the worst part of this experience was the on-site ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:47.384417+00:00",
+              "published_date": null,
+              "source_hash": "24d5534b82a3e6c87ca9de5ba5aad3bb"
+            },
+            {
+              "url": "",
+              "title": "QuidelOrtho Strengthens Board with Experienced Healthcare CEOs",
+              "snippet": "QuidelOrtho Corporation has announced the appointment of veteran healthcare CEOs John R. Chiminski and R. Scott Huennekens as independent directors to its board, aiming to leverage their extensive ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Quidelortho Corp Quidelortho Corp post-pandemic workforce challenges",
+              "retrieved_at": "2025-01-06T15:47:50.969752+00:00",
+              "published_date": "2024-12-10T12:29:00+00:00",
+              "source_hash": "b638083c990af116b20455b6ce8c525f"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Quidelortho Corp regulatory approval delays",
+              "rationale": "Investigate potential delays in regulatory approvals for new products and their impact on growth",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Quidelortho Corp supply chain disruptions",
+              "rationale": "Examine risks related to supply chain vulnerabilities, particularly for critical reagents and components",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Quidelortho Corp post-pandemic workforce challenges",
+              "rationale": "Assess potential workforce issues arising from the decline in COVID-19 testing demand and merger integration",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:48:08.585698",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

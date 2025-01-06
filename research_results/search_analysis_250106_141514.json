@@ -1,0 +1,616 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:15:14.162660",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Nikola Corp",
+      "symbol": "NKLA",
+      "analysis": {
+        "historical": {
+          "risk_score": 85,
+          "key_risks": [
+            "Significant financial challenges including high R&D and infrastructure costs",
+            "Dependence on the development of a robust hydrogen fueling network",
+            "Reputation damage due to fraud allegations and legal issues"
+          ],
+          "controversies": [
+            "$125 million SEC penalty for misleading statements about technology and capabilities",
+            "Founder Trevor Milton convicted of fraud and sentenced to prison",
+            "Ongoing legal battles including a derivative lawsuit by Milton against Nikola\u2019s directors"
+          ],
+          "environmental_issues": [
+            "Dependence on hydrogen infrastructure development for zero-emission transportation"
+          ],
+          "social_issues": [
+            "Layoffs and financial instability affecting employees",
+            "Reputation damage affecting trust with investors and customers"
+          ],
+          "governance_issues": [
+            "Legal and regulatory issues including SEC fraud charges",
+            "Leadership credibility issues due to founder's fraud conviction"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Nikola Corporation to Pay $125 Million to Resolve Fraud Charges - SEC.gov",
+              "snippet": "The Commission's order finds that Nikola violated the antifraud and disclosure control provisions of the federal securities laws. Without admitting or denying the Commission's findings, Nikola agreed to cease and desist from future violations of the charged provisions, to certain voluntary undertakings, and to pay a $125 million penalty.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539643+00:00",
+              "published_date": null,
+              "source_hash": "13b3138bf2aed6c7c017003d212a9785"
+            },
+            {
+              "url": "",
+              "title": "In the Matter of Nikola Corporation. Admin. Proc. File No. 3-20687",
+              "snippet": "The Commission ordered Nikola to pay a $125,000,000.00 civil money penalty to the Commission, pursuant to a payment plan detailed therein. The Commission also created a Fair Fund, pursuant to Section 308(a) of the Sarbanes-Oxley Act of 2002, so the penalty paid can be distributed to harmed investors (the \"Fair Fund\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539748+00:00",
+              "published_date": null,
+              "source_hash": "5e2cc6775ec9cb12e7b4d162b6756fb2"
+            },
+            {
+              "url": "",
+              "title": "Nikola Founder Says He Believes the Company Cannot Be Saved",
+              "snippet": "The amount includes 97% of Nikola's $125 million fine from settling a U.S. Securities and Exchange Commission civil fraud case ($121.25 million) plus nearly $46.5 million in legal fees and expenses. ... In early June, Milton announced via social media that he had filed a derivative and malpractice lawsuit targeting directors and Nikola's ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539762+00:00",
+              "published_date": null,
+              "source_hash": "ae8e327e94558a7fe9dd4457023bdd5e"
+            },
+            {
+              "url": "",
+              "title": "Court Denies Motion to Dismiss Claims Against Nikola Corporation",
+              "snippet": "On December 8, 2023, Judge Steven P. Logan of the District of Arizona sustained Pomerantz's claims against Nikola Corporation and certain of its officers and directors. The action is brought on behalf of investors who purchased stock in Nikola, an electric vehicle manufacturer that went public on Ju",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539771+00:00",
+              "published_date": null,
+              "source_hash": "25a3f49e13c49f6136e5041a1bce4f13"
+            },
+            {
+              "url": "",
+              "title": "Nikola Settles With SEC for $125M on Charges It Defrauded Investors",
+              "snippet": "Nikola Corp. has reached a settlement with the U.S. Securities and Exchange Commission that will see the company pay $125 million for charges that it defrauded investors.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539783+00:00",
+              "published_date": null,
+              "source_hash": "fcdc99707ee0dd6cf2d15d1e237945a6"
+            },
+            {
+              "url": "",
+              "title": "Once-rebuffed investor group wins lead in Nikola class action after 9th ...",
+              "snippet": "A long-shot appellate bet has paid off for three investors who lost millions of dollars on their holdings in Nikola Corp and will now lead the securities fraud class action against the electric ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539794+00:00",
+              "published_date": null,
+              "source_hash": "43056c999e99ad125749c35eeafe9a2b"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corporation to Pay $125 Million to Resolve Fraud Charges - SECLaw",
+              "snippet": "The SEC has announced that Nikola Corporation, a publicly traded company created through a special purpose acquisition company transaction, has agreed to pay $125 million to settle charges that it defrauded investors by misleading them about its products, technical advancements, and commercial prospects. The settlement follows the SEC's litigated action filed earlier this year against Trevor ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539803+00:00",
+              "published_date": null,
+              "source_hash": "624a21fb0319a9319e76bbb600051a1b"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp agrees to pay $125 million to settle SEC charges of ...",
+              "snippet": "Nikola, which did not admit or deny the SEC's findings, has agreed to cooperate with ongoing litigation and investigation, the SEC said. The company previously disclosed expectations of the hefty ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539813+00:00",
+              "published_date": null,
+              "source_hash": "d23dcce58b4b66068044b658f99da76b"
+            },
+            {
+              "url": "",
+              "title": "Nikola founder Trevor Milton sentenced to four years in prison for fraud",
+              "snippet": "Nikola founder Trevor Milton was found guilty in October 2022 on two counts of wire fraud and one count of securities fraud.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539821+00:00",
+              "published_date": null,
+              "source_hash": "f3ccf82246ebf20e40cdfa9b4364e471"
+            },
+            {
+              "url": "",
+              "title": "Nikola Agrees To Pay $125 Million Fine To Settle SEC Fraud Charges",
+              "snippet": "Electric truck maker Nikola Corporation has agreed to pay $125 million to the US Securities and Exchange Commission to settle civil charges after misleading investors about its products, technical ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:47.539832+00:00",
+              "published_date": null,
+              "source_hash": "272dc2fe1936a0fd19a52ab3f538abf6"
+            },
+            {
+              "url": "",
+              "title": "Nikola electric truck maker sets layoffs, seeks immediate capital infusion",
+              "snippet": "Nikola Corp. has laid off workers as the Phoenix ... The company will seek additional capital by issuing equity or debt securities, strategic partnerships, licensing arrangements or obtaining ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:50.041022+00:00",
+              "published_date": "2024-12-16T00:00:00+00:00",
+              "source_hash": "382b7722696a2a62a6c0712d496a1b55"
+            },
+            {
+              "url": "",
+              "title": "Troubled electric truckmaker Nikola offers up to $100 million in common stock",
+              "snippet": "Nikola Corp., a producer of battery and hydrogen ... Nikola's filings with the Securities and Exchange Commission Monday show a company that is trying to strengthen its financial position ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:50.041104+00:00",
+              "published_date": "2024-12-09T15:25:00+00:00",
+              "source_hash": "bd6fa923562c91b96d70a4a67cf4c269"
+            },
+            {
+              "url": "",
+              "title": "Nikola: Trevor Milton sentenced to prison after fraud conviction",
+              "snippet": "Trevor Milton, who led Nikola Corporation, was convicted of fraud ... Hindenburg Research contributed to the growing concerns. The investigation by federal prosecutors found that Milton had ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:50.041117+00:00",
+              "published_date": "2023-12-19T04:22:00+00:00",
+              "source_hash": "3ee3562ccb46ed3cca56df3778cd9dc7"
+            },
+            {
+              "url": "",
+              "title": "What's Going On With Nikola Stock Thursday?",
+              "snippet": "Get New Picks of the Market's Top Stocks Nikola Corp NKLA shares are trading lower Thursday following a report indicating the company confirmed another round of layoffs. What Happened: Nikola has ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:50.041127+00:00",
+              "published_date": "2024-12-12T15:37:00+00:00",
+              "source_hash": "505d799c9196d8257ecf188aca58e469"
+            },
+            {
+              "url": "",
+              "title": "Nikola electric lorry just rolling downhill in promo video",
+              "snippet": "Nikola denied misleading investors and false advertising, adding a working lorry had been filmed in 2019. The US Securities and Exchange Commission is investigating. Nikola said it had \"contacted ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp SEC investigation and lawsuits",
+              "retrieved_at": "2025-01-06T21:14:50.041136+00:00",
+              "published_date": "2020-09-15T00:00:00+00:00",
+              "source_hash": "2c120d65cffda57fee20ded6fd76ecb2"
+            },
+            {
+              "url": "",
+              "title": " Nikola_2023_Sustainability_Impact_Report_Final3",
+              "snippet": "Nikola Corporation's mission is clear: We are leading the way for a zero-emission world, starting with the transportation industry. As an integrated truck and energy company, Nikola is transforming commercial transportation, with our Class 8 vehicles, including battery-electric and hydrogen fuel cell",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600287+00:00",
+              "published_date": null,
+              "source_hash": "b8bc376f006e99617155c298c44f74c4"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corporation Releases Inaugural Sustainability Impact Report",
+              "snippet": "Nikola Corporation (Nasdaq: NKLA), a global leader in zero-emissions transportation and energy supply and infrastructure solutions, via the HYLA brand, released their first-ever sustainability impact report today. Nikola's 2023 Sustainability Impact Report covers environmental and social impacts, reporting, and progress towards Nikola's sustainability priorities.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600391+00:00",
+              "published_date": null,
+              "source_hash": "3f2953d8ef80d6f993370c6884581d29"
+            },
+            {
+              "url": "",
+              "title": "Nikola releases sustainability impact report",
+              "snippet": "In a recently released first sustainability report, Nikola Corp. covered its environmental and social impacts, reporting and progress toward sustainability priorities. The company said that in 2023, more than 10% of the energy output at its Coolidge manufacturing facility was covered by solar power. Additionally, Nikola tells us it exceeded ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600406+00:00",
+              "published_date": null,
+              "source_hash": "e7579c40f88f8b15b3aa30417c7216af"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corporation Releases Inaugural Sustainability Impact Report",
+              "snippet": "Nikola Corporation (Nasdaq: NKLA), a global leader in zero-emissions transportation and energy supply and infrastructure solutions, via the HYLA brand, released their first-ever sustainability ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600420+00:00",
+              "published_date": null,
+              "source_hash": "f65136e555f73013cd0f752bed5c71c1"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp Q3 2024 Earnings: Revenue at $25.18M, EPS Loss of $3",
+              "snippet": "As Nikola continues to innovate within the zero-emissions transportation sector, its focus on operational efficiency and financial sustainability will be critical to achieving long-term success. Explore the complete 8-K earnings release from Nikola Corp for further details.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600431+00:00",
+              "published_date": null,
+              "source_hash": "d1656d9ab0f7d212f3b70656bd1220d4"
+            },
+            {
+              "url": "",
+              "title": "Nikola SEC Filings - Annual Financial Reports - Nikola Corporation",
+              "snippet": "Title: Date: Report: 2020 Annual Report: May 19, 2021: 2021 Proxy Statement: May 19, 2021: 2021 Annual Report: Apr 20, 2022: 2022 Proxy Statement: Jun 1, 2022",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600442+00:00",
+              "published_date": null,
+              "source_hash": "43ac5c67d161440c8d549569446ffb18"
+            },
+            {
+              "url": "",
+              "title": "Nikola Q1 Loss Narrows; Cost of Truck Production Soars",
+              "snippet": "Phoenix-based Nikola posted a Q1 loss of $147.72 million, down 12.6% compared with $169.094 million in the year-ago period. The Q1 loss also was lower than the Q4 2023 loss of $153.6 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600453+00:00",
+              "published_date": null,
+              "source_hash": "05207cebf46242c9aea95d1348ed19f1"
+            },
+            {
+              "url": "",
+              "title": "EV maker Nikola posts bigger-than-expected quarterly loss, shares fall ...",
+              "snippet": "Nikola reported a bigger-than-expected quarterly loss on Thursday as the company continues to grapple with high costs related to the production ramp up of its fuel-cell electric truck, sending the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600461+00:00",
+              "published_date": null,
+              "source_hash": "ccd6277ce4fe67d6b420a97c6bd4ac41"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp (NKLA) Q1 2024 Earnings: Misses Revenue Forecasts with ...",
+              "snippet": "Comprehensive Analysis of Nikola Corp's First Quarter Financial Performance and Strategic Developments. ... Net Loss: Decreased to $147.722 million in Q1 2024 from $169.094 million in the previous ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600470+00:00",
+              "published_date": null,
+              "source_hash": "f6ad127c97fd3ddaf7c51d59448ce5d3"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp (NKLA) Q3 2024 Earnings Call Highlights: Record Hydrogen ...",
+              "snippet": "Nikola Corp (NASDAQ:NKLA) reported a gross loss of $62 million in Q3 2024, an increase from the $55 million loss in Q2. The company's unrestricted cash declined by $58 million from Q2, ending the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:51.600479+00:00",
+              "published_date": null,
+              "source_hash": "4202c7e111f72bef176ab451ab108800"
+            },
+            {
+              "url": "",
+              "title": "Why Did Nikola Corp (NKLA) Soar? Key Factors Explained",
+              "snippet": "Nikola Corp (NKLA) stock saw a modest uptick, ending the day at $1.6 which represents a slight increase of $0.31 or 24.03% from the prior close of $1.29. The stock opened at $1.37 and touched a low of $1.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:53.997857+00:00",
+              "published_date": "2025-01-06T12:43:00+00:00",
+              "source_hash": "6929bd8315949b5008634f6a5b83a914"
+            },
+            {
+              "url": "",
+              "title": "Do recent layoffs at Nikola, elsewhere signal a worsening economy? We asked the experts",
+              "snippet": "One recent indication: Nikola Corp., the maker of battery-electric and hydrogen powered heavy trucks, implemented another round of layoffs, following some reductions last year. The company didn't comment directly on the number of job losses but in an email ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:53.997936+00:00",
+              "published_date": "2024-12-18T13:02:00+00:00",
+              "source_hash": "722ab45dd11ef8820f71226a1fadc2e9"
+            },
+            {
+              "url": "",
+              "title": "Troubled electric truckmaker Nikola offers up to $100 million in common stock",
+              "snippet": "Nikola Corp., a producer of battery and hydrogen-electric trucks, has taken several steps to repay its debts and raise equity, including offering up to",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:53.997948+00:00",
+              "published_date": "2024-12-09T14:47:00+00:00",
+              "source_hash": "e41f9e0a9cb1f191197159202cbaadc0"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp. stock falls Tuesday, underperforms market",
+              "snippet": "Shares of Nikola Corp. NKLA slumped 0.86% to $1.15 Tuesday, on what proved to be an all-around great trading session for the stock market, with the NASDAQ Composite Index COMP rising 1.35% to 20,031.13 and the Dow Jones Industrial Average DJIA rising 0.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:53.997957+00:00",
+              "published_date": "2024-12-24T22:35:00+00:00",
+              "source_hash": "d5255b9ea86f46b356344e6629f2694b"
+            },
+            {
+              "url": "",
+              "title": "Nikola (NKLA) confirms more layoffs as it desperately tries to avoid bankruptcy",
+              "snippet": "Nikola (NKLA) has confirmed another round of layoffs as it finds itself in an impressive financial mess ... but it is selling those at big losses and some customers are reporting some serious ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Nikola Corp Nikola Corp financial sustainability and losses",
+              "retrieved_at": "2025-01-06T21:14:53.997968+00:00",
+              "published_date": "2024-12-12T18:35:00+00:00",
+              "source_hash": "eeb48833806a958b26678b03b0d78129"
+            },
+            {
+              "url": "",
+              "title": "All About the Nikola Motors Scandal That Led to a Prison Sentence for ...",
+              "snippet": "Milton's purported misrepresentations not only led to financial losses for Nikola Corporation but also tarnished the company's reputation and eroded trust in its leadership.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028670+00:00",
+              "published_date": null,
+              "source_hash": "6d9ff098532833376ee4306085711b19"
+            },
+            {
+              "url": "",
+              "title": "Nikola Founder Says He Believes the Company Cannot Be Saved",
+              "snippet": "Written by Cl\u00e1udio Afonso | LinkedIn | X. Earlier this week, Trevor Milton, Nikola's founder and former CEO, announced he is \"finally ready\" to disclose \"what really happened behind the scenes\" during his tenure at the truck manufacturer. Twenty four hours later, Milton shared a new video reacting to fraud allegations and saying the hundreds of trucks on road today have been ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028776+00:00",
+              "published_date": null,
+              "source_hash": "3d7a635305b797c6c8579b12bb001b62"
+            },
+            {
+              "url": "",
+              "title": "Nikola: what went wrong? - Sustainable Value Investors",
+              "snippet": "Nikola, the U.S. electric vehicle startup founded by Trevor Milton, was accused last September of being \"an intricate fraud built on dozens of lies over the course of its Founder and Executive Chairman Trevor Milton's career\" by short-seller Hindenburg Research, as a result of which it ended up under investigation by the U.S. Securities ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028793+00:00",
+              "published_date": null,
+              "source_hash": "4a2ea4f54b1049cf3ddd1047a2c4e43d"
+            },
+            {
+              "url": "",
+              "title": "What to know about Phoenix-based Nikola Corp. after founder sentenced",
+              "snippet": "Trevor Milton, the flamboyant founder of Phoenix truck manufacturing company Nikola Corp., was sentenced to four years in prison on Dec. 18, capping a meteoric rise and fall for an entrepreneur ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028806+00:00",
+              "published_date": null,
+              "source_hash": "b07bb9789e083093e07034131fea2c32"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp founder gets 4 years prison for exaggerating ... - CBS News",
+              "snippet": "The founder of Nikola Corp. was sentenced Monday to four years in prison for his conviction for exaggerating claims about his company's production of zero-emission 18-wheel trucks, causing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028815+00:00",
+              "published_date": null,
+              "source_hash": "b04bb0f66b954c9751b9e7c427259f40"
+            },
+            {
+              "url": "",
+              "title": "Former Nikola CEO Trevor Milton Ordered to Pay $167.7 Million to ...",
+              "snippet": "Trevor Milton, former CEO of Nikola, has been ordered to pay $167.7 million to the company for making false and misleading statements. The ruling, delivered by U.S. District Judge Diane Humetewa ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028825+00:00",
+              "published_date": null,
+              "source_hash": "775e705b456ab8aec950da4bc297b55c"
+            },
+            {
+              "url": "",
+              "title": "4 years in prison for Nikola Corp founder for defrauding investors on ...",
+              "snippet": "The founder of Nikola Corp. was sentenced Monday to four years in prison for his conviction for exaggerating claims about his company's production of zero-emission 18-wheel trucks, causing ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028834+00:00",
+              "published_date": null,
+              "source_hash": "040c147528af941bbf178961a548d336"
+            },
+            {
+              "url": "",
+              "title": "4 years in prison for Nikola Corp founder for defrauding investors on ...",
+              "snippet": "FILE - Trevor Milton, left, leaves the Thurgood Marshall United States Courthouse, Sept. 12, 2022, in New York. Milton was sentenced Monday, Dec. 18, 2023, to four years in prison for his conviction for exaggerating claims about his company's production of zero-emission 18-wheel trucks, causing investors to lose hundreds of thousands of dollars.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028843+00:00",
+              "published_date": null,
+              "source_hash": "b13498df10305ebe8dad5e8bfa3187e5"
+            },
+            {
+              "url": "",
+              "title": "Nikola founder lied to investors about tech, prosecutor says in fraud ...",
+              "snippet": "Nikola Corp founder Trevor Milton became a billionaire by lying to investors about the most important aspects of his low-emission vehicle company, a prosecutor told jurors as Milton's fraud trial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028853+00:00",
+              "published_date": null,
+              "source_hash": "4bd27385913f07adb85cf7ccc7aed8d7"
+            },
+            {
+              "url": "",
+              "title": "Nikola Corp. Derivative Litigation - Cohen Milstein",
+              "snippet": "Overview. Cohen Milstein and Andrews & Springer represent shareholders in a shareholder derivative action against Trevor Milton (\"Milton\"), the founder and former CEO and Executive Chairman of Nikola Corporation (NKLA - NASDAQ), a zero-emissions vehicle startup company that purports to be a leading manufacturer of heavy-duty commercial electric vehicles and energy solutions, and certain ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:56.028862+00:00",
+              "published_date": null,
+              "source_hash": "d40252901d12036050015d74dc4e8a7f"
+            },
+            {
+              "url": "",
+              "title": "Nikola: Trevor Milton sentenced to prison after fraud conviction",
+              "snippet": "Trevor Milton, who led Nikola Corporation, was convicted of fraud last year after a jury found he had lied persistently about the company. His claims helped pump up the firm's share price ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:57.989354+00:00",
+              "published_date": "2023-12-19T04:22:00+00:00",
+              "source_hash": "c742f854d0833f0cb7471a8e03a8ed17"
+            },
+            {
+              "url": "",
+              "title": "Troubled electric truckmaker Nikola offers up to $100 million in common stock",
+              "snippet": "The beleaguered company is still dealing with the aftershocks of its founder, Trevor Milton ... must pay Nikola a penalty of $167.7 million. The drama has damaged the company's reputation ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:57.989432+00:00",
+              "published_date": "2024-12-09T15:25:00+00:00",
+              "source_hash": "aeca451f21da392c31fa47fd639e0cf4"
+            },
+            {
+              "url": "",
+              "title": "Nikola (NKLA) confirms more layoffs as it desperately tries to avoid bankruptcy",
+              "snippet": "As we previously reported, Nikola had massive issues with its battery-electric ... from its convicted former CEO Trevor Milton, but the company has so far failed to recover it.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:57.989446+00:00",
+              "published_date": "2024-12-12T18:35:00+00:00",
+              "source_hash": "37c4caedc40c9872e396c606c4e1a00f"
+            },
+            {
+              "url": "",
+              "title": "Trevor Milton",
+              "snippet": "Prosecutors Demand 11 Years Jail Time For Investor Fraud Nikola Founder Trevor Milton's Lawyers Seek Probation To Avoid Client Going To Jail, Claim Company Is 'Real' Unlike Elizabeth Holmes ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:57.989455+00:00",
+              "published_date": "2020-06-09T21:02:00+00:00",
+              "source_hash": "b88e3cd92208dcfd39c71778ce502133"
+            },
+            {
+              "url": "",
+              "title": "Nikola dives 30% after founder Trevor Milton steps down as executive chairman",
+              "snippet": "Nikola shares tanked as much as 30% on Monday after its founder, Trevor Milton, voluntarily stepped down as the executive chairman and a member of the board. The electric-vehicle company announced ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Nikola Corp Nikola Corp reputation and trust issues post-Trevor Milton",
+              "retrieved_at": "2025-01-06T21:14:57.989463+00:00",
+              "published_date": "2020-09-21T15:25:00+00:00",
+              "source_hash": "db12569f125941f21017d9914ce10d5e"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Nikola Corp SEC investigation and lawsuits",
+              "rationale": "Investigate ongoing legal and regulatory issues related to fraud allegations and misleading statements",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Nikola Corp financial sustainability and losses",
+              "rationale": "Assess the company's financial health and challenges in achieving profitability due to high R&D and infrastructure costs",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Nikola Corp reputation and trust issues post-Trevor Milton",
+              "rationale": "Examine the impact of leadership controversies and fraud allegations on the company's reputation and customer trust",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:15:14.162673",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

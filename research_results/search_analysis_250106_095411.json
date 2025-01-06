@@ -1,0 +1,588 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T09:54:11.020132",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Arista Networks Inc",
+      "symbol": "ANET",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Supply chain vulnerabilities due to reliance on third-party manufacturers",
+            "Customer concentration risk with significant revenue from a few large clients",
+            "Intense competition from major players like Cisco, Juniper Networks, and HPE",
+            "Ongoing patent litigation with Cisco posing legal and financial risks"
+          ],
+          "controversies": [
+            "Prolonged patent disputes with Cisco, including claims of patent infringement",
+            "Concerns over revenue stability due to reliance on a limited number of large customers"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Ethical concerns regarding customer concentration and maintaining fair relationships with key clients"
+          ],
+          "governance_issues": [
+            "Challenges in navigating intellectual property rights and litigation risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. v. Cisco Systems, Inc., No. 17-1525 (Fed. Cir ...",
+              "snippet": "Cisco's 597 patent, titled \"Method and Apparatus for Securing a Communications Device using a Logging Module,\" relates generally to ensuring network device security by using a logging module with restricted configurability to detect and communicate changes to a network device's configuration. Arista petitioned for an inter partes review (IPR) of certain claims of the patent. The Patent ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350301+00:00",
+              "published_date": null,
+              "source_hash": "44b3bc7700b49f80ebe8e09a12bc97e1"
+            },
+            {
+              "url": "",
+              "title": "ARISTA NETWORKS, INC. v. CISCO SYSTEMS, INC. | Knobbe Martens",
+              "snippet": "Dr. David Cheriton is the named inventor of U.S. Patent No. 7,340,597 (\"the '597 patent\"), which is owned by Cisco Systems, Inc. At the time of invention, Dr. Cheriton was employed by Cisco and assigned the invention claimed in the '597 patent to Cisco. Dr. Cheriton later left Cisco and founded Arista Networks, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350345+00:00",
+              "published_date": null,
+              "source_hash": "8e7a03bf9134ee737a55278f8281ea9e"
+            },
+            {
+              "url": "",
+              "title": "Cisco Systems, Inc. v. Arista Networks, Inc. - Casetext",
+              "snippet": "Plaintiff Cisco Systems Inc. brings this copyright and patent infringement lawsuit against Defendant Arista Networks, Inc. The patent portion of the lawsuit alleges Arista infringes two of Cisco's patents: U.S. Patent No. 7,047,526 (the \"'526 Patent\") directed at improving the control of administration and/or diagnostic software tools in ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350355+00:00",
+              "published_date": null,
+              "source_hash": "2716638ede991971a339a97eb682f981"
+            },
+            {
+              "url": "",
+              "title": "Cisco Systems, Inc. v. Arista Networks, Inc. - Casetext",
+              "snippet": "Plaintiff's original Complaint alleged that Arista's Extensible Operating System (\"EOS\") infringed upon two Cisco patents, the '526 Patent and the '886 Patent. See Compl., ECF 1 at \u00b6\u00b6 66-75. In the FAC, Plaintiff adds an allegation that on December 10, 2014, \"Arista released a new version of EOS, dubbed \"EOS+.\"",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350361+00:00",
+              "published_date": null,
+              "source_hash": "4914c4ff66a9d52189469064cdc268a9"
+            },
+            {
+              "url": "",
+              "title": "Cisco Systems, Inc. v. Arista Networks, Inc. - UniCourt",
+              "snippet": "On 12/05/2014 Cisco Systems, Inc filed an Intellectual Property - Patent lawsuit against Arista Networks, Inc. This case was filed in U.S. District Courts, California Northern District. The Judge overseeing this case is Hon. Jeffrey S. White. The case status is Pending - Other Pending.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350369+00:00",
+              "published_date": null,
+              "source_hash": "986c477fbe1ccc6e6a5155412c203e3f"
+            },
+            {
+              "url": "",
+              "title": "Patent infringement claims resolved with $400 million settlement",
+              "snippet": "In the end, Arista Networks Inc agreed to pay $400 million to Cisco Systems Inc the day before a jury trial was scheduled to begin. The settlement resolves lawsuits filed by San Jose's Cisco alleging that Santa Clara's Arista Networks copied its intellectual property.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350375+00:00",
+              "published_date": null,
+              "source_hash": "aa630cd86517aea361bd98af2a8b406a"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. v. Cisco Systems, Inc. (Fed. Cir. 2018) - Patent Docs",
+              "snippet": "AIA Post-grant Reviews Not Precluded by Assignor Estoppel By Kevin E. Noonan -- On Friday, the Federal Circuit handed down its decision in Arista Networks, Inc. v. Cisco Systems, Inc., deciding that the Board had erred in certain of its determinations regarding Arista's inter partes review challenge to certain claims of Cisco's U.S. Patent No. 7,340,597 (for reasons discussed briefly below ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350382+00:00",
+              "published_date": null,
+              "source_hash": "ccac15d2c9b6004fdef8bc3a08891177"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks Inc. v. Cisco Systems Inc. | IMS Legal Strategies",
+              "snippet": "Arista Networks Inc. v. Cisco Systems Inc. ... Arista agreed to pay Cisco $400 million to settle patent infringement litigation and to withdraw its antitrust claims against Cisco. Graphic Examples. Slide1.jpeg. Slide2.jpeg. Slide3.jpeg. Slide5.jpeg. Slide6.jpeg.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350388+00:00",
+              "published_date": null,
+              "source_hash": "1ce37d79929d4da6e60cacbea4923adc"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. v. Cisco Systems Inc., No. 5:2016cv00923 ...",
+              "snippet": "Pet., ECF 278. Plaintiff Arista Networks Inc. (\"Arista\") opposes the 17 petition. Opp'n, ECF 282. Pursuant to Civil Local Rule 7-1(b), the Court finds Cisco's petition to 18 be suitable for submission without oral argument and hereby VACATES the hearing scheduled for 19 September 20, 2018.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350393+00:00",
+              "published_date": null,
+              "source_hash": "d30c86c4f037f54c8bd8b3cb330febe4"
+            },
+            {
+              "url": "",
+              "title": "Cisco (CSCO) Wins Patent Infringement Lawsuit Against Arista",
+              "snippet": "P er a Reuters report on Friday, Cisco Systems Inc.CSCO won another patent ruling against Arista Networks ANET regarding the use of Cisco's network device technology in Arista's Ethernet switches ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:41.350399+00:00",
+              "published_date": null,
+              "source_hash": "8db508463c9d9a3e5ae5d2a3d4ffa9e2"
+            },
+            {
+              "url": "",
+              "title": "Cisco Seen As Trying To 'Slow Down Arista Anyway They Can' With Patent Lawsuits",
+              "snippet": "Partners say Cisco's end game with its patent lawsuits against Arista Networks is simply to slow ... but a similar lawsuit would surely hold back innovation among startups. \"Arista has been ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:43.587408+00:00",
+              "published_date": "2016-06-27T19:57:00+00:00",
+              "source_hash": "500ad53b28e6ddb0e73ba3c13fbd50d7"
+            },
+            {
+              "url": "",
+              "title": "Arista Partners On Edge After Judge Rules In Cisco's Favor In Patent Case",
+              "snippet": "A ruling by the International Trade Commission that Arista Networks ... to a lawsuit Cisco filed against Arista in 2014 claiming the networking startup infringed on several Cisco patents.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:43.587511+00:00",
+              "published_date": "2016-02-02T23:04:00+00:00",
+              "source_hash": "b47d094edc2da75bff770aeca4eb4582"
+            },
+            {
+              "url": "",
+              "title": "Employee Inventors \u203a Patent Litigation \u203a Assignor Estoppel",
+              "snippet": "Assignor Estoppel Does Not Apply in the IPR Context - In Arista Networks, Inc. v. Cisco Systems, Inc., Appeal Nos. 2017-1525, 2017-1577, the Federal Circuit held that the plain language of 35 U.S ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:43.587540+00:00",
+              "published_date": "2025-01-02T00:00:00+00:00",
+              "source_hash": "fcb0b8949f18f11cd0393a2e9f0b5361"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. (ANET) is Attracting Investor Attention: Here is What You Should Know",
+              "snippet": "Arista Networks ... the market buzz about Arista Networks. However, its Zacks Rank #2 does suggest that it may outperform the broader market in the near term. History suggests their performance ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:43.587574+00:00",
+              "published_date": "2024-12-30T17:00:00+00:00",
+              "source_hash": "7d5c9dd213e619bc569bdc7cde45cd55"
+            },
+            {
+              "url": "",
+              "title": "Cisco is hoping to score a big win against its hated rival Arista on Wednesday",
+              "snippet": "On Wednesday, a judge for the International Trade Commission will issue its first ruling on if Arista Networks has ... Cisco has also filed an patent-infringement lawsuit with the Federal District ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc patent litigation history",
+              "retrieved_at": "2025-01-06T16:53:43.587597+00:00",
+              "published_date": "2016-01-22T23:23:00+00:00",
+              "source_hash": "fdb62e7ebe89cde06aeface460de1104"
+            },
+            {
+              "url": "",
+              "title": "Arista CEO: Supply-chain disruption to continue into 2023",
+              "snippet": "The Tech Trends to Watch in 2023; Business. See all Business ... Arista CEO: Supply-chain disruption to continue into 2023 ... Networking technology pioneer Arista Networks this afternoon reported ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167576+00:00",
+              "published_date": null,
+              "source_hash": "db2675184613889f2ce46b0670dd81ca"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. Reports First Quarter 2023 Financial Results",
+              "snippet": "SANTA CLARA, Calif.- May 1, 2023 -- Arista Networks, Inc. (NYSE: ANET), an industry leader in data-driven, client to cloud networking for large data center, campus and routing environments, today announced financial results for its first quarter ended March 31, 2023. \"Amid macroeconomic uncertainty and a gradually recovering supply chain, Arista continues to bring innovative, leading-edge ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167607+00:00",
+              "published_date": null,
+              "source_hash": "fd99c5c5c07b550754dfc606b3dfbf20"
+            },
+            {
+              "url": "",
+              "title": "Breaking Down Arista Networks, Inc. (ANET) Financial Health: Key ...",
+              "snippet": "A Deep Dive into Arista Networks, Inc. (ANET) Profitability Profitability Metrics. Gross Profit Margin: For the three months ended September 30, 2024, the gross profit was $1,161,717 thousand, compared to $942,419 thousand for the same period in 2023, reflecting a growth of 23.3%.The gross margin increased from 62.4% in 2023 to 64.2% in 2024. For the nine months ended September 30, 2024, gross ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167613+00:00",
+              "published_date": null,
+              "source_hash": "e414a574e3de102a4eb07b734bda1401"
+            },
+            {
+              "url": "",
+              "title": "Arista (ANET) Beats Q4 Earnings Estimates on Solid Revenues",
+              "snippet": "Arista Networks, Inc. price-consensus-eps-surprise-chart | Arista Networks, Inc. Quote Revenues Despite supply chain disruptions, total revenues soared 54.7% year over year to $1,275.6 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167617+00:00",
+              "published_date": null,
+              "source_hash": "df972b3082b70cb0d9301b062ed9d0b8"
+            },
+            {
+              "url": "",
+              "title": "Arista (ANET) Beats Q4 Earnings Estimates on Solid Revenues - Yahoo Finance",
+              "snippet": "Arista Networks, Inc. price-consensus-eps-surprise-chart | Arista Networks, Inc. Quote Revenues Despite supply chain disruptions, total revenues soared 54.7% year over year to $1,275.6 million.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167621+00:00",
+              "published_date": null,
+              "source_hash": "4acf5ae56747eecfb8ed5df1fcbef15d"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks: Benefiting From The Supply Chain, Not Generative AI",
+              "snippet": "Arista Networks' stock is currently trading at an all-time high, and its prospects for beating its financial targets are limited. ... 2023 4:21 PM ET Arista Networks Inc (ANET) ... as the supply ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167624+00:00",
+              "published_date": null,
+              "source_hash": "dee3322dcefd1205a740c421cd0859bd"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks' Competitive Advantages In The Networking Market Make ...",
+              "snippet": "Arista Networks describes itself in its 2023 10-K as \"an industry leader in data-driven, client-to-cloud networking for large data center, campus, and routing environments.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167628+00:00",
+              "published_date": null,
+              "source_hash": "0711cbfdd061e6c6802a32fd728ca8d0"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks Inc | Reuters",
+              "snippet": "Arista Networks Inc. Follow. 33 results. ... October 31, 2023. ... as it expects easing supply chain restraints to underscore enterprise spending, sending its shares up 5.5% in extended trading. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167631+00:00",
+              "published_date": null,
+              "source_hash": "a08d9d70dd15e35c138e95f019ef4a6d"
+            },
+            {
+              "url": "",
+              "title": "Decoding Arista Networks Inc (ANET): A Strategic SWOT Insight",
+              "snippet": "On February 13, 2024, Arista Networks Inc filed its 10-K report, providing a comprehensive overview of its financial performance and strategic positioning. As a leading provider of networking ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241832+00:00",
+              "published_date": null,
+              "source_hash": "92a184dabea71783e346887d61d151e3"
+            },
+            {
+              "url": "",
+              "title": "The Arista Networks Inc (ANET) Company: A Short SWOT Analysis",
+              "snippet": "Arista Networks Inc filed its SEC 10-Q on October 31, 2023, revealing a strong financial performance. The company's total revenue for the nine months ended September 30, 2023, was $4.32 million ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:45.167637+00:00",
+              "published_date": null,
+              "source_hash": "5c7468926045885fba686efce59a5a94"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks: Priced For Perfection, And Primed For A Fall",
+              "snippet": "Financial writer recommends selling Arista Networks due to high valuation, lack of recurring revenue, and inventory risks.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:48.568635+00:00",
+              "published_date": "2024-12-27T19:56:00+00:00",
+              "source_hash": "0b94d1a5a0a3765ff71bcdcb3e6a6c7f"
+            },
+            {
+              "url": "",
+              "title": "Arista Soars 93% in Past Year: Can ANET Stock Sustain This Pace?",
+              "snippet": "Arista Networks, Inc. ANET has surged 93.1% over the past ... Moreover, the redesigning of products and their supply chain mechanism has eroded margins. The company is witnessing increased demand ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:48.568679+00:00",
+              "published_date": "2025-01-03T20:00:00+00:00",
+              "source_hash": "56a12b82bf2e058dd8957e517f437c26"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. (NYSE:ANET) Rides AI Wave to Q4 Revenue Boost, Networking Equipment Demand Surges as Data Centers Scale",
+              "snippet": "In this article, we are going to take a look at where Arista Networks, Inc. (NYSE:ANET) stands against other trending AI stocks on the latest analyst ratings and news. CNBC's Deidre Bosa joined ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:48.568689+00:00",
+              "published_date": "2024-11-08T23:45:00+00:00",
+              "source_hash": "f6b1fbfcd72b9ef3dfaf69f7739d69da"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks (ANET) Poised to Benefit from NVIDIA's AI Growth, Evercore Highlights Ethernet Demand Surge",
+              "snippet": "we are going to take a look at where Arista Networks, Inc. (NYSE:ANET) stands against the other AI stocks that are making waves on Wall Street. Data centers are at the heart of the AI disruption ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Arista Networks Inc Arista Networks Inc supply chain disruptions 2023",
+              "retrieved_at": "2025-01-06T16:53:48.568698+00:00",
+              "published_date": "2024-11-23T15:26:00+00:00",
+              "source_hash": "01608236f7d96b716444e2c145428e88"
+            },
+            {
+              "url": "",
+              "title": "Decoding Arista Networks Inc (ANET): A Strategic SWOT Insight",
+              "snippet": "Customer Concentration Risk: Arista Networks Inc's financial success is heavily reliant on a limited number of large customers, such as Microsoft and Meta Platforms. This concentration poses a ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241495+00:00",
+              "published_date": null,
+              "source_hash": "05446ef5a5249714a191ac862424fd56"
+            },
+            {
+              "url": "",
+              "title": "Decoding Arista Networks Inc (ANET): A Strategic SWOT Insight",
+              "snippet": "Customer Concentration Risks: Arista Networks Inc faces risks associated with customer concentration, as a significant portion of its revenue is derived from a limited number of large customers ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241692+00:00",
+              "published_date": null,
+              "source_hash": "bb8dad0e7d138893af671723ce919c41"
+            },
+            {
+              "url": "",
+              "title": "Decoding Arista Networks Inc (ANET): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Customer Concentration Risks: Arista Networks Inc (ANET, Financial) faces risks associated with customer concentration, as a significant portion of its revenue is derived from a limited number of large customers. This reliance on key clients, such as Microsoft and Meta Platforms, introduces potential volatility in revenue streams. Should any of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241748+00:00",
+              "published_date": null,
+              "source_hash": "ff6134a47014fd69f610c809982e171a"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks Marketing Strategy | Industry Insights",
+              "snippet": "Arista Networks major clients include renowned tech giants like Microsoft and Meta Platforms. These corporations significantly contribute to Arista's revenue, posing a customer concentration risk. Approximately 75% of sales in North America stem from a small pool of these significant clients.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241782+00:00",
+              "published_date": null,
+              "source_hash": "69d53a29a15b24809e63c116cc3da0eb"
+            },
+            {
+              "url": "",
+              "title": "Decoding Arista Networks Inc (ANET): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "In conclusion, Arista Networks Inc (ANET, Financial) exhibits a strong market position and financial stability, driven by its innovative EOS platform and leadership in high-speed Ethernet port shipments. However, the company must address weaknesses such as customer concentration and supply chain vulnerabilities to sustain its growth.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241807+00:00",
+              "published_date": null,
+              "source_hash": "3c4e8cc4c182150c61aafd879e72ffb2"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks' Competitive Advantages In The Networking Market Make ...",
+              "snippet": "Arista Networks has a high customer and segment concentration risk, and with Meta and Microsoft each contributing over 10% of revenue, the customer concentration risk is amplified.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241853+00:00",
+              "published_date": null,
+              "source_hash": "db18bed2a54211ca17d1e9cdafc2fdc3"
+            },
+            {
+              "url": "",
+              "title": "Decoding Arista Networks Inc (ANET): A Strategic SWOT Insight - GuruFocus",
+              "snippet": "Robust revenue growth with a significant increase in net income year-over-year.Strong market position with innovative cloud networking solutions and a focus on",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241874+00:00",
+              "published_date": null,
+              "source_hash": "404705d2b07986adf65da9fa50fd3eba"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks, Inc. SEC 10-Q Report \u2014 TradingView News",
+              "snippet": "Arista Networks, Inc., a leading provider of cloud networking solutions, has released its Form 10-Q report for the quarter ended September 30, 2024. The report highlights significant financial growth, strategic initiatives, and the challenges the company faces in the evolving market landscape. ... Market Risks: Customer Concentration: Large ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241895+00:00",
+              "published_date": null,
+              "source_hash": "700a90ab2d72f5bb47e087f582a2542d"
+            },
+            {
+              "url": "",
+              "title": " Year End 2019 Financial Results Arista Networks, Inc. Reports Fourth ...",
+              "snippet": "Arista Networks, Inc. Reports Fourth Quarter and Year End 2019 Financial Results ... Arista's customer concentration; our ability to attract new large end customers or sell additional products and ... Additional risks and uncertainties that could aect Arista can be found in our most recent Quarterly Report on Form 10-Q led with the SEC on ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:51.241930+00:00",
+              "published_date": null,
+              "source_hash": "fd346195ffa2c0f4f2cf3cb639f1b31d"
+            },
+            {
+              "url": "",
+              "title": "Uncover the Reason: Why Arista Networks Inc (ANET) Stock Is Trading 103.35% Above Its 52-Week Low?",
+              "snippet": "Arista Networks Inc (ANET) stock saw a modest uptick, ending the day at $115.2 which represents a slight increase of $3.41 or 3.05% from the prior close of $111.79. The stock opened at $112.48 and touched a low of $112.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:53.692092+00:00",
+              "published_date": "2025-01-06T16:15:00+00:00",
+              "source_hash": "8b326418a76136470f9b7c4d8fbb936d"
+            },
+            {
+              "url": "",
+              "title": "Arista Soars 93% in Past Year: Can ANET Stock Sustain This Pace?",
+              "snippet": "Arista Networks, Inc. ANET has surged 93.1% over the past year compared with the communication components industry's growth of 75.3%. It has also outperformed its peers like Juniper Networks, Inc. JNPR and Cisco Systems,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:53.692194+00:00",
+              "published_date": "2025-01-03T21:12:00+00:00",
+              "source_hash": "6666086294fc69e17426575ccb022768"
+            },
+            {
+              "url": "",
+              "title": "Arista Networks stock soars past big tech rival Cisco",
+              "snippet": "Arista Networks Inc. (NYSE: ANET) may not be as well known among tech investors as Cisco (NASDAQ: CSCO), but it's outperformed its larger rival by a wide margin in the past year. Arista posted fourth-quarter results that topped analysts' views after the closing bell on February 12.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:53.692223+00:00",
+              "published_date": "2001-01-01T00:00:00+00:00",
+              "source_hash": "be4f0dbe3fb5bb6754cb8fa3973d1d8f"
+            },
+            {
+              "url": "",
+              "title": "Why Did Arista Networks Inc (ANET) Stock Plunge -2.49% Last Week?",
+              "snippet": "Arista Networks Inc (ANET) stock saw a modest uptick, ending the day at $111.79 which represents a slight increase of $1.26 or 1.14% from the prior close of $110.53. The stock opened at $111.39 and touched a low of $109.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:53.692246+00:00",
+              "published_date": "2025-01-03T16:07:00+00:00",
+              "source_hash": "af3f3213509c25eec56f3a3adf5b3007"
+            },
+            {
+              "url": "",
+              "title": "Is Arista Networks (ANET) the Best Computer Hardware Stock to Invest In Right Now?",
+              "snippet": "In this article, we are going to take a look at where Arista Networks, Inc. (NYSE:ANET ... to more appropriate position sizes given the risk/reward offered.\" Overall, ANET ranks 2nd on our ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Arista Networks Inc Arista Networks Inc customer concentration risks",
+              "retrieved_at": "2025-01-06T16:53:53.692268+00:00",
+              "published_date": "2024-12-13T13:52:00+00:00",
+              "source_hash": "0fe846acfeb6ce1f5a55ad9dfba1cd5d"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Arista Networks Inc patent litigation history",
+              "rationale": "Investigate ongoing or past legal disputes, particularly with competitors like Cisco, to assess potential financial and operational risks.",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "Arista Networks Inc supply chain disruptions 2023",
+              "rationale": "Examine recent supply chain challenges, especially in the semiconductor industry, to understand their impact on production and revenue.",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "Arista Networks Inc customer concentration risks",
+              "rationale": "Assess the potential risks associated with reliance on a small number of large customers, which could affect financial stability if relationships change.",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T09:54:11.020144",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

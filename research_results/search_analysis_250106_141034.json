@@ -1,0 +1,524 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T14:10:34.237692",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "ANI Pharmaceuticals Inc.",
+      "symbol": "ANIP",
+      "analysis": {
+        "historical": {
+          "risk_score": 60,
+          "key_risks": [
+            "Regulatory risks related to FDA compliance and potential product recalls",
+            "Pricing pressures in the highly competitive generic pharmaceutical market",
+            "Litigation risks from ongoing patent and antitrust cases",
+            "Dependence on a few key products for revenue"
+          ],
+          "controversies": [
+            "Litigation involving Memantine and Donepezil Hydrochlorides Extended-Release Capsules",
+            "Patent litigation and antitrust cases"
+          ],
+          "environmental_issues": [],
+          "social_issues": [],
+          "governance_issues": [],
+          "recommendation": "caution",
+          "confidence_score": 80
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch - GlobeNewswire",
+              "snippet": "ANI Pharmaceuticals, Inc. (Nasdaq: ANIP) is a diversified biopharmaceutical company committed to its mission of \"Serving Patients, Improving Lives\" by developing, manufacturing, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072263+00:00",
+              "published_date": null,
+              "source_hash": "fef8b90bb2488260e98afbe26e4e1bfb"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of ...",
+              "snippet": "PRINCETON, N.J., Jan. 02, 2025 (GLOBE NEWSWIRE) -- ANI Pharmaceuticals, Inc. (ANI or the Company) (Nasdaq: ANIP) today announced that following final approval from the U.S. Food and Drug ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014209+00:00",
+              "published_date": null,
+              "source_hash": "659a25cac920e089ed20ec71ed155fba"
+            },
+            {
+              "url": "",
+              "title": " ANDA 208237 ANDA APPROVAL/TENTATIVE APPROVAL - Food and Drug Administration",
+              "snippet": "this ANDA. You have notified the Agency that ANI Pharmaceuticals, Inc. (ANI) complied with the requirements of section 505(j)(2)(B) of the FD&C Act. With respect to your Memantine and Donepezil Hydrochlorides Extended-Release Capsules, 28 mg/10 mg, litigation was initiated within the statutory 45-day period against ANI for infringement of",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072393+00:00",
+              "published_date": null,
+              "source_hash": "77c11b3e8ced0d2df84afb0cecfb72bc"
+            },
+            {
+              "url": "",
+              "title": "ANI gets FDA approval for generic Motegrity - MSN",
+              "snippet": "The FDA has approved ANI Pharmaceuticals' (NASDAQ:ANIP) market application for prucalopride tablets, a generic version of Takeda's (NYSE:TAK) Motegrity. ANI's formulation will enjoy 180 days of ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072406+00:00",
+              "published_date": null,
+              "source_hash": "b83762f8d2b1c30e675ecf82e922de5a"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Launches Prucalopride Tablets Following FDA ...",
+              "snippet": "ANI Pharmaceuticals, Inc. announced the launch of its Prucalopride Tablets, a generic version of the drug Motegrity\u00ae, following final FDA approval of their Abbreviated New Drug Application.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010277+00:00",
+              "published_date": null,
+              "source_hash": "e06a4ffcf9ba29fc6b22cbe2a8f0a7c4"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Secures FDA Approval and Launches Prucalopride ...",
+              "snippet": "ANI Pharmaceuticals, Inc. (Nasdaq: ANIP) has announced the successful launch of its generic Prucalopride Tablets, following final approval from the U.S. Food and Drug Administration (FDA) for its Abbreviated New Drug Application (ANDA). Prucalopride is the generic equivalent of the reference listed drug (RLD) Motegrity. This launch is notable not only for the introduction of a new treatment ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010350+00:00",
+              "published_date": null,
+              "source_hash": "fbba483cfaea898f18ee56c8deaa17bf"
+            },
+            {
+              "url": "",
+              "title": "FTC Approves Final Order Requiring Generic Drug Marketers ANI ...",
+              "snippet": "Following a public comment period, the Federal Trade Commission has approved a final order settling charges that ANI Pharmaceuticals, Inc.'s $210 million acquisition of Novitium Pharma LLC violated federal antitrust laws.. First announced in November 2021, the complaint alleged that the acquisition as proposed likely would have harmed competition in the U.S. markets for generic SMX-TMP oral ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072436+00:00",
+              "published_date": null,
+              "source_hash": "8a521252cc75055840164157f9b999a8"
+            },
+            {
+              "url": "",
+              "title": "Settlement Reached in ANI Pharmaceuticals Antitrust Lawsuit",
+              "snippet": "The Federal Trade Commission announced in a press release Wednesday approval of the final order settling charges that the $210 million acquisition of Novitium Pharma LLC by ANI Pharmaceuticals Inc ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072446+00:00",
+              "published_date": null,
+              "source_hash": "3e8bb7eeb49635dde12124799f6c9215"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals",
+              "snippet": "ANI Pharmaceuticals, Inc. is a diversified bio-pharmaceutical company serving patients in need by developing, manufacturing, and marketing high quality branded and generic prescription pharmaceutical products. RECENT NEWS. ANI Pharmaceuticals Announces the FDA Approval and Launch of Prucalopride Tablets with 180-Day CGT Exclusivity",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072454+00:00",
+              "published_date": null,
+              "source_hash": "d149ddcc96f0bce858bc15cf1d3baf70"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Reports Record Third Quarter 2024 Financial Results ...",
+              "snippet": "ANI Pharmaceuticals, Inc. and Subsidiaries. Table 2: US GAAP Balance Sheets (unaudited, in thousands) September 30, 2024. December 31, 2023. Current Assets . Cash and cash equivalents $ 144,982 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:06.072464+00:00",
+              "published_date": null,
+              "source_hash": "eff7b45f11527b1440bd18145a25789c"
+            },
+            {
+              "url": "",
+              "title": "Ani Pharmaceuticals",
+              "snippet": "ANI Pharmaceuticals, Inc. is a bio-pharmaceutical company, which engages in developing, manufacturing, and marketing branded and generic prescription pharmaceuticals. Its areas of product ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:08.536201+00:00",
+              "published_date": "2025-01-03T21:00:00+00:00",
+              "source_hash": "9a1c7838bbe9b3e4d8d7b48805e037a0"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of Prucalopride Tablets with 180-Day CGT Exclusivity",
+              "snippet": "PRINCETON, N.J., Jan. 02, 2025 (GLOBE NEWSWIRE) -- ANI Pharmaceuticals, Inc. (ANI or the Company ... harbor provisions of the Private Securities Litigation Reform Act of 1995.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. patent litigation cases",
+              "retrieved_at": "2025-01-06T21:10:08.536280+00:00",
+              "published_date": "2025-01-02T11:50:00+00:00",
+              "source_hash": "18de1a09ffa92c87484e10fd145a7f33"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals, Inc. (NASDAQ:ANIP) Given Average Rating of \"Buy\" by Analysts",
+              "snippet": "ANI Pharmaceuticals, Inc. (NASDAQ:ANIP - Get Free Report) has been assigned an average rating of \"Buy\" from the eight analysts that are currently covering the company, Marketbeat Ratings reports. One investment analyst has rated the stock with a hold ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:14.762107+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "9fd260ed4cc3ea07ff3da8d933cb5c77"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals introduces US FDA approved prucalopride tablets",
+              "snippet": "ANI Pharmaceuticals, Inc., a diversified biopharmaceutical company, announced that following final approval from the US Food and Drug Administration (FDA) for its Abbreviated New Drug Application (ANDA), the company has launched prucalopride tablets.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:20.611431+00:00",
+              "published_date": "2025-01-03T14:00:00+00:00",
+              "source_hash": "33d924db1cab0004c32e5f49f7b32f6b"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharma Launches FDA-Approved Prucalopride Tablets With 180-Day CGT Exclusivity",
+              "snippet": "ANI Pharmaceuticals, Inc. (ANIP) announced Thursday the launch of Prucalopride Tablets, which is the generic version of the reference",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:14.762098+00:00",
+              "published_date": "2025-01-02T12:15:00+00:00",
+              "source_hash": "14430222e1da65b9be787fec4e16a418"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of ...",
+              "snippet": "PRINCETON, N.J., Jan. 02, 2025 (GLOBE NEWSWIRE) -- ANI Pharmaceuticals, Inc. (ANI or the Company) (Nasdaq: ANIP) today announced that following final approval from the U.S. Food and Drug Administration (FDA) for its Abbreviated New Drug Application (ANDA), the Company has launched Prucalopride",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010160+00:00",
+              "published_date": null,
+              "source_hash": "2e2517a6bbffd418ec9a12d6478c85c7"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of ...",
+              "snippet": "ANI Pharmaceuticals, Inc. (Nasdaq: ANIP) is a diversified biopharmaceutical company committed to its mission of \"Serving Patients, Improving Lives\" by developing, manufacturing, and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010264+00:00",
+              "published_date": null,
+              "source_hash": "771d343ce54b3d932393a303145c2a5b"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals",
+              "snippet": "ANI Pharmaceuticals is an integrated specialty pharmaceutical company developing, manufacturing, and marketing high quality branded and generic prescription pharmaceuticals. ... ANI Pharmaceuticals Announces the FDA Approval and Launch of Prucalopride Tablets with 180-Day CGT Exclusivity 2025-01-02. READ MORE > ANI Pharmaceuticals to Present at ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010289+00:00",
+              "published_date": null,
+              "source_hash": "acb1cba40b443111154128523658203d"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces FDA Approval and Imminent Launch of ...",
+              "snippet": "BAUDETTE, Minn.--(BUSINESS WIRE)--Jun. 22, 2022-- ANI Pharmaceuticals, Inc. (ANI or the Company) (Nasdaq: ANIP) today announced that the Company received U.S. Food and Drug Administration (FDA) approval for the Abbreviated New Drug Application (ANDA) for Clorazepate Dipotassium Tablets. ANI's Clorazepate Dipotassium Tablets are the generic version of the Reference Listed Drug (RLD) Tranxene \u00ae.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010298+00:00",
+              "published_date": null,
+              "source_hash": "159a40fbc70256e73c43e83e25b071ce"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "this ANDA. You have notified the Agency that ANI Pharmaceuticals, Inc. (ANI) complied with the requirements of section 505(j)(2)(B) of the FD&C Act. With respect to your Memantine and Donepezil Hydrochlorides Extended-Release Capsules, 28 mg/10 mg, litigation was initiated within the statutory 45-day period against ANI for infringement of",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010311+00:00",
+              "published_date": null,
+              "source_hash": "772acded4641d9da9fdb449ce3bb88b6"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Inc (ANIP) Launches Generic Prucalopride Tab",
+              "snippet": "On January 2, 2025, ANI Pharmaceuticals Inc (ANIP, Financial) announced the launch of Prucalopride Tablets, a generic version of the reference listed drug Motegrity\u00ae, following final approval from the U.S. Food and Drug Administration (FDA).The FDA has granted ANI's Prucalopride Tablets a Competitive Generic Therapy (CGT) designation, providing 180-day exclusivity.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010321+00:00",
+              "published_date": null,
+              "source_hash": "6b9d37ecca74b1276ff5a902807b8973"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Launches Prucalopride Tablets Following FDA ...",
+              "snippet": "ANI Pharmaceuticals, Inc. announced the launch of its Prucalopride Tablets, a generic version of the drug Motegrity\u00ae, following final FDA approval of their Abbreviated New Drug Application. ... delays or failures in retaining and obtaining continuing and future product approvals from the FDA, and other regulatory issues relating to the Company ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010331+00:00",
+              "published_date": null,
+              "source_hash": "83a3e3324d5abaa3cae2e4afd6658b3b"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of ...",
+              "snippet": "PRINCETON, N.J., Jan. 02, 2025 (GLOBE NEWSWIRE) -- ANI Pharmaceuticals, Inc. (ANI or the Company) (Nasdaq: ANIP) today announced that following final approval from the U.S. Food and Drug Administration (FDA) for its Abbreviated New Drug Application (ANDA), the Company has launched Prucalopride Tablets. ANI's Prucalopride Tablets is the generic version of the reference listed drug (RLD ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:12.010341+00:00",
+              "published_date": null,
+              "source_hash": "157a22008c519475f0d0eb98386d59e4"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of Prucalopride Tablets with 180-Day CGT Exclusivity",
+              "snippet": "ANI Pharmaceuticals, Inc. (ANI or the Company) (Nasdaq: ANIP) today announced that following final approval from the U.S. Food and Drug Administration (FDA) for its Abbreviated New Drug ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:14.761985+00:00",
+              "published_date": "2025-01-02T11:50:00+00:00",
+              "source_hash": "6d98eef34bac43ad264e380b2ca0c96d"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Launches Prucalopride Tablets Following FDA Approval",
+              "snippet": "ANI Pharmaceuticals, Inc. announced the launch of its ... continuing and future product approvals from the FDA, and other regulatory issues relating to the Company's business and products ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. FDA compliance issues",
+              "retrieved_at": "2025-01-06T21:10:14.762088+00:00",
+              "published_date": "2025-01-02T12:00:00+00:00",
+              "source_hash": "20347e75044c46a360d90a46752020a9"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals price target raised to $62 from $60 at Truist",
+              "snippet": "Truist raised the firm's price target on ANI Pharmaceuticals (ANIP) to $62 from $60 and keeps a Hold rating on the shares as part of a broader research note previewing Q3 results in BioPharma ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014068+00:00",
+              "published_date": null,
+              "source_hash": "90b9ee87e6401eb756bc068f573e30aa"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals, Inc. (ANIP) - Yahoo Finance",
+              "snippet": "Find the latest ANI Pharmaceuticals, Inc. (ANIP) stock quote, history, news and other vital information to help you with your stock trading and investing.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014172+00:00",
+              "published_date": null,
+              "source_hash": "f2f6163f8a6fe4cf0e39032070d3f194"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of ...",
+              "snippet": "ANI continues to hold the second-highest number of CGT approvals in the U.S. Generics market,\" stated Nikhil Lalwani, President and Chief Executive Officer of ANI. U.S. annual sales for Prucalopride Tablets total approximately $168.0 million, based on October 2024 moving annual total (MAT) IQVIA data. About ANI Pharmaceuticals, Inc.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014186+00:00",
+              "published_date": null,
+              "source_hash": "ff8c832f8176fea73cd1051949c1dcc5"
+            },
+            {
+              "url": "",
+              "title": "Ani Pharmaceuticals | ANIP Stock Price, Company Overview & News - Forbes",
+              "snippet": "ANI Pharmaceuticals, Inc. is a bio-pharmaceutical company, which engages in developing, manufacturing, and marketing branded and generic prescription pharmaceuticals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014198+00:00",
+              "published_date": null,
+              "source_hash": "9148bf197bfeb759baaf13adc122d6a9"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals, Inc. (ANIP) Company Profile & Overview - Stock ...",
+              "snippet": "ANI Pharmaceuticals, Inc., a biopharmaceutical company, develops, manufactures, and markets branded and generic prescription pharmaceuticals in the United States and Canada. The company manufactures oral solid dose products; semi-solids, liquids, and topicals; controlled substances; and potent products, as well as performs contract development ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014218+00:00",
+              "published_date": null,
+              "source_hash": "288775a7495b209b1fe386fd7a55ea9e"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharma Inc (ANIP-Q) Stock Price and News - The ... - The Globe and Mail",
+              "snippet": "Real-time Price Updates for ANI Pharma Inc (ANIP-Q), along with buy or sell indicators, analysis, charts, historical performance, news and more ... ANI Pharmaceuticals, Inc., formerly known as ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014229+00:00",
+              "published_date": null,
+              "source_hash": "bac93e6f3c922d6e5ecaf1cb2321cf91"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals: Buy Rating Backed by Consistent Revenue Growth ...",
+              "snippet": "ANI Pharmaceuticals, Inc. is a pharmaceutical company, which engages in developing, manufacturing, and marketing branded and generic prescription pharmaceuticals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014238+00:00",
+              "published_date": null,
+              "source_hash": "c050279dd737a0f583ffa81f54d61473"
+            },
+            {
+              "url": "",
+              "title": "Buy Rating Affirmed: ANI Pharmaceuticals ... - Markets Insider",
+              "snippet": "ANI Pharmaceuticals, Inc. is a pharmaceutical company, which engages in developing, manufacturing, and marketing branded and generic prescription pharmaceuticals.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014246+00:00",
+              "published_date": null,
+              "source_hash": "e44be15f7503d0ad14721eb6b4ced843"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals launches Prucalopride Tablets after FDA ... - Nasdaq",
+              "snippet": "Try Now>>Read More on ANIP:ANI Pharmaceuticals initiated with an Outperform at LeerinkANI Pharmaceuticals Advances Amidst Regulatory and Market ChallengesANI Pharmaceuticals' Record Growth and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:18.014255+00:00",
+              "published_date": null,
+              "source_hash": "909863fcb85138fbb533846615e987a3"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Announces the FDA Approval and Launch of Prucalopride Tablets with 180-Day CGT Exclusivity",
+              "snippet": "PRINCETON, N.J., Jan. 02, 2025 (GLOBE NEWSWIRE) -- ANI Pharmaceuticals, Inc. (ANI or the Company) (Nasdaq: ANIP) today announced that following final approval from the U.S. Food and Drug ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:20.611351+00:00",
+              "published_date": "2025-01-02T11:50:00+00:00",
+              "source_hash": "afe445b2c2a9f7dc16df690cf95f1e1b"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals, Inc. (NASDAQ:ANIP) Given Average Rating of \"Buy\" by Analysts",
+              "snippet": "Piper Sandler initiated coverage on ANI Pharmaceuticals in a research report on Friday, October 11th. They issued an \"overweight\" rating and a $68.00 price target for the company. Leerink Partners started coverage on ANI Pharmaceuticals in a report on ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:20.611445+00:00",
+              "published_date": "2024-12-27T00:00:00+00:00",
+              "source_hash": "e7e9ec4b1d58dda81d29f660b7c959a6"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals Launches Prucalopride Tablets Following FDA Approval",
+              "snippet": "ANI Pharmaceuticals ... the Company is, or may become, a party, including in connection with the acquisition and integration thereof, (viii) volatility in the Company's stock price, including ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:20.611456+00:00",
+              "published_date": "2025-01-02T12:00:00+00:00",
+              "source_hash": "257615c2cdc0cfe2a5251312f6e65141"
+            },
+            {
+              "url": "",
+              "title": "ANI Pharmaceuticals to Present at the 43rd Annual J.P. Morgan Healthcare Conference",
+              "snippet": "PRINCETON, N.J., Dec. 30, 2024 (GLOBE NEWSWIRE) -- ANI Pharmaceuticals, Inc. (\"ANI\" or the \"Company\") (Nasdaq: ANIP) today announced that Nikhil Lalwani ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "ANI Pharmaceuticals Inc. ANI Pharmaceuticals Inc. pricing controversies",
+              "retrieved_at": "2025-01-06T21:10:20.611466+00:00",
+              "published_date": "2024-12-30T21:05:00+00:00",
+              "source_hash": "74b1953a234ca9eac2da22f95309fbfa"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "ANI Pharmaceuticals Inc. patent litigation cases",
+              "rationale": "Investigate ongoing or past patent disputes that could impact financial stability",
+              "priority": 1
+            },
+            {
+              "category": "financial_legal",
+              "query": "ANI Pharmaceuticals Inc. FDA compliance issues",
+              "rationale": "Examine regulatory compliance history to identify potential risks related to product approvals or recalls",
+              "priority": 2
+            },
+            {
+              "category": "ethical_social",
+              "query": "ANI Pharmaceuticals Inc. pricing controversies",
+              "rationale": "Assess public and regulatory scrutiny over drug pricing practices, which could affect reputation and profitability",
+              "priority": 3
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T14:10:34.237700",
+        "data_confidence": 80,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}

@@ -1,0 +1,542 @@
+{
+  "meta": {
+    "timestamp": "2025-01-06T08:48:24.257137",
+    "version": "1.0",
+    "type": "search_analysis"
+  },
+  "companies": [
+    {
+      "company_name": "Metropolitan Bank Holding Corp",
+      "symbol": "MCB",
+      "analysis": {
+        "historical": {
+          "risk_score": 70,
+          "key_risks": [
+            "Regulatory and compliance issues, including $30 million in fines for violations of customer identification rules and deficient third-party risk management practices",
+            "Cybersecurity risks due to reliance on digital banking platforms and third-party service providers",
+            "Economic sensitivity tied to the New York metropolitan area, increasing vulnerability to regional downturns",
+            "Intense competition from traditional banks and fintech companies, threatening market share and profitability",
+            "Stock volatility and investor concerns following a 27.6% drop in March 2023"
+          ],
+          "controversies": [
+            "Fined $30 million by the Federal Reserve and New York State Department of Financial Services for regulatory violations",
+            "Allegations of breach of contract and breach of good faith and fair dealing in legal disputes"
+          ],
+          "environmental_issues": [],
+          "social_issues": [
+            "Focus on underserved markets, such as minority-owned businesses and startups, which could drive growth but also increase operational risks"
+          ],
+          "governance_issues": [
+            "Regulatory deficiencies in anti-money laundering (AML) and third-party vendor oversight",
+            "Heavy reliance on third-party vendors for core banking systems and cybersecurity, increasing operational risks"
+          ],
+          "recommendation": "caution",
+          "confidence_score": 85
+        },
+        "evidence": {
+          "sources": [
+            {
+              "url": "",
+              "title": "Federal Reserve Board issues enforcement action and fines Metropolitan ...",
+              "snippet": "The Federal Reserve Board on Thursday issued an enforcement action and fined Metropolitan Commercial Bank, of New York, New York, approximately $14.5 million for violations of customer identification rules and for deficient third-party risk management practices relating to the bank's issuance of prepaid card accounts.",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582190+00:00",
+              "published_date": null,
+              "source_hash": "61cb814bebadad127e57c43e87b122ea"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Commercial Bank",
+              "snippet": "Metropolitan Bank Holding Corp. (NYSE: MCB), the holding company for Metropolitan Commercial Bank (the \"Bank\"), today announced that the Bank has entered into Consent Orders with the Board of Governors of the Federal Reserve System (the \"Federal Reserve\") and the New York State Department of Financial Services (\"DFS\") to resolve Federal Reserve and DFS concerns related to the Bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572230+00:00",
+              "published_date": null,
+              "source_hash": "f8781d09e10bbf2be5f47e5324940646"
+            },
+            {
+              "url": "",
+              "title": "Superintendent Adrienne A. Harris Announces $15 Million Penalty On ...",
+              "snippet": "Superintendent of Financial Services Adrienne A. Harris announced today that Metropolitan Commercial Bank (\"MCB\" or the \"Bank\") has agreed to pay $15 million in penalties pursuant to a Consent Order entered into with the New York State Department of Financial Services (\"DFS\" or the \"Department\").",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582311+00:00",
+              "published_date": null,
+              "source_hash": "892d9343f2c8f4084d3f0bbc2bb4870d"
+            },
+            {
+              "url": "",
+              "title": "Severe enforcement actions issued to US banks nearly ... - S&P Global",
+              "snippet": "Under the Oct. 16 order to cease and desist and order of assessment of a civil money penalty, the Metropolitan Bank Holding Corp. subsidiary will pay a civil money penalty of about $14.5 million. ... Regulatory websites may refer to certain cease and desist orders issued by federal regulators as consent agreements. However, cease and desist and ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582324+00:00",
+              "published_date": null,
+              "source_hash": "9f78b5eb51c1b929b02469ac5f7b657a"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. - SEC.gov",
+              "snippet": "Metropolitan Bank Holding Corp. ... penalties, or other negative effects (including reputational harm) of any adverse judicial, administrative, or arbitral rulings or proceedings, regulatory enforcement actions, or other legal actions to which we or any of our subsidiaries are a party, and which may adversely affect our results; ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582336+00:00",
+              "published_date": null,
+              "source_hash": "708f42de55decd7092001668cd8f20fc"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Commercial's $30m fine - Global Relay Intelligence ...",
+              "snippet": "Last Thursday, Metropolitan Bank Holding Corp., the holding company for Metropolitan Commercial Bank (MCB), entered into consent orders with the Board of Governors of the Federal Reserve System and NYDFS - the state supervisor of Metropolitan - to resolve concerns related to the bank's relationship with a program manager that processed ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572225+00:00",
+              "published_date": null,
+              "source_hash": "41a791c0a7688ccd5d47e76d7ea6c509"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (Form: S-1, Received: 10/04/2017 16:35:04)",
+              "snippet": "This is the initial public offering of common stock by Metropolitan Bank Holding Corp., the holding company for Metropolitan Commercial Bank, a New York state- chartered commercial bank headquartered in New York, New York. ... additional regulatory scrutiny or penalties; or our exposure to civil litigation and possible financial liability ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582358+00:00",
+              "published_date": null,
+              "source_hash": "f2fece22e4dfcd8270888e9b288f863d"
+            },
+            {
+              "url": "",
+              "title": "METROPOLITAN BANK HOLDING CORP. - EDGAR Online",
+              "snippet": "Metropolitan Bank Holding Corp. is a reporting company subject to the information, proxy solicitation, insider trading restrictions and other requirements under the Securities Exchange Act of 1934. Emerging Growth Company Status. ... additional regulatory scrutiny or penalties, or the exposure to civil litigation and possible financial ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582368+00:00",
+              "published_date": null,
+              "source_hash": "fc9ac664ff2028fd3914ec8c189b6549"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank fined $30M for violations related to pandemic-era ...",
+              "snippet": "Metropolitan Bank Holding (NYSE:MCB), the holding company of Metropolitan Commercial Bank, entered into consent orders with the Federal Reserve and New York state regulators to resolve alleged ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572213+00:00",
+              "published_date": null,
+              "source_hash": "d6d7f53249bf8cdb107d9a89ca8f5dd0"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (Form: 10-K, Received: 03/28/2018 17:17:20)",
+              "snippet": "Metropolitan Bank Holding Corp. is a reporting company subject to the information, proxy solicitation, insider trading restrictions and other requirements under the Securities Exchange Act of 1934. Emerging Growth Company Status ... additional regulatory scrutiny or penalties, or the exposure to civil litigation and possible financial liability ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:51.582389+00:00",
+              "published_date": null,
+              "source_hash": "ec1a5e26f04836a72d70ecec5556d503"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (NYSE:MCB) Shares Sold by Jane Street Group LLC",
+              "snippet": "Jane Street Group LLC decreased its position in shares of Metropolitan Bank Holding Corp. (NYSE:MCB - Free Report) by 7.7% in the 3rd quarter, HoldingsChannel.com reports. The fund owned 17,596 shares of the company's stock after selling 1,",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:59.154657+00:00",
+              "published_date": "2025-01-01T07:06:00+00:00",
+              "source_hash": "74ffbebeeb1fd5293f83752e73739f97"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp",
+              "snippet": "We sell different types of products and services to both investment professionals and individual investors. These products and services are usually sold through license agreements or subscriptions ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:53.986949+00:00",
+              "published_date": "2025-01-03T00:00:00+00:00",
+              "source_hash": "5fe778b758962b5bdb3905ec4ae8aade"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (NYSE:MCB) EVP Scott Lublin Sells 3,000 Shares of Stock",
+              "snippet": "Shares of NYSE MCB opened at $59.33 on Tuesday. Metropolitan Bank Holding Corp. has a fifty-two week low of $32.46 and a fifty-two week high of $69.56. The firm has a market capitalization of $664 ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:53.986984+00:00",
+              "published_date": "2024-12-24T00:00:00+00:00",
+              "source_hash": "e47a90a28a3c89af2dfa50ac78ee183e"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (MCB) Q4 Earnings: Taking a Look at Key Metrics Versus Estimates",
+              "snippet": "For the quarter ended December 2023, Metropolitan Bank Holding Corp. (MCB) reported revenue of $63.56 million, down 9.5% over the same period last year. EPS came in at $1.28, compared to $2.43 in ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:53.987009+00:00",
+              "published_date": "2024-01-19T00:20:00+00:00",
+              "source_hash": "d4a47b19d7c0617306b9027b3ff5f3bf"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding (MCB)",
+              "snippet": "Robert C. Patent, a director at Metropolitan Bank Holding Corp. (NYSE:MCB), recently sold 1,000 shares of common stock, according to a regulatory filing. The shares were sold at... Pamula Chaya ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp regulatory penalties",
+              "retrieved_at": "2025-01-06T15:47:53.987033+00:00",
+              "published_date": "2024-12-26T19:50:00+00:00",
+              "source_hash": "30437f4c3e2a32d8ad20bb3d4ba52c4f"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. - The Rosen Law",
+              "snippet": "In summary, the report alleged that Metropolitan Commercial Bank \"is a failed bank and that it will share the fate with the likes of SBNY [Signature Bank] and SIVB [Silicon Valley Bank].\" On this news, MCB's stock price fell $9.66 per share, or 27.6%, to close at $25.36 per share on March 30, 2023.",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572181+00:00",
+              "published_date": null,
+              "source_hash": "306eab9bdb0d1eda6cabdfa22c66e523"
+            },
+            {
+              "url": "",
+              "title": "Beck v. Metro. Bank Holding Corp. - Casetext",
+              "snippet": "Metro. Bank Holding Corp., 2:23-cv-07564 (NJC) (ARL), see flags on bad law, and search Casetext's comprehensive legal database ... alleging three New York common law claims against Chase and Metropolitan Bank Holding Corporation (\"Metropolitan\"): (1) breach of contract, (2) breach of the covenant of good faith and fair dealing, and (3 ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572220+00:00",
+              "published_date": null,
+              "source_hash": "e378cdc31be4e57b7af55e5f6887cbfb"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Commercial Bank | BBB Complaints - Better Business Bureau",
+              "snippet": "Metropolitan Commercial Bank is the issuer and settlement bank for various Program Managers, for which they have the ownership of the customers account information and transactions. The program ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572235+00:00",
+              "published_date": null,
+              "source_hash": "0407a9c6bbc83c125fb48c856da747bf"
+            },
+            {
+              "url": "",
+              "title": "INVESTIGATION ALERT: The Schall Law Firm Announces it is Investigating ...",
+              "snippet": "The report concludes that the Company \"is a failed bank and that it will share the fate\" of recent bank failures. Based on this news, shares of Metropolitan Bank fell by more than 27.5% on the ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572239+00:00",
+              "published_date": null,
+              "source_hash": "700374acbf642062ae71a8ddf16d9106"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Commercial Bank Announces Settlements with Federal Reserve ...",
+              "snippet": "Metropolitan Bank Holding Corp. (NYSE: MCB), the holding company for Metropolitan Commercial Bank (the \"Bank\"), today announced that the Bank has entered into Consent Orders with the Board of Governors of the Federal Reserve System (the \"Federal Reserve\") and the New York State Department of Financial Services (\"DFS\") to resolve Federal Reserve and DFS concerns related to the Bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572243+00:00",
+              "published_date": null,
+              "source_hash": "549c9f408f1dc44281db8289253bc05c"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp | Reuters",
+              "snippet": "Metropolitan Bank Holding Corp. Follow. 3 results. New York-based Metropolitan Commercial Bank will pay approximately $30 million in fines after it allowed \"illicit actors\" to open prepaid card ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:55.572248+00:00",
+              "published_date": null,
+              "source_hash": "8652aaa5c163d5d7716137b5c3eb408f"
+            },
+            {
+              "url": "",
+              "title": "SHAREHOLDER ALERT: Pomerantz Law Firm Investigates - GlobeNewswire",
+              "snippet": "NEW YORK, April 24, 2023 (GLOBE NEWSWIRE) -- Pomerantz LLP is investigating claims on behalf of investors of Metropolitan Bank Holding Corp. (\"MCB\" or...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696244+00:00",
+              "published_date": null,
+              "source_hash": "855306dd36e45c3e2f988f35db804e55"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding (MCB) Soars 5.3%: Is Further Upside Left in the Stock?",
+              "snippet": "Metropolitan Bank Holding Corp. (MCB) shares rallied 5.3% in the ... With a fast-growing customer base (already 50+ million) and a diverse set of cutting edge solutions, this stock is poised ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:59.154765+00:00",
+              "published_date": "2024-11-25T12:45:00+00:00",
+              "source_hash": "2fec3740a0a6225aae8d8a09c6f5aa03"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (MCB)",
+              "snippet": "NEW YORK, October 17, 2024--Metropolitan Bank Holding Corp. (the \"Company\") (NYSE: MCB), the holding company for Metropolitan Commercial Bank (the \"Bank\"), reported net income of $12.3 million ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:04.191901+00:00",
+              "published_date": "2024-12-05T00:00:00+00:00",
+              "source_hash": "67f3e589ad090758e12990c0a7696087"
+            },
+            {
+              "url": "",
+              "title": "Piper Sandler Sticks to Their Buy Rating for Metropolitan Bank Holding (MCB)",
+              "snippet": "Piper Sandler analyst Mark Fitzgibbon maintained a Buy rating on Metropolitan Bank Holding (MCB - Research Report) today and set a price target of $74.00. The company's shares closed yesterday ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:59.154839+00:00",
+              "published_date": "2024-12-13T06:07:00+00:00",
+              "source_hash": "f6e41c007ce16f13939cdebd4a646997"
+            },
+            {
+              "url": "",
+              "title": "Massachusetts Financial Services Co. MA Decreases Position in Metropolitan Bank Holding Corp. (NYSE:MCB)",
+              "snippet": "Metropolitan Bank Holding Corp. has a 12 month low of $32.46 and a 12 month high of $69.56. The company's 50-day moving average price is $57.60 and its 200-day moving average price is $50.10.",
+              "domain": "",
+              "source_type": "news",
+              "category": "ethical_social",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp controversies customer complaints",
+              "retrieved_at": "2025-01-06T15:47:59.154861+00:00",
+              "published_date": "2024-11-28T00:00:00+00:00",
+              "source_hash": "0373158cd3b80c316af3f2aca564107b"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. - SEC.gov",
+              "snippet": "Company. Metropolitan Bank Holding Corp. NYSDFS. New York State Department of Financial Services. ... system failures or cybersecurity breaches of our information technology infrastructure and/or confidential information or those of the Company's third-party service providers or those of our non-bank financial service clients for which we ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696016+00:00",
+              "published_date": null,
+              "source_hash": "e911aa160191423d6ecd7a2a6cf331cd"
+            },
+            {
+              "url": "",
+              "title": "METROPOLITAN BANK HOLDING CORP. - EDGAR Online",
+              "snippet": "system failures or cyber-security breaches of our information technology infrastructure and those of our third-party service providers; ... Metropolitan Bank Holding Corp. is a reporting company subject to the information, proxy solicitation, insider trading restrictions and other requirements under the Securities Exchange Act of 1934. ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696128+00:00",
+              "published_date": null,
+              "source_hash": "5168663b3f383bf572336777ce82043b"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. - SEC.gov",
+              "snippet": "Metropolitan Bank Holding Corp. NYSDFS. New York State Department of Financial Services. Coronavirus. COVID-19. OCC. Office of the Comptroller of the Currency ... system failures or cyber-security breaches of our information technology infrastructure or those of the Company's third-party service providers or those of our fintech partners for ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696147+00:00",
+              "published_date": null,
+              "source_hash": "93f21e812212eef2941e5dcf40ed52fa"
+            },
+            {
+              "url": "",
+              "title": "SEC.gov",
+              "snippet": "Examples of forward-looking statements include, but are not limited to, estimates with respect to the financial condition, results of operations and business of Metropolitan Bank Holding Corp. (the \"Company\") and its wholly-owned subsidiary Metropolitan Commercial Bank (the \"Bank\"), and the Company's strategies, plans, objectives ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696166+00:00",
+              "published_date": null,
+              "source_hash": "5fee539dc9e4cc89863360c0f99c0074"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. 10-K Cybersecurity GRC - 2024-02-28",
+              "snippet": "Metropolitan Bank Holding Corp. reported their cybersecurity risk management and governance process in a yearly 10-K filed on 2024-02-28 16:06:02 EST. Filings 10-K filed on 2024-02-28 Company Information Filings 10-K filed on 2024-02-28 Metropolitan Bank Holding Corp. filed a 10-K at 2024-02-28 16:06:02 EST Accession Number: 0001558370-24-001997 Note: filing items unformatted. Drop us a note ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696180+00:00",
+              "published_date": null,
+              "source_hash": "98851f07259d516f57f65007caa2e2e8"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (Form: 10-Q, Received: 05/05/2021 16:48:05)",
+              "snippet": "system failures or cyber-security breaches of our information technology infrastructure or those of the Company's third-party service providers; ... Metropolitan Bank Holding Corp., a New York corporation (the \"Company\"), is a bank holding company whose principal activity is the ownership and management of Metropolitan Commercial Bank ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696193+00:00",
+              "published_date": null,
+              "source_hash": "822dc2763f5ab609acdf5d009f2ba379"
+            },
+            {
+              "url": "",
+              "title": "PDF",
+              "snippet": "METROPOLITAN BANK HOLDING CORP. (Exact name of registrant as specified in its charter) New York 13-4042724 (State or other jurisdiction of ... system failures or cyber-security breaches of our information technology infrastructure or those of the Company's third-",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696207+00:00",
+              "published_date": null,
+              "source_hash": "63d8aa1cc9cb3d34c7f18c9826477aa6"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (Form: S-1, Received: 10/04/2017 16:35:04)",
+              "snippet": "This is the initial public offering of common stock by Metropolitan Bank Holding Corp., the holding company for Metropolitan Commercial Bank, a New York state- chartered commercial bank headquartered in New York, New York. ... have enhanced government and regulatory scrutiny of the measures taken by companies to protect against cyber-security ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696219+00:00",
+              "published_date": null,
+              "source_hash": "7e086a229056637ad25f951ade25b46e"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. - AnnualReports.com",
+              "snippet": "Metropolitan Bank Holding Corp. (NYSE: MCB) is the parent company of Metropolitan Commercial Bank (the \"Bank\"), a New York City based full-service commercial bank. The Bank provides a broad range of business, commercial and personal banking products and services to small businesses, private and public middle-market and corporate enterprises ...",
+              "domain": "",
+              "source_type": "web",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:00.696232+00:00",
+              "published_date": null,
+              "source_hash": "0a9953db87aefccb2b6695ee5a4e497c"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding (MCB)",
+              "snippet": "Metropolitan Bank Holding Corp. (NYSE:MCB) stock soared to a 52-week high, reaching $67.01, marking a significant milestone for the company's financial performance. This peak... Metropolitan Bank ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:04.191968+00:00",
+              "published_date": "2024-12-26T19:50:00+00:00",
+              "source_hash": "2d93cb4e1f0332a2d9865f8d6e715e87"
+            },
+            {
+              "url": "",
+              "title": "Metropolitan Bank Holding Corp. (NYSE:MCB) Shares Sold by Jane Street Group LLC",
+              "snippet": "Metropolitan Bank Holding Corp. has a twelve month low of $32.46 and a twelve month high of $69.56. The firm has a market cap of $653.96 million, a price-to-earnings ratio of 10.98 and a beta of 1.16.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:04.191999+00:00",
+              "published_date": "2025-01-01T00:00:00+00:00",
+              "source_hash": "b89bde5c9c6d562abcfbc0ad59a70f4a"
+            },
+            {
+              "url": "",
+              "title": "Fmr LLC Decreases Stake in Metropolitan Bank Holding Corp. (NYSE:MCB)",
+              "snippet": "Metropolitan Bank Holding Corp. has a 52-week low of $32.46 and a 52-week high of $69.56. The business's fifty day moving average is $59.52 and its 200 day moving average is $51.18.",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:04.192025+00:00",
+              "published_date": "2024-12-08T00:00:00+00:00",
+              "source_hash": "bf6b99b512b15478cd835827246a5695"
+            },
+            {
+              "url": "",
+              "title": "Verition Fund Management LLC Acquires 700 Shares of Metropolitan Bank Holding Corp. (NYSE:MCB)",
+              "snippet": "Shares of MCB opened at $65.05 on Friday. Metropolitan Bank Holding Corp. has a fifty-two week low of $32.46 and a fifty-two week high of $69.56. The firm's 50-day simple moving average is $60. ...",
+              "domain": "",
+              "source_type": "news",
+              "category": "financial_legal",
+              "query_context": "Metropolitan Bank Holding Corp Metropolitan Bank Holding Corp cybersecurity breaches",
+              "retrieved_at": "2025-01-06T15:48:04.192048+00:00",
+              "published_date": "2024-12-14T00:00:00+00:00",
+              "source_hash": "2d3ef40be462bbd19294debd37e31474"
+            }
+          ],
+          "queries": [
+            {
+              "category": "financial_legal",
+              "query": "Metropolitan Bank Holding Corp regulatory penalties",
+              "rationale": "Investigate any recent fines or penalties imposed by regulatory bodies such as the FDIC or NYDFS",
+              "priority": 1
+            },
+            {
+              "category": "ethical_social",
+              "query": "Metropolitan Bank Holding Corp controversies customer complaints",
+              "rationale": "Explore any public controversies or significant customer complaints that could impact the bank's reputation",
+              "priority": 2
+            },
+            {
+              "category": "financial_legal",
+              "query": "Metropolitan Bank Holding Corp cybersecurity breaches",
+              "rationale": "Assess the bank's history of cybersecurity incidents and their impact on customer data and trust",
+              "priority": 1
+            }
+          ]
+        },
+        "categorization": {
+          "product_issues": [],
+          "conduct_issues": [],
+          "tags": [],
+          "patterns": {}
+        }
+      },
+      "metadata": {
+        "analysis_timestamp": "2025-01-06T08:48:24.257144",
+        "data_confidence": 85,
+        "pattern_confidence": null
+      }
+    }
+  ]
+}
