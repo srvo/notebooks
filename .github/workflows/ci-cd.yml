@@ -304,6 +304,11 @@ jobs:
         S3_DATA_BUCKET=${S3_DATA_BUCKET}
         EOFENV
 
+        # Create required Docker networks
+        echo "Creating Docker networks..."
+        docker network create proxy || true
+        docker network create my_network || true
+
         # Pull latest code without overwriting .env
         git stash -u
         git pull origin main
@@ -334,12 +339,16 @@ jobs:
       run: |
         echo "Verifying deployment..."
         ssh -o StrictHostKeyChecking=no $SSH_USER@$SSH_HOST "cd $DEPLOY_PATH && \
-          docker-compose ps && \
-          docker-compose logs --tail=50 && \
+          # Create required networks
+          docker network create proxy || true && \
+          docker network create my_network || true && \
+          # Check deployment status
+          docker compose ps && \
+          docker compose logs --tail=50 && \
           echo 'Checking service health...' && \
-          for service in \$(docker-compose ps --services); do
+          for service in \$(docker compose ps --services); do
             echo \"Checking \$service...\"
-            docker-compose ps \$service | grep -q \"healthy\" || (echo \"Error: Service \$service is not healthy\"; exit 1)
+            docker compose ps \$service | grep -q \"healthy\" || (echo \"Error: Service \$service is not healthy\"; exit 1)
           done" || (echo "Error: Deployment verification failed"; exit 1)
 
     - name: Notify on failure
