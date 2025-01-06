@@ -159,18 +159,32 @@ jobs:
         docker compose -f docker-compose.fail2ban.yml -f docker-compose.override.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
         
     - name: Validate Traefik config
+      env:
+        ACTIONS_RUNNER_DEBUG: true
+        ACTIONS_STEP_DEBUG: true
       run: |
         echo "Creating Traefik configuration directories..."
         mkdir -p traefik/dynamic
         
-        echo "Copying Traefik configuration files..."
-        cp traefik/traefik.yml traefik/
-        cp traefik/dynamic/middlewares.yml traefik/dynamic/
+        echo "Listing current directory contents..."
+        ls -la
+        
+        echo "Listing traefik directory contents..."
+        ls -la traefik/
+        
+        echo "Listing traefik/dynamic directory contents..."
+        ls -la traefik/dynamic/
+        
+        echo "Contents of traefik.yml:"
+        cat traefik/traefik.yml || echo "traefik.yml not found"
+        
+        echo "Contents of middlewares.yml:"
+        cat traefik/dynamic/middlewares.yml || echo "middlewares.yml not found"
         
         echo "Validating Traefik configuration..."
-        docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
+        docker run --rm -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
           -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
-          traefik:v2.10 traefik validate --check || (echo "Error: Traefik configuration validation failed"; exit 1)
+          traefik:v2.10 traefik validate --check --debug || (echo "Error: Traefik configuration validation failed"; exit 1)
 
   test-containers:
     runs-on: ubuntu-latest
