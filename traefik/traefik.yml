@@ -2,6 +2,10 @@
 api:
   dashboard: true
   insecure: false
+  debug: false
+  http:
+    middlewares:
+      - auth
 
 ping: true
 
@@ -27,6 +31,15 @@ entryPoints:
         entryPoint:
           to: websecure
           scheme: https
+      middlewares:
+        - ratelimit
+
+http:
+  middlewares:
+    ratelimit:
+      rateLimit:
+        average: 100
+        burst: 50
 
   websecure:
     address: ":443"

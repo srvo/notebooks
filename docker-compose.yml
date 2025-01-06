@@ -57,6 +57,13 @@ services:
       - "traefik.http.middlewares.auth.basicauth.usersfile=/etc/traefik/.htpasswd"
     networks:
       - traefik_network
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.jupyter.rule=Host(`jupyter.ec1c.com`)"
+      - "traefik.http.routers.jupyter.entrypoints=websecure"
+      - "traefik.http.routers.jupyter.tls=true"
+      - "traefik.http.routers.jupyter.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.jupyter.middlewares=auth,ratelimit@file"
 
   jupyter:
     image: jupyter/datascience-notebook:latest
@@ -247,6 +254,8 @@ services:
       - AWS_DEFAULT_REGION=eu-central-1
       - AWS_ENDPOINT_URL=https://nbg1.your-objectstorage.com
       - AWS_S3_ADDRESSING_STYLE=virtual
+      - S3_DATA_BUCKET=${S3_DATA_BUCKET:-data-bucket}
+      - S3_BACKUP_BUCKET=${S3_BACKUP_BUCKET:-backup-bucket}
     volumes:
       - ./data:/data:ro
     command: sh -c "while true; do aws s3 --endpoint-url ${AWS_ENDPOINT_URL} sync /data s3://${S3_DATA_BUCKET}/; sleep 3600; done"

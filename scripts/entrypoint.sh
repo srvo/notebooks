@@ -54,6 +54,22 @@ if [ -z "${CF_TUNNEL_TOKEN}" ]; then
   exit 1
 fi
 
+if [ -z "${HETZNER_S3_ACCESS_KEY}" ] || [ -z "${HETZNER_S3_SECRET_KEY}" ]; then
+  echo "HETZNER_S3_ACCESS_KEY and HETZNER_S3_SECRET_KEY environment variables are required"
+  exit 1
+fi
+
+# Function to restart services with error handling
+restart_service() {
+    local service=$1
+    echo "Restarting $service..."
+    if ! docker-compose up -d $service; then
+        echo "Failed to restart $service"
+        return 1
+    fi
+    return 0
+}
+
 # Start core services
 echo "Starting core services..."
 docker-compose up -d traefik
