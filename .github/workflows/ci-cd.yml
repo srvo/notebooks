@@ -77,12 +77,18 @@ jobs:
     - name: Set up Docker
       uses: docker/setup-buildx-action@v2
     
-    - name: Create Docker networks
+    - name: Create Docker networks and volumes
       run: |
         echo "Creating required Docker networks..."
         docker network ls | grep -q proxy || docker network create proxy
         docker network ls | grep -q my_network || docker network create my_network
         docker network ls
+        
+        echo "Creating required Docker volumes..."
+        docker volume create searxng_config || true
+        docker volume create jupyter_data || true
+        docker volume create dagster_data || true
+        docker volume ls
     
     - name: Validate Docker Compose files
       env:
@@ -91,6 +97,7 @@ jobs:
         AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
         S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
         S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
+        CF_TUNNEL_TOKEN: ${{ secrets.CF_TUNNEL_TOKEN }}
         JUPYTER_TOKEN: order-of-ther-first-state
         JUPYTER_ENABLE_LAB: "yes"
         JUPYTER_ALLOW_ROOT: "yes"
@@ -102,9 +109,11 @@ jobs:
         # Create test environment
         mkdir -p nginx/certs cloudflared
         
-        # Verify networks exist
+        # Verify networks and volumes
         echo "Verifying Docker networks..."
         docker network ls
+        echo "Verifying Docker volumes..."
+        docker volume ls
         
         # Create .env with configuration
         cat > .env << EOL
@@ -118,14 +127,22 @@ jobs:
         AWS_ENDPOINT_URL=${AWS_ENDPOINT_URL}
         S3_BACKUP_BUCKET=${S3_BACKUP_BUCKET}
         S3_DATA_BUCKET=${S3_DATA_BUCKET}
+        CF_TUNNEL_TOKEN=${CF_TUNNEL_TOKEN}
         EOL
         
-        # Create network configuration
+        # Create network and volume configuration
         cat > docker-compose.override.yml << EOL
         networks:
           my_network:
             external: true
           proxy:
+            external: true
+        volumes:
+          searxng_config:
+            external: true
+          jupyter_data:
+            external: true
+          dagster_data:
             external: true
         EOL
         
@@ -149,7 +166,7 @@ jobs:
     - name: Set up Docker
       uses: docker/setup-buildx-action@v2
       
-    - name: Create Docker networks
+    - name: Create Docker networks and volumes
       run: |
         echo "Creating required Docker networks..."
         docker network ls | grep -q proxy || docker network create proxy
@@ -168,22 +185,32 @@ jobs:
         AWS_ENDPOINT_URL: ${{ secrets.AWS_ENDPOINT_URL }}
         S3_BACKUP_BUCKET: ${{ secrets.S3_BACKUP_BUCKET }}
         S3_DATA_BUCKET: ${{ secrets.S3_DATA_BUCKET }}
+        CF_TUNNEL_TOKEN: ${{ secrets.CF_TUNNEL_TOKEN }}
         COMPOSE_DOCKER_CLI_BUILD: 1
         DOCKER_BUILDKIT: 1
       run: |
         echo "Creating test environment..."
         mkdir -p nginx/certs cloudflared
         
-        # Verify networks exist
+        # Verify networks and volumes
         echo "Verifying Docker networks..."
         docker network ls
+        echo "Verifying Docker volumes..."
+        docker volume ls
         
-        # Create network configuration
+        # Create network and volume configuration
         cat > docker-compose.override.yml << EOL
         networks:
           my_network:
             external: true
           proxy:
+            external: true
+        volumes:
+          searxng_config:
+            external: true
+          jupyter_data:
+            external: true
+          dagster_data:
             external: true
         EOL
         
@@ -343,12 +370,25 @@ jobs:
         docker network create proxy || true
         docker network create my_network || true
 
-        # Create network configuration
+        # Create required Docker volumes
+        echo "Creating Docker volumes..."
+        docker volume create searxng_config || true
+        docker volume create jupyter_data || true
+        docker volume create dagster_data || true
+
+        # Create network and volume configuration
         cat > docker-compose.override.yml << EOL
         networks:
           my_network:
             external: true
           proxy:
+            external: true
+        volumes:
+          searxng_config:
+            external: true
+          jupyter_data:
+            external: true
+          dagster_data:
             external: true
         EOL
 
