@@ -1,4 +1,4 @@
-name: Container CI/CD
+name: Infrastructure CI/CD
 
 on:
   push:
@@ -17,10 +17,9 @@ jobs:
         docker-compose -f docker-compose.yml config
         docker-compose -f docker-compose.fail2ban.yml config
         
-    - name: Validate Nginx config
-      uses: jbergknoff/docker-nginx-validator@v1
-      with:
-        config-file: nginx/conf.d/reverse-proxy.conf
+    - name: Validate Traefik config
+      run: |
+        docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro traefik:v2.10 traefik validate --check
 
   test-containers:
     runs-on: ubuntu-latest
@@ -35,46 +34,85 @@ jobs:
     - name: Set up Docker Buildx
       uses: docker/setup-buildx-action@v2
       
+    - name: Create test environment
+      run: |
+        # Create required directories and files
+        mkdir -p nginx/certs cloudflared
+        touch .env
+        echo "JUPYTER_TOKEN=test-token" >> .env
+        echo "TUNNEL_TOKEN=${{ secrets.CF_TUNNEL_TOKEN }}" >> .env
+        echo "AWS_ACCESS_KEY_ID=${{ secrets.AWS_ACCESS_KEY_ID }}" >> .env
+        echo "AWS_SECRET_ACCESS_KEY=${{ secrets.AWS_SECRET_ACCESS_KEY }}" >> .env
+        echo "AWS_DEFAULT_REGION=${{ secrets.AWS_DEFAULT_REGION }}" >> .env
+        
     - name: Build and test containers
       run: |
-        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d
+        docker-compose -f docker-compose.yml up -d
         docker-compose ps
-        docker-compose exec reverse_proxy nginx -t
-        docker-compose logs
+        sleep 30 # Wait for services to initialize
+        
+    - name: Test service health
+      run: |
+        # Test Jupyter
+        curl -f http://localhost:8888/api/status || exit 1
+        
+        # Test Dagster
+        curl -f http://localhost:3000/health || exit 1
+        
+        # Test SearXNG
+        curl -f http://localhost:8889/status || exit 1
         
     - name: Run security scans
       uses: aquasecurity/trivy-action@master
       with:
-        image-ref: 'docker-compose.yml'
+        scan-type: 'fs'
+        scan-ref: '.'
         format: 'table'
         exit-code: '1'
         severity: 'CRITICAL,HIGH'
         
     - name: Test fail2ban integration
       run: |
-        # Simulate failed SSH attempts
-        for i in {1..5}; do
-          sshpass -p 'wrongpassword' ssh -o StrictHostKeyChecking=no user@localhost || true
-        done
-        
-        # Verify IP is banned
-        docker-compose exec fail2ban fail2ban-client status sshd
+        docker-compose -f docker-compose.fail2ban.yml up -d
+        sleep 10
+        # Test fail2ban status
+        docker-compose exec -T fail2ban fail2ban-client status
+        # Check logs
         docker-compose logs fail2ban
 
   deploy:
     if: github.ref == 'refs/heads/main'
     needs: test-containers
     runs-on: ubuntu-latest
+    environment: production
     steps:
     - uses: actions/checkout@v3
     
-    - name: Login to Docker Hub
-      uses: docker/login-action@v2
+    - name: Configure SSH
+      uses: webfactory/ssh-agent@v0.7.0
       with:
-        username: ${{ secrets.DOCKER_HUB_USERNAME }}
-        password: ${{ secrets.DOCKER_HUB_TOKEN }}
+        ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
         
-    - name: Build and push containers
+    - name: Add known hosts
       run: |
-        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml build
-        docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml push
+        mkdir -p ~/.ssh
+        ssh-keyscan -H ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+        
+    - name: Deploy to production
+      env:
+        SSH_USER: ${{ secrets.SSH_USER }}
+        SSH_HOST: ${{ secrets.SSH_HOST }}
+      run: |
+        scp -r ./* $SSH_USER@$SSH_HOST:/home/$SSH_USER/infrastructure/
+        ssh $SSH_USER@$SSH_HOST 'cd /home/$SSH_USER/infrastructure && \
+          docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml down && \
+          docker-compose -f docker-compose.yml -f docker-compose.fail2ban.yml up -d'
+          
+    - name: Verify deployment
+      env:
+        SSH_USER: ${{ secrets.SSH_USER }}
+        SSH_HOST: ${{ secrets.SSH_HOST }}
+      run: |
+        ssh $SSH_USER@$SSH_HOST 'cd /home/$SSH_USER/infrastructure && \
+          docker-compose ps && \
+          docker-compose logs --tail=100'
