@@ -160,8 +160,17 @@ jobs:
         
     - name: Validate Traefik config
       run: |
+        echo "Creating Traefik configuration directories..."
+        mkdir -p traefik/dynamic
+        
+        echo "Copying Traefik configuration files..."
+        cp traefik/traefik.yml traefik/
+        cp traefik/dynamic/middlewares.yml traefik/dynamic/
+        
         echo "Validating Traefik configuration..."
-        docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro traefik:v2.10 traefik validate --check || (echo "Error: Traefik configuration validation failed"; exit 1)
+        docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro \
+          -e TRAEFIK_CERTIFICATESRESOLVERS_LETSENCRYPT_ACME_EMAIL=sloane@ec1c.com \
+          traefik:v2.10 traefik validate --check || (echo "Error: Traefik configuration validation failed"; exit 1)
 
   test-containers:
     runs-on: ubuntu-latest
@@ -455,3 +464,7 @@ jobs:
       run: |
         echo "Deployment failed! Check the logs for details."
         exit 1
+
+env:
+  ACTIONS_RUNNER_DEBUG: true
+  ACTIONS_STEP_DEBUG: true
