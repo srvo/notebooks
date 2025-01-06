@@ -11,6 +11,7 @@ logger = setup_logger('run_background_search', 'logs/run_background_search.log')
 
 def parse_arguments():
     """Parse command line arguments"""
+    logger.debug("Parsing command line arguments")
     parser = argparse.ArgumentParser(description='Run search flow as a background process.')
     parser.add_argument('--reset', action='store_true', help='Reset the research database.')
     parser.add_argument('--query', type=str, required=True, help='Search query to process')
@@ -30,14 +31,14 @@ def main():
     components = initialize_components()
 
     if args.reset:
-        logger.info("Resetting the research database.")
+        logger.warning("Resetting the research database.")
         DatabaseResetter(components['data_store']).reset_research_tables()
     
     try:
         components['search_flow'].process_search(args.query)
         logger.info("Background search completed successfully.")
     except Exception as e:
-        logger.error(f"Background search failed: {e}")
+        logger.critical(f"Background search failed: {e}")
 
 if __name__ == '__main__':
     main()

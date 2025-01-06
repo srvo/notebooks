@@ -14,7 +14,10 @@ class APIClient:
         try:
             response = requests.get(url, headers=self.headers, params=params)
             response.raise_for_status()
-            logger.info(f"Fetched data from {url}")
+            logger.debug(f"Fetching data from {url} with params: {params}")
+            response = requests.get(url, headers=self.headers, params=params)
+            response.raise_for_status()
+            logger.info(f"Successfully fetched data from {url}")
             return response.json()
         except requests.exceptions.RequestException as e:
             logger.error(f"API request failed: {e}")

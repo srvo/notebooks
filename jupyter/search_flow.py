@@ -11,6 +11,7 @@ class SearchFlow:
         self.api_client = api_client or APIClient()
         self.data_store = data_store or DataStore()
         self.data_processor = data_processor or DataProcessor()
+        logger.debug("Initialized SearchFlow with API client, data store, and data processor")
 
     def process_search(self, query: str):
         """Process a search query"""
@@ -31,6 +32,6 @@ class SearchFlow:
             logger.info("Database backed up to S3.")
 
         except Exception as e:
-            logger.error(f"Error in search_flow: {e}")
+            logger.critical(f"Critical error in search_flow: {e}")
             raise
 
