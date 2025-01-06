@@ -77,19 +77,10 @@ jobs:
     - name: Set up Docker Buildx
       id: buildx
       uses: docker/setup-buildx-action@v2
-    
-    - name: Set up Docker with retries
-      id: setup-docker
-      uses: nick-fields/retry@v3.0.0
       with:
-        timeout_minutes: 5
-        max_attempts: 3
-        command: |
-          docker buildx create --use --driver docker-container \
-            --driver-opt image=moby/buildkit:buildx-stable-1 \
-            --driver-opt network=host
-        shell: bash
-        on_retry_command: docker buildx prune --force --all
+        install: true
+        use: true
+        driver: docker
 
     - name: Verify Docker setup
       uses: nick-fields/retry@v3.0.0
@@ -97,7 +88,7 @@ jobs:
         timeout_minutes: 5
         max_attempts: 2
         command: |
-          if docker buildx inspect | grep -q "default"; then
+          if docker buildx inspect | grep -q "running"; then
             echo "Docker Buildx setup successful"
           else
             echo "Docker Buildx setup failed"
@@ -112,7 +103,7 @@ jobs:
           export DOCKER_BUILDKIT=1
           export BUILDKIT_PROGRESS=plain
           docker buildx prune --force --all
-          sleep 10
+          sleep 5
     
     - name: Verify Docker network connectivity
       run: |
