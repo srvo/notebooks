@@ -6,7 +6,7 @@ class DataProcessor:
     def process(self, data):
         """Process raw data into structured format"""
         try:
-            logger.debug(f"Processing data: {data}")
+            logger.debug("Processing data")
             # Add your data processing logic here
             processed_data = {
                 'processed': True,

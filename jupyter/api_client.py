@@ -8,12 +8,12 @@ class APIClient:
     def __init__(self):
         self.base_url = Config.API_BASE_URL
         self.headers = {'Authorization': f'Bearer {Config.API_KEY}'}
+        logger.debug("Initialized APIClient with base URL and headers")
 
     def fetch_data(self, endpoint: str, params: dict = None):
+        """Fetch data from API endpoint"""
         url = f"{self.base_url}/{endpoint}"
         try:
-            response = requests.get(url, headers=self.headers, params=params)
-            response.raise_for_status()
             logger.debug(f"Fetching data from {url} with params: {params}")
             response = requests.get(url, headers=self.headers, params=params)
             response.raise_for_status()

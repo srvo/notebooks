@@ -19,6 +19,7 @@ def parse_arguments():
 
 def initialize_components():
     """Initialize all application components"""
+    logger.debug("Initializing application components")
     return {
         'api_client': APIClient(),
         'data_store': DataStore(),
@@ -35,6 +36,7 @@ def main():
         DatabaseResetter(components['data_store']).reset_research_tables()
     
     try:
+        logger.info(f"Starting background search for query: {args.query}")
         components['search_flow'].process_search(args.query)
         logger.info("Background search completed successfully.")
     except Exception as e:
