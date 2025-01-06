@@ -2,12 +2,10 @@ tunnel: your-tunnel-id
 credentials-file: /etc/cloudflared/your-tunnel-id.json
 
 ingress:
-  - hostname: health.ec1c.com
-    service: http_status:200
-  - hostname: traefik.ec1c.com
+  - hostname: "*.ec1c.com"
     service: http://traefik:80
-  - hostname: whoami.ec1c.com
+  - hostname: ec1c.com
     service: http://traefik:80
-  - hostname: vw.ec1c.com
+  - hostname: www.ec1c.com
     service: http://traefik:80
   - service: http_status:404
