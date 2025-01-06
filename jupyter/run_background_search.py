@@ -12,7 +12,11 @@ def parse_arguments():
 
 def main():
     args = parse_arguments()
-    search_flow = SearchFlow()
+    # Initialize components
+    api_client = APIClient()
+    data_store = DataStore()
+    data_processor = DataProcessor()
+    search_flow = SearchFlow(api_client, data_store, data_processor)
 
     if args.reset:
         # Logic to reset the database

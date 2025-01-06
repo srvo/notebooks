@@ -1,13 +1,16 @@
 from api_client import APIClient
 from data_store import DataStore
+from data_processor import DataProcessor
 from logger import setup_logger
 
 logger = setup_logger('search_flow', 'logs/search_flow.log')
 
 class SearchFlow:
-    def __init__(self):
-        self.api_client = APIClient()
-        self.data_store = DataStore()
+    def __init__(self, api_client: APIClient = None, data_store: DataStore = None, 
+                 data_processor: DataProcessor = None):
+        self.api_client = api_client or APIClient()
+        self.data_store = data_store or DataStore()
+        self.data_processor = data_processor or DataProcessor()
 
     def process_search(self, query: str):
         """Process a search query"""
@@ -16,8 +19,8 @@ class SearchFlow:
             data = self.api_client.fetch_data('search_endpoint', params={'query': query})
             logger.info(f"Data fetched for query: {query}")
 
-            # Process data as needed
-            processed_data = self.process_data(data)
+            # Process data
+            processed_data = self.data_processor.process(data)
 
             # Save processed data to database
             self.data_store.save_to_db(processed_data)
@@ -31,10 +34,3 @@ class SearchFlow:
             logger.error(f"Error in search_flow: {e}")
             raise
 
-    def process_data(self, data):
-        """Process raw data into structured format"""
-        # Implement your data processing logic here
-        return {
-            'processed': True,
-            'original_data': data
-        }
