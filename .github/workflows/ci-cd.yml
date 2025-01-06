@@ -74,6 +74,10 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
+    - name: Set up Docker Buildx
+      id: buildx
+      uses: docker/setup-buildx-action@v2
+    
     - name: Set up Docker with retries
       id: setup-docker
       uses: nick-fields/retry@v3.0.0
@@ -261,7 +265,8 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
-    - name: Set up Docker
+    - name: Set up Docker Buildx
+      id: buildx
       uses: docker/setup-buildx-action@v2
       
     - name: Create Docker networks and volumes
