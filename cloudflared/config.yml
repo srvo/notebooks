@@ -6,6 +6,6 @@ ingress:
     service: https://app.ec1c.com/jupyter
   - hostname: dagster.ec1c.com
     service: https://app.ec1c.com/dagster
-  - hostname: searxng.ec1c.com
+  - hostname: searxng.ec1c.com/
     service: https://app.ec1c.com/searxng
   - service: http_status:404
