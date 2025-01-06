@@ -23,7 +23,9 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:8888"]
+      test: |
+        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost:8888/api/status && \
+        ps aux | grep -q "[j]upyter-lab"'
       interval: 30s
       timeout: 10s
       retries: 3
@@ -57,7 +59,9 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:3000"]
+      test: |
+        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost:3000/health && \
+        ps aux | grep -q "[d]agster"'
       interval: 30s
       timeout: 10s
       retries: 3
@@ -88,7 +92,9 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost:8889"]
+      test: |
+        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost:8889/status && \
+        ps aux | grep -q "[u]wsgi"'
       interval: 30s
       timeout: 10s
       retries: 3
@@ -118,7 +124,9 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "cloudflared", "tunnel", "info"]
+      test: |
+        CMD bash -c 'cloudflared tunnel info && \
+        ps aux | grep -q "[c]loudflared.*tunnel.*run"'
       interval: 60s
       timeout: 10s
       retries: 3
@@ -151,7 +159,10 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "wget", "--no-verbose", "--tries=1", "--spider", "http://localhost/health"]
+      test: |
+        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost/health && \
+        nginx -t && \
+        ps aux | grep -q "[n]ginx: master process"'
       interval: 30s
       timeout: 10s
       retries: 3
@@ -183,10 +194,13 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "aws", "s3", "ls"]
+      test: |
+        CMD bash -c 'aws s3 ls && \
+        aws sts get-caller-identity'
       interval: 60s
       timeout: 10s
       retries: 3
+      start_period: 30s
 
   backup:
     image: ubuntu:latest
@@ -219,10 +233,14 @@ services:
     networks:
       - my_network
     healthcheck:
-      test: ["CMD", "aws", "s3", "ls"]
+      test: |
+        CMD bash -c 'aws s3 ls && \
+        aws sts get-caller-identity && \
+        test -w /tmp'
       interval: 60s
       timeout: 10s
       retries: 3
+      start_period: 30s
 
 networks:
   my_network:
