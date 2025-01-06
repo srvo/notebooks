@@ -84,14 +84,14 @@ services:
       - JUPYTER_ALLOW_ROOT=yes
       - GRANT_SUDO=yes
     command: >
-      sh -c '
+      sh -c "
         pip install jupyter_ai mlcopilot dagstermill jupyterlab-git jupyterlab-code-formatter &&
         start-notebook.sh
         --NotebookApp.allow_root=yes
         --NotebookApp.ip='0.0.0.0'
         --NotebookApp.notebook_dir='/home/jovyan/work'
         --NotebookApp.token='${JUPYTER_TOKEN}'
-      '
+      "
     networks:
       - traefik_network
     healthcheck:
@@ -129,7 +129,7 @@ services:
       - DAGSTER_PG_DB=${DAGSTER_PG_DB:-dagster}
     command: >
       bash -c '
-        pip install dagster dagster-webserver dagster-postgres &&
+        pip install dagster dagster-webserver dagster-postgres psycopg2-binary &&
         mkdir -p /opt/dagster/dagster_home /opt/dagster/app &&
         dagster-webserver -h 0.0.0.0 -p 3000
       '
@@ -292,10 +292,7 @@ services:
     networks:
       - traefik_network
     healthcheck:
-      test: |
-        CMD-SHELL
-        aws s3 --endpoint-url ${AWS_ENDPOINT_URL} ls && \
-        test -w /tmp
+      test: ["CMD", "aws", "s3", "--endpoint-url", "${AWS_ENDPOINT_URL}", "ls"]
       interval: 60s
       timeout: 10s
       retries: 3

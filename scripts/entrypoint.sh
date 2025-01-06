@@ -34,14 +34,25 @@ while ! docker info >/dev/null 2>&1; do
 done
 
 # Create required directories if they don't exist
-mkdir -p /app/nginx/certs
-mkdir -p /app/letsencrypt
-mkdir -p /app/vw-data
+mkdir -p /app/nginx/certs || { echo "Failed to create nginx certs directory"; exit 1; }
+mkdir -p /app/letsencrypt || { echo "Failed to create letsencrypt directory"; exit 1; }
+mkdir -p /app/vw-data || { echo "Failed to create vw-data directory"; exit 1; }
 
 # Set correct permissions
-chown -R 1000:1000 /app/nginx
-chown -R 1000:1000 /app/letsencrypt
-chown -R 1000:1000 /app/vw-data
+chown -R 1000:1000 /app/nginx || { echo "Failed to set permissions for nginx"; exit 1; }
+chown -R 1000:1000 /app/letsencrypt || { echo "Failed to set permissions for letsencrypt"; exit 1; }
+chown -R 1000:1000 /app/vw-data || { echo "Failed to set permissions for vw-data"; exit 1; }
+
+# Validate required environment variables
+if [ -z "${JUPYTER_TOKEN}" ]; then
+  echo "JUPYTER_TOKEN environment variable is required"
+  exit 1
+fi
+
+if [ -z "${CF_TUNNEL_TOKEN}" ]; then
+  echo "CF_TUNNEL_TOKEN environment variable is required"
+  exit 1
+fi
 
 # Start core services
 echo "Starting core services..."
