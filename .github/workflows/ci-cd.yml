@@ -12,7 +12,7 @@ on:
 
 jobs:
   verify-secrets:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: actions/checkout@v3
     
@@ -70,7 +70,7 @@ jobs:
         
   validate-configs:
     needs: verify-secrets
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     steps:
     - uses: actions/checkout@v3
     
@@ -91,7 +91,7 @@ jobs:
         docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro traefik:v2.10 traefik validate --check || (echo "Error: Traefik configuration validation failed"; exit 1)
 
   test-containers:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     needs: validate-configs
     steps:
     - uses: actions/checkout@v3
@@ -167,7 +167,7 @@ jobs:
   deploy:
     if: github.ref == 'refs/heads/main'
     needs: test-containers
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     environment: production
     steps:
     - uses: actions/checkout@v3
