@@ -49,27 +49,64 @@ This repository contains a secure Docker-based infrastructure setup with Nginx r
 ### Fail2ban
 - `fail2ban/jail.d/custom.conf`: Ban rules and configuration
 
-## Setup Instructions
+## Deployment Instructions
 
-1. **Prerequisites**
+### Prerequisites
+1. Install required packages:
    ```bash
-   # Install required packages
-   apt update
-   apt install -y docker.io docker-compose nginx apache2-utils
+   sudo apt update
+   sudo apt install -y docker.io docker-compose nginx apache2-utils
    ```
 
-2. **SSL Certificates**
+2. Configure Docker permissions:
+   ```bash
+   sudo usermod -aG docker $USER
+   newgrp docker
+   ```
+
+### Deployment Order
+Services must be started in this specific order:
+
+1. **Core Services**
+   ```bash
+   docker-compose up -d jupyter dagster searxng
+   ```
+
+2. **Reverse Proxy**
+   ```bash
+   docker-compose up -d reverse_proxy
+   ```
+
+3. **Cloudflare Tunnel**
+   ```bash
+   docker-compose up -d cloudflared
+   ```
+
+4. **Security Services**
+   ```bash
+   docker-compose -f docker-compose.fail2ban.yml up -d
+   ```
+
+5. **Data Services**
+   ```bash
+   docker-compose up -d s3_client backup
+   ```
+
+### Configuration Steps
+
+1. **SSL Certificates**
    - Place your SSL certificates in `nginx/certs/`:
      - `fullchain.pem`
      - `privkey.pem`
 
-3. **Basic Authentication**
+2. **Authentication**
    ```bash
    # Generate .htpasswd file
-   htpasswd -c ./nginx/.htpasswd your-username
+   htpasswd -c ./nginx/.htpasswd sloane@ethicic.com
+   # When prompted, enter: order-of-the-first-state
    ```
 
-4. **Environment Variables**
+3. **Environment Variables**
    ```bash
    # Copy example .env file
    cp .env.example .env
@@ -77,17 +114,51 @@ This repository contains a secure Docker-based infrastructure setup with Nginx r
    nano .env
    ```
 
-5. **Cloudflare Setup**
+4. **Cloudflare Setup**
    - Create a Cloudflare Tunnel
    - Update `cloudflared/config.yml` with your tunnel ID
    - Place tunnel credentials in `cloudflared/credentials.json`
 
-6. **Start Services**
+### Verification Steps
+
+1. Check service status:
    ```bash
-   # Start all services
+   docker-compose ps
+   ```
+
+2. Verify API endpoints:
+   ```bash
+   curl -I https://app.ethicic.com/api/health
+   curl -I https://app.ethicic.com/api/jupyter/status
+   curl -I https://app.ethicic.com/api/dagster/status
+   ```
+
+3. Check fail2ban status:
+   ```bash
+   docker exec fail2ban fail2ban-client status
+   ```
+
+4. Verify Cloudflare tunnel:
+   ```bash
+   docker logs cloudflared
+   ```
+
+### Maintenance
+
+1. **Service Updates**
+   ```bash
+   docker-compose pull
    docker-compose up -d
-   # Start fail2ban
-   docker-compose -f docker-compose.fail2ban.yml up -d
+   ```
+
+2. **Log Rotation**
+   ```bash
+   docker-compose exec reverse_proxy logrotate -f /etc/logrotate.d/nginx
+   ```
+
+3. **Backup Verification**
+   ```bash
+   docker-compose exec backup aws s3 ls s3://ethicic-backups/
    ```
 
 ## Security Best Practices
