@@ -1,6 +1,34 @@
 #!/bin/bash
 set -e
 
+# Create test log directory
+mkdir -p /app/test-logs || { echo "Failed to create test log directory"; exit 1; }
+
+# Add test function with retry logic
+test_service() {
+    local service=$1
+    local endpoint=$2
+    local log_file="/app/test-logs/${service}_test.log"
+    local max_attempts=5
+    local attempt=1
+    local delay=5
+
+    echo "Testing $service at $endpoint..."
+    echo "Test started at $(date)" > $log_file
+    while [ $attempt -le $max_attempts ]; do
+        if curl -f $endpoint >> $log_file 2>&1; then
+            echo "$service test passed" | tee -a $log_file
+            return 0
+        fi
+        echo "Attempt $attempt/$max_attempts: $service test failed, retrying in $delay seconds..." | tee -a $log_file
+        sleep $delay
+        attempt=$((attempt + 1))
+        delay=$((delay * 2))
+    done
+    echo "$service test failed after $max_attempts attempts" | tee -a $log_file
+    return 1
+}
+
 # Function to wait for a service to be healthy
 wait_for_health() {
     local service=$1
@@ -20,6 +48,14 @@ wait_for_health() {
     echo "$service failed to become healthy after $max_attempts attempts"
     return 1
 }
+
+# Add service tests
+test_service "traefik" "http://localhost:8080/ping"
+test_service "jupyter" "http://localhost:8888/api/status"
+test_service "dagster" "http://localhost:3000/health"
+test_service "searxng" "http://localhost:8889/status"
+test_service "vaultwarden" "http://localhost:80/alive"
+test_service "whoami" "http://localhost:80"
 
 # Start Docker service if not running
 if ! systemctl is-active --quiet docker; then
