@@ -43,21 +43,25 @@ chown -R 1000:1000 /app/nginx || { echo "Failed to set permissions for nginx"; e
 chown -R 1000:1000 /app/letsencrypt || { echo "Failed to set permissions for letsencrypt"; exit 1; }
 chown -R 1000:1000 /app/vw-data || { echo "Failed to set permissions for vw-data"; exit 1; }
 
+# Set correct permissions
+chown -R 1000:1000 /app/nginx || { echo "Failed to set permissions for nginx"; exit 1; }
+chown -R 1000:1000 /app/letsencrypt || { echo "Failed to set permissions for letsencrypt"; exit 1; }
+chown -R 1000:1000 /app/vw-data || { echo "Failed to set permissions for vw-data"; exit 1; }
+
 # Validate required environment variables
-if [ -z "${JUPYTER_TOKEN}" ]; then
-  echo "JUPYTER_TOKEN environment variable is required"
-  exit 1
-fi
+required_vars=(
+  "JUPYTER_TOKEN"
+  "CF_TUNNEL_TOKEN"
+  "HETZNER_S3_ACCESS_KEY"
+  "HETZNER_S3_SECRET_KEY"
+)
 
-if [ -z "${CF_TUNNEL_TOKEN}" ]; then
-  echo "CF_TUNNEL_TOKEN environment variable is required"
-  exit 1
-fi
-
-if [ -z "${HETZNER_S3_ACCESS_KEY}" ] || [ -z "${HETZNER_S3_SECRET_KEY}" ]; then
-  echo "HETZNER_S3_ACCESS_KEY and HETZNER_S3_SECRET_KEY environment variables are required"
-  exit 1
-fi
+for var in "${required_vars[@]}"; do
+  if [ -z "${!var}" ]; then
+    echo "ERROR: Environment variable $var is required"
+    exit 1
+  fi
+done
 
 # Function to restart services with error handling
 restart_service() {
