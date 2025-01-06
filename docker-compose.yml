@@ -45,6 +45,48 @@ services:
     networks:
       - traefik_network
 
+  jupyter:
+    image: jupyter/datascience-notebook:latest
+    container_name: jupyter
+    restart: unless-stopped
+    user: "1000:1000"
+    deploy:
+      resources:
+        limits:
+          memory: ${JUPYTER_MEMORY_LIMIT:-0}  # 0 means no limit
+          cpus: ${JUPYTER_CPU_LIMIT:-0}      # 0 means all cores
+    ulimits:
+      memlock: -1    # Unlimited locked memory
+      nofile:        # Maximum number of open files
+        soft: 65535
+        hard: 65535
+    ports:
+      - "8888:8888"
+    volumes:
+      - jupyter_notebooks:/home/jovyan/work
+      - jupyter_config:/home/jovyan/.jupyter
+    environment:
+      - JUPYTER_TOKEN
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_ALLOW_ROOT=yes
+      - GRANT_SUDO=yes
+    command: >
+      start-notebook.sh
+      --NotebookApp.allow_root=yes
+      --NotebookApp.ip='0.0.0.0'
+      --NotebookApp.notebook_dir='/home/jovyan/work'
+      --NotebookApp.token='${JUPYTER_TOKEN}'
+    networks:
+      - my_network
+    healthcheck:
+      test: |
+        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost:8888/api/status && \
+        ps aux | grep -q "[j]upyter-lab"'
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 30s
+
   dagster:
     image: dagster/dagster:latest
     container_name: dagster
@@ -53,14 +95,21 @@ services:
     deploy:
       resources:
         limits:
-          cpus: '1.0'
-          memory: 512M
+          memory: ${DAGSTER_MEMORY_LIMIT:-0}  # 0 means no limit
+          cpus: ${DAGSTER_CPU_LIMIT:-0}      # 0 means all cores
+    ulimits:
+      memlock: -1    # Unlimited locked memory
+      nofile:        # Maximum number of open files
+        soft: 65535
+        hard: 65535
     ports:
       - "3000:3000"
     volumes:
       - dagster_data:/opt/dagster/dagster_home
     environment:
-      - DAGSTER_HOME
+      - DAGSTER_HOME=/opt/dagster/dagster_home
+      - DAGSTER_MAX_WORKERS=${DAGSTER_MAX_WORKERS:--1}
+      - DAGSTER_COMPUTE_LOG_LEVEL=${DAGSTER_COMPUTE_LOG_LEVEL:-DEBUG}
     depends_on:
       jupyter:
         condition: service_healthy
