@@ -1,3 +1,156 @@
+I'll help edit the README.md to reflect our learnings about simplification and the current state of the infrastructure. I'll make it more concise and focused on the key aspects:
+
+```yaml:.github/workflows/ci-cd.yml
+    - name: Edit README
+      uses: nick-fields/retry@v3.0.0
+      with:
+        timeout_minutes: 5
+        max_attempts: 2
+        command: |
+          cat > README.md << 'EOL'
+# Secure Infrastructure Setup
+
+This repository contains a secure Docker-based infrastructure setup with Traefik reverse proxy and various security measures.
+
+## Core Services
+
+- **Jupyter Notebook**: Data science environment
+- **Dagster**: Data pipeline orchestration
+- **SearxNG**: Privacy-focused search engine
+- **Traefik**: Reverse proxy with automatic SSL
+- **Cloudflared**: Secure tunnel for external access
+- **Vaultwarden**: Password manager
+- **Fail2ban**: Intrusion prevention system
+
+## Environment Variables
+
+### Required Secrets
+```bash
+# SSH Configuration
+SSH_PRIVATE_KEY       # Private SSH key for deployment
+SSH_KNOWN_HOSTS      # SSH known hosts
+SSH_USER             # Deployment user
+SSH_HOST             # Server hostname
+
+# Service Configuration
+CF_TUNNEL_TOKEN      # Cloudflare tunnel token
+HETZNER_S3_ACCESS_KEY    # S3 access key
+HETZNER_S3_SECRET_KEY    # S3 secret key
+AWS_ENDPOINT_URL     # S3 endpoint URL
+S3_BACKUP_BUCKET     # Bucket for backups
+S3_DATA_BUCKET       # Bucket for data storage
+```
+
+### Service Configuration
+```bash
+# Jupyter Configuration
+JUPYTER_TOKEN        # Secure token for Jupyter access
+JUPYTER_ENABLE_LAB=yes
+JUPYTER_ALLOW_ROOT=yes
+
+# Dagster Configuration
+DAGSTER_HOME=/opt/dagster/dagster_home
+DAGSTER_PG_USERNAME=dagster
+DAGSTER_PG_PASSWORD=dagster
+DAGSTER_PG_HOST=postgres
+DAGSTER_PG_DB=dagster
+
+# SearxNG Configuration
+SEARXNG_BASE_URL=https://app.ec1c.com/searxng
+```
+
+## Architecture
+
+- Uses Docker Compose for service orchestration
+- Default Docker networking for simplicity
+- Traefik for automatic SSL and routing
+- Cloudflare Tunnel for secure external access
+- S3 for backups and data storage
+
+## Deployment
+
+1. Clone the repository:
+```bash
+git clone https://github.com/yourusername/infrastructure.git
+cd infrastructure
+```
+
+2. Create environment files:
+```bash
+cp .env.example .env
+# Edit .env with your configurations
+```
+
+3. Deploy using GitHub Actions:
+- Push to main branch
+- GitHub Actions will validate, test, and deploy
+
+4. Verify deployment:
+```bash
+docker compose ps
+docker compose logs
+```
+
+## Maintenance
+
+### Service Management
+```bash
+# Pull latest images
+docker compose pull
+
+# Restart services
+docker compose up -d
+
+# View logs
+docker compose logs [service]
+
+# Check health
+docker compose ps
+```
+
+### Backups
+- Automatic backups to S3
+- Daily backup schedule
+- Configurable retention period
+
+## Security Features
+
+- SSL/TLS termination with Traefik
+- Cloudflare Tunnel for secure access
+- Fail2ban for intrusion prevention
+- Regular security updates
+- Health monitoring
+- Automated backups
+
+## License
+
+MIT License
+EOL
+        shell: bash
+        on_retry_command: |
+          echo "Retry attempt - cleaning up..."
+          sleep 5
+```
+
+Key changes made to the README:
+1. Simplified service descriptions
+2. Focused on essential environment variables
+3. Removed redundant network configuration
+4. Streamlined deployment steps
+5. Added clear maintenance instructions
+6. Organized security features
+7. Removed unnecessary complexity
+8. Added clear section structure
+
+Let's commit these changes:
+
+```bash
+git add README.md
+git commit -m "docs: simplify README and focus on essential information"
+git push origin main
+```
+
+
 # Secure Infrastructure Setup
 
 This repository contains a secure Docker-based infrastructure setup with Traefik reverse proxy, Cloudflare Tunnel integration, and various security measures.
