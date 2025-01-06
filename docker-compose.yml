@@ -1,41 +1,39 @@
 version: '3.8'
 
 services:
-  jupyter:
-    image: jupyter/datascience-notebook:latest
-    container_name: jupyter
+  traefik:
+    image: traefik:v2.10
+    container_name: traefik
     restart: unless-stopped
-    user: "1000:1000"
-    deploy:
-      resources:
-        limits:
-          cpus: '1.0'
-          memory: 512M
+    command:
+      - --api.insecure=true
+      - --providers.docker=true
+      - --providers.docker.exposedbydefault=false
+      - --entrypoints.web.address=:80
+      - --entrypoints.websecure.address=:443
+      - --entrypoints.web.http.redirections.entrypoint.to=websecure
+      - --entrypoints.web.http.redirections.entrypoint.scheme=https
+      - --certificatesresolvers.letsencrypt.acme.email=sloane@ec1c.com
+      - --certificatesresolvers.letsencrypt.acme.storage=/letsencrypt/acme.json
+      - --certificatesresolvers.letsencrypt.acme.httpchallenge=true
+      - --certificatesresolvers.letsencrypt.acme.httpchallenge.entrypoint=web
     ports:
-      - "8888:8888"
+      - "80:80"
+      - "443:443"
     volumes:
-      - jupyter_notebooks:/home/jovyan/work
-      - jupyter_config:/home/jovyan/.jupyter
-    environment:
-      - JUPYTER_TOKEN
-      - JUPYTER_ENABLE_LAB=yes
-    command: jupyter lab --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+      - ./letsencrypt:/letsencrypt
+      - ./nginx/.htpasswd:/etc/traefik/.htpasswd
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.api.rule=Host(`traefik.ec1c.com`)"
+      - "traefik.http.routers.api.service=api@internal"
+      - "traefik.http.routers.api.entrypoints=websecure"
+      - "traefik.http.routers.api.tls=true"
+      - "traefik.http.routers.api.middlewares=auth"
+      - "traefik.http.middlewares.auth.basicauth.usersfile=/etc/traefik/.htpasswd"
     networks:
-      - my_network
-    healthcheck:
-      test: |
-        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost:8888/api/status && \
-        ps aux | grep -q "[j]upyter-lab"'
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 30s
-    logging:
-      driver: "awslogs"
-      options:
-        awslogs-region: "${AWS_DEFAULT_REGION:-us-east-1}"
-        awslogs-group: "/docker/production"
-        awslogs-stream: "app-logs"
+      - traefik_network
 
   dagster:
     image: dagster/dagster:latest
@@ -110,69 +108,46 @@ services:
     image: cloudflare/cloudflared:latest
     container_name: cloudflared
     restart: unless-stopped
-    user: "1000:1000"
-    deploy:
-      resources:
-        limits:
-          cpus: '0.5'
-          memory: 256M
-    volumes:
-      - ./cloudflared:/etc/cloudflared:ro
+    command: tunnel run
     environment:
-      - TUNNEL_TOKEN
-    command: tunnel --no-autoupdate run --config /etc/cloudflared/config.yml
-    networks:
-      - my_network
-    healthcheck:
-      test: |
-        CMD bash -c 'cloudflared tunnel info && \
-        ps aux | grep -q "[c]loudflared.*tunnel.*run"'
-      interval: 60s
-      timeout: 10s
-      retries: 3
-      start_period: 30s
-
-  reverse_proxy:
-    image: nginx:latest
-    container_name: reverse_proxy
-    restart: unless-stopped
-    user: "nginx"
-    deploy:
-      resources:
-        limits:
-          cpus: '1.0'
-          memory: 512M
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - ./nginx/conf.d:/etc/nginx/conf.d:ro
-      - ./nginx/certs:/etc/nginx/certs:ro
-      - ./nginx/.htpasswd:/etc/nginx/.htpasswd:ro
+      - TUNNEL_TOKEN=${CF_TUNNEL_TOKEN}
     depends_on:
-      jupyter:
-        condition: service_healthy
-      dagster:
-        condition: service_healthy
-      searxng:
-        condition: service_healthy
+      - traefik
     networks:
-      - my_network
-    healthcheck:
-      test: |
-        CMD bash -c 'wget --no-verbose --tries=1 --spider http://localhost/health && \
-        nginx -t && \
-        ps aux | grep -q "[n]ginx: master process"'
-      interval: 30s
-      timeout: 10s
-      retries: 3
-      start_period: 30s
-    logging:
-      driver: "awslogs"
-      options:
-        awslogs-region: "${AWS_DEFAULT_REGION:-us-east-1}"
-        awslogs-group: "/docker/nginx"
-        awslogs-stream: "nginx"
+      - traefik_network
+
+  whoami:
+    image: traefik/whoami:v1.10
+    container_name: whoami
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.whoami.rule=Host(`whoami.ec1c.com`)"
+      - "traefik.http.routers.whoami.entrypoints=websecure"
+      - "traefik.http.routers.whoami.tls=true"
+      - "traefik.http.routers.whoami.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.whoami.middlewares=auth"
+    depends_on:
+      - traefik
+    networks:
+      - traefik_network
+
+  vaultwarden:
+    image: vaultwarden/server:1.32.5-alpine
+    container_name: vaultwarden
+    restart: unless-stopped
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.vw.rule=Host(`vw.ec1c.com`)"
+      - "traefik.http.routers.vw.entrypoints=websecure"
+      - "traefik.http.routers.vw.tls=true"
+      - "traefik.http.routers.vw.tls.certresolver=letsencrypt"
+      - "traefik.http.routers.vw.middlewares=auth"
+    volumes:
+      - ./vw-data/:/data/
+    depends_on:
+      - traefik
+    networks:
+      - traefik_network
 
   s3_client:
     image: amazon/aws-cli
@@ -243,7 +218,7 @@ services:
       start_period: 30s
 
 networks:
-  my_network:
+  traefik_network:
     driver: bridge
     ipam:
       driver: default
@@ -251,13 +226,7 @@ networks:
         - subnet: 172.20.0.0/16
 
 volumes:
-  jupyter_notebooks:
+  vw-data:
     driver: local
-  jupyter_config:
-    driver: local
-  dagster_data:
-    driver: local
-  searxng_config:
-    driver: local
-  data:
+  letsencrypt:
     driver: local
