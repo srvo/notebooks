@@ -6,16 +6,39 @@ from logger import setup_logger
 
 logger = setup_logger('example_workflow', 'logs/example_workflow.log')
 
-# Define tasks for each phase
 def fetch_data(query: str):
+    """
+    Fetch data from the API.
+
+    Args:
+        query (str): The search query.
+
+    Returns:
+        Dict: The fetched data.
+    """
     api_client = APIClient()
     return api_client.fetch_data('search_endpoint', params={'query': query})
 
 def process_data(data):
+    """
+    Process raw data into a structured format.
+
+    Args:
+        data (Dict): The raw data to process.
+
+    Returns:
+        Dict: The processed data.
+    """
     processor = DataProcessor()
     return processor.process(data)
 
 def save_data(processed_data):
+    """
+    Save processed data to the database and back it up to S3.
+
+    Args:
+        processed_data (Dict): The processed data to save.
+    """
     data_store = DataStore()
     data_store.save_to_db(processed_data)
     data_store.backup_to_s3('data/research.db')
