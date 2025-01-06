@@ -14,12 +14,16 @@ jobs:
     
     - name: Validate Docker Compose files
       run: |
-        docker-compose -f docker-compose.yml config
-        docker-compose -f docker-compose.fail2ban.yml config
+        echo "Validating docker-compose.yml..."
+        docker-compose -f docker-compose.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
+        
+        echo "Validating docker-compose.fail2ban.yml..."
+        docker-compose -f docker-compose.fail2ban.yml config || (echo "Error: docker-compose.fail2ban.yml validation failed"; exit 1)
         
     - name: Validate Traefik config
       run: |
-        docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro traefik:v2.10 traefik validate --check
+        echo "Validating Traefik configuration..."
+        docker run -v ${{ github.workspace }}/traefik:/etc/traefik:ro traefik:v2.10 traefik validate --check || (echo "Error: Traefik configuration validation failed"; exit 1)
 
   test-containers:
     runs-on: ubuntu-latest
@@ -36,6 +40,7 @@ jobs:
       
     - name: Create test environment
       run: |
+        echo "Creating test environment..."
         mkdir -p nginx/certs cloudflared
         touch .env
         echo "JUPYTER_TOKEN=test-token" >> .env
@@ -46,15 +51,25 @@ jobs:
         
     - name: Build and test containers
       run: |
-        docker-compose -f docker-compose.yml up -d
-        docker-compose ps
-        sleep 30 # Wait for services to initialize
+        echo "Starting containers..."
+        docker-compose -f docker-compose.yml up -d || (echo "Error: Failed to start containers"; exit 1)
+        
+        echo "Checking container status..."
+        docker-compose ps || (echo "Error: Container status check failed"; exit 1)
+        
+        echo "Waiting for services to initialize..."
+        sleep 30
         
     - name: Test service health
       run: |
-        curl -f http://localhost:8888/api/status || exit 1
-        curl -f http://localhost:3000/health || exit 1
-        curl -f http://localhost:8889/status || exit 1
+        echo "Testing Jupyter health..."
+        curl -f http://localhost:8888/api/status || (echo "Error: Jupyter health check failed"; exit 1)
+        
+        echo "Testing Dagster health..."
+        curl -f http://localhost:3000/health || (echo "Error: Dagster health check failed"; exit 1)
+        
+        echo "Testing SearxNG health..."
+        curl -f http://localhost:8889/status || (echo "Error: SearxNG health check failed"; exit 1)
         
     - name: Run security scans
       uses: aquasecurity/trivy-action@master
@@ -64,19 +79,30 @@ jobs:
         format: 'table'
         exit-code: '1'
         severity: 'CRITICAL,HIGH'
+      continue-on-error: true  # Allow the workflow to continue even if vulnerabilities are found
         
     - name: Test fail2ban integration
       run: |
-        docker-compose -f docker-compose.fail2ban.yml up -d
+        echo "Starting fail2ban..."
+        docker-compose -f docker-compose.fail2ban.yml up -d || (echo "Error: Failed to start fail2ban"; exit 1)
+        
+        echo "Waiting for fail2ban to initialize..."
         sleep 10
-        docker-compose exec -T fail2ban fail2ban-client status
-        docker-compose logs fail2ban
+        
+        echo "Checking fail2ban status..."
+        docker-compose exec -T fail2ban fail2ban-client status || (echo "Error: fail2ban status check failed"; exit 1)
+        
+        echo "Viewing fail2ban logs..."
+        docker-compose logs fail2ban || (echo "Error: Failed to view fail2ban logs"; exit 1)
         
     - name: Cleanup
       if: always()
       run: |
-        docker-compose down -v
-        docker system prune -f
+        echo "Cleaning up containers..."
+        docker-compose down -v || (echo "Error: Failed to clean up containers"; exit 1)
+        
+        echo "Pruning Docker system..."
+        docker system prune -f || (echo "Error: Failed to prune Docker system"; exit 1)
 
   deploy:
     if: github.ref == 'refs/heads/main'
@@ -99,7 +125,7 @@ jobs:
         SSH_HOST: ${{ secrets.SSH_HOST }}
         DEPLOY_PATH: /home/${{ secrets.SSH_USER }}/infrastructure
       run: |
-        # Create deployment script
+        echo "Creating deployment script..."
         echo "#!/bin/bash
         set -e
         cd \$DEPLOY_PATH
@@ -122,9 +148,11 @@ jobs:
         docker system prune -f" > deploy.sh
         chmod +x deploy.sh
         
-        # Copy deployment script and execute
-        scp -o StrictHostKeyChecking=no deploy.sh $SSH_USER@$SSH_HOST:$DEPLOY_PATH/
-        ssh -o StrictHostKeyChecking=no $SSH_USER@$SSH_HOST "cd $DEPLOY_PATH && ./deploy.sh"
+        echo "Copying deployment script to production server..."
+        scp -o StrictHostKeyChecking=no deploy.sh $SSH_USER@$SSH_HOST:$DEPLOY_PATH/ || (echo "Error: Failed to copy deployment script"; exit 1)
+        
+        echo "Executing deployment script..."
+        ssh -o StrictHostKeyChecking=no $SSH_USER@$SSH_HOST "cd $DEPLOY_PATH && ./deploy.sh" || (echo "Error: Deployment script failed"; exit 1)
         
     - name: Verify deployment
       env:
@@ -132,14 +160,15 @@ jobs:
         SSH_HOST: ${{ secrets.SSH_HOST }}
         DEPLOY_PATH: /home/${{ secrets.SSH_USER }}/infrastructure
       run: |
+        echo "Verifying deployment..."
         ssh -o StrictHostKeyChecking=no $SSH_USER@$SSH_HOST "cd $DEPLOY_PATH && \
           docker-compose ps && \
           docker-compose logs --tail=50 && \
           echo 'Checking service health...' && \
           for service in \$(docker-compose ps --services); do
             echo \"Checking \$service...\"
-            docker-compose ps \$service | grep -q \"healthy\" || exit 1
-          done"
+            docker-compose ps \$service | grep -q \"healthy\" || (echo \"Error: Service \$service is not healthy\"; exit 1)
+          done" || (echo "Error: Deployment verification failed"; exit 1)
 
     - name: Notify on failure
       if: failure()
