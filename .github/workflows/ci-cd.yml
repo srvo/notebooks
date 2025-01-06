@@ -2,6 +2,7 @@ name: Infrastructure CI/CD
 
 permissions:
   contents: read
+  actions: read
 
 on:
   push:
