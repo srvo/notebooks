@@ -88,7 +88,7 @@ services:
     volumes:
       - searxng_config:/etc/searxng
     environment:
-      - SEARXNG_BASE_URL
+      - SEARXNG_BASE_URL=https://app.ec1c.com/searxng
     networks:
       - my_network
     healthcheck:
