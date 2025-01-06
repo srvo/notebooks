@@ -399,7 +399,7 @@ jobs:
         command: |
           echo "Starting containers..."
           # Pull images explicitly with retry
-          for image in jupyter/datascience-notebook:latest dagster/dagster-webserver:latest traefik:v2.10 searxng/searxng:latest; do
+          for image in jupyter/datascience-notebook:latest python:3.10-slim traefik:v2.10 searxng/searxng:latest; do
             echo "Pulling $image..."
             docker pull $image || (echo "Failed to pull $image, retrying..." && sleep 5 && docker pull $image)
           done

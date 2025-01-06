@@ -105,7 +105,7 @@ services:
         condition: service_healthy
 
   dagster:
-    image: dagster/dagster-webserver:latest
+    image: python:3.10-slim
     container_name: dagster
     restart: unless-stopped
     user: "1000:1000"
@@ -127,6 +127,12 @@ services:
       - DAGSTER_PG_PASSWORD=${DAGSTER_PG_PASSWORD:-dagster}
       - DAGSTER_PG_HOST=${DAGSTER_PG_HOST:-postgres}
       - DAGSTER_PG_DB=${DAGSTER_PG_DB:-dagster}
+    command: >
+      bash -c '
+        pip install dagster dagster-webserver dagster-postgres &&
+        mkdir -p /opt/dagster/dagster_home /opt/dagster/app &&
+        dagster-webserver -h 0.0.0.0 -p 3000
+      '
     healthcheck:
       test: ["CMD", "curl", "-f", "http://localhost:3000/health"]
       interval: 30s
