@@ -59,7 +59,7 @@ services:
       - traefik_network
 
   jupyter:
-    image: jupyter/datascience-notebook:latest
+    image: jupyter/datascience-notebook:2024-01-15
     container_name: jupyter
     restart: unless-stopped
     user: "1000:1000"
