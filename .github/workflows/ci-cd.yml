@@ -116,6 +116,30 @@ jobs:
         echo "Error: Docker setup verification failed after $max_retries attempts"
         exit 1
     
+    - name: Verify Docker network connectivity
+      run: |
+        echo "Testing Docker network connectivity..."
+        
+        # Create a test container
+        docker run --rm --network host alpine ping -c 4 8.8.8.8 || \
+          (echo "Error: Failed to ping external network"; exit 1)
+        
+        # Test DNS resolution
+        docker run --rm alpine ping -c 4 google.com || \
+          (echo "Error: Failed to resolve DNS"; exit 1)
+        
+        # Test container-to-container communication
+        docker network create test_network || true
+        docker run -d --name test_container1 --network test_network alpine sleep 300
+        docker run --rm --network test_network alpine ping -c 4 test_container1 || \
+          (echo "Error: Failed container-to-container communication"; exit 1)
+        
+        # Cleanup
+        docker stop test_container1
+        docker network rm test_network
+        
+        echo "Docker network connectivity verified successfully"
+    
     - name: Create Docker networks and volumes
       run: |
         echo "Creating required Docker networks..."
