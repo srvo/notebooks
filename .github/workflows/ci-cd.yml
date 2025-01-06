@@ -77,6 +77,12 @@ jobs:
     - name: Set up Docker
       uses: docker/setup-buildx-action@v2
     
+    - name: Create Docker networks
+      run: |
+        echo "Creating required Docker networks..."
+        docker network create proxy || true
+        docker network create my_network || true
+    
     - name: Validate Docker Compose files
       env:
         HETZNER_S3_ACCESS_KEY: ${{ secrets.HETZNER_S3_ACCESS_KEY }}
@@ -107,9 +113,6 @@ jobs:
         S3_DATA_BUCKET=${S3_DATA_BUCKET}
         EOL
         
-        # Create default network
-        docker network create my_network || true
-        
         echo "Validating docker-compose.yml..."
         docker compose -f docker-compose.yml config || (echo "Error: docker-compose.yml validation failed"; exit 1)
         
@@ -129,6 +132,12 @@ jobs:
     
     - name: Set up Docker
       uses: docker/setup-buildx-action@v2
+      
+    - name: Create Docker networks
+      run: |
+        echo "Creating required Docker networks..."
+        docker network create proxy || true
+        docker network create my_network || true
       
     - name: Create test environment
       env:
