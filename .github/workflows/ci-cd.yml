@@ -16,37 +16,55 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     
-    - name: Install GitHub CLI
+    - name: Verify required secrets
       run: |
-        sudo apt-get update
-        sudo apt-get install -y gh
-        gh auth login --with-token <<< "${{ secrets.GITHUB_TOKEN }}"
-    
-    - name: List and verify GitHub secrets
-      run: |
-        echo "Listing GitHub secrets..."
-        gh secret list --json name --jq '.[].name' || (echo "Error: Failed to list GitHub secrets"; exit 1)
-        
         echo "Verifying required secrets..."
-        REQUIRED_SECRETS=(
-          "CF_TUNNEL_TOKEN"
-          "AWS_ACCESS_KEY_ID"
-          "AWS_SECRET_ACCESS_KEY"
-          "AWS_DEFAULT_REGION"
-          "SSH_PRIVATE_KEY"
-          "SSH_KNOWN_HOSTS"
-          "SSH_USER"
-          "SSH_HOST"
-        )
+        missing_secrets=0
         
-        for secret in "${REQUIRED_SECRETS[@]}"; do
-          if ! gh secret list --json name --jq '.[].name' | grep -q "^${secret}$"; then
-            echo "Error: Required secret '${secret}' is missing in GitHub secrets"
-            exit 1
-          fi
-        done
+        # Check CF_TUNNEL_TOKEN
+        if [ -z "${{ secrets.CF_TUNNEL_TOKEN }}" ]; then
+          echo "Error: Required secret 'CF_TUNNEL_TOKEN' is not set"
+          missing_secrets=1
+        fi
         
-        echo "All required secrets are present in GitHub secrets"
+        # Check AWS credentials
+        if [ -z "${{ secrets.AWS_ACCESS_KEY_ID }}" ]; then
+          echo "Error: Required secret 'AWS_ACCESS_KEY_ID' is not set"
+          missing_secrets=1
+        fi
+        if [ -z "${{ secrets.AWS_SECRET_ACCESS_KEY }}" ]; then
+          echo "Error: Required secret 'AWS_SECRET_ACCESS_KEY' is not set"
+          missing_secrets=1
+        fi
+        if [ -z "${{ secrets.AWS_DEFAULT_REGION }}" ]; then
+          echo "Error: Required secret 'AWS_DEFAULT_REGION' is not set"
+          missing_secrets=1
+        fi
+        
+        # Check SSH credentials
+        if [ -z "${{ secrets.SSH_PRIVATE_KEY }}" ]; then
+          echo "Error: Required secret 'SSH_PRIVATE_KEY' is not set"
+          missing_secrets=1
+        fi
+        if [ -z "${{ secrets.SSH_KNOWN_HOSTS }}" ]; then
+          echo "Error: Required secret 'SSH_KNOWN_HOSTS' is not set"
+          missing_secrets=1
+        fi
+        if [ -z "${{ secrets.SSH_USER }}" ]; then
+          echo "Error: Required secret 'SSH_USER' is not set"
+          missing_secrets=1
+        fi
+        if [ -z "${{ secrets.SSH_HOST }}" ]; then
+          echo "Error: Required secret 'SSH_HOST' is not set"
+          missing_secrets=1
+        fi
+        
+        if [ $missing_secrets -ne 0 ]; then
+          echo "Error: One or more required secrets are missing"
+          exit 1
+        fi
+        
+        echo "All required secrets are present"
         
   validate-configs:
     needs: verify-secrets
