@@ -117,6 +117,17 @@ services:
       - searxng
     networks:
       - my_network
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:80"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+    logging:
+      driver: "awslogs"
+      options:
+        awslogs-region: "your-region"
+        awslogs-group: "/docker/nginx"
+        awslogs-stream: "nginx"
 
   s3_client:
     image: amazon/aws-cli
