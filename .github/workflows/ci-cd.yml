@@ -79,6 +79,12 @@ jobs:
         docker-compose exec -T fail2ban fail2ban-client status
         # Check logs
         docker-compose logs fail2ban
+        
+    - name: Cleanup
+      if: always()
+      run: |
+        docker-compose down -v
+        docker system prune -f
 
   deploy:
     if: github.ref == 'refs/heads/main'
