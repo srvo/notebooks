@@ -4,6 +4,12 @@ services:
   jupyter:
     image: jupyter/datascience-notebook:latest
     container_name: jupyter
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     ports:
       - "8888:8888"
     volumes:
@@ -30,6 +36,12 @@ services:
   dagster:
     image: dagster/dagster:latest
     container_name: dagster
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     ports:
       - "3000:3000"
     volumes:
@@ -91,6 +103,12 @@ services:
   reverse_proxy:
     image: nginx:latest
     container_name: reverse_proxy
+    restart: unless-stopped
+    deploy:
+      resources:
+        limits:
+          cpus: '1.0'
+          memory: 512M
     ports:
       - "80:80"
       - "443:443"
